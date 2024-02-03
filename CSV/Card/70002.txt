@@ -1,6 +1,6 @@
 default
 @初期設定
-    &カード名,師匠
+    &カード名,Master
     &カード画像,F1_Shisyo.png
     &シルエット画像,F1_Silhouette.png
 
