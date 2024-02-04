@@ -22,57 +22,57 @@ default
     if,$$手つなぎドレイン女の子,==,0
     {
         話者,自分,true,1
-        説明,闘技場のすみでちょこんと座っている女の子が僕の方をじーっと見ている。
-        説明,気になってこちらも見返すと、僕に向かって手招きをしてきた。僕は彼女に近づいてみることにした。
+        説明,I noticed a small girl sitting quietly and staring at me at the side of the arena.
+        説明,When I returned her gaze out of curiousity, she beckoned me over. I decided to go and see what she has to say.
         話者,自分,true,1
-        セリフ,ねーねー、おにいさんってすごく強いマスターさんだよね。\nおにいさんにちょっと聞いてほしいことがあるの。
-        セリフ,あのね、あのね。わたし最近体がすごく熱くなるんだ。\nこれって病気なのかな？ほら、さわってみて・・・？
-        説明,そう言って目の前の女の子は僕に手を握らせてきた。確かに普通の子供の手よりもなんだか温かいような気がする。
-        説明,だがそれだけではないような、なにか触っているだけで心地よくなるような不思議な感じがする。なんだろう、きもちいい・・・❤
+        セリフ,Hey, hey. Oniisan, you're a really strong cardmaster, right?\nThere's something I want to ask from you.
+        セリフ,You see, I've been feeling really hot recently.\nCould this be some sort of sickness? Just try how hot my body feels...
+        説明,After saying that, the girl grabbed my hand into her own. It certainly felt like her hand was warmer normal.
+        説明,However, that wasn't everything I felt. Just by holding her hand, I was feeling this strange but comfortable sensation. What could this be... It feels good❤
         フラッシュ,ピンク,
         話者,相手,
-        セリフ,（ううぅ❤なんで、体に力が入らない・・・❤）
+        セリフ,（Uuuh❤ Why... I'm feeling weak for some reason❤）
         話者,自分,
-        セリフ,・・・くすくす❤\nお兄さんもそういう顔になっちゃうんだ❤
-        セリフ,わたしのお父さんもね、わたしにさわられてるだけで、\n顔が赤くなってすごく気持ちよさそうな顔しちゃうんだよ❤
-        セリフ,お父さんは商人なんだけどね、\n最近ずっと女の子の絵のカードをぼーっと見てたの。\nわたしお父さんにかまってほしくて、そのカードを取っちゃったの。
-        セリフ,そしたらね、わたしの体がぽーっとあったかくなって、\nそれからなんだ、男の人の体をさわるとね、\nその人がわたしに夢中になっちゃうの❤
-        セリフ,お父さんもわたしのことばっかり考えてくれるようになったんだよ❤\n手をぎゅって握ってあげながら、お父さんの顔をじーって見てあげるの。\nそうしたら・・・
-        セリフ,いつもはかっこいいお父さんなのに、かわいい顔で、わたしの名前を何回も呼んでね。びくびくびくって震えて、きもちよさそうな声も出して、すごくおもしろいんだ❤
-        セリフ,おにいさんも同じだね❤\n手を握ってあげたら、すごくうっとりしちゃってる❤\nわたしに手を握ってもらえてうれしい？
-        説明,女の子はかわいらしく首をかしげて僕に尋ねる。僕はふわふわとした意識の中、なにも考えられずこくんとうなずいてしまう。
-        セリフ,ほんと？\nあはは、すごいすごい❤\nわたし、カードマスターの人もメロメロにできちゃうんだ❤
-        セリフ,ねー、おにいさん。こっち来て？\nあっちの人が少ないところで、わたしとふたりきりで遊ぼう？
-        セリフ,わたしの手、もう離したくないよね❤\nほら、おにいさんのこと向こうまで引っぱって行ってあげるね❤
-        説明,女の子は僕の手を引いて優しく物陰に連れて行こうとする。この状況に僕は・・・。
-        選択肢,ふらふらとついて行った,理性を取り戻し手を振り払った
+        セリフ,...Ehehe❤\n Oniisan, so this makes you make that kind of face too❤
+        セリフ,My father is the same. Whenever I touch him,\n he can't help making a really pleasant-looking face and blushing❤
+        セリフ,He's a merchant,\n but recently he has always been staring at his cards that have pictures of girls.\nI wanted him to pay more attention to me, so I took those cards away from him.
+        セリフ,After that, I've been feeling that my body is really hot,\n and whenever I've touched a man's body,\nthey've become crazy for me❤
+        セリフ,Even my father has started to only think about me❤\nI tried holding onto his hand while staring at his face,\n and then...
+        セリフ,My father who has always been so cool and composed started to call my name again and again with an adorable face. I found it really fun how he trembled and moaned❤
+        セリフ,Oniisan, you're the same❤\nYou're falling into a daze even when I'm only holding your hand❤\nDoes it make you happy to hold hands with me?
+        説明,The girl adorably tilted her head when she asked that. I couldn't think straight when my mind was in a haze, so I ended up nodding.
+        セリフ,Really?\nAhaha❤ This is amazing❤ Even cardmasters can't falling for my charm❤
+        セリフ,Hey, Oniisan. Why don't we go over to that corner?\nThere aren't many people there, so we can play by just the two of us❤
+        セリフ,You don't want to let go of my hand anymore, right?\nHere, I'll pull you over there❤
+        説明,The girl started to gently pull me over to a blindspot at the corner of the room. In that situation, I...
+        選択肢,Tottered after her, Shook off her hand
         if,選択肢,==,2,
         {
             SE,&&振り払いSE,
             話者,自分,true,0.5
-            セリフ,うわわっ。えー、わたしと一緒に遊びたくないの？\nあんなに気持ちよさそうな顔してたのに、\n手を離しちゃうなんて・・・。
-            セリフ,うう、お父さんだけにしか、この魔法って効果がないのかな？\nお兄さんと「イイこと」して、\nあそびたかったなー・・・。ざんねん。
-            説明,そう言いながら女の子は自分の両手を組んで、にぎにぎと見せつけてくる。さっきまで感じていた彼女の手の平の気持ちよさが思い出されて、ついまた手を握りたくなってしまう。
-            説明,しかし僕は気を強く持って女の子から離れて受付の方に戻った。ただの小さい女の子のはずだがなぜだか危険な感じがする。これ以上近づかない方がいいだろう。
+            セリフ,Uah! Eeh? Don't you want to play with me?\nTo think that you would pull back your hand even when you made that pleasant face...
+            セリフ,Uuuh... Maybe this magic doesn't work on anyone else but my father?\nOniisan, I wanted to play and do "fun things" with you... But it's regrettable.
+            説明,While saying that, the girl showily rubbed her hands together in front of you. Seeing that, you couldn't help recalling how soft and amazing her hands felt just now, which made you want to hold them again.
+            説明,However, I held my ground and pulled back from the girl back to the counter. Even when she was just a small girl, you felt a sense of danger for some reason and felt like you shouldn't approach her any further.
             $$手つなぎドレイン女の子,=,1
             イベント終了,
         }
     }else{
         話者,自分,true,1
-        セリフ,えへへ、やっぱり遊びたくなったの？\nもじもじしながらわたしのところにやってきて、\nおにいさんかわいいんだね❤
-        セリフ,ほら、さびしそうにしてるおててを、\nぎゅって握ってあげる❤\nきもちいいのでいっぱいになってねー❤
-        説明,そう言って女の子は僕の手を取り、片手をぴとっとふれさせてきた。
-        説明,触れるだけで手の平がぽわっとあたたかくなり、心地よい快感が流れ込んでくる。
+        セリフ,Ehehe❤ Oniisan, do you want to play with me after all?\nYou looked adorable when you were fidgeting while approaching me❤
+        セリフ,Here❤ Your hand is looking lonely,\n so I'll hold on to it❤\n Enjoy how good it feels❤
+        説明,After saying that, the girl took my hand to touch it.
+        説明,Just by hands with her, your palm felt warm and you could feel a pleasant sensation flowing into you.
         フラッシュ,ピンク,
         話者,相手,
-        セリフ,（ううぅ❤体に力が入らない・・・❤きもちいい・・・❤）
-        説明,うっとりしている僕を見て、女の子はにこりと笑い、さらに恋人同士がするようにぎゅっと指をからませてきた。
-        説明,指と指の間に女の子の指がすべりこみ、にぎにぎと軽い圧力を加えてくる。たったそれだけでまるで心を直接もみほぐされているように、体中が脱力してしまい、僕は夢心地にされてしまった。
+        セリフ,（Uuh❤ I'm losing the strenght in my body...❤ It feels good...❤)
+        説明,When the girl saw my dreamy state, she gave me a wide smile and, furthermore, intertwined fingers with me like a lover.
+        説明,She slid her fingers between mine and gently squeezed. Just by doing that, she made my whole body relax as if directly massaging my mind and put me into a trance.
         話者,自分,
-        セリフ,おにいさん。すごくだらしない顔してる❤\nほら、こっちに来て？\n人が少ないところで、わたしとふたりきりで遊ぼう？
-        セリフ,わたしの手、もう離したくないよね❤\nおにいさんのこと向こうまで引っぱって行ってあげるね❤
-        説明,女の子は僕の手を引いて優しく物陰に連れて行こうとする。この状況に僕は・・・。
-        選択肢,ふらふらとついて行った,ふらふらとついて行った
+        セリフ,Oniisan, you're making a really sloppy face❤\nNow, come over here❤ There aren't many people in that corner, so we can play by just the two of us❤
+        セリフ,You don't want to let go of my hand anymore, right?\nHere, I'll pull you over there❤
+        説明,The girl started to gently pull me over to a blindspot at the corner of the room. In that situation, I...
+        選択肢,Tottered after her,Tottered after her
     }
     セリフ,くす❤いいこ、いいこ❤\nこっちだよ、おにいさん❤
     フェードアウト,2,true,
@@ -354,21 +354,21 @@ default
     }
     if,$$手つなぎドレイン女の子,>=,5
     {
-        セリフ,（・・・・。\nこの先に行けば、あの女の子の家だ。）
-        選択肢,女の子の家に行く,やめておく
+        セリフ,（...\nThe house of that girl is in this direction.)
+        選択肢,Visit the girl, Turn back
         if,選択肢,==,2
         {
             イベント終了,
         }
         話者,相手,
-        セリフ,(ううっ・・・❤だめだ、会いたくてがまんできない・・・❤)
+        セリフ,(Uuh...❤ I can't stop myself. I want to see her so badly...❤)
         SE,&&ノックSE,
         SE,&&ドアSE
         背景,&&普通の寝室背景,2
         話者,自分,true,1
         画面色変化,ピンク,2
-        セリフ,おにいさん、また来てくれたんだ❤\nわたしに夢中になってくれて、うれしいな～❤
-        セリフ,きょうは、どうやってあそぼうか？\nおちんちん握ってあげてもいいし、\n手の平だけにぎって、おもらしさせちゃおかなー❤
+        セリフ,Oniisan, you came again❤\nIt makes me happy when you've become so crazy over me❤
+        セリフ,How should we play today?\nMaybe I'll hold onto your penis\nand make you leak your stuff by squeezing it with my palms❤
         フェードアウト,2
         エフェクト,&&セクシーエフェクト,(0.3,0.4)
         エフェクト,&&セクシーエフェクト,(0.35,0.4)
@@ -377,7 +377,7 @@ default
         射精,
         攻撃力加算,-500,
         話者,相手,
-        セリフ,あひ、あうぅうう❤
+        セリフ,Ah... Aaaaah❤
         エフェクト,&&セクシーエフェクト,(0.3,0.4),2
         エフェクト,&&セクシーエフェクト,(0.35,0.4),2
         エフェクト,&&セクシーエフェクト,(0.3,0.4),2
@@ -392,8 +392,8 @@ default
         ウエイト,1
         攻撃力加算,-2000,
         $$手つなぎドレイン女の子,+=,1
-        説明,その後ぼくは夜になるまで彼女に「あそんで」もらった。ズボンはべたべたになったが彼女が手を当てるだけでその精液はきれいに吸い取られてしまった。
-        説明,体中が異様なほど重く感じる、ぼくはふらふらになりながらなんとか宿屋に戻ったのだった。
+        説明,After that, I "played" with the girl until the night came. Even when I had dirtied my pants, she only needed to touch them with her hands to absorb and clean all the semen from them.
+        説明,While feeling strangely exhausted after the act, I somehow managed to totter my way back to the inn.
         主人公攻撃タイプ弱点付与,手コキ,50,
     }
     
