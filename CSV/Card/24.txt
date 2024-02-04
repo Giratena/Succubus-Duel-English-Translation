@@ -1,0 +1,4 @@
+default
+@初期設定
+    &カード名,Fighting Farmer
+    &効果テキスト,\nHis strong body that has been trained through years of farming should not be underestimated.
