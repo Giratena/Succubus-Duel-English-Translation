@@ -11,7 +11,7 @@ default
 
 
 @所持金不足
-    ショップセリフ,Yes. It seems like you don't have enough money.
+    ショップセリフ,Aww. It seems like you don't have enough money.
 
 
 @購入
