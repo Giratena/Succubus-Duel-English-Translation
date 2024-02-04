@@ -1,32 +1,7 @@
 default
 
 @入店
-    商品追加,CardPack1,
-    商品追加,CardPack2,
-    if,ランク,>=,1
-    {
-        商品追加,CardPack3,
-    }
-    if,ランク,>=,2
-    {
-        商品追加,CardPack4,
-    }
-    if,ランク,>=,2,&&,$$パトラ戦勝利,>=,1
-    {
-        商品追加,CardPack8,
-    }
-    if,ランク,>=,3
-    {
-        商品追加,CardPack5,
-    }
-    if,ランク,>=,4
-    {
-        商品追加,CardPack6
-    }
-    if,ランク,>=,4,&&,$$ネクロクエストクリア,==,1
-    {
-        商品追加,CardPack7,
-    }
+    商品一括追加,EventList/Commodity/CardPack
     ショップ話者,yh140_face.png
     ショップセリフ,いらっしゃいませー。何かお探しですか？
 
