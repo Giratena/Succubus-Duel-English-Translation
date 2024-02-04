@@ -1,5 +1,4 @@
 default
-WindowName,特別オプション,
 難易度変更,Other/Func,オプション難易度変更,
 主人公の弱点無効,Other/Func,オプション弱点無効,
 自動文字送り設定,Other/Func,オプション自動文字送り設定,
@@ -10,3 +9,4 @@ SE音量設定,Other/Func,オプションSE音量調整
 ショップで未所持カード表示,Other/Func,オプション未所持カード表示
 主人公の名前変更,Other/Func,オプション主人公の名前変更
 主人公の見た目変更,Other/Func,オプション主人公の見た目変更
+文字音の変更,Other/Func,オプション文字音変更

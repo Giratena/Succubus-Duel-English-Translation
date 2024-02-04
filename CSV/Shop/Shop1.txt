@@ -1,7 +1,7 @@
 default
 //最初の村の店
 @入店
-    商品追加,CardPack1,
+    商品一括追加,EventList/Commodity/CardPack
     ショップ話者,yh140_face.png
     ショップセリフ,いらっしゃい！何かほしいものはあるかい？
 
