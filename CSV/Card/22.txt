@@ -1,0 +1,4 @@
+default
+@初期設定
+    &カード名,Giant Machete Wielder
+    &効果テキスト,\nOnce per turn、 you may discard 2 cards from hand. Upon doing so、 deal damage equal to this monster's ATK to all monsters on the enemy's side of the field.

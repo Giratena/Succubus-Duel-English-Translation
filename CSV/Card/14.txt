@@ -1,0 +1,4 @@
+default
+@初期設定
+    &カード名,Harp Healer
+    &効果テキスト,Upon being successfully normal or special summoned、 restore 500 HP to all monsters on your side of the field.

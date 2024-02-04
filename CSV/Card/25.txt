@@ -1,0 +1,4 @@
+default
+@初期設定
+    &カード名,Spirit Bird Tamer Cubel
+    &効果テキスト,\n[1]. Upon a Wind Attribute Monster entering the field or a Spell Card/Trap Card being activated、 Deal 300 damage to a random enemy monster.

@@ -1,0 +1,4 @@
+default
+@初期設定
+    &カード名,Feather Knight
+    &効果テキスト,\nOnce per turn、 you may pay 1000 LP. Until end of turn、 this monster may directly attack your opponent.

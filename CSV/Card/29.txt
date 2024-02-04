@@ -1,0 +1,4 @@
+default
+@初期設定
+    &カード名,Skilled Assassin
+    &効果テキスト,\nOnce per turn、 you may pay 500 LP to pick one monster on the field and inflict 600 poison to it.

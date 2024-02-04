@@ -1,0 +1,4 @@
+default
+@初期設定
+    &カード名,Holy Knight
+    &効果テキスト,\nUpon end of turn、 recover 300 HP.

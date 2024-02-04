@@ -1,0 +1,4 @@
+default
+@初期設定
+    &カード名,Admiral Goode
+    &効果テキスト,\nThis card's effect can only be activated once per turn、 even if multiple copies enter the field. \n[1].If you have 4 or more Water Attribute cards in the graveyard when this card enters the field、 you may discard 1 card. If you do so、 add 2 random Water Attribute cards from your deck to your hand.
