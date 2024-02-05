@@ -23,97 +23,97 @@ default
     {
         話者,自分,true,1
         説明,I noticed a small girl sitting quietly and staring at me at the side of the arena.
-        説明,When I returned her gaze out of curiousity, she beckoned me over. I decided to go and see what she has to say.
+        説明,When I returned her gaze out of curiousity; she beckoned me over. I decided to go and see what she has to say.
         話者,自分,true,1
-        セリフ,Hey, hey. Oniisan, you're a really strong cardmaster, right?\nThere's something I want to ask from you.
-        セリフ,You see, I've been feeling really hot recently.\nCould this be some sort of sickness? Just try how hot my body feels...
-        説明,After saying that, the girl grabbed my hand into her own. It certainly felt like her hand was warmer normal.
-        説明,However, that wasn't everything I felt. Just by holding her hand, I was feeling this strange but comfortable sensation. What could this be... It feels good❤
+        セリフ,Hey; hey. Onii-san; you're a really strong cardmaster; right?\nThere's something I want to ask from you.
+        セリフ,You see; I've been feeling really hot recently.\nCould this be some sort of sickness? Just try how hot my body feels...
+        説明,After saying that; the girl grabbed my hand into her own. It certainly felt like her hand was warmer than normal.
+        説明,However; that wasn't everything I felt. Just by holding her hand; I was feeling this strange but comfortable sensation. What could this be... It feels good❤
         フラッシュ,ピンク,
         話者,相手,
-        セリフ,（Uuuh❤ Why... I'm feeling weak for some reason❤）
+        セリフ,（Uuuh❤ Why... Am I feeling weak❤）
         話者,自分,
-        セリフ,...Ehehe❤\n Oniisan, so this makes you make that kind of face too❤
-        セリフ,My father is the same. Whenever I touch him,\n he can't help making a really pleasant-looking face and blushing❤
-        セリフ,He's a merchant,\n but recently he has always been staring at his cards that have pictures of girls.\nI wanted him to pay more attention to me, so I took those cards away from him.
-        セリフ,After that, I've been feeling that my body is really hot,\n and whenever I've touched a man's body,\nthey've become crazy for me❤
-        セリフ,Even my father has started to only think about me❤\nI tried holding onto his hand while staring at his face,\n and then...
+        セリフ,...Ehehe❤\nOnii-san; so this makes you make that kind of face too❤
+        セリフ,My father is the same. Whenever I touch him;\nhe can't help making a really pleasant-looking face and blushing❤
+        セリフ,He's a merchant;\nbut recently he has always been staring at his cards that have pictures of girls.\nI wanted him to pay more attention to me; so I took those cards away from him.
+        セリフ,After that; I've been feeling that my body is really hot;\nand whenever I've touched a man's body;\nthey've become crazy for me❤
+        セリフ,Even my father has started to only think about me❤\nI tried holding onto his hand while staring at his face;\nand then...
         セリフ,My father who has always been so cool and composed started to call my name again and again with an adorable face. I found it really fun how he trembled and moaned❤
-        セリフ,Oniisan, you're the same❤\nYou're falling into a daze even when I'm only holding your hand❤\nDoes it make you happy to hold hands with me?
-        説明,The girl adorably tilted her head when she asked that. I couldn't think straight when my mind was in a haze, so I ended up nodding.
-        セリフ,Really?\nAhaha❤ This is amazing❤ Even cardmasters can't falling for my charm❤
-        セリフ,Hey, Oniisan. Why don't we go over to that corner?\nThere aren't many people there, so we can play by just the two of us❤
-        セリフ,You don't want to let go of my hand anymore, right?\nHere, I'll pull you over there❤
-        説明,The girl started to gently pull me over to a blindspot at the corner of the room. In that situation, I...
-        選択肢,Tottered after her, Shook off her hand
+        セリフ,Onii-san; you're the same❤\nYou're falling into a daze even when I'm only holding your hand❤\nDoes it make you happy to hold hands with me?
+        説明,The girl adorably tilted her head when she asked that. I couldn't think straight when my mind was in a haze; so I ended up nodding.
+        セリフ,Really?\nAhaha❤ This is amazing❤ Even cardmasters fall for my charm❤
+        セリフ,Hey; Onii-san. Why don't we go over to that corner?\nThere aren't many people there; so we can play with just the two of us❤
+        セリフ,You don't want to let go of my hand anymore; right?\nHere; I'll pull you over there❤
+        説明,The girl started to gently pull me over to a blind spot at the corner of the room. In that situation; I...
+        選択肢,Tottered after her,Shook off her hand
         if,選択肢,==,2,
         {
             SE,&&振り払いSE,
             話者,自分,true,0.5
             セリフ,Uah! Eeh? Don't you want to play with me?\nTo think that you would pull back your hand even when you made that pleasant face...
-            セリフ,Uuuh... Maybe this magic doesn't work on anyone else but my father?\nOniisan, I wanted to play and do "fun things" with you... But it's regrettable.
-            説明,While saying that, the girl showily rubbed her hands together in front of you. Seeing that, you couldn't help recalling how soft and amazing her hands felt just now, which made you want to hold them again.
-            説明,However, I held my ground and pulled back from the girl back to the counter. Even when she was just a small girl, you felt a sense of danger for some reason and felt like you shouldn't approach her any further.
+            セリフ,Uuuh... Maybe this magic doesn't work on anyone else but my father?\nOnii-san; I wanted to play and do "fun things" with you... But it's regrettable.
+            説明,While saying that; the girl rubbed her hands together in front of me. Seeing that; I couldn't help recalling how soft and amazing her hands felt just now; which made me want to hold them again.
+            説明,However; I held my ground and pulled back from the girl towards the counter. Even though she was just a small girl; I sensed danger and felt like should avoid approaching her any further.
             $$手つなぎドレイン女の子,=,1
             イベント終了,
         }
     }else{
         話者,自分,true,1
-        セリフ,Ehehe❤ Oniisan, do you want to play with me after all?\nYou looked adorable when you were fidgeting while approaching me❤
-        セリフ,Here❤ Your hand is looking lonely,\n so I'll hold on to it❤\n Enjoy how good it feels❤
-        説明,After saying that, the girl took my hand to touch it.
-        説明,Just by hands with her, your palm felt warm and you could feel a pleasant sensation flowing into you.
+        セリフ,Ehehe❤ Onii-san; do you want to play with me after all?\nYou looked adorable when you were fidgeting while approaching me❤
+        セリフ,Here❤ Your hand is looking lonely;\nso I'll hold on to it❤\nEnjoy how good it feels❤
+        説明,After saying that; the girl took my hand to touch it.
+        説明,Just by holding hands with her; my palm felt warm and I could feel a pleasant sensation flowing into myself.
         フラッシュ,ピンク,
         話者,相手,
-        セリフ,（Uuh❤ I'm losing the strenght in my body...❤ It feels good...❤)
-        説明,When the girl saw my dreamy state, she gave me a wide smile and, furthermore, intertwined fingers with me like a lover.
-        説明,She slid her fingers between mine and gently squeezed. Just by doing that, she made my whole body relax as if directly massaging my mind and put me into a trance.
+        セリフ,（Uuh❤ I'm losing the strength in my body...❤ It feels good...❤)
+        説明,When the girl saw my dreamy state; she gave me a wide smile and; furthermore; intertwined her fingers with me like a lover.
+        説明,She slid her fingers between mine and gently squeezed. That was all it took to put me in a trance; my body relaxing as if she was directly massaging my mind. 
         話者,自分,
-        セリフ,Oniisan, you're making a really sloppy face❤\nNow, come over here❤ There aren't many people in that corner, so we can play by just the two of us❤
-        セリフ,You don't want to let go of my hand anymore, right?\nHere, I'll pull you over there❤
-        説明,The girl started to gently pull me over to a blindspot at the corner of the room. In that situation, I...
+        セリフ,Onii-san; you're making a really sloppy face❤\nNow; come over here❤ There aren't many people in that corner; so we can play with just the two of us❤
+        セリフ,You don't want to let go of my hand anymore; right?\nHere; I'll pull you over there❤
+        説明,The girl started to gently pull me over to a blind spot at the corner of the room. In that situation; I...
         選択肢,Tottered after her,Tottered after her
     }
-    セリフ,くす❤いいこ、いいこ❤\nこっちだよ、おにいさん❤
+    セリフ,Ehehe❤ Yes; follow me❤\nRight over here; Onii-san❤
     フェードアウト,2,true,
     BGM,&&敗北BGM
     フェードイン,2
     画面色変化,ピンク,1
     話者,自分,true,
-    セリフ,ほら、机の下に隠れて？\nここならほかの人にないしょであそべるよ❤
-    セリフ,えへへ、なんだか二人でかくれんぼしてるみたいで\nわくわくしちゃうね❤\n鬼さんがいないから、ずっと終わらないかくれんぼだね❤
+    セリフ,Let's hide under this table❤\nHere we can play without other people noticing us❤
+    セリフ,Ehehe❤ It's a bit exciting; as if we're playing hide-and-seek together❤\nBut there isn't anyone coming to find us;\nso we can stay hidden as long as we want❤
     話者,相手プレイヤー
-    セリフ,あう、ああ・・・・❤
-    説明,僕は女の子の言葉をぼんやりした頭で聞いていた。彼女にずっと手を握られているからか、体がぽかぽかと気持ちよくて仕方がない。
-    説明,魔力のバリアも何もなしに、彼女の手を握ったのがいけなかったのだろうか。ああ・・・、だめだ思考がまとまらない・・・❤
+    セリフ,Ah... Aaah...❤
+    説明,I listened to the girl with a dreamy state of mind. I had been constantly holding her hand; which made me feel nice and warm.
+    説明,Perhaps I shouldn't be holding onto her hand without putting up a magic barrier. Aaah... No; I can't think straight...❤
     話者,自分,
-    セリフ,んもう、口からよだれが垂れてるよ？\nわたしより大きいのに恥ずかしいおにいさん❤
-    セリフ,ズボンのところもすごく大きくなってる❤\nこんなに腫れてたらズボンがきつくて痛くなっちゃうよね。\n痛くないようになでなでってしてあげるね❤
-    セリフ,片方の手はつないだまま、もう片方の手で、\nなでなで❤
+    セリフ,Geez; you're drooling. That's such a shameful thing to do when you're so much older than me; Onii-san❤
+    セリフ,And even your pants are bulging really badly❤\nIt looks looks painful with how tight it is❤\nLet me pat the pain away for you❤
+    セリフ,I'll hold on your hand with one hand; and with the other...\nPat; pat❤
     エフェクト,&&セクシーエフェクト,(0.3,0.4)
     エフェクト,&&セクシーエフェクト,(0.35,0.4)
     エフェクト,&&セクシーエフェクト,(0.3,0.4)
     エフェクト,&&セクシーエフェクト,(0.35,0.4)
     話者,相手,
-    セリフ,うあっ❤はぅうう・・・❤
+    セリフ,Uah❤Aaaah...❤
     主人公攻撃力加算,-50
-    セリフ,(なんだこれ、力が抜けて・・・❤\nううっ、きもちいい・・・❤)
+    セリフ,(What is this... I'm feeling weak...❤\nUuuh... But it feels good...❤)
     話者,自分,
-    セリフ,くすくす❤\nだらんってしちゃって、気持ちよさそうな顔❤\nおまたのところなでなでしてもらえてうれしい？
-    セリフ,手を握ってもらったりなでなでってしてもらうのがうれしいなんて、\n小さい子供みたいなおにいさんだね❤
-    セリフ,もっとなでなでってしてあげる❤\n手の平をぴとってくっつけって、\nやさしく、なで、なで❤
+    セリフ,Ehehe❤\nYou're making a sloppy face like this feels really good❤\nDoes it make you feel happy when I pat you on the groin?
+    セリフ,Onii-san; you're like a little boy\nwhen getting patted and holding hands makes you feel this happy❤
+    セリフ,I'll give you even more pats❤\nI'll use my whole palm to gently pat you❤\nThere; there❤
     エフェクト,&&セクシーエフェクト,(0.3,0.4)
     エフェクト,&&セクシーエフェクト,(0.35,0.4)
     エフェクト,&&セクシーエフェクト,(0.3,0.4)
     エフェクト,&&セクシーエフェクト,(0.35,0.4)
     話者,相手,
-    セリフ,はひぃっ❤あっ、ああっ、うぅぅ❤
+    セリフ,Aaah❤ Ah; Aaah; Uuuuh❤
     主人公攻撃力加算,-50
     話者,自分,
-    セリフ,んふふふ❤お兄さんと手をつないでいるとね、\nなんだかすっごく「おいしい」のが、\n体に流れ込んでくるの❤
-    セリフ,手をにぎってズボンをさわって、\nそれでおいしいって感じるのなんて変だよね？\nでもさわってるところから何か流れてきて、それが「おいしい」の❤
-    セリフ,お父さんよりもお兄さんの方がずっとおいしいかも❤\nなんでだろうね、分からないけど、\nもっともっとほしいな～❤ほら・・・❤
-    セリフ,早くごしごしってしてあげる❤\nこうしたらもっとおいしいのが流れてくるかな～❤
+    セリフ,Ehehe❤ When I'm holding hands with you;\nit feels like something really "delicious" is flowing into my body❤
+    セリフ,It's weird to think of holding hands and touching pants as delicious; right?\nBut something is flowing into me where I'm touching and it's "delicious"❤
+    セリフ,Onii-san; you might be more delicious than my father❤\nI wonder why that is? I don't know why; but I'm starting to want more❤
+    セリフ,I'll try patting your groin a bit faster❤\nMaybe that will make more of delicious stuff flow out❤
     エフェクト,&&セクシーエフェクト,(0.3,0.4),2
     エフェクト,&&セクシーエフェクト,(0.35,0.4),2
     エフェクト,&&セクシーエフェクト,(0.3,0.4),2
@@ -122,7 +122,7 @@ default
     エフェクト,&&セクシーエフェクト,(0.35,0.4),2
     エフェクト,&&セクシーエフェクト,(0.3,0.4),2
     エフェクト,&&セクシーエフェクト,(0.35,0.4),2
-    セリフ,なでなでなで❤なでなでなで❤\nもっともっとちょうだ～い❤
+    セリフ,Pat; pat; pat❤ Pat; pat; pat❤\nGive me a lot more of it❤
     エフェクト,&&セクシーエフェクト,(0.3,0.4),2
     エフェクト,&&セクシーエフェクト,(0.35,0.4),2
     エフェクト,&&セクシーエフェクト,(0.3,0.4),2
@@ -133,11 +133,11 @@ default
     エフェクト,&&セクシーエフェクト,(0.35,0.4),2
     主人公攻撃力加算,-100
     話者,相手,
-    セリフ,はひぃっ❤あっ、ああっ、きもちよすぎる❤\nこんな、闘技場の受付でなんてっ❤\nああ❤だめなのにっ、もうっ❤
+    セリフ,Aaaah❤ Ah; aaah❤ It feels too good❤ I can't believe I'm about to do it at the arena reception room❤ Aah❤ I shouldn't; but I can't...❤
     話者,自分,
-    セリフ,んー？なにがダメなの？\nお兄さん、全然ダメそうな顔してないよ❤
-    セリフ,わたしに手でなでなでしてもらえて、\nすごく嬉しそうな顔してる❤
-    セリフ,おちんちんをなでなですると\nたくさん「おいしい」のが流れてくるから、\nほら、もっとしちゃうよ❤
+    セリフ,Hmm? Onii-san; is this something you shouldn't do?\nAt least; it doesn't seem like that by the look of your face❤
+    セリフ,You're looking really happy when I'm patting you with my hand❤
+    セリフ,Patting your penis is making a lot of delicious stuff flow out;\nso I going to pat it even more❤\nThere❤
     エフェクト,&&セクシーエフェクト,(0.3,0.4),2
     エフェクト,&&セクシーエフェクト,(0.35,0.4),2
     エフェクト,&&セクシーエフェクト,(0.3,0.4),2
@@ -147,24 +147,24 @@ default
     エフェクト,&&セクシーエフェクト,(0.3,0.4),2
     エフェクト,&&セクシーエフェクト,(0.35,0.4),2
     話者,相手,
-    セリフ,うあ、ああっ、きもちいいっ❤はひぃっ❤❤
+    セリフ,Ah; Aaah❤ It feels so good❤ Aaaah❤
     射精,
     主人公攻撃力加算,-300
     話者,自分,
-    セリフ,きゃ、なになに？\nおちんちんがびくんってなって、ズボンが濡れちゃった。
-    セリフ,もしかしてお兄さん、気持ちよすぎてお漏らししちゃったの？\nくすくす❤大人なのに赤ちゃんみたいだね❤
-    セリフ,あれー・・・。このお漏らしなんだかべとべとしてる。\nそれに変なにおいで・・・。\nんっ、ぺろ、おいしい・・・❤
-    セリフ,あはは、わたしおかしくなっちゃったのかな。\nお兄さんの出したこれがすっごくおいしい❤\nそんなのって変だよね。でも、もっとほしい・・・❤
-    説明,女の子は射精したばかりの僕のズボンに顔を近づけ、唇をぴとっと押し付けてきた。
-    説明,唇が淡くピンク色に発光し、僕の体中をぞわぞわとした快感が走る。体中から力を吸い出されているような感覚で、あまりの気持ちよさに腰が抜けそうになってしまう。
+    セリフ,Kyah?! What happened?\nYour penis twitched and then your pants became wet.
+    セリフ,Onii-san; could it be that it felt so good that it made you pee your pants?\nEhehe❤ You're like a baby despite being a grown man❤
+    セリフ,Wait... This stuff that you leaked is kind of sticky.\nAnd it also smells weird...\nMmmh❤ Lick❤ Delicious...❤
+    セリフ,Ahaha❤ Maybe something is wrong with me?\nI'm finding the liquid that you leaked really delicious❤\nThat can't be anything but weird; right? But I'm wanting more...❤
+    説明,The girl stuck her face close to the groin part of your pants that was wet from your semen and pressed her lips to it.
+    説明,As her lips glowed in a faint pink light; pleasure overtook my body. The sensation felt as if she was sucking out my strength; which felt so amazing that my legs nearly gave in.
     フラッシュ,ピンク,
     話者,相手,
-    セリフ,はへぇ・・・❤❤
+    セリフ,Aaah...❤❤❤
     話者,自分,
-    セリフ,んふふ、すごく「おいしい」❤\nズボンの上からなのに、おもらしした分を全部吸い取れちゃった。\nこれも魔法なのかな？
-    セリフ,おにいさんもとってもきもちよさそうな顔してるね❤\nこうやって吸ってもらえるのってされる方も気持ちいいんだ❤\nおもしろーい❤
-    セリフ,あ、そろそろおうちに帰らないと。\nおにいさんはわたしとあそべて楽しかった？\nおにいさんがしてほしければまたあそんであげるからね❤
-    セリフ,おうちの場所おしえてあげるから、\nいつでも遊びに来ていいよ❤\nばいば～い❤
+    セリフ,Ehehe❤ It's really "delicious"❤\nI touched only the surface of your pants; but I managed to absorb everything leaked on the inside too\nCould this be some sort of magic?
+    セリフ,You're also making a face like you loved it; Onii-san❤\nSo it feels good when I suck out the stuff like this too❤\nThat's interesting❤
+    セリフ,Ah; I need to go back home soon.\nOnii-san; did you have fun playing with me?\nIf you would like; we could play again❤
+    セリフ,I'll teach you where my house is❤\nYou can come to play any time you want to❤\nBye bye❤
     主人公攻撃タイプ弱点付与,手コキ,50,
     $$手つなぎドレイン女の子,=,2
     画像削除,1,1
@@ -355,7 +355,7 @@ default
     if,$$手つなぎドレイン女の子,>=,5
     {
         セリフ,（...\nThe house of that girl is in this direction.)
-        選択肢,Visit the girl, Turn back
+        選択肢,Visit the girl,Turn back
         if,選択肢,==,2
         {
             イベント終了,
@@ -367,7 +367,7 @@ default
         背景,&&普通の寝室背景,2
         話者,自分,true,1
         画面色変化,ピンク,2
-        セリフ,Oniisan, you came again❤\nIt makes me happy when you've become so crazy over me❤
+        セリフ,Onii-san; you came again❤\nIt makes me happy when you've become so crazy over me❤
         セリフ,How should we play today?\nMaybe I'll hold onto your penis\nand make you leak your stuff by squeezing it with my palms❤
         フェードアウト,2
         エフェクト,&&セクシーエフェクト,(0.3,0.4)
@@ -392,8 +392,8 @@ default
         ウエイト,1
         攻撃力加算,-2000,
         $$手つなぎドレイン女の子,+=,1
-        説明,After that, I "played" with the girl until the night came. Even when I had dirtied my pants, she only needed to touch them with her hands to absorb and clean all the semen from them.
-        説明,While feeling strangely exhausted after the act, I somehow managed to totter my way back to the inn.
+        説明,After that; I "played" with the girl until the night came. Even when I had dirtied my pants; she only needed to touch them with her hands to absorb and clean all the semen from them.
+        説明,While feeling strangely exhausted after the act; I somehow managed to totter my way back to the inn.
         主人公攻撃タイプ弱点付与,手コキ,50,
     }
     
