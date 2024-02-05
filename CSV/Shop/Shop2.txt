@@ -3,16 +3,16 @@ default
 @入店
     商品一括追加,EventList/Commodity/CardPack
     ショップ話者,yh140_face.png
-    ショップセリフ,いらっしゃいませー。何かお探しですか？
+    ショップセリフ,Welcome. Looking for something?
 
 
 @商品選択
-    ショップセリフ,そのパックがほしいの？
+    ショップセリフ,Do you want that pack?
 
 
 @所持金不足
-    ショップセリフ,あら。お金が足りないみたいだね。
+    ショップセリフ,Oh. It seems like you don't have enough money.。
 
 
 @購入
-    ショップセリフ,ありがとう！まだなにか買ってく？
+    ショップセリフ,Do you still want to buy something else?
