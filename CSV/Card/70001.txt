@@ -204,11 +204,11 @@ default
     話者変更,自分
     if,乱数,==,1
     {
-        セリフ,I set a card.
+        セリフ,Card set!
     }
     if,乱数,==,2,
     {
-        セリフ,I put this card face down.
+        セリフ,I'm going to put this card face down.
     }
 
 
