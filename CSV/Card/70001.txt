@@ -53,11 +53,11 @@ default
     セリフ,I've undergone countless ordeals under her tutelage...
     セリフ,But today is finally the day I can take the exam that will let me visit other cities!
     話者変更,自分,true
-    セリフ,Alright! Very well. Let's see just how well you've learned to use your cards.
-    セリフ, You are free to head to the big city if you can beat my practice deck. You might get attacked by monsters upon leaving this village if you aren't strong enough. 
+    セリフ,Alright! Very well then. Let's see just how well you've learned to use your cards.
+    セリフ,You might get attacked by monsters upon leaving this village if you aren't strong enough. But if you can beat my practice deck; You are free to head into the big city. 
     セリフ,Show me what you can do by beating me. Here we go!
     選択肢生成,I won't lose!,I'll win no matter what!
-    セリフ,That's the spirit! Now then, let's get started!
+    セリフ,That's the spirit! Now then; let's get started!
     バトル設定,自分先攻,
     バトル設定,自分シャッフルなし
     バトル設定,マスター非攻撃,
@@ -104,9 +104,9 @@ default
     話者変更,自分
     if,使用カード.レベル,>,4,
     {
-        セリフ,I tribute summon a {使用カード}!
+        セリフ,I tribute summon {使用カード}!
     }else{
-        セリフ,I summon a {使用カード}!
+        セリフ,I summon {使用カード}!
     }       
 
     
@@ -114,7 +114,7 @@ default
     if,現在ターン,==,1,&&,$$周回数,==,0
     {
         セリフ削除,
-        情報,Tutorial 2: Normal Summoning, Players may normal summon 1 monster a turn from their hands. A monster is destroyed and sent to the Graveyard when their HP reaches 0. Monsters with a Level of 5 or more require monsters to be tributed from the field to be played. (1 monster for a Level 5-6 monster, 2 monsters for a 7+).
+        情報,Tutorial 2: Normal Summoning, Players may normal summon 1 monster each turn from their hands. A monster is destroyed and sent to the Graveyard when their HP reaches 0. Monsters with a Level of 5 or more require monsters to be tributed from the field to be played. (1 monster for a Level 5-6 monster, 2 monsters for a 7+).
         情報,Tutorial 3: Attacking, Summoned monsters can be used to attack opponents. However; the player who gets to go first in a match may not attack until their second turn.
     }        
 
@@ -124,7 +124,7 @@ default
     if,$winTutorialFinish,==,0,&&,$$周回数,==,0
     {
         セリフ削除,
-        情報,Tutorial 5: Win Conditions,A player wins when they reduce their opponent's LP to 0. However、 as long as a player has one or monster on the field they may not be attacked directly. players are unable to directly attack their opponent as long as they have one.
+        情報,Tutorial 5: Win Conditions,A player wins when they reduce their opponent's LP to 0. However; as long as a player has one or monster on the field they may not be attacked directly. players are unable to directly attack their opponent as long as they have one.
         情報,,In this game; players may attack their opponents directly. The attack power of the player is comparatively higher, so attacking aggressively is key.
         情報,,Now; make use of your cards to win the duel!
         $winTutorialFinish,=,1
@@ -223,7 +223,7 @@ default
     話者変更,自分
     if,乱数,==,1
     {
-        セリフ,My turn is over.
+        セリフ,Turn end.
     }
     if,乱数,==,2,
     {
@@ -231,7 +231,7 @@ default
     }
     if,乱数,==,3,
     {
-        セリフ,That's my turn for now. I end my turn.
+        セリフ,That's my turn for now. Turn end.
     }   
 
 
