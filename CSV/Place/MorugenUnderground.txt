@@ -16,19 +16,19 @@ Auto,前半終了アナウンス,前半終了アナウンス,$$地下通路説�
     拠点背景設定,&&ギルド地下通路背景
     BGM,&&モルゲン地下BGM
     メニュー初期化
-    メニュー追加,情報収集,Other/Func,情報収集
-    メニュー追加,デッキ編集,Other/Func,デッキ編集
-    メニュー追加,タイトルに戻る,Other/Func,タイトルに戻る
-    メニュー追加,特殊オプション,Other/Func,特殊オプション
-    メニュー追加,ロード,Other/Func,ロード
-    メニュー追加,セーブ,Other/Func,セーブ
-    メニュー追加,回想,Other/Func,再戦
+    メニュー追加,Investigate,Other/Func,Investigate
+    メニュー追加,Deck Edit,Other/Func,Deck Edit
+    メニュー追加,Quit Game,Other/Func,Exit Game
+    メニュー追加,Special Options,Other/Func,Special Options
+    メニュー追加,Load,Other/Func,Load
+    メニュー追加,Save,Other/Func,Save
+    メニュー追加,Reminisce,Other/Func,Refight
     if,$$地下通路説明完了,==,0
     {
-        メニュー追加,作戦会議,&ファイルパス,作戦会議
+        メニュー追加,作戦会議,&ファイルパス,Stratergy Meeting
     }else{
-        メニュー追加,(特殊)２周目プレイ,&ファイルパス,２周目プレイ
-        メニュー追加,(特殊)街に戻った状態にする,&ファイルパス,街に戻った状態にする
+        メニュー追加,(特殊)２周目プレイ,&ファイルパス,Second Time Play
+        メニュー追加,(特殊)街に戻った状態にする,&ファイルパス,Going back to town
     }
     メニュー生成,左
     テキストファイル再読み込み
