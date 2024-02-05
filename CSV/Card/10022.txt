@@ -58,8 +58,10 @@ default
 
 @おねだり
     話者,自分,true,
-    セリフ,Ara; I can't believe you are walking to the execution stand on your own. That certainly saves me time❤ Do you want to be [executed] by my cleavage that badly?
-    セリフ,I'll let your penis enter tne the execution hole in the front of my outfit and give you paizuri that's so intense that it'll be audible to everyone~❤ I'm going to purify your very soul with this hole~❤
+    セリフ,Ara; I can't believe you are walking to the execution stand on your own. That certainly saves me time❤
+    セリフ,Do you want to be [executed] by my cleavage that badly?
+    セリフ,I'll let your penis enter the the execution hole in the front of my outfit and give you paizuri that's so intense that it'll be audible to everyone~❤
+    セリフ,I'm going to purify your very soul with this hole~❤
     状態異常付与,自分,弱点付与スキル,
 
 @おねだり後
@@ -83,7 +85,7 @@ default
         話者変更,相手
         セリフ,Ahh... Ohhhh...            
         話者変更,自分                
-        セリフ,Ara, what is the matter. You're kneeling in front of me... Could it be that you lost the ability to resist after seeing your companions succumb to my temptation?
+        セリフ,Ara; what is the matter. You're kneeling in front of me... Could it be that you lost the ability to resist after seeing your companions succumb to my temptation?
         セリフ,Go ahead and grasp your penis. Stroke up and down with all your might~❤
         セリフ,The fellatio I gave earlier must have looked so pleasant. You look so pathetic; giving up like this and masturbating on the battlefield~❤                                        
         セリフ,There's no need to worry though. That is just how men are~❤ Sad creatures that give up against even a weaker opponent when the offer of pleasure is dangled in front of them❤
