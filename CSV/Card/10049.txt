@@ -1,11 +1,11 @@
 default
 @初期設定
-    &カード名,足コキアラクネ
+    &カード名,Footjob Arachne
     &カード画像,EU49.png
     &立ち絵射精足,EU49_thighCum.png
     &足コキ,EU49_footJob (1).png
     &足コキアニメ,EU49_footJob
-    &フレーバーテキスト,足コキが得意な小柄なアラクネ。アラクネ種にしては珍しく、下半身が蜘蛛ではなく人間の足がある。しかし、蜘蛛の名に恥じない足さばきは健在で、彼女の足に挟まれれば、まるで八本の足に責められているかのように巧みな快感に翻弄されてしまう。基本的に非力なモンスターだが、男を挑発して罠にはめ、そこを足で責めてくる。安易に攻撃しないよう、罠に警戒しながら戦わなければならない。
+    &フレーバーテキスト,Petite arachne who is skilled at footjobs. She possesses human legs instead of spider's, which is unusual to the arachne species.しかし、蜘蛛の名に恥じない足さばきは健在で、彼女の足に挟まれれば、まるで八本の足に責められているかのように巧みな快感に翻弄されてしまう。	基本的に非力なモンスターだが、男を挑発して罠にはめ、そこを足で責めてくる。安易に攻撃しないよう、罠に警戒しながら戦わなければならない。
     画像部位設定,&カード画像,bust,0.4,0.6,0.7,0.85
     画像部位設定,&カード画像,thigh,0.4,0.6,0.1,0.3
 
@@ -52,20 +52,20 @@ default
             {
                 攻撃エフェクト変更,&&セクシーエフェクト,
                 攻撃タイプ変更,ふとももコキ
-                セリフ,ねえねえ、おにいさん❤\nさっきから目がやらしいんだけど❤\nわたしの体チラチラ見ちゃってさ、こどもっぽい体がそんなに気になる？
-                セリフ,ほら、ロリコンお兄さんにご褒美だよ？\nふとももパカって開いてあげる❤\nぷっ、ガン見しちゃってるし、変態❤
-                セリフ,そんなに好きならさ、顔を近づけておいでよ。\nそばまで来たら、ぎゅって頭を挟んであげる❤\nロリコンマゾをふとももギロチンで処刑❤されたいでしょ？くすくす❤
+                セリフ,Hey; hey; Onii-san❤ You've been giving me lewd looks for a while now❤ Are you that interested in my childish body?
+                セリフ,Here; I've got a reward for you, lolicon Onii-san❤ I'll spread my thighs❤ Pfft❤ Your eyes instantly locked on my lower body; you pervert❤
+                セリフ,If you like it that much, why not bring your face closer? Come right next to my thighs; and I'll squeeze your head with them❤ A thigh guillotine; that's what masochist lolicons want; right? Ahaha❤
             }
             if,乱数,==,2
             {
-                セリフ,わたし、足で踏むのが得意なんだー❤\n貧乳になんて興味がない、とか言っている失礼なおとなを、\n足でしごいてアンアン言わせるのがいちばん楽しいの❤
-                セリフ,両足で挟んで器用に動かして、\n先っぽと竿を、ごしごし❤しゅこしゅこ❤\nお兄さんも速攻アヘらせてあげるねー❤
+                セリフ,I'm skilled at trampling men❤ Making adults, who say rude stuff like they aren't interested in my small breasts, moan with my feet is the most best❤
+                セリフ,By nimbly using of both of my feet to stroke and squeeze your tip and shaft...❤ There❤ I'll make you; too; moan in an instant; Onii-san❤
             }
             if,乱数,==,3
             {
-                セリフ,うわー、下半身ばっかりじろじろ見ててきもいんだけど❤\n知らないの？女の子の脚ってじろじろ見ちゃダメなんだよ？
-                セリフ,え？わたしが下品に股を開いているのが悪いんだって？\nぷっ、そんなに言うなら見なきゃいいだけじゃん。「お股ぱかって\nされたら僕は目がそらせませ～ん」だって。かっこわるいねー❤
-                セリフ,あはは❤バカにされているのにズボン膨らましているし❤\nおちんちんイライラしちゃったねー❤\n足で踏んであげるから、たっぷり喘いでね❤マーゾ❤
+                セリフ,Woah; it's gross how you're ogling at my lower body❤ Don't you know? You can't stare at a girl's legs like that❤
+                セリフ,Eh? It's my fault for vulgarly spreading my legs? Pfft❤ You know, you could just not look? It's pretty lame if you can't look away if a woman spread her legs in front of you❤
+                セリフ,Ahaha❤ I made fun of you but your pants started bulging❤ Your dick is pissed off❤ I'll trample it; so make sure to moan hard❤ You masochist❤
             }
         }           
     }
@@ -93,48 +93,48 @@ default
         攻撃エフェクト変更,&&セクシーエフェクト
         話者変更,自分,true
         話者,相手,
-        セリフ,ううっ…❤我慢できない…❤
+        セリフ,Uuh...❤ I can't resist...❤
         話者,自分,
-        セリフ,うわー、急にはぁはぁしだしてキモイんだけど❤\n武器を捨ててうずくまって、\nなにおちんちん触ってるわけ？
-        セリフ,戦闘中なのに、わたしの体を見ながら、\nしこしこ❤しこしこ❤\n勝手に気持ちよさそうな顔してさ❤
-        セリフ,マゾってきもーい❤くすくす❤
+        セリフ,Woah! It's gross when you start panting all of a sudden❤ Why did you put away your weapon and crouch down? What? Are you touching your dick?
+        セリフ,Even when you're in a middle of a fight; you're stroking off while staring at me❤ And even making a face like you're loving it❤
+        セリフ,You masochists are so gross❤ Ahaha❤
         話者,相手,
-        セリフ,うぐぅっ・・❤❤
+        セリフ,Uugh...❤❤
         話者,自分,
-        セリフ,ぷぷっ❤何か言い返そうとしたけど、言い返せないんだ❤\nだってきもいもんね❤
-        セリフ,えー？笑うなって？\n笑われておちんちんおっきくしてるくせに\n生意気なんだけど❤
-        セリフ,文句言っていいのはぁ、もっと強くなってからにしてよ。\nほらぁ・・・❤
+        セリフ,Pfft❤ You wanted to say something back; but you couldn't❤ You can't defy that what you're doing is gross; after all❤
+        セリフ,Eeh? You're telling me to stop laughing? You're cheeky to ask that when your dick is getting harder whenever I laugh at you❤
+        セリフ,If you've got room to complain; then put that energy into stroking your dick harder❤ Look here...❤
         画像ズーム,thigh,1.5,0
         画像フェードイン,0.5
-        セリフ,わたしのここ、\n脚をぱかって開いて見せてあげる❤
-        セリフ,腰をちょっとくねらせて、セクシーアピールだよー❤\nあん、あん、あはーん❤
+        セリフ,I'll spread my legs so that you can see my crotch❤
+        セリフ,I'll even wiggle my hips back and forth in a sexy show❤ Ah; ah; aaah❤
         状態異常付与,相手,寸止め,
         イベントダメージ,相手,自分攻撃力+633,
         イベントダメージ,相手,自分攻撃力+645,
         話者,相手,
-        セリフ,あっ、あっ、ああっ❤❤えろすぎるぅっ・・❤❤
+        セリフ,Ah; ah; aaah❤ That's way too lewd...❤❤
         話者,自分,
-        セリフ,きゃはは❤雑魚まるだし❤\nおちんちんも脳みそもよわーい❤
-        セリフ,そんなに一生懸命シコってさ、\nもしかして、わたしのおまんこに入れちゃうところ想像しちゃった？
-        セリフ,おちんちん、中に入れたら超気持ちいいよ❤\nわたしの最強おまんこで、\nみんなすぐ腰が抜けてアヘアへぇってなっちゃうの❤
-        セリフ,でもねー、おにいさんみたいな雑魚チンポ、\n入れてあげなーい❤\nだって入れる必要なんてないでしょ？
-        セリフ,ほらほらぁ、あん❤あん❤っていいながら\n腰を上下にふってあげる❤\n騎乗位のまねだよー❤
-        セリフ,自分のおちんちんがずぽずぽってはめられてるところ想像して、\n馬鹿みたいにシコっちゃえ❤\nあん、あん、あーん❤きゃははは❤
+        セリフ,Kyahaha❤ You've exposed what a small fry you are❤ Both your dick and brain are super weak❤
+        セリフ,Since you're stroking your dick like your life depends on it; are you imagining yourself banging my pussy or something?
+        セリフ,It would feel crazy good if you were to stick your dick inside me❤ My strongest pussy makes everyone moan and weak in the knees in an instant❤
+        セリフ,However; small fries like you don't get to use my pussy❤ After all; there's no need for that; right?
+        セリフ,Here❤ I'll move my hips up and down while moaning❤ Ah❤ Ah❤ I'll pretend that I'm riding your dick❤
+        セリフ,Keep stroking off yourself like an ape and imagine having your dick inside me❤ Ah; ah; aaaah❤ Kyahaha❤
         状態異常付与,相手,寸止め,
         イベントダメージ,相手,自分攻撃力+718,
         イベントダメージ,相手,自分攻撃力+724,
         話者,相手,
-        セリフ,はぐぅ❤❤ああっ、こんなのむりぃっ❤❤❤
+        セリフ,Aagh❤❤ Aaah; I can't❤ It's too much❤❤❤
         イベントダメージ,相手,自分攻撃力+779,
         画像削除
         とどめダメージ,相手,自分攻撃力*3+2523
         イベントヒール,自分,自分最大HP
         画像表示,&立ち絵射精足,1
         話者,相手,
-        セリフ,あへぇ・・・❤❤
+        セリフ,Aaaaah...❤❤
         話者変更,自分
-        セリフ,ぷっ、よわーい❤\nエッチのまねされただけで、すぐアヘって射精しちゃった❤
-        セリフ,おちんちんもっと鍛えて出直してきたら？\nあ、ロリコンのマゾおにいさんにはむりかー❤\nざこざーこ❤
+        セリフ,Pfft❤ That's so weak❤ You instantly cummed after I pretended to have sex with you❤
+        セリフ,You should try retraining your dick from the groun up❤ Ah; but I guess that's impossible for a masochist lolicon❤ You small fry❤
     }
     if,オナニー回数,>=,2
     {
@@ -192,12 +192,12 @@ default
     話者変更,自分
     if,命乞い回数,>=,1
     { 
-        セリフ,あうう、つよっ…。\n意外とやるじゃん。
-        セリフ,わたしこれ以上動けないよ。\nあん、おねがい、わたしのこと助けて❤
-        セリフ,ほら見て…。\nわたしの足❤\n指がめっちゃ器用に動くんだよ❤
-        セリフ,この足でさ、\nおにいさんのおちんちんをしこしこ～ってしたら、\nめっちゃ気持ちいいと思うなー❤
-        セリフ,おにいさんからエナジーもらって回復したいの❤\nおねがーい❤\nほら指をわきわき♪見せつけちゃう❤
-        選択肢,理性を振り絞って攻撃した,足に目を奪われてしまった
+        セリフ,Uah; so strong... I didn't expect that.
+        セリフ,I can't move anymore. Ah... Please; save me❤
+        セリフ,Look... I can still move my feet❤ Look how nimble I'm with my toes❤
+        セリフ,I bet that if I you were to let me rub your dick with my feet; it would feel crazy good❤
+        セリフ,I want you to heal me by giving me your energy; Onii-san❤ Please❤ I'll show you how I can use my toes❤
+        選択肢,Stick to your senses and attack,Contiue looking at her charming feet
         if,選択肢,==,1
         {
             命乞い失敗
@@ -206,29 +206,29 @@ default
             セリフ,きゃう！エナジーちょうだいよぉ・・・。
             イベント終了
         }
-        セリフ,あは、足に釘付けじゃん❤
-        セリフ,ぼーっとして武器を動かさないってことは、\nこうしてほしいってことだよね❤\nえいっ❤
+        セリフ,Ahaha❤ You can't take your eyes away from my feet❤
+        セリフ,Since you're standing still and not moving your weapon; it means that this is what you want; right? There❤
         画像,&足コキ
-        セリフ,わたしの足でごしごし擦って、\nエナジーいただいちゃいまーす❤\n足コキスタート～♪
+        セリフ,I'll rub your dick with my feet and help myself to your energy❤ Footjob start♪
         状態異常付与,相手,寸止め
         攻撃エフェクト変更,&&セクシーエフェクト
         アニメ,&足コキアニメ,
         ループダメージ,相手,自分攻撃力+100,
         話者,相手,
-        セリフ,あうっ❤あひぃっ❤❤
+        セリフ,Ah❤Aaah❤❤
         話者,自分,
-        セリフ,きゃは❤\n心のバリアを解いた状態でしごかれると\n気持ちいいでしょー❤
-        セリフ,わたしの器用な指で、\nおにいさんのおちんちんをがっつり捕獲してるから、\nごしごしって扱かれてたまんないよねー❤
-        セリフ,そのうえストッキングの感触が最高でしょ？\nこのストッキング、アラクネの糸で出来てるんだよ❤\n肌触りすべすべで気持ちよくない？
+        セリフ,Kyahaha❤ It feels good to get stroked while the barrier of your mind is down, right?
+        セリフ,You can't get enough of my stroking since I've got your dick tightly trapped between my nimble toes❤
+        セリフ,And on top of that; my stockings makes it feel the best, right? They are woven with arachne silk❤ They silky-soft touch feels amazing, right?
         話者変更,相手
-        セリフ,はへぇ、だめ・・・❤きもちいい❤きもちいい…❤❤
+        セリフ,Aaah; I can't...❤ It feels good❤ It feels so good...❤❤
         話者変更,自分
-        セリフ,きゃはは❤うっとりしちゃってるー❤\n背の低い女の子モンスターに足でごしごしされて、\nそんな顔しちゃうんだ❤
-        セリフ,さっきまでめっちゃ強かったのにねー❤\nあへあへになって、もうなんにもできない❤\nきもーい❤よわーい❤ざこざーこ❤
-        セリフ,くすくす❤わたしにザコって言われてチンポ反応しちゃってるよ？\nザコって言われて興奮しちゃうんだ❤\nへんたいじゃん❤くすくす❤
-        セリフ,それじゃ、足を一往復させるたびに、\nザコって言ってあげるね❤\n何回ザコって言ったときに射精するかなー❤
-        セリフ,ぎゅっておちんちん捕まえてー、\n足指でときおりカリ首をいじめながらー、\nほら、パンパンって激しくピストン❤
-        セリフ,先っぽから根元まで、ごしごしごし～❤\nざこ、ざこ、ざーこ❤
+        セリフ,Kyahaha❤ You're falling into a trance❤ You can't help making such a sloppy face when a short monster girl like strokes you off with her feet❤
+        セリフ,You looked really strong a moment ago; but now you're just panting and can't do a thing❤ You're gross❤ Weak❤ And such a small fry❤
+        セリフ,Ahaha❤ Your dick reacted when I called you a small fry❤ It turns you on to get called that❤ That's so perverted❤ Ahaha❤
+        セリフ,Then; I'll call you a small fry every time I've moved my feet up and down once❤ I wonder how many times it take before you cum?
+        セリフ,I'll toy your glans with my toes at time while moving my feet in an intense piston and tightly holding your dick between them❤
+        セリフ,I'll stroke you off from the base to all the way to the tip❤ There; there; there❤ Small fry; small fry; small fry❤
         イベントダメージ,相手,自分攻撃力*3 +1004,
         イベントダメージ,相手,自分攻撃力*3 +1117,
         画像削除
@@ -238,10 +238,10 @@ default
         イベント回復,自分,自分最大HP
         画像,&立ち絵射精足,1
         話者変更,相手
-        セリフ,あう、はへぇ・・・・❤❤
+        セリフ,Ah, aaah...❤❤
         話者変更,自分
-        セリフ,きゃはは❤おちんちんよわーい❤\n３回ザコって言っただけで射精しちゃった❤
-        セリフ,おにいさんのエナジーのおかげで、\n傷もすっかり元通りだよ❤\nエナジーありがとねー。マゾでザコのおにいさん❤
+        セリフ,Kyahaha❤ Your dick is so weak❤ I only needed to call you a small fry three times to make you cum❤
+        セリフ,All my wounds are cured with your energy❤ Thanks for giving it to me❤ You masochist and small fry Onii-san❤
     } 
 
 
@@ -262,7 +262,7 @@ default
         if,敗北攻撃タイプ,==,足コキ
         {
             画像表示,&立ち絵射精足,1
-            セリフ,あは、足でシコシコされてどぴゅどぴゅ出してる❤\nこんなのでイっちゃうなんて、\nおにいさんマゾだねー❤きゃはは❤
+            セリフ,Ahaha❤ You splurted your load when I rubbed you with my feet❤ Onii-san; you're a masochist if you cum from something like this❤ Kyahaha❤
         }
         if,敗北攻撃タイプ,==,ふとももコキ
         {
@@ -485,8 +485,8 @@ default
 
 @おねだり_街バトル
     話者,自分,true,
-    セリフ,うわー、足で踏んでくださいって頼み込んじゃうわけ？\nおにいさん、きもーい❤
-    セリフ,おちんちんに脳みそ支配されちゃって、さすが男って感じ。\nくすくす❤さっさと精液搾り取ってあげるよ❤
+    セリフ,Woah; are you seriously asking me to step on you? Onii-san; you're gross❤
+    セリフ,As expected of a man; you can't help thinking with your dick. Ahahaha❤ I'll milk your semen in a flash❤
     
 
 @おねだり後_街バトル
@@ -615,7 +615,7 @@ default
         if,敗北攻撃タイプ,==,足コキ
         {
             画像表示,&立ち絵射精足,1
-            セリフ,あは、足でシコシコされてどぴゅどぴゅ出してる❤\nこんなのでイっちゃうなんて、\nおにいさんマゾだねー❤きゃはは❤
+            セリフ,Ahaha❤ You splurted your load when I rubbed you with my feet❤ Onii-san; you're a masochist if you cum from something like this❤ Kyahaha❤
         }
         if,敗北攻撃タイプ,==,ふとももコキ
         {
