@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Life Up
 &効果テキスト,Increases player Max HP by 500 points. At the end of this turn; if there are no monsters on your field; draw 1 card.
 &ハード効果テキスト,

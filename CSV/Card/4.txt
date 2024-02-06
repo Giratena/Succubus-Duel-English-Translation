@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Book Maker
 &効果テキスト,When this card is normal summoned; pay 500 life points to add 1 random Magic card from your deck to your hand.
 &ハード効果テキスト,
