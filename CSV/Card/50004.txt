@@ -1,7 +1,7 @@
 default
 @初期化
 &カード名,Steel Trap
-&効果テキスト,Activates on an opponent's normal summon. Deals 1000 points to that monster; and cannot attack until the opponent's turn ends.
+&効果テキスト,Activates on an opponent's normal summon. The summoned monster takes 1000 points of damage and cannot attack this turn.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
