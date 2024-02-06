@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Poison Alchemist
-&効果テキスト,[1].Up to 5 times per turn upon using a [Potion] Magic card; Create 1 [{%%40269}] and add it to your hand.\n[2].Upon a monster on the opponent's side of the field being destroyed by [Poison] damage; add 1 random Magic Card from your deck to your hand.
+&効果テキスト,[1].Up to 5 times per turn when using a [Potion] Magic card; Create 1 [{%%40269}] and add it to your hand.\n[2].Whenever a monster on the opponent's side of the field is destroyed by [Poison] damage; add 1 random Magic Card from your deck to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

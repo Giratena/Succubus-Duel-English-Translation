@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Magic Researcher
-&効果テキスト,[1].Upon Normal Summoning or Special Summoning this card; increase this card's Max HP and Atk by 50 times the number of Magic Cards in your graveyard.
+&効果テキスト,[1].When you Normal Summon or Special Summon this card; increase its Max HP and Atk by 50 times the number of Magic Cards in your graveyard.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

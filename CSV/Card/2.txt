@@ -1,4 +1,4 @@
 default
 @初期設定
     &カード名,Iron Soldier
-    &効果テキスト,\nA warrior of average fighting ability. He nevers skips out on keeping his equipment maintained. 
+    &効果テキスト,A warrior of average fighting ability. He nevers skips out on keeping his equipment maintained. 

@@ -1,4 +1,4 @@
 default
 @初期設定
     &カード名,Smash Dwarf
-    &効果テキスト,\n[1]. Upon activating a [Gem] card、 increase this monster's Atk by 200.\n[2]. Upon this card being destroyed in battle and sent to the graveyard、 randomly add 1 [Gem] card from your deck to hand. 
+    &効果テキスト,\n[1]. Whenver you activate a [Gem] card、 increase this monster's Atk by 200.\n[2]. When this card is destroyed in battle and sent to the graveyard; randomly add 1 [Gem] card from your deck to hand. 

@@ -1,4 +1,4 @@
 default
 @初期設定
     &カード名,Beast Shaman
-    &効果テキスト,\nUpon successfully being normal summoned、 select one monster on your side of the field. That monster gains [Growth] (Max HP is increased by 200 at the end of your turn). 
+    &効果テキスト,When you successfully normal summon this card; select one monster on your side of the field. That monster gains [Growth] (Max HP is increased by 200 at the end of your turn). 
