@@ -1,7 +1,7 @@
 default
 @初期化
-&カード名,トラバサミ
-&効果テキスト,相手モンスターの通常召喚成功時に発動できる。そのモンスターに1000ポイントのダメージを与え、ターン終了時まで攻撃不能にする。
+&カード名,Steel Trap
+&効果テキスト,Activates on an opponent's normal summon. Deals 1000 points to that monster; and cannot attack until the opponent's turn ends.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
