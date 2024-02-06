@@ -22,7 +22,7 @@ Info,マッサージ屋の女の子,かわいい女の子,$$マッサージ屋�
     メニュー追加,Special Options,Other/Func,特殊オプション
     メニュー追加,Load,Other/Func,ロード
     メニュー追加,Save,Other/Func,セーブ
-    メニュー追加,Reminisce,Other/Func,再戦
+    メニュー追加,Rematch,Other/Func,再戦
     メニュー追加,To Next Stage,&ファイルパス,次のステージへ
     メニュー生成,左
     テキストファイル再読み込み
