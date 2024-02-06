@@ -1,4 +1,9 @@
 default
-@初期設定
-    &カード名,Demon Slayer
-    &効果テキスト,\n[1.] This card deals double combat damage to Demon type monsters and "Succubus" cards.\n2. When a Demon type monster or "Succubus" card is destroyed in battle by this card and sent to the graveyard、 draw 2 cards.  
+@初期化
+&カード名,Demon Slayer
+&効果テキスト,[1.] This card deals double combat damage to Demon type monsters and "Succubus" cards.\n2. When a Demon type monster or "Succubus" card is destroyed in battle by this card and sent to the graveyard、 draw 2 cards.  
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,
