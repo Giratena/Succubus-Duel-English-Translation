@@ -1,7 +1,7 @@
 default
 @初期化
-&カード名,ポイズンクロー
-&効果テキスト,ローグタイプのみ装備可能。\n[1].攻撃力を200ポイントアップ。戦闘時に相手に「毒」(300)を与える。
+&カード名,Poison Claw
+&効果テキスト,Equippable to Rogues.\n[1]Increases ATK by 100. Inflicts [Poison](300) to the enemy in combat.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
