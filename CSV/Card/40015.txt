@@ -2,7 +2,7 @@ default
 @初期化
 &カード名,Wind Cutter
 ウインドカッター
-&効果テキスト,Deals 200 damage to a monster. This damage is increased by 300 for each other Wind-element card on your field.
+&効果テキスト,Deals 200 damage to a monster. This damage is increased by 300 for each other Wind card on your field.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
