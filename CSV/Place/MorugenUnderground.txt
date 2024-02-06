@@ -25,10 +25,10 @@ Auto,前半終了アナウンス,前半終了アナウンス,$$地下通路説�
     メニュー追加,Reminisce,Other/Func,再戦
     if,$$地下通路説明完了,==,0
     {
-        メニュー追加,作戦会議,&ファイルパス,Stratergy Meeting
+        メニュー追加,Stratergy Meeting,&ファイルパス,作戦会議
     }else{
-        メニュー追加,(特殊)２周目プレイ,&ファイルパス,Second Time Play
-        メニュー追加,(特殊)街に戻った状態にする,&ファイルパス,Going back to town
+        メニュー追加,Second Time Play (Special),&ファイルパス,２周目プレイ
+        メニュー追加,Going back to town (Special),&ファイルパス,街に戻った状態にする
     }
     メニュー生成,左
     テキストファイル再読み込み
