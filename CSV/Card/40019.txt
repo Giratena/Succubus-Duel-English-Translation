@@ -1,7 +1,7 @@
 default
 @初期化
-&カード名,水の守り
-&効果テキスト,次の自分ターン開始時まで、このカードを使用したプレイヤーが受ける戦闘ダメージは半分になる。
+&カード名,Water Barrier
+&効果テキスト,Halves combat damage taken by the player until their next turn.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

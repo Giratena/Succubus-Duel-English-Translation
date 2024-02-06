@@ -1,7 +1,7 @@
 default
 @初期化
-&カード名,武装放棄
-&効果テキスト,LP500支払って発動する。フィールド上の表側表示の装備カードをすべて破壊する。
+&カード名,Abandon Weapons
+&効果テキスト,Pay 500LP to destroy all face-up Equipment cards on the field.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,7 +1,7 @@
 default
 @初期化
-&カード名,捜索
-&効果テキスト,自分のデッキからランダムに地属性のモンスター１体を手札に加える。
+&カード名,Tracking
+&効果テキスト,Add a random Earth-element monster from your deck to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

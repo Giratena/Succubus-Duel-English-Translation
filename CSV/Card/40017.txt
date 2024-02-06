@@ -1,7 +1,7 @@
 default
 @初期化
-&カード名,癒しの樹
-&効果テキスト,[1].自分のターン終了時に発動する。自分フィールド上のすべてのモンスターのHPを400回復させる。
+&カード名,Healing Tree
+&効果テキスト,[1]At the end of your turn, recover 400HP to all monsters on your field.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
