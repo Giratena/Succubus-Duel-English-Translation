@@ -261,8 +261,8 @@ default
 &&LoseRankPointMessage,ランクポイント{x}を失いました
 &&AddCardMessage,{A}を手に入れました
 &&RobCardMessage,{A}を1枚奪われました
-&&LevelUpMessage,レベルが{レベル}になりました\n攻撃力{x}アップ！\nHP{y}アップ！
-&&LevelDownMessage,レベルが{レベル}になりました\n攻撃力{x}ダウン、\nHP{y}ダウン
+&&LevelUpMessage,レベルが{主人公レベル}になりました\n攻撃力{x}アップ！\nHP{y}アップ！
+&&LevelDownMessage,レベルが{主人公レベル}になりました\n攻撃力{x}ダウン、\nHP{y}ダウン
 &&AddWeakMessage,主人公は{A}に対して{x}%弱くなった
 &&AddResistMessage,主人公は{A}に対して{x}%強くなった
 &&InputTextShortageMessage,文字数が多すぎます({x}文字以内)

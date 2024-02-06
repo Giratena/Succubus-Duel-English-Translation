@@ -1,4 +1,5 @@
 default
+
 @拠点初期設定
     &拠点名前,=,モルゲン宿屋
     &ファイルパス,Place/MorugenInn,
