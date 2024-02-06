@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Fire Fang Ninja
+&効果テキスト,This card's first effect may only be activated once per turn; even if you possess multiple copies of this card.\n[1]. If this card is in your hand; you make select 1 [Ninja] monster on your side of this field. Return that monster to your hand and Special Summon this card.\n[2]. Upon this card being Special Summoned; deal 700 damage to a random enemy monster.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

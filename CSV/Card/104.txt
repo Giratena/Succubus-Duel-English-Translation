@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Explorer of the Unknown
+&効果テキスト,[1]. This monster may attack the opponent player directly if there are only Level 5 or above monsters on their side of the field.\n[2]. Upon this card being successfully normal summoned on the field while there are 3 or more cards face down in your opponent's Magic/Trap zone; draw 2 cards.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

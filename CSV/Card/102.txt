@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Fire Shooter
+&効果テキスト,[1]. Select 1 monster on your opponent's side of the field; discard 1 Fire Attribute monster from your hand and inflict half the discarded monster's ATK to that opponent.\n[2]. Upon being destroyed and sent to the graveyard by the effet damage of a Fire Attribute card; draw 1 card from your deck.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

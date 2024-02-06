@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Punisher
+&効果テキスト,[1].This card's Atk is increased by the 50 times the number of cards in your deck.\n[2]Upon this card recovering HP; Add 1 [{%%40230}] to your deck.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,
