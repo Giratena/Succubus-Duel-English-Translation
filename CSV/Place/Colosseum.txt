@@ -80,7 +80,7 @@ Auto,初回イベント,初回イベント,
     拠点背景設定,&&闘技場受付背景
     BGM,&&闘技場受付BGM,
     メニュー初期化
-    メニュー追加,対戦,&ファイルパス,対戦
+    メニュー追加,Fight,&ファイルパス,対戦
     メニュー追加,Investigate,Other/Func,情報収集
     メニュー追加,Deck Edit,Other/Func,デッキ編集
     メニュー追加,Special Options,Other/Func,特殊オプション

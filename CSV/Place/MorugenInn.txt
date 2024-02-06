@@ -11,7 +11,7 @@ default
     メニュー追加,Save,Other/Func,セーブ
     メニュー追加,Reminisce,Other/Func,再戦
     メニュー追加,Special Options,Other/Func,特殊オプション
-    メニュー追加,PLayer Information,Other/Func,プレイヤー情報
+    メニュー追加,Player Information,Other/Func,プレイヤー情報
     メニュー追加,To Town,&ファイルパス,街へ戻る
     メニュー生成,右
     イベント終了
