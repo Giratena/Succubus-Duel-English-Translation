@@ -5,14 +5,14 @@ default
     拠点背景設定,&&宿屋朝背景
     BGM,&&宿屋BGM    
     メニュー初期化
-    メニュー追加,デッキ編集,Other/Func,デッキ編集
-    メニュー追加,タイトルに戻る,Other/Func,タイトルに戻る
-    メニュー追加,ロード,Other/Func,ロード
-    メニュー追加,セーブ,Other/Func,セーブ
-    メニュー追加,回想,Other/Func,再戦
-    メニュー追加,特殊オプション,Other/Func,特殊オプション
-    メニュー追加,プレイヤー情報,Other/Func,プレイヤー情報
-    メニュー追加,街へ戻る,&ファイルパス,街へ戻る
+    メニュー追加,Deck Edit,Other/Func,デッキ編集
+    メニュー追加,Quit Game,Other/Func,タイトルに戻る
+    メニュー追加,Load,Other/Func,ロード
+    メニュー追加,Save,Other/Func,セーブ
+    メニュー追加,Reminisce,Other/Func,再戦
+    メニュー追加,Special Options,Other/Func,特殊オプション
+    メニュー追加,PLayer Information,Other/Func,プレイヤー情報
+    メニュー追加,To Town,&ファイルパス,街へ戻る
     メニュー生成,右
     イベント終了
 
