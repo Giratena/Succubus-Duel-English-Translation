@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Poison Claw
 &効果テキスト,Equippable to Rogues.\n[1]Increases ATK by 100. Inflicts [Poison](300) to the enemy in combat.
 &ハード効果テキスト,

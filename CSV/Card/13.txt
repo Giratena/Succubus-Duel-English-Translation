@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Gem Miner
 &効果テキスト,On normal summon; add 2 random [Gem] cards to your hand.
 &ハード効果テキスト,

@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Irong Ring
 &効果テキスト,Equippable to any monster and the player. Reduces combat damage taken by 100.
 &ハード効果テキスト,

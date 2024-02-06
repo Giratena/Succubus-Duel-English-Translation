@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Water Barrier
 &効果テキスト,Halves combat damage taken by the player until their next turn.
 &ハード効果テキスト,
