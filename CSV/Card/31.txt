@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Sea God's Believer
 &効果テキスト,Upon this card being sent from your hand to the graveyard by a Water Attribute card、 randomly add 1 Level 5 or lower Water Attribute monster from your deck to your hand.
 &ハード効果テキスト,

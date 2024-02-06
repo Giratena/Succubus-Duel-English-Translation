@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Elder Shaman
 &効果テキスト,Once per turn; you may select 1 monster on your side of the field. That monster gains 300 Max HP. 
 &ハード効果テキスト,

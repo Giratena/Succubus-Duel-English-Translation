@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Scout
 &効果テキスト,Upon being successfully normal summoned; you may return one spell or trap card from the opponent's side of the field to their hand.
 &ハード効果テキスト,

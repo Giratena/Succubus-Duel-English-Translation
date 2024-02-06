@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Lightning
 &効果テキスト,[1]. Upon this card being normal summoned; you may discard 1 card from hand. If you do so; special summon 1 random Wind Attribute monster of Level 4 or lower onto the field. (Will not activate if no cards in your deck fit those parameters.) 
 &ハード効果テキスト,

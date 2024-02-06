@@ -1,5 +1,5 @@
 default
-@初期化
+@初期設定
 &カード名,Holy Knight
 &効果テキスト,Recovers 300 HP on the end of your turn.
 &ハード効果テキスト,
