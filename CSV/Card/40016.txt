@@ -1,0 +1,10 @@
+default
+
+&カード名,Tracking
+&効果テキスト,Add a random Earth monster from your deck to your hand.
+
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

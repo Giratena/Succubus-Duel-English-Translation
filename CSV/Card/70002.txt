@@ -1,6 +1,6 @@
 default
 @初期設定
-    &カード名,Master
+    &カード名,師匠
     &カード画像,F1_Shisyo.png
     &シルエット画像,F1_Silhouette.png
 
@@ -15,16 +15,16 @@ default
         話者変更,自分,true
         SE,&&斬るSE
         フラッシュ,白
-        セリフ,Kyahhh! Ouchie...
-        セリフ,たはぁー。強くなったわねぇ。練習デッキとはいえ、負けちゃった。
-        セリフ,しっかり修行の成果が出ているじゃない。\nオッケー、オッケー♪\nこれなら街まで安全に行けるわ。
-        セリフ,でも知っての通り、王都の向こう側は魔族の領地。\n強い魔物がうようよいるから、まだ行っちゃダメよ。
-        セリフ,そうね、とりあえずの目標は\nギルドに入ってAランクのカードマスターになること。\n魔族領に入るのはそれからにしなさい。
-        セリフ,あなたは亡くなったお父さんのように、\n強いマスターを目指している、そうでしょ？\nそれに…。
-        セリフ,妹さん、だっけ。魔族領の近くではぐれたのよね？
-        セリフ,はぐれたのはわたしのところに修行に来る前だから、\nもう8年以上前か。
-        セリフ,心配だろうけれど、\n急いで無理をしても結果は伴わないわ。\n安全に少しづつ強くなりなさい。分かった？
-        選択肢生成,わかりました。師匠！,・・・・。,
+        セリフ,Kyah！Yeowch...
+        セリフ,Whoa; you've become much stronger; haven't you? You managed to defeat me, even with that practice deck.
+        セリフ,A fine result from all that studious training no doubt.\nNow then~ Now then~♪\nYou should have no trouble being safe going into town like this.
+        セリフ,But as you know; next to the Royal Capital lies the monster grounds. It's crawling with strong monsters; so you mustn't go there.
+        セリフ,Well anyways; your goal should be to join the guild and become an A-Rank Card Master.\nThen you'll be ready to head over into monster grounds.
+        セリフ,You want to be a strong Card Master just like your father; am I right?\nAnd not only that...
+        セリフ,Your sister too. You were separated from her near the monster grounds as well; right?
+        セリフ,You lost her before you came to me for training; so it must have been at least more than 8 years ago.
+        セリフ,I know you're worried...\nBut mindlessly rushing around won't bring you results.\nStay safe; and slowly hone your abilities little by little. Understood?
+        選択肢生成,Understood; Master!,...,
         if,選択肢,==,1
         {
             セリフ,いい返事ね。よろしい。

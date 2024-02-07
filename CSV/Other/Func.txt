@@ -1,6 +1,6 @@
 default
 @情報収集
-    中央メニュー生成,情報収集,EventList/Info
+    中央メニュー生成,Investigate,EventList/Info
 
 @ショップ
     ショップ画面生成,Shop1    
@@ -9,7 +9,7 @@ default
     デッキ編集画面生成
 
 @タイトルに戻る
-    選択肢,タイトルに戻る,やっぱりやめる
+    選択肢,Quit Game,やっぱりやめる
     if,選択肢,==,1
     {
         場所移動,&&場所タイトル
@@ -19,7 +19,7 @@ default
     中央メニュー生成,シナリオ選択,EventList/Senario
 
 @特殊オプション
-    中央メニュー生成,特殊オプション,EventList/SpecialOption
+    中央メニュー生成,Special Options,EventList/SpecialOption
 
 
 @ロード
@@ -33,7 +33,7 @@ default
     ゲーム終了
 
 @再戦
-    中央メニュー生成,回想,EventList/Renoun
+    中央メニュー生成,Reminisce,EventList/Renoun
 
 
 @クエスト
@@ -42,6 +42,33 @@ default
 
 @場所移動
     中央メニュー生成,場所移動,EventList/Place
+
+@言語切り替え
+    説明,このモードは翻訳者がテストするためのモードです。まだ翻訳は実装されていません。\nThis mode is for translators to test. No translations have been implemented yet.\n此模式用于翻译测试。 尚未实施任何翻译。
+    選択肢,日本語,English,简体中文,한국어
+    if,選択肢,==,1
+    {
+        説明,言語が日本語に設定されました。
+        言語設定解除
+    }
+    if,選択肢,==,2
+    {
+        言語設定,English
+        説明,The language has been set to English.
+        説明,To translate; open the text in CSV/Language/English and write the English text next to the comma. Commas are not allowed in the text; so if you want to use commas; please use semicolons.
+    }
+    if,選択肢,==,3
+    {
+        説明,语言已设置为简体中文。
+        説明,要进行翻译，请在 CSV/Language/SimplifiedChinese 中打开文本，然后在逗号旁边写入翻译后的文本。 
+        言語設定,SimplifiedChinese
+    }
+    if,選択肢,==,4
+    {
+        説明,언어가 한국어로 설정되었습니다.
+        説明,번역하려면 CSV/언어/한국어에서 텍스트를 열고 쉼표 옆에 영어 텍스트를 입력합니다. 텍스트에는 쉼표가 허용되지 않으므로 쉼표를 사용하려면 세미콜론을 사용하세요.
+        言語設定,Korean
+    }
 
 @オプション難易度変更
     説明,難易度を変更することができます。
@@ -84,6 +111,22 @@ default
     if,選択肢,==,2
     {
         主人公弱点有効化
+    }
+
+@オプション弱点全解除
+    説明,主人公にイベントで付与された弱点をすべて解除します。
+    説明,解除された弱点は元に戻せないのでご注意ください。
+    選択肢,弱点をすべて解除する,しない
+    if,選択肢,==,1
+    {
+        アラート,本当にいいですか？
+        選択肢,はい,いいえ
+        if,選択肢,==,1
+        {
+            主人公攻撃タイプ弱点全解除
+            主人公キャラ弱点全解除
+            アラート,主人公に付与された弱点をすべてリセットしました。
+        }
     }
 
 @オプション自動文字送り設定
@@ -198,6 +241,37 @@ default
         主人公顔グラ変更,&&SelectedSprite
         アラート,主人公の見た目が決定されました。この内容はいつでも変更できます。
     }
+
+@オプション文字音変更
+    説明,文字が表示されるときの音をミュートにできます。
+    選択肢,文字音1（デフォルト）,音をなくす,
+    if,選択肢,==,1
+    {
+        文字音設定,&&文字1SE
+        説明,文字音を１に設定しました。
+    }
+    if,選択肢,==,2
+    {
+        文字音設定,
+        説明,文字音を無音に設定しました。
+    }
+    if,選択肢,==,3
+    {
+        アラート,文字音を2に設定しました。
+        文字音設定,&&文字2SE
+    }
+    if,選択肢,==,3
+    {
+        アラート,文字音を3に設定しました。
+        文字音設定,&&文字3SE
+    }
+    if,選択肢,==,4
+    {
+        アラート,文字音を4に設定しました。
+        文字音設定,&&文字4SE
+    }
+    
+@オプション回想イベント無害化
     
 
 @プレイヤー情報

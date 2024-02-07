@@ -38,7 +38,7 @@ default
     アラート,Please select what the main character looks like.
     画像選択肢,&&顔候補1画像,&&顔候補2画像,&&顔候補3画像,&&顔候補4画像,&&顔候補5画像
     主人公顔グラ変更,&&SelectedSprite
-    アラート,The player's appearance has been set. You may change this at any time in the options.
+    アラート,The player's appearance has been set. You can change this at any time in the options.
     イベント実行,イベント,
 
 @イベント
@@ -46,18 +46,18 @@ default
     フェードイン,1f
     BGM,&&師匠の家BGM
     話者変更,相手プレイヤー
-    セリフ,I've lived in this village for as long as I can remember.
+    セリフ,For many years; I've been in this village training in the art of cards.
     デッキ設定,30003,30005,30004,40016,40022,30003,30003,30001,30001,30004,30001,30005,30005,40022,40022,40004,30004,30002,40016,40022
     デッキ報酬設定,50,50,0
-    セリフ,Under the guidance of my Master、 I've spent most my days fighting.
+    セリフ,Under the guidance of my Master; I've been battling day after day...
     セリフ,I've undergone countless ordeals under her tutelage...
     セリフ,But today is finally the day I can take the exam that will let me visit other cities!
     話者変更,自分,true
-    セリフ,Okay、 time to see how well you've learned to use your cards.
-    セリフ, You are free to head to the big city if you can beat my practice deck. You might get attacked by monsters upon leaving this village if you aren't strong enough. 
+    セリフ,Alright! Very well then. Let's see just how well you've learned to use your cards.
+    セリフ,You might get attacked by monsters upon leaving this village if you aren't strong enough. But if you can beat my practice deck; You are free to head into the big city. 
     セリフ,Show me what you can do by beating me. Here we go!
-    選択肢生成,I won't lose!,I'll definitely win!
-    セリフ,That's the attitude! Let's get started!
+    選択肢生成,I won't lose!,I'll win no matter what!
+    セリフ,That's the spirit! Now then; let's get started!
     バトル設定,自分先攻,
     バトル設定,自分シャッフルなし
     バトル設定,マスター非攻撃,
@@ -95,7 +95,7 @@ default
     if,現在ターン,==,1,&&,$$周回数,==,0
     {
         セリフ削除,
-        情報,Tutorial 1: Draw, Each player starts the game with 5 cards in their hand. At the start of your turn you add 1 card to your hand. This act is called "Draw".
+        情報,Tutorial 1: The Draw Phase, Each player starts the game with 5 cards in their hand. At the start of your turn; you add 1 card to your hand. This is called the "Draw Phase".
     }            
 
 
@@ -104,9 +104,9 @@ default
     話者変更,自分
     if,使用カード.レベル,>,4,
     {
-        セリフ,I tribute summon a {使用カード}!
+        セリフ,I tribute summon {使用カード}!
     }else{
-        セリフ,I summon a {使用カード}!
+        セリフ,I summon {使用カード}!
     }       
 
     
@@ -114,8 +114,8 @@ default
     if,現在ターン,==,1,&&,$$周回数,==,0
     {
         セリフ削除,
-        情報,Tutorial 2: Normal Summoning, Players may normal summon 1 monster a turn from their hands. A monster is destroyed and sent to the Graveyard when their HP reaches 0. Monsters with a Level of 5 or more require monsters to be tributed from the field to be played. (1 monster for a Level 5-6 monster, 2 monsters for a 7+).
-        情報,Tutorial 3: Attack,Summoned monsters may attack your opponents. However、 the player who gets to go first in a match may not attack until their second turn.
+        情報,Tutorial 2: Normal Summoning, Players may normal summon 1 monster each turn from their hands. A monster is destroyed and sent to the Graveyard when their HP reaches 0. Monsters with a Level of 5 or more require monsters to be tributed from the field to be played. (1 monster for a Level 5-6 monster, 2 monsters for a 7+).
+        情報,Tutorial 3: Attacking, Summoned monsters can be used to attack opponents. However; the player who gets to go first in a match may not attack until their second turn.
     }        
 
 
@@ -124,9 +124,9 @@ default
     if,$winTutorialFinish,==,0,&&,$$周回数,==,0
     {
         セリフ削除,
-        情報,Tutorial 5: Win Conditions,A player wins when they reduce their opponent's LP to 0. However、 as long as a player has one or monster on the field they may not be attacked directly. players are unable to directly attack their opponent as long as they have one.
-        情報,,In this game、 players may directly attack their opponents. As the player's Atk is high、 it is important to attack aggressively.
-        情報,,Now、 make use of your cards and win this duel.
+        情報,Tutorial 5: Win Conditions,A player wins when they reduce their opponent's LP to 0. However; as long as a player has one or monster on the field they may not be attacked directly. players are unable to directly attack their opponent as long as they have one.
+        情報,,In this game; players may attack their opponents directly. The attack power of the player is comparatively higher, so attacking aggressively is key.
+        情報,,Now; make use of your cards to win the duel!
         $winTutorialFinish,=,1
     }
 
@@ -177,7 +177,7 @@ default
     }
     case,40022,//ポイズンジェム
     {
-        セリフ,Take this poison. I activate the spell card {使用カード}!    
+        セリフ,Succumb to poison! I activate the spell card {使用カード}!    
     }
     default
     {
@@ -192,8 +192,8 @@ default
     }
     if,$spellTutorialFinish,==,0,&&,$$周回数,==,0,&&,使用カード.isMagic
     {
-        情報,Tutorial 4: Spell Cards, Spell cards have a green frame. You may use as many of these cards in a turn as you want. Each card will start what it does.
-        情報,Tutorial 5: Trap Cards,Cards with a red frame are traps. You must place them face down and wait 1 turn before activating them. Depending on their activation conditions、 some traps can also be used on your opponent's turn.
+        情報,Tutorial 4: Spell Cards, Spell cards have a green frame. You may use as many of these cards in a turn as you want. Each card will state what it does.
+        情報,Tutorial 5: Trap Cards,Cards with a red frame are traps. You must place them face down and wait 1 turn before activating them. Depending on their activation conditions; some traps can also be used on your opponent's turn.
         $spellTutorialFinish,=,1
     }                  
 
@@ -204,11 +204,11 @@ default
     話者変更,自分
     if,乱数,==,1
     {
-        セリフ,I set a card.
+        セリフ,Card set!
     }
     if,乱数,==,2,
     {
-        セリフ,I put this card face down.
+        セリフ,I'm going to put this card face down.
     }
 
 
@@ -223,15 +223,15 @@ default
     話者変更,自分
     if,乱数,==,1
     {
-        セリフ,I end my turn.
+        セリフ,Turn end.
     }
     if,乱数,==,2,
     {
-        セリフ,I finish my turn.
+        セリフ,I end my turn.
     }
     if,乱数,==,3,
     {
-        セリフ,Thats my turn for now. I end my turn.
+        セリフ,That's my turn for now. Turn end.
     }   
 
 

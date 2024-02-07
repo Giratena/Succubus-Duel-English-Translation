@@ -5,9 +5,10 @@ default
     拠点背景設定,&&タイトル背景ロゴあり
     BGM,&&タイトルBGM
     メニュー初期化
-    メニュー追加,ニューゲーム,Other/Func,ニューゲーム
-    メニュー追加,ロード,Other/Func,ロード
-    メニュー追加,ゲーム終了,Other/Func,ゲーム終了
+    メニュー追加,New Game,Other/Func,ニューゲーム
+    メニュー追加,Load,Other/Func,ロード
+    //メニュー追加,Language/言語,Other/Func,言語切り替え
+    メニュー追加,Quit Game,Other/Func,ゲーム終了
     メニュー生成,中央下
     テキストファイル再読み込み
 

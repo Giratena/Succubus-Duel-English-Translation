@@ -84,6 +84,11 @@ default
 &&回復魔法SE,Buff 3.ogg
 &&砕けるSE,Onjin_Break.mp3
 &&武器を構えるSE,
+&&文字1SE,TypeSound_Click14.wav
+&&文字2SE,
+&&文字3SE,
+&&文字4SE,
+
 
 //背景
 &&タイトル背景,dlfanfanokyu03n.jpg
@@ -217,3 +222,54 @@ default
 &&若い男立ち絵,mikaduki (9).png
 &&屈強な男立ち絵,
 
+//システムメッセージ
+&&召喚ボタン,Summon,
+&&攻撃ボタン,Attack,
+&&発動ボタン,Activate,
+&&防御ボタン,Defend
+&&セットボタン,Set,
+&&オナニーボタン,Masturbation,
+&&おねだりボタン,Beg,
+&&デッキボタン,Deck,
+&&墓地ボタン,Graveyard
+&&カード生成ボタン,Card Generation
+&&キャンセルボタン,Cancel
+
+&&バトル終了メッセージ,Battle End!
+&&勝利メッセージ,Player Wins!!
+&&敗北メッセージ,Opponent Player Wins!!
+&&手札溢れメッセージ,The maximum number of cards in hand has been exceeded.
+&&発動確認メッセージ,Would you like to activate this card's effect?
+&&発動確認メッセージイエス,Activation Effect
+&&発動確認メッセージノー,Cancel
+&&連鎖発動確認メッセージ,Do you want to chain activate this card?
+&&カード生成回数メッセージ,The number of times this card can be generated is {x}.
+&&強制攻撃メッセージ,{A} attacks on it's own due to abnormal state!
+&&身代わりメッセージ,{A} stands in to protect {B}!
+&&ゾーン占領メッセージ,Your opponent has captured one of your monster zones!
+&&コントロール溢れメッセージ,{A}'s control changed; but was destroyed because the field was full!
+&&コントロール奪取メッセージ,{A}'s control was taken away!
+&&コントロールスワップメッセージ,The control of {A} and {B} switched!
+
+&&LoseMoneyMessage,Lost {x}G.
+&&GetMoneyMessage,Obtained {x}G.
+&&AddPlayerAtkMessage.The main character's power increased by {x} points.
+&&LosePlayerAtkMessage,The main character's power decreased by {x} points.
+&&AddEXPMessage,Obtained {x} experience points.
+&&LoseEXPMessage,Lost {x} experience points.
+&&AddRankPointMessage,Obtained {x} rank points.
+&&LoseRankPointMessage,Lost {x} rank points.
+&&AddCardMessage,Obtained {A}.
+&&RobCardMessage,Lost 1 {A}.
+&&LevelUpMessage,Level increased to {レベル}!\nAttack power up {x}!\nHP up {y}!
+&&LevelDownMessage,Level decreased to {レベル}!\nAttack power down {x}!\nHP down {y}!
+&&AddWeakMessage,Player is now {x}% weaker to {A}.
+&&AddResistMessage,Player is now {x}% more resistant to {A}.
+&&InputTextShortageMessage,Character limit reached (Must be within {x} characters)
+&&InputTextOverMessage,Not enough characters (must be at leat {x} characters)
+&&InputTextOKButton,Confirm
+&&SelectCardNothingMessage,There are no cards that can be selected.
+&&SelectCardShortageMessage,You do not have enough cards that can be selected.
+&&SelectCardMessage,Please select a card.
+&&CoinMessage1,The coin result is heads.
+&&CoinMessage2,The coin result is tails.

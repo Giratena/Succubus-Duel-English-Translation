@@ -1,4 +1,9 @@
 default
 @初期設定
-    &カード名,Fighting Farmer
-    &効果テキスト,\nHis strong body that has been trained through years of farming should not be underestimated.
+&カード名,Fighting Farmer
+&効果テキスト,
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,His strong body that has been trained through years of farming should not be underestimated.
+&エロ効果テキスト,
+&ハードエロ効果テキスト,
