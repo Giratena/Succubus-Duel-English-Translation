@@ -11,7 +11,7 @@ default
     &斬るSE,damage_koubou.mp3
     &馬SE,Uma01_Onjin.mp3
     &キスエフェクト,Kiss01
-
+    &フレーバーテキスト,A young; low rank succubus who can control slime. With her ability to turn her own body into slime; she is able to sneak into any place that has the slightest crack. Her strength isn't particularly high amongst the low rank succubi; but the infiltration and espionage opportunities her unique body afford means she has no end to how useful she is.
 
 @イベント
     デッキ設定,10005,10005,10005,10006,10006,10006,10007,10007,10008,10008,40005,40005,40006,40006,40025,40025,50012,60005,60005,
@@ -221,12 +221,21 @@ default
             ウエイト,0.3
             状態異常付与,相手プレイヤー,メロメロ
         }else{
+<<<<<<< Updated upstream
             セリフ,お兄さんのターンからですね。
             セリフ,カードを出す前に・・・。ねえ、わたしの唇見てください❤
             セリフ,さっきはキスしてあげられなくて、残念でした・・・❤
             セリフ,そばまで来てくれたら、たくさんちゅっちゅって、ついばむみたいにいっぱいキスしてあげたのに❤
             セリフ,ねえ、もしキスしてほしいなら、今からでも遅くないんですよ？
             セリフ,わたしのそばに来て、きもちいいこと、いっぱいしましょ？うふふ❤
+=======
+            セリフ,It's Onii-san's turn.
+            セリフ,Before you play anything... Come on; look at my lips❤
+            セリフ,It's sad that I couldn't kiss you earlier❤
+            セリフ,If you had only come to me I'd have kissed you sooo much❤
+            セリフ,Hey... You know; it's not too late if you wanna enjoy my kisses.
+            セリフ,Just come to me and I'll do a bunch of nice things to you; Onii-san. Ufufu❤
+>>>>>>> Stashed changes
         }
     }             
 
@@ -239,7 +248,7 @@ default
         画像,&カード画像
         if,自分,!=,先攻プレイヤー
         {
-            セリフ,わたしのターンですね、ドロー。
+            セリフ,My turn. Time to draw.
         }
     }
     通常ドロー,自分
@@ -247,9 +256,9 @@ default
     {
         if,自分,!=,先攻プレイヤー
         {
-            セリフ,うふふ❤悪くない手札です❤\nわたしのスライムデッキの力、見せてあげますね❤
+            セリフ,Ufufu❤ Not a bad hand❤ Time to show you what my slime deck can do❤
         }else{
-            セリフ,ドロー。わたしのスライムデッキの力、見せてあげますね❤
+            セリフ,I draw. I'm gonna make sure to show you how powerful my slime deck is❤
         }
         $alreadyDrawCall,=,1
     }
@@ -260,9 +269,9 @@ default
     話者変更,自分
     if,使用カード.レベル,>,4
     {
-        セリフ,{使用カード}を上級召喚です！
+        セリフ,I tribute summon {使用カード}!
     }else{
-        セリフ,{使用カード}を召喚します！
+        セリフ,I summon {使用カード}!
     }       
 
 @相手特殊召喚後
@@ -271,10 +280,10 @@ default
         if,$自滅カード復活回数,==,0
         {
             話者,使用カード,
-            セリフ,ううっ、あうう・・・❤
+            セリフ,Uhhh; ahhhh...❤
             話者,自分,
-            セリフ,あは❤せっかく復活させてもらったのに、\nさっきエナジーを出したときのこと、\nばっちり記憶に残っちゃってるみたいですね❤
-            セリフ,おちんちんがもうギンギンみたいです❤\nそんなモンスターが出てきても全然怖くありませんよ❤
+            セリフ,Aha❤ He went out of his way to resummon you; yet you can still remember how it felt to offer up your energy~❤
+            セリフ,Your dick is already hard❤ Even monsters like you aren't scary when you look like that❤
         }
         $自滅カード復活回数,+=,1
         状態異常付与,使用カード,恍惚永続,
@@ -291,11 +300,11 @@ default
     {
         if,乱数,==,1
         {
-            セリフ,魔法カード発動！{使用カード}！自分の水属性モンスターと、同じレベルの水属性モンスターを手札に加えます。                
+            セリフ,I activate my spell card {使用カード}! It lets me add 1 Water Attribute monster with the same level as one I have on the field.   
         }    
         if,乱数,==,2
         {
-            セリフ,スライムちゃん、どんどん集まってきてください。{使用カード}発動！                
+            セリフ,Slime-chans; please keep on gathering. I activate {使用カード}!                
         }    
         イベント終了
     }
@@ -305,14 +314,14 @@ default
         {
             if,乱数,==,1
             {
-                セリフ,魔法カード発動！{使用カード}！スライムの体力をパワーアップです！                
+                セリフ,I activate a spell card. {使用カード} lets me power up my slimes!               
             }
             if,乱数,==,2
             {
-                セリフ,スライムちゃんを強くしちゃいます！{使用カード}を発動！                
+                セリフ,I'm gonna make my Slime-chan stronger! I activate {使用カード}!               
             }    
         }else{
-            セリフ,さらにパワーアップ！{使用カード}をもう一枚発動します。                
+            セリフ,And now to power her up more! I activate another {使用カード}.            
         }
         イベント終了
     }
@@ -320,11 +329,11 @@ default
     {
         if,乱数,==,1
         {
-            セリフ,{使用カード}を発動！傷ついたモンスターを1500ポイント回復します！                
+            セリフ,I activate my {使用カード}! It lets me heal a wounded monster by 1500 points!                
         }    
         if,乱数,==,2
         {
-            セリフ,{使用カード}を使って回復です！              
+            セリフ,I'm going to use {使用カード} to recover my monster's HP!
         }    
         イベント終了
     }
@@ -332,32 +341,32 @@ default
     {
         if,乱数,==,1
         {
-            セリフ,スライムでからめとってあげますね。{使用カード}発動！
+            セリフ,I'll trap you with my slime! I activate my {使用カード}!
         }    
         if,乱数,==,2
         {
-            セリフ,ふふ、トラップカードを発動します。{使用カード}！
+            セリフ,Fufu; I activate my trap card. {使用カード}!
         }    
         イベント終了
     }
     case,60005,//水使いの腕輪
     {
-        セリフ,装備魔法カード発動！{使用カード}！スライムちゃんをパワーアップします。                                
+        セリフ,Time to use my equipment spell card. {使用カード}! Power up; my Slime-chan!                               
         イベント終了
     }    
     default
     {
         if,使用カード.is装備魔法
         {
-            セリフ,装備魔法カード発動！{使用カード}！                                
+            セリフ,I activate my equipment card. {使用カード}!                                
         }else{
             if,使用カード.is魔法
             {
-                セリフ,魔法カードを発動します！{使用カード}！
+                セリフ,I activate my spell card. {使用カード}!
             }
             if,使用カード.is罠
             {
-                セリフ,トラップカードを発動します！{使用カード}！                
+                セリフ,I activate my trap card. {使用カード}!                
             }
         }
     }
@@ -368,8 +377,8 @@ default
     話者変更,自分
     if,使用カード.ID,==,50012
     {
-        セリフ,相手の体にスライムがまとわりついている時に、そのスライムを動かして相手を拘束しちゃうカードなんです❤
-        セリフ,体中をスライムでぐちゅぐちゅされて、攻撃なんてぜったい無理ですよ❤ほら・・・❤                                              
+        セリフ,This card lets me use the slime covering my opponent's body to restrain them❤
+        セリフ,It'll be impossible to attack with all that slime slithering over your body❤ Hooora...❤                                              
     }
 
 
@@ -378,9 +387,9 @@ default
     話者変更,自分
     if,乱数,==,1
     {
-        セリフ,カードをセットです。
+        セリフ,I set this card.
     }else{
-        セリフ,カードを伏せます。
+        セリフ,I play this card face down.
     }
 
 
@@ -392,19 +401,19 @@ default
         乱数生成,1,4
         if,乱数,==,1
         {
-            セリフ,おっぱいでいじめてあげます❤{使用カード}で{防御カード}を攻撃！                
+            セリフ,Torment him with your boobies❤{使用カード}; attack his {防御カード}!                
         }
         if,乱数,==,2
         {
-            セリフ,上級モンスターの攻撃は強いですよ？{使用カード}で{防御カード}を攻撃！
+            セリフ,An advanced monster's attack is super strong. {使用カード}; crush his {防御カード}!
         }
         if,乱数,==,3
         {
-            セリフ,{使用カード}のおっぱいは特別気持ちいいんです。たっぷり楽しんでください❤{使用カード}で{防御カード}を攻撃！
+            セリフ,My {使用カード}'s boobs feel super good. Please enjoy them a bunch❤ {使用カード}; attack his {防御カード}!
         }
         if,乱数,==,4
         {
-            セリフ,バトルです！{使用カード}で{防御カード}を攻撃！
+            セリフ,Battle! {使用カード}; fight his {防御カード}!
         }
         イベント終了
     }
@@ -413,31 +422,31 @@ default
         乱数生成,1,4
         if,乱数,==,1
         {
-            セリフ,ちっちゃくたって強いんですよ❤{使用カード}で{防御カード}を攻撃！                
+            セリフ,She might be tiny; but she's strong❤ {使用カード}; attack his {防御カード}!                
         }
         if,乱数,==,2
         {
-            セリフ,上級モンスターの攻撃は強いですよ？{使用カード}で{防御カード}を攻撃！
+            セリフ,You do know how strong an advanced monster's attack is; right~? {使用カード}; rape his {防御カード}!
         }
         if,乱数,==,3
         {
-            セリフ,{使用カード}でいじめてあげます。{防御カード}を攻撃！
+            セリフ,I'm gonna let my {使用カード} bully you. Attack his {防御カード}!
         }
         if,乱数,==,4
         {
-            セリフ,バトルです！{使用カード}で{防御カード}を攻撃！
+            セリフ,Go on! {使用カード}; fight his {防御カード}!
         }
         イベント終了
     }
     if,使用カード.ID,!=,70003
     {
-        セリフ,バトルです！{使用カード}で{防御カード}を攻撃！
+        セリフ,Let's go! {使用カード}; attack his {防御カード}!
     }
 
 
 @守備宣言
     話者変更,自分
-    セリフ,{使用カード}を守備。
+    セリフ,{使用カード}; defend.
 
     
     
@@ -448,22 +457,22 @@ default
     {
         if,乱数,==,1
         {
-            セリフ,むぅ、なにもできませんね。ターンエンドです。
+            セリフ,Mhmm; I can't do anything. I end my turn.
         }else{
-            セリフ,ううっ、手札が悪い…。ターンエンドします。
+            セリフ,Uuhhh; my hand is so bad... I'm done for this turn.
         }   
     }else{
         if,乱数,==,1
         {
-            セリフ,ターン終了です。
+            セリフ,Your turn.
         }
         if,乱数,==,2
         {
-            セリフ,ターンエンド。
+            セリフ,I'm done.
         }
         if,乱数,==,3
         {
-            セリフ,わたしのターンはおわりです。ターンエンド。
+            セリフ,My turn is over. Your go.
         }   
     }
 
@@ -476,19 +485,19 @@ default
         立ち絵表示
         if,$alreadyOpponentEndTalk,==,0
         {
-            セリフ,あは、なにもしないんですか？気持ちよくしてほしくて無抵抗を選ぶなんて、かっこわるい❤
+            セリフ,Ahaha; you can't do anything? How uncool; choosing to skip your turn cause you wanna feel good❤
         }
         if,$alreadyOpponentEndTalk,==,1
         {
-            セリフ,ぼーっとしちゃって、このターンも何もしませんでしたね❤
-            セリフ,サキュバスに負けたいって気持ちで頭のなかいっぱいですか？ほら、投げキスしてあげます、んっちゅ❤
+            セリフ,You wasted your turn because you were spacing out~❤
+            セリフ,Is all you can think about how much you wanna lose to a succubus? Hoora; I'll blow a kiss your way. *Smooochh❤*
             エフェクト,&キスエフェクト
             状態異常付与,相手プレイヤー,魅了,
             イベントダメージ,相手プレイヤー,相手プレイヤー.HP-1
             話者変更,相手プレイヤー,
-            セリフ,はぅうう…❤あっ、ああっ…❤
+            セリフ,Haahhhh...❤ A-Ahhhhh...❤
             話者変更,自分
-            セリフ,くすくす❤あとちょっとでイっちゃいますね。
+            セリフ,Just a bit more and you'll cum.
         }
         $alreadyOpponentEndTalk,+=,1
     }else{
@@ -502,8 +511,8 @@ default
     {
         if,$alreadyInvalidAttackCall,==,0,
         {
-            セリフ,む、攻撃させてくれないんですか？               
-            セリフ,せっかくカードマスターのお兄さんのこと、気持ちよくしてあげようと思ったのに・・・❤
+            セリフ,Mhmm; you won't let me attack?             
+            セリフ,I was gonna be nice and make Onii-san feel sooo good too...❤
             $alreadyInvalidAttackCall,=,1
         }            
     }        
@@ -525,45 +534,45 @@ default
         {
             if,乱数,==,1
             {
-                セリフ,ふふ❤すっかりキスでメロメロですね❤
-                セリフ,もっと魅了を深くしてあげます。んっちゅ❤            
+                セリフ,Fufu❤ You've melted away from my kisses❤
+                セリフ,Time to charm you more. *Smooch❤*            
             }
             if,乱数,==,2
             {
-                セリフ,わたしの唇が気持ちよぎて、頭の中とろけちゃったみたいですね❤
-                セリフ,腕をダランとさせて、ちっちゃな女の子にされるがまま・・・❤くすくす❤もっともっとメロメロにしてあげます❤            
+                セリフ,My soft lips feel so good that your mind has turned to mush~❤
+                セリフ,Your arms are dangling uselessly as you let a young girl play about with you❤ Tehehe❤ Time to make you fall more for me~❤            
             }
             if,乱数,==,3
             {
                 if,相手,==,相手プレイヤー,
                 {    
-                    セリフ,サキュバスのキスを知っちゃったら、もう、戦う気力なんてわかないですよね。
-                    セリフ,わたしの唇に見とれて、仲間の声も届かないみたい❤くすくす❤
-                    セリフ,そのままでいいんですよ。射精しちゃうまで、いっぱいキスしてあげますからね・・・❤んちゅ、ちゅう❤                
+                    セリフ,Now that you know how good a succubus's lips feel; you can't find the energy to fight back anymore.
+                    セリフ,You've gotten so lost in looking at my lips that you can't hear your companions' voices anymore❤ Ahaha❤
+                    セリフ,Go ahead and stay like that. I'll keep kissing you until you cum...❤ *Smooch, kisss❤*              
                 }else{
-                    セリフ,うふふ❤ご主人様の命令より、わたしのキスの方が大事になっちゃいましたか？
-                    セリフ,反撃しなきゃいけないのに、武器、手に持ててないですよ❤体から力が抜けちゃってます。
-                    セリフ,ちっちゃな女の子に簡単に抑え込まれて、キスされるがまま・・・❤くすくす。使い魔失格ですね❤んっちゅ❤                
+                    セリフ,Ufufu❤ Are my kisses more important than your master's orders?
+                    セリフ,You know you should fight back; but you can't hold a weapon❤ Your arms don't have any strength left in them.
+                    セリフ,A young girl is easily holding you still as she kisses you❤ Tehehe; you are worthless as a summon❤ *Kiss kiss❤*               
                 }            
             }
         }else{
             if,乱数,==,1
             {
-                セリフ,わたしのキスで虜にしてあげますね❤んっちゅ❤            
+                セリフ,I'm gonna turn you into my kiss-slave❤ *Smoochhh❤*            
             }
             if,乱数,==,2
             {
-                セリフ,自分よりずっとちっちゃな女の子と、唇を合わせる気分はどうですか？
-                セリフ,大人でもなかなかしないような、やらしいディープキス❤いっぱい楽しみましょ？んーっちゅ❤                
+                セリフ,How does it feel to lock lips with a girl who is sooo much smaller than you~?
+                セリフ,Are you enjoying my deep kisses that even most adults can't match~?❤ *Smoooccchhh❤*            
             }
             if,乱数,==,3
             {
                 if,相手,==,相手プレイヤー,
                 {    
-                    セリフ,カードを使っちゃダメですよ。じっとして、メロメロになって、わたしに負けてください。
-                    セリフ,おねがいを聞いてくれるなら、ほらご褒美・・・❤んっちゅ❤                
+                    セリフ,Don't play any cards. Just stand still and let my charms defeat you.
+                    セリフ,I'll reward you if you do as I ask...❤ *Smooch smooch❤*                
                 }else{
-                    セリフ,戦いなんてやめましょ？あなたのマスターの命令は、サキュバスのキスで忘れさせてあげます。んーーっちゅ❤                
+                    セリフ,How about we stop fighting~? I'll use my succubus kissing skills to make you forget your master's orders. *Kiss kissss❤*                
                 }    
             }
         }
