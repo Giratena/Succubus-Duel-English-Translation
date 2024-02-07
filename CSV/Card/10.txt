@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,魔導の研究者
-&効果テキスト,[1].このカードが召喚・特殊召喚に成功したとき発動する。このカードの攻撃力と最大HPは、自分の墓地にある魔法カードの数×50ポイントアップする。
+&カード名,Magic Researcher
+&効果テキスト,[1]When this card is normal or special summoned; increase its ATK and MAX HP by 50 for each Magic card in your graveyard.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

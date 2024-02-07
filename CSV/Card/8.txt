@@ -1,9 +1,9 @@
 default
 @初期設定
-&カード名,ツヴァイク
+&カード名,Zweig
 &効果テキスト,
 &ハード効果テキスト,
 &イージー効果テキスト,
-&フレーバーテキスト,あまたの戦場を渡り歩いたといわれる、熟練の戦士。その戦闘力は非常に高い。
+&フレーバーテキスト,A skilled warrior who was gone through many battles. His figthting strength is exceedingly high.
 &エロ効果テキスト,
 &ハードエロ効果テキスト,
