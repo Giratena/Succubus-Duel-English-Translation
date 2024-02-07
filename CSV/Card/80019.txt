@@ -378,6 +378,9 @@ default
         攻撃力加算,-500,
         話者,相手,
         セリフ,Ah... Aaaaah❤
+        話者,自分,
+        セリフ,Ahaha❤You're leaking so much even when I'm only squeezing your penis❤ Do you love me so much that just touching my hand makes you happy?
+        セリフ,I'll give you a lot more squeezing❤ So show me more of your adorable sloppy face❤
         エフェクト,&&セクシーエフェクト,(0.3,0.4),2
         エフェクト,&&セクシーエフェクト,(0.35,0.4),2
         エフェクト,&&セクシーエフェクト,(0.3,0.4),2
