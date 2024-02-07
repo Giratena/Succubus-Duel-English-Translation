@@ -1,6 +1,6 @@
 default
 @初期設定
-    &カード名,サキュバス少女
+    &カード名,Young Succubus
     &カード画像,F2_SimeSuccu.png
     &ズーム顔,F2_SimeSuccuFace.png
     &立ち絵羽なし,F2_SimeSuccuNoWing.png
@@ -11,7 +11,7 @@ default
     &斬るSE,damage_koubou.mp3
     &馬SE,Uma01_Onjin.mp3
     &キスエフェクト,Kiss01
-    &フレーバーテキスト,A young; low rank succubus who can control slime. With her ability to turn her own body into slime; she is able to sneak into any place that has the slightest crack. Her strength isn't particularly high amongst the low rank succubi; but the infiltration and espionage opportunities her unique body afford means she has no end to how useful she is.
+    &フレーバーテキスト,A young; low rank succubus who can control slime. With her ability to turn her own body into slime; she is able to sneak into any place that has the slightest crack. Her strength isn't particularly high amongst the low rank succubi; but she is very useful due to her infiltration and espionage abilities.
 
 @イベント
     デッキ設定,10005,10005,10005,10006,10006,10006,10007,10007,10008,10008,40005,40005,40006,40006,40025,40025,50012,60005,60005,
@@ -21,8 +21,8 @@ default
     if,Now回想,
     {
         フェードアウト,
-        アラート,導入イベントをスキップしますか？
-        選択肢生成,スキップする,スキップしない
+        アラート,Do you want to skip the intro event?
+        選択肢生成,Skip,Don't Skip
         if,選択肢,==,2
         {
             イベント実行,誘惑イベント
@@ -35,45 +35,45 @@ default
     背景変更,&&丘背景
     BGM,&&道BGM
     話者変更,相手プレイヤー
-    セリフ,よし、それじゃあ、ギルドのある隣街に向かおう！
+    セリフ,Okay; time to head over to the nearby town that has a guild!
     話者変更,%男NPC
     立ち絵表示
-    セリフ,おや、守護者のお弟子さんじゃないですか。これからどちらへお出かけで？
-    セリフ,・・・なるほど。ギルドのある隣街っていうと、モルゲンですね。
-    セリフ,今から馬車でちょうどモルゲンへ行くんですが、よろしければご一緒いたしませんか？
+    セリフ,Oh; you're the apprentice of this village's guardian; aren't you?
+    セリフ,...I see; the name of that town with the guild is Morgen.
+    セリフ,I'm about to head there on my carriage. You wanna hitch a ride with me?
     話者変更,相手プレイヤー
-    セリフ,いいんですか？
+    セリフ,You wouldn't mind?
     話者変更,%男NPC
-    セリフ,ええ。守護者のお弟子さんが一緒なら、もし魔物が出ても安心です。
-    セリフ,普段は魔物から逃げ切れるように、あまりたくさん荷を積まないのですが...
-    セリフ,護衛の方がいると馬車が重くなっても大丈夫なので、一度に多く運べるんです。
-    セリフ,どうです、ともに利益のある話でしょう？ぜひ、ウチの馬車に乗ってくださいな。
-    選択肢生成,なるほど。護衛は僕に任せてください！,それではお言葉に甘えて…。        
+    セリフ,Nah; it'd be nice to have a guardian's apprentice if any monsters show up.
+    セリフ,I normally keep my load light so that I can escape any demons that show up.
+    セリフ,Having you as an escort would allow me to not care about how much I'm transporting.
+    セリフ,Sp; what do you think? It'd work out for both of us. Come on; take a ride in my carriage.
+    選択肢生成,I see. Welp; leave the escorting to me!,I'll take your word on that...
     if,選択肢,==,1,
     {
-        セリフ,はは、さすがは守護者のお弟子さん。頼もしいですね！
-        セリフ,短い間ですが、よろしくお願いします。
+        セリフ,Hahaha; you really are the disciple of that guardian!
+        セリフ,Looking forward to working with you for a bit.
     }else{
-        セリフ,一緒に来てくださいますか！ありがとうございます。
-        セリフ,短い間ですが、よろしくお願いしますね！
+        セリフ,So; you'll come with me! Thanks a bunch.
+        セリフ,Looking forward to working with you for a bit.
     }
     フェードアウト     
     話者変更,相手プレイヤー
-    セリフ,こうして旅商人に馬車に乗せてもらって5日が経った。
-    セリフ,道中、何体か魔物が出たけれど・・・
+    セリフ,5 days have passed since the travelling merchant gave me a ride.
+    セリフ,While we did come across a few monsters...
     セリフ削除   
     SE,&斬るSE
     フラッシュ,白
     ウエイト,1
     SE,&斬るSE        
     ウエイト,1
-    セリフ,たいして強くはない個体で、僕は難なくそれらを退けていた。 
+    セリフ,They were weak enough that I was able to easily fight them off.
     イベント実行,誘惑イベント
     バトル設定,ゲームオーバーあり,
     バトル開始,&&丘夕方背景,&&戦闘BGM
     BGM,&&クリアBGM
     話者変更,相手プレイヤー
-    セリフ,はぁ、はぁ・・・・。倒したのか・・・？
+    セリフ,Hahhh; hahhh... I won?
     説明,僕の最後の一撃を受けて、サキュバスは光の粒になって消えていった。これで退治できたのだろうか…？
     話者変更,%男NPC
     立ち絵表示
@@ -109,82 +109,82 @@ default
     フェードイン,2     
     話者変更,%男NPC
     立ち絵表示
-    セリフ,いやあ、おかげさんで順調ですねぇ。その若さでたいしたもんです。
-    セリフ,あと何時間かでモルゲンの街につきますよ。 
-    セリフ,ほら、そこの街道を右に行くと…。うん…？ 
+    セリフ,Man; things are going great thanks to you. You're amazing for how young you are.
+    セリフ,We'll reach Morgen in a few more hous.
+    セリフ,Hora; just look to the right of that road... Hn?
     セリフ削除
     BGM停止
     話者変更,%サキュバス擬態
     画像,&立ち絵羽なし,3
-    セリフ,あのー、お兄さんたち、街へ行こうとしているんですか？ 
-    セリフ,実はわたし、いまちょっと困ってて助けてほしいんです・・・。 
-    セリフ,お兄さんたち、こっちに来てくれませんか？ 
+    セリフ,Ummm; Onii-sans... Are you trying to head to town?
+    セリフ,I'm actually in a bit of trouble right now... Could you please help me out?
+    セリフ,Onii-sans; won't you come over here?
     話者変更,相手プレイヤー
-    セリフ,・・・・・・？ 
-    選択肢生成,なんだろう？少女のそばに近寄った,怪しい。少女から距離を取った   
+    セリフ,......? 
+    選択肢生成,Approach the girl while wondering what is wrong.,Back away from the girl as she seems suspicious.
     if,選択肢,==,1,
     {
         話者変更,%サキュバス擬態
-        セリフ,うふ、そばに来てくれてありがとうございます。
-        セリフ,実はわたし、さっきからずーっとおなかがすいていて…。
-        セリフ,お兄さんたちの精気、わけてほしいんです❤
-        説明,彼女はそういうと、突然背伸びをして僕の頭に顔を近づけてきた。
+        セリフ,Ufu; thank you so much for coming over here.
+        セリフ,You see; I've been sooo hungry...
+        セリフ,So I want you Onii-sans to share your energy with me~❤
+        説明,The brunette suddenly stood up to her full height and brought her face close to my head.
         セリフ削除
         画像,&ズーム顔,3
-        セリフ,ちゅっ❤
+        セリフ,*Smoochhh❤*
         エフェクト,&キスエフェクト
         画面色変更,ピンク,2
         話者変更,相手プレイヤー
-        セリフ,っ・・・・・❤ 
+        セリフ,*Hnnn......❤* 
         話者変更,%サキュバス擬態
-        セリフ,くす❤もしかしてキスされるの初めてですか？
-        セリフ,こんなちっちゃな子にファーストキス奪われて、唇と唇が触れただけでとろーんてなっちゃって…❤
-        セリフ,かわいいですね❤お兄さん❤
+        セリフ,Tehe❤ Was that your first kiss?
+        セリフ,Melting away from a young girl lightly pressing her lips against you like this...❤
+        セリフ,Onii-san❤ You're just too cute❤
         画像,&カード画像,2
         BGM,&&戦闘BGM
         話者変更,%男NPC
-        セリフ,お、おいどうなっているんだ。女の子から悪魔の羽・・・！？
+        セリフ,H-Hey; what's going on. Wings sprouted from that girl's back...!?
         話者変更,自分
-        セリフ,うふふ❤商人さんはじっとしててください。あなたのこともすぐに食べてあげます。
-        セリフ,でもまずはこちらのカードマスターのお兄さんから❤
-        セリフ,ん、ちゅっ・・・❤
+        セリフ,Ufufu❤ Just stay put; Merchant-san. I'll gobble you up in a bit.
+        セリフ,But I'm going to start with this Cardmaster Onii-san over here❤
+        セリフ,Hnn... *Smooch❤*
         エフェクト,&キスエフェクト
         話者変更,相手プレイヤー
-        セリフ,はうぅぅっ・・・・・❤ 
+        セリフ,H-hahhh...❤ 
         話者変更,自分
-        セリフ,メロメロにして、カードも使えなくして・・・❤そのまま搾っちゃいますね❤
+        セリフ,I'm going to melt you away so that you can't use your cards❤ And then; I'm gonna drain you like this~❤
         $ch2_kiss,=,1
     }else{
         話者変更,相手プレイヤー
         セリフ削除
-        セリフ,あやしい・・・・・・。            
+        セリフ,How strange...       
         話者変更,%男NPC
         立ち絵表示,1
-        セリフ,こんな道の真ん中でどうしたんだい？
-        セリフ,ちょっと今降りるから待ってなよ。
-        説明,商人が馬車から降りようとする。僕は彼を引き留め、小さな女の子に対して警戒の目を向けた。
+        セリフ,Why are you standing in the middle of the road like that?
+        セリフ,I'm coming to ya; so wait a sec.
+        説明,I stared harshly at the young girl while reaching a hand out to stop the merchant as he tried to get out of his carriage. 
         話者変更,%サキュバス擬態          
         画像,&立ち絵羽なし,1
-        セリフ,あれ、どうしてそんなに怖い顔をしているんですか？
-        セリフ,わたしのそばに来てください。足を怪我してしまったんです。おねがいします・・・。
-        説明,なぜだろう、嫌な予感がする。見た目はただの小さな女の子のはずなのに・・・。
-        セリフ,んー・・・。何か怪しまれるようなところあったかなぁ・・・。あ、もしかして、
+        セリフ,Hmmm; why are you making such a scary face?
+        セリフ,Please come to me. I hurt my leg. Pleaseee...
+        説明,I wasn't sure why; but I had a bad feeling about this girl. She might look like your average, cute girl but...
+        セリフ,Hnnn...Why are you so suspicious... Ah; could it be..
         話者変更,自分   
         画像,&カード画像,2
         BGM,&&戦闘BGM
-        セリフ,魔力が漏れているのがバレちゃいました？くすくす❤ 
-        セリフ,気づかずに来てくれれば、唇でちゅってしてあげたのに・・・❤ほら、こんな風に。 
-        説明,そう言うと少女は唇に指をあて、ちゅっと弾いて見せた。    
+        セリフ,You could feel my magic leaking out? Tehehe~❤ 
+        セリフ,If you had only come over here I would have smooched your lips❤ Hora; just like this...
+        説明,The small girl placed a finger on her lips before flinging them my way.   
         話者変更,相手プレイヤー        
-        セリフ,・・・・・・! 
+        セリフ,......!?
         話者変更,%男NPC
-        セリフ,そ、その羽！！な、なんで魔族領でもないのにサキュバスが！？
+        セリフ,T-Those wings!? W-Why is a succubus so far from the demon's territory!?
         話者変更,自分
-        セリフ,あは❤驚いた顔してますね。サキュバスを見るのは初めてですか？  
-        セリフ,わたしがここにいる理由なんて気にしてもしょうがないですよ。だって……。 
-        セリフ,今からあなたたちはわたしに食べられちゃうんだから❤
-        セリフ,まずはそこの、カードマスターのお兄さんからです。
-        セリフ,この足でぬちゅぬちゅしごいて、きもちよーく何回もイかせてあげますね❤                                  
+        セリフ,Aha❤ You look surprised. This your first time seeing a succubus? 
+        セリフ,No need to worry about why I'm here though. After all... 
+        セリフ,I'm going to be gobbling you two up here and now~❤
+        セリフ,I better start with you; Cardmaster Onii-san.
+        セリフ,I'll stroke and pump you with my slimy feet until you cum again and again~❤                                  
         $ch2_kiss,=,0
     }
 
@@ -194,48 +194,39 @@ default
     画像,&カード画像
     if,自分,==,先攻プレイヤー,
     {
-        セリフ,うふふ、わたしのターンからですね❤
+        セリフ,Ufufu; my turn~❤
         if,$ch2_kiss,==,1
         {
-            セリフ,お兄さん、キスでもうメロメロですか？わざわざモンスター出さなくても勝てちゃいそうです❤
-            セリフ,頭の中ピンク色になっているうちに、きもちよく、終わらせてあげます❤ほら・・・。
+            セリフ,Onii-san; my kisses look like they've melted you away.  I won't even have to summon any monsters to win~❤
+            セリフ,I'll pleasantly finish you off while your mind is still blank~❤ Hooora...
             エフェクト,&キスエフェクト,相手プレイヤー
             イベントダメージ,相手プレイヤー,2000
             状態異常付与,相手プレイヤー,魅了
             ウエイト,0.3
             状態異常付与,相手プレイヤー,メロメロ
         }else{
-            セリフ,わたしの気配に気づくぐらいだから、きっとお兄さん強いんですよね？
-            セリフ,でも、エッチなことにはまだ不慣れみたい。だから、いっぱいきもちいいことしてあげて・・・❤
-            セリフ,ふにゃふにゃのメロメロに負けさせてあげます❤
+            セリフ,Onii-san managed to notice what I was right away. Onii-san must be strong; right?
+            セリフ,But you don't seem used to sex. I'm going to do a lot of lewd things then...❤
+            セリフ,I'll make you lose by forcing you to be head over heels for me~❤
         }
     }else{
         if,$ch2_kiss,==,1
         {
-            セリフ,お兄さんのターンからですね❤
-            セリフ,でも、戦う前からわたしのキスでメロメロになっちゃっているみたい・・・❤
-            セリフ,くすくす❤ちゃんとカード出せますか？ほら、頑張ってください❤
+            セリフ,It's Onii-san's turn❤
+            セリフ,But it looks like my kisses have drove you mad even before our fight started...❤
+            セリフ,Hehehe❤ Will you be able to play any cards? Hoora; good luck~❤
             エフェクト,&キスエフェクト,相手プレイヤー
             イベントダメージ,相手プレイヤー,2000
             状態異常付与,相手プレイヤー,魅了
             ウエイト,0.3
             状態異常付与,相手プレイヤー,メロメロ
         }else{
-<<<<<<< Updated upstream
-            セリフ,お兄さんのターンからですね。
-            セリフ,カードを出す前に・・・。ねえ、わたしの唇見てください❤
-            セリフ,さっきはキスしてあげられなくて、残念でした・・・❤
-            セリフ,そばまで来てくれたら、たくさんちゅっちゅって、ついばむみたいにいっぱいキスしてあげたのに❤
-            セリフ,ねえ、もしキスしてほしいなら、今からでも遅くないんですよ？
-            セリフ,わたしのそばに来て、きもちいいこと、いっぱいしましょ？うふふ❤
-=======
             セリフ,It's Onii-san's turn.
-            セリフ,Before you play anything... Come on; look at my lips❤
+            セリフ,But before you play anything... Come on; look at my lips❤
             セリフ,It's sad that I couldn't kiss you earlier❤
             セリフ,If you had only come to me I'd have kissed you sooo much❤
             セリフ,Hey... You know; it's not too late if you wanna enjoy my kisses.
             セリフ,Just come to me and I'll do a bunch of nice things to you; Onii-san. Ufufu❤
->>>>>>> Stashed changes
         }
     }             
 
@@ -258,7 +249,7 @@ default
         {
             セリフ,Ufufu❤ Not a bad hand❤ Time to show you what my slime deck can do❤
         }else{
-            セリフ,I draw. I'm gonna make sure to show you how powerful my slime deck is❤
+            セリフ,I draw. I'm going to make sure to show you how powerful my slime deck is❤
         }
         $alreadyDrawCall,=,1
     }
@@ -304,7 +295,7 @@ default
         }    
         if,乱数,==,2
         {
-            セリフ,Slime-chans; please keep on gathering. I activate {使用カード}!                
+            セリフ,Slime-chans; please keep on gathering together for me. I activate {使用カード}!                
         }    
         イベント終了
     }
@@ -318,7 +309,7 @@ default
             }
             if,乱数,==,2
             {
-                セリフ,I'm gonna make my Slime-chan stronger! I activate {使用カード}!               
+                セリフ,I'll help make my Slime-chan stronger! I activate {使用カード}!               
             }    
         }else{
             セリフ,And now to power her up more! I activate another {使用カード}.            
@@ -430,7 +421,7 @@ default
         }
         if,乱数,==,3
         {
-            セリフ,I'm gonna let my {使用カード} bully you. Attack his {防御カード}!
+            セリフ,I'm going to let my {使用カード} bully you. Attack his {防御カード}!
         }
         if,乱数,==,4
         {
@@ -512,7 +503,7 @@ default
         if,$alreadyInvalidAttackCall,==,0,
         {
             セリフ,Mhmm; you won't let me attack?             
-            セリフ,I was gonna be nice and make Onii-san feel sooo good too...❤
+            セリフ,I was going be nice and make Onii-san feel sooo good too...❤
             $alreadyInvalidAttackCall,=,1
         }            
     }        
@@ -558,7 +549,7 @@ default
         }else{
             if,乱数,==,1
             {
-                セリフ,I'm gonna turn you into my kiss-slave❤ *Smoochhh❤*            
+                セリフ,I'm gooing to turn you into my kiss-slave❤ *Smoochhh❤*            
             }
             if,乱数,==,2
             {
