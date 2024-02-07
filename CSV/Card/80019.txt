@@ -180,7 +180,7 @@ default
     {
         セリフ,(...The house of that girl I met at the arena is in this direction.)
         セリフ,(She must be anything but a normal girl when simply holding hands with her was making me feel weak. She told me where she lives; but should I really go to her house?)
-        セリフ,(Besides; my mana has been in a weird state after the last time I met her... It's as if my output has fallen permanently.)
+        セリフ,(Besides; my mana has been in a weird state after the last time I met her... It's as if my output has dropped permanently.)
         選択肢,Visit the girl,Turn back
         if,選択肢,==,2
         {
