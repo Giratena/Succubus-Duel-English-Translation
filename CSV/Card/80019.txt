@@ -6,7 +6,7 @@ default
     画像部位設定,&カード画像,face,0.4,0.6,0.8,0.9
     画像部位設定,&カード画像,bust,0.5,0.7,0.7,0.9
     画像部位設定,&カード画像,hip,0.5,0.7,0.3,0.4
-    &フレーバーテキスト,Peddler's daugther who loves her father. She has been feeling lonely after her father suddenly stopped playing with her after peddling to a faraway village. This led to her taking away the succubus card that was taking her father's attention; which became a trigger to her gradual transformation to a succubus. While she doesn't possess sexual knowledge; she started noticing her father getting crazy about her whenever she held hands with him. As her transformation progressed further; she started feeling hunger for stronger mana and set her aim on the protagonist. However; she didn't call out to out with bad intention but because she instinctually sensed him as something "delicious".
+    &フレーバーテキスト,A peddler's daugther who loves her father. She has been feeling lonely after her father suddenly stopped playing with her after peddling to a faraway village. This led to her taking away the succubus card that was taking her father's attention; which became a trigger to her gradual transformation to a succubus. While she doesn't possess sexual knowledge; she started noticing her father getting crazy about her whenever she held hands with him. As her transformation progressed further; she started feeling hunger for stronger mana and set her aim on the protagonist. However; she didn't call out to out with bad intention but because she instinctually sensed him as something "delicious".
 	
 @不安げな女の子
     背景,&&闘技場受付背景,
@@ -23,7 +23,7 @@ default
     {
         話者,自分,true,1
         説明,I noticed a small girl sitting quietly and staring at me at the side of the arena.
-        説明,When I returned her gaze out of curiousity; she beckoned me over; so I decided to see what she has to say.
+        説明,When I returned her gaze out of curiosity; she beckoned me over; so I decided to see what she has to say.
         話者,自分,true,1
         セリフ,Hey; hey. Onii-san; you're a really strong cardmaster; right? There's something I want to ask.
         セリフ,You see; I've been feeling really hot recently. Could this be some sort of sickness? Try to feel how my hot body is...
@@ -224,7 +224,7 @@ default
         ウエイト,1
         攻撃力加算,-1000,
         $$手つなぎドレイン女の子,+=,1
-        説明,After that; I "played" with the girl until the night. Even when I had dirtied my pants; she only needed to give them a touch with her hand to absorb and clean off all the semen from them.
+        説明,After that; I "played" with the girl until late at night. Even when I had dirtied my pants; she only needed to give them a touch with her hand to absorb and clean off all the semen from them.
         説明,I returned to the inn with unsteady steps while overcome with a strange sensation of exhaustion.
         主人公攻撃タイプ弱点付与,手コキ,50,
         イベント終了
@@ -292,7 +292,7 @@ default
         ウエイト,1
         攻撃力加算,-2000,
         $$手つなぎドレイン女の子,+=,1
-        説明,After that; I "played" with the girl until the night. Even when I had dirtied my pants; she only needed to give them a touch with her hand to absorb and clean off all the semen from them.
+        説明,After that; I "played" with the girl until late at night. Even when I had dirtied my pants; she only needed to give them a touch with her hand to absorb and clean off all the semen from them.
         説明,I returned to the inn with unsteady steps while overcome with a strange sensation of exhaustion.
         主人公攻撃タイプ弱点付与,手コキ,50,
         イベント終了,
@@ -350,7 +350,7 @@ default
         ウエイト,1
         攻撃力加算,-2000,
         $$手つなぎドレイン女の子,+=,1
-        説明,After that; I "played" with the girl until the night. Even when I had dirtied my pants; she only needed to give them a touch with her hand to absorb and clean off all the semen from them.
+        説明,After that; I "played" with the girl until late at night. Even when I had dirtied my pants; she only needed to give them a touch with her hand to absorb and clean off all the semen from them.
         説明,I returned to the inn with unsteady steps while overcome with a strange sensation of exhaustion.
         主人公攻撃タイプ弱点付与,手コキ,50,
         イベント終了
@@ -399,7 +399,7 @@ default
         ウエイト,1
         攻撃力加算,-2000,
         $$手つなぎドレイン女の子,+=,1
-        説明,After that; I "played" with the girl until the night. Even when I had dirtied my pants; she only needed to give them a touch with her hand to absorb and clean off all the semen from them.
+        説明,After that; I "played" with the girl until late at night. Even when I had dirtied my pants; she only needed to give them a touch with her hand to absorb and clean off all the semen from them.
         説明,I returned to the inn with unsteady steps while overcome with a strange sensation of exhaustion.
         主人公攻撃タイプ弱点付与,手コキ,50,
     }
