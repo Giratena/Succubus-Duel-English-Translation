@@ -6,15 +6,15 @@ default
     画像部位設定,&カード画像,face,0.4,0.6,0.8,0.9
     画像部位設定,&カード画像,bust,0.5,0.7,0.7,0.9
     画像部位設定,&カード画像,hip,0.5,0.7,0.3,0.4
-    &フレーバーテキスト,A peddler's daugther who loves her father. She has been feeling lonely after her father suddenly stopped playing with her after peddling to a faraway village. This led to her taking away the succubus card that was taking her father's attention; which became a trigger to her gradual transformation to a succubus. While she doesn't possess sexual knowledge; she started noticing her father getting crazy about her whenever she held hands with him. As her transformation progressed further; she started feeling hunger for stronger mana and set her aim on the protagonist. However; she didn't call out to out with bad intention but because she instinctually sensed him as something "delicious".
+    &フレーバーテキスト,A peddler's daughter who loves her father. She has been feeling lonely after her father suddenly stopped playing with her after peddling to a faraway village. This led to her taking away the succubus card that was taking her father's attention; which triggered her gradual transformation into a succubus. While she doesn't possess sexual knowledge; she started noticing her father getting crazy about her whenever she held hands with him. As her transformation progressed; she started feeling a hunger for stronger mana and set her aim on the protagonist. However; she didn't call him out with bad intentions but because she instinctually sensed him as something "delicious".
 	
 @不安げな女の子
     背景,&&闘技場受付背景,
     BGM,&&闘技場受付BGM
     シルエット話者,自分,true,1
     セリフ,My father has been acting a bit weird recently. He's a peddler and hasn't been like himself ever since coming back from a trip to a faraway village...
-    セリフ,He's often spacing out; even at home. When it happens; he starts grinning and opening his mouth as if remembering something. I wonder what happened to him?
-    セリフ,I asked him to go see a doctor; but they didn't find anything wrong with him. Then; he shooed me off to have fun at the arena since he thought of me being overprotective. Mmmh. But I can't help worrying...
+    セリフ,He's often spacing out; even at home. When it happens; he starts grins and opens his mouth as if remembering something. I wonder what happened to him?
+    セリフ,I asked him to go see a doctor; but they didn't find anything wrong with him. Then; he shooed me off to have fun at the arena since he thought I was overprotective. Mmmh. But I can't help worrying...
 
 @上機嫌な女の子
     背景,&&闘技場受付背景,
@@ -23,7 +23,7 @@ default
     {
         話者,自分,true,1
         説明,I noticed a small girl sitting quietly and staring at me at the side of the arena.
-        説明,When I returned her gaze out of curiosity; she beckoned me over; so I decided to see what she has to say.
+        説明,When I returned her gaze out of curiosity; she beckoned me over; so I decided to see what she had to say.
         話者,自分,true,1
         セリフ,Hey; hey. Onii-san; you're a really strong cardmaster; right? There's something I want to ask.
         セリフ,You see; I've been feeling really hot recently. Could this be some sort of sickness? Try to feel how my hot body is...
@@ -35,10 +35,10 @@ default
         話者,自分,
         セリフ,...Ehehe❤ So even you start making that kind of face when I hold hands with you; Onii-san❤
         セリフ,My father is the same. He can't help blushing and making a pleasant-looking face whenever I touch him❤
-        セリフ,He's a merchant; but recently he has always been staring at his card that has a picture of a girl. I wanted him to pay more attention to me; so I tried taking the card from him.
+        セリフ,He's a merchant; but recently he has always been staring at his card with a picture of a girl. I wanted him to pay more attention to me; so I tried taking the card from him.
         セリフ,But after doing so; I've been feeling really hot; and whenever I've touched a man's body; they've become crazy about me❤
-        セリフ,Even my father coudln't help doing the same❤ I tried staring at his face while holding his hand; and then...
-        セリフ,My father who always acts cool and composed started calling my name again and again with an adorable face. I found it fun the way he moaned and his body trembled❤
+        セリフ,Even my father couldn't help doing the same❤ I tried staring at his face while holding his hand; and then...
+        セリフ,My father, who always acts cool and composed, started calling my name again and again with an adorable face. I found it fun the way he moaned and his body trembled❤
         セリフ,Onii-san; you're the same❤ You can't help falling into a daze even when I'm only holding your hand❤ Does it make you that happy to hold hands with me?
         説明,The girl adorably tilted her head as she asked that. My mind was in such a haze that I couldn't think straight; so I ended up nodding.
         セリフ,Really? Ahaha❤ This is amazing❤ I can make even cardmaster Onii-san crazy about myself❤
@@ -52,8 +52,8 @@ default
             話者,自分,true,0.5
             セリフ,Uah! Eeh? You don't want to play with me? Even when holding onto my hand made you look so happy; you let go of it...
             セリフ,Uuuh... Maybe this magic doesn't work on anyone else but my father? Onii-san; I really wanted to play and do lots of "fun things" with you... But it looks like you don't want it.
-            説明,The girl rubbed her hands together in front of me as she said that. Seeing that; I couldn't help recalling how good and soft her hand felt just now; which made me want to hold onto it again.
-            説明,However; I held my ground and pulled back from the girl; moving towards the counter. Even though she was just a small girl; I felt a sense of danger and like I should avoid approaching her any further.
+            説明,The girl rubbed her hands together before of me as she said that. Seeing that; I couldn't help recalling how good and soft her hand felt just now; which made me want to hold onto it again.
+            説明,However; I held my ground and pulled back from the girl; moving towards the counter. Even though she was just a small girl; I felt a sense of danger and like I should avoid approaching her further.
             $$手つなぎドレイン女の子,=,1
             イベント終了,
         }
@@ -135,7 +135,7 @@ default
     話者,相手,
     セリフ,Aaaah❤ Ah; aaah❤ It feels too good❤ I'm at the arena reception room and I'm...❤ Aah❤ I shouldn't; but...❤
     話者,自分,
-    セリフ,Hmm? Onii-san; is this something you don't want do? At least; it doesn't seem like that by the look of your face❤
+    セリフ,Hmm? Onii-san; is this something you don't want to do? At least; it doesn't seem like that by the look of your face❤
     セリフ,You're looking really happy when I'm patting you with my hand❤
     セリフ,Patting your penis is making a lot of the delicious something flow out; so I'm going to pat it a lot more❤ There; there❤
     エフェクト,&&セクシーエフェクト,(0.3,0.4),2
@@ -151,7 +151,7 @@ default
     射精,
     主人公攻撃力加算,-300
     話者,自分,
-    セリフ,Kyah?! What happened? Your penis twitched and then your pants became wet.
+    セリフ,Kyah?! What happened? Your penis twitched; and then your pants became wet.
     セリフ,Onii-san; could it be that the patting felt so good that it made you pee your pants? Ehehe❤ You're like a baby despite being a grown man❤
     セリフ,Hmm... This pee that you leaked is kind of sticky. And it also smells weird... Mmmh❤ Lick❤ Delicious...❤
     セリフ,Ahaha❤ There must be something wrong with me. I'm finding this pee that you leaked delicious❤ That can't be normal; right? But I want more...❤
@@ -179,7 +179,7 @@ default
     if,$$手つなぎドレイン女の子,==,2
     {
         セリフ,(...The house of that girl I met at the arena is in this direction.)
-        セリフ,(She must be anything but a normal girl when simply holding hands with her was making me feel weak. She told me where she lives; but should I really go to her house?)
+        セリフ,(She must be anything but an ordinary girl when simply holding hands with her made me feel weak. She told me where she lives; but should I really go to her house?)
         セリフ,(Besides; my mana has been in a weird state after the last time I met her... It's as if my output has dropped permanently.)
         選択肢,Visit the girl,Turn back
         if,選択肢,==,2
@@ -202,7 +202,7 @@ default
         話者,相手,
         セリフ,Aaah...❤ Uuuh; it feels so good...❤❤❤
         主人公攻撃力加算,-100,
-        説明,It was as if something flowed out of my body when I held hands with the girl. Even when I sensed that giving into that sensation was bad; I couldn't resist the pleasure that took over my body.
+        説明,It was as if something flowed out of my body when I held hands with the girl. Even when I sensed that giving in to that sensation was bad; I couldn't resist the pleasure that took over my body.
         説明,We hadn't even moved from the entranceway of her house before I had to fall on my knees. I had to do it even when she was so much younger than myself and simply hold onto my hand.
         話者,自分,
         セリフ,Onii-san; it's funny when you're getting weak like that❤ My father is looking after his shop right now; so we can take our time playing❤
@@ -246,7 +246,7 @@ default
         話者,自分,true,1
         画面色変化,ピンク,2
         セリフ,Onii-san; you came again❤ You must really like me since you're coming to play so often❤
-        セリフ,I've been patting your penis through the clothes until now; but today I want to see how your penis looks like.
+        セリフ,I've been patting your penis through the clothes until now; but today I want to see what your penis looks like.
         セリフ,I wonder if it's round and swollen? Hey; show it to me❤
         セリフ,Woah; I didn't think it would be so long and straight...❤ So this is how it looks❤
         話者,相手,
@@ -264,7 +264,7 @@ default
         主人公攻撃力加算,-500,
         話者,自分,
         セリフ,Ahaha❤ Amazing❤ You leaked the pee right after I squeezed the tip❤
-        セリフ,So the delicious pee that you leak is this kind of white and sticky liquid. Mmmh❤ It really is delicious❤
+        セリフ,So the delicious pee you leak is this kind of white and sticky liquid. Mmmh❤ It really is delicious❤
         セリフ,The tip of your penis is kind of soft and squishy❤ I wonder what happens if I touch it after you leaked the white pee? I want to know so I'll try it❤
         エフェクト,&&セクシーエフェクト,(0.3,0.4)
         エフェクト,&&セクシーエフェクト,(0.35,0.4)
@@ -384,7 +384,7 @@ default
         セリフ,Ah... Aaaaah❤
         話者,自分,
         セリフ,Ahaha❤You're leaking so much even when I'm only squeezing your penis❤ Do you love me so much that just touching my hand makes you happy?
-        セリフ,I'll give you a lot more squeezing❤ Show me more of your adorable sloppy face❤
+        セリフ,I'll give you a lot more squeezing❤ Show me more of your adorable; sloppy face❤
         エフェクト,&&セクシーエフェクト,(0.3,0.4),2
         エフェクト,&&セクシーエフェクト,(0.35,0.4),2
         エフェクト,&&セクシーエフェクト,(0.3,0.4),2
