@@ -13,7 +13,7 @@ default
     BGM,&&闘技場受付BGM
     シルエット話者,自分,true,1
     セリフ,My father has been acting a bit weird recently. He's a peddler and hasn't been like himself ever since coming back from a trip to a faraway village...
-    セリフ,He's often spacing out; even at home. When it happens; he starts grins and opens his mouth as if remembering something. I wonder what happened to him?
+    セリフ,He's often spacing out; even at home. When it happens; he grins and opens his mouth as if remembering something. I wonder what happened to him?
     セリフ,I asked him to go see a doctor; but they didn't find anything wrong with him. Then; he shooed me off to have fun at the arena since he thought I was overprotective. Mmmh. But I can't help worrying...
 
 @上機嫌な女の子
