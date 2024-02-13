@@ -1,8 +1,7 @@
 default
-
+@初期設定
 &カード名,Tracking
 &効果テキスト,Add a random Earth monster from your deck to your hand.
-
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
