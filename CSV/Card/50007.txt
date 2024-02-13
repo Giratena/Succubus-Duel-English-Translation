@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,ダブルスラッシュ
-&効果テキスト,[1].自分のローグタイプのモンスターが攻撃宣言をしたときに発動できる。次の戦闘で、そのモンスターの攻撃回数を+1する。
+&カード名,Double Slash
+&効果テキスト,[1]. Can be activated when a rogue type monster you control declares an attack. During the next fight, the number of times that monster can attack is increased by 1.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
