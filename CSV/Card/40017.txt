@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Healing Tree
-&効果テキスト,[1]At the end of your turn, recover 400HP to all monsters on your field.
+&効果テキスト,[1]. On the end of your turn; all of your monsters on the field recover 400 HP.
 
 &ハード効果テキスト,
 &イージー効果テキスト,
