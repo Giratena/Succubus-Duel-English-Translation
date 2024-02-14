@@ -1,8 +1,7 @@
 default
 @初期設定
 &カード名,Power Gem Lv1
-&効果テキスト,[1]Increases ATK of 1 character by 200.
-
+&効果テキスト,[1]. Increases ATK of target character by 200.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
