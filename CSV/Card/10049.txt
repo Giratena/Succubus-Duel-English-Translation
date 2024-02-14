@@ -5,7 +5,9 @@ default
     &立ち絵射精足,EU49_thighCum.png
     &足コキ,EU49_footJob (1).png
     &足コキアニメ,EU49_footJob
-    &フレーバーテキスト,Petite arachne who is skilled at footjobs. She possesses human legs instead of spider's, which is unusual to the arachne species.しかし、蜘蛛の名に恥じない足さばきは健在で、彼女の足に挟まれれば、まるで八本の足に責められているかのように巧みな快感に翻弄されてしまう。	基本的に非力なモンスターだが、男を挑発して罠にはめ、そこを足で責めてくる。安易に攻撃しないよう、罠に警戒しながら戦わなければならない。
+    &フレーバーテキスト,A petite arachne who is skilled in footjobs. Her human legs are rare for the arachne species that usually posses spider's lower body. However; she won't let down the name of the arachne with how skilled she is with her feet. Once she has caught you between them; you'll be skillfully pleasured and toyed; which will feel as if there are four pairs of legs touching you. While she is a weak monster at the base; she provokes men into her traps where she can freely use her feet on them. Fighting her requires you to be mindful with your attacks to avoid being trapped.
+
+
     画像部位設定,&カード画像,bust,0.4,0.6,0.7,0.85
     画像部位設定,&カード画像,thigh,0.4,0.6,0.1,0.3
 
@@ -21,51 +23,51 @@ default
         {
             if,乱数,==,1
             {
-                セリフ,Pfft❤ Can't you move after getting caught in a web? You're so weak despite being a man❤ Your strength is zero❤
-                セリフ,Ahaha❤ Did I piss you off? But I'm not scared of your glare at all when you're like that❤ After all...❤
+                セリフ,Pfft❤ Can't move after getting caught in the web? And you call yourself a man❤ You're so weak❤
+                セリフ,Ahaha❤ Did that piss you off? It's not scary even if you glare at me like that❤ After all...❤
                 アニメ,&足コキアニメ,
                 ループダメージ,相手,10,
-                セリフ,You can't keep up that scary face if I toy with your weak dick with my feet; right? There❤
+                セリフ,You can't keep up that scary face if I toy with your weak dick, right? There❤
                 話者,相手,
                 セリフ,Ah❤ Aaaah❤
                 話者,自分
-                セリフ,Kyahaha❤ Your face became sloppy❤ That makes your dick such a push-over❤ Does my footjob feel good? You can't help making that face despite being trampled by your enemy❤ You're such a masochist❤
+                セリフ,Kyahaha❤ Your face turned sloppy❤ Your dick is such a push-over❤ Does it feel good when I stroke it with my feet? You're making that face despite being trampled by the enemy❤ You're such a masochist❤
             }
             if,乱数,==,2
             {
-                セリフ,Woah! Onii-chan; you look a caterpillar wrapped in that web❤ That's gross❤ I don't want to touch a bug with my hands; so I'll use my feet instead❤
+                セリフ,Woah! Onii-san; you look a caterpillar in that web❤ That's gross❤ I don't want to touch bugs with my hands; so I'll use my feet instead❤
                 アニメ,&足コキアニメ,
                 ループダメージ,相手,10,
-                セリフ,Here❤ Poke; poke❤ Rub; rub❤ Kyahaha❤ It makes you feel good when I trampling your dick❤ You're a squirming and moaning bug❤
-                セリフ,You can't help moaning hard when a girl much smaller than yourself rubs you with her feet❤ You're a small fry lolicon pervert❤ Hurry up and cum; you masochist❤
+                セリフ,Here❤ Poke; poke❤ Rub; rub❤ Kyahaha❤ You can't help feeling good when I trample your dick❤ You're a squirming and moaning❤
+                セリフ,It makes you feel good when a little girl stroked your dick with her feet❤ That makes you a small fry lolicon pervert❤ Hurry up and cum; you masochist❤
             }
             if,乱数,==,3
             {
                 画像,&足コキ
-                セリフ,Hey; why are you getting harder when I'm trampling you? Popping a boner when you're tied and and trampled❤ That's gross❤
+                セリフ,Hey? Why are you getting harder when I'm trapling you? Not only did you pop a boner from being tied up, but you're getting harder from my feet❤ That's pretty gross❤
                 アニメ,&足コキアニメ,
                 ループダメージ,相手,10,
-                セリフ,Here❤ I can easily make you cum with my foot skills❤ It feels good when I rub your dick from both sides; right? Kyahaha❤
+                セリフ,Here❤ It'll be a piece of cake to make you cum with my foot skills❤ It feels good when I rub your dick from both sides; right? Kyahaha❤
             }
         }else{
             if,乱数,==,1
             {
                 攻撃エフェクト変更,&&セクシーエフェクト,
                 攻撃タイプ変更,ふとももコキ
-                セリフ,Hey; hey; onii-chan❤ You've been giving me lewd looks for a while now❤ Are you that interested in my childish body?
-                セリフ,Here; I've got a reward for you, lolicon onii-chan❤ I'll spread my thighs❤ Pfft❤ Your eyes instantly locked on my lower body; you pervert❤
-                セリフ,If you like it that much, why not bring your face closer? Come right next to my thighs; and I'll squeeze your head with them❤ A thigh guillotine; that's what masochist lolicons want; right? Ahaha❤
+                セリフ,Hey; hey; -onii-san❤ You've been giving me lewd looks for a while now❤ Are you that interested in my childish body?
+                セリフ,Here; let me give you a reward, you lolicon❤ I'll spread my thighs for you❤ Pfft❤ Your eyes instantly locked on my lower body❤ You pervert❤
+                セリフ,If you like it that much, why not bring your face closer? Come right to my thighs; and I'll squeeze your head with them❤ A thigh guillotine; that's what masochist lolicons want; right? Ahaha❤
             }
             if,乱数,==,2
             {
-                セリフ,I'm skilled at trampling men❤ Making adults, who say rude stuff like they aren't interested in my small breasts, moan with my feet is the most best❤
-                セリフ,By nimbly using of both of my feet to stroke and squeeze your tip and shaft...❤ There❤ I'll make you; too; moan in an instant; onii-chan❤
+                セリフ,Trapling men is my specialty❤ It feels the best to make adults; who say rude stuff like they have no interest in my small breasts; to moan with my feet❤
+                セリフ,I can skillfully stroke both the tip and the shaft with them... Like this❤ It won't be long before you're moaning too; Onii-san❤
             }
             if,乱数,==,3
             {
-                セリフ,Woah; it's gross how you're ogling at my lower body❤ Don't you know? You can't stare at a girl's legs like that❤
-                セリフ,Eh? It's my fault for vulgarly spreading my legs? Pfft❤ You know, you could just not look? It's pretty lame if you can't look away if a woman spread her legs in front of you❤
-                セリフ,Ahaha❤ I made fun of you but your pants started bulging❤ Your dick is pissed off❤ I'll trample it; so make sure to moan hard❤ You masochist❤
+                セリフ,Woah; the way you're oggling at my lower body is gross❤ Don't you know? You shouldn't stare at a girl's legs like that❤
+                セリフ,Eh? It's my fault for doing such a vulgar squat? Pfft❤ You say that, but you could just not look, you know? It's pretty lame if you can't look away if a woman just spreads her legs❤
+                セリフ,Ahaha❤ I made fun of you; and your pants started bulging❤ Your dick must be pissed off❤ I'll trample it; so make sure to moan hard❤ You masochist❤
             }
         }           
     }
@@ -73,8 +75,8 @@ default
 
 @おねだり
     話者,自分,true,
-    セリフ,Woah! Are you seriously asking me to step on you? Onii-chan; you're gross❤
-    セリフ,I wouldn't expect anything more than a man❤ You think with your dicks❤ Ahahaha❤ I'll milk your semen in an instant❤
+    セリフ,Woah! Did you seriously ask me to step on you? Onii-san; that's gross❤
+    セリフ,I shouldn't have expected anything more❤ Men always think with their dicks❤ Ahahaha❤ I'll squeeze out your semen right away❤
     
 
 @おねだり後
@@ -82,8 +84,8 @@ default
     イベントヒール,自分,自分最大HP,
     攻撃タイプ固定解除
     画像,&立ち絵射精足,
-    セリフ,きゃはは❤もう出したんだ。よわーい❤
-    セリフ,おちんちんぜんぜん足に耐えられなかったね。この早漏ロリコン❤
+    セリフ,Kyahaha❤ You cummed already❤ That's was so easy❤
+    セリフ,You couldn't handle my feet on your dick for a moment. You quickshot lolicon❤
 
 
 @オナニー
@@ -95,7 +97,7 @@ default
         話者,相手,
         セリフ,Uuh...❤ I can't resist...❤
         話者,自分,
-        セリフ,Woah! It's gross when you start panting all of a sudden❤ Why did you put away your weapon and crouch down? What? Are you touching your dick?
+        セリフ,Woah! It's gross when you suddely start panting like that❤ Why did you put away your weapon and crouch? What? Wait? Are you touching your dick?
         セリフ,Even when you're in a middle of a fight; you're stroking off while staring at me❤ And even making a face like you're loving it❤
         セリフ,You masochists are so gross❤ Ahaha❤
         話者,相手,
