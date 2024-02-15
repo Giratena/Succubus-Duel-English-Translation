@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,沼地の龍樹
-&効果テキスト,[1].このカードが破壊されたとき発動する。このカードを破壊したカードのレベルを1つ上げ、攻撃力を600ポイントアップする。
+&カード名,Dragon Tree of the Swamp
+&効果テキスト,[1]When this card is destroyed; the card that destroyed this increases its level by 1 and ATK by 600.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
