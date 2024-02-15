@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Castle Built on Sand
-&効果テキスト,[1]When this card is destroyed; destroy a random trap card from your opponent.
+&効果テキスト,[1]When this card is destroyed; destroy a random Trap card from your opponent.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
