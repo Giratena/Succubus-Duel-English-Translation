@@ -332,7 +332,7 @@ default
     {
         if,乱数,==,1
         {
-            セリフ,I'll trap you with my slime! I activate my {使用カード}!
+            セリフ,I'll trap you with my slime! {使用カード} activate!
         }    
         if,乱数,==,2
         {
