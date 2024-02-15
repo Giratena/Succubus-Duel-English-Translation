@@ -378,50 +378,50 @@ default
     アニメ削除
     ループダメージ停止,
     話者変更,自分プレイヤー,
-    セリフ,ふ、気絶してしまったか。\n無理もない。射精するたびに何度も体を跳ねさせて、\n自分の首を自分で絞めていたのだから❤
-    セリフ,ククク、男というのは、誰もが間抜けなものだ。\nとはいえ、才能ある若者を相手にするのはやはりいいストレス解消になる❤
+    セリフ,Hmm? He fainted. It was unavoidable when he spasmed with every orgasm and dug his neck deeper into my thighs with it❤
+    セリフ,Ahaha❤ All men are so foolish. Nonetheless, having a talented young man as an opponent turned out to be a good stress relief❤
     話者,自分
-    セリフ,分かる分かる♪\n強いはずの男の子がへろへろになっちゃうの、\n楽しいよねー♪マスターのそういう趣味、だいすき❤
-    説明,二人がかりで責められた僕は、魔力の枯渇と窒息が合わさり気絶してしまった。
-    説明,その後、医務室で目を覚ました僕の首には、うっすらとあざが残っていた。さっき首を絞められたときについたのだろう。
-    説明,指でさわるとほのかに痛い。こんな苦痛を味わされながら、何度も射精してしまったなんて、僕はなんて恥ずかしい負け方をしてしまったのだろうか…。
-    説明,この屈辱は必ず晴らさなければ…。次こそは勝つ。そう僕は決意したのだった。しかし・・・。
-    アラート,それから数日後,
+    セリフ,I get that♪ It's so much fun to turn a man who's supposed to be strong powerless❤ I love that side of you; Master❤
+    説明,I passed out from lack of oxygen and mana after the two of them toyed with me.
+    説明,When I woke up in the medical office after that; I was left with bruises on my neck. They must have come from the stranglehold.
+    説明,Touching them felt slightly painful. To think that I ended up cumming multiple times while under this pain... I lost in such an emberrassing way.
+    説明,I need to clear this humiliation. I'll win the next time for sure. I swore so to myself. However...
+    アラート,A few days later.,
     背景,&&牢屋背景,
     明転,2
     話者,自分プレイヤー,true,1
-    セリフ,おや、誰かと思えば、この間の\n「期待のルーキー」じゃないか。
-    セリフ,どうした？\n何か犯罪でもやって自首しに来たか？\nそれとも・・・❤
-    セリフ,わたしの脚を見るなり大きく膨らませてしまった、\n「それ」を始末してほしくて来たのか？\nククク…❤
-    説明,{自分プレイヤー}はそう言うと、僕へ向けて脚をすっと伸ばし、僕のペニスをズボンの上からブーツの指先でなであげた。
+    セリフ,I was wondering who would visit the prison; but it's the "Hopeful Rookie".
+    セリフ,What brings you here? Did you come turn yourself in for some crime? Or perhaps...❤
+    セリフ,Are you here because you want me to take care of that "bulge" of yours? It got so hard the moment you saw my legs. Ahahaha❤
+    説明,{After saying that; Yatsume raised her foot and stroked my penis with the tip of her boot through my pants.
     話者,相手プレイヤー,
-    セリフ,はう、はうぅう・・・❤
+    セリフ,Ah❤ Aaah...❤
     話者,自分プレイヤー,
-    セリフ,ふふ❤おおかた試合の時の調教が忘れられなくて、\nわたしに会いに来たのだろう？\n職場まで押し寄せるとはこの変態め❤
-    セリフ,マゾ調教をしたあとは、普通の快楽では満足できなくなるからな。\n苦しいのに気持ちいい、その泥沼にはまったら、\nもう逃げ出すことはできない❤
-    セリフ,いや泥沼というより蜘蛛の網かな。\nお前は網に絡まった哀れな獲物というわけだ。\nさて、今回も{自分}と一緒にお前のことをいじめてやろう。
-    セリフ,お前の魔力は良質だし、見た目も悪くない。\nわたしが飽きるまでは、可愛がってやろうじゃないか。\nマゾ豚ルーキー❤
+    セリフ,Ahaha❤ You're came to see me since you couldn't forget the time when I disciplined you after our match; right? To think you would intrude on my workplace for that; you damn pervert❤
+    セリフ,The masochist training makes normal pleasure unable to satisfy you anymore. Once you've fallen into the swamp of learning pleasure through pain; you can't escape it❤
+    セリフ,No; perhaps it's more like a spider's web than a swamp; and you are a prey caught in it. Now then; I'll play with you with {自分} again.
+    セリフ,Your mana is of good guality; and your looks aren't bad either. I can tormend you until I get bored. You masochist pig rookie❤
     SE,&&締め付けSE,
     フラッシュ,ピンク
     話者,相手プレイヤー,
-    セリフ,ふぐ、あぐうぅ・・・❤
+    セリフ,Ugh... Aaaagh...❤
     エフェクト,&&召喚エフェクト,
     話者,自分,true,1
-    セリフ,きゃはは❤マゾルーキー、\nまたわたしのマスターに首絞めてもらってるの？\nへんたいじゃん❤へんたーい❤
+    セリフ,Kyahaha❤ Masochist rookie; are you in my master's stranglehold again? Pervert❤ You're a total pervert❤
     アニメ,&足コキアニメ,
     ループダメージ,相手,自分攻撃力*3+1000,
-    セリフ,わたしも足コキしてあげる❤\n牢屋の人に聞こえたら恥ずかしいから、\n頑張って声抑えないとねー❤
-    セリフ,ほらぁ、すりすりすり❤しゅこしゅこしゅこ～❤\nわたしの超テク足コキでー、たっぷり気持ちよくなっちゃえ❤\nきゃははは❤
+    セリフ,I'll give you a footjob while you're at it❤ It would be emberrassing if the prisoners heard your moans; so you need to keep quiet❤
+    セリフ,Here❤ Stroke; stroke❤ Rub; rub❤ Enjoy how good my super footjob techniques feel❤ Kyahaha❤
     フェードアウト,3
     ウェイト,1
     射精
     射精
-    説明,こうして僕は完全に彼女たちの虜となってしまい、もはや彼女たちの与えてくれる快楽なしでは生きていけなくなってしまった。
-    説明,修行もそっちのけで、彼女たちのいるところに通い、牢屋の下働きとしてあくせくと働かされたり、彼女たちのストレス発散の道具として快楽で弄ばれる日々。
-    説明,ふとももでの関節技以外にも、糸を使って束縛したまま足で乳首とペニスを責めてきたり、看守用のムチで体を叩かれたりして、どんどん僕の体は彼女たちに調教されていった。
-    説明,ある日には、糸で作った首輪をつけて犬のように四つん這いのまま搾り取られ、それをケタケタと嘲笑われたりもした。
-    説明,とても屈辱的で耐えられない生活のはずなのに、僕の心はすっかりその快楽に絡めとられてしまい、彼女たちに服従することに無上の喜びを見出してしまっているのだった。
-    説明,こうして妹を救うためにAランクを目指していた主人公の物語は、蜘蛛使いのマスターと足コキアラクネのストレス発散の道具になって、その幕を閉じたのだった。
+    説明,That's how I became fully depended on the two of them. I couldn't live without the pleasure they could make me anymore.
+    説明,I began to spend my days ignoring my training and visiting them. After assisting with the work in the prison; they would play with me as a stress relief toy.
+    説明,Outside of thigh strangleholds; they also began training me further by things like using their feet to touch my nipples and penis while I was tied in a web; and whipping my body.
+    説明,One day; they put a collar made of spider's thread on me and milked me like a dog on fours while loudly cackling at me. 
+    説明,Even when it should have been humiliating to live like that; my mind was always entangled by pleasure. I found joy like no other as I submitted to the to of them.
+    説明,This is how the story of our hero and his adventure to become A-Rank and saving his sisters came to an end as a stress relief toy of spidertamer cardmaster and Footjob Arachne.
     ゲームオーバー
 
 
