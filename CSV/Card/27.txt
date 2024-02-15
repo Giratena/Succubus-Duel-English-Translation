@@ -1,4 +1,9 @@
 default
 @初期設定
-    &カード名,Bandit
-    &効果テキスト,A bandit with a rough personality. A single swing of his axe can tear through the thickest of armor.
+&カード名,Bandit
+&効果テキスト,
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,A bandit with a rough personality. A single swing of his axe can tear through the thickest of armour.
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

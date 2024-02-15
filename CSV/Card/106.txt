@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,Ice Fang Ninja
-&効果テキスト,You may only activate the first effect of 1 Ice Fang Ninja per turn.\n[1]. If this card is in your hand; you make select 1 [Ninja] monster on your side of this field. Return that monster to your hand and Special Summon this card.\n[2]. When this card is successfully Special Summoned; deal 300 damage to a random enemy monster and inflict [Frozen] upon them.
+&カード名,ニンジャ氷牙
+&効果テキスト,このカード名の[1]の効果は１ターンに１度しか発動できない。\n[1].このカードが手札に存在する場合、自分フィールド上の「ニンジャ」モンスター１体を選択して発動できる。そのモンスターを手札に戻しこのカードを特殊召喚する。\n[2].このカードが特殊召喚されたとき発動する。ランダムな相手モンスター1体に300ポイントダメージを与え「凍結」を付与する。
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
