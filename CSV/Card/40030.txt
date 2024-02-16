@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,けむりだま
-&効果テキスト,自分フィールド上のモンスター1体を選択し発動する。そのカードを手札に戻す。
+&カード名,Smoke Bomb
+&効果テキスト,Choose a monster on your side of the field. Return that card to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
