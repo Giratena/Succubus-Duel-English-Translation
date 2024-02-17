@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,エルドラドの黄金樹
-&効果テキスト,手札の地属性カードを１枚捨てて発動可能。このカード名の[1]の効果は１ターンに１度しか発動できない。\n[1].表側表示のこのカードが破壊されたとき発動する。カードを２枚ドローする。\n[2].自分ターン終了時に発動する。カードを１枚ドローする。
+&カード名,Golden Tree of El Dorado
+&効果テキスト,As an additional cost; discard a Earth card from your hand. The first (1) effect of this card and all cards with the same name can be triggered only once per turn.\n[1]When this card is destroyed while it's face-up; draw 2 cards.\n[2]At the end of your turn; draw a card.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
