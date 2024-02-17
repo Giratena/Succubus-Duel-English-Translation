@@ -11,5 +11,3 @@ default
     メニュー追加,Quit Game,Other/Func,ゲーム終了
     メニュー生成,中央下
     テキストファイル再読み込み
-
-

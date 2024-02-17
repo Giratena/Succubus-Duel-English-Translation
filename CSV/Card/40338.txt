@@ -1,9 +1,44 @@
 default
 @初期設定
 &カード名,Fetish Corruption: Tribute Masochist
-&効果テキスト,[1]Whenever an effect of opponent's 「Succubus」 monster triggers; all your characters lose 300 MAX HP and that monster gains ATK equal to the HP lost this way.\n[2]At the end of your turn; if this card is in your hand; play it.
+&効果テキスト,[1]. Whenever an effect of opponent's 「Succubus」 monster triggers; all your characters lose 300 MAX HP and that monster gains ATK equal to the HP lost this way.\n[2]. At the end of your turn; if this card is in your hand; play it.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
 &エロ効果テキスト,
 &ハードエロ効果テキスト,
+    
+
+@効果
+    switch,効果ID
+    case,0
+    {
+        話者,自分プレイヤー,
+        セリフ,（うう、僕は何をやっているんだ…。こんなカード出して…。）
+        外部カードイベント実行,40338効果0,相手プレイヤー,自分プレイヤー,
+    }
+    case,2
+    {
+        外部カードイベント実行,40338効果2,相手プレイヤー,自分プレイヤー,
+    }
+    case,1
+    {
+        if,自分プレイヤー.$40338発動1,==,0
+        {
+            話者,トリガー能動カード,true,
+            話者,自分プレイヤー,
+            セリフ,（はひぃい・・・❤体から魔力が流れてく・・・❤\n止めなきゃいけないのに、きもちいい・・・❤）
+            フラッシュ,ピンク,
+            効果処理
+            話者,自分プレイヤー,
+            セリフ,（あうう、吸われて、サキュバスが強くなっちゃう。\nだめなのに、もっと吸ってほしい・・・❤ああ・・・❤）
+        }else{
+            効果処理
+        }
+        自分プレイヤー.$40338発動1,=,1
+        
+    }
+    default
+    {
+        効果処理
+    }

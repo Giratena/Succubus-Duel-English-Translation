@@ -244,7 +244,7 @@ default
 &&発動確認メッセージノー,Cancel
 &&連鎖発動確認メッセージ,Do you want to chain activate this card?
 &&カード生成回数メッセージ,The number of times this card can be generated is {x}.
-&&強制攻撃メッセージ,{A} attacks on it's own due to abnormal state!
+&&強制攻撃メッセージ,{A} attacks on its own due to abnormal state!
 &&身代わりメッセージ,{A} stands in to protect {B}!
 &&ゾーン占領メッセージ,Your opponent has captured one of your monster zones!
 &&コントロール溢れメッセージ,{A}'s control changed; but was destroyed because the field was full!
@@ -266,7 +266,7 @@ default
 &&AddWeakMessage,Player is now {x}% weaker to {A}.
 &&AddResistMessage,Player is now {x}% more resistant to {A}.
 &&InputTextShortageMessage,Character limit reached (Must be within {x} characters)
-&&InputTextOverMessage,Not enough characters (must be at leat {x} characters)
+&&InputTextOverMessage,Not enough characters (must be at least {x} characters)
 &&InputTextOKButton,Confirm
 &&SelectCardNothingMessage,There are no cards that can be selected.
 &&SelectCardShortageMessage,You do not have enough cards that can be selected.
