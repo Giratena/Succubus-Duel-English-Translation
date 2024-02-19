@@ -1,4 +1,5 @@
 default
+@初期設定
 &カード名,Lightning
 &効果テキスト,Deals 500 points of damage to all monsters on your opponent's side of the field. 
 &ハード効果テキスト,

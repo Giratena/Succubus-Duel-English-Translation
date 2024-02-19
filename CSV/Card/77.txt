@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,カースメイカー
-&効果テキスト,[1].1ターンに１度、自分の墓地の闇属性モンスター１枚をランダムに取り除いて発動できる。相手フィールド上のすべてのモンスターの最大HPを300ポイントダウンする。\n[2].このカードの攻撃宣言時に発動する。攻撃対象のキャラクターの最大HPを300ポイントダウンする。
+&カード名,Curse Maker
+&効果テキスト,[1]. Once per turn; you may banish 1 random dark element monster from your graveyard. If you do so; reduce the Max HP of all monsters on your opponent's side of the field by 300 points.\n[2]. When this card attacks; the defending monster has their Max HP reduced by 300 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

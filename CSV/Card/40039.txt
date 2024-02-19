@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,弱体化
-&効果テキスト,フィールド上のモンスター1体を選択して発動する。そのモンスターの攻撃力を半分にする。
+&カード名,Weaken
+&効果テキスト, Choose a monster on the field; that monster has its attack power cut in half.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

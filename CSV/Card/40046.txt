@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,ユニコーンの癒し
-&効果テキスト,フィールド上のモンスター1体を選択し、ライフを1000ポイント払って発動する。そのモンスターのHPを全回復させる。
+&カード名,Unicorn's healing
+&効果テキスト,Select a monster on the field and pay 1000 LP. Fully restore that monster's HP.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

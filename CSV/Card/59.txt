@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,荒野の狩人
-&効果テキスト,[1].自分の魔法トラップカードゾーンにカードが存在しない場合、このカードが与えるダメージは1.5倍になる。
+&カード名,Wilderness Hunter
+&効果テキスト,[1]. This card deals 1.5x more damage if there are no magic trap cards set on your side of the field.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

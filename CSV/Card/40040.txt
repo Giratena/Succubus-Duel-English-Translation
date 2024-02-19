@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,戦意高揚
-&効果テキスト,自分フィールド上のすべてのモンスターの攻撃力を２００ポイントアップさせる。
+&カード名,Fighting Spirit
+&効果テキスト,Increase the attack of all monsters on your side of the field by 200 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
