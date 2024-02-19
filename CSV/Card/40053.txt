@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,Surprise Attack
-&効果テキスト,Pay 500 LP to activate. Special Summon a level 4 or lower Dark-Attribute monster from your hand.
+&カード名,奇襲
+&効果テキスト,LPを500払って発動する。手札からレベル４以下の闇属性モンスター1体を特殊召喚する。
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
