@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,狩人のローブ
-&効果テキスト,装備したモンスターは最大HPが300ポイントアップする。ハンタータイプのモンスターが装備した場合、さらに攻撃力を300ポイントアップする。
+&カード名,Hunter's Robe
+&効果テキスト,Equip on target monster and increase their Max HP by 300 points. If the monster is a Hunter Type; their power is also increased by 300 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

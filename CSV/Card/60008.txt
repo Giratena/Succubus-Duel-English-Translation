@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,発掘シャベル
-&効果テキスト,自分キャラクターに装備可能。装備者が戦闘で相手モンスターを破壊したとき、デッキからランダムに「ジェム」カードを1枚手札に加える。
+&カード名,Excavation Shovel
+&効果テキスト,Equip on target character. When the equipped character destroys an opponent's monster in battle; add a random "Gem" card from the deck to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

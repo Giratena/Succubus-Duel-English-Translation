@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,煙の創造
-&効果テキスト,[1].LPを1500払って発動できる。自分フィールド上に「ウィスプ」を2体特殊召喚する。この効果で特殊召喚したモンスターはこのターンの間、上級召喚のコストにすることはできない。
+&カード名,Smoke Generator
+&効果テキスト,[1]. Pay 1500 LP to activate. Special summon 2 "Wisp" monsters to your side of the field. Monsters Special Summoned by this effect cannot be used as a cost for an Advanced Summon during this turn.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

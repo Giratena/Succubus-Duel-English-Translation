@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,クイック
-&効果テキスト,[1].自分のフィールドと墓地にモンスターが存在しない場合に、手札を1枚捨てて発動できる。このターンの間、プレイヤーの攻撃回数を１増加させる。
+&カード名,Quick
+&効果テキスト,[1]. If there are no monsters in your field and graveyard, you can discard a card in your hand. During this turn, you gain an additional player attack.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

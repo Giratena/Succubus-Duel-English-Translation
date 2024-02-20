@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,サムライ
-&効果テキスト,[1].このカードが直前の自分ターンに攻撃宣言をしていない場合、１ターンに１度、相手モンスターが場に出たとき発動できる。そのモンスターに1000ポイントのダメージを与える。
+&カード名,Samurai
+&効果テキスト,[1]. If this card did not attack last turn and an opponent's monster enteres the field; deal 1000 points of damage to that monster (once per turn).
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

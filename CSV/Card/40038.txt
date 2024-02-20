@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,埋葬
-&効果テキスト,自分のデッキからランダムに3枚のカードを墓地へ送る（デッキの残り枚数が3枚未満の場合、送れるだけ送る)。
+&カード名,Burial
+&効果テキスト,Send 3 random cards from your deck to the graveyard (If there are less than 3 cards left in your deck; send as many as you can).
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
