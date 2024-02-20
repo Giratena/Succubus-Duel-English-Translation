@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Sacred Light
-&効果テキスト,Pay 500 LP to activate.\n[1]. As long as this card is on the field; Dark Element monsters have their HP decreased by 300 points. Light Element monsters have their HP increased by 300 points.
+&効果テキスト,Pay 500 LP to activate.\n[1]. As long as this card is on the field; Dark Attribute monsters have their HP decreased by 300 points. Light Attribute monsters have their HP increased by 300 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
