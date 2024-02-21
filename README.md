@@ -9,4 +9,4 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 
  # How to support:
  - Support my work on Patreon! https://www.patreon.com/Giratena
- - Join the Gira translation discord for wholesome translation help and updates: https://discord.gg/rxsQSPZ
+ - Join the Translation Server discord for wholesome translation help and updates! https://discord.gg/rxsQSPZ
