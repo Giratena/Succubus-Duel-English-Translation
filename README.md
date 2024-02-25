@@ -9,7 +9,7 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 - The discard pile is called the "Grave yard"
 - Statuses are labeled as [Status Name (X)] where X is the effect number if any.
 
-## Card descritpion formating
+## Card description formating
 -  Effects are marked as [X]. where X is the effect number
 -  Effects that depend on the number must be descripted as X, and then defining what X is equal to.
    - EG: "[1]. Select a character on the field. Increase that character's attack power by 400 x X (X = the number of cards equipped)."
