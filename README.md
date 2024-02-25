@@ -5,8 +5,9 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 ## Card terminology
 - The elements a card can be (EG: Water, Fire Dark etc) is called "Attribute"
 - The type a card (EG: Rouge, Warrior, Hunter etc) is called "Type".
+- Attributes and Types are always capitalized. EG: "Hunter Type" or "Fire Attribute".
 - Removing a card from the game is called "banishing" a card.
-- The discard pile is called the "Grave yard"
+- The discard pile is called the "Graveyard". This word should be capitalized.
 - Statuses are labeled as [Status Name (X)] where X is the effect number if any.
 
 ## Card description formating
