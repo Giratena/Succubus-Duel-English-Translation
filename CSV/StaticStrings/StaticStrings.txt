@@ -195,6 +195,9 @@ default
 &&パワーアップエフェクト,PowerUpEffect
 &&パワーダウンエフェクト,PowerDownEffect
 &&シンプル魔法エフェクト,Circle
+&&魔法攻撃エフェクト,MagicAttack
+&&叩きつぶしエフェクト,ImpactAttack01
+&&ひっかきエフェクト,Claw
 
 //画像
 &&精液画像,Semen.png
@@ -265,8 +268,8 @@ default
 &&LevelDownMessage,Level decreased to {レベル}!\nAttack power down {x}!\nHP down {y}!
 &&AddWeakMessage,Player is now {x}% weaker to {A}.
 &&AddResistMessage,Player is now {x}% more resistant to {A}.
-&&InputTextShortageMessage,Character limit reached (Must be within {x} characters)
 &&InputTextOverMessage,Not enough characters (must be at least {x} characters)
+&&InputTextShortageMessage,Character limit reached (Must be within {x} characters)
 &&InputTextOKButton,Confirm
 &&SelectCardNothingMessage,There are no cards that can be selected.
 &&SelectCardShortageMessage,You do not have enough cards that can be selected.
