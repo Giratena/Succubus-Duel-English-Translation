@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Castle Built on Sand
-&効果テキスト,[1]. When this card is destroyed; destroy a random Magic or Trap card from your opponent.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

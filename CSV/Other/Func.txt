@@ -1,6 +1,6 @@
 default
 @情報収集
-    中央メニュー生成,情報収集,EventList/Info
+    中央メニュー生成,Investigate,EventList/Info
 
 @ショップ
     ショップ画面生成,Shop1    
@@ -9,7 +9,7 @@ default
     デッキ編集画面生成
 
 @タイトルに戻る
-    選択肢,タイトルに戻る,やっぱりやめる
+    選択肢,Quit Game,やっぱりやめる
     if,選択肢,==,1
     {
         場所移動,&&場所タイトル
@@ -19,7 +19,7 @@ default
     中央メニュー生成,シナリオ選択,EventList/Senario
 
 @特殊オプション
-    中央メニュー生成,特殊オプション,EventList/SpecialOption
+    中央メニュー生成,Special Options,EventList/SpecialOption
 
 
 @ロード
@@ -33,7 +33,7 @@ default
     ゲーム終了
 
 @再戦
-    中央メニュー生成,回想,EventList/Renoun
+    中央メニュー生成,Reminisce,EventList/Renoun
 
 
 @クエスト

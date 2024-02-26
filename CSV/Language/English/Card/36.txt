@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Minstrel
-&効果テキスト,If this card is special summoned; increase the max HP of all monsters on your side of the field by 800 points.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

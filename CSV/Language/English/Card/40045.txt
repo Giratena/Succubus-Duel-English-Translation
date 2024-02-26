@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Shadow Copy
-&効果テキスト,Choose one dark element monster on your field and discard 2 cards in your hand: Copy that monster with its current ability; and Special Summon it to your field.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

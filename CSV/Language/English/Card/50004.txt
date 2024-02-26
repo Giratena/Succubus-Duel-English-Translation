@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Steel Trap
-&効果テキスト,Activates on an opponent's normal summon. The summoned monster takes 1000 points of damage and cannot attack this turn.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

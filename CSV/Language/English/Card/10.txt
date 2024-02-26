@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Magic Researcher
-&効果テキスト,[1]. When this card is normal or special summoned; increase its ATK and MAX HP by 50 for each Magic card in your graveyard.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

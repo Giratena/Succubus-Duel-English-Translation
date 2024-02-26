@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Golden Tree of El Dorado
-&効果テキスト,As an additional cost; discard a Earth card from your hand. The first (1) effect of this card and all cards with the same name can be triggered only once per turn.\n[1]When this card is destroyed while it's face-up; draw 2 cards.\n[2]At the end of your turn; draw a card.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

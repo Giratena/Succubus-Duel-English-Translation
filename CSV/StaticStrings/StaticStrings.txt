@@ -226,53 +226,53 @@ default
 &&屈強な男立ち絵,
 
 //システムメッセージ
-&&召喚ボタン,召喚,
-&&攻撃ボタン,攻撃,
-&&発動ボタン,発動,
-&&防御ボタン,防御
-&&セットボタン,セット,
-&&オナニーボタン,オナニー,
-&&おねだりボタン,おねだり,
-&&デッキボタン,デッキ,
-&&墓地ボタン,墓地
-&&カード生成ボタン,カード生成
-&&キャンセルボタン,キャンセル
+&&召喚ボタン,Summon,
+&&攻撃ボタン,Attack,
+&&発動ボタン,Activate,
+&&防御ボタン,Defend
+&&セットボタン,Set,
+&&オナニーボタン,Masturbation,
+&&おねだりボタン,Beg,
+&&デッキボタン,Deck,
+&&墓地ボタン,Graveyard
+&&カード生成ボタン,Card Generation
+&&キャンセルボタン,Cancel
 
-&&バトル終了メッセージ,バトル終了！
-&&勝利メッセージ,プレイヤーの勝利！！
-&&敗北メッセージ,相手プレイヤーの勝利！！
-&&手札溢れメッセージ,手札上限枚数をオーバーしています。
-&&発動確認メッセージ,カードの効果を発動しますか？
-&&発動確認メッセージイエス,効果発動
-&&発動確認メッセージノー,キャンセル
-&&連鎖発動確認メッセージ,カードを連鎖発動しますか？
-&&カード生成回数メッセージ,カードの生成回数は残り{x}回です。
-&&強制攻撃メッセージ,{A}が状態異常のせいで勝手に攻撃をしてしまう！
-&&身代わりメッセージ,{A}が間に立って{B}を守っている！
-&&ゾーン占領メッセージ,相手に自分のモンスターゾーンが１か所占領された！
-&&コントロール溢れメッセージ,{A}のコントロールが変更されたがフィールドがいっぱいのため破壊された！
-&&コントロール奪取メッセージ,{A}のコントロールが奪われた！
-&&コントロールスワップメッセージ,{A}と{B}のコントロールが入れ替わった！
+&&バトル終了メッセージ,Battle End!
+&&勝利メッセージ,Player Wins!!
+&&敗北メッセージ,Opponent Player Wins!!
+&&手札溢れメッセージ,The maximum number of cards in hand has been exceeded.
+&&発動確認メッセージ,Would you like to activate this card's effect?
+&&発動確認メッセージイエス,Activation Effect
+&&発動確認メッセージノー,Cancel
+&&連鎖発動確認メッセージ,Do you want to chain activate this card?
+&&カード生成回数メッセージ,The number of times this card can be generated is {x}.
+&&強制攻撃メッセージ,{A} attacks on its own due to abnormal state!
+&&身代わりメッセージ,{A} stands in to protect {B}!
+&&ゾーン占領メッセージ,Your opponent has captured one of your monster zones!
+&&コントロール溢れメッセージ,{A}'s control changed; but was destroyed because the field was full!
+&&コントロール奪取メッセージ,{A}'s control was taken away!
+&&コントロールスワップメッセージ,The control of {A} and {B} switched!
 
-&&LoseMoneyMessage,{x}Gを失いました
-&&GetMoneyMessage,{x}Gを手に入れました
-&&AddPlayerAtkMessage.主人公の攻撃力が{x}ポイントアップしました
-&&LosePlayerAtkMessage,主人公の攻撃力が{x}ポイントダウンしました
-&&AddEXPMessage,経験値{x}ポイントを手に入れました
-&&LoseEXPMessage,経験値{x}ポイントを失いました
-&&AddRankPointMessage,ランクポイント{x}を手に入れました
-&&LoseRankPointMessage,ランクポイント{x}を失いました
-&&AddCardMessage,{A}を手に入れました
-&&RobCardMessage,{A}を1枚奪われました
-&&LevelUpMessage,レベルが{主人公レベル}になりました\n攻撃力{x}アップ！\nHP{y}アップ！
-&&LevelDownMessage,レベルが{主人公レベル}になりました\n攻撃力{x}ダウン、\nHP{y}ダウン
-&&AddWeakMessage,主人公は{A}に対して{x}%弱くなった
-&&AddResistMessage,主人公は{A}に対して{x}%強くなった
-&&InputTextOverMessage,文字数が多すぎます({x}文字以内)
-&&InputTextShortageMessage,文字数が少なすぎます({x}文字以上)
-&&InputTextOKButton,決定
-&&SelectCardNothingMessage,選択できるカードがありません
-&&SelectCardShortageMessage,必要な数の選択できるカードがありません
-&&SelectCardMessage,カードを選択してください。
-&&CoinMessage1,コインの結果は表
-&&CoinMessage2,コインの結果は裏
+&&LoseMoneyMessage,Lost {x}G.
+&&GetMoneyMessage,Obtained {x}G.
+&&AddPlayerAtkMessage.The main character's power increased by {x} points.
+&&LosePlayerAtkMessage,The main character's power decreased by {x} points.
+&&AddEXPMessage,Obtained {x} experience points.
+&&LoseEXPMessage,Lost {x} experience points.
+&&AddRankPointMessage,Obtained {x} rank points.
+&&LoseRankPointMessage,Lost {x} rank points.
+&&AddCardMessage,Obtained {A}.
+&&RobCardMessage,Lost 1 {A}.
+&&LevelUpMessage,Level increased to {レベル}!\nAttack power up {x}!\nHP up {y}!
+&&LevelDownMessage,Level decreased to {レベル}!\nAttack power down {x}!\nHP down {y}!
+&&AddWeakMessage,Player is now {x}% weaker to {A}.
+&&AddResistMessage,Player is now {x}% more resistant to {A}.
+&&InputTextOverMessage,Not enough characters (must be at least {x} characters)
+&&InputTextShortageMessage,Character limit reached (Must be within {x} characters)
+&&InputTextOKButton,Confirm
+&&SelectCardNothingMessage,There are no cards that can be selected.
+&&SelectCardShortageMessage,You do not have enough cards that can be selected.
+&&SelectCardMessage,Please select a card.
+&&CoinMessage1,The coin result is heads.
+&&CoinMessage2,The coin result is tails.
