@@ -117,8 +117,8 @@ default
         セリフ,ふふ・・・❤簡単に視線が吸い寄せられたにゃ❤\nずいぶんとチョロそうな男だにゃー❤
         セリフ,挟まれたいかにゃ？顔を埋めたいかにゃ？全部してやるにゃ❤\nだからさっさと、負けるといいにゃ❤\nくすくす❤
         バトル設定,奇襲
-        $firstSeduciton,=,1
-        $firstSeducitonBust,=,1
+        $firstSeduction,=,1
+        $firstSeductionBust,=,1
     }else{
         if,isズームthigh,
         {
@@ -126,8 +126,8 @@ default
             セリフ,んにゃ？おっぱいよりふとももの方が好きかにゃ？\nわたしのむちむちしたふともも、すっごく気持ちいいって人気があるにゃ❤
             セリフ,ここで挟みながら先っぽを指でカリカリしてやれば、\n男はみんな即昇天だにゃあ❤\nお前もされたいかにゃ？くすくす❤
             バトル設定,奇襲
-            $firstSeduciton,=,1
-            $firstSeducitonThigh,=,1
+            $firstSeduction,=,1
+            $firstSeductionThigh,=,1
         }else{
             セリフ,にゃは❤目線をそらしても顔が赤くなっているにゃ❤\nちょっとエッチなこと言っただけで照れて赤くなるのは、\nうちの弟といっしょだにゃ❤
         }
@@ -180,16 +180,16 @@ default
             セリフ,わたしが先攻だにゃ。\nさて、最初はどうするかにゃぁ・・・。
         }
     }   
-    if,$firstSeduciton,==,1
+    if,$firstSeduction,==,1
     {       
         話者変更,相手プレイヤー
         セリフ,(ううっ・・・・❤)
         フラッシュ,ピンク
-        if,$firstSeducitonBust,==,1
+        if,$firstSeductionBust,==,1
         {
             状態異常付与,相手プレイヤー,おっぱいに弱い20,
         }
-        if,$firstSeducitonThigh,==,1
+        if,$firstSeductionThigh,==,1
         {
             状態異常付与,相手プレイヤー,足に弱い20,
         }
@@ -213,16 +213,16 @@ default
             セリフ,わたしが先攻だにゃ。\nさて、最初はどうするかにゃぁ・・・。
         }
     }   
-    if,$firstSeduciton,==,1
+    if,$firstSeduction,==,1
     {       
         話者変更,相手プレイヤー
         セリフ,(ううっ・・・・❤)
         フラッシュ,ピンク
-        if,$firstSeducitonBust,==,1
+        if,$firstSeductionBust,==,1
         {
             状態異常付与,相手プレイヤー,おっぱいに弱い20,
         }
-        if,$firstSeducitonThigh,==,1
+        if,$firstSeductionThigh,==,1
         {
             状態異常付与,相手プレイヤー,足に弱い20,
         }
@@ -843,11 +843,11 @@ default
     攻撃タイプランダム変更,パイズリ,ふとももコキ
     if,現在ターン,==,1
     {
-        if,$firstSeducitonBust,==,1
+        if,$firstSeductionBust,==,1
         {
             攻撃タイプ変更,パイズリ
         }
-        if,$firstSeducitonThigh,==,1
+        if,$firstSeductionThigh,==,1
         {
             攻撃タイプ変更,ふとももコキ
         }
@@ -931,11 +931,11 @@ default
     攻撃タイプランダム変更,パイズリ,ふとももコキ
     if,現在ターン,==,1
     {
-        if,$firstSeducitonBust,==,1
+        if,$firstSeductionBust,==,1
         {
             攻撃タイプ変更,パイズリ
         }
-        if,$firstSeducitonThigh,==,1
+        if,$firstSeductionThigh,==,1
         {
             攻撃タイプ変更,ふとももコキ
         }

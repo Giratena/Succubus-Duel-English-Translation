@@ -195,6 +195,9 @@ default
 &&パワーアップエフェクト,PowerUpEffect
 &&パワーダウンエフェクト,PowerDownEffect
 &&シンプル魔法エフェクト,Circle
+&&魔法攻撃エフェクト,MagicAttack
+&&叩きつぶしエフェクト,ImpactAttack01
+&&ひっかきエフェクト,Claw
 
 //画像
 &&精液画像,Semen.png
@@ -265,8 +268,8 @@ default
 &&LevelDownMessage,レベルが{主人公レベル}になりました\n攻撃力{x}ダウン、\nHP{y}ダウン
 &&AddWeakMessage,主人公は{A}に対して{x}%弱くなった
 &&AddResistMessage,主人公は{A}に対して{x}%強くなった
-&&InputTextShortageMessage,文字数が多すぎます({x}文字以内)
-&&InputTextOverMessage,文字数が少なすぎます({x}文字以上)
+&&InputTextOverMessage,文字数が多すぎます({x}文字以内)
+&&InputTextShortageMessage,文字数が少なすぎます({x}文字以上)
 &&InputTextOKButton,決定
 &&SelectCardNothingMessage,選択できるカードがありません
 &&SelectCardShortageMessage,必要な数の選択できるカードがありません

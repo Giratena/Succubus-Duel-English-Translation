@@ -1,0 +1,3 @@
+default
+リュカメイド,
+NPC9_paizuriAnime,
