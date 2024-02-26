@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Aqua Gem
-&効果テキスト,Discard 1 card in your hand to play. All monsters on your field become the water element and gain [Reinforcement] (Each time the player discards a card; their attack power increases by 100 points.)
+&効果テキスト,Discard 1 card in your hand to play. All monsters on your field gain the Water Attribute and [Reinforcement] (Each time the player discards a card; their attack power increases by 100 points.)
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

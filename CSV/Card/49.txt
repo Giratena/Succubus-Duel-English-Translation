@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Temple Knight
-&効果テキスト,[1]. If this card initiates combat against a dark element monster: Increase the attack power of this card by 200 points.
+&効果テキスト,[1]. If this card initiates combat against a Dark Attribute Card: Increase the attack power of this card by 200 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
