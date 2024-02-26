@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Divine Protection
+&効果テキスト,When your opponent activates a Magic Card: Grant all monsters on your field "Damage received is halved" for 1 turn.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

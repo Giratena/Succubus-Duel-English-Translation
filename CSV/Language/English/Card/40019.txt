@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Water Barrier
+&効果テキスト,Halves combat damage taken by the player until their next turn.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

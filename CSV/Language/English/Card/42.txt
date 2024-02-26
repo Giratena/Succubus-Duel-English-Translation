@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Crimson Berserker
+&効果テキスト,[1]. If this card is damaged a fire element card: The attack power of this card is increased by 600 points until the end of the turn.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

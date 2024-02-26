@@ -1,0 +1,14 @@
+default
+Change Difficulty,Other/Func,オプション難易度変更,
+Remove Weaknesses,Other/Func,オプション弱点無効,
+Remove all Weaknesses,Other/Func,オプション弱点全解除
+Regain Lost Power,Other/Func,オプション攻撃力の復活
+Auto Advance Text,Other/Func,オプション自動文字送り設定,
+BGM Volume Settings,Other/Func,オプションBGM音量調整
+SE Volume Settings,Other/Func,オプションSE音量調整
+Ability Limits,Other/Func,オプション主人公の能力上限,
+Erotic Effects Display,Other/Func,オプションエロ系効果の表記,
+Display Remaining Cards in Shop,Other/Func,オプション未所持カード表示
+Change the Hero's Name,Other/Func,オプション主人公の名前変更
+Change the Hero's Appearance,Other/Func,オプション主人公の見た目変更
+Change Text Sound,Other/Func,オプション文字音変更

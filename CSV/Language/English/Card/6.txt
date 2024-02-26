@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,High Bandit
+&効果テキスト,When this card attacks; pay 800LP to increase its attack by 500.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

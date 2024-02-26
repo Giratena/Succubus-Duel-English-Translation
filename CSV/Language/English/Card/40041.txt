@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Fruit of Life
+&効果テキスト,Target monster on your side of the field gains "Growth" (HP increases by 200 points at the end of your turn.)
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

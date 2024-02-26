@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Taoist - Xinyi
+&効果テキスト,[1]. Once per turn when a "Tree" card is activated; you may pay 1000 LP. If you do so; special summon 1 level 4 or lower earth element monster from your deck.\n[2]. You may select one "tree" card on the field. If you do so; destroy that card and all monsters on your side of the field gain [Growth (400)].
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

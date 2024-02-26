@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Aqua Guardian
+&効果テキスト,Send your hand to your graveyard: Increase this card's HP by 800 points (Triggers once even if multiple cards are discarded).
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,水中神殿を守る鉄壁の戦士。古代の技術で作られた鎧は、水をエネルギーに変え、どこまでも強くなる。
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

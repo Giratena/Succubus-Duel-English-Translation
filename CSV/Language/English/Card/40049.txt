@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Boast of the Beast
+&効果テキスト,Pay 1200 LP to activate. As long as this card is on the field, the attack and HP of Beast-Type monsters on the field are increased by 200 points.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

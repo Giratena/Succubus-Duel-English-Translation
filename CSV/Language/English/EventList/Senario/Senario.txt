@@ -1,0 +1,4 @@
+default
+メインストーリー,Card/70001,NewGame
+
+

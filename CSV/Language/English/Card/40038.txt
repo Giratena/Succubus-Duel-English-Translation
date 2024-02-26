@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Burial
+&効果テキスト,Send 3 random cards from your deck to the graveyard (If there are less than 3 cards left in your deck; send as many as you can).
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

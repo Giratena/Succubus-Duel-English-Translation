@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Limit Break
+&効果テキスト,Choose a monster whose parameters are increased. Increase that monster's Attack and HP by 400 points.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

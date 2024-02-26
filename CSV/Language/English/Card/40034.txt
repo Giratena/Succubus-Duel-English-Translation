@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Ice Shard
+&効果テキスト,[1]. Choose one monster on the field. That monster receives 300 points of damage and is inflicted with [Freeze] (monster cannot attack next turn).
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

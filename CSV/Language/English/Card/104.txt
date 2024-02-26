@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Uncharted Explorer
+&効果テキスト,[1]. If there are only level 5 or higher monsters on the enemy field; this card can attack the opponent directly.\n[2]. If this card is normal summoned when there are 3 or more set face down cards on your opponent's field; draw 2 cards.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

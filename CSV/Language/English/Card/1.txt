@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Black Knight
+&効果テキスト,
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,A seasoned warrior who wears dark armor. He cuts down all foes that stand before him with his sharp blade.
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Breaking Sword
+&効果テキスト,[1]. If there is a Warrior Type monster on your field; select an opposing monster that is equipped with a card. That monster receives 800 damage and destroy one if it's equipped cards.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

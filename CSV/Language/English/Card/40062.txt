@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Concealment
+&効果テキスト,[1]. Discard a Level 5 or lower Water attribute monster from your hand. At the beginning of your next turn; send this card to the Graveyard; and Special Summon the discarded monster from your Graveyard.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

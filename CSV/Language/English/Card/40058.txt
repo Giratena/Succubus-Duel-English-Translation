@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Warming Flame
+&効果テキスト,[1]. Restores LP by 80 x X points (X = The number of Flame Element cards in your Graveyard.)
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

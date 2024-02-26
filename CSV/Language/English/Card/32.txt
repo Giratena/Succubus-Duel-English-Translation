@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Reaper
+&効果テキスト,Pay 500LP (once per turn): Increase the attack power of this card by 400 points.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

@@ -1,15 +1,26 @@
 default
-モルゲン宿屋,
-Place/MorugenInn,
-デッキ編集,
-タイトルに戻る,
-ロード,
-セーブ,
-回想,
-特殊オプション,
-プレイヤー情報,
-仮想バトル,
-街へ戻る,
-テスト,
-テスト2,
-テスト3,
+@拠点初期設定
+    &拠点名前,=,モルゲン宿屋
+    &ファイルパス,Place/MorugenInn,
+    拠点背景設定,&&宿屋朝背景
+    BGM,&&宿屋BGM    
+    メニュー初期化
+    メニュー追加,Deck Edit,Other/Func,デッキ編集
+    メニュー追加,Quit Game,Other/Func,タイトルに戻る
+    メニュー追加,Load,Other/Func,ロード
+    メニュー追加,Save,Other/Func,セーブ
+    メニュー追加,Reminisce,Other/Func,再戦
+    メニュー追加,Special Options,Other/Func,特殊オプション
+    メニュー追加,Player Information,Other/Func,プレイヤー情報
+    メニュー追加,Virtual Battle,Card/70040,仮想バトル
+    メニュー追加,To Town,&ファイルパス,街へ戻る
+    メニュー生成,右
+    イベント終了
+
+@街へ戻る
+    if,$$Samle削除,==,0
+    {
+        カード全削除,Sample_1
+        $$Samle削除,=,1
+    }
+    場所移動,&&場所モルゲン

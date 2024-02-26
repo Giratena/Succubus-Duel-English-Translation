@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Snatch
+&効果テキスト,This card can be activated by paying 800 LP when there is a Rouge type monster on your field.\n[1]. When your opponent discards a card in their hand; reduce your opponents Max LP by 800 points and restore your Max LP by 800 points. (Can be triggered up to 3 times per turn.)
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

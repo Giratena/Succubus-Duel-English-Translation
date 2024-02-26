@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Wind Cutter
+&効果テキスト,Deals 200 damage to a monster. This damage is increased by 300 for every other Wind card on your field.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

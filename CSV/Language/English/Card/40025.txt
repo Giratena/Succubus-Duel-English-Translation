@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Bubble Chain
+&効果テキスト,[1]. Pay 500 Life: Choose a water monster on your side of the field. Add one random water element monster to your hand equal to that monster's level.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

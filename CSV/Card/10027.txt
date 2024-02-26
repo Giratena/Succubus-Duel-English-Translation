@@ -1,6 +1,6 @@
 default
 @初期設定
-    &カード名,Golem
+    &カード名,ゴーレム
     &カード画像,EU27.png
     &胸ズーム,EU27_bustZoom.png
     &立ち絵射精胸,EU27_BustCum.png

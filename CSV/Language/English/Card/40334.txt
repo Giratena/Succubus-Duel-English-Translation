@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Leaf Cutter
+&効果テキスト,Cooldown 4.\n[1]Destroy target Trap card. Requires a 「Tree」 card on your field.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

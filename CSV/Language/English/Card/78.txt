@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Samurai
+&効果テキスト,[1]. If this card did not attack last turn and an opponent's monster enteres the field; deal 1000 points of damage to that monster (once per turn).
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

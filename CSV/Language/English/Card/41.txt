@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Ninja
+&効果テキスト,[1]. This card cannot be targeted by enemy effects (can still be affected by random or field wide effects).\n[2]. Banish two random rogue type monsters from the graveyard: During this turn; this card may attack the opposing player directly.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

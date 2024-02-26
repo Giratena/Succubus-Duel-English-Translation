@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Training Monk
+&効果テキスト,[1]. If this card gains [Growth]; draw a card (can activate up to 2 times per turn).\n[2]. If an opponent's monster is destroyed in battle and this card has [Growth]; increase this card's attack power by 400 points.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

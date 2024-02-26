@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Insect Sound
+&効果テキスト,Add a random Insect-type monster from the Deck to your hand. If there is a Plant-type monster on your field; add another Insect-type monster to your hand.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

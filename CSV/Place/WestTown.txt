@@ -16,17 +16,17 @@ Auto,次のステージアナウンス,次のステージアナウンス,$$西�
     拠点背景設定,&&西の村背景
     BGM,&&西の村BGM
     メニュー初期化
-メニュー追加,Investigate,Other/Func,情報収集
-    メニュー追加,Shop,Other/Func,ショップ
-    メニュー追加,Deck Edit,Other/Func,デッキ編集
-    メニュー追加,Quit Game,Other/Func,タイトルに戻る
-    メニュー追加,Special Options,Other/Func,特殊オプション
-    メニュー追加,Load,Other/Func,ロード
-    メニュー追加,Save,Other/Func,セーブ
-    メニュー追加,Rematch,Other/Func,再戦
+    メニュー追加,情報収集,Other/Func,情報収集
+    メニュー追加,ショップ,&ファイルパス,ショップ
+    メニュー追加,デッキ編集,Other/Func,デッキ編集
+    メニュー追加,タイトルに戻る,Other/Func,タイトルに戻る
+    メニュー追加,特殊オプション,Other/Func,特殊オプション
+    メニュー追加,ロード,Other/Func,ロード
+    メニュー追加,セーブ,Other/Func,セーブ
+    メニュー追加,回想,Other/Func,再戦
     if,$$西の村情報A,==,1,&&,$$西の村情報B,==,1
     {
-        メニュー追加,To Next Stage,&ファイルパス,次のステージへ
+        メニュー追加,次のステージへ,&ファイルパス,次のステージへ
     }
     メニュー生成,左
     テキストファイル再読み込み

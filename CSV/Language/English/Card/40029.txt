@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Power Strike
+&効果テキスト,If there are no monsters on your field or Graveyard; you may deal damage to a monster on the opponent's field equal to the player's attack value.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,

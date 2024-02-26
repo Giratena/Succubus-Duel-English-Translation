@@ -1,0 +1,9 @@
+default
+@初期設定
+&カード名,Dark Magic Circle
+&効果テキスト,[1]. When you put a dark element monster on your side of the field; add 1 charge to this card.\n[2]. If this card has 5 or more charges; special summon one random dark element monster of cost 5 or higher from your deck; then banish this card.
+&ハード効果テキスト,
+&イージー効果テキスト,
+&フレーバーテキスト,
+&エロ効果テキスト,
+&ハードエロ効果テキスト,
