@@ -1,5 +1,5 @@
 default
-いらっしゃいませー。何かお探しですか？,
-そのパックがほしいの？,
-あら。お金が足りないみたいだね。,
-ありがとう！まだなにか買ってく？,
+いらっしゃいませー。何かお探しですか？,Welcome. Looking for something?
+そのパックがほしいの？,Do you want that pack?
+あら。お金が足りないみたいだね。,Oh. It seems like you don't have enough money.
+ありがとう！まだなにか買ってく？,Do you still want to buy something else?

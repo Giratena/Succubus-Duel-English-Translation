@@ -1,0 +1,3 @@
+default
+スマッシュドワーフ,Smash Dwarf
+[1].自分が「ジェム」カードを発動するたびにこのカードの攻撃力は200ポイントアップする。\n[2].このカードが戦闘で破壊され墓地へ送られたとき、デッキから「ジェム」カードを1枚ランダムに手札に加える。,[1]. Increase this card's attack power by 200 points for every "Gem" card you activate. \n[2]. When this card is destroyed in combat and sent to the graveyard; add one random "Gem" card from the deck into your hand.

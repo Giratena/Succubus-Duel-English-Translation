@@ -1,5 +1,5 @@
 default
-いらっしゃい！何かほしいものはあるかい？,
-そのパックでいいの？,
-ありゃ。お金が足りないみたいだね。,
-ありがとう。まだ何か買ってく？,
+いらっしゃい！何かほしいものはあるかい？,Welcome! Is there anything you want?
+そのパックでいいの？,Is that pack okay?
+ありゃ。お金が足りないみたいだね。,Aww. It seems like you don't have enough money.
+ありがとう。まだ何か買ってく？,Do you still want to buy something else?
