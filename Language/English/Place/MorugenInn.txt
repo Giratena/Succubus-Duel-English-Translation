@@ -1,0 +1,15 @@
+default
+モルゲン宿屋,
+Place/MorugenInn,
+デッキ編集,Deck Edit
+タイトルに戻る,
+ロード,Load
+セーブ,Save
+回想,Reminisce
+特殊オプション,Special Options
+プレイヤー情報,
+仮想バトル,
+街へ戻る,Return to Town
+テスト,
+テスト2,
+テスト3,

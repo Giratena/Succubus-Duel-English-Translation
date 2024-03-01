@@ -1,0 +1,3 @@
+default
+リュカメイド,
+NPC10_bustShakeAnime,

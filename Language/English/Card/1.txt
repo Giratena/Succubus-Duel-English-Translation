@@ -1,0 +1,3 @@
+default
+ブラックナイト,Black Knigh
+黒い鎧に身を包んだ上級剣士。するどい剣で敵を切り裂く。,A seasoned warrior who wears dark armor. He cuts down all foes that stand before him with his sharp blade.

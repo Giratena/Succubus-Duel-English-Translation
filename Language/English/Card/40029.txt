@@ -1,0 +1,3 @@
+default
+パワーストライク,Power Strike
+自分のフィールド上および墓地にモンスターが1枚も存在しない場合に発動できる。相手フィールド上のモンスター1体に、プレイヤーの攻撃力分のダメージを与える。,If there are no monsters on your field or Graveyard; you may deal damage to a monster on the opponent's field equal to the player's attack value.

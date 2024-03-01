@@ -1,0 +1,1 @@
+{"version":1.090999960899353,"messageWaitTime":0.0,"seVolume":0.0,"bgmVolume":-10.0,"optionAboutCardText":1,"shouldWaitFinishKey":false,"renounTutorialFlag":false,"willShowCardPackAllContents":true,"languagePath":"English","typeSoundName":"TypeSound_Click14.wav"}

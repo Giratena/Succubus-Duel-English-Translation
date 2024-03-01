@@ -1,0 +1,3 @@
+default
+毒のジェムLv1,Poison Gem Lv1
+[1].フィールド上のモンスター１体を対象にして発動する。そのモンスターに毒200を与える。,[1]. Inflicts Poison(200) on target monster.

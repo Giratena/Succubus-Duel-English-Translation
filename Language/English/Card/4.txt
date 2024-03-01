@@ -1,0 +1,3 @@
+default
+ブックメイカー,Book Maker
+このカードが通常召喚に成功したとき、500ライフポイント払って発動する。魔法カードをランダムに１枚デッキから手札に加える。,When this card is normal summoned; pay 500 life points and add 1 random Magic card from your deck to your hand.

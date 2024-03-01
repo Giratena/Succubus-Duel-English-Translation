@@ -1,0 +1,3 @@
+default
+ユニコーンの癒し,Unicorn's healing
+フィールド上のモンスター1体を選択し、ライフを1000ポイント払って発動する。そのモンスターのHPを全回復させる。,Select a monster on the field and pay 1000 LP. Fully restore that monster's HP.

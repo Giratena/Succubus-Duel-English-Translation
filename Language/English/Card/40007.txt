@@ -1,0 +1,3 @@
+default
+守護の盾,Protection Shield
+場のモンスター１体に「次受ける戦闘ダメージは０になる」を付与する。,Grants one monster on the field "All Combat Damage Recieved next fight becomes 0".

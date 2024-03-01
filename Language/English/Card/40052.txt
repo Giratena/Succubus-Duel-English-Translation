@@ -1,0 +1,3 @@
+default
+シャーマンロッド,Shaman rod
+自分フィールド上の「シャーマン」モンスター1体を選択して発動する。そのモンスターと同じ属性のレベル4以下モンスターをデッキからランダムに1体特殊召喚する。,Select 1 "Shaman" monster on your field. Special Summon 1 Level 4 or lower monster of the same attribute as that monster at random from the Deck.

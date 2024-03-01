@@ -1,0 +1,3 @@
+default
+捜索,Tracking
+自分のデッキからランダムに地属性のモンスター１体を手札に加える。,Add a random Earth monster from your deck to your hand.
