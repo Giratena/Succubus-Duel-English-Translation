@@ -1,10 +1,10 @@
 default
 ネネコ,Neneko
 F18_paizuriAnime,
-にゃ、お前は闘技場で戦ったあのマスターかにゃ。\nお前が活躍してるせいで弟がますます冒険に乗り気になってるのにゃ。\nどうしてくれるのにゃ。,Nya- You're that Card Master from that arena-nya! \nBecause of your running around, my brother is becoming more and more interested in adventuring-nya. \nOh, what will I do-nya.
-サキュバスとかほかの悪い女に捕まったらと思うと、\n心配でしょうがないのにゃ。,When I think about him being caught getting by some bad women or succubi, \nI can't help but be worried-nya...
-だからやっぱり姉として\n男のマスターには限界があるっていうのを\n教えてやらないといけないのにゃ。,So as his older sister, \nI must teach him the limits of a male card master-nya. 
-今日はお前に勝ってみせるにゃ。\nそうすれば少しは弟も思い直すと思うにゃ。\nさあ、妖怪たちとわたしの体でお前をひぃひぃ喘がせてやるのにゃ❤,I'm going to show him that I defeated you today-nya.\nIf I do that, then my brother will rethink things a little-nya.\nNow then, I'll use my youkai and body to leave you paw-sitively meowing and moaning in defeat-nya!❤
+にゃ、お前は闘技場で戦ったあのマスターかにゃ。\nお前が活躍してるせいで弟がますます冒険に乗り気になってるのにゃ。\nどうしてくれるのにゃ。,Nya- You're that Card Master from that arena-nya! \nBecause of your running around; my brother is becoming more and more interested in adventuring-nya. \nOh; what will I do-nya.
+サキュバスとかほかの悪い女に捕まったらと思うと、\n心配でしょうがないのにゃ。,When I think about him being caught getting by some bad women or succubi; \nI can't help but be worried-nya...
+だからやっぱり姉として\n男のマスターには限界があるっていうのを\n教えてやらないといけないのにゃ。,So as his older sister; \nI must teach him the limits of a male card master-nya. 
+今日はお前に勝ってみせるにゃ。\nそうすれば少しは弟も思い直すと思うにゃ。\nさあ、妖怪たちとわたしの体でお前をひぃひぃ喘がせてやるのにゃ❤,I'm going to show him that I defeated you today-nya.\nIf I do that; then my brother will rethink things a little-nya.\nNow then; I'll use my youkai and body to leave you paw-sitively meowing and moaning in defeat-nya!❤
 にゃ、お前かにゃ。何度負けてもわたしはあきらめないのにゃ。\nブラコンだとかなんとか言ってくるやつもいるけど、\nそんなの知らないのにゃ。肉親はやっぱり大事だにゃ。,
 え？お前も妹が大好きで、それを探すために戦っている？\nうにゅにゅ、そんな事情があったのかにゃ。\nそれはそれで立派だと思うのにゃ。,
 でもお前のこととわたしのことは別件だにゃ。\n弟を説得するために、やっぱりお前に勝つ必要がいるのにゃ。\nお互い情けは無用で戦おうじゃにゃいかにゃ。,
@@ -79,7 +79,7 @@ During a successful summon, I can activate {使用カード}!\nI can search for 
 I activate {使用カード}!\nIf I use this card when a {%%10040} is on my field;\n I can Special Summon a Beast Type monster of level 4 or lower from my deck!,
 {使用カード}を発動！\nデッキからレベル４以下の獣モンスターを１枚手札に加えるにゃ。,
 わたしの切り札にゃ！{使用カード}を発動！,This is my trump card-nya! Activate {使用カード}!,
-このカードがある限り、自分フィールド上のモンスターは\n自分フィールド上にいた時間が２ターン上乗せされるにゃ。,As long as this card is on the field, monsters on my side of the field will count as if being on my field for two turns-nya,
+このカードがある限り、自分フィールド上のモンスターは\n自分フィールド上にいた時間が２ターン上乗せされるにゃ。,As long as this card is on the field; monsters on my side of the field will count as if being on my field for two turns-nya,
 妖怪は時間を経れば強くなる。\nさあ強力な効果で追い詰めてやるのにゃ！,My youkai get stronger as time passes.\nNow I'll corner you with their strengthened effects-nya!
 効果が切れても追加で出せばいいのにゃ！\n{使用カード}を発動！,
 永続魔法{使用カード}を発動！\nわたしの獣モンスターが相手モンスターを破壊したら\n回復してパワーアップするようになるにゃ。, I chain activate {使用カード}!\nWhen my Beast Type monster defeats one of your monsters, they recover and get a purrfect power boost-nya! 
