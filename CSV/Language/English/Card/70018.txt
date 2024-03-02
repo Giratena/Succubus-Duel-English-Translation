@@ -1,10 +1,10 @@
 default
-ネネコ,
+ネネコ,Neneko
 F18_paizuriAnime,
-にゃ、お前は闘技場で戦ったあのマスターかにゃ。\nお前が活躍してるせいで弟がますます冒険に乗り気になってるのにゃ。\nどうしてくれるのにゃ。,
-サキュバスとかほかの悪い女に捕まったらと思うと、\n心配でしょうがないのにゃ。,
-だからやっぱり姉として\n男のマスターには限界があるっていうのを\n教えてやらないといけないのにゃ。,
-今日はお前に勝ってみせるにゃ。\nそうすれば少しは弟も思い直すと思うにゃ。\nさあ、妖怪たちとわたしの体でお前をひぃひぃ喘がせてやるのにゃ❤,
+にゃ、お前は闘技場で戦ったあのマスターかにゃ。\nお前が活躍してるせいで弟がますます冒険に乗り気になってるのにゃ。\nどうしてくれるのにゃ。,Nya- You're that Card Master from that arena-nya! \nBecause of your running around, my brother is becoming more and more interested in adventuring-nya. \nOh, what will I do-nya.
+サキュバスとかほかの悪い女に捕まったらと思うと、\n心配でしょうがないのにゃ。,When I think about him being caught getting by some bad women or succubi, \nI can't help but be worried-nya...
+だからやっぱり姉として\n男のマスターには限界があるっていうのを\n教えてやらないといけないのにゃ。,So as his older sister, \nI must teach him the limits of a male card master-nya. 
+今日はお前に勝ってみせるにゃ。\nそうすれば少しは弟も思い直すと思うにゃ。\nさあ、妖怪たちとわたしの体でお前をひぃひぃ喘がせてやるのにゃ❤,I'm going to show him that I defeated you today-nya.\nIf I do that, then my brother will rethink things a little-nya.\nNow then, I'll use my youkai and body to leave you paw-sitively meowing and moaning in defeat-nya!❤
 にゃ、お前かにゃ。何度負けてもわたしはあきらめないのにゃ。\nブラコンだとかなんとか言ってくるやつもいるけど、\nそんなの知らないのにゃ。肉親はやっぱり大事だにゃ。,
 え？お前も妹が大好きで、それを探すために戦っている？\nうにゅにゅ、そんな事情があったのかにゃ。\nそれはそれで立派だと思うのにゃ。,
 でもお前のこととわたしのことは別件だにゃ。\n弟を説得するために、やっぱりお前に勝つ必要がいるのにゃ。\nお互い情けは無用で戦おうじゃにゃいかにゃ。,
@@ -44,15 +44,15 @@ Cランクに入ってからも連勝伝説は続くのか！\n今回も危な�
 弟が真似しないようにと思ってたけれど、\nこれだけ強いと文句も言えないのにゃ。\nほんとたいしたもんだにゃ。,
 このままじゃお姉ちゃんとして示しがつかないし、\nいつかお前には勝つのにゃ！\n首を洗って待ってるにゃあ！,
 闘技場の勝利報酬を得た！,
-む、先攻はそっちだにゃ。\nどんなカードで来るのかにゃ？,
+む、先攻はそっちだにゃ。\nどんなカードで来るのかにゃ？,Mm, looks like you start first-nya.\nI wonder what kinds of cards you'll use-nya?
 くすくす❤見とれて隙だらけじゃにゃいか。\nそんなボーっと立ってたら、\nわたしに攻撃してくれと言っているのと同じだにゃ❤,
 それじゃわたしのターンからはじめるにゃ❤\n手下と一緒にすぐにイかせてやるにゃ❤,
 わたしが先攻だにゃ。\nさて、最初はどうするかにゃぁ・・・。,
 (ううっ・・・・❤),
-ドローするにゃ。,
-わたしのターンだにゃ、ドロー！,
-モンスターをコストにして、{使用カード}を上級召喚するにゃ！,
-{使用カード}を召喚！,
+ドローするにゃ。,Draw-nya.
+わたしのターンだにゃ、ドロー！,It's my turn-nya, draw!
+モンスターをコストにして、{使用カード}を上級召喚するにゃ！,Now to advance summon {使用カード} with this monster-nya!
+{使用カード}を召喚！,Summon {使用カード}!
 {使用カード}は「挑発」の能力を持っているにゃ。\nこのカードがいる限り、\nそっちのモンスターは{使用カード}しか攻撃できないのにゃ。,
 背は低いけどおっぱいの大きいカードだにゃ。\n招かれるままにこの子のおっぱいを楽しむといいにゃ❤\nくすくす❤,
 ううっ、あうう・・・❤,
