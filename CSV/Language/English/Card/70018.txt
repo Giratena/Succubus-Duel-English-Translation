@@ -51,7 +51,7 @@ Cランクに入ってからも連勝伝説は続くのか！\n今回も危な�
 (ううっ・・・・❤),
 ドローするにゃ。,Draw-nya.
 わたしのターンだにゃ、ドロー！,It's my turn-nya, draw!
-モンスターをコストにして、{使用カード}を上級召喚するにゃ！,Now to advance summon {使用カード} with this monster-nya!
+モンスターをコストにして、{使用カード}を上級召喚するにゃ！,Now I sacrifice my monster to advance summon {使用カード}!
 {使用カード}を召喚！,Summon {使用カード}!
 {使用カード}は「挑発」の能力を持っているにゃ。\nこのカードがいる限り、\nそっちのモンスターは{使用カード}しか攻撃できないのにゃ。,
 背は低いけどおっぱいの大きいカードだにゃ。\n招かれるままにこの子のおっぱいを楽しむといいにゃ❤\nくすくす❤,
@@ -73,14 +73,13 @@ Cランクに入ってからも連勝伝説は続くのか！\n今回も危な�
 召喚に成功した時、{使用カード}の効果を発動！\nデッキから「{%%40138}」を１枚手札に加えるにゃ！,During a successful summon; I can activate {使用カード}!\nI can search for one「{%%40138}」in my deck to put into my hand-nya!,
 {使用カード}を発動！\nわたしの獣モンスターはみんなパワーアップするにゃ。,I activate {使用カード}!\nNow all my beast monster cards are powered up-nya.,
 {使用カード}を発動！\n獣モンスターをみんなパワーアップするにゃ！,I activate {使用カード}!\nNow my beast monster cards will get all powered up-nya!,
-{使用カード}を発動！\n自分フィールドに{%%10040}がいるときこのカードを使うと、\nデッキからレベル４以下の獣モンスターを特殊召喚できるにゃ！,
-I activate {使用カード}!\nIf I use this card when a {%%10040} is on my field;\n I can Special Summon a Beast Type monster of level 4 or lower from my deck!,
+{使用カード}を発動！\n自分フィールドに{%%10040}がいるときこのカードを使うと、\nデッキからレベル４以下の獣モンスターを特殊召喚できるにゃ！,I activate {使用カード}!\nIf I use this card when a {%%10040} is on my field;\n I can Special Summon a Beast Type monster of level 4 or lower from my deck!,
 {使用カード}を発動！\nデッキからレベル４以下の獣モンスターを１枚手札に加えるにゃ。,
 わたしの切り札にゃ！{使用カード}を発動！,This is my trump card-nya! Activate {使用カード}!,
 このカードがある限り、自分フィールド上のモンスターは\n自分フィールド上にいた時間が２ターン上乗せされるにゃ。,As long as this card is on the field; monsters on my side of the field will count as if being on my field for two turns-nya!,
 妖怪は時間を経れば強くなる。\nさあ強力な効果で追い詰めてやるのにゃ！,Because my youkai get stronger as time passes;\nI'll be able to corner you with their strengthened effects-nya!
 効果が切れても追加で出せばいいのにゃ！\n{使用カード}を発動！,
-永続魔法{使用カード}を発動！\nわたしの獣モンスターが相手モンスターを破壊したら\n回復してパワーアップするようになるにゃ。, I chain activate {使用カード}!\nWhen my Beast Type monster defeats one of your monsters, they recover and get a purrfect power boost-nya! 
+永続魔法{使用カード}を発動！\nわたしの獣モンスターが相手モンスターを破壊したら\n回復してパワーアップするようになるにゃ。, I chain activate {使用カード}!\nWhen my Beast Type monster defeats one of your monsters; they recover and get a purrfect power boost-nya! 
 相手モンスターを破壊した時、魔法カード{使用カード}を発動！\n破壊したモンスターは体力を回復して、パワーアップするにゃ！,
 相手モンスターを破壊した時、{使用カード}を発動！\n体力を回復して、攻撃力を600ポイントアップするにゃ！,
 When one of my monsters defeats yours; I can activate {使用カード}!\nThe attacking monster recovers all their HP and has their attack increased by 600 points-nya! 
@@ -95,7 +94,7 @@ When one of my monsters defeats yours; I can activate {使用カード}!\nThe at
 カードを伏せるにゃ。,I'll set this card face down-nya.
 わたしのテクで気持ちよくしてやるにゃ。{防御カード}を攻撃！,
 わたしも攻めるにゃ！{防御カード}を攻撃！,I can attack too-nya！I attack{防御カード}！,
-行くのにゃ！{使用カード}で{防御カード}を攻撃！,
+行くのにゃ！{使用カード}で{防御カード}を攻撃！,Go go-nya! I attack your {防御カード} with my {使用カード}!
 攻めるのにゃ！{使用カード}で{防御カード}を攻撃！,Now to attack! I attack your {防御カード} with my {使用カード}!,Now I'll attack-nya! {使用カード}; attack {防御カード}！,
 うにゅぅっ、手札が悪いのにゃ…。ターンエンド…。,Nyaa-; My hand is so bad... End turn...,
 何もできないのにゃ…。ターンエンドにゃ…。,I can't do anything-nya... End turn-nya.,
