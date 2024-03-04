@@ -47,7 +47,7 @@ Cランクに入ってからも連勝伝説は続くのか！\n今回も危な�
 む、先攻はそっちだにゃ。\nどんなカードで来るのかにゃ？,Mm; looks like you start first-nya.\nI wonder what kinds of cards you'll use-nya?
 くすくす❤見とれて隙だらけじゃにゃいか。\nそんなボーっと立ってたら、\nわたしに攻撃してくれと言っているのと同じだにゃ❤,
 それじゃわたしのターンからはじめるにゃ❤\n手下と一緒にすぐにイかせてやるにゃ❤,
-わたしが先攻だにゃ。\nさて、最初はどうするかにゃぁ・・・。,I'm battling first-nya!\nMeow then; what should I do first...,
+わたしが先攻だにゃ。\nさて、最初はどうするかにゃぁ・・・。,I'm battling first-nya!\nMeow then; what should I do...,
 (ううっ・・・・❤),
 ドローするにゃ。,Draw-nya.
 わたしのターンだにゃ、ドロー！,It's my turn-nya, draw!
@@ -70,7 +70,7 @@ Cランクに入ってからも連勝伝説は続くのか！\n今回も危な�
 破壊されたとき{使用カード}の効果を発動！\n墓地から自身を特殊召喚するのにゃ！,
 戦闘終了時に{使用カード}の効果発動！\n体力を400ポイント回復するのにゃ！,
 戦闘終了時に{使用カード}の効果発動！\n自分のHPを400ポイント回復するのにゃ！,
-召喚に成功した時、{使用カード}の効果を発動！\nデッキから「{%%40138}」を１枚手札に加えるにゃ！,During a successful summon, I can activate {使用カード}!\nI can search for one「{%%40138}」in my deck to put into my hand-nya!,
+召喚に成功した時、{使用カード}の効果を発動！\nデッキから「{%%40138}」を１枚手札に加えるにゃ！,During a successful summon; I can activate {使用カード}!\nI can search for one「{%%40138}」in my deck to put into my hand-nya!,
 {使用カード}を発動！\nわたしの獣モンスターはみんなパワーアップするにゃ。,I activate {使用カード}!\nNow all my beast monster cards are powered up-nya.,
 {使用カード}を発動！\n獣モンスターをみんなパワーアップするにゃ！,I activate {使用カード}!\nNow my beast monster cards will get all powered up-nya!,
 {使用カード}を発動！\n自分フィールドに{%%10040}がいるときこのカードを使うと、\nデッキからレベル４以下の獣モンスターを特殊召喚できるにゃ！,
@@ -78,7 +78,7 @@ I activate {使用カード}!\nIf I use this card when a {%%10040} is on my fiel
 {使用カード}を発動！\nデッキからレベル４以下の獣モンスターを１枚手札に加えるにゃ。,
 わたしの切り札にゃ！{使用カード}を発動！,This is my trump card-nya! Activate {使用カード}!,
 このカードがある限り、自分フィールド上のモンスターは\n自分フィールド上にいた時間が２ターン上乗せされるにゃ。,As long as this card is on the field; monsters on my side of the field will count as if being on my field for two turns-nya!,
-妖怪は時間を経れば強くなる。\nさあ強力な効果で追い詰めてやるのにゃ！,My youkai get stronger as time passes.,\nNow I'll corner you with their strengthened effects-nya!
+妖怪は時間を経れば強くなる。\nさあ強力な効果で追い詰めてやるのにゃ！,Because my youkai get stronger as time passes;\nI'll be able to corner you with their strengthened effects-nya!
 効果が切れても追加で出せばいいのにゃ！\n{使用カード}を発動！,
 永続魔法{使用カード}を発動！\nわたしの獣モンスターが相手モンスターを破壊したら\n回復してパワーアップするようになるにゃ。, I chain activate {使用カード}!\nWhen my Beast Type monster defeats one of your monsters, they recover and get a purrfect power boost-nya! 
 相手モンスターを破壊した時、魔法カード{使用カード}を発動！\n破壊したモンスターは体力を回復して、パワーアップするにゃ！,
@@ -98,8 +98,8 @@ When one of my monsters defeats yours; I can activate {使用カード}!\nThe at
 行くのにゃ！{使用カード}で{防御カード}を攻撃！,
 攻めるのにゃ！{使用カード}で{防御カード}を攻撃！,Now to attack! I attack your {防御カード} with my {使用カード}!,Now I'll attack-nya! {使用カード}; attack {防御カード}！,
 うにゅぅっ、手札が悪いのにゃ…。ターンエンド…。,Nyaa-; My hand is so bad... End turn...,
-何もできないのにゃ…。ターンエンドにゃ…。,I can't do anything-nya... End turn-nya,
-ターン終了だにゃ。,I end my turn-nya,
+何もできないのにゃ…。ターンエンドにゃ…。,I can't do anything-nya... End turn-nya.,
+ターン終了だにゃ。,I end my turn-nya.,
 わたしのターンは終わりにゃ。ターンエンド。,My turn is finished-nya. End turn.
 これで終わりにゃ。ターンエンド。,And now I'm done-nya. End turn.
 わたしの胸が気になるかにゃ？\nこんなに谷間が見えてたら、見たくなくても目に入るものにゃあ❤\nあは目が釘付けで隙だらけにゃ❤えい❤,Are my boobs are on your mind-nya?\nWhen my cleavage is showing like this; it's always visible even if you don't want to look at it-nya❤\nAnd your wandering eyes give the perfect opening-nya❤ Eei❤,
