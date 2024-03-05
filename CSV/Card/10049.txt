@@ -5,7 +5,7 @@ default
     &立ち絵射精足,EU49_thighCum.png
     &足コキ,EU49_footJob (1).png
     &足コキアニメ,EU49_footJob
-    &フレーバーテキスト,A petite arachne who is skilled in footjobs. Her human legs are rare for the arachne species that usually posses spider's lower body. However; she won't let down the name of the arachne with how skilled she is with her feet. Once she has caught you between them; you'll be skillfully pleasured and toyed; which will feel as if there are four pairs of legs touching you. While she is a weak monster at the base; she provokes men into her traps where she can freely use her feet on them. Fighting her requires you to be mindful with your attacks to avoid being trapped.
+    &フレーバーテキスト,A petite arachne who is skilled in footjobs. While it's unsual for her species to possess human legs, she isn't letting down the name of Arachne with how skilled she is with them. Once she has your penis between them for toying, it will feel as if there were four pairs of legs touching and pleasuring you. She has low base stats but makes up for them by luring and provoking men into her traps. Fighting her requires caution, or else you'll get caught in her web before you notice it.
 
 
     画像部位設定,&カード画像,bust,0.4,0.6,0.7,0.85
@@ -23,15 +23,15 @@ default
         {
             if,乱数,==,1
             {
-                セリフ,Pfft❤ Can't move after getting caught in the web? And you call yourself a man❤ You're so weak❤
-                セリフ,Ahaha❤ Did that piss you off? It's not scary even if you glare at me like that❤ After all...❤
+                セリフ,Pfft❤ Can't you move after getting caught in the web? And you call yourself a man❤ You're so weak❤
+                セリフ,Ahaha❤ Did that piss you off? It's not one bit scary when you glare at me like that❤ After all...❤
                 アニメ,&足コキアニメ,
                 ループダメージ,相手,10,
-                セリフ,You can't keep up that scary face if I toy with your weak dick, right? There❤
+                セリフ,That scary face quickly disappears when I toy with your weak dick, right? There❤
                 話者,相手,
                 セリフ,Ah❤ Aaaah❤
                 話者,自分
-                セリフ,Kyahaha❤ Your face turned sloppy❤ Your dick is such a push-over❤ Does it feel good when I stroke it with my feet? You're making that face despite being trampled by the enemy❤ You're such a masochist❤
+                セリフ,Kyahaha❤ Your face turned sloppy❤ Your dick is such a push-over❤ Does it feel good when I touch it with my feet? You're making that kind of face despite your enemy trampling you❤ You're such a masochist❤
             }
             if,乱数,==,2
             {
@@ -39,34 +39,34 @@ default
                 アニメ,&足コキアニメ,
                 ループダメージ,相手,10,
                 セリフ,Here❤ Poke; poke❤ Rub; rub❤ Kyahaha❤ You can't help feeling good when I trample your dick❤ You're a squirming and moaning❤
-                セリフ,It makes you feel good when a little girl stroked your dick with her feet❤ That makes you a small fry lolicon pervert❤ Hurry up and cum; you masochist❤
+                セリフ,Since you're loving it when a little girl strokes your dick with her feet...❤ It makes you a small fry lolicon pervert❤ Hurry up and cum; you masochist❤
             }
             if,乱数,==,3
             {
                 画像,&足コキ
-                セリフ,Hey? Why are you getting harder when I'm trapling you? Not only did you pop a boner from being tied up, but you're getting harder from my feet❤ That's pretty gross❤
+                セリフ,Hey? Why are you getting hard when I'm stepping on you? Popping a boner while tied up and trampled...❤ That's pretty gross❤
                 アニメ,&足コキアニメ,
                 ループダメージ,相手,10,
-                セリフ,Here❤ It'll be a piece of cake to make you cum with my foot skills❤ It feels good when I rub your dick from both sides; right? Kyahaha❤
+                セリフ,Here❤ It'll be easy for me to make you cum with my foot skills❤ It feels good when I rub your dick from both sides; right? Kyahaha❤
             }
         }else{
             if,乱数,==,1
             {
                 攻撃エフェクト変更,&&セクシーエフェクト,
                 攻撃タイプ変更,ふとももコキ
-                セリフ,Hey; hey; -onii-san❤ You've been giving me lewd looks for a while now❤ Are you that interested in my childish body?
-                セリフ,Here; let me give you a reward, you lolicon❤ I'll spread my thighs for you❤ Pfft❤ Your eyes instantly locked on my lower body❤ You pervert❤
-                セリフ,If you like it that much, why not bring your face closer? Come right to my thighs; and I'll squeeze your head with them❤ A thigh guillotine; that's what masochist lolicons want; right? Ahaha❤
+                セリフ,Hey; hey; Onii-san❤ You've been giving me lewd looks for a while now❤ Are you that interested in my childish body?
+                セリフ,Look here; I'll give you a reward, you lolicon❤ I'll squat and spread my thighs❤ Pfft❤ Your eyes instantly locked on my lower body❤ You pervert❤
+                セリフ,If you're liking it that much, why don't you bring your face closer? Come right to my thighs; and I'll squeeze your head with them❤ A thigh guillotine; that's what masochist lolicons want; right? Ahaha❤
             }
             if,乱数,==,2
             {
-                セリフ,Trapling men is my specialty❤ It feels the best to make adults; who say rude stuff like they have no interest in my small breasts; to moan with my feet❤
-                セリフ,I can skillfully stroke both the tip and the shaft with them... Like this❤ It won't be long before you're moaning too; Onii-san❤
+                セリフ,Trampling men is my specialty❤ Making adult men, who say rude stuff like they aren't interested in my small breasts, moan with my feet feels the best❤
+                セリフ,I can stroke both the tip and the shaft at the same time like this❤ It won't be long before you're moaning too; Onii-san❤
             }
             if,乱数,==,3
             {
-                セリフ,Woah; the way you're oggling at my lower body is gross❤ Don't you know? You shouldn't stare at a girl's legs like that❤
-                セリフ,Eh? It's my fault for doing such a vulgar squat? Pfft❤ You say that, but you could just not look, you know? It's pretty lame if you can't look away if a woman just spreads her legs❤
+                セリフ,Woah; it's gross when you're oggling at my lower body like that❤ Don't you know? You shouldn't stare at a girl's legs so hard❤
+                セリフ,Eh? It's my fault for making such a vulgar squat? Pfft❤ You say that, but you could just not look, you know? It's pretty lame if you're so helpless when a girl just spreads her legs❤
                 セリフ,Ahaha❤ I made fun of you; and your pants started bulging❤ Your dick must be pissed off❤ I'll trample it; so make sure to moan hard❤ You masochist❤
             }
         }           
@@ -76,7 +76,7 @@ default
 @おねだり
     話者,自分,true,
     セリフ,Woah! Did you seriously ask me to step on you? Onii-san; that's gross❤
-    セリフ,I shouldn't have expected anything more❤ Men always think with their dicks❤ Ahahaha❤ I'll squeeze out your semen right away❤
+    セリフ,It was stupid to expect anything more❤ Men always think with their dicks❤ Ahahaha❤ I'll start squeezing out your semen right away❤
     
 
 @おねだり後
@@ -84,8 +84,8 @@ default
     イベントヒール,自分,自分最大HP,
     攻撃タイプ固定解除
     画像,&立ち絵射精足,
-    セリフ,Kyahaha❤ You cummed already❤ That's was so easy❤
-    セリフ,You couldn't handle my feet on your dick for a moment. You quickshot lolicon❤
+    セリフ,Kyahaha❤ You cummed already❤ That was so easy❤
+    セリフ,You couldn't handle my feet on your dick even for a moment❤ You quickshot lolicon❤
 
 
 @オナニー
@@ -97,31 +97,31 @@ default
         話者,相手,
         セリフ,Uuh...❤ I can't resist...❤
         話者,自分,
-        セリフ,Woah! It's gross when you suddely start panting like that❤ Why did you put away your weapon and crouch? What? Wait? Are you touching your dick?
-        セリフ,Even when you're in a middle of a fight; you're stroking off while staring at me❤ And even making a face like you're loving it❤
+        セリフ,Woah! It's gross to suddenly start panting like that❤ Why did you put away your weapon and crouch down? Wait, what? Are you touching your dick?
+        セリフ,Even when you're in a middle of a fight; you started stroking off while staring at me❤ And you're making such a happy face at it too❤
         セリフ,You masochists are so gross❤ Ahaha❤
         話者,相手,
         セリフ,Uugh...❤❤
         話者,自分,
-        セリフ,Pfft❤ You wanted to say something back; but you couldn't do it❤ You can't defy that what you're doing is gross; after all❤
-        セリフ,Eh? Stop laughing? How cheeky of you to ask that when your dick is getting harder whenever I laugh at you❤
-        セリフ,If you've got room to complain; then put that energy into stroking your dick harder❤ Have a look here...❤
+        セリフ,Pfft❤ You wanted to deny it but couldn't❤ After all, what you're doing right now is undoubtedly gross❤
+        セリフ,Eh? Stop laughing? It's cheeky of you to ask that when your dick is getting hard as I'm laughing at you❤
+        セリフ,If you've got a leeway to complain; then put that energy into stroking your dick harder❤ Have a look at this...❤
         画像ズーム,thigh,1.5,0
         画像フェードイン,0.5
         セリフ,I'll spread my legs so that you can see my crotch❤
-        セリフ,I'll even wiggle my hips back and forth in a sexy show❤ Ah; ah; aaah❤
+        セリフ,I'll even wiggle my hips back and forth and give you a sexy show❤ Ah; ah; aaah❤
         状態異常付与,相手,寸止め,
         イベントダメージ,相手,自分攻撃力+633,
         イベントダメージ,相手,自分攻撃力+645,
         話者,相手,
         セリフ,Ah; ah; aaah❤ That's way too lewd...❤❤
         話者,自分,
-        セリフ,Kyahaha❤ You've exposed what a small fry you are❤ Both your dick and brain are super weak❤
-        セリフ,Since you're stroking your dick like your life depends on it; are you imagining yourself banging my pussy or something?
-        セリフ,It would feel crazy good if you were to stick your dick inside me❤ My strongest pussy makes everyone moan and weak in the knees in an instant❤
-        セリフ,However; small fries like you don't get to use my pussy❤ After all; there's no need for that; right?
+        セリフ,Kyahaha❤ You've exposed what kind of small fry you are❤ Both your dick and brain are super weak❤
+        セリフ,Are you imagining yourself banging my pussy or something since you're stroking hard like your life depended on it?
+        セリフ,It would feel crazy good if you were to stick your weak dick inside me❤ My strong pussy makes all the men moan and weak in the knees❤
+        セリフ,However; small fries like you don't get to experience it❤ After all; there's no need for that; right?
         セリフ,Here❤ I'll move my hips up and down while moaning❤ Ah❤ Ah❤ I'll pretend that I'm riding your dick❤
-        セリフ,Keep stroking off yourself like an ape and imagine having your dick inside me❤ Ah; ah; aaaah❤ Kyahaha❤
+        セリフ,Keep stroking yourself like an ape and imagine having yourself banging me❤ Ah; ah; aaaah❤ Kyahaha❤
         状態異常付与,相手,寸止め,
         イベントダメージ,相手,自分攻撃力+718,
         イベントダメージ,相手,自分攻撃力+724,
@@ -135,56 +135,56 @@ default
         話者,相手,
         セリフ,Aaaaah...❤❤
         話者変更,自分
-        セリフ,Pfft❤ That's so weak❤ You instantly cummed after I pretended to have sex with you❤
-        セリフ,You should try retraining your dick from the groun up❤ Ah; but I guess that's impossible for a masochist lolicon❤ You small fry❤
+        セリフ,Pfft❤ That was so weak❤ You instantly cummed after I pretended to have sex with you❤
+        セリフ,You should train your dick as well to resist stuff like this❤ Ah; but I guess that's impossible for a masochist lolicon❤ You small fry❤
     }
     if,オナニー回数,>=,2
     {
         攻撃エフェクト変更,&&セクシーエフェクト
         話者変更,自分,true
         話者,相手,
-        セリフ,ううっ…❤我慢できない…❤
+        セリフ,Uuuh...❤I can't endure...❤
         話者,自分,
-        セリフ,Woah! We've got another one stroking off❤ You dropped your weapon and got on your knees... Are you Onii-chan's brainless?
-        セリフ,Oh; or maybe seeing your friend stroke off made your stupid brain learn that stroking off to me feels crazy good?❤
-        セリフ,Have you forgotten that you're in the middle of a fight? You're so stupid❤ You masochist❤ Ahahaha❤
+        セリフ,Woah! We've got another one stroking off❤ You dropped your weapon and got on your knees... Are all of you Onii-san's brainless?
+        セリフ,Oh; or maybe you can only learn stupid things? Like how your friend looked to feel crazy good while stroking off to me❤
+        セリフ,Have you even forgotten that you're in the middle of a fight? You're so stupid❤ A total masochist❤ Ahahaha❤
         話者,相手,
         セリフ,Uugh...❤❤
         話者,自分,
-        セリフ,Pfft❤ You wanted to say something; but you couldn't do it❤ You're stupid like that too❤
-        セリフ,Eh? Stop laughing? How cheeky of you to ask that when your dick is getting harder whenever I laugh at you❤
-        セリフ,If you've got room to complain; then put that energy into stroking your dick harder❤ Have a look here...❤
+        セリフ,Pfft❤ It looks like you wanted to say something too, but couldn't❤ You're all stupid like that❤
+        セリフ,Eh? Stop laughing? It's cheeky of you to ask that when your dick is getting hard as I'm laughing at you❤
+        セリフ,If you've got a leeway to complain; then put that energy into stroking your dick harder❤ Have a look at this...❤
         画像ズーム,thigh,1.5,0
         画像フェードイン,0.5
-        セリフ,わたしのここ、\n脚をぱかって開いて見せてあげる❤
-        セリフ,おにいさんもこれでイチコロだよねー❤\n腰をちょっとくねらせて、セクシーアピールだよー❤\nあん、あん、あはーん❤
+        セリフ,I'll spread my legs so that you can see my crotch❤
+        セリフ,I bet this will totally charm you too❤ I'll wiggle my hips back and forth in a sexy show❤ Ah; ah; aaah❤
         状態異常付与,相手,寸止め,
         イベントダメージ,相手,自分攻撃力+633,
         イベントダメージ,相手,自分攻撃力+645,
         話者,相手,
-        セリフ,あっ、あっ、ああっ❤❤えろすぎるぅっ・・❤❤
+        セリフ,Ah; ah; aaah❤ That's way too lewd...❤❤
         話者,自分,
-        セリフ,きゃはは❤雑魚まるだし❤\nおちんちんも脳みそもよわーい❤
-        セリフ,もしかして、おにいさんも\nわたしのおまんこに入れちゃうところ想像しちゃった？\nマゾって考えることみんなおんなじだね❤
-        セリフ,おちんちん、中に入れたら超気持ちいいよ❤\nわたしの最強おまんこで、\nみんなすぐ腰が抜けてアヘアへぇってなっちゃうの❤
-        セリフ,でもねー、おにいさんみたいな雑魚チンポ、\n入れてあげなーい❤\nだって入れる必要なんてないでしょ？
-        セリフ,ほらほらぁ、あん❤あん❤っていいながら\n腰を上下にふってあげる❤\n騎乗位のまねだよー❤
-        セリフ,自分のおちんちんがずぽずぽってはめられてるところ想像して、\n馬鹿みたいにシコっちゃえ❤\nあん、あん、あーん❤きゃははは❤
+        セリフ,Kyahaha❤ You've exposed what a small fry you are❤ Both your dick and brain are super weak❤
+        セリフ,Are you also imagining yourself banging my pussy like that other Onii-san? All the masochists think in the same way, right?❤
+        セリフ,It would feel crazy good if you were to stick your weak dick inside me❤ My strong pussy makes all the men moan and weak in the knees❤
+        セリフ,However; small fries like you don't get to experience it❤ After all; there's no need for that; right?
+        セリフ,Here❤ I'll move my hips up and down while moaning❤ Ah❤ Ah❤ I'll pretend that I'm riding your dick❤
+        セリフ,Keep stroking yourself like an ape and imagine having yourself banging me❤ Ah; ah; aaaah❤ Kyahaha❤
         状態異常付与,相手,寸止め,
         イベントダメージ,相手,自分攻撃力+718,
         イベントダメージ,相手,自分攻撃力+724,
         話者,相手,
-        セリフ,あぐぅ❤❤ああっ、だめっ、でるっ❤❤❤
+        セリフ,Aagh❤❤ Aaah; I can't❤ It's too much❤❤❤
         イベントダメージ,相手,自分攻撃力+779,
         画像削除
         とどめダメージ,相手,自分攻撃力*3+2523
         イベントヒール,自分,自分最大HP
         画像表示,&立ち絵射精足,1
         話者,相手,
-        セリフ,あへぇ・・・❤❤
+        セリフ,Aaaaah...❤❤
         話者変更,自分
-        セリフ,ぷっ、よわーい❤\nエッチのまねされただけで、すぐアヘって射精しちゃった❤
-        セリフ,おちんちんもっと鍛えて出直してきたら？\nあ、ロリコンのマゾおにいさんたちにはむりかー❤\nざこざーこ❤
+        セリフ,Pfft❤ That was so weak❤ You instantly cummed after I pretended to have sex with you❤
+        セリフ,You should train your dick as well to resist stuff like this❤ Ah; but I guess that's impossible for a masochist lolicon❤ You small fry❤
     }
 
     
@@ -194,11 +194,11 @@ default
     話者変更,自分
     if,命乞い回数,>=,1
     { 
-        セリフ,Uah; so strong... I didn't expect that.
-        セリフ,I can't move anymore. Ah... Please; save me❤
+        セリフ,Uah; you're so strong... I wasn't expecting that.
+        セリフ,I can barely move anymore. So please... Help me❤
         セリフ,Look... I can still move my feet❤ Look how nimble I'm with my toes❤
         セリフ,I bet that if I you were to let me rub your dick with my feet; it would feel crazy good❤
-        セリフ,I want you to heal me by giving me your energy; onii-chan❤ Please❤ I'll show you how I can use my toes❤
+        セリフ,I want you to heal me by giving me your energy; onii-san❤ Please❤ I'll show you how I can use my toes❤
         選択肢,Stick to your senses and attack,Contiue looking at her charming feet
         if,選択肢,==,1
         {
@@ -243,7 +243,7 @@ default
         セリフ,Ah, aaah...❤❤
         話者変更,自分
         セリフ,Kyahaha❤ Your dick is so weak❤ I only needed to call you a small fry three times to make you cum❤
-        セリフ,All my wounds are cured with your energy❤ Thanks for giving it to me❤ You masochist and small fry onii-chan❤
+        セリフ,All my wounds are cured with your energy❤ Thanks for giving it to me❤ You masochist and small fry onii-san❤
     } 
 
 
@@ -264,7 +264,7 @@ default
         if,敗北攻撃タイプ,==,足コキ
         {
             画像表示,&立ち絵射精足,1
-            セリフ,Ahaha❤ You splurted your load when I rubbed you with my feet❤ onii-chan; you're a masochist if you cum from something like this❤ Kyahaha❤
+            セリフ,Ahaha❤ You splurted your load when I rubbed you with my feet❤ onii-san; you're a masochist if you cum from something like this❤ Kyahaha❤
         }
         if,敗北攻撃タイプ,==,ふとももコキ
         {
@@ -487,7 +487,7 @@ default
 
 @おねだり_街バトル
     話者,自分,true,
-    セリフ,Woah; are you seriously asking me to step on you? onii-chan; you're gross❤
+    セリフ,Woah; are you seriously asking me to step on you? onii-san; you're gross❤
     セリフ,As expected of a man; you can't help thinking with your dick. Ahahaha❤ I'll milk your semen in an instant❤
     
 
@@ -617,7 +617,7 @@ default
         if,敗北攻撃タイプ,==,足コキ
         {
             画像表示,&立ち絵射精足,1
-            セリフ,Ahaha❤ You splurted your load when I rubbed you with my feet❤ onii-chan; you're a masochist if you cum from something like this❤ Kyahaha❤
+            セリフ,Ahaha❤ You splurted your load when I rubbed you with my feet❤ onii-san; you're a masochist if you cum from something like this❤ Kyahaha❤
         }
         if,敗北攻撃タイプ,==,ふとももコキ
         {
