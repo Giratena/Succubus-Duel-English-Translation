@@ -11,7 +11,7 @@ default
     &おっぱいSE,Oppai01.mp3
     &手コキSE,paizuri_pon1.ogg
     &足音SE,Footsteps02-1L.ogg
-
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 @効果                
     話者変更,自分

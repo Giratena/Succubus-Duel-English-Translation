@@ -10,6 +10,7 @@ default
     &パイズリ射精後射精,EU02_samurai_paizuri04.png
     &立ち絵射精胸,EU2_bustCum.png
     &敗北音楽,Defeated_sougennotsuki_amatya.mp3
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 
 

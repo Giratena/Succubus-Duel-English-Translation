@@ -10,11 +10,13 @@ default
     &教会背景,S_Charch.jpg
     &行為SE,nyurrupon01.ogg
     &フレーバーテキスト,A devout follower of the Healing Goddess. She believes that men exist to be protected by women; and that men who oppose this way of thinking should be reformed through "Holy Punishment". She uses the hole in her outfit's chest region to punish a man's weak spot; forcing him to submit to her "Punishment" and "Execution". Any man who receives her execution has his pride murdered as surely as if her axe had cut it off; transforming him into a submissive man who will listen to whatever a woman says.
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 @戦闘
     攻撃タイプ変更,パイズリ
     if,攻撃タイプ,==,パイズリ
     {   
+        攻撃エフェクト変更,&&パイズリエフェクト
         乱数生成,1,3
         if,相手.is弱点攻撃,
         {

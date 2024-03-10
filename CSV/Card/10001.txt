@@ -6,6 +6,7 @@ default
     &立ち絵射精胸,EU01_maidBustCum.png
     &パイズリアニメ,EU1_MaidAPaizuri
     &パイズリアニメ射精,EU1_Maid_Cum
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 
 
