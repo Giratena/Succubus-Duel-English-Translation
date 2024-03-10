@@ -9,6 +9,7 @@ default
     &立ち絵射精胸,EU08_PinkySlimeBustCum.png
     &手コキSE,nyurrupon01.ogg
     &パイズリSE,paizuri_pon1.ogg
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 
 @戦闘

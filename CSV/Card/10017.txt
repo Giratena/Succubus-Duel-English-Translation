@@ -9,7 +9,7 @@ default
     &パイズリ射精,EU17_PaizuriCum.png
     &パイズリアニメ,EU17_paizuriAnime
     &敗北音楽,Defeated_sougennotsuki_amatya.mp3
-
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 @戦闘
     攻撃タイプランダム変更,パイズリ,手コキ

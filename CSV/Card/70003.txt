@@ -12,7 +12,8 @@ default
     &馬SE,Uma01_Onjin.mp3
     &キスエフェクト,Kiss01
     &フレーバーテキスト,A young; low rank succubus who can control slime. With her ability to turn her own body into slime; she is able to sneak into any place that has the slightest crack. Her strength isn't particularly high amongst the low rank succubi; but she is very useful due to her infiltration and espionage abilities.
-
+    攻撃エフェクト設定,&&キスエフェクト
+    
 @イベント
     デッキ設定,10005,10005,10005,10006,10006,10006,10007,10007,10008,10008,40005,40005,40006,40006,40025,40025,50012,60005,60005,
     デッキ報酬設定,460,110,0

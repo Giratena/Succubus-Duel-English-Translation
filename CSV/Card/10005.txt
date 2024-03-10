@@ -11,7 +11,7 @@ default
     &ふとももコキ射精射精,EU05_thighJobCumCum.png
     &おっぱいSE,Oppai01.mp3
     &行為SE,nyurrupon01.ogg
-
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 @戦闘
     攻撃タイプランダム変更,手コキ,ふとももコキ

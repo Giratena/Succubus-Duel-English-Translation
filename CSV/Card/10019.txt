@@ -5,7 +5,7 @@ default
     &立ち絵射精手,EU19_StandHandCum.png
     &手コキ,EU19_handJobAnime (1).png
     &手コキアニメ,EU19_handJobAnime
-
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 
 @弱点攻撃
