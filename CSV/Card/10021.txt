@@ -8,7 +8,7 @@ default
     &パイズリ画像,EU21_PaizuriAnime (1).png
     &パイズリ画像射精,EU21_PaizuriCum.png
     &パイズリアニメ,EU21_PaizuriAnime
-
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 
 

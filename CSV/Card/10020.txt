@@ -9,7 +9,7 @@ default
     &足コキ画像,EU20_JobSprite.png
     &足コキSE,nyurrupon01.ogg
     &効果発動SE,kin_Onjin.mp3
-
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 
 

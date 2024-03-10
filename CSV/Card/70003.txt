@@ -11,6 +11,7 @@ default
     &斬るSE,damage_koubou.mp3
     &馬SE,Uma01_Onjin.mp3
     &キスエフェクト,Kiss01
+    攻撃エフェクト設定,&&キスエフェクト
 
 
 @イベント

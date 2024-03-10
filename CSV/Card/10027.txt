@@ -6,8 +6,7 @@ default
     &立ち絵射精胸,EU27_BustCum.png
     &パイズリ,EU27_paizuri.png
     &手コキSE,paizuri_pon1.ogg
-
-
+    攻撃エフェクト変更,&&セクシーエフェクト
 
 @効果  
     if,効果ID,==,1
