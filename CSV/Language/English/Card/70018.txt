@@ -61,8 +61,8 @@ Cランクに入ってからも連勝伝説は続くのか！\n今回も危な�
 さらにもう1枚発動だにゃ！,
 {使用カード}の効果を発動！\n４ターン以上場に存在した{使用カード}は特殊効果を得るにゃ。,
 なんとわたしのターン終了時ごとにデッキから獣の仲間を呼ぶのにゃ！\nにゃはは、数で圧倒してやるにゃ❤,
-{使用カード}の効果を発動！\nデッキからレベル４以下の獣タイプモンスターを特殊召喚にゃ！,
-{使用カード}の効果を発動！\nデッキからレベル４以下の獣モンスターを特殊召喚するにゃ！,
+{使用カード}の効果を発動！\nデッキからレベル４以下の獣タイプモンスターを特殊召喚にゃ！,I activate {使用カード}'s effect; which will let me Special Summon a Beast Type monster of level 4 or under from my deck-nya!
+{使用カード}の効果を発動！\nデッキからレベル４以下の獣モンスターを特殊召喚するにゃ！,I activate {使用カード}'s effect; which will let me Special Summon a Beast monster of level 4 or under from my deck-nya!
 相手が特殊召喚に成功したとき、{使用カード}の効果を発動！\nさあ、相手をこちらの陣営にまねき入れるにゃ❤,
 破壊されたとき{使用カード}の効果を発動！\n４ターン以上場に存在した{使用カード}は特殊効果を得るにゃ。,
 猫又は命をいくつも持つにゃ。\n破壊されても復活するのにゃ！,
@@ -70,13 +70,13 @@ Cランクに入ってからも連勝伝説は続くのか！\n今回も危な�
 破壊されたとき{使用カード}の効果を発動！\n墓地から自身を特殊召喚するのにゃ！,
 戦闘終了時に{使用カード}の効果発動！\n体力を400ポイント回復するのにゃ！,
 戦闘終了時に{使用カード}の効果発動！\n自分のHPを400ポイント回復するのにゃ！,
-召喚に成功した時、{使用カード}の効果を発動！\nデッキから「{%%40138}」を１枚手札に加えるにゃ！,During a successful summon; I can activate {使用カード}!\nI can search for one「{%%40138}」in my deck to put into my hand-nya!,
-{使用カード}を発動！\nわたしの獣モンスターはみんなパワーアップするにゃ。,I activate {使用カード}!\nNow all my beast monster cards are powered up-nya.,
-{使用カード}を発動！\n獣モンスターをみんなパワーアップするにゃ！,I activate {使用カード}!\nNow my beast monster cards will get all powered up-nya!,
-{使用カード}を発動！\n自分フィールドに{%%10040}がいるときこのカードを使うと、\nデッキからレベル４以下の獣モンスターを特殊召喚できるにゃ！,I activate {使用カード}!\nIf I use this card when a {%%10040} is on my field;\nI can Special Summon a Beast Type monster of level 4 or lower from my deck!,
+召喚に成功した時、{使用カード}の効果を発動！\nデッキから「{%%40138}」を１枚手札に加えるにゃ！,During a successful summon; I can activate {使用カード}!\nI can search for one「{%%40138}」in my deck to put into my hand-nya!
+{使用カード}を発動！\nわたしの獣モンスターはみんなパワーアップするにゃ。,I activate {使用カード}!\nNow all my beast monster cards are powered up-nya.
+{使用カード}を発動！\n獣モンスターをみんなパワーアップするにゃ！,I activate {使用カード}!\nNow my beast monster cards will get all powered up-nya!
+{使用カード}を発動！\n自分フィールドに{%%10040}がいるときこのカードを使うと、\nデッキからレベル４以下の獣モンスターを特殊召喚できるにゃ！,I activate {使用カード}!\nIf I use this card when a {%%10040} is on my field;\nI can Special Summon a Beast Type monster of level 4 or lower from my deck!
 {使用カード}を発動！\nデッキからレベル４以下の獣モンスターを１枚手札に加えるにゃ。,
 わたしの切り札にゃ！{使用カード}を発動！,This is my trump card-nya! Activate {使用カード}!,
-このカードがある限り、自分フィールド上のモンスターは\n自分フィールド上にいた時間が２ターン上乗せされるにゃ。,As long as this card is on the field; monsters on my side of the field will count as if being on my field for two turns-nya!,
+このカードがある限り、自分フィールド上のモンスターは\n自分フィールド上にいた時間が２ターン上乗せされるにゃ。,As long as this card is on the field; monsters on my side of the field will count as if being on my field for two turns-nya!
 妖怪は時間を経れば強くなる。\nさあ強力な効果で追い詰めてやるのにゃ！,Because my yokai get stronger as time passes;\nI'll be able to corner you with their strengthened effects-nya!
 効果が切れても追加で出せばいいのにゃ！\n{使用カード}を発動！,
 永続魔法{使用カード}を発動！\nわたしの獣モンスターが相手モンスターを破壊したら\n回復してパワーアップするようになるにゃ。, I chain activate {使用カード}!\nWhen my Beast Type monster defeats one of your monsters; they recover and get a purrfect power boost-nya! 
@@ -105,7 +105,7 @@ When one of my monsters defeats yours; I can activate {使用カード}!\nThe at
 男はみーんなこれが好きにゃ❤\n挟んでむぎゅむぎゅしてやれば、すぐに負けてくれるにゃ❤,All guys love this-nya~❤\nWhen I squeeze and massage my boobs around them; they giving in to to me immediately❤,
 お前はどうかにゃ？耐えられるかにゃ？\nほら、ずりずり、ずりずりにゃー❤,What about you-nya? Do you think you can resist them-nya?\nHora; squish squish- Squeeze squeeze~❤,
 よろこべ、胸で気持ちよくしてやるにゃ❤\nわたしの胸はとっても気持ちいいにゃー❤,Please take delight when I pleasure you with my chest-nya~❤\nMy boobs feel very good-nya~❤,
-ぷりんぷりんで張りがあって、\n挟まれたら即メロメロになるおっぱいにゃ❤\nきっとお前も満足するにゃ❤えい❤,ぷりんぷりんで張りがあって、\n挟まれたら即メロメロになるおっぱいにゃ❤\nきっとお前も満足するにゃ❤えい❤,When these jiggly boobs pass over someone's penis; they instantly become converted into a boobie addict-nya!❤\nYou'll definitely do the same-nya~❤ Eei~❤
+ぷりんぷりんで張りがあって、\n挟まれたら即メロメロになるおっぱいにゃ❤\nきっとお前も満足するにゃ❤えい❤,When these jiggly boobs pass over someone's penis; they instantly become converted into a boobie addict-nya!❤\nYou'll definitely do the same-nya~❤ Eei~❤
 胸が大きいと肩が凝って大変だにゃあ。\nよく弟に肩もみを頼むけど、それでも凝るにゃ。,It's so terrible having stiff shoulders from having large boobs-nya.\nI keep asking my brother for shoulder massages; but they are still so stiff-nya.,
 ん？大きいって聞いてつい見ちゃうかにゃ？\n弟もチラチラ見てよく顔を赤くしてるけど、\nお前もあんまり変わらないにゃー❤,Hm?\nYou can't help but stare when hearing about how big they are-nya?\nMy brother also sneaks glances and blushes a lot too;\nbut I guess you aren't really too different from him-nya❤,
 ん？大きいって聞いてつい見ちゃうかにゃ？\n弟もチラチラ見てよく顔を赤くしてるけど、\n強いモンスターでもあんまり変わらないのかにゃ～❤,ん？\nYou can't help but stare when hearing about how big they are-nya?\nMy brother also sneaks glances and blushes a lot too;\nbut I guess an strong monster like you isn't too different-nya❤,
@@ -144,20 +144,20 @@ When one of my monsters defeats yours; I can activate {使用カード}!\nThe at
 にゃはん❤どうしたのかにゃ？動けないのかにゃ？\nチンポ気持ちよすぎて、体に力が入らないようだにゃあ❤,Nyann❤ What's the matter-nya? Cat got your tongue?\nDid your dick feel so good all the strength left your body?❤,
 それならわたしのおっぱいで追い討ちして\nさっさと勝負を終わらせてやるのにゃ❤,In that case; I'll use my boobs to deliever the final blow~\nThis game will all be over soon-nya❤,
 もう出るにゃ？\nまだ1ターン目なのに、お前、とんでもない早漏だにゃあ❤\nほらほら、さっさと出せにゃ❤,
-もう耐えられないにゃ？ならさっさと出すにゃ、うりうり❤,Can't resist anymore-nya? Then go ahead and let it all out-nya~ Slap slap❤,
+もう耐えられないにゃ？ならさっさと出すにゃ、うりうり❤,Can't resist anymore-nya? Then go ahead and let it all out-nya~ Slap slap❤
 逃げるなんて生意気だにゃ。\nお前は大人しくしていればいいにゃ。,
 本当はもっとパイズリされたいはずにゃあ❤\nそこのビクビクしてるチンポみたいに素直になればいいのににゃ❤\nくすくす❤,
 むちむちおっぱい❤たっぷり味わえにゃ❤,
 うりうり❤ここが気持ちいいのかにゃあ❤,
 もっと喘がせてやるにゃ❤ずりずり❤むにゅむにゅ❤,
-チンポ、ガッチガチにゃ❤ズリやすいからそうしてるにゃ❤,Your dick is so stiff and hard-nya~❤ Purrfect for sliding my boobs up and down it❤,
+チンポ、ガッチガチにゃ❤ズリやすいからそうしてるにゃ❤,Your dick is so stiff and hard-nya~❤ Purrfect for sliding my boobs up and down it❤
 腰が浮いてるにゃ❤逃げなくてもいいのかにゃ？くすくす❤,
-お前のチンポ、嬉しそうに震えてるにゃ❤我慢せずにさっさと出すにゃ❤,Your penis is twitching so delightfully-nya~❤ Don't fight it~ Let it all our right away-nya~❤,
+お前のチンポ、嬉しそうに震えてるにゃ❤我慢せずにさっさと出すにゃ❤,Your penis is twitching so delightfully-nya~❤ Don't fight it~ Let it all our right away-nya~❤
 だらしない顔だにゃ❤射精するまでまぬけ面してるといいにゃ❤,
-男は快楽に勝てない❤それをおっぱいで教えてやるにゃあ❤,Men cannot win against pleasure~❤ I'll teach you that with my boobs-nya~❤,
-チンポをむぎゅむぎゅ❤乳圧高めでずってやるにゃあ❤,I'll increase the pressure of my boobs around your dick-nya!❤ Squish~ Squeeeze~❤ ,
+男は快楽に勝てない❤それをおっぱいで教えてやるにゃあ❤,Men cannot win against pleasure~❤ I'll teach you that with my boobs-nya~❤
+チンポをむぎゅむぎゅ❤乳圧高めでずってやるにゃあ❤,I'll increase the pressure of my boobs around your dick-nya!❤ Squish~ Squeeeze~❤ 
 大勢の観客の前でアンアン喘いで恥ずかしいにゃあ❤くすくす❤,
-試合よりパイズリのが大事だにゃ❤そのまま脱力してるといいにゃ❤,Paizuri is more important than the game-nya~❤ It's okay continue letting your body tire out relax~❤,
+試合よりパイズリのが大事だにゃ❤そのまま脱力してるといいにゃ❤,Paizuri is more important than the game-nya~❤ It's okay continue letting your body tire out relax~❤
 おっぱいに負けましたーって、射精するにゃ❤それで試合は終了だにゃ❤,
 マスターの命令より気持ちいいパイズリのが大切だにゃ❤くすくす❤,
 お前が負けても仲間が頑張るだけだにゃあ❤このまま気持ち良く出すといいにゃ❤,
