@@ -5,7 +5,7 @@ default
     &立ち絵射精足,EU49_thighCum.png
     &足コキ,EU49_footJob (1).png
     &足コキアニメ,EU49_footJob
-    &フレーバーテキスト,A petite arachne who is skilled in footjobs. While it's unsual for her species to possess human legs, she isn't letting down the name of Arachne with how skilled she is with them. Once she has your penis between them for toying, it will feel as if there were four pairs of legs touching and pleasuring you. She has low base stats but makes up for them by luring and provoking men into her traps. Fighting her requires caution, or else you'll get caught in her web before you notice it.
+    &フレーバーテキスト,A petite arachne who is skilled in footjobs. While it's unusual for her species to possess human legs, she isn't letting down the name of Arachne with how skilled she is with them. Once she has your penis between them for toying, it will feel as if there were four pairs of legs touching and pleasuring you. She has low base stats but makes up for them by luring and provoking men into her traps. Fighting her requires caution, or else you'll get caught in her web before you notice it.
 
 
     画像部位設定,&カード画像,bust,0.4,0.6,0.7,0.85
@@ -386,7 +386,7 @@ default
     説明,When I woke up in the medical office after that; I was left with bruises on my neck. They must have come from the stranglehold.
     説明,Touching them felt slightly painful. To think that I ended up cumming multiple times while under this pain... I lost in such an emberrassing way.
     説明,I need to clear this humiliation. I'll win the next time for sure. I swore so to myself. However...
-    アラート,A few days later.,
+    アラート,A few days later.
     背景,&&牢屋背景,
     明転,2
     話者,自分プレイヤー,true,1
