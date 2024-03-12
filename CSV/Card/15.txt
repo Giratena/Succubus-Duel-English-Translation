@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,黒猫魔術師
-&効果テキスト,1ターンに１度800LP払って発動できる。デッキからランダムに魔法カードを１枚手札に加える（デッキに魔法カードが1枚もないときには発動できない）。
+&カード名,Black Cat Magician
+&効果テキスト,Pay 800LP (once per turn): Add one random magic card from the deck to your hand (cannot be used if there are no magic cards in the deck).
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

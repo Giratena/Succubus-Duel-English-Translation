@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Wind Katana
-&効果テキスト,Equippable to Warriors. \n[1]Increases ATK by 400. Equipped monsters' attribute changes to Wind while holding this equipment.
+&効果テキスト,Equippable to Warriors. \n[1]. Increases ATK by 400. Equipped monsters' attribute changes to Wind while holding this equipment.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

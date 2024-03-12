@@ -18,7 +18,8 @@ default
     &爆乳パイズリ,EU4_PaizuriSuperBig.png
     &巨乳パイズリアニメ,slime_bigBreastPaizuri
     &爆乳パイズリアニメ,slime_superBigBreastPaizuri
-    &おっぱいSE,Oppai01.mp3    
+    &おっぱいSE,Oppai01.mp3
+    攻撃エフェクト設定,&&セクシーエフェクト
 
 
 @効果
@@ -34,6 +35,7 @@ default
             &ズーム,=,&巨乳立ち絵ズーム
             &パイズリ,=,&巨乳パイズリ
             &パイズリ射精,=,&巨乳パイズリ射精
+            立ち絵変更,&カード画像,
             効果処理
             画像表示,&カード画像,1
             セリフ,うふふ♪すごいでしょ。どんどん大きくできるんだよ❤

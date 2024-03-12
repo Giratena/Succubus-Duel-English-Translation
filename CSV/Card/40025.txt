@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,バブルチェイン
-&効果テキスト,[1].ライフを500払い、自分フィールド上にいる水属性モンスター1体を選択して発動する。そのモンスターと同じレベルの水属性モンスターを、ランダムにデッキから1枚手札に加える。
+&カード名,Bubble Chain
+&効果テキスト,[1]. Pay 500 Life: Choose a water monster on your side of the field. Add one random Water Attribute to your hand equal to that monster's level.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

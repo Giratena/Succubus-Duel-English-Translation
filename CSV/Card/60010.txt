@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,夜叉の面
-&効果テキスト,炎属性モンスターに装備可能。装備モンスターの攻撃力は600ポイントアップする。\n[1].自分ターン終了時に発動する。装備モンスターは300ポイントのダメージを受ける。
+&カード名,Yaksha Mask
+&効果テキスト,Equippable on Flame Attribute monsters. The equipped monster's attack power is increased by 600 points. \n[1]. At the end of your turn; equipped monster takes 300 points of damage.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

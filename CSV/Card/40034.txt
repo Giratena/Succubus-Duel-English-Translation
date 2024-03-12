@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,氷のつぶて
-&効果テキスト,[2].フィールド上のモンスター1体を選択して発動する。そのモンスターに300ポイントダメージを与え、「凍結」（次のターンまで攻撃宣言不能）を付与する。
+&カード名,Ice Shard
+&効果テキスト,[1]. Choose one monster on the field. That monster receives 300 points of damage and is inflicted with [Freeze] (monster cannot attack next turn).
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,一刀両断
-&効果テキスト,[1].自分が戦士タイプモンスターの通常召喚に成功したとき手札を１枚捨てて発動できる。そのモンスターの攻撃力分のダメージをすべての相手モンスターに与える。この効果で相手モンスターを破壊した場合、召喚したモンスターの攻撃力を破壊した数*400ポイントアップする。
+&カード名,Decisive Slash
+&効果テキスト,[1]. When you normal Summon a Warrior Type monster; you may discard 1 card from your hand to deal damage equal to the summoned monster's attack to all your opponent's monsters.\nIf you destroy an opponent's monster in this way; increase the attack of the summoned monster is increased by X points (X = the number of monsters destroyed x 400).
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

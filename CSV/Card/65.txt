@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,シャドウメイジ
-&効果テキスト,[1].1ターンに1度、墓地の闇属性カードを7枚取り除き、自分フィールド上のモンスター1体を選択して発動できる。そのモンスターのコピーを自分フィールド上に特殊召喚する。\n[2].1ターンに1度、闇属性の魔法カードが発動したときに発動する。デッキからランダムなカードを2枚墓地へ送る。
+&カード名,Shadow Mage
+&効果テキスト,[1]. Once per turn; banish seven Dark Attribute cards from the Graveyard and select one monster on your field to activate this effect: Special Summon a copy of that monster onto your field.\n[2]. Once per turn; when a Dark Attribute Magic Card is activated: Send two random cards from the Deck to the Graveyard.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

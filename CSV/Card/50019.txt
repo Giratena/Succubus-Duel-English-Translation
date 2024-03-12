@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,待ち伏せ
-&効果テキスト,自分のハンタータイプのモンスターが相手の攻撃対象になったとき発動できる。攻撃してきた相手に1000ポイントのダメージを与える。
+&カード名,Ambush
+&効果テキスト,If a hunter type monster you control is attacked; the attacker receives 1000 points of damage.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

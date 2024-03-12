@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,ニンジャ
-&効果テキスト,[1].このカードは相手の効果の対象に選択できない（ランダム効果や全体効果は受ける）。\n[2].墓地からランダムにローグタイプのモンスター2体を取り除いて発動できる。このターンの間、このカードは相手プレイヤーに直接攻撃できる。
+&カード名,Ninja
+&効果テキスト,[1]. This card cannot be targeted by enemy effects (can still be affected by random or field wide effects).\n[2]. Banish two random Rogue Type monsters from the Graveyard: During this turn; this card may attack the opposing player directly.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

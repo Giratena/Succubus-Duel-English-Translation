@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,リッパー
-&効果テキスト,1ターンに1度、LPを500払って発動できる。このカードの攻撃力を400ポイントアップする。
+&カード名,Reaper
+&効果テキスト,Pay 500LP (once per turn): Increase the attack power of this card by 400 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,シャーマン・アレウス
-&効果テキスト,[1].このカードが通常召喚に成功した時、墓地の地属性モンスター１体を選択して発動できる。そのモンスターを自分の手札に加える。\n[2].このカードが自分フィールド上に存在する限り、自分の地属性モンスターが与える戦闘ダメージはそのモンスターの最大HPの4分の1ポイント増加する。
+カード名,Areus - The Sharman
+&効果テキスト,[1]. When this card is Normal Summoned: You can select one Earth Attribute monster from the Graveyard; add that monster to your hand.\n[2]. As long as this card is on your field; the battle damage dealt by your Earth Attribute monsters is increased by a quarter of their maximum HP.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

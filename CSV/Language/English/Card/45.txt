@@ -1,0 +1,3 @@
+default
+フレイムシャーマン,Flame Sharman
+1ターンに1度、炎属性カードの効果が使用されたときに発動する。自分フィールド上のすべてのモンスターに100ポイントダメージを与え、その攻撃力を200ポイントアップする。,When a Fire Attribute card is played (once per turn): All monsters on your side of the field gain 100 damage

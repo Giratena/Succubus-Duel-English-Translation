@@ -1,0 +1,3 @@
+default
+鋭い槍,Sharp Spear
+モンスターまたはプレイヤーに装備可能。\n[1].装備キャラクターの攻撃力を300ポイントアップする。\n[2].相手が守備状態のとき、与える戦闘ダメージが300ポイントアップする。,Can be equipped by monsters or players.\n[1]. Increases the equipped character's attack power by 300 points. \n[2]. When the opponent is defending; damage dealt is increased by 300 points.

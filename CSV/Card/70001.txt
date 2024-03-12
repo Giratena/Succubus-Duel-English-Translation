@@ -124,7 +124,7 @@ default
     if,$winTutorialFinish,==,0,&&,$$周回数,==,0
     {
         セリフ削除,
-        情報,Tutorial 5: Win Conditions,A player wins when they reduce their opponent's LP to 0. However; as long as a player has one or monster on the field they may not be attacked directly. players are unable to directly attack their opponent as long as they have one.
+        情報,Tutorial 6: Win Conditions,A player wins when they reduce their opponent's LP to 0. However; as long as a player has one or more monsters on the field they may not be attacked directly. players are unable to directly attack their opponent as long as they have one.
         情報,,In this game; players may attack their opponents directly. The attack power of the player is comparatively higher, so attacking aggressively is key.
         情報,,Now; make use of your cards to win the duel!
         $winTutorialFinish,=,1

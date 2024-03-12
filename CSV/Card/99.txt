@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,要塞兵士ゴルログ
-&効果テキスト,[1].このカードが受けるダメージは常に100ポイントダウンする(ただし0にはならず最低100)。
+&カード名,Fortress Soldier Gollog
+&効果テキスト,[1]. The damage received by this card is reduced by 100 points (but cannot drop receiving below 100).
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

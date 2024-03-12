@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,エルフの聖剣士
-&効果テキスト,[1].このカードが手札に存在し自分フィールド上にモンスターが存在しない場合、相手がモンスターを特殊召喚したときLPを2000払って発動できる。このカードを手札から特殊召喚し、相手の特殊召喚されたモンスターに1500ポイントのダメージを与える。
+&カード名,Elf Holy Swordsman
+&効果テキスト,[1]. When this card is in your hand and you control no monsters; if an opponent Special Summons a monster: You can pay 2000 LP to activate this effect. Special Summon this card from your hand and deal 1500 points of damage to the opponent's Special Summoned monster.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

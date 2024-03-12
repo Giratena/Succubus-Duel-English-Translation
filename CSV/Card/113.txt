@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,疾風剣士
-&効果テキスト,[1].特殊召喚されている場合、このカードの攻撃回数は+1される。\n[2].このカードが相手モンスターを戦闘で破壊したとき発動する。カードを１枚ドローする。
+&カード名,Gale Swordsman
+&効果テキスト,[1]. If Special Summoned; this card's number of attacks per turn is increased by 1.\n[2]. When this card destroys an opponent's monster by battle: Draw one card.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

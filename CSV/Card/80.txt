@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,トラップマスター
-&効果テキスト,[1].1ターンに１度、自分がトラップカードを発動したとき発動できる。発動したカードとはカード名が異なるトラップカードをデッキからランダムに１枚手札に加える。\n[2].1ターンに１度、相手がトラップカードを発動したとき、手札のハンタータイプモンスター１枚を捨てて発動できる。そのカードの効果を無効にし破壊する。
+&カード名,Trap Master
+&効果テキスト,[1]. Once per turn; when you activate a Trap Card: Add one random Trap Card with a different name from your Deck to your hand.\n[2]. Once per turn; when your opponent activates a Trap Card: You can discard one Hunter Type monster from your hand to negate and destroy that card.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

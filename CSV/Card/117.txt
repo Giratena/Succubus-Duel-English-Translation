@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,少年船長
-&効果テキスト,[1].１ターンに１度手札を１枚捨てて発動できる。自分のデッキからレベル４以下の水属性ローグタイプモンスターをランダムに１体特殊召喚する。\n[2].１ターンに１度、自分が「航海」魔法カードを発動したとき発動する。カードを２枚ドローする。
+&カード名,Young Captain
+&効果テキスト,[1]. Once per turn; discard one card to activate: Special Summon one random Level 4 or lower Water Attribute Rogue Type monster from your Deck.\n[2]. Once per turn; when you activate a [Navigation] Magic Card: Draw two cards.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,0 +1,9 @@
+default
+回想バトルの特殊機能,Reminiscence Battle - Extra Features
+回想バトル中は相手をダブル右クリックすることでHPを100にできます。また相手のデッキから相手モンスターを直接特殊召喚できます。,
+During a Reminiscence Battle, you can double right-click on your opponent to set their HP to 100. You can also directly Special Summon an opponent monster from their deck.
+タップ操作の場合、二本指でダブルタップをするとHPを100にできます。,If you're using touch controls; tapping with two fingers in a double-tap can set the HP to 100.
+奇襲バトル,Surprise battle
+プレイヤーが隙を付かれた場合、奇襲状態でバトルがはじまります。この場合相手プレイヤーが必ず先攻プレイヤーになり、1ターン目から攻撃をしかけてきます。,If a player is caught off-guard, the battle begins in a surprise attack state; In this case, the opposing player will always become the first attacker; and they will launch an assault starting from the first turn.
+状態異常：メロメロ,Status Ailment: Charmed
+プレイヤーがこの状態にかかるとカードの召喚に集中できなくなり、召喚されたモンスターのステータスが弱体化します。効果は10ターンの間継続します。,When a player is afflicted with this state; they can't concentrate on summoning cards; resulting in summoned monsters having weakened stats. The effect lasts for 10 turns.

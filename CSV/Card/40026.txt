@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,エンハンスドロー
-&効果テキスト,[1].次の自分ターン開始時に自分の場にモンスターが1体もいないならば、通常のドローに加えさらにカードを2枚ドローする。このカードは自分の手札が5枚以下のときにのみ発動できる。
+&カード名,Enhanced Draw
+&効果テキスト,[1]. If there are no monsters on your field at the beginning of your next turn; draw 2 more additional cards. (This card can only be activated when you have 5 or fewer cards in your hand.)
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

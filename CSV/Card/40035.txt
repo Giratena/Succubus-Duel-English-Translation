@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,幸運のクローバー
-&効果テキスト,クールタイム4\n[1].LPを400払って発動する。デッキからカードを1枚ドローする。そのカードがレベル４モンスターだった場合、さらにもう1枚カードをドローする。
+&カード名,Lucky Clover
+&効果テキスト,Cool Down 4\n[1]. Pay 400 LP and draw a card from the deck; if that card is a level 4 monster; draw another card.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

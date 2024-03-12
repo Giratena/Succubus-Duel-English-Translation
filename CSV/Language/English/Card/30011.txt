@@ -1,0 +1,3 @@
+default
+キノコの精,Mushroom Sprite
+このカードがフィールド上から墓地へ送られたとき、デッキからレベル4以下のランダムな植物タイプモンスター1体を特殊召喚する。,If this card is sent to the graveyard from the field; summon one random monster (level 4 or lower) from the deck.

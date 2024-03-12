@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,潜入工作員
-&効果テキスト,[1].このカードが場に出た時発動する。自身に「潜伏」(2ターン)を付与する。\n[2].このカードが相手プレイヤーに攻撃宣言を行ったとき発動する。相手フィールド上のランダムな魔法・トラップカードを１枚破壊する。
+&カード名,Infiltration Agent
+&効果テキスト,[1]. When this card is summoned: Grant [Concealment (2 Turns)] to this card.\n[2]. When this card declares an attack on the opposing player: Destroy one random Magic/Trap Card on the opponent's field.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

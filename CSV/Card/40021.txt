@@ -1,8 +1,7 @@
 default
 @初期設定
 &カード名,Defense Gem Lv1
-&効果テキスト,[1]Increases MAX HP of 1 character by 200.
-
+&効果テキスト,[1]. Increases MAX HP of target character by 200.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

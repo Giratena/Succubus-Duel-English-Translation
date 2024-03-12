@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,少年勇者
-&効果テキスト,[1].このカードが装備カードを装備したとき発動する。チャージを+1する。\n[2].このカードが相手モンスターを戦闘で破壊したとき発動する。チャージを+3する。\n[3].チャージを10消費し、１度だけ発動できる。このカードの最大HPと攻撃力を2500ポイントアップし、{%%60021}を１枚生成して手札に加える。
+&カード名,Young Hero
+&効果テキスト,[1]. When this card is equipped with an Equipment Card: Increase Charge by +1.\n[2]. When this card destroys an opponent's monster in battle: Increase Charge by +3.\n[3]. Spend 10 Charges to activate this effect only once: Increase this card's maximum HP and attack power by 2500 points; generate one {%%60021} and add it to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,0 +1,3 @@
+default
+けむりだま,Smoke Bomb
+自分フィールド上のモンスター1体を選択し発動する。そのカードを手札に戻す。,Choose a monster on your side of the field. Return that card to your hand.

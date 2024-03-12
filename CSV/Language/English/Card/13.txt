@@ -1,0 +1,3 @@
+default
+宝石鉱夫,Gem Miner
+通常召喚に成功したときデッキからランダムに「ジェム」カードを2枚手札に加える。,On normal summon; add 2 random [Gem] cards to your hand.
