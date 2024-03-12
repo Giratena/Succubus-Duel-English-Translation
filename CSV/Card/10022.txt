@@ -22,14 +22,14 @@ default
         {
             if,乱数,==,1
             {
-                セリフ,Ahnnn; don't make such a scary expression.\nI'll do something very plesant with my breasts❤
+                セリフ,Ahnnn; don't make such a scary expression.\nI'll do something very pleasant with my breasts❤
                 セリフ,Onii-san; you really love breasts; don't you❤ Can you attack me at this point? If you don't... I'll make your penis feel amazing with my soft; fluffy breasts...❤           
                 セリフ,Hehehe❤You dropped your weapon.\nHora; since you're a good boy I'll reward you a bunch with my breasts. Please enjoy my paizuri~❤
             }
             if,乱数,==,2
             {
-                セリフ,My breasts are absurdly huge; aren't they?\nEveryone become such good boys when I [punish] them with these breasts of mine❤ 
-                セリフ,It's especially efective against people like Onii-san who are weak against breasts.\nCome on; pleaseee❤ Throw away your weapon...\nLet me [punish] you a lot.
+                セリフ,My breasts are absurdly huge; aren't they?\nEveryone becomes such good boys when I [punish] them with these breasts of mine❤ 
+                セリフ,It's especially effective against people like Onii-san who are weak against breasts.\nCome on; pleaseee❤ Throw away your weapon...\nLet me [punish] you a lot.
             }
             if,乱数,==,3
             {
@@ -40,7 +40,7 @@ default
         }else{
             if,乱数,==,1
             {
-                セリフ,Ahnnn; don't make such a scary expression.\nI'll do something very plesant with my breasts❤
+                セリフ,Ahnnn; don't make such a scary expression.\nI'll do something very pleasant with my breasts❤
                 セリフ,Your brain will instantly turn into mush the moment I wrap my breasts around your penis~❤ I'll help heal you sooo much❤ Hehehe❤           
             }
             if,乱数,==,2
@@ -62,7 +62,7 @@ default
     話者,自分,true,
     セリフ,Ara; I can't believe you are walking to the execution stand on your own. That certainly saves me time❤
     セリフ,Do you want to be [executed] by my cleavage that badly?
-    セリフ,I'll let your penis enter the the execution hole in the front of my outfit and give you paizuri that's so intense that it'll be audible to everyone~❤
+    セリフ,I'll let your penis enter the execution hole in the front of my outfit and give you paizuri that's so intense that it'll be audible to everyone~❤
     セリフ,I'm going to purify your very soul with this hole~❤
     状態異常付与,自分,弱点付与スキル,
 
@@ -92,7 +92,7 @@ default
         セリフ,The fellatio I gave earlier must have looked so pleasant. You look so pathetic; giving up like this and masturbating on the battlefield~❤                                        
         セリフ,There's no need to worry though. That is just how men are~❤ Sad creatures that give up against even a weaker opponent when the offer of pleasure is dangled in front of them❤
         セリフ,Now; allow me to use my breasts to help soothe the pain you must be feeling from betraying your allies❤ I'll send you to heaven straight away~❤                        
-        セリフ,I'll bring these hugeee boobs of mine mere centimeters in front of your face... So close that that they almost touch your noise... And show off my air p・ai・zu・ri❤
+        セリフ,I'll bring these hugeee boobs of mine mere centimeters in front of your face... So close that they almost touch your noise... And show off my air p・ai・zu・ri❤
         セリフ,I'll make your brain boil by shaking my massive breasts in front of your face❤ Hooora...❤                        
         話者変更,相手
         セリフ,A-Ahhhhh❤ Your boobs...❤❤ Are so amazing...❤                                   
