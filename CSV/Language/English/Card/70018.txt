@@ -1,4 +1,4 @@
-defaultOH W
+default
 ネネコ,Neneko
 F18_paizuriAnime,
 にゃ、お前は闘技場で戦ったあのマスターかにゃ。\nお前が活躍してるせいで弟がますます冒険に乗り気になってるのにゃ。\nどうしてくれるのにゃ。,Nya- You're that Card Master from that arena-nya! \nBecause of your running around; my brother is becoming more and more interested in adventuring-nya. \nOh; what will I do-nya...
