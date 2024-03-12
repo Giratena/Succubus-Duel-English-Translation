@@ -1,3 +1,0 @@
-default
-熟練の暗殺者,Skilled Assassin
-1ターンに1度、フィールド上モンスター1体を選択し、LPを500払って発動できる。そのモンスターに毒600を付与する。,Once per turn、 you may pay 500 LP to pick one monster on the field and inflict 600 poison to it.

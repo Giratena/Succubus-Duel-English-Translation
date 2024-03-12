@@ -1,3 +1,0 @@
-default
-ホーリーナイト,Holy Knight
-自分のターン終了時、HPを300回復する。,Recovers 300 HP on the end of your turn.

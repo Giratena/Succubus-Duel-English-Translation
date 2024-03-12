@@ -1,6 +1,0 @@
-default
-タイトル,
-Place/Title,
-ニューゲーム,New Game
-ロード,Load
-ゲーム終了,Quit Game

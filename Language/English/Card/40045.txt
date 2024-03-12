@@ -1,3 +1,0 @@
-default
-シャドーコピー,Shadow Copy
-自分フィールド上の闇属性モンスター1体を選び、手札を2枚捨てて発動する。そのモンスターを現在の能力のままコピーして、自分フィールド上に特殊召喚する。,Choose one Dark Attribute on your field and discard 2 cards in your hand: Copy that monster with its current ability; and Special Summon it to your field.

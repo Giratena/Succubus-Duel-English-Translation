@@ -1,3 +1,0 @@
-default
-吟遊詩人,Minstrel
-このカードが特殊召喚に成功したとき発動する。自分フィールド上のすべてのモンスターの最大HPを800ポイントアップする。,If this card is special summoned; increase the max HP of all monsters on your side of the field by 800 points.

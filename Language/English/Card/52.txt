@@ -1,3 +1,0 @@
-default
-修行僧,Training Monk
-[1].1ターンに2度まで、このカードに「成長」状態が付与されたときに発動する。デッキからカードを１枚ドローする。\n[2].このカードが「成長」状態の場合、戦闘で相手モンスターを破壊したとき発動する。このカードの攻撃力を400ポイントアップする。,[1]. If this card gains [Growth]; draw a card (can activate up to 2 times per turn).\n[2]. If an opponent's monster is destroyed in battle and this card has [Growth]; increase this card's attack power by 400 points.

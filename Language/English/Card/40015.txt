@@ -1,3 +1,0 @@
-default
-ウインドカッター,Wind Cutter
-場のモンスター1体を選択して発動する。そのモンスターに200ポイントダメージを与える。もしも自分フィールド上にこのカード以外の風属性のカードがあるなら、その数×300ポイントダメージがアップする。,Deals 200 damage to a monster. This damage is increased by 300 for every other Wind card on your field.

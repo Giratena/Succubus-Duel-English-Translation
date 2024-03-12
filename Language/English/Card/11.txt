@@ -1,3 +1,0 @@
-default
-頑強なるドワーフ,Stubborn Dwarf
-きわめて頑丈な体と防御能力を持つドワーフ。守りに徹した彼を突破するのは容易ではない。しかし、動きはどんくさく攻撃するのは苦手。,A dwarf posessing a sturdy body with high defense. Breaking through his protection isn't easy; but his slow movements make him a poor attacker.

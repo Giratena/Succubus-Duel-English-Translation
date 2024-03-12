@@ -1,3 +1,0 @@
-default
-深淵の杖,Abyss Staff
-自分フィールド上の闇属性・魔術師タイプのモンスターに装備可能。\n[1].装備モンスターの攻撃力を500ポイントアップする。\n[2].１ターンに１度、自分が闇属性の魔法カードを発動した時発動する。自分のデッキから闇属性カードをランダムに１枚墓地へ送る。そのカードが魔法カードだった場合、それを手札に加える。,Equip able by Dark Attribute sorcerer type monsters on your field.\n[1]. Increase the attack power of equipped monster by 500 points. \n[2]. When you activate a Dark Attribute Magic Card; send 1 random Dark Attribute card to the Graveyard from your Deck. If the discarded card was Magic Card

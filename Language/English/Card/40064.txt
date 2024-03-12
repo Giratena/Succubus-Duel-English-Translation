@@ -1,3 +1,0 @@
-default
-宝石鉱床,Gemstone Deposit
-[1].自分ターン開始時に発動する。チャージを+1する。\n[2].このカードのチャージが５以上になったとき発動する。このカードは自壊する。\n[3].フィールド上のこのカードが破壊され墓地に送られたとき発動する。「{%%40065}」を生成して1枚手札に加える。,[1]. Activate at the start of your turn and give this card Charge +1.\n[2]. If Charge >= 5; This card destroys itself. \n[3]. When this card is destroyed and sent to the Graveyard; Create "{%%40065}" and add 1 card to your hand.

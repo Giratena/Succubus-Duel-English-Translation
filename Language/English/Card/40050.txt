@@ -1,3 +1,0 @@
-default
-クイック,Quick
-[1].自分のフィールドと墓地にモンスターが存在しない場合に、手札を1枚捨てて発動できる。このターンの間、プレイヤーの攻撃回数を１増加させる。,[1]. If there are no monsters in your field and graveyard

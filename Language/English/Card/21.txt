@@ -1,3 +1,0 @@
-default
-羽の騎士,Feather Knight
-1ターンに1度LPを1000払って発動できる。このターンの間、このカードは相手プレイヤーに直接攻撃できる。,Once per turn; you may pay 1000 LP. Until end of turn; this monster may directly attack your opponent.

@@ -1,3 +1,0 @@
-default
-水の戦士,Water Soldier
-このカードが手札から墓地へ送られたとき発動する。このカードを自分フィールド上に特殊召喚する。,If this card would be sent from your hand to the graveyard; special summon this card to your side of the field.

@@ -1,3 +1,0 @@
-default
-武器の鍛錬,Arms Forge
-[1].フィールド上のキャラクター1体を選択して発動する。そのキャラクターの攻撃力をそのモンスターが装備しているカードの数×400ポイントアップする。,[1]. Select a character on the field. Increase that character's attack power by 400 x X (X = the number of cards equipped).

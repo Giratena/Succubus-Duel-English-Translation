@@ -1,3 +1,0 @@
-default
-夜の恐怖,Fear at Night
-LPを1000払って発動する。デッキから闇属性レベル5以上のモンスターをランダムに1体手札に加える。,Pay 1000 LP to activate. Add 1 random Dark Attribute Level 5 or higher monster from the deck to your hand.

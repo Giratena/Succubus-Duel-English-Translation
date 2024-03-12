@@ -1,3 +1,0 @@
-default
-エルダーシャーマン,Elder Shaman
-1ターンに1度、フィールド上のモンスター１体を選択して発動できる。そのモンスターのHPを300ポイントアップさせる。,Once per turn; you may select 1 monster on your side of the field. That monster gains 300 Max HP.

@@ -1,3 +1,0 @@
-default
-回復ポーション,Recovery Potion
-[1]モンスター１体を選択して発動する。そのHPを1500回復する。,[1]. Select one monster: That monster recovers 1500 HP.

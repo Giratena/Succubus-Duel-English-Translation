@@ -1,3 +1,0 @@
-default
-ナイフ使い,Knife Wielder
-戦闘でダメージを与えたとき相手に毒200を与える。,Whenever this monster deals combat damage; that enemy gains [Poison (200)].

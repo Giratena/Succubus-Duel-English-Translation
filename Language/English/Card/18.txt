@@ -1,4 +1,0 @@
-default
-偵察者,Scout
-このカードが場に出たとき、相手フィールド上の魔法・トラップカードを1枚選択して発動できる。そのカードを相手の手札に戻す。,When this card is normal summoned; you may return one spell or trap card from the opponent's side of the field to their hand.
-羊飼いのふりをして他国の情勢を探る偵察者。眼光鋭いその目は、どんな変化も見逃さない。,羊飼いのふりをして他国の情勢を探る偵察者。眼光鋭いその目は、どんな変化も見逃さない。

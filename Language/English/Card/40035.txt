@@ -1,3 +1,0 @@
-default
-幸運のクローバー,Lucky Clover
-クールタイム4\n[1].LPを400払って発動する。デッキからカードを1枚ドローする。そのカードがレベル４モンスターだった場合、さらにもう1枚カードをドローする。,Cool Down 4\n[1]. Pay 400 LP and draw a card from the deck; if that card is a level 4 monster; draw another card.

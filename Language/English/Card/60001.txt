@@ -1,3 +1,0 @@
-default
-風のカタナ,Wind Katana
-戦士タイプモンスターに装備可能。\n[1].攻撃力400ポイントアップ。装備モンスターの属性はこのカードを装備している間、風属性になる。,Equippable to Warriors. \n[1]. Increases ATK by 400. Equipped monsters' attribute changes to Wind while holding this equipment.

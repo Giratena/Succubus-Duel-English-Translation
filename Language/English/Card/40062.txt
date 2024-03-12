@@ -1,3 +1,0 @@
-default
-潜伏,Concealment
-[1].手札から水属性レベル５以下のモンスター1体を捨てて発動する。次の自分ターン開始時、このカードを墓地へ送り、そのモンスターを自分の墓地から特殊召喚する。,[1]. Discard a Level 5 or lower Water attribute monster from your hand. At the beginning of your next turn; send this card to the Graveyard; and Special Summon the discarded monster from your Graveyard.

@@ -1,3 +1,0 @@
-default
-ニンジャ毒牙,Poison Fang Ninja
-このカード名の[1]の効果は１ターンに１度しか発動できない。\n[1].このカードが手札に存在する場合、自分フィールド上の「ニンジャ」モンスター１体を選択して発動できる。そのモンスターを手札に戻しこのカードを特殊召喚する。\n[2].このカードが特殊召喚されたとき発動する。ランダムな相手モンスター1体に300ポイントダメージを与え「毒」(200)を付与する。,Effect [1] can only be activated once per turn.\n[1]. If this card is in your hand; you may return 1 "Ninja" monster from your field to your hand. If you do so; special summon this card. \n[2]. When this card is special summoned; deal 300 points of damage to a random monster on your opponent's side of the field and it gains [Poison (200)].
