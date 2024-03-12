@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,竜を狩るもの
-&効果テキスト,[1].フィールド上にドラゴンタイプのモンスターがいる場合、このカードの召喚コストは１つ少なくなる。\n[2].このカードの通常召喚に成功したとき、フィールド上のドラゴンタイプモンスター１体を選択して発動する。そのモンスターに1000ポイントのダメージを与える。
+&カード名,Dragon Hunter
+&効果テキスト,[1]. If there is a Dragon Type monster on the field; the summoning cost for this card is reduced by one.\n[2]. When this card is successfully Normal Summoned; select one Dragon Type monster on the field and deal 1000 points of damage to it.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

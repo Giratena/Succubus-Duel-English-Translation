@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,ともしびの騎士
-&効果テキスト,[1].このカードの場に出たとき発動する。デッキから「{%%40036}」を1枚手札に加える。\n[2].このカードが自分フィールド上に存在する限り、自分の光属性モンスターが相手の闇属性モンスターに与えるダメージは600ポイントアップする。
+&カード名,Touchlight Knight
+&効果テキスト,[1]. When this card is summoned: Add one [{%%40036}] from your Deck to your hand.\n[2]. As long as this card remains on your field; the damage dealt by your Light Attribute monsters to the opponent's Dark Attribute monsters is increased by 600 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,ネクロマンサー
-&効果テキスト,[1].このカードが場に出たとき発動する。自分の墓地から「ネクロマンサー」以外のモンスターカードをランダムに2枚手札に加える。\n[2].1ターンに１度、自分モンスターが破壊されたときに発動する。そのモンスターを自分の墓地から手札に加える。
+&カード名,Necromancer
+&効果テキスト,[1]. When this card is Summoned: Add two random monster cards (excluding "Necromancer" monsters) from your Graveyard to your hand.\n[2]. Once per turn; when a monster you control is destroyed: Put that monster into your hand instead of your Graveyard.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,ウイング
-&効果テキスト,このカード名の効果は１ターンに１度しか発動できない。\n[1].自分の墓地に風属性以外のカードが存在せずこのカードが手札に存在する場合、このターンに7回以上カード効果が発動したとき発動できる。このカードを手札から特殊召喚し、お互いのプレイヤーに「魔法カード使用不可(１ターン)」を付与する。
+&カード名,Wing
+&効果テキスト,This card name's effect can only be activated once per turn.\n[1]. When there are no non-Wind Attribute cards in your Graveyard and this card is in your hand; if 7 or more card effects have been activated this turn: Special Summon this card from your hand and grant [Spell Card Usage Forbidden (1 Turn)] to both players.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
