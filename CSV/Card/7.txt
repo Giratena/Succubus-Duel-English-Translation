@@ -1,7 +1,7 @@
 default
-@初期化
-&カード名,ナイフ使い
-&効果テキスト,戦闘でダメージを与えたとき相手に毒200を与える。
+@初期設定
+&カード名,Knife Wielder
+&効果テキスト,Whenever this monster deals combat damage; inflict poison[200] to the enemy.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

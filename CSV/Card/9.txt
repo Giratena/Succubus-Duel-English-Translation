@@ -1,9 +1,9 @@
 default
-@初期化
-&カード名,ウッドアーチャー
+@初期設定
+&カード名,Wood Archer
 &効果テキスト,
 &ハード効果テキスト,
 &イージー効果テキスト,
-&フレーバーテキスト,弓の腕に自信がある狩人。狩りで獲物をしとめ損ねたことは一度もない。
+&フレーバーテキスト,An archer who's confident in his bow arm. He never fails to take down a game in his hunts.
 &エロ効果テキスト,
 &ハードエロ効果テキスト,
