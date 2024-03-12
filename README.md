@@ -2,6 +2,10 @@
 This is a translation project for Succubus Duel, a card game featuring many succubi and temptations...
 [You can buy and support the game here!](https://www.dlsite.com/maniax/work/=/product_id/RJ01149693.html)
 # Special Translation information
+## General
+- Any ❤, must be prefixed with puncuation. Eg: ".❤", "?❤", "~❤", or "...❤" 
+- Any "," must be replaced with ";". This is because the scripts are comma delimited CSVs. They will render as "," in game.
+
 ## Card terminology
 - The elements a card can be (EG: Water, Fire Dark etc) is called "Attribute"
 - The type a card (EG: Rouge, Warrior, Hunter etc) is called "Type".
