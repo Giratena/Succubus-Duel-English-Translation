@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,猛牛の闘士
-&効果テキスト,[1]このカードが.自分ターン中に効果ダメージを受けたとき発動する。自身に「モンスターに与える戦闘ダメージが倍になる」(1ターン)を付与する。\n[2].このカードが自分ターン中に攻撃宣言をしていない場合、ターン終了時に発動する。このカードは自壊する。
+&カード名,Ferocious Bull Fighter
+&効果テキスト,[1]. When this card receives effect damage during your turn: Grant [Double Battle Damage to Monsters] to this card for one turn.\n[2]. If this card has not declared an attack during your turn; banish this card.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,発掘ドワーフ
-&効果テキスト,[1].このカードが場に出た時発動する。「{%%50015}」を２枚生成して手札に加える。
+&カード名,Excavation Dwarf
+&効果テキスト,[1]. When this card is summoned: Generate 2 [{%%50015}] cards and add them to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

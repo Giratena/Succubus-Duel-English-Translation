@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,ウインドランサー
-&効果テキスト,[1].このターン、自分が風属性カードの効果を４回以上発動している場合、このカードの召喚コストは-1される。\n[2].このカードが相手モンスターを戦闘で破壊したとき、相手の魔法トラップカード１枚を選択して発動できる。そのカードを相手の手札に戻す。
+&カード名,Wind Lancer
+&効果テキスト,[1]. If you have activated the effects of Wind Attribute cards 4 or more times this turn; reduce the summoning cost of this card by 1.\n[2]. When this card destroys an opponent's monster by battle: You can select one enemy Magic/Trap Card; return that card to the opponent's hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
