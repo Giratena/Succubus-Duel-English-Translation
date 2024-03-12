@@ -21,9 +21,9 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 - If a trap/ability card has an activation condition, the description must with "If..."
 - If a chararacter or equipment card has an activation condition, the description must start with "When..."
 
-# How to contribute
-- TBA
-- 
+# How to contribute/test the translation
+- Clone the Repo and then copy your game files into the repo and you're done! Any edits or change in the repo will also be reflected in your game.
+
  # How to support:
  - Support my work on Patreon! https://www.patreon.com/Giratena
  - Join the Translation Server discord for wholesome translation help and updates! https://discord.gg/rxsQSPZ
