@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,The Assasin - Zaki
-&効果テキスト,The effect marked as [2] can only be activated if this card was advanced summoned with a Rouge type monster.\n[1]. When this card is normal summoned; all monster's on your opponent's field with [Poison] gain 2000 points of damage.\n[2]. If this card destroys an enemy monster; discard one random card from the opponent's hand and draw one card. If your opponent discarded a monster card in this way; draw an additional card.
+&効果テキスト,The effect marked as [2] can only be activated if this card was advanced summoned with Rouge Type monsters.\n[1]. When this card is Normal Summoned; all monster's on your opponent's field with [Poison] gain 2000 points of damage.\n[2]. If this card destroys an enemy monster; discard one random card from the opponent's hand and draw one card. If your opponent discarded a monster card in this way; draw an additional card.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

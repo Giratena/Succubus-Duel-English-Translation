@@ -1,9 +1,9 @@
 default
 @初期設定
 &カード名,Poet of the Sun
-&効果テキスト,[1] Up to 5 times per turn; when a character on your side of the field recovers HP;increase all characters on your side of the field's Max HP by 200.\n[2] At the end of your turn; add 1 random [Poet] monster from your deck to hand.
+&効果テキスト,[1] Up to 5 times per turn; when a character on your side of the field recovers HP; increase all characters on your side of the field's Max HP by 200.\n[2] At the end of your turn; add 1 random [Poet] monster from your deck to hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
-&フレーバーテキスト,
+&フレーバーテ キスト,
 &エロ効果テキスト,
 &ハードエロ効果テキスト,

@@ -2,7 +2,7 @@ default
 @初期設定
     &カード名,Master
     &カード画像,F1_Shisyo.png
-    &フレーバーテキスト,The protagonist's teacher. She is as strong as a B-ranker. She mainly uses Warrior Type cards、 but also makes use of Demonic Beast cards.
+    &フレーバーテキスト,The protagonist's teacher. She is as strong as a B-ranker. She mainly uses Warrior Type cards; but also makes use of Demonic Beast cards.
 
 @NewGame
     BGMフェードアウト,

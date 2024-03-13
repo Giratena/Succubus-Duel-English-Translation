@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Unicorn Knight
-&効果テキスト,[1]. Select one monster on the field, discard one card from your hand and pay 1000 LP to activate this effect: Recover that monster's HP by 2500 points.
+&効果テキスト,[1]. Select one monster on the field; discard one card from your hand and pay 1000 LP to activate this effect: Recover that monster's HP by 2500 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

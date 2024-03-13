@@ -1,3 +1,3 @@
 default
-スザク,スザク
-[1].このカードが効果ダメージを受けたとき発動する。このカードの攻撃力を300ポイントアップする。\n[2].墓地の炎属性カード2枚をランダムに取り除いて発動できる。このカードのHPを最大まで回復する。その後、自身の最大HPを300ポイントダウンさせる。,[1].このカードが効果ダメージを受けたとき発動する。このカードの攻撃力を300ポイントアップする。\n[2].墓地の炎属性カード2枚をランダムに取り除いて発動できる。このカードのHPを最大まで回復する。その後、自身の最大HPを300ポイントダウンさせる。
+スザク,Suzaku
+[1].このカードが効果ダメージを受けたとき発動する。このカードの攻撃力を300ポイントアップする。\n[2].墓地の炎属性カード2枚をランダムに取り除いて発動できる。このカードのHPを最大まで回復する。その後、自身の最大HPを300ポイントダウンさせる。,[1]. When this card takes effect damage: Increase this card's Attack Points by 300.\n[2]. Banish two random Fire Attribute cards from the Graveyard: Fully restore this card's HP. then; decrease this card's maximum HP by 300 points.

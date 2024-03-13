@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Raijin Thor
-&効果テキスト,[1]. When this card is Summoned: Generate 3 [Lightning] cards and add them to your hand.\n[2]. Once per turn, you may banish one random Warrior Type monster from the Graveyard: Increase this card's attack power by 500 points, and grant [Pierce (2 Turns)] to this card.
+&効果テキスト,[1]. When this card is Summoned: Generate 3 [Lightning] cards and add them to your hand.\n[2]. Once per turn, you may banish one random Warrior Type monster from the Graveyard: Increase this card's attack power by 500 points; and grant [Pierce (2 Turns)] to this card.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
