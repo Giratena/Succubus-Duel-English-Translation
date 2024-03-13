@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Inner Strength
-&効果テキスト,[1]. Increases the player's ATK by 100 points.\n[2]. If there are no other monsters on your side of the field at the end of the turn; draw a card.
+&効果テキスト,[1]. Increases the player's ATK by 100 points.\n[2]. If there are no other monsters on your side of the field at the end of your turn; draw a card.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

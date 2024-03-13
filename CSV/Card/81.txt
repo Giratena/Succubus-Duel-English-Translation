@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Jiangshi Boy
-&効果テキスト,[1]. When this card is sent directly from the Deck to the Graveyard: Special Summon this card from the Graveyard.\n[2]. During battle; this card gains [Zombie].
+&効果テキスト,[1]. When this card is sent directly from the Deck to the Graveyard: Special Summon this card from the Graveyard.\n[2]. During battle; inflicts [Zombie].
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
