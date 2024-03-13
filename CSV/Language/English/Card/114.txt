@@ -1,0 +1,3 @@
+default
+救世の騎士クレイン,Crane - Knight of Salvation
+[1].このカードが自分フィールド上に存在する限り、自分の光属性モンスターが受ける戦闘ダメージ・効果ダメージは200ポイントダウンする。\n[2].自分モンスターのHPが回復したとき発動する。自分フィールド上のすべての光属性モンスターの攻撃力と最大HPを300ポイントアップする。,[1]. As long as this card is on your field; reduce battle and effect damage to your Light Attribute monsters by 200 points.\n[2]. When a monster's HP is recovered: Increase the attack power and maximum HP of all your Light Attribute monsters on the field by 300 points.

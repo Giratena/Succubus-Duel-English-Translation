@@ -1,0 +1,3 @@
+default
+石盾のドワーフ,Stone Shield Dwarf
+特性「挑発」\n[1].自分が「ジェム」魔法カードを発動したとき発動する。自身の最大HPを200ポイントアップする。\n[2].このカードが戦闘で破壊されたとき発動する。デッキから「ジェム」カードを1枚手札に加える。,Special Status: [Taunt]\n[1]. When you activate a [Gem] Magic Card: Increase this card's maximum HP by 200 points.\n[2]. When this card is destroyed by battle: Add one [Gem] card from your Deck to your hand.

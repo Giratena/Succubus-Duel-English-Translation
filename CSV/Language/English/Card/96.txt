@@ -1,0 +1,3 @@
+default
+精霊鳥の使い手,Spirit Bird Handler
+[1].１ターンに１度、自分フィールド上の風属性・ハンタータイプのモンスター１体を選択して発動できる。ターン終了時までそのモンスターの攻撃力をこのターン発動した風属性カードの枚数×200ポイントアップする。,[1]. Once per turn; you can select one Wind Attribute; Hunter Type monster on your field: Increase that monster's attack power by 200 x X (X = the number of Wind Attribute cards activated this turn) until the end of the turn.

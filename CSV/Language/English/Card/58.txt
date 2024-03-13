@@ -1,3 +1,3 @@
 default
-竜化の魔術師,竜化の魔術師
-[1].１ターンに１度フィールド上のドラゴンタイプでないモンスター１体を選択して発動できる。そのモンスターのタイプをドラゴンタイプにし、攻撃力を300ポイントアップする。,[1].１ターンに１度フィールド上のドラゴンタイプでないモンスター１体を選択して発動できる。そのモンスターのタイプをドラゴンタイプにし、攻撃力を300ポイントアップする。
+竜化の魔術師,Dragonize Magician
+[1].１ターンに１度フィールド上のドラゴンタイプでないモンスター１体を選択して発動できる。そのモンスターのタイプをドラゴンタイプにし、攻撃力を300ポイントアップする。,[1]. Once per turn; select one non-Dragon Type monster on the field to activate this effect: Change that monster's Type to Dragon Type and increase its attack power by 300 points.

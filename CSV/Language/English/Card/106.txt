@@ -1,0 +1,3 @@
+default
+ニンジャ氷牙,Ice Fang Ninja
+このカード名の[1]の効果は１ターンに１度しか発動できない。\n[1].このカードが手札に存在する場合、自分フィールド上の「ニンジャ」モンスター１体を選択して発動できる。そのモンスターを手札に戻しこのカードを特殊召喚する。\n[2].このカードが特殊召喚されたとき発動する。ランダムな相手モンスター1体に300ポイントダメージを与え「凍結」を付与する。,This card name's [1] effect can only be activated once per turn.\n[1]. When this card is in your hand: Select one "Ninja" monster on your field; return that monster to your hand and Special Summon this card.\n[2]. When this card is Special Summoned: Inflict 300 points of damage to a random opponent's monster and inflict [Freeze] on it.
