@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Magician
-&効果テキスト,[1]. When this card is normal summoned; you may have each player discard 3 random cards from their hand; and then draw the same number of cards back.\n[2]. Once per turnp; after you activate a magic card you may pay 800 LP. If you do so; add one random trap card from the deck to your hand.
+&効果テキスト,[1]. When this card is normal summoned; you may have each player discard 3 random cards from their hand; and then draw the same number of cards back.\n[2]. Once per turn; after you activate a magic card you may pay 800 LP. If you do so; add one random trap card from the deck to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
