@@ -1,3 +1,3 @@
 default
-霊樹のしずく,靈樹之露
-キャラクター1体を選択して発動する。そのHPを300ポイント回復し、そのキャラクターに付与された状態異常をすべて解除する（装備カードの効果によるものは除く）。,[1].選擇１名角色發動。該角色HP回復300點，解除所有被賦予的狀態（裝備卡效果除外）。
+霊樹のしずく,Dew of the Spirit Tree
+キャラクター1体を選択して発動する。そのHPを300ポイント回復し、そのキャラクターに付与された状態異常をすべて解除する（装備カードの効果によるものは除く）。,Select one character: Recover 300 HP for that character; remove all status abnormalities from that character (except those caused by Equipment Card effects).

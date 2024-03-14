@@ -1,3 +1,3 @@
 default
-ドラゴンブレス,巨龍吐息
-[1].自分フィールド上のドラゴンタイプモンスター１体を選択して発動する。相手フィールド上のすべてのモンスターにその攻撃力分のダメージを与える。その後、そのドラゴンタイプモンスターに「このターン攻撃不能」を付与する。,[1].選擇自己場上１體龍族類型怪獸發動。給予對手場上所有怪獸該怪獸的攻擊力傷害。然後賦予該龍族類型怪獸「這回合無法攻擊」。
+ドラゴンブレス,Dragon Breath
+[1].自分フィールド上のドラゴンタイプモンスター１体を選択して発動する。相手フィールド上のすべてのモンスターにその攻撃力分のダメージを与える。その後、そのドラゴンタイプモンスターに「このターン攻撃不能」を付与する。,[1]. Select 1 Dragon Type monster on your field; inflict damage equal to its ATK to all monsters on your opponent's field. Then; grant [Cannot Attack (this turn)] to that monster.

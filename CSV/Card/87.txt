@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Hoarder Merchant
-&効果テキスト,[1]. When this card is Normal Summoned: Draw one card from your Deck for every 3 charges on your field (up to a maximum of 4 cards).\n[2]. Once per turn; you can select one card on your field: Increase the selected card's charges by +1.
+&効果テキスト,[1]. When this card is Normal Summoned: Draw one card from your Deck for every 3 charges on your field (up to a maximum of 4 cards).\n[2]. Once per turn; you cyou mayct one card on your field: Increase the selected card's charges by +1.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
