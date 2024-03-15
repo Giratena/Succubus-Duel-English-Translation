@@ -3,7 +3,7 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 [You can buy and support the game here!](https://www.dlsite.com/maniax/work/=/product_id/RJ01149693.html)
 # Special Translation information
 ## General
-- Any ❤, must be prefixed with puncuation. Eg: ".❤", "?❤", "~❤", or "...❤" 
+- Any ❤, must be prefixed with puncuation. Eg: ".❤", "!❤", "?❤", "~❤", or "...❤" 
 - Any "," must be replaced with ";". This is because the scripts are comma delimited CSVs. They will render as "," in game.
 
 ## Card terminology
@@ -23,6 +23,10 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 
 # How to contribute/test the translation
 - Clone the Repo and then copy your game files into the repo and you're done! Any edits or change in the repo will also be reflected in your game.
+
+# How to put the translation into your game
+- Download the repo as a zip then paste everything into your game folder and you're done!
+- Alternatively grab a stable copy from the releases tab (when there is one aha)
 
  # How to support:
  - Support my work on Patreon! https://www.patreon.com/Giratena
