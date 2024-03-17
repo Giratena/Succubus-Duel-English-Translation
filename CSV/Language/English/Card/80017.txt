@@ -1,71 +1,71 @@
 default
-マッサージ少女,Massage Girl
-くす❤また来たの？\nでも今日はもうおしまい。,Ehehe❤ You're here again? Sorry; but I won't give you another masssage.
-だって、キミのお財布もタマタマもどっちも空っぽでしょ？\n都会に出てきたばっかりなのに大事な軍資金全部なくなっちゃったね❤,I mean; both your wallet and balls are totally empty; right? You ended up blowing all your money despite just making it into the city❤
+マッサージ少女,
+くす❤また来たの？\nでも今日はもうおしまい。,Ahaha❤ You're here again? Sorry; but I'm not giving you another massage.
+だって、キミのお財布もタマタマもどっちも空っぽでしょ？\n都会に出てきたばっかりなのに大事な軍資金全部なくなっちゃったね❤,I mean; both your wallet and balls are already emptied; right? You ended up blowing all your money despite just making it into the city❤
 お金取られちゃって悔しいかな？\nでもわたしとしてはキミには常連になってほしいな～❤なんて❤\nくすくす❤,Are you feeling frustrated for losing it all like that? But you know; I would like you to become regular at my shop❤ Ehehe❤
-路地裏の入り口で、一人の女の子がつまらなさそうに壁にもたれかかって立っていた。,I noticed a bored-looking girl leaning against a wall at an entrance to a side-street.
-彼女は僕を見つけると、ニコリと笑い、こちらに話しかけてくる。,When she noticed me; she gave me a smile and came over.
-ねえ、キミ。この街ははじめて？\nきょろきょろしながら歩いて、田舎から出てきたばっかりなのかな？\nくすくす♪,Hey; is this your first time in a city? The way you're looking all while walking makes you look like a countrybumpkin. Ehehe♪
-ふーん、カードマスターギルドを探しているんだ。\nてことはキミ、カードマスターなの？すごーい❤,Oh; you're looking for the cardmaster's guild? Does that mean you're also a cardmaster? That's so cool❤
-ねえねえ、ギルドに行くのもいいけどさ、\nそれよりもっと楽しいことしない？,Hey; going to the guild is surely important; but why not do something more fun with me?
+路地裏の入り口で、一人の女の子がつまらなさそうに壁にもたれかかって立っていた。,I saw a bored-looking girl leaning against a wall at an entrance to a side-street.
+彼女は僕を見つけると、ニコリと笑い、こちらに話しかけてくる。,When she noticed my gaze; she smiled and came over to me.
+ねえ、キミ。この街ははじめて？\nきょろきょろしながら歩いて、田舎から出てきたばっかりなのかな？\nくすくす♪,Hey; is this your first time in a city? You're looking like a countrybumpkin with the way you're looking all around. Ehehe♪
+ふーん、カードマスターギルドを探しているんだ。\nてことはキミ、カードマスターなの？すごーい❤,Oh; you're looking for the cardmaster's guild? Does that mean you're a cardmaster? That's so cool❤
+ねえねえ、ギルドに行くのもいいけどさ、\nそれよりもっと楽しいことしない？,Hey; I'm sure that going to the guild is also important; by why not have some fun with me?
 楽しいこと・・・？,Fun...?
-わたしねー、男の人にマッサージするのが仕事なの❤\nだからキミにもマッサージをしてあげたいなぁ、なんて。,I do men's massage for work❤ So I would like to give you a massage.
-いまちょうどお客さんが少なくて困っててさー、\nね、おねがい❤わたしを助けると思って、\nわたしのマッサージを受けてほしいなぁ❤ダメ？,I've been troubled by lack of customers. So please❤ You can think of buying my service as helping me❤ Pretty please❤
-そう言って女の子は僕の手を両手で握り、上目遣いで頼んでくる。村には年の近い女の子なんて全然いなかったから、こんな風に手を握られるとそれだけでドキドキしてしまう。,After those words; the girl took my hand into both of hers and pleaded while looking up to my eyes. There weren't any girls of my age in my village; so simply holding hands with her was making my heart race.
+わたしねー、男の人にマッサージするのが仕事なの❤\nだからキミにもマッサージをしてあげたいなぁ、なんて。,I work as men's masseuse❤ I would like to offer my massage services to you.
+いまちょうどお客さんが少なくて困っててさー、\nね、おねがい❤わたしを助けると思って、\nわたしのマッサージを受けてほしいなぁ❤ダメ？,I'm a bit troubled by the lack of customers curretly; so please take my massage❤ You can think it as helping me out too❤ Pretty please❤
+そう言って女の子は僕の手を両手で握り、上目遣いで頼んでくる。村には年の近い女の子なんて全然いなかったから、こんな風に手を握られるとそれだけでドキドキしてしまう。,The girl took my hand in hers and pleaded me to buy her services while looking up to my eyes. Just holding hands with her was making my heart race since there hadn't been any girls of my age in the village.
 ううっ・・・。,Uuuh...
-ギルドに行く前にこんな寄り道なんてしていていいのだろうか。彼女の提案に僕は・・・・。,Should I be making such a stop before going to the guild? At the girl's proposal; I...
-彼女についていく,Go along with her
-彼女を振り払う,Refuse the offer
-えー、そんなこと言わないでよ。\nそうだ、ちょっとだけマッサージのお試しをしてあげるね❤,Eeh? Please don't say that. I know; let me give you a little trial run❤
-わたしのマッサージ気持ちいいんだよ～❤\nほら、キミの凝ったふとももを、もみもみ♪,My massages feel really good❤ I can help with those stiff thighs of your like this❤ There; there♪
+ギルドに行く前にこんな寄り道なんてしていていいのだろうか。彼女の提案に僕は・・・・。,Should I take a stop here before reaching the guild? At the girl's proposal; I...
+彼女についていく,Went along with her
+彼女を振り払う,Refused the offer
+えー、そんなこと言わないでよ。\nそうだ、ちょっとだけマッサージのお試しをしてあげるね❤,Eeh? Please don't say that. Oh, I know! Let me give you a little trial run❤
+わたしのマッサージ気持ちいいんだよ～❤\nほら、キミの凝ったふとももを、もみもみ♪,My massages feel really good❤ Let me help you with those stiff thighs of yours❤ Rub; rub♪
 あう、ちょっ、そんなところ❤,Ah... W-Wait; that spot is...❤
-えー、ふとももを触るぐらい普通だよ❤\nほら、脚の付け根に向かって、さわさわ❤なでなで❤,It's perfectly normal for me to massage a man's thighs❤ I'll move up your thighs to the base of your legs❤ There; there❤
-くすくす❤どうしたの、そんなもどかしそうな顔しちゃって。\nわたしのマッサージが気持ちよくて、\nもっと続きをしてほしくなっちゃった？,Ehehe❤ What's with that silly face? Is my massage starting to feel so good that it makes you want more?
-ねえ、こんな表通りじゃなくてさ、お店の中まで来てくれれば、\nもっと色んな「マッサージ」をしてあげるよ？\n人前じゃできないような、あんなこともこんなことも❤,Hey... If it's in my shop and not here on the main stree; many more types of "massage"❤ I can even do things that couldn't be done in front of others❤
-ほらぁ、わたしのお店に行こ？\nおねがーい❤,So; why don't you come to my shop? Pretty please❤
+えー、ふとももを触るぐらい普通だよ❤\nほら、脚の付け根に向かって、さわさわ❤なでなで❤,Thigh massage is a perfectly normal thing❤ I'll keep going up your thighs to the base of your legs❤ Rub; rub❤
+くすくす❤どうしたの、そんなもどかしそうな顔しちゃって。\nわたしのマッサージが気持ちよくて、\nもっと続きをしてほしくなっちゃった？,Ehehe❤ Look at you making such a silly face. Are you starting to want more massage since it feels so good?
+ねえ、こんな表通りじゃなくてさ、お店の中まで来てくれれば、\nもっと色んな「マッサージ」をしてあげるよ？\n人前じゃできないような、あんなこともこんなことも❤,You know... If we moved to my shop; I could offer other types of "massages" too❤ I could knead you in ways that couldn't be done here in front of others❤
+ほらぁ、わたしのお店に行こ？\nおねがーい❤,So... Let's go to my shop. Pretty please❤
 ううっ・・・・❤,Uuuh...❤
-あん、うう、頑固だなー。\nあっ、待ってよ、どっかいかないで。,Uuh. You're so stubborn... Ah; please wait! Don't go!
-僕は彼女に背を向け、つかつかと歩き出した。このままあの場所にいては、怪しいお店に連れ込まれてしまうかもしれない。もう近寄らないようにしよう。,I turned my back to the girl and briskly walked away. It felt like she was trying to take me to some suspicious shop; so I should try avoiding her from now on.
-あは、さっきの男の子じゃん。\nどうしたの？やっぱりわたしのマッサージ受けたくなった？,Ah; you're the guy from before. What is it? Did you change your mind about taking my massage?
-おちんちん、ズボンの上から見ても分かるぐらい大きくなってるね❤\nくすくす❤さっきのお試しが効きすぎちゃったみたい❤,Your dick is so hard that it's clearly bulging from your pants❤ Ehehe❤ It's looking like the trial run from before was really effective❤
+あん、うう、頑固だなー。\nあっ、待ってよ、どっかいかないで。,Uuh. How stubborn... Ah; please wait! Don't go!
+僕は彼女に背を向け、つかつかと歩き出した。このままあの場所にいては、怪しいお店に連れ込まれてしまうかもしれない。もう近寄らないようにしよう。,I turned my back to the girl and briskly walked away. It felt like she was trying to take me to some suspicious shop; so I decided it would be better to avoid her from now on.
+あは、さっきの男の子じゃん。\nどうしたの？やっぱりわたしのマッサージ受けたくなった？,Ah; you're the guy from before. What is it? Did you change your mind about the massage?
+おちんちん、ズボンの上から見ても分かるぐらい大きくなってるね❤\nくすくす❤さっきのお試しが効きすぎちゃったみたい❤,Your penis is so hard that it's clearly bulging from your pants❤ Ehehe❤ It's looks like the trial run from before was really effective❤
 ううっ・・・❤,Uuh...❤
-それじゃほら、ギルドに行く前に、\nわたしのお店で楽しいこと、しよっか❤\nお店はこっちだよ。おいでおいで❤,Now; come enjoy my massage before going to the guild❤ My shop is right here. Follow me❤
-そう言って女の子は僕の手を取り、路地裏へと引っ張ってくる。僕は・・・・。,With those words; the girl took my hand and began leading me towards a side stree. In that situation; I...
-やった❤ありがと～❤\nうれしいからハグしちゃう❤ぎゅー❤,Yay❤ Thanks❤ I'm so happy that I want to hug you❤ Come here❤ Squeeze❤
+それじゃほら、ギルドに行く前に、\nわたしのお店で楽しいこと、しよっか❤\nお店はこっちだよ。おいでおいで❤,Now; come and enjoy my massage before heading to the guild❤ My shop is right here. Please follow me❤
+そう言って女の子は僕の手を取り、路地裏へと引っ張ってくる。僕は・・・・。,The girl took my hand and began leading me towards the side street. In that situation; I...
+やった❤ありがと～❤\nうれしいからハグしちゃう❤ぎゅー❤,Yay❤ Thanks coming with me❤ I'm so happy that it makes me want to give you a hug❤ Come here❤ Squeeze❤
 あう、うう・・・❤,Ah... Uuuh...❤
-人目がある場所で女の子に抱き着かれて、僕は顔を真っ赤にしてしまう。そしてそのまま裏路地の中にある一軒のお店に連れ込まれてしまった。,I couldn't help blushing when the girl hugged me in a public space. Then; she brought me to one of the houses at the side street.
-それじゃそこのベッドに横になってね。\nそうそう❤だらーんって力を抜いていいからね。,Please lie down on the bed there. Yes❤ Go ahead and fully relax.
-あは、緊張して体が固くなってる❤\nこういうお店は初めてなのかな？うふふ❤,Ehehe❤ Your body is getting stiff from nervousness❤ Is it your first time in this kind of shop?
+人目がある場所で女の子に抱き着かれて、僕は顔を真っ赤にしてしまう。そしてそのまま裏路地の中にある一軒のお店に連れ込まれてしまった。,I couldn't help blushing when the girl hugged me in such a public space. Then; she dragged me inside one of the houses lining the side street.
+それじゃそこのベッドに横になってね。\nそうそう❤だらーんって力を抜いていいからね。,Please lie down on the bed there. Yes❤ Please go ahead and fully relax.
+あは、緊張して体が固くなってる❤\nこういうお店は初めてなのかな？うふふ❤,Ehehe❤ Your body is getting quite stiff and strained❤ Is this your first time in this kind of shop?
 あっ、うっ、気持ちいい・・・❤,Ah... Uuh... It feels good...❤
-ふつうのマッサージも上手でしょ？\nで、も❤キミ的には他のマッサージもしてほしいんじゃないかな❤,I'm good at giving this kind of normal massage too. However❤ You're wanting the other type of "massage;" right?
-ほら、鼠径部をさわさわさわ♪\nくすくす❤腰をびくびく反応させちゃってるね❤,Here; I'll massage your groin region♪ Ehehe❤ It's making your hips fidget❤
-ほんとはね、このお店ではエッチなことはしちゃいけないの。\nそこに貼り紙があるでしょ？\n「性的なことは禁止、破ったら罰金1000G」って,You know; all kinds of sexual acts are actually prohibited in this shop. Can you see what that poster over there says? "Sexual acts banned! Breaking this rule induces 1000G fee."
-でもわたしとしては、\nキミにはちゃんと気持ちよくなってもらいたいし、\nどうしてもって頼まれたら、あの張り紙の決まりも破っちゃうかも❤,However; I want to make you feel good; so if you really insist on it; I might break that rule for you❤
-この固ーくなっちゃったアソコ、\n優しくマッサージしてあげてぇ❤\nやわらかくなるまで気持ちよくしてあげちゃうの❤,I might touch this really hard spot here; and gently massage it until it goes soft❤
+ふつうのマッサージも上手でしょ？\nで、も❤キミ的には他のマッサージもしてほしいんじゃないかな❤,I'm good at this kind of normal massage too. However❤ That's not what you're here for, right?❤
+ほら、鼠径部をさわさわさわ♪\nくすくす❤腰をびくびく反応させちゃってるね❤,Let me massage here on the groin area♪ Ehehe❤ Your hips are starting to fidget❤
+ほんとはね、このお店ではエッチなことはしちゃいけないの。\nそこに貼り紙があるでしょ？\n「性的なことは禁止、破ったら罰金1000G」って,Sexual acts are actually prohibited in this shop. Can you see what that poster over there says? "Sexual acts banned! Breaking the rule induces 1000G fee."
+でもわたしとしては、\nキミにはちゃんと気持ちよくなってもらいたいし、\nどうしてもって頼まれたら、あの張り紙の決まりも破っちゃうかも❤,However; I want to make you feel good. So if you really insisted on it; I could break the rule for you❤
+この固ーくなっちゃったアソコ、\n優しくマッサージしてあげてぇ❤\nやわらかくなるまで気持ちよくしてあげちゃうの❤,I could massage this really stiff spot here and keep going until it goes soft❤
 ううっ、それは・・・❤,Uuuh... That's...❤
-くす❤悩まなくてもいいよ❤\n都会に出てきた記念だと思って、今日は気持ちよくなっちゃお？,Ehehe❤ You should worry about it so much❤ Why not just enjoy how good it feels and think of it as a memory that you made in the city?
-わたしにマッサージされて、\nカチカチのアソコがふにゃふにゃになるまで気持ちよくなって、\n絶対忘れられない思い出になるよ❤,If you ask me to massage your bulging groin until it goes soft; I'm sure it will feel so good that it will become an unforgettable memory for you❤
-ね、いいでしょ❤ほらぁ❤\nアソコのすぐそばのところを、ゆーっくり、さわ、さわ、さわ♪,So? Why don't you ask me for it? Let me give you a taste of it by massaging you right at the groin❤ There; there♪
+くす❤悩まなくてもいいよ❤\n都会に出てきた記念だと思って、今日は気持ちよくなっちゃお？,Ehehe❤ You shouldn't worry about it so much❤ You can think of it as a memory you made in the city; so why don't you just enjoy it?
+わたしにマッサージされて、\nカチカチのアソコがふにゃふにゃになるまで気持ちよくなって、\n絶対忘れられない思い出になるよ❤,If you request me to massage your bulging groin; I'm sure it will feel so good that you won't ever forget it❤
+ね、いいでしょ❤ほらぁ❤\nアソコのすぐそばのところを、ゆーっくり、さわ、さわ、さわ♪,So; all you need to do is ask❤ Let me give you a little taste how it feels if I massage the base of your bulge❤ Rub; rub♪
 あうっ、あううっ❤,Ah... Aaaah❤
-うう、おねがい・・・❤もう我慢できない・・・❤\n直接さわって・・・❤ああっ・・・❤,Uuuh... Please...❤ I can't take it anymore...❤ Touch it directly...❤ Aaaah...❤
-はーい❤ありがと～❤\nうれしいからハグしちゃう❤ぎゅー❤,Yes❤ Thank you for your request❤ I'm so happy that I want to hug you❤ Squeeze❤
-うふふ❤抱き着かれたらびっくりしちゃう？\nキミのおちんちん、わたしのふとももに挟まれちゃったね❤,Ehehe❤ Did my sudden hug make you jump? Your dick is tucked right between my thighs now❤
-手をつかってマッサージしてあげてもいいけど、\nこのままふとももに挟んで気持ちよくしてあげてもいいよ？\nどっちがいい？,I can give you a massage with my hands; but doing it with my thighs like this is also an option. Which one would you like?
+うう、おねがい・・・❤もう我慢できない・・・❤\n直接さわって・・・❤ああっ・・・❤,Uuuh... Please...❤ I can't take it anymore...❤ Touch me directly...❤ Aaaah...❤
+はーい❤ありがと～❤\nうれしいからハグしちゃう❤ぎゅー❤,Yes❤ Thank you for your request❤ You're making me so happy that I want to give you another hug❤ Squeeze❤
+うふふ❤抱き着かれたらびっくりしちゃう？\nキミのおちんちん、わたしのふとももに挟まれちゃったね❤,Ehehe❤ Did it surprise you to get suddenly hugged? Your penis also got nicely tucked between my thighs❤
+手をつかってマッサージしてあげてもいいけど、\nこのままふとももに挟んで気持ちよくしてあげてもいいよ？\nどっちがいい？,I could massage it with my hands; but doing it with my thighs like this is also an option. Which way would you like it?
 手で気持ちよくなりたい,Make me feel good with your hands
 ふとももで気持ちよくなりたい,Make me feel good with your thighs
-あは❤やっぱり手がいいの？\nさっきからずーっと触られてて、\n期待してたもんね❤,Ehehe❤ It's my hands; after all? The way I kept touching you with them must have got your expectaions up for it❤
-いいよ❤とってもうぶなキミのこと、\nたくさん気持ちよくしてあげる❤,I'll do it then❤ I'll make you; naive little boy; feel really good❤
-ほらふとももの付け根からゆっくり手を上げて・・・❤\n今度はちゃんと触ってもらえるね❤ぎゅ❤\nしこしこしこ❤; I'll grab your penis from the base here.... And move up my hand along it❤ You're finally getting me to touch it❤ There; there❤
+あは❤やっぱり手がいいの？\nさっきからずーっと触られてて、\n期待してたもんね❤,Ehehe❤ It's my hands; after all. The way I kept touching you must have got you looking forward to a hand massage❤
+いいよ❤とってもうぶなキミのこと、\nたくさん気持ちよくしてあげる❤,Then; let's get started❤ I'll make you; naive little boy; feel really good❤
+ほらふとももの付け根からゆっくり手を上げて・・・❤\n今度はちゃんと触ってもらえるね❤ぎゅ❤\nしこしこしこ❤,I'll grab your penis from the base.... And move up my hand along it❤ You're finally getting me to touch it❤ Stroke; stroke❤
 うあっ❤あひぃっ❤きもちいいっ❤,Aah❤ Aaaah❤ It feels so good❤
-くすくす❤軽く手を動かしただけなのに、\nそんな夢心地みたいな顔しちゃって、\n童貞丸出しでかわいい❤,Ehehe❤ I just moved my hand a little; and you're already making such a blissful face❤ You're such an obvious virgin that it's cute❤
-わたしのマッサージ上手でしょ？\n手を上下にしこしこするだけじゃなくて、\n玉も揉んであげるね❤,My massages are amazing; right? I won't only stroke your penis; I'll also fondle your balls too❤
-かわいい顔してるくせに、ずっしり貯まってて、\nここはしっかり男の子って感じだね❤\nもみもみ❤もみもみ❤揉まれたら腰が浮いてきちゃうでしょ？,Despite your cute face; I can feel your manliness with how heavily your saved up down here❤ There; there❤ All this fondling is making your hips lift up❤
+くすくす❤軽く手を動かしただけなのに、\nそんな夢心地みたいな顔しちゃって、\n童貞丸出しでかわいい❤,Ehehe❤ I just moved my hand a little; and you're already making such a blissful face❤ It's cute how obviously you're a virgin❤
+わたしのマッサージ上手でしょ？\n手を上下にしこしこするだけじゃなくて、\n玉も揉んであげるね❤,My massage feels really good; right? I won't only stroke your penis; I'll also fondle your balls too❤
+かわいい顔してるくせに、ずっしり貯まってて、\nここはしっかり男の子って感じだね❤\nもみもみ❤もみもみ❤揉まれたら腰が浮いてきちゃうでしょ？,Despite that cute face of yours; I can feel your manliness with how heavily you're backed up down here❤ Rub; rub❤ All this fondling is making your hips move up❤
 ああっ❤だめ、こんなの❤もうっ❤,Aaah❤ No; I can't...❤
-出しちゃっていいよ❤\n１回1000Gの射精、しちゃお？\nしこしこしこ❤もみもみもみ♪,You can go ahead and cum❤ Each shot simply exposes a 1000G fine on you❤ There; there❤ Rub; rub❤
-あっ、あうう、きもちいいっ・・・❤,Ah❤ Aaah❤ It felt so good...❤
-くす❤一回出したのにまだまだ固い❤\nこの調子でたくさん罰金払ってほしいなー❤\nほらほら、やわらかくなるまでやってあげるからね❤,Ehehe❤ You blew your load; but your penis is still hard❤ I'd like you to keep that up and pay me the fine many times❤ There; there❤ As I said; I'll keep going until you go soft❤
-（あうぅぅ・・・❤すごい・・・❤これが都会のお店・・・❤）,(Aaah...❤ It's amazing...❤ This is what they have to offer in the cities...❤)
-あは、たっぷり出してくれて、わたしうれしい❤\nそれじゃ怖いお兄さんが入ってくる前に罰金払っちゃおっか❤,Ehehe❤ I'm happy that you blew your load so many times❤ Then; I'm going to take how much you owe me in fines before the scary guy come❤
+出しちゃっていいよ❤\n１回1000Gの射精、しちゃお？\nしこしこしこ❤もみもみもみ♪,Please go ahead and cum❤ It's just 1000G fine that each shot imposes on you❤ Stroke; stroke❤ Rub; rub❤
+あっ、あうう、きもちいいっ・・・❤,Ah❤ Aaah❤ It feels so good...❤
+くす❤一回出したのにまだまだ固い❤\nこの調子でたくさん罰金払ってほしいなー❤\nほらほら、やわらかくなるまでやってあげるからね❤,Ehehe❤ You blew your load; but your penis is still going strong❤ Please keep that up; and take the fine many more times❤ Rub; Rub❤ As I said before; I'll keep going until your penis goes soft❤
+（あうぅぅ・・・❤すごい・・・❤これが都会のお店・・・❤）,(Aaah...❤ It feels amazing...❤ So this is what they have to offer at the shops of the cities...❤)
+あは、たっぷり出してくれて、わたしうれしい❤\nそれじゃ怖いお兄さんが入ってくる前に罰金払っちゃおっか❤,Ehehe❤ I'm happy that you blew your load so many times❤ Then; I'll pocket how much you owe me in the fines before the scary guy comes❤
 僕は有り金をすべてむしり取られてしまった,The girl took all the money you had on hand.
 あは❤このままふとももでいじめてほしいんだ❤,Ehehe❤ So you want me to keep going with my thighs❤
 まだ全然経験なさそうなのに、\nこんな恋人みたいなやり方で気持ちよくされちゃったら、\nきっとよくない性癖になっちゃうと思うなー❤,Since you don't have any experience in sex; doing it like this like lovers would might become quite a bad fetish for you❤
