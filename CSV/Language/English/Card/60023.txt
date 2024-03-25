@@ -1,4 +1,4 @@
 default
-チャームペンダント,淫咒項鍊
-自分フィールド上に「サキュバス」モンスターがいる場合、相手キャラクターに装備可能。\n[1].装備キャラクターはこのカードを装備している限り「魅了(永続)」状態になる。\n[2].自分ターン終了時に発動する。装備キャラクターの最大HPを200ポイントダウンする。\n[3].このカードを装備したキャラクターが、オナニーなどで自滅して墓地へ送られたときに発動する。このカードを自分の手札に戻し、さらにすべての自分キャラクターの攻撃力を500ポイントアップする。,自己場上有「魅魔」怪獸時，可以裝備給對方角色。\n[1].「魅惑」（永遠）。\n[2].自己的回合結束時發動。裝備怪獸的最大HP減少200點。\n[3].裝備角色因自慰或懇求等原因自爆送往墓地時發動。這張卡回到原持有者手牌，自己場上所有角色攻擊力提升500點。
-（イージー以下の場合、発動後３ターン目の自分ターン終了時に自壊する）,（簡單以下時，使用後算起第３次原持有者的回合結束時自爆）
+チャームペンダント,Charm Pendant
+自分フィールド上に「サキュバス」モンスターがいる場合、相手キャラクターに装備可能。\n[1].装備キャラクターはこのカードを装備している限り「魅了(永続)」状態になる。\n[2].自分ターン終了時に発動する。装備キャラクターの最大HPを200ポイントダウンする。\n[3].このカードを装備したキャラクターが、オナニーや懇願などで墓地へ送られたときに発動する。このカードはその後、元の持ち主の手札へ戻り、さらにすべての自分フィールド上のモンスター攻撃力を500ポイントアップする。,[1]. If a ""Succubus"" Type monster is on your field; you may equip this card to an opponent's character. \n[1]. While this card is equipped, the equipped character gains [Charmed (Permanent)]. \n[2]. Activate at the end of your turn; decrease the maximum HP of the equipped character by 200 points. \n[3]. When an equipped character is sent to the Graveyard by their own actions such as masturbation or pleading; return this card to its owner's hand and all monsters on your field gain 500 ATK.
+（イージー以下の場合、発動後３ターン目の自分ターン終了時に自壊する）,(If playing at Easy level or below, after activation; this card self-destructs at the end of the third turn following its owner's turn.)
