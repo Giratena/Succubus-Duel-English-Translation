@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Captain
-&効果テキスト,[1]. When this card is successfully Normal Summoned; you can discard one card from your hand to activate this effect: Add up to two [{%%40}] cards from your Graveyard to your hand.\n[2]. Once per turn; you can discard one card from your hand to activate this effect: Increase the attack power and maximum HP of all Water Attribute monsters on your field by 200 points.
+&効果テキスト,[1]. When this card is successfully Normal Summoned; you cyou mayard one card from your hand to activate this effect: Add up to two [{%%40}] cards from your Graveyard to your hand.\n[2]. Once per turn; you cyou mayard one card from your hand to activate this effect: Increase the attack power and maximum HP of all Water Attribute monsters on your field by 200 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,3 +1,3 @@
 default
 バンディットリーダー,Bandit Leader
-[1].このカードが通常召喚に成功した時発動する。自分の墓地から「[{%%27}」を可能な限り特殊召喚する。\n[2].自分フィールド上の「バンディット」モンスターの攻撃宣言時にLPを500払って発動する。そのモンスターの攻撃力を500ポイントアップする。,[1]. When this card is successfully Normal Summoned: Special Summon as many "[Bandit]" monsters as possible from your Graveyard.\n[2]. When a "Bandit" monster on your field declares an attack; you can pay 500 LP to activate this effect: Increase that monster's attack power by 500 points.
+[1].このカードが通常召喚に成功した時発動する。自分の墓地から「[{%%27}」を可能な限り特殊召喚する。\n[2].自分フィールド上の「バンディット」モンスターの攻撃宣言時にLPを500払って発動する。そのモンスターの攻撃力を500ポイントアップする。,[1]. When this card is successfully Normal Summoned: Special Summon as many "[Bandit]" monsters as possible from your Graveyard.\n[2]. When a "Bandit" monster on your field declares an attack; you may pay 500 LP to activate this effect: Increase that monster's attack power by 500 points.

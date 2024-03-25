@@ -1,4 +1,3 @@
 default
-よわよわ胞子,好弱好弱孢子
-[1].相手フィールド上の全てのモンスターの攻撃力を自分フィールド上の「キノコ」モンスターのレベルの合計×10ポイントダウンさせる。相手フィールド上にモンスターがいない場合、相手プレイヤーの攻撃力を同数ダウンさせる。,[1].對手場上所有怪獸的攻擊力減少自己場上的「蘑菇」怪獸的等級合計Ｘ10點。如果對手場上沒有怪獸，則會將減少攻擊力的對象改為對手玩家。
-（ハード以上の難易度の場合、レベル×50ポイントダウン）,（困難以上時，改為合計等級Ｘ50點）
+よわよわ胞子,Weakening Spores
+[1].相手フィールド上の全てのモンスターの攻撃力を自分フィールド上の「キノコ」モンスターのレベルの合計×10ポイントダウンさせる。相手フィールド上にモンスターがいない場合、相手プレイヤーの攻撃力を同数ダウンさせる。,[1]. Reduce the attack power of all monsters on your opponent's field by 10 x X (X = Total sum of the levels of all "Mushroom" monsters on your field).\nIf there are no monsters on your opponent's field; reduce the opposing player's attack power by an equivalent amount.

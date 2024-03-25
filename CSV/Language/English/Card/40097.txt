@@ -1,3 +1,3 @@
 default
-光の加護,光的祝福
-LPを1500払って発動可能。\n[1].このカードがフィールド上に存在する限り、自分フィールド上の光属性モンスターの最大HPは700ポイントアップする。,支付1500點LP發動。\n[1].當這張卡在場上時，自己場上光屬性怪獸的最大HP提升700點。
+光の加護,Light's Blessing
+LPを1500払って発動可能。\n[1].このカードがフィールド上に存在する限り、自分フィールド上の光属性モンスターの最大HPは700ポイントアップする。,Pay 1500 LP to activate.\n[1]. As long as this card is on the field; increase the maximum HP of all Light Attribute monsters on your field by 700 points.

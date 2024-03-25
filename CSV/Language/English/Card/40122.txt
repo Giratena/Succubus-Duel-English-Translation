@@ -1,3 +1,3 @@
 default
-ハードスケイル,堅硬鱗甲
-LPを500払い、フィールド上に存在する爬虫類タイプのモンスター１体を選択して発動する。そのモンスターに「受ける戦闘ダメージまたは効果ダメージを2回半分にする」を付与する。,[1].支付500點LP，選擇場上１體爬蟲類型怪獸發動。賦予該怪獸「接下來2次受到的戰鬥・效果傷害半減」。
+ハードスケイル,Hard Scales
+LPを500払い、フィールド上に存在する爬虫類タイプのモンスター１体を選択して発動する。そのモンスターに「受ける戦闘ダメージまたは効果ダメージを2回半分にする」を付与する。, Pay 500 LP and select 1 Reptile Type monster on the field: Grant that monster [Halve the battle or effect damage received for the next 2 turns].

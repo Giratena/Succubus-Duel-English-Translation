@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Forest Solider Helmet
-&効果テキスト,Equip able to Earth attribute monsters.\n[1]. When the equipped monster destroys an opponent's monster in battle; the equipped monster is granted [Growth (300)].
+&効果テキスト,Equippable to Earth attribute monsters.\n[1]. When the equipped monster destroys an opponent's monster in battle; the equipped monster is granted [Growth (300)].
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

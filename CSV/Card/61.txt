@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Hayate
-&効果テキスト,[1]. When this card is Summoned; you can discard one Magic Card from your hand to activate this effect: Special Summon one random Level 4 or lower Hunter Type monster (excluding "Hayate") from the Deck.\n[2]. When a Wind Attribute card's effect is activated (excluding this card's effect); increase the attack power of one random Hunter Type monster on your field by 100 points.
+&効果テキスト,[1]. When this card is Summoned; you cyou mayard one Magic Card from your hand to activate this effect: Special Summon one random Level 4 or lower Hunter Type monster (excluding "Hayate") from the Deck.\n[2]. When a Wind Attribute card's effect is activated (excluding this card's effect); increase the attack power of one random Hunter Type monster on your field by 100 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

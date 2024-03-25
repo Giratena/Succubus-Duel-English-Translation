@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Attributeal Harmony
-&効果テキスト,[1]. Activate when there is at least 1 of each Fire, Water, Earth, and Wind Attribute cards in your Graveyard. Increase the HP and attack power of a character by 1000 points.
+&効果テキスト,[1]. Activate when there is at least 1 of each Fire; Water; Earth; and Wind Attribute cards in your Graveyard. Increase the HP and attack power of a character by 1000 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

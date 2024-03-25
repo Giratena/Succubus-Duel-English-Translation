@@ -1,3 +1,3 @@
 default
-箱罠の装填,箱罠の装填
-自分の墓地からトラップカードを1枚取り除いて発動できる。デッキから「ミミック」モンスターカードをランダムに２枚まで手札に加える。,自分の墓地からトラップカードを1枚取り除いて発動できる。デッキから「ミミック」モンスターカードをランダムに２枚まで手札に加える。
+箱罠の装填,Loaded Box Trap
+自分の墓地からトラップカードを1枚取り除いて発動できる。デッキから「ミミック」モンスターカードをランダムに２枚まで手札に加える。,Banish 1 Trap card from your Graveyard to activate. Add up to 2 random [Mimic] monster cards from your Deck to your hand.
