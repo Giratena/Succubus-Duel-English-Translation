@@ -1,3 +1,3 @@
 default
-保護色,
-このカード名のカードは１ターンに１枚しか発動できない。\n[1].自分フィールド上のモンスター１体を選択して発動する。そのモンスターに「保護色」（自身と同じ属性のモンスターが自分フィールド上に存在する場合、このカードを攻撃対象に選択できない、,
+保護色,Camouflage
+このカード名のカードは１ターンに１枚しか発動できない。\n[1].自分フィールド上のモンスター１体を選択して発動する。そのモンスターに「保護色」（自身と同じ属性のモンスターが自分フィールド上に存在する場合、このカードを攻撃対象に選択できない、,You may only activate 1 card with this name per turn.\n[1]. Select 1 monster on your field; grant it [Camouflage] ([Camouflage]: This Monster cannot be attacked if there is another monster on your field that shares the same Attribute as it).
