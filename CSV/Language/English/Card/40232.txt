@@ -1,3 +1,3 @@
 default
-岩石博物館,岩石博物館
-このカード名の[2]の効果は１ターンに１度しか発動できない。\n[1].自分ターン終了時に発動する。自分の手札およびフィールドに存在しない種類の地属性カードを、デッキからランダムに１枚手札に加える。その後、チャージを+1する。\n[2].このカードが破壊されたとき発動する。このカードのチャージと同じ数だけ、自分のデッキから地属性カードをランダムに手札に加える(最大5枚)。,這張卡名的[2]效果１回合只能發動１次。\n[1].自己的回合結束時發動。隨機從牌組將１張自己的手牌以及場上存在的卡片名稱以外的地屬性卡片加入手牌。然後這張卡充能+1。\n[2].當這張卡被破壞時發動。隨機從自己牌組將與此卡的充能數相同張數的地屬性卡片加入手牌。（最多５張）
+岩石博物館,Rock Museum
+このカード名の[2]の効果は１ターンに１度しか発動できない。\n[1].自分ターン終了時に発動する。自分の手札およびフィールドに存在しない種類の地属性カードを、デッキからランダムに１枚手札に加える。その後、チャージを+1する。\n[2].このカードが破壊されたとき発動する。このカードのチャージと同じ数だけ、自分のデッキから地属性カードをランダムに手札に加える(最大5枚)。,[1]. Activate at the end of your turn; add 1 random Earth Attribute card from your Deck to your hand that is not already in your hand or on the field. Then; increase this card's charge by +1.\n[2]. When this card is destroyed; add random Earth Attribute cards = this card's charge (max of 5) from your Deck to your hand.
