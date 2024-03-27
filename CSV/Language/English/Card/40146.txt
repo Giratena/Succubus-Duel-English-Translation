@@ -1,3 +1,3 @@
 default
-霊獣憑依,霊獣憑依
-手札を３枚捨てて発動する。自分プレイヤーに「霊獣憑依(攻撃力1000ポイントアップ。この状態である限り、相手から状態異常を付与されず受ける戦闘ダメージが半分になる。この状態が解除されたとき、「魔法カード使用不能」「攻撃不能」(4ターン)を得る)」」（6ターン）を付与する。,手札を３枚捨てて発動する。自分プレイヤーに「霊獣憑依(攻撃力1000ポイントアップ。この状態である限り、相手から状態異常を付与されず受ける戦闘ダメージが半分になる。この状態が解除されたとき、「魔法カード使用不能」「攻撃不能」(4ターン)を得る)」」（6ターン）を付与する。
+霊獣憑依,Spirit Beast Possession
+手札を３枚捨てて発動する。自分プレイヤーに「霊獣憑依(攻撃力1000ポイントアップ。この状態である限り、相手から状態異常を付与されず受ける戦闘ダメージが半分になる。この状態が解除されたとき、「魔法カード使用不能」「攻撃不能」(4ターン)を得る)」」（6ターン）を付与する。,Discard 3 cards from your hand to activate this card. Grant yourself "Spirit Beast Possession" for 6 turns, which increases attack power by 1000 points; while in this state, you are not affected by opponent's status abnormalities and all battle damage received is halved. When this state ends, gain the statuses "Cannot Use Spell Cards" and "Cannot Attack" for 4 turns.

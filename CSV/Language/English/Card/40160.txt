@@ -1,3 +1,3 @@
 default
-灰色の神殿,灰界的神殿
-[1].自分の墓地に光属性と闇属性のカードが同数（少なくとも1枚ずつ）存在する場合、１ターンに１度発動できる。相手フィールド上のすべてのモンスターの最大HPを800ポイントダウンさせる。,[1].１回合１次，當自己墓地中光屬性與闇屬性卡片的張數同數時發動。（兩方最少都要１張）對手場上所有怪獸的最大HP減少800點。
+灰色の神殿,Ashen Temple
+[1].自分の墓地に光属性と闇属性のカードが同数（少なくとも1枚ずつ）存在する場合、１ターンに１度発動できる。相手フィールド上のすべてのモンスターの最大HPを800ポイントダウンさせる。,[1]. If there are an equal number of Light and Dark Attribute cards in your Graveyard (at least 1 each); you may reduce the maximum HP of all monsters on your opponent's field by 800 points on your turn.

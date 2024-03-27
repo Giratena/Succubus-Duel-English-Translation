@@ -1,4 +1,4 @@
 default
-肉食,肉食性
-LPを500払って発動可能。\n[1].自分の獣タイプキャラクターが相手モンスターを破壊したときに発動する。そのキャラクターのHPを600ポイント回復し、攻撃力を500ポイントアップする。,支付500點LP發動。\n[1].當自己的獸族ㄌ類型角色破壞對手怪獸時發動。該角色HP回復600點，攻擊力提升500點。
-[2].このカードが破壊されたときに発動する。１の効果を発動した回数だけ、カードを１枚ドローする（最大３枚）。,\n[2].困難以上時，當這張卡被破壞時發動。抽取與[1]的效果發動次數相等的卡片。（最多3張）
+肉食,Carnivorous
+LPを500払って発動可能。\n[1].自分の獣タイプキャラクターが相手モンスターを破壊したときに発動する。そのキャラクターのHPを600ポイント回復し、攻撃力を500ポイントアップする。,Pay 500 LP to activate this card.\n[1]. When a Beast Type character you control destroys an opponent's monster; that character gains 600 HP and increases its attack power by 500 points.
+[2].このカードが破壊されたときに発動する。１の効果を発動した回数だけ、カードを１枚ドローする（最大３枚）。,\n[2]. When this card is destroyed; draw 1 card for each time effect [1] was activated (up to a maximum of 3 cards).

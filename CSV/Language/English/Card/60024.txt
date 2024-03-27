@@ -1,3 +1,3 @@
 default
-血吸いの斧,吸血魔斧
-手札からモンスターカードを２枚捨て、フィールド上のキャラクターに装備可能。\n[1].装備キャラクターの攻撃力を、発動時に捨てたモンスターのレベルの合計×100ポイントアップする。\n[2].キャラクターに装備されたこのカードが破壊され墓地へ送られたとき、墓地のモンスターカードをランダムに3枚取り除いて発動する。このカードを自分の墓地から手札に加える。,捨棄手牌２張卡片，裝備給場上的角色。\n[1].裝備角色的攻擊力提升裝備時捨棄的怪獸卡等級合計Ｘ100點。\n[2].裝備給角色的這張卡被破壞送往墓地時，隨機移除墓地３張怪獸卡發動。這張卡從自己墓地加入手牌。
+血吸いの斧,Vampiric Axe
+手札からモンスターカードを２枚捨て、フィールド上のキャラクターに装備可能。\n[1].装備キャラクターの攻撃力を、発動時に捨てたモンスターのレベルの合計×100ポイントアップする。\n[2].このカードが破壊され墓地へ送られたとき、ランダムに墓地からモンスターカード3枚を除外して発動する。その後、このカードを自分の墓地から手札へ加える。,Discard 2 monster cards from your hand; you may equip this card to a character on the field. \n[1]. Increase the equipped character's attack power by the total Levels of the discarded monsters x 100. \n[2]. When this equipped card is destroyed and sent to the Graveyard; banish 3 random monster cards from your Graveyard to activate. Then add this card from your Graveyard to your hand.

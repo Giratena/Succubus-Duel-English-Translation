@@ -1,3 +1,3 @@
 default
-隔壁展開,隔離結界
-[1].自分フィールド上に「{%%10069}」が存在する場合にのみ発動できる。自分フィールド上のすべてのモンスターを「守備状態」にし、最大HPを1000ポイントアップする。さらに「次受ける戦闘ダメージ・効果ダメージを０にする」を付与する。,[1].自己場上有「{%%10069}」存在時可以發動。自己場上所有怪獸進行守備狀態，最大HP提升1000點，賦予「下一次受到的戰鬥・效果傷害改為０」。
+隔壁展開,Isolation Barrier
+[1].自分フィールド上に「{%%10069}」が存在する場合にのみ発動できる。自分フィールド上のすべてのモンスターを「守備状態」にし、最大HPを1000ポイントアップする。さらに「次受ける戦闘ダメージ・効果ダメージを０にする」を付与する。,[1]. You may only activate this card if you control [{%%10069}]. Change all monsters you control to Defense Position and increase their maximum HP by 1000 points. Additionally; grant [Next received battle or effect damage becomes 0].

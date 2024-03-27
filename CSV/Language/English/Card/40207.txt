@@ -1,3 +1,3 @@
 default
-妖しい舌づかい,妖豔舌技
-[1].「口に弱い」状態の相手キャラクター1体と自分フィールド上の女性モンスター１体を選択して発動できる。その相手モンスターに、選択した自分モンスターの攻撃力の倍のダメージを与え、さらに「脱力」を付与する。,[1].選擇有「口交弱點」狀態的對手角色和自己場上的女性怪獸發動。給予該對手角色自己的女性怪獸攻擊力數值２倍的傷害，賦予「虛脫」。
+妖しい舌づかい,Seductive Tongue Technique
+[1].「口に弱い」状態の相手キャラクター1体と自分フィールド上の女性モンスター１体を選択して発動できる。その相手モンスターに、選択した自分モンスターの攻撃力の倍のダメージを与え、さらに「脱力」を付与する。,[1]. If an opponent's character is [Weak to Mouth (X)]; select a female monster on your field and inflict damage equal to twice the ATK of that female monster on a selected opponent's character. Then; inflict [Lethargy] on that character.

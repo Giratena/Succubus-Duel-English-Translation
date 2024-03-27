@@ -1,3 +1,3 @@
 default
-圧縮風爆,壓縮的風暴
-手札から風属性魔法カードを１枚捨てて発動可能\n[1].風属性カードの効果が発動したとき発動する。この連鎖発動で発動した風属性カードの数だけチャージを+1する。\n[2].このカードにチャージが貯まっており相手フィールド上にモンスターが存在する場合、ターン終了時に発動する。相手フィールド上のランダムなモンスター１体にチャージ×100ポイントのダメージを与える。その後チャージをすべて取り除く。,捨棄手牌中１張魔法卡發動。\n[1].風屬性卡片發動時發動。此卡充能+在此連鎖發動中的風屬性卡片張數。\n[2].這張卡有充能且對手場上有怪獸存在的狀況下於回合結束時發動。隨機給予對手場上１體怪獸充能Ｘ100點傷害，然後移除這張卡所有充能。
+圧縮風爆,Compressed Wind Blast
+手札から風属性魔法カードを１枚捨てて発動可能\n[1].風属性カードの効果が発動したとき発動する。この連鎖発動で発動した風属性カードの数だけチャージを+1する。\n[2].このカードにチャージが貯まっており相手フィールド上にモンスターが存在する場合、ターン終了時に発動する。相手フィールド上のランダムなモンスター１体にチャージ×100ポイントのダメージを与える。その後チャージをすべて取り除く。,[1]. When a Wind Attribute card effect is activated; this card gains +1 charge for each Wind Attribute card activated in that chain.\n[2]. If this card has charges and there are monsters on your opponent's field; activate at the end of the turn: Inflict 100 x X damage to a random monster on your opponent's field (X = The number of charges on this card). Then; remove all charges from this card.

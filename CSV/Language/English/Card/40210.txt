@@ -1,3 +1,3 @@
 default
-シールドスロー,盾牌投擲
-[1].自分フィールド上のトラップカード１枚をコストにし、相手フィールド上のモンスター１体を選択して発動する。そのモンスターに1000ポイントのダメージを与え、「反撃不能(1ターン)」を付与する。,[1].以自己場上的１張陷阱卡為代價，選擇對手場上的1體怪獸發動。給予該怪獸1000點傷害，賦予該怪獸「無法反擊」（1回合）。
+シールドスロー,Shield Throw
+[1].自分フィールド上のトラップカード１枚をコストにし、相手フィールド上のモンスター１体を選択して発動する。そのモンスターに1000ポイントのダメージを与え、「反撃不能(1ターン)」を付与する。,[1]. Select 1 monster on your opponent's field and banish 1 Trap Card from your field as cost; inflict 1000 points of damage to it and grant [Cannot Retaliate (1 turn)].
