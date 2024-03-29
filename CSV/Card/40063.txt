@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,Digging Drill
-&効果テキスト,[1]. Select 1 Earth attribute Magic Trap card on the field (face up only if it is your opponent's card). Destroy that card; and add 2 random "Gem" cards from the deck to your hand.
+&カード名,掘削ドリル
+&効果テキスト,[1].このカード以外の地属性の魔法トラップカード1枚を選択して発動する（相手のカードの場合表側のみ）。そのカードを破壊し、デッキから「ジェム」カードをランダムに2枚手札に加える。
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

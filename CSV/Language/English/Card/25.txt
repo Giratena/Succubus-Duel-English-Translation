@@ -1,3 +1,3 @@
 default
 霊鳥使いキュベル,Spirit Bird Tamer Cubel
-[1].自分が風属性のモンスターを場に出したとき、または風属性の魔法・トラップカードの効果を発動したときに発動する。ランダムな相手モンスターに300ポイントダメージを与える。,[1]. Upon a Wind Attribute Monster entering the field or a Spell Card/Trap Card being activated; Deal 300 damage to a random enemy monster.
+[1].自分が風属性のモンスターを場に出したとき、または風属性の魔法・トラップカードの効果を発動したときに発動する。ランダムな相手モンスターに300ポイントダメージを与える。,[1]. When a Wind Attribute Monster enters your side of the field or you activate a Wind Spell Card/Trap Card; Deal 300 damage to a random enemy monster.

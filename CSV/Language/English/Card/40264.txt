@@ -1,4 +1,4 @@
 default
-桃色ガス,桃色ガス
-[1].カードを１枚ドローする。このターン中に発動した「{%%40264}」の枚数によって以下の効果を適用する。\n1枚:自分プレイヤーは300ポイントのダメージを受ける。\n3枚:自分プレイヤーに「魅了」と「メロメロ」を付与する\n5枚:さらに「攻撃宣言不能」を付与する\n8枚:自分プレイヤーはライフをすべて失う。,[1].カードを１枚ドローする。このターン中に発動した「{%%40264}」の枚数によって以下の効果を適用する。\n1枚:自分プレイヤーは300ポイントのダメージを受ける。\n3枚:自分プレイヤーに「魅了」と「メロメロ」を付与する\n5枚:さらに「攻撃宣言不能」を付与する\n8枚:自分プレイヤーはライフをすべて失う。
-（難易度ハード以上の場合、300ではなく500ポイントダメージを受ける）,（難易度ハード以上の場合、300ではなく500ポイントダメージを受ける）
+桃色ガス,Pink Gas
+[1].カードを１枚ドローする。このターン中に発動した「{%%40264}」の枚数によって以下の効果を適用する。\n1枚:自分プレイヤーは300ポイントのダメージを受ける。\n3枚:自分プレイヤーに「魅了」と「メロメロ」を付与する\n5枚:さらに「攻撃宣言不能」を付与する\n8枚:自分プレイヤーはライフをすべて失う。,[1]. Draw 1 card and apply the following effects based on the number of 「{%%40264}」 activated this turn:\n- 1 card or more: The opposing player takes 300 points of damage.\n- 3 cards or more: Inflict [Charm] and [Lovey Dovey] to the opposing player.\n- 5 cards or more: Grant [Cannot Declare Attack].\n- 8 cards or more: The opposing player loses the duel.
+（難易度ハード以上の場合、300ではなく500ポイントダメージを受ける）,If the difficulty is Hard or above; take 500 points of damage instead of 300.

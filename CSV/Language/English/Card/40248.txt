@@ -1,3 +1,3 @@
 default
-種まき,播種
-[1].このカードを発動した次の自分ターン終了時に発動する。デッキから地属性カードを２枚手札に加え、自分プレイヤーのHPを1000ポイント回復する。その後このカードは自壊する。,[1].這張卡使用後算起下次自己的回合結束時發動。從牌組隨機將２張地屬性卡片加入手牌，我方玩家的LP回復1000點。然後這張卡自爆。
+種まき,Sow and Reap
+[1].このカードを発動した次の自分ターン終了時に発動する。デッキから地属性カードを２枚手札に加え、自分プレイヤーのHPを1000ポイント回復する。その後このカードは自壊する。,[1]. At the end of your next turn after this card is activated; add 2 Earth Attribute cards from your Deck to your hand and recover 1000 LP. Then; banish this card.

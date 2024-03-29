@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,Fire Shooter
-&効果テキスト,[1]. Select one monster on the opponent's field and discard one Fire Attribute monster card from your hand: Inflict damage to your opponent equal to half of the discarded monster's attack power.\n[2]. When this card is destroyed by effect damage from a Fire Attribute card and sent to the Graveyard: Draw one card from your Deck.
+&カード名,ファイヤーシューター
+&効果テキスト,[1].相手フィールド上のモンスター１体を選択し、手札の炎属性モンスターカード１枚を捨てて発動できる。相手に捨てたモンスターの攻撃力の半分のダメージを与える。\n[2].このカードが炎属性カードの効果ダメージで破壊され墓地へ送られたとき発動する。デッキからカードを１枚ドローする。
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
