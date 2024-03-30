@@ -1,3 +1,3 @@
 default
-くすぶる闇,闇影踴動
-自分の闇属性モンスターが破壊され墓地へ送られた時、1000LP払って発動可能。\n[1].発動から3回目の自分ターン開始時に発動する。そのモンスターを墓地から特殊召喚する。その後、このカードは自壊する。,[1].當自己的闇屬性怪獸被破壞送往墓地時，可以支付1000點LP發動。\n[1].使用後算起第３次自己回合開始時發動。將該怪獸從墓地特殊召喚到自己場上。然後這張卡自爆。
+くすぶる闇,Smoldering Darkness
+自分の闇属性モンスターが破壊され墓地へ送られた時、1000LP払って発動可能。\n[1].発動から3回目の自分ターン開始時に発動する。そのモンスターを墓地から特殊召喚する。その後、このカードは自壊する。,[1]. When a Dark Attribute monster of yours is destroyed and sent to the Graveyard; you may pay 1000 LP. At the start of your 3rd turn after activation; Special Summon that monster from your Graveyard. Then; banish this card.

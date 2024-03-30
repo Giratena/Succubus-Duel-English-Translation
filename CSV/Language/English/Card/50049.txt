@@ -1,3 +1,3 @@
 default
-不意の一口,不意の一口
-[1].自分の「ミミック」モンスターに対して相手が攻撃宣言を行ったときに手札からトラップカードを１枚捨てて発動できる。その攻撃宣言を行ったキャラクターに「攻撃不能」(1ターン)と「敏感」(受ける快楽ダメージが倍になる,3ターン)を付与する。,[1].自分の「ミミック」モンスターに対して相手が攻撃宣言を行ったときに手札からトラップカードを１枚捨てて発動できる。その攻撃宣言を行ったキャラクターに「攻撃不能」(1ターン)と「敏感」(受ける快楽ダメージが倍になる,3ターン)を付与する。
+不意の一口,Sudden Mouthful
+[1].自分の「ミミック」モンスターに対して相手が攻撃宣言を行ったときに手札からトラップカードを１枚捨てて発動できる。その攻撃宣言を行ったキャラクターに「攻撃不能」(1ターン)と「敏感」(受ける快楽ダメージが倍になる,3ターン)を付与する。,[1]. When an opponent declares an attack on your "Mimic" monster; you may discard 1 Trap Card from your hand to grant [Cannot Attack (1 turn)] and [Sensitive (3 turns)] to the attacking character. ([Sensitive] = Receives 2x pleasure damage)

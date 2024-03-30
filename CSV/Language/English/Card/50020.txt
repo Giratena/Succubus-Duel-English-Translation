@@ -1,3 +1,3 @@
 default
-ブリザードブレス,暴風雪吐息
-[1].相手がモンスターを通常召喚・特殊召喚したとき発動できる。相手フィールド上のすべてのモンスターに500ポイントダメージを与え、「凍結」（２ターンの間、攻撃宣言ができない）を付与する。,[1].當對手怪獸進行通常召喚或特殊召喚時可以發動。給予對手場上所有怪獸500點傷害，賦予「凍結」。
+ブリザードブレス,Blizzard Breath
+[1].相手がモンスターを通常召喚・特殊召喚したとき発動できる。相手フィールド上のすべてのモンスターに500ポイントダメージを与え、「凍結」（２ターンの間、攻撃宣言ができない）を付与する。,[1]. If your opponent Normal Summons or Special Summons a monster; inflict 500 damage to all monsters on your opponent's field and grant them [Freeze (2 turns)]. ([Freeze] = Cannot attack.)

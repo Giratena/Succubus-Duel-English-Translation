@@ -1,3 +1,3 @@
 default
-怨嗟,怨恨嘆息
-[1].自分モンスターが相手モンスターから戦闘ダメージを受けたとき手札の闇属性カードを１枚捨てて発動できる。その受けた戦闘ダメージと同じダメージを、戦闘相手のモンスターに与える。,[1].當自己的怪獸受到對手怪獸的戰鬥傷害時，可以捨棄手牌１張闇屬性卡片發動。使對方交戰怪獸受到等量的傷害。
+怨嗟,Resentment Sigh
+[1].自分モンスターが相手モンスターから戦闘ダメージを受けたとき手札の闇属性カードを１枚捨てて発動できる。その受けた戦闘ダメージと同じダメージを、戦闘相手のモンスターに与える。,[1]. When your monster receives battle damage from an opponent's monster; you may discard 1 Dark Attribute card to inflict the same amount of damage to the battling opponent's monster.

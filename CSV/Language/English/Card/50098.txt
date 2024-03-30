@@ -1,3 +1,3 @@
 default
-スタンスタンプ,烙印重擊
-[1].モンスターの召喚・特殊召喚時に相手モンスターが効果を発動したとき、手札から光属性カードを１枚捨てて発動できる。その効果を無効にし、そのモンスターに800ポイントのダメージを与える。\nこのとき自分フィールド上に光属性レベル７以上のモンスターがいるなら、さらに相手フィールド上のすべてのモンスターに800ポイントのダメージを与える。,[1].當對手對應怪獸的通常召喚・特殊召喚發動怪獸效果時，可以捨棄手牌中１張光屬性卡片發動。將該效果無效，給予該怪獸800點傷害。\n此時如果自己場上有等級７以上的光屬性怪獸存在時，再給予對手場上所有怪獸800點傷害。
+スタンスタンプ,Stun Stomp
+[1].モンスターの召喚・特殊召喚時に相手モンスターが効果を発動したとき、手札から光属性カードを１枚捨てて発動できる。その効果を無効にし、そのモンスターに800ポイントのダメージを与える。\nこのとき自分フィールド上に光属性レベル７以上のモンスターがいるなら、さらに相手フィールド上のすべてのモンスターに800ポイントのダメージを与える。,[1]. When an opponent activates a monster's effect in response to its Summon or Special Summon; you may discard 1 Light Attribute card from your hand. Negate that effect and inflict 800 damage to that monster. Also; if you control a Level 7 or higher Light Attribute monster; inflict 800 damage to all monsters on your opponent's field.

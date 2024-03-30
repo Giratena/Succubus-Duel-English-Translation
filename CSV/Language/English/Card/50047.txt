@@ -1,5 +1,5 @@
 default
-巨乳ミミック,巨乳ミミック
-[1].フィールド上のトラップカード2枚を墓地へ送って、相手ターン開始時に発動できる。このカードをモンスター扱いで（攻撃力1400,[1].フィールド上のトラップカード2枚を墓地へ送って、相手ターン開始時に発動できる。このカードをモンスター扱いで（攻撃力1400
-[2].相手モンスターを破壊したときに発動する。自身の攻撃力と最大HPを自分の墓地のトラップカード×30ポイントアップする。,[2].相手モンスターを破壊したときに発動する。自身の攻撃力と最大HPを自分の墓地のトラップカード×30ポイントアップする。
-戦闘時に相手に「おっぱいに弱い」を付与する。,戦闘時に相手に「おっぱいに弱い」を付与する。
+巨乳ミミック,Big Boobs Mimic
+[1].フィールド上のトラップカード2枚を墓地へ送って、相手ターン開始時に発動できる。このカードをモンスター扱いで（攻撃力1400,[1].At the start of your opponent's turn send 2 Trap Cards from the field to the Graveyard to activate this card: Special Summon this card as a monster (ATK 1400; HP 2700) to your Monster Zone. Then; perform a Binding Attack on an opposing player. If this Binding Attack inflicts 1000 or more damage; the opposing player skips their turn.
+[2].相手モンスターを破壊したときに発動する。自身の攻撃力と最大HPを自分の墓地のトラップカード×30ポイントアップする。,[2]. When you destroy an opponent's monster; increase this card's ATK and maximum HP by 30 x X (X = the number of Trap Cards in your Graveyard).
+戦闘時に相手に「おっぱいに弱い」を付与する。,Inflicts [Breast Fetish] on foes during combat.

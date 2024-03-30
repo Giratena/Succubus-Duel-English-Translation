@@ -1,3 +1,3 @@
 default
-リザレクション,復活術
-[1].自分フィールド上のモンスターが戦闘で破壊されたとき、手札から光属性カードを２枚捨てて発動できる。自分の墓地のモンスターを１体選択し、そのモンスターを特殊召喚する。,[1].當自己場上的怪獸被戰鬥破壞時，可以捨棄手牌中２張光屬性卡片發動。選擇自己墓地１體怪獸，將其特殊召喚到自己場上。
+リザレクション,Resurrection
+[1].自分フィールド上のモンスターが戦闘で破壊されたとき、手札から光属性カードを２枚捨てて発動できる。自分の墓地のモンスターを１体選択し、そのモンスターを特殊召喚する。,[1]. When a monster on your field is destroyed by battle; you may discard 2 Light Attribute cards from your hand. Select 1 monster in your Graveyard and Special Summon it.

@@ -1,4 +1,4 @@
 default
-くちづけ,くちづけ
-相手が魔法カードを発動したときに発動できる。相手プレイヤーに快楽ダメージをあたえ、魔法の発動を妨害する。,相手が魔法カードを発動したときに発動できる。相手プレイヤーに快楽ダメージをあたえ、魔法の発動を妨害する。
-甘い口づけは沈黙の対価。,甘い口づけは沈黙の対価。
+くちづけ,Sweet Kiss
+相手が魔法カードを発動したときに発動できる。相手プレイヤーに快楽ダメージをあたえ、魔法の発動を妨害する。,Can be activated when an opponent activates a magic card. The opposing player receives pleasure damage, and the magic card is nullified.
+甘い口づけは沈黙の対価。,A sweet kiss is also a fine method of silencing.

@@ -1,3 +1,3 @@
 default
-マジックバッテリー,魔法電池
-[1].魔法カードが発動した時に発動する。チャージを＋1する。\n[2].１ターンに１度、チャージが5つ以上たまっている場合に発動できる。チャージを5つ消費し、デッキから魔法カードをランダムに1枚手札に加える。\n[3].このカードが破壊され墓地へ送られたときに発動する。自分はこのカードのチャージ×1000ポイントのダメージを受ける。ただしこの効果でLPが0になることはなく、最低でも100残る。,[1].當魔法卡發動時可以發動。充能+1。\n[2].１回合１次，這張卡充能在５以上時可以發動。消費５充能，從牌組隨機將１張魔法卡加入手牌。\n[3].這張卡被破壞送往墓地時發動。我方玩家受到這張卡的充能Ｘ1000點傷害。我方玩家的LP不會因為這效果變為0最低會留下100。
+マジックバッテリー,Magic Battery
+[1].魔法カードが発動した時に発動する。チャージを＋1する。\n[2].１ターンに１度、チャージが5つ以上たまっている場合に発動できる。チャージを5つ消費し、デッキから魔法カードをランダムに1枚手札に加える。\n[3].このカードが破壊され墓地へ送られたときに発動する。自分はこのカードのチャージ×1000ポイントのダメージを受ける。ただしこの効果でLPが0になることはなく、最低でも100残る。,[1]. When a Spell Card is activated; increase this card's charges by +1.\n[2]. Once per turn; if this card has 5 or more charges; you may spend 5 charges to add 1 random Spell Card from your Deck to your hand.\n[3]. When this card is destroyed and sent to the Graveyard; take damage equal to the number of this card's charges × 1000. (Your LP may not drop below 100 due to this effect.)

@@ -1,3 +1,3 @@
 default
-バックスタブ,背刺
-クールタイム4\n[1].自分フィールド上に「暗殺者」モンスターが存在する場合、相手モンスターの攻撃宣言時に発動できる。自分フィールド上の「暗殺者」モンスターの攻撃力を合計したダメージを相手モンスターに与える。この効果で相手を破壊した場合、デッキからトラップカードをランダムに１枚手札に加える。,冷卻４\n[1].自己場上有「暗殺者」怪獸存在，當對手怪獸進行攻擊宣言時可以發動。給予攻擊宣言的對方怪獸自己場上的「暗殺者」怪獸的攻擊力總和的傷害。因此效果破壞對方怪獸時，從牌組隨機將１張陷阱卡加入手牌。
+バックスタブ,Backstab
+クールタイム4\n[1].自分フィールド上に「暗殺者」モンスターが存在する場合、相手モンスターの攻撃宣言時に発動できる。自分フィールド上の「暗殺者」モンスターの攻撃力を合計したダメージを相手モンスターに与える。この効果で相手を破壊した場合、デッキからトラップカードをランダムに１枚手札に加える。,Cooldown 4\n[1]. If you control an "Assassin"  monster; when an opponent's monster declares an attack; inflict damage to that monster equal to the total ATK of the "Assassin" monsters you control. If a monster is destroyed by this effect; add 1 random Trap Card from your Deck to your hand.

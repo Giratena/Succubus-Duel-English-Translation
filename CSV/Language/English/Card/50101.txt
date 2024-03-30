@@ -1,4 +1,4 @@
 default
-裏切りフェロモン,裏切りフェロモン
-[1].自分フィールド上に「桃色ウィスプ」が存在する場合、相手モンスターが召喚に成功したとき発動できる。そのモンスターのコントロールを２ターンの間得る。,[1].自分フィールド上に「桃色ウィスプ」が存在する場合、相手モンスターが召喚に成功したとき発動できる。そのモンスターのコントロールを２ターンの間得る。
-[2].このカードが自分の墓地に存在し、自分フィールド上に「桃色ウィスプ」が特殊召喚されたとき発動できる。このカードを自分の墓地から手札に加える。,[2].このカードが自分の墓地に存在し、自分フィールド上に「桃色ウィスプ」が特殊召喚されたとき発動できる。このカードを自分の墓地から手札に加える。
+裏切りフェロモン,Brainwashing Pheromones
+[1].自分フィールド上に「桃色ウィスプ」が存在する場合、相手モンスターが召喚に成功したとき発動できる。そのモンスターのコントロールを２ターンの間得る。,[1]. If "Peach-Colored Wisp" is on your field; when an opponent's monster is successfully summoned; take control of that monster for 2 turns.
+[2].このカードが自分の墓地に存在し、自分フィールド上に「桃色ウィスプ」が特殊召喚されたとき発動できる。このカードを自分の墓地から手札に加える。,[2]. When "Peach-Colored Wisp" is Special Summoned to your field while this card is in your Graveyard; add this card from your Graveyard to your hand.
