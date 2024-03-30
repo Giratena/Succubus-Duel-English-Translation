@@ -1,3 +1,3 @@
 default
 フレイムストーム,Flamestorm
-LPを1000払って発動可能。[1].ターン終了時ごとに発動する。お互いのフィールド上の全てのモンスターに500ポイントのダメージを与える。この効果を4回発動したあと、このカードは自壊する。\n[1]. Pay 1000 LP to cast. At the end of each turn; inflict 500 points of damage to all monsters on both players' fields. After this effect has been activated 4 times; this card self-destructs.
+LPを1000払って発動可能。[1].ターン終了時ごとに発動する。お互いのフィールド上の全てのモンスターに500ポイントのダメージを与える。この効果を4回発動したあと、このカードは自壊する。,[1]. Pay 1000 LP to cast. At the end of each turn; inflict 500 points of damage to all monsters on both players' fields. After this effect has been activated 4 times; this card self-destructs.
