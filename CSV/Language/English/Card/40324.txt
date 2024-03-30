@@ -1,3 +1,3 @@
 default
-天雷の矢,天雷之箭
-[1].LPを1000払い、自分フィールド上のハンタータイプモンスター１体を選択して発動する。相手フィールド上の特殊召喚された全てのモンスターに選択したモンスターの攻撃力×2のダメージを与える。,[1].支付1000點LP，選擇自己場上１體獵人類型怪獸發動。對手場上所有以特殊召喚出場的怪獸受到選擇怪獸攻擊力Ｘ２的傷害。
+天雷の矢,Heavenly Thunder Arrow
+[1].LPを1000払い、自分フィールド上のハンタータイプモンスター１体を選択して発動する。相手フィールド上の特殊召喚された全てのモンスターに選択したモンスターの攻撃力×2のダメージを与える。,[1]. Pay 1000 LP; select 1 Hunter Type monster on your field. Inflict damage equal to twice the selected monster's ATK to all Special Summoned monsters on your opponent's field.
