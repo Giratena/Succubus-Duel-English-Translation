@@ -1,3 +1,3 @@
 default
-高速詠唱,Intensne Incantation
+高速詠唱,Intense Incantation
 このカード名のカードは１ターンに１枚しか発動できない。\n[1].自分フィールド上に魔術師タイプのモンスターが存在する場合、手札を１枚捨て、LPを1000払って発動できる。デッキから魔法カードを２枚手札に加える。,Cards with this name can only be used once per turn.\n[1]. When you control a Magician Type monster on your field; you may discard one card and pay 1000 LP to add two Magic Cards from your Deck to your hand.

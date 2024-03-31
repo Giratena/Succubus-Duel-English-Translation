@@ -1,3 +1,3 @@
 default
-一所懸命,一所懸命
-LPを500払って発動可能。\n[1].自分フィールド上にモンスターが１体しか存在せずそのモンスターが「サムライ」モンスターである場合、自分ターン終了時に発動する。自分フィールド上のすべての「サムライ」モンスターの最大HPを1000ポイントアップする。,LPを500払って発動可能。\n[1].自分フィールド上にモンスターが１体しか存在せずそのモンスターが「サムライ」モンスターである場合、自分ターン終了時に発動する。自分フィールド上のすべての「サムライ」モンスターの最大HPを1000ポイントアップする。
+一所懸命,All-Out Effort
+LPを500払って発動可能。\n[1].自分フィールド上にモンスターが１体しか存在せずそのモンスターが「サムライ」モンスターである場合、自分ターン終了時に発動する。自分フィールド上のすべての「サムライ」モンスターの最大HPを1000ポイントアップする。,Pay 500 LP to cast.\n[1]. If you have only one monster on your field and it is a "Samurai" card; you may activate this effect at the end of your turn: Increase the maximum HP of all "Samurai" monsters on your field by 1000 points.

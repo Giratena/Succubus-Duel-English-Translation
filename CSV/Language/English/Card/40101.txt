@@ -1,3 +1,3 @@
 default
 落雷,Lightning Strike
-手札から光属性魔法カードを1枚捨てて発動できる。相手フィールド上のランダムなモンスターに2000ポイントのダメージを与える。\n[1]. Discard 1 Light Attribute Magic Card from your hand: Inflict 2000 points of damage to a random monster on your opponent's field.
+手札から光属性魔法カードを1枚捨てて発動できる。相手フィールド上のランダムなモンスターに2000ポイントのダメージを与える。,\n[1]. Discard 1 Light Attribute Magic Card from your hand: Inflict 2000 points of damage to a random monster on your opponent's field.

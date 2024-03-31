@@ -1,3 +1,3 @@
 default
-アンサモン,アンサモン
-クールタイム4\n[1].相手モンスター１体を選択し、手札を２枚捨てて発動できる。そのモンスターを相手のデッキに戻す。,クールタイム4\n[1].相手モンスター１体を選択し、手札を２枚捨てて発動できる。そのモンスターを相手のデッキに戻す。
+アンサモン,Unsummon
+クールタイム4\n[1].相手モンスター１体を選択し、手札を２枚捨てて発動できる。そのモンスターを相手のデッキに戻す。,Cooldown 4\n[1]. Select 1 opponent's monster; discard 2 cards to return that monster to the opponent's Deck.

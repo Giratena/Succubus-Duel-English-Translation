@@ -1,3 +1,3 @@
 default
-炎を光に,轉火為光
-炎属性の魔法カードが発動したときに発動できる。このターンの間、自分フィールド上のすべてのモンスターは炎属性のカードの効果ダメージを受けず、逆に受けるダメージと同じだけHPを回復する。,[1].當炎屬性魔法卡發動時可以發動。這個回合中，自己場上所有怪獸受到炎屬性卡片的效果傷害時不會受到傷害，並且HP會回復與傷害數值的相等數值。
+炎を光に,Flames to Light
+炎属性の魔法カードが発動したときに発動できる。このターンの間、自分フィールド上のすべてのモンスターは炎属性のカードの効果ダメージを受けず、逆に受けるダメージと同じだけHPを回復する。,If a Fire Attribute Spell Card is activated; for the rest of this turn; all monsters on your field may not take effect damage from Fire Attribute cards and instead recover HP equal to the damage that would have been taken.

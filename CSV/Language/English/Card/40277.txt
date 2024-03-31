@@ -1,3 +1,3 @@
 default
-砲撃,砲擊
-クールタイム6\n[1].フィールド上の魔法・トラップカード１枚を選択して発動する。そのカードを破壊する。その後、自分プレイヤーに「クールタイムカード使用不可」(6ターン)を付与する。,冷卻６\n[1].選擇場上的１張魔法・陷阱卡發動。該卡破壞。然後賦予我方玩家「無法使用冷卻卡」（6回合）。
+砲撃,Cannon Fire
+クールタイム6\n[1].フィールド上の魔法・トラップカード１枚を選択して発動する。そのカードを破壊する。その後、自分プレイヤーに「クールタイムカード使用不可」(6ターン)を付与する。,Cooldown 6\n[1]. Select 1 Magic or Trap card on the field; destroy it. Then, grant [Cooldown Card Usage Prohibited (6 turns)] to yourself.

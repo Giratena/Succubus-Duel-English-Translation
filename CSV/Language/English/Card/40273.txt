@@ -1,3 +1,3 @@
 default
-童心返り,童心返り
-[1].このカードがフィールド上に存在する限り、すべての相手キャラクターに「ショタ化」（受ける性的なダメージが1.5倍）を付与する。\n[2].発動後２回目の自分ターン終了時に発動する。このカードは自壊する。,[1].このカードがフィールド上に存在する限り、すべての相手キャラクターに「ショタ化」（受ける性的なダメージが1.5倍）を付与する。\n[2].発動後２回目の自分ターン終了時に発動する。このカードは自壊する。
+童心返り,Childlike Return
+[1].このカードがフィールド上に存在する限り、すべての相手キャラクターに「ショタ化」（受ける性的なダメージが1.5倍）を付与する。\n[2].発動後２回目の自分ターン終了時に発動する。このカードは自壊する。,[1]. As long as this card is on the field; inflict [Shota Transformation (sexual damage received increased x 1.5)] on all opponent's characters.\n[2]. At the end of your second turn after this card was activated; banish this card.

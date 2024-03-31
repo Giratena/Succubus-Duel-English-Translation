@@ -1,3 +1,3 @@
 default
-魔術の凍結,魔法凍結術
-相手が魔法カードを発動したときに、手札の水属性カードを1枚捨てて発動できる。その魔法カードの効果を無効にし破壊する。,[1].對手發動魔法卡時捨棄手牌１張水屬性卡片發動。將該魔法無效且破壞。
+魔術の凍結,Magic Freeze
+相手が魔法カードを発動したときに、手札の水属性カードを1枚捨てて発動できる。その魔法カードの効果を無効にし破壊する。,[1]. If an opponent activates a Spell Card; you may discard 1 Water Attribute card from your hand to negate and destroy that Spell Card.

@@ -1,3 +1,5 @@
 default
-アナライズ,アナライズ
-[1].相手が魔法カードを発動した時、800LP払って発動できる。相手プレイヤーに「このターンの間、発動した魔法カードと同じ属性の魔法カードの効果を使用できない」を付与する。,[1].相手が魔法カードを発動した時、800LP払って発動できる。相手プレイヤーに「このターンの間、発動した魔法カードと同じ属性の魔法カードの効果を使用できない」を付与する。
+アナライズ,Analyze
+[1].相手が魔法カードを発動した時、800LP払って発動できる。相手プレイヤーに「このターンの間、発動した魔法カードと同じ属性の魔法カードの効果を使用できない」を付与する。,[1]. If your opponent activates a Spell Card; you may pay 800 LP and grant [Cannot use the effects of Spell Cards with the same Attribute as the activated card (1 turn)] to your opponent.
+
+

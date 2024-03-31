@@ -1,3 +1,3 @@
 default
-山賊の罠,蠻賊的陷阱
-[1].自分の手札に「バンデット」モンスターが存在する場合に、相手モンスターの攻撃宣言時にLPを1000払って発動できる。そのモンスターの攻撃を無効にし、手札の最もレベルが低い「バンデット」モンスター1体を特殊召喚する。,[1].自己手牌中有「山賊」怪獸存在，當對手怪獸進行攻擊宣言時可以支付1000點LP發動。使該攻擊無效，將手牌中等級最低的「山賊」怪獸特殊召喚到自己場上。
+山賊の罠,Bandit's Trap
+[1].自分の手札に「バンデット」モンスターが存在する場合に、相手モンスターの攻撃宣言時にLPを1000払って発動できる。そのモンスターの攻撃を無効にし、手札の最もレベルが低い「バンデット」モンスター1体を特殊召喚する。,[1]. If you have a "Bandit" monster in your hand; when an opponent's monster declares an attack, you may pay 1000 LP. Negate that attack and Special Summon the lowest Level "Bandit" monster from your hand.

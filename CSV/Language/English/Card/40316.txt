@@ -1,3 +1,3 @@
 default
-巨大化,巨大化
-[1].自分フィールド上にモンスターが存在しない時発動できる。自分プレイヤーに「巨大化」（攻撃力500ポイントアップ、戦闘後に相手フィールド上のすべてのモンスターに攻撃力分のダメージ）を付与する。,[1].自分フィールド上にモンスターが存在しない時発動できる。自分プレイヤーに「巨大化」（攻撃力500ポイントアップ、戦闘後に相手フィールド上のすべてのモンスターに攻撃力分のダメージ）を付与する。
+巨大化,Gigantism
+[1].自分フィールド上にモンスターが存在しない時発動できる。自分プレイヤーに「巨大化」（攻撃力500ポイントアップ、戦闘後に相手フィールド上のすべてのモンスターに攻撃力分のダメージ）を付与する。,[1]. If there are no monsters on your field; grant [Gigantism] to yourself. ([Gigantism] = increase your attack power by 500 points. After battle; all monsters on your opponent's field receive damage equal to your attack power.)

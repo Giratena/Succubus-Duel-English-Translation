@@ -1,3 +1,3 @@
 default
-バブルガムコフィン,バブルガムコフィン
-[1].相手の直接攻撃宣言時に発動できる。攻撃キャラクターに「拘束」を付与し、さらに「発情(X,4ターン)」を付与する。Xは自分プレイヤーの攻撃力。,[1].相手の直接攻撃宣言時に発動できる。攻撃キャラクターに「拘束」を付与し、さらに「発情(X,4ターン)」を付与する。Xは自分プレイヤーの攻撃力。
+バブルガムコフィン,Bubblegum Coffin
+[1].相手の直接攻撃宣言時に発動できる。攻撃キャラクターに「拘束」を付与し、さらに「発情(X; 4ターン)」を付与する。Xは自分プレイヤーの攻撃力。,[1]. If an opponent's monster declares a direct attack; grant [Restraint] to that attacking character; and additionally grant [Arousal (X; 4 turns)] (X = Your player's ATK).

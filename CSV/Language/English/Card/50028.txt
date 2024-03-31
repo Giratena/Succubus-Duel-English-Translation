@@ -1,3 +1,3 @@
 default
-索敵警報,偵敵陷阱
-相手がモンスターの召喚に成功したとき発動できる。自分の手札にレベル5以下のハンタータイプのモンスターがいるなら、そのモンスターを特殊召喚する。手札にハンタータイプのモンスターがいないなら、デッキからハンタータイプのモンスター1枚を手札に加える。,[1].當對手通常召喚怪獸成功時可以發動。如果自己手牌有等級５以下的獵人類型怪獸，可以將其特殊召喚。如果手牌沒有對象卡片，從牌組隨機將１張獵人類型怪獸卡加入手牌。
+索敵警報,Search Party Alarm
+相手がモンスターの召喚に成功したとき発動できる。自分の手札にレベル5以下のハンタータイプのモンスターがいるなら、そのモンスターを特殊召喚する。手札にハンタータイプのモンスターがいないなら、デッキからランダムにハンタータイプのモンスター1枚を手札に加える。,[1]. If your opponent successfully summons a monster; you may Special Summon 1 Level 5 or lower Hunter Type monster from your hand. If there are no Hunter Type monsters in your hand; add 1 random Hunter Type monster from your Deck to your hand.
