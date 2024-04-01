@@ -1,4 +1,4 @@
 default
-ハーレムカウンター,後宮陷阱
-[1].自分フィールド上に女性モンスターが２体以上存在する場合、相手の攻撃宣言時に発動できる。そのモンスターに自分フィールド上のモンスターの数×800ポイントのダメージを与える。,[1].自己場上有２體女性怪獸存在，當對手進行攻擊宣言時可以發動。給予該怪獸自己場上的怪獸數量Ｘ800 點傷害。
-このカードの効果で相手モンスターを破壊した場合、墓地からレベル４以下のモンスター１体をランダムに特殊召喚する。,困難以上中，如果這個效果破壞對手怪獸時，從墓地隨機特殊召喚１體等級４以下的怪獸到自己場上。
+ハーレムカウンター,Harem Counter
+[1].自分フィールド上に女性モンスターが２体以上存在する場合、相手の攻撃宣言時に発動できる。そのモンスターに自分フィールド上のモンスターの数×800ポイントのダメージを与える。,[1]. If you have 2 or more female monsters on your field: When an opponent's monster declares an attack; inflict 800 x X damage to that monster (X = the number of monsters on your field).
+このカードの効果で相手モンスターを破壊した場合、墓地からレベル４以下のモンスター１体をランダムに特殊召喚する。,If this card's effect destroys an opponent's monster; Special Summon 1 Level 4 or lower monster at random from your Graveyard.

@@ -1,3 +1,3 @@
 default
-力の相殺,力の相殺
-[1].相手の魔法トラップカードが発動した時、そのカードと同じ属性・同じ種類（魔法・トラップ）のカード１枚を捨てて発動できる。そのカードの効果を無効にし破壊する。,[1].相手の魔法トラップカードが発動した時、そのカードと同じ属性・同じ種類（魔法・トラップ）のカード１枚を捨てて発動できる。そのカードの効果を無効にし破壊する。
+力の相殺,Power Offset
+[1].相手の魔法トラップカードが発動した時、そのカードと同じ属性・同じ種類（魔法・トラップ）のカード１枚を捨てて発動できる。そのカードの効果を無効にし破壊する。,[1]. If an opponent activates a Spell/Trap Card; you may discard 1 card of the same Attribute and Type (Spell/Trap) to negate and banish that card.

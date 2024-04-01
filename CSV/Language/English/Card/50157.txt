@@ -1,3 +1,3 @@
 default
-槍衾,長槍陣
-[1].自分フィールド上に表側表示の「槍」「ランス」「ランサー」カードが合計３枚以上存在する場合、相手モンスターの攻撃宣言時に発動できる。そのモンスターに1000ポイントダメージを3回与える。,[1].自己場上有表側的「槍」「長矛」「槍士」卡合計三張以上存在，當對手怪獸進行攻擊宣言時可以發動。給予該怪獸1000點傷害，此效果重複３次。
+槍衾,Lance Quilt
+[1].自分フィールド上に表側表示の「槍」「ランス」「ランサー」カードが合計３枚以上存在する場合、相手モンスターの攻撃宣言時に発動できる。そのモンスターに1000ポイントダメージを3回与える。,[1]. If you have 3 or more face-up "Spear", "Lance", or "Lancer" cards on your field: When an opponent's monster declares an attack; inflict 1000 x 3 points of damage to that monster.

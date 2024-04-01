@@ -1,3 +1,3 @@
 default
-カウンターストライク,反擊正拳
-[1].自分の墓地にモンスターカードが存在しない場合、相手モンスターの直接攻撃時に発動できる。その攻撃を無効にし、自分プレイヤーの攻撃力と相手モンスターの攻撃力の合計のダメージを相手に与える。,[1].自己墓地沒有怪獸卡，當對手怪獸進行直接攻擊時可以發動。使該攻擊無效，給予該攻擊怪獸我方玩家攻擊力與該攻擊怪獸攻擊力合計的傷害。
+カウンターストライク,Counter Strike
+[1].自分の墓地にモンスターカードが存在しない場合、相手モンスターの直接攻擊時に発動できる。その攻撃を無効にし、自分プレイヤーの攻撃力と相手モンスターの攻撃力の合計ダメージを相手に与える。,[1]. If there are no Monster Cards in your Graveyard; when an opponent's monster declares a direct attack; negate that attack and inflict damage to your opponent equal to the combined ATK of the player + the attacking monster.

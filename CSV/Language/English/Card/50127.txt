@@ -1,3 +1,3 @@
 default
-機雷散布,機雷散布
-[1].相手の直接攻撃宣言時に墓地の水属性カードをランダムに2枚取り除いて発動できる。その攻撃を無効にし、「{%%30054}」を可能な限り自分フィールド上に特殊召喚する。,[1].相手の直接攻撃宣言時に墓地の水属性カードをランダムに2枚取り除いて発動できる。その攻撃を無効にし、「{%%30054}」を可能な限り自分フィールド上に特殊召喚する。
+機雷散布,Mine Scatter
+[1].相手の直接攻撃宣言時に墓地の水属性カードをランダムに2枚取り除いて発動できる。その攻撃を無効にし、「{%%30054}」を可能な限り自分フィールド上に特殊召喚する。,[1]. If an opponent declares a direct attack; banish 2 random Water Attribute cards from your Graveyard to negate that attack and Special Summon as many "{%%30054}" as you can to your field.
