@@ -1,3 +1,3 @@
 default
-炎封の棺,封炎棺鏈
-自分フィールド上のモンスターに装備可能。装備時に、装備モンスターは500ポイントのダメージを受ける。\n[1].装備モンスターが炎属性のカードから効果ダメージを受けたとき発動する。チャージを+１する。\n[2].チャージが3つ以上溜まっている場合に発動できる。デッキからレベル5~6の炎属性モンスター１体を特殊召喚し、このカードは自壊する。（デッキに条件を満たすモンスターがいない場合発動できない）,自己場上的怪獸才能裝備。裝備時，裝備怪獸受到500點傷害。\n[1].裝備怪獸受到炎屬性卡片的效果傷害時發動。這張卡充能+1。\n[2].這張卡充能在３以上時可以發動。從牌組隨機將等級５~６的火屬性怪獸特殊召喚到自己場上，這張卡自爆。（如果牌組沒有對象卡片時此效果無法發動。）
+炎封の棺,Flame Sealed Coffin
+自分フィールド上のモンスターに装備可能。装備時に、装備モンスターは500ポイントのダメージを受ける。\n[1].装備モンスターが炎属性のカードから効果ダメージを受けたとき発動する。チャージを+１する。\n[2].チャージが3つ以上溜まっている場合に発動できる。デッキからレベル5~6の炎属性モンスター１体を特殊召喚し、このカードは自壊する。（デッキに条件を満たすモンスターがいない場合発動できない）,Can be equipped to a monster on your field. When equipped; the equipped monster takes 500 points of damage.\n[1]. When the equipped monster receives effect damage from a Fire Attribute card: Add +1 charge.\n[2]. If there are 3 or more charges accumulated; you may Special Summon 1 Level 5-6 Fire Attribute monster from your Deck and this card destroys itself. (You may not activate this effect if there is no appropriate monster in your Deck.)
