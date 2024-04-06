@@ -1,3 +1,3 @@
 default
-高出力光線,高出力光線
-[1].相手がモンスターを召喚・特殊召喚したとき、手札の光属性レベル7以上モンスター１体を捨てて発動できる。そのモンスターに2500ポイントのダメージを与える。,[1].相手がモンスターを召喚・特殊召喚したとき、手札の光属性レベル7以上モンスター１体を捨てて発動できる。そのモンスターに2500ポイントのダメージを与える。
+高出力光線,High-Power Beam
+[1].相手がモンスターを召喚・特殊召喚したとき、手札の光属性レベル7以上モンスター１体を捨てて発動できる。そのモンスターに2500ポイントのダメージを与える。,[1]. If an opponent summons or Special Summons a monster; you may discard 1 Level 7 or higher Light Attribute monster from your hand to inflict 2500 points of damage to that monster.

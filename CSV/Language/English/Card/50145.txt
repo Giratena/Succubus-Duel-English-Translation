@@ -1,3 +1,4 @@
 default
-惑わす囁き,惑わす囁き
-[1].相手ターン開始時に発動する。ランダムな相手キャラクター１体に対して。そのキャラクターが「同士討ち」状態でない場合、「同士討ち」(1ターン)を付与する。そのモンスターが「同士討ち」状態である場合、攻撃力を1000ポイントアップする。\n[2].発動後、3回目の相手ターン終了時に発動する。このカードは自壊する。,[1].相手ターン開始時に発動する。ランダムな相手キャラクター１体に対して。そのキャラクターが「同士討ち」状態でない場合、「同士討ち」(1ターン)を付与する。そのモンスターが「同士討ち」状態である場合、攻撃力を1000ポイントアップする。\n[2].発動後、3回目の相手ターン終了時に発動する。このカードは自壊する。
+惑わす囁き,Whispering Seduction
+[1].相手ターン開始時に発動する。ランダムな相手キャラクター１体に対して。そのキャラクターが「同士討ち」状態でない場合、「同士討ち」(1ターン)を付与する。そのモンスターが「同士討ち」状態である場合、攻撃力を1000ポイントアップする。\n[2].発動後、3回目の相手ターン終了時に発動する。このカードは自壊する。,[1]. If your opponent's turn starts; target 1 random opponent's character. If that character does not have [Betrayal (1)], apply [Betrayal (1)] to it. If that monster already has [Betrayal], increase its ATK by 1000 points.
+\n[2]. After activation; when the third opponent's turn ends; this card self-destructs.

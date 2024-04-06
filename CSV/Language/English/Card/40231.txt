@@ -1,3 +1,3 @@
 default
 小さな後継者,Small Successor
-このカード名のカードは１ターンに１枚しか発動できない。\n[1].自分フィールド上のレベル７以上の魔術師タイプモンスター１体を選択して発動する。そのモンスターと同じ属性のレベル３以下魔術師タイプモンスターを自分のデッキからランダムに特殊召喚する。,[1]. You may only activate one card with this name per turn. \n[1]. Select 1 Level 7 or higher Magician Type monster on your field; randomly Special Summon 1 Magician Type monster from your Deck with the same Attribute and Level 3 or lower.
+このカード名のカードは１ターンに１枚しか発動できない。\n[1].自分フィールド上のレベル７以上の魔術師タイプモンスター１体を選択して発動する。そのモンスターと同じ属性のレベル３以下魔術師タイプモンスターを自分のデッキからランダムに特殊召喚する。,[1]. You may only activate one card with this name per turn. \n[1]. Select 1 Level 7 or higher Magician Type monster on your field; randomly Special Summon 1 Magician Type monster from ySpellcaster Type the same Attribute and Level 3 or lower.Spellcaster Type

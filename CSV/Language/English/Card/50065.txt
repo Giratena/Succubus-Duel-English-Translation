@@ -1,4 +1,4 @@
 default
 ウイルスの蔓延,Virus Pandemic
-[1].フィールド上に「ゾンビ」状態のモンスターが存在する場合に、相手がモンスターを場に出したとき発動する。そのモンスターに「ゾンビ」状態を付与し、さらに「再生」(500)を付与する。,[1]. If a monster with [Zombie] status is on the field; when your opponent Summons a monster; grant it [Zombie] and additionally grant [Regeneration (500)].
+[1].フィールド上に「ゾンビ」状態のモンスターが存在する場合に、相手がモンスターを場に出したとき発動する。そのモンスターに「ゾンビ」状態を付与し、さらに「再生」(500)を付与する。,[1]. If a monster with [Zombie] status is on the field; when your opponent Summons a monster; grant it [Zombie] and [Regeneration (500)].
 [2].このカードが表側表示で存在し、相手フィールド上に存在するモンスターがすべて「ゾンビ」状態の場合、相手ターン終了時に発動する。自分の墓地からレベル４以下のアンデットタイプモンスターをランダムに１体特殊召喚する。,[2]. When this card is face-up and all monsters on the opponent's field have [Zombie] at the end of your opponent's turn; Special Summon 1 random Level 4 or lower Undead Type monster from your Graveyard.

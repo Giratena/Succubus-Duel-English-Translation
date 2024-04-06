@@ -1,4 +1,4 @@
 default
-猛毒のグリーンリップ,猛毒のグリーンリップ
-LPを1000払って「サキュバス」モンスターに装備可能。[1].装備モンスターの攻撃力を300ポイントアップする。[2].装備モンスターは戦闘時、相手に「麻痺」「毒(100)」「発情(100)」を付与する。,LPを1000払って「サキュバス」モンスターに装備可能。[1].装備モンスターの攻撃力を300ポイントアップする。[2].装備モンスターは戦闘時、相手に「麻痺」「毒(100)」「発情(100)」を付与する。
-[3].このカードを装備したモンスターがフィールドを離れたことで、このカードが墓地へ送られたとき発動する。このカードを手札に加える。,[3].このカードを装備したモンスターがフィールドを離れたことで、このカードが墓地へ送られたとき発動する。このカードを手札に加える。
+猛毒のグリーンリップ,Toxic Green Lipstick
+LPを1000払って「サキュバス」モンスターに装備可能。[1].装備モンスターの攻撃力を300ポイントアップする。[2].装備モンスターは戦闘時、相手に「麻痺」「毒(100)」「発情(100)」を付与する。,[1]. Pay 1000 LP to equip this card to a [Succubus] monster. Increase the ATK of the equipped monster by 300 points.\n[2]. When the equipped monster battles; apply [Paralysis]; [Poison (100)]; and [Arousal (100)] to the opponent.
+[3].このカードを装備したモンスターがフィールドを離れたことで、このカードが墓地へ送られたとき発動する。このカードを手札に加える。,[3]. When this card is sent to the Graveyard because the equipped monster left the field; add this card to your hand.

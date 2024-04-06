@@ -1,3 +1,3 @@
 default
 和平協定,Peace Treaty
-クールタイム8\n[1].相手はデッキからカードを２枚ドローし、LPを1000ポイント回復する。その後、お互いのプレイヤーに「攻撃指示不能(4ターン)」を付与する。,Cool down 8\n[1]. Your opponent draws 2 cards and recovers 1000 LP. Then; grant [Cannot Issue Attack Command (4 turns)] to both players.
+クールタイム8\n[1].相手はデッキからカードを２枚ドローし、LPを1000ポイント回復する。その後、お互いのプレイヤーに「攻撃指示不能(4ターン)」を付与する。,Cooldown 8\n[1]. Your opponent draws 2 cards and recovers 1000 LP. Then; grant [Cannot Issue Attack Command (4 turns)] to both players.

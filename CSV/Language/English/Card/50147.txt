@@ -1,3 +1,3 @@
 default
-ワンダーエッグ,出奇蛋
-[1].自分のデッキに５種類以上のモンスターが存在する場合、このカードがカードの効果で破壊され墓地へ送られたとき発動する。デッキからランダムなモンスター1体を特殊召喚する。,[1].自己牌組有５種類的怪獸存在，當這張卡因為卡片效果破壞送往墓地時發動。從牌組隨機將１張怪獸特殊召喚到自己場上。
+ワンダーエッグ,Wonder Egg
+[1].自分のデッキに５種類以上のモンスターが存在する場合、このカードがカードの効果で破壊され墓地へ送られたとき発動する。デッキからランダムなモンスター1体を特殊召喚する。,[1]. If your Deck contains 5 or more different types of monsters; Special Summon 1 random monster from your Deck when this card is destroyed by a card effect and sent to the Graveyard.

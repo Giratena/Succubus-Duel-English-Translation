@@ -1,4 +1,4 @@
 default
-影隠れ,影之身
-LPを1000払い、相手の直接攻撃宣言時に発動できる。\n[1].自分フィールド上に闇属性モンスターがいる限り、自分プレイヤーは相手の直接攻撃によるダメージを受けない。\n[2].発動後2回目の自分ターン終了時に発動する。このカードは自壊する。,當對手宣言直接攻擊時，可以支付1000點LP發動。\n[1].只要自己場上有闇屬性怪獸，我方玩家受到對手直接攻擊時戰鬥傷害改為0。\n[2].[1]的效果發動後算起第２次自己回合結束時發動。這張卡自爆。
-（イージー以下の場合、１回目の自分ターン終了時に自壊する）,（在簡單以下，自爆效果從第２次改為第１次）
+影隠れ,Phantom Hide
+LPを1000払い、相手の直接攻撃宣言時に発動できる。\n[1].自分フィールド上に闇属性モンスターがいる限り、自分プレイヤーは相手の直接攻撃によるダメージを受けない。\n[2].発動後2回目の自分ターン終了時に発動する。このカードは自壊する。,[1]. If an opponent declares a direct attack; pay 1000 LP to activate: As long as there is a Dark Attribute monster on your field; you may not receive damage from an opponent's direct attacks.\n[2]. At the end of your 2nd turn after this card's activation; banish this card.
+（イージー以下の場合、１回目の自分ターン終了時に自壊する）,(If the difficulty is Easy or lower; banish this card at the end of your 1st turn.)
