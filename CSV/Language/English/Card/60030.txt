@@ -1,3 +1,3 @@
 default
 ガードサーベル,Guard Saber
-自分プレイヤーに装備可能。\n[1].装備キャラクターの攻撃力は300ポイントアップする。\n[2].装備キャラクターが攻撃対象に選択されたときに発動できる。自身に「戦闘ダメージ無効(1回)」と「プレイヤー反撃(１ターン)」を付与する。その後このカードは自壊する。,[1]. May be equipped to your player;\n[1]. This card increases the ATK of the equipped character by 300 points;\n[2]. When the equipped character is selected as an attack target; grant [Battle Damage Immunity (1)] and [Player Counterattack (1 Turn)] to yourself. Then; banish this card.
+自分プレイヤーに装備可能。\n[1].装備キャラクターの攻撃力は300ポイントアップする。\n[2].装備キャラクターが攻撃対象に選択されたときに発動できる。自身に「戦闘ダメージ無効(1回)」と「プレイヤー反撃(１ターン)」を付与する。その後このカードは自壊する。,May be equipped to your player;\n[1]. This card increases the ATK of the equipped character by 300 points;\n[2]. When the equipped character is selected as an attack target; grant [Battle Damage Immunity (1)] and [Player Counterattack (1 Turn)] to yourself. Then; banish this card.

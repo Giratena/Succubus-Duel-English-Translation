@@ -1,3 +1,3 @@
 default
 ストーンウォール,Stonewall
-[1].相手の攻撃宣言時、手札から地属性カード1枚を捨てることで発動する。自分フィールド上のすべてのモンスターに、「次受ける戦闘ダメージは０になる」を付与する。,[1]. If your opponent declares an attack; you may discard 1 Earth Attribute card from your hand to grant all monsters on your field [Next Received Battle Damage Becomes 0].
+相手の攻撃宣言時、手札から地属性カード1枚を捨てて発動する。自分フィールド上のすべてのモンスターに、「次受ける戦闘ダメージは０になる」を付与する。,[1]. If your opponent declares an attack; you may discard 1 Earth Attribute card from your hand to grant all monsters on your field [Next Received Battle Damage Becomes 0].

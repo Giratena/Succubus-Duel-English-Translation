@@ -1,3 +1,3 @@
 default
 再鍛錬,Reforging
-このカード名のカードは１ターンに１度しか発動できない。\n[1].自分フィールド上の装備カードを１枚選択して発動する。選択したカードを破壊し、デッキから装備カードをランダムに2枚手札に加える。,[1]. You may only activate one card with this name per turn. \n[1]. Select 1 Equipment Card on your field. Destroy it; then add 2 random Equipment Cards from your Deck to your hand.
+このカード名のカードは１ターンに１度しか発動できない。\n[1].自分フィールド上の装備カードを１枚選択して発動する。選択したカードを破壊し、デッキから装備カードをランダムに2枚手札に加える。,You may only activate one card with this name per turn. \n[1]. Select 1 Equipment Card on your field. Destroy it; then add 2 random Equipment Cards from your Deck to your hand.

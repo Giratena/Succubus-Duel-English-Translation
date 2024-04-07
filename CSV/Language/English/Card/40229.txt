@@ -1,4 +1,4 @@
 default
 フィーバータイム,Fever Time
-自分フィールド上に「{%%40226}」と「バニー」モンスターが存在する場合に、LPを800払って発動可能。\n[1].自分がコイントスで裏を出したとき、その結果は表になる。この効果は2回まで適用される。\n[2].相手ターン終了時に発動する。このカードは自壊する。,If [Bunny] monsters and [{%%40226}] are present on your field; you may pay 800 LP to use this card's effects.\n[1]. When you flip a coin and it lands on tails; treat the result as heads. This effect may be applied up to 2 times.\n[2]. Activate at the end of your opponent's turn; this card self-destructs.
+自分フィールド上に「{%%40226}」と「バニー」モンスターが存在する場合に、LPを800払って発動可能。\n[1].自分がコイントスで裏を出したとき、その結果は表になる。この効果は2回まで適用される。\n[2].相手ターン終了時に発動する。このカードは自壊する。,If [Bunny] monsters and [{%%40226}] are present on your field; you may pay 800 LP to use this card's effects.\n[1]. When you flip a coin and it lands on tails; treat the result as heads. This effect may be applied up to 2 times.\n[2]. Activate at the end of your opponent's turn; banish this card.
 (ハード以上の場合、[1]の発動回数は2回ではなく4回になる),(On hard or higher difficulties, the number of activations for [1] is 4 instead of 2.)

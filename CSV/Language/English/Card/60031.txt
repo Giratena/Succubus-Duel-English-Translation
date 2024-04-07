@@ -1,3 +1,3 @@
 default
 簡素なクロスボウ,Simple Crossbow
-ハンタータイプのモンスターに装備可能。\n[1].装備モンスターの攻撃宣言時に発動する。攻撃対象に300ポイントのダメージを与える。,[1]. Hunter use only.\n[1]. When the equipped monster declares an attack; deal an additional 300 damage.
+ハンタータイプのモンスターに装備可能。\n[1].装備モンスターの攻撃宣言時に発動する。攻撃対象に300ポイントのダメージを与える。,Hunter use only.\n[1]. When the equipped monster declares an attack; deal an additional 300 damage.

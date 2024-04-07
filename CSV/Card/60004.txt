@@ -1,7 +1,7 @@
 default
 @初期設定
-&カード名,Irong Ring
-&効果テキスト,Equippable to any monster and the player. Reduces combat damage taken by 100.
+&カード名,アイアンリング
+&効果テキスト,フィールド上のモンスターまたはプレイヤーが装備可能。相手から受ける戦闘ダメージを100ポイント減少させる。
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
