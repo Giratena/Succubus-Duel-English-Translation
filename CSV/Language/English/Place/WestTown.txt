@@ -16,23 +16,23 @@ Place/WestTown,
 セーブ,Save
 回想,Reminisce
 次のステージへ,Next Stage
-師匠からもらった情報をもとに、僕は盗賊団が荒らしているという村の近くまで来ていた。,
-ここで情報収集をして、盗賊団のアジトを見つけ出そう。そして、「ネクロ」という名前のカードマスターに、研究していたサキュバス化を治す方法について尋ねるのだ。,I need to gather information and look for the thieves' hideout. I should also ask cardmaster known as Necro who has researched about succubus transformation if there is any way to cure it.
+師匠からもらった情報をもとに、僕は盗賊団が荒らしているという村の近くまで来ていた。,According to my master's information; a band of thieves have settled near this town.
+ここで情報収集をして、盗賊団のアジトを見つけ出そう。そして、「ネクロ」という名前のカードマスターに、研究していたサキュバス化を治す方法について尋ねるのだ。,I need to gather information and find the thieves' hideout. I also need to ask a cardmaster known as Necro if there's a way to cure someone from succubus transformation.
 次のステージへすすめるようになりました。,You can now advance to the next stage.
-お、あんたが依頼を受けてくれたカードマスターか？\n頼むぜ、盗賊たちのせいで、この村もだいぶやべえんだ。,
-金目のものはもちろん、食い物も奪っていっちまう。\n普通の盗賊なら俺たちで追い返せないこともねえけど、\n相手には強いカードマスターが味方してるんだよ。,
-盗賊退治に行った村の腕自慢たちが、みんなカードマスターに負けて、\n足腰立たない骨抜きにされて帰ってきたって話だぜ。,
-だからあんたが頼りなんだ。\n悪いカードマスターに負けないでくれよ。,
-ううぅ…。だめだ、まだ思い出しちまう…。\nん？ああ、カードマスターの人か。\nわざわざこんな辺鄙な村に助けに来てくれてありがとよ。,
-俺たち20人ぐらいでよ、\n盗賊退治のために、北の山にあるやつらのねぐらに襲撃をかけたんだ。\nところが向こうにいた紫髪のカードマスターがやばくてな、,
-ゾンビだ死神だっておっかないモンスターたちをどんどん出してくるんだ。\nでも、どのモンスターも美人でよ。\n俺たち訳も分からないまま、押さえつけられて、嬲られて…。,
-くそお、あんなに憎らしい盗賊団だってのに、\n体は気持ちよくなっちまうのが腹が立つぜ。\nそのまま動けなくなるまで体力を奪われて、村に送り返されちまった。,
-最後に「無駄な抵抗しないで貢ぎ続ければまたしてあげる」って\nささやかれてよ。くそお、あんなの味わちまったら…。俺、もう…。\nああ、ダメだ。しゃんとしねえと、村の危機だってのに。,
-兄ちゃん町の外から来た人だろ？\nふだん見ない顔だもんな。,
-この町はなあ、金がいっぱい取れるんだぜ。すげえだろ。\n山に開けた穴から、いっぱい掘り出してんだ。,
-でもな。北の山に盗賊団が住みついてから、\nその金をちまちま奪われてんだ。いつの間にか盗まれていることも\nあれば、堂々と昼間っから盗っていくこともあるんだぜ。,
-大人たちはこの間の討伐失敗以来、\nすっかりあいつらに逆らえなくなっちまっているみたいだしよ。\n情けねえったらねえよ。,
-はぁ…。ここのところ稼ぎが少なくって嫌になっちゃう。\n盗賊騒ぎでこの村に来る人も減っちゃって、\nカモが全然いないのよねぇ・・・。,Sigh... Making money has been difficult lately. Travelers have been avoiding this town because of the bandits; so I haven't been able to find any easy targets.
+お、あんたが依頼を受けてくれたカードマスターか？\n頼むぜ、盗賊たちのせいで、この村もだいぶやべえんだ。,Are you the cardmaster who took the request for the thieves? Please take care of them. The town is in really bad shape because of them.
+金目のものはもちろん、食い物も奪っていっちまう。\n普通の盗賊なら俺たちで追い返せないこともねえけど、\n相手には強いカードマスターが味方してるんだよ。,They're stealing our valuables and food. We could handle it ourselves if it was a normal band of thieves; but they've got a strong cardmaster on their side.
+盗賊退治に行った村の腕自慢たちが、みんなカードマスターに負けて、\n足腰立たない骨抜きにされて帰ってきたって話だぜ。,The strong folk in the village tried going to root out the thieves; but they all lost to the cardmaster and returned while barely able to stand.
+だからあんたが頼りなんだ。\n悪いカードマスターに負けないでくれよ。,That's why you're our only hope. Please don't go losing to that evil cardmaster.
+ううぅ…。だめだ、まだ思い出しちまう…。\nん？ああ、カードマスターの人か。\nわざわざこんな辺鄙な村に助けに来てくれてありがとよ。,Uuh... No; I'm remembering it again... Hmm? Oh; are you a cardmaster? Thank you for all the way to our remote village to help.
+俺たち20人ぐらいでよ、\n盗賊退治のために、北の山にあるやつらのねぐらに襲撃をかけたんだ。\nところが向こうにいた紫髪のカードマスターがやばくてな、,We tried attacking the thieves' hideout at the northern mountain with around 20 people; but their purple-haired cardmaster was too much for us.
+ゾンビだ死神だっておっかないモンスターたちをどんどん出してくるんだ。\nでも、どのモンスターも美人でよ。\n俺たち訳も分からないまま、押さえつけられて、嬲られて…。,She summoned terrifying monsters like zombies and death reapers in big numbers. And all of them were such beauties too. We got pushed down and toyed with before we could even make sense of anything.
+くそお、あんなに憎らしい盗賊団だってのに、\n体は気持ちよくなっちまうのが腹が立つぜ。\nそのまま動けなくなるまで体力を奪われて、村に送り返されちまった。,Damn it! I'm so angry to myself for giving into the pleasure from such terrible thieves! They kept taking energy from us until we couldn't move before sending us back to the village.
+最後に「無駄な抵抗しないで貢ぎ続ければまたしてあげる」って\nささやかれてよ。くそお、あんなの味わちまったら…。俺、もう…。\nああ、ダメだ。しゃんとしねえと、村の危機だってのに。,At the end; the cardmaster whispered: "Stop with the futile resistance. I'll keep you company again if you continue giving me offerings." Damn it! After experiencing that once... Aaah... I'm about to lose myself. The safety of our village is at stake here; so I need to keep my head straight.
+兄ちゃん町の外から来た人だろ？\nふだん見ない顔だもんな。,Onii-chan; did you come from outside the village? I haven't seen you before.
+この町はなあ、金がいっぱい取れるんだぜ。すげえだろ。\n山に開けた穴から、いっぱい掘り出してんだ。,You can find lots of gold around here. Amazing; right? You can mine lots of it from the holes in the mountains.
+でもな。北の山に盗賊団が住みついてから、\nその金をちまちま奪われてんだ。いつの間にか盗まれていることも\nあれば、堂々と昼間っから盗っていくこともあるんだぜ。,However; thieves have settled on the northern mountain and they've been stealing the gold we've been finding. They've even started coming out in the broad daylight to take whatever they can from us.
+大人たちはこの間の討伐失敗以来、\nすっかりあいつらに逆らえなくなっちまっているみたいだしよ。\n情けねえったらねえよ。,We haven't been able resist at all ever since the adults failed in rooting them out. It's quite miserable.
+はぁ…。ここのところ稼ぎが少なくって嫌になっちゃう。\n盗賊騒ぎでこの村に来る人も減っちゃって、\nカモが全然いないのよねぇ・・・。,Sigh... Making money has been difficult lately. Travelers have been avoiding this town because of the thieves; so I haven't been able to find any easy targets.
 ん？なにあなた。村の人じゃないわね。\n旅商人かなにかかしら。,Hmmm? Hey; Onii-san. I haven't seen you before. Are you a traveler?
 ・・・。,...
 （ん、視線がきょろきょろしてる。\nおっぱい見ないようにしてるんだ…❤\nなんかチョロそうな男ね…❤）,(His eyes are wandering as he's trying to avoid staring at my breasts...❤ That's a telltale sign of an easy target.)
@@ -49,7 +49,7 @@ Place/WestTown,
 わわっ、もうそんなに急に離れないでよ。\nどうしたの？わたしのアクセサリー、見て行ってくれないの…❤,Woah! Why did you pull back all of a sudden? Are you going to leave before taking a look of my pendant?❤
 そういって女はアクセサリーの鎖をなんども小刻みに上下に引いてみせた。軽い振動に合わせて、胸がたぷんたぷんと揺れている。,After those words; the woman made small and quick tugs on the string; which made her breasts shake along with them.
 うっ・・・。,Uuuh...
-正直言って気になるが、怪しい女の人の相手をしている場合ではない。僕は盗賊を退治し、ひいては妹の治療法を見つけるためにこの村に来たのだ。,To be honest; I was curious to see more; but this wasn't the time and place for such suspicious women. I came here to root out the bandits and find a cure for my sister.
+正直言って気になるが、怪しい女の人の相手をしている場合ではない。僕は盗賊を退治し、ひいては妹の治療法を見つけるためにこの村に来たのだ。,To be honest; I was curious to see more; but this wasn't the time and place for such suspicious women. I came here to root out the thieves and find a cure for my sister.
 若干後ろ髪を惹かれながらも、僕は彼女に背を向け、そそくさとその場を後にしたのだった。,I turned my back to the woman and left her while overcome with slight regret.
 んふ❤どうしたのお兄さん。\nさっきは帰っちゃったのに、また戻ってきてくれたんだ❤,Mmmh❤ What is it; Onii-san? You left before; but now you're back here❤
 やっぱりぃ、これが気になっちゃった？くすくす❤,Did the curiosity end up getting the better of you? Ehehe❤
@@ -150,16 +150,16 @@ I only needed to push off them woman; but I wasn't able to figure that out with 
 彼女は胸をむにゅむにゅと揺らし、さっきまでのパイズリを思い出させる動きを僕に見せつけてきた。,The woman shook her breasts up and down in the air to make me recall how she had given me a boobjob a moment ago.
 僕はさっき射精したばかりだというのに、エロ過ぎる光景を前にまた前かがみになってしまう。,I couldn't help slouching with another erection because of how lewd that sight was even when I had ejaculated just now.
 ま、さすがに3回も貢ぎに来るほどバカじゃないわよね？\nそれじゃあねー。,But no one would be as stupid as to fall for the same trick three times; right? Then; bye.
-この街は金の産出で有名でな。\n金細工の技術も進んでいるんだ。,
-俺たちが作ったアクセサリーは、国中で人気があって、\nプレゼントにも喜ばれるぜ。\nあんたもひとつどうだい？,
-ん、あんたが持っているそのペンダント。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,
-ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nあんたのやつ相当な粗悪品だな。,
-え？いくらぐらいが妥当かって？\nうーん、50Gぐらいじゃねえかなぁ。\nそれでも買うやつがいるかどうか…。,
-ま、騙されたなら勉強代だと思うしかねえな。\n世の中悪い奴もいるから気を付けなよ。,
-ん、あんたが持っているそのペンダントと指輪。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,
-ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nそりゃ、相当な粗悪品だな。,
-その宝石も安い水晶だしよ。\nえ？いくらぐらいが妥当かって？\nうーん、どっちも50Gぐらいじゃねえかなぁ。,
-ん、あんたが持っているその指輪。\nお前さん、またパチモン掴まされたのか。\nその指輪も純金じゃなくてメッキだぜ。,
-忠告したばっかりなのに、あんたも学ばないねぇ。\n付いている宝石も安い水晶だしよ。\nこりゃまたかなりの粗悪品だな。,
-え？いくらぐらいが妥当かって？\nうーん、それも50Gぐらいじゃねえかなぁ。,
-あんた騙されやすいみたいだしよ。もう下手に買わない方がいいよ。\nちゃんとした店を探すまで、買い物は控えておきな。\nそうでないとお金がいくらあっても足りねえぜ。,
+この街は金の産出で有名でな。\n金細工の技術も進んでいるんだ。,This village is famous for its gold; and you can find many skilled goldsmiths around here.
+俺たちが作ったアクセサリーは、国中で人気があって、\nプレゼントにも喜ばれるぜ。\nあんたもひとつどうだい？,The accessories we make are popular across the country; and they make great gifts. Why don't you buy one too?
+ん、あんたが持っているそのペンダント。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant you've got... Haha. You got your hands on fakes. They aren't made of gold.
+ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nあんたのやつ相当な粗悪品だな。,Just try comparing it to one my goods. The color is off; right? It's a fake. The shape is quite bad too; so you got sold quite a poor product.
+え？いくらぐらいが妥当かって？\nうーん、50Gぐらいじゃねえかなぁ。\nそれでも買うやつがいるかどうか…。,Eh? How valuable do I think it is? Hmm. Maybe around 50G? But I doubt anyone would by it even at that.
+ま、騙されたなら勉強代だと思うしかねえな。\n世の中悪い奴もいるから気を付けなよ。,Well; if you got swindled; you can only take it as a learning experience. You should be careful because there are bad people like that.
+ん、あんたが持っているそのペンダントと指輪。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant and ring you've got... Haha. You got your hands on fakes. They aren't made of gold.
+ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nそりゃ、相当な粗悪品だな。,Just try comparing it to one my goods. The color is off; right? It's a fake. The shape is quite bad too; so you got sold quite a poor product.
+その宝石も安い水晶だしよ。\nえ？いくらぐらいが妥当かって？\nうーん、どっちも50Gぐらいじゃねえかなぁ。,That jewel is just a cheap crystal too. Eh? How valuable do I think they are? Maybe around 50G each?
+ん、あんたが持っているその指輪。\nお前さん、またパチモン掴まされたのか。\nその指輪も純金じゃなくてメッキだぜ。,Hmm? That ring you've got... You got swindled again. It's another fake. 
+忠告したばっかりなのに、あんたも学ばないねぇ。\n付いている宝石も安い水晶だしよ。\nこりゃまたかなりの粗悪品だな。,It seems my earlier warning went to deaf ears. That jewel is just a cheap crystal too. It's quite poor-quality item.
+え？いくらぐらいが妥当かって？\nうーん、それも50Gぐらいじゃねえかなぁ。, Eh? How much would I estimate for its value? That's probably around 50G too.
+あんた騙されやすいみたいだしよ。もう下手に買わない方がいいよ。\nちゃんとした店を探すまで、買い物は控えておきな。\nそうでないとお金がいくらあっても足りねえぜ。,Maybe you should avoid buying anything since you're getting swindled a lot. Hold onto your purse on until you've found a proper shop.
