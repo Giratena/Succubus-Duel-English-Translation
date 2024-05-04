@@ -1,11 +1,11 @@
 default
 村の男A,Village Boy A
-村の男A,Village Boy B
+村の男B,Village Boy B
 少年,Boy
 ❤若い女,Young Woman
-❤アクセサリー売りの女,Accessory Woman
-金細工職人,
-西の村,
+❤アクセサリー売りの女,Accessory Girl
+金細工職人,Goldsmith
+西の村,West Town
 Place/WestTown,
 情報収集,Investigate
 ショップ,Shop
@@ -152,14 +152,14 @@ I only needed to push off them woman; but I wasn't able to figure that out with 
 ま、さすがに3回も貢ぎに来るほどバカじゃないわよね？\nそれじゃあねー。,But no one would be as stupid as to fall for the same trick three times; right? Then; bye.
 この街は金の産出で有名でな。\n金細工の技術も進んでいるんだ。,This village is famous for its gold sources. It's also at the leading edge of goldsmithing techniques.
 俺たちが作ったアクセサリーは、国中で人気があって、\nプレゼントにも喜ばれるぜ。\nあんたもひとつどうだい？,The accessories made here are popular across the country and make great gifts. Why don't you buy one too?
-ん、あんたが持っているそのペンダント。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant... Haha. You got tricked, son. That's not made of real gold.
-ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nあんたのやつ相当な粗悪品だな。,Try comparing it to one the accessories I've made. The color is off, right? That's a fake. The craftwork isn't great either, so you got sold quite a poor product.
+ん、あんたが持っているそのペンダント。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant... Haha. You got tricked; son. That's not made of real gold.
+ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nあんたのやつ相当な粗悪品だな。,Try comparing it to one the accessories I've made. The color is off; right? That's a fake. The craftwork isn't great either; so you got sold a poor product.
 え？いくらぐらいが妥当かって？\nうーん、50Gぐらいじゃねえかなぁ。\nそれでも買うやつがいるかどうか…。,Eh? How much would I estimate for its value? Hmm... Around 50G? But it might be challenging to find a buyer even at that price.
-ま、騙されたなら勉強代だと思うしかねえな。\n世の中悪い奴もいるから気を付けなよ。,Well, you should take this as a learning experience. Be careful because there are swindlers like that around too.
-ん、あんたが持っているそのペンダントと指輪。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant and ring... Haha. You got tricked, son. Those aren't made of real gold.
-ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nそりゃ、相当な粗悪品だな。,Try comparing them to one the accessories I've made. The color is off, right? That's a fake. The craftwork isn't great either, so you got sold quite a poor products.
+ま、騙されたなら勉強代だと思うしかねえな。\n世の中悪い奴もいるから気を付けなよ。,Well; you should take this as a learning experience. Be careful because there are swindlers like that around too.
+ん、あんたが持っているそのペンダントと指輪。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant and ring... Haha. You got tricked; son. Those aren't made of real gold.
+ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nそりゃ、相当な粗悪品だな。,Try comparing them to one the accessories I've made. The color is off; right? That's a fake. The craftwork isn't great either; so you got sold a poor products.
 その宝石も安い水晶だしよ。\nえ？いくらぐらいが妥当かって？\nうーん、どっちも50Gぐらいじゃねえかなぁ。,That jewel is just a cheap crystal as well. Eh? How much would I estimate for their value? Hmm... Around 50G each; I think.
-ん、あんたが持っているその指輪。\nお前さん、またパチモン掴まされたのか。\nその指輪も純金じゃなくてメッキだぜ。,Hmm? That ring... You got tricked again, son. That's another fake. 
+ん、あんたが持っているその指輪。\nお前さん、またパチモン掴まされたのか。\nその指輪も純金じゃなくてメッキだぜ。,Hmm? That ring... You got tricked again; son. That's another fake. 
 忠告したばっかりなのに、あんたも学ばないねぇ。\n付いている宝石も安い水晶だしよ。\nこりゃまたかなりの粗悪品だな。,It seems like my earlier warning went to deaf ears. That jewel is just a cheap crystal too. You got sold another poor-quality item.
 え？いくらぐらいが妥当かって？\nうーん、それも50Gぐらいじゃねえかなぁ。,Eh? How much would I estimate for its value? Hmm... That's probably only around 50G too.
-あんた騙されやすいみたいだしよ。もう下手に買わない方がいいよ。\nちゃんとした店を探すまで、買い物は控えておきな。\nそうでないとお金がいくらあっても足りねえぜ。,You keep getting tricked; so maybe it would be for the better you to stop buying things outside of proper shops? Otherwise; you might lose all your gold.
+あんた騙されやすいみたいだしよ。もう下手に買わない方がいいよ。\nちゃんとした店を探すまで、買い物は控えておきな。\nそうでないとお金がいくらあっても足りねえぜ。,You keep getting tricked; so maybe it would be for the better to stop buying things outside of proper shops? You might lose all your gold otherwise.
