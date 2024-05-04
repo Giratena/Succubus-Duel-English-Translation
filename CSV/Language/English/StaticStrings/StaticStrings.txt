@@ -91,3 +91,29 @@ Claw,
 カードを選択してください。,Please select a card.
 コインの結果は表,The coin result is heads.
 コインの結果は裏,The coin result is tails.
+はい,Yes
+いいえ,No
+開く,Open
+閉じる,Close
+次へ,To Next
+戻る,Back
+保存,Set
+昇順,Ascending
+降順,Decending
+新しいデッキ,New Deck
+下級モンスター,Lesser Monster
+上級モンスター,Advanced Monster
+モンスター,Monster
+魔法,Magic
+罠,Trap
+残数なし,No remaining numbers
+編集上限,Edit Limit exceeded
+編集する,Edit Deck
+破棄,Discard
+編集内容が保存されていません。,Your edits to this card deck have not been saved.
+使用できないデッキを装備しています。,You are equipping a deck that cannot be used.
+絞り込み,Optimize
+並び替え,Reorganize
+保存しました。,Save Deck
+タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. /nThe deck you are currently using has a boarder around it.
+デッキ名を編集します。,Change the deck name.
