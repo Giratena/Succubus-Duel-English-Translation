@@ -16,18 +16,18 @@ Place/WestTown,
 セーブ,Save
 回想,Reminisce
 次のステージへ,Next Stage
-師匠からもらった情報をもとに、僕は盗賊団が荒らしているという村の近くまで来ていた。,I arrived at the town where thieves were wreaking havoc according to my master's information.
-ここで情報収集をして、盗賊団のアジトを見つけ出そう。そして、「ネクロ」という名前のカードマスターに、研究していたサキュバス化を治す方法について尋ねるのだ。,I need to gather information and find their hideout. I also need to look for Cardmaster Necro; who has researched succubus transformation; and ask her if there's a cure for it.
+師匠からもらった情報をもとに、僕は盗賊団が荒らしているという村の近くまで来ていた。,I arrived at the town where thieves were wreaking havoc along with the information my master gave me.
+ここで情報収集をして、盗賊団のアジトを見つけ出そう。そして、「ネクロ」という名前のカードマスターに、研究していたサキュバス化を治す方法について尋ねるのだ。,I should gather information and find their hideout I also need to look for Necro; a cardmaster who has researched succubus transformation; and ask her if there's a cure for it.
 次のステージへすすめるようになりました。,You can now advance to the next stage.
-お、あんたが依頼を受けてくれたカードマスターか？\n頼むぜ、盗賊たちのせいで、この村もだいぶやべえんだ。,Oh? Are you a cardmaster who took our request? Please root out the thieves for us. The town is in terrible shape because of them.
+お、あんたが依頼を受けてくれたカードマスターか？\n頼むぜ、盗賊たちのせいで、この村もだいぶやべえんだ。,Oh? Are you a cardmaster who took our request? Please take out the thieves. The town is in terrible shape because of them.
 金目のものはもちろん、食い物も奪っていっちまう。\n普通の盗賊なら俺たちで追い返せないこともねえけど、\n相手には強いカードマスターが味方してるんだよ。,They're stealing our valuables and food. We could handle common thieves alone;  but they've got a strong cardmaster on their side.
-盗賊退治に行った村の腕自慢たちが、みんなカードマスターに負けて、\n足腰立たない骨抜きにされて帰ってきたって話だぜ。,Our strong folk tried to take out the thieves; but they all lost to that cardmaster. They got drained to the point where they could barely walk when they returned.
-だからあんたが頼りなんだ。\n悪いカードマスターに負けないでくれよ。,That's why we sent out the request. Please don't go losing to that bad cardmaster.
-ううぅ…。だめだ、まだ思い出しちまう…。\nん？ああ、カードマスターの人か。\nわざわざこんな辺鄙な村に助けに来てくれてありがとよ。,Uuh... I'm remembering it again... Oh; are you a cardmaster? Thank you for coming all the way to our remote village to help.
+盗賊退治に行った村の腕自慢たちが、みんなカードマスターに負けて、\n足腰立たない骨抜きにされて帰ってきたって話だぜ。,Our strong folk tried to take them out; but they all lost to that cardmaster. They got drained to the point where they could barely walk.
+だからあんたが頼りなんだ。\n悪いカードマスターに負けないでくれよ。,That's why we sent out the request. Please don't lose to her.
+ううぅ…。だめだ、まだ思い出しちまう…。\nん？ああ、カードマスターの人か。\nわざわざこんな辺鄙な村に助けに来てくれてありがとよ。,Uuh... I'm remembering it again... Oh; are you a cardmaster? Thank you for coming to our remote village to help.
 俺たち20人ぐらいでよ、\n盗賊退治のために、北の山にあるやつらのねぐらに襲撃をかけたんだ。\nところが向こうにいた紫髪のカードマスターがやばくてな、,We had about 20 people when we tried attacking the thieves' hideout at the northern mountain; but their cardmaster with purple hair was too much for us.
-ゾンビだ死神だっておっかないモンスターたちをどんどん出してくるんだ。\nでも、どのモンスターも美人でよ。\n俺たち訳も分からないまま、押さえつけられて、嬲られて…。,She summoned terrifying monsters like zombies and death reapers on us. And every single one of them was a beautiful woman; too. We barely managed to do anything before we were pushed down and toyed by them...
-くそお、あんなに憎らしい盗賊団だってのに、\n体は気持ちよくなっちまうのが腹が立つぜ。\nそのまま動けなくなるまで体力を奪われて、村に送り返されちまった。,Damn it! I'm mad at myself for giving in to the pleasure when the other party is a nasty thief! She drained our energy until we couldn't move before sending us packing.
-最後に「無駄な抵抗しないで貢ぎ続ければまたしてあげる」って\nささやかれてよ。くそお、あんなの味わちまったら…。俺、もう…。\nああ、ダメだ。しゃんとしねえと、村の危機だってのに。,And at the very end; she whispered: "Stop the futile resistance. I can keep you company again if you continue giving me offerings." Damn it! After experiencing all the things she did... I'm already about to lose myself... But I need to keep my head straight since the safety of our village is at stake.
+ゾンビだ死神だっておっかないモンスターたちをどんどん出してくるんだ。\nでも、どのモンスターも美人でよ。\n俺たち訳も分からないまま、押さえつけられて、嬲られて…。,She summoned terrifying monsters like zombies and death reapers on us. And every single one of them was a beautiful woman too. We could barely do anything before we got pushed down and toyed by them...
+くそお、あんなに憎らしい盗賊団だってのに、\n体は気持ちよくなっちまうのが腹が立つぜ。\nそのまま動けなくなるまで体力を奪われて、村に送り返されちまった。,Damn it! I'm mad at myself for giving in to the pleasure when the other party is a nasty thief! She drained our energy until we couldn't move and then sent us packing.
+最後に「無駄な抵抗しないで貢ぎ続ければまたしてあげる」って\nささやかれてよ。くそお、あんなの味わちまったら…。俺、もう…。\nああ、ダメだ。しゃんとしねえと、村の危機だってのに。,And at the end; she whispered: "Stop the futile resistance. I can keep you company again if you continue giving me offerings." Damn it! After experiencing all the things she did... I'm already about to lose myself... But I need to keep straight for the safety of our village.
 兄ちゃん町の外から来た人だろ？\nふだん見ない顔だもんな。,Onii-chan; did you come from outside the village? I haven't seen you before.
 この町はなあ、金がいっぱい取れるんだぜ。すげえだろ。\n山に開けた穴から、いっぱい掘り出してんだ。,Our village mines a lot of gold. Amazing; right? There are huge veins in the mountains around here.
 でもな。北の山に盗賊団が住みついてから、\nその金をちまちま奪われてんだ。いつの間にか盗まれていることも\nあれば、堂々と昼間っから盗っていくこともあるんだぜ。,But we've been losing gold to a band of thieves after they took a base at the northern mountain. And now; they've even started stealing anything they can in the broad daylight.
@@ -102,7 +102,6 @@ Place/WestTown,
 手を振り払ってその場を離れた,Shook off her hand and left.
 きゃ、もう乱暴ね。\n女の子の誘いを断るなんて野暮よ？\nほらぁ、見てぇ❤胸の谷間❤ここを使ってぇ、わたしと楽しいことしよぉ❤,Kyah! Geez; you're so rough. It's bad manners to refuse a girl's invitation; you know? Just look at my breasts❤ You would have such a good time if you let me use them on you❤
 僕は彼女の手を振り払い、背を向けて歩き出した。後ろで彼女がセクシーなポーズを見せつけているようだが、僕は見ないように必死に理性に言い聞かせ、なんとかその場を後にしたのだった。,I shook off the woman's hand and turned my back to her. It sounded like she was striking a sexy pose behind me; but I resisted the urge to turn around and walked off.
-I managed to keep my head straight and leave the place without turning around.
 くすくす❤結局戻ってきちゃったんだ❤\nおちんちん、完全に勃起しちゃったもんね❤\nこうなったら、男のよわーい理性じゃ我慢できないよねー❤,Ehehe❤ You couldn't help coming back❤ Your penis is in full boner too❤ There's no way men and their weak minds can resist pleasure once they get like this❤
 そう言って彼女は、僕の股間をズボンの上から人差し指でくるくるとなでる。,After saying that; used her forefinger to draw a circle on my bulging groin.
 さっきまでの会話で完全に勃起してしまっていたせいで、ただ指でなでられるだけで、うっとりするような快感を感じてしまう。,Since I was already in full boner because of what she said before; a single finger was enough to entrance me with pleasure.
