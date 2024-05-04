@@ -44,6 +44,7 @@ default
 &&行為はげしめSE,nukiSasi.ogg
 &&手コキSE,nyurrupon01.ogg
 &&おっぱいSE,Oppai01.mp3
+&&パイズリSE,Paizuri_piero1.ogg
 &&ノックSE,DoorKnock04_Onjin.mp3,
 &&ドア閉まるSE,DoorClose_Onjin.mp3
 &&ドアSE,Door_Onjin.mp3
@@ -88,7 +89,9 @@ default
 &&文字2SE,
 &&文字3SE,
 &&文字4SE,
-
+&&ドローSE,DrawSound_Body Armor 7.ogg
+&&エラーSE,Buzzer01-2.ogg
+&&セットSE,SetSound_Click sounds 40.ogg
 
 //背景
 &&タイトル背景,dlfanfanokyu03n.jpg
@@ -154,6 +157,17 @@ default
 &&宿屋アイコン,UI_Icon_Home.png,,
 &&クエストアイコン,UI_Icon_Flag.png
 &&場所移動アイコン,UI_Icon_ArrowRight.png
+&&閉じるアイコン,nc156719.png
+&&UI右矢印,UI_Icon_RightArrow.png
+&&UI左矢印,UI_Icon_LeftArrow.png
+&&UIスキップ右矢印,UI_Icon_Skip.png
+&&UIスキップ左矢印,UI_Icon_SkipBack.png
+&&ボタン背景青,UI_Button_Blue.png
+&&ボタン背景赤,UI_Button_Red.png
+&&ボタン背景緑,UI_Button_Green.png
+&&ボタン背景黄,UI_Button_Yellow.png
+&&ボタン背景灰,UI_Button_Grey.png
+&&選択肢背景,select_button_hover.png
 
 //エフェクト
 &&セクシーエフェクト,Sexy01
@@ -192,13 +206,14 @@ default
 &&爆破エフェクト,Bomb01
 &&時計エフェクト,Chrono
 &&矢の雨エフェクト,ArrawRain
-&&ハートスタンプエフェクト,HeartStamp
 &&パワーアップエフェクト,PowerUpEffect
 &&パワーダウンエフェクト,PowerDownEffect
 &&シンプル魔法エフェクト,Circle
 &&魔法攻撃エフェクト,MagicAttack
 &&叩きつぶしエフェクト,ImpactAttack01
 &&ひっかきエフェクト,Claw
+//後編で使用するので使用不可
+&&ハートスタンプエフェクト,HeartStamp
 
 //画像
 &&精液画像,Semen.png
@@ -239,21 +254,49 @@ default
 &&カード生成ボタン,Card Generation
 &&キャンセルボタン,Cancel
 
-&&バトル終了メッセージ,Battle End!
-&&勝利メッセージ,Player Wins!!
-&&敗北メッセージ,Opponent Player Wins!!
-&&手札溢れメッセージ,The maximum number of cards in hand has been exceeded.
-&&発動確認メッセージ,Would you like to activate this card's effect?
-&&発動確認メッセージイエス,Activation Effect
-&&発動確認メッセージノー,Cancel
-&&連鎖発動確認メッセージ,Do you want to chain activate this card?
-&&カード生成回数メッセージ,The number of times this card can be generated is {x}.
-&&強制攻撃メッセージ,{A} attacks on its own due to abnormal state!
-&&身代わりメッセージ,{A} stands in to protect {B}!
-&&ゾーン占領メッセージ,Your opponent has captured one of your monster zones!
-&&コントロール溢れメッセージ,{A}'s control changed; but was destroyed because the field was full!
-&&コントロール奪取メッセージ,{A}'s control was taken away!
-&&コントロールスワップメッセージ,The control of {A} and {B} switched!
+&&デッキ編集イエス,はい
+&&デッキ編集ノー,いいえ
+&&デッキ編集キャンセル,キャンセル
+&&デッキ編集開く,開く
+&&デッキ編集閉じる,閉じる
+&&デッキ編集次へ,次へ
+&&デッキ編集戻る,戻る
+&&デッキ編集セーブ,保存
+&&デッキ編集昇順,昇順
+&&デッキ編集降順,降順
+&&デッキ編集デフォルト名,新しいデッキ
+&&デッキ編集下級モンスター,下級モンスター:
+&&デッキ編集上級モンスター,上級モンスター:
+&&デッキ編集モンスター,モンスター:
+&&デッキ編集魔法,魔法:
+&&デッキ編集罠,罠:
+&&デッキ編集残数なし,残数なし
+&&デッキ編集編集上限,編集上限
+&&デッキ編集編集ボタン,編集する
+&&デッキ編集破棄,破棄
+&&デッキ編集確認,編集内容が保存されていません。
+&&デッキ編集警告,使用できないデッキを装備しています。
+&&デッキ編集絞り込み,絞り込み
+&&デッキ編集並び替え,並び替え
+&&デッキ編集保存成功,保存しました。
+&&デッキ編集選択チュートリアル,タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。
+&&デッキ編集名前変更チュートリアル,デッキ名を編集します。
+
+&&バトル終了メッセージ,バトル終了！
+&&勝利メッセージ,プレイヤーの勝利！！
+&&敗北メッセージ,相手プレイヤーの勝利！！
+&&手札溢れメッセージ,手札上限枚数をオーバーしています。
+&&発動確認メッセージ,カードの効果を発動しますか？
+&&発動確認メッセージイエス,効果発動
+&&発動確認メッセージノー,キャンセル
+&&連鎖発動確認メッセージ,カードを連鎖発動しますか？
+&&カード生成回数メッセージ,カードの生成回数は残り{x}回です。
+&&強制攻撃メッセージ,{A}が状態異常のせいで勝手に攻撃をしてしまう！
+&&身代わりメッセージ,{A}が間に立って{B}を守っている！
+&&ゾーン占領メッセージ,相手に自分のモンスターゾーンが１か所占領された！
+&&コントロール溢れメッセージ,{A}のコントロールが変更されたがフィールドがいっぱいのため破壊された！
+&&コントロール奪取メッセージ,{A}のコントロールが奪われた！
+&&コントロールスワップメッセージ,{A}と{B}のコントロールが入れ替わった！
 
 &&LoseMoneyMessage,Lost {x}G.
 &&GetMoneyMessage,Obtained {x}G.
