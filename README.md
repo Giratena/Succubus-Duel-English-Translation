@@ -26,7 +26,7 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 
 # How to put the translation into your game
 - Download the repo as a zip then paste everything into your game folder and you're done!
-- Alternatively grab a stable copy from the releases tab (when there is one aha)
+- Alternatively, grab a stable copy from the releases tab!
 
  # How to support:
  - Support my work on Patreon! https://www.patreon.com/Giratena
