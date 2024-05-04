@@ -2,11 +2,11 @@ default
 フレア,
 F9_paizuriAnime,
 Sexy01,
-わたしはフレア！炎使いのカードマスターよ！あなたもE級のカードマスター？,
-わたしの使うカードって周りにも被害を出しちゃうから\n普段のクエストだとなかなか苦労しちゃうの。でも大会なら別！,
-さっそくバトルしましょう！わたしの爆炎で、絶対勝って見せるわ！,
-わたしはフレア！炎使いのカードマスターよ！,
-その指輪の色、わたしより格上みたいね。\nちょうどいいわ！相手にとって不足なし。バトルしましょう！,
+わたしはフレア！炎使いのカードマスターよ！あなたもE級のカードマスター？,I'm Flare! A flame-user cardmaster! Are you also E-rank?
+わたしの使うカードって周りにも被害を出しちゃうから\n普段のクエストだとなかなか苦労しちゃうの。でも大会なら別！,My cards cause damage to the surroundings; so they're quite difficult to use in normal quests; but fights are a different story!
+さっそくバトルしましょう！わたしの爆炎で、絶対勝って見せるわ！,Now; let's battle! I'll show you absolute victory with my explosions!
+わたしはフレア！炎使いのカードマスターよ！,I'm Flare! A flame-user cardmaster!
+その指輪の色、わたしより格上みたいね。\nちょうどいいわ！相手にとって不足なし。バトルしましょう！,It looks like you're higher rank than me by the color of your ring. but I don't mind that! Let's battle!
 また会ったわね。同じEランク同士、今日もバトルしましょう！,
 この間は負けたけれど、今度は負けないわ。行くわよ！,
 この間と同じようにまた私が勝つんだから！さあ行くわよ！,
@@ -18,7 +18,7 @@ Sexy01,
 また会ったわね。\nガンガンバトルしてお互いの実力を上げていきましょう！,
 あなたの方がランクが上なだけあって、\nやっぱり強いけれど…。\n今回は負けないわよ！,
 ランクが上でも関係ない、\nこの間と同じようにまたわたしが勝つんだから！\nさあバトルよ！,
-ううっ、強い…。\nでもわたし諦めない、次やるときは勝つんだから！\nまたやりましょう！,
+ううっ、強い…。\nでもわたし諦めない、次やるときは勝つんだから！\nまたやりましょう！,Uuh... So strong. But I'm not giving up! I'll win next time! Mark my words!
 ランクが上の男でも射精しちゃうわたしのカラダ、\nアンタには刺激が強かったかもしれないわね❤\nふふ、エナジーごちそうさま❤,
 へへん、どう？わたしの炎デッキの力、すごいでしょ！,
 楽しいバトルだったわ。またいつでも再戦待ってるわね。,
@@ -26,46 +26,46 @@ Sexy01,
 エナジーごちそうさま❤ランクが上でも、\nわたしの体で精液どぴゅどぴゅしちゃうのは変わらなかったわね❤,
 やったぁ！上のランク相手でも勝てた！\nわたしの炎デッキの力、すごいでしょ！,
 またいつでも再戦待ってるわね！,
-あなたのターンからね。,
-わたしのターンからね。,
-ドロー！,
-ドローするわ。,
-行くわよ、{使用カード}を上級召喚！,
-{使用カード}を召喚。,
+あなたのターンからね。,You go first.
+わたしのターンからね。,I go first.
+ドロー！,Draw!
+ドローするわ。,I draw.
+行くわよ、{使用カード}を上級召喚！,Here I go; I summon {使用カード}!
+{使用カード}を召喚。,Summon {使用カード}.
 ううっ、あうう・・・❤,
 あは、アンタ復活したのにチンポギンギンじゃない❤\n自分から負けちゃっただけあって\n理性がゴミみたいに弱っちいのね❤,
 こんな風に罵られてもうっとりした顔のままだし、重症だわ❤\n何もできないでくの坊のにはさっさと退場願うとしましょう。\nくすくす❤,
-さらにもう1枚発動！,
+さらにもう1枚発動！,And here's one more activation!
 墓地へ送られたとき{使用カード}の効果発動！すべてのモンスターに1000ポイントダメージ！,
-爆発の時間よ！すべてのモンスターに1000ポイントダメージ！,
-墓地へ送られたとき{使用カード}の効果発動！デッキから植物モンスターを呼び出す！,
-炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローし味方全体を200ポイント回復！,
+爆発の時間よ！すべてのモンスターに1000ポイントダメージ！,Time for an explosion! 1000 points of damage to all monsters!
+墓地へ送られたとき{使用カード}の効果発動！デッキから植物モンスターを呼び出す！,{使用カード}'s effect triggers when it's sent to graveyard! I summon a plant monster card from my deck!
+炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローし味方全体を200ポイント回復！,{使用カード}'s effect triggers from fire damage! I draw a card and recover 200HP to all my monsters!
 炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローしてさらに味方を回復させる！,
 効果ダメージで破壊されたとき{使用カード}の効果発動！自身を墓地から復活させる！,
 戦闘で破壊されたとき{使用カード}の効果発動！「ラヴァガール」を特殊召喚！,
-炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,
+炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,{使用カード}'s effect triggers from fire damage! It's  HP and ATK increases by 300 points!
 炎を食って成長しなさい！{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,
-召喚に成功したとき{使用カード}の効果発動！ラヴァガールを特殊召喚！,
+召喚に成功したとき{使用カード}の効果発動！ラヴァガールを特殊召喚！,{使用カード}'s effect triggers on summon! I special summon Lava Girl!
 攻撃時に{使用カード}のモンスター効果発動！すべてのモンスターに100ポイントダメージを与えるわ！,
 魔法カード発動！{使用カード}！これを付与したモンスターが戦闘破壊されたとき2ドローするわ.,
 魔法カード発動！{使用カード}！すべてのモンスターに400ポイントダメージよ！,
-どんどん吹っ飛ばすわ。魔法カード、{使用カード}を発動！,
-ライフを500払い、{使用カード}を発動！表側表示の魔法トラップカードを1枚破壊する！,
+どんどん吹っ飛ばすわ。魔法カード、{使用カード}を発動！,I'll blow you away. Magic Card {使用カード} activate!
+ライフを500払い、{使用カード}を発動！表側表示の魔法トラップカードを1枚破壊する！,I pay 500 LP to activate {使用カード} and destroy a face-up trap or magic card!
 ライフを1500払い、{使用カード}を発動！植物カードを破壊して炎のモンスターを2体呼び出す！,
 さらにその後、自分フィールド上のすべてのモンスターは600ポイントダメージを受けるわ！,
 永続魔法{使用カード}を発動！わたしのターン終了時ごとにすべてのモンスターに100ポイントダメージを与えるわ！,
-永続魔法{使用カード}を発動！すべてのモンスターに100ポイントの効果ダメージを毎ターン与えるわ！,
+永続魔法{使用カード}を発動！すべてのモンスターに100ポイントの効果ダメージを毎ターン与えるわ！,I active Permanent Magic {使用カード} and deal 100 points of damage to all monsters!
 装備魔法カード発動！{使用カード}！,
 魔法カードを発動するわ！{使用カード}！,
 トラップカードを発動！{使用カード}！,
 カードをセット。,
 カードを伏せる。,
-攻撃するわ！{防御カード}にアタック！,
-バトルよ！{使用カード}で{防御カード}を攻撃！,
+攻撃するわ！{防御カード}にアタック！,I attack! {防御カード} is my target!
+バトルよ！{使用カード}で{防御カード}を攻撃！,Let's battle! I attack {防御カード} with {使用カード}!
 むむ、手札が悪いわね。ターンエンド。,
 やれることがないわね。くっ、ターンエンド。,
-ターンを終了よ。,
-ターンエンドよ。,
+ターンを終了よ。,I end my turn.
+ターンエンドよ。,End turn.
 これで終わりね。ターンエンド。,
 む、攻撃を防いでくるか…。,
 ねえ、アンタもわたしの胸が気になる？前はもっとぺったんこだったのに最近急に大きくなったのよ、これ。,
@@ -80,29 +80,29 @@ Sexy01,
 谷間のボタンを外してっと…。\nアンタのチンポ、パイズリで気持ちよくしてあげる❤,
 見て？丸ごと飲み込んじゃったわ❤\nおっぱいに完全に埋もれてチンポが見えない❤\nなんだかこうやって捕まえると優越感があるわよね♪,
 おっぱいをズリズリ動かして、\n足腰立たなくなるまで気持ちよくしてあげる❤\n覚悟しなさい。ふふふ❤,
-膝でグリグリされて気持ちいいの？ふふふ、声出しちゃってみっともないわね。,
-わたしの美脚でさっさとイかせてあげる。されるがまま喘いでていいわよ。変態❤,
-足でふみつけてしごいてあげるわ。,
-こんなふうに前後にスリスリされるのが気持ちいいんでしょ？\n女に見下ろされながら足に出しちゃいなさい。くすくす❤,
+膝でグリグリされて気持ちいいの？ふふふ、声出しちゃってみっともないわね。,Does it feel good when I grind you with my knee? Ahaha! Look how miserable you're moaning.
+わたしの美脚でさっさとイかせてあげる。されるがまま喘いでていいわよ。変態❤,I'll make you cum to my beautiful legs. Go ahead and helplessly moan while I do. You pervert❤
+足でふみつけてしごいてあげるわ。,I'll trample and grind you under my foot.
+こんなふうに前後にスリスリされるのが気持ちいいんでしょ？\n女に見下ろされながら足に出しちゃいなさい。くすくす❤,It feels good when I move back on forth like this; right? Cum to my foot while I'm looking down at you. Ahaha❤
 ふとももの間にチンポを入れて気持ちよくしてあげる。,
 んふ、この姿勢だとおっぱいがアンタの胸板にあたっちゃうわね❤\nむにゅうってつぶれて、視線が釘付けかしら？,
 おっぱいを馬鹿みたいに見ている間に、\n腰を振ってふとももでチンポをしごいてあげる❤\nさっさと射精しちゃいなさい❤,
 あれあれー？わたしより上のランクのくせに、足で踏まれてチンポ固くなっているんだけど？,
 ランクが上がってもチンポ踏まれちゃえば関係ないか。足でぐりぐりチンポいじめてあげるから、早く降参しちゃいなさい。ふふふ❤,
-両足でチンポ挟んで足コキしてあげるわ。,
-けっこう野外を走り回っているから、足の動きには自信があるのよ。しっかりチンポ捕まえてシコシコ気持ちよくしてあげる。ほらほらほら！,
-ん？どうしたのかしら。\nわたしのそばに来て、そんな媚びるような目をしちゃって…。\nえ、もしかしてわたしに気持ちいいことしてほしいの？,
-あは、本当にそうなんだ❤\nまだバトル中なのに敵に攻撃をねだるなんて\nわたしのセクシーな体に脳を焼かれちゃったかしら❤,
-どうする？胸でしてほしい？それとも足で踏んでほしい？\nアンタがどうやってやられたいか教えてくれれば、\nしてあげてもいいわよ❤,
-胸で挟んでほしい,
-足で踏んでほしい,
-なんでも,
+両足でチンポ挟んで足コキしてあげるわ。,I'll grab your penis between my feet and give you a footjob.
+けっこう野外を走り回っているから、足の動きには自信があるのよ。しっかりチンポ捕まえてシコシコ気持ちよくしてあげる。ほらほらほら！,I'm confident in my leg muscles since I run around the outskirts often. I'll tightly squeeze and stroke your penis with my feet. Like this!
+ん？どうしたのかしら。\nわたしのそばに来て、そんな媚びるような目をしちゃって…。\nえ、もしかしてわたしに気持ちいいことしてほしいの？,Hmm? What's this? You came to me with such fawning eyes... Eh? Could it be that you want me to make you feel good?
+あは、本当にそうなんだ❤\nまだバトル中なのに敵に攻撃をねだるなんて\nわたしのセクシーな体に脳を焼かれちゃったかしら❤,Ahaha. It looks like that's really what you want❤ To think that you would beg your enemy to attack you in the middle of a battle... Did the sight of my sexy body fry your brain or something?❤
+どうする？胸でしてほしい？それとも足で踏んでほしい？\nアンタがどうやってやられたいか教えてくれれば、\nしてあげてもいいわよ❤,Well? Do you want it with my breasts? Or maybe you want me to get trampled under my feet? Tell me how you want it and I'll do so❤
+胸で挟んでほしい,I want it with your breasts
+足で踏んでほしい,I want it with your feet
+なんでも,I want it with everything
 そう、胸でしてほしいんだ❤\nみんなこの胸が大好きよね。最近急に大きくなったのだけれど、\n大きくなってから勝率が段違いなの❤,
 パツンパツンに張った服の中に、\nアンタのチンポを入れて気持ちよくしてあげる❤\nわたしのパイズリ、たっぷり楽しみなさい❤,
-へぇ、足で踏んでほしいんだ❤\nおっぱいに夢中になっちゃう男の子ばかりなのに、\nアンタは変わった趣味してるのね❤,
-いいわよ❤マゾなアンタをたっぷり気持ちよくしてあげる❤\n足コキだってけっこううまいんだから、\nすぐに射精させてみせるわ❤,
+へぇ、足で踏んでほしいんだ❤\nおっぱいに夢中になっちゃう男の子ばかりなのに、\nアンタは変わった趣味してるのね❤,Oh? You want me to trample you?❤ You've got some weird tastes since boys usually go crazy over breasts. 
+いいわよ❤マゾなアンタをたっぷり気持ちよくしてあげる❤\n足コキだってけっこううまいんだから、\nすぐに射精させてみせるわ❤,Fine❤ I'll make you feel good; you masochist❤ I'm quite skilled in footjobs; so I'm sure I can make you cum in no time❤
 くすくす❤おっぱいでズリズリってしてあげたら、\nとっても情けない顔で射精しちゃったわね❤\n谷間にこんなに出してスケベなんだから❤,
-脚でいじめてあげたら、アヘアへ言いながら出しちゃったわ❤\nわたしにバカにされながらいじめられて、気持ちよかったんだ❤\nマゾなモンスターね。くすくす❤,
+脚でいじめてあげたら、アヘアへ言いながら出しちゃったわ❤\nわたしにバカにされながらいじめられて、気持ちよかったんだ❤\nマゾなモンスターね。くすくす❤,Getting trampled made you cum and moan so hard❤ Did it feel that good when I made fun of you and toyed you with my foot? What a masochistic monsters❤ Ahahaha❤
 ……っ！❤,
 もしかしてアンタ、またわたしでオナニーしちゃうの？前回それで負けてるくせに、学習能力ないのかしら❤,
 あぁ それとも、"わたしのおっぱいには勝てない"ってことを学習しちゃったの？ふふ❤,
@@ -135,19 +135,19 @@ Sexy01,
 思いっきりかけていいわよ、精子ぶちまけて負けちゃえ❤,
 あ、うっ、うぅ…っ❤,
 あーあー、わたしに促されるままイっちゃって❤気持ちよかったかしら？うふふ❤,
-あ…、あぅ…❤,
-あらあら モンスターくん？敵マスターの前でチンポしごき始めちゃって、どうしたのかしら。,
-わたしの体がえっちすぎて、理性が溶けちゃった？まったく、今はバトル中なのよ？❤,
-うぅ…❤,
-うふふ、君たちっていつもそうね❤立派な剣術や拳、魔法を持っているのに、敵の女の子がえっちだとすぐに惑わされちゃう❤,
-バトル中に簡単にチンポおっきくさせられちゃうし、弱点がわかりやすすぎなのよ❤,
-ほら、今はわたしのおっぱいに釘付けなんでしょう？❤,
-あ、あぁ…っ❤,
-持っている能力は手強くてもイかせちゃえばかんたんに倒せちゃうし、それどころか 体をアピールするだけでも興奮して自分から追い込まれる❤,
-マスターだろうとモンスターだろうと、男がこんなにちょろいなんて もっと早くから知っておけばよかったわ❤,
-さぁ、君が虜になってるおっきなおっぱい見せつけてあげるから、エナジー自分で吐き出して負けちゃいなさい？ほら、イっちゃえ❤,
-ううぅ、あ…っ、うあ…っ❤,
-こんなにどぴゅどぴゅ出しちゃって❤チンポが付いてるってだけで、例え上級モンスターだとしても怖くないわね❤,
+あ…、あぅ…❤,Ah... Aaah...❤
+あらあら モンスターくん？敵マスターの前でチンポしごき始めちゃって、どうしたのかしら。,Oh my. Mr. Monster? Why did you suddenly start stroking your penis in front of your master's opponent?
+わたしの体がえっちすぎて、理性が溶けちゃった？まったく、今はバトル中なのよ？❤,Is my body so overwhelmingly lewd that it made your mind melt? Good grief. We're in the middle of a battle; you know?❤
+うぅ…❤,Uuh...❤
+うふふ、君たちっていつもそうね❤立派な剣術や拳、魔法を持っているのに、敵の女の子がえっちだとすぐに惑わされちゃう❤,Ahaha. You men are always like this❤ No matter how skilled you are with swords; fists; or magic; you can't help getting charmed instantly when facing a sexy girl as an opponent❤
+バトル中に簡単にチンポおっきくさせられちゃうし、弱点がわかりやすすぎなのよ❤,Your weaknesses can be read like an open book when you get boners during battle❤
+ほら、今はわたしのおっぱいに釘付けなんでしょう？❤,Right now; your eyes are locked on my breasts; right?
+あ、あぁ…っ❤,Ah... Aaah...❤
+持っている能力は手強くてもイかせちゃえばかんたんに倒せちゃうし、それどころか 体をアピールするだけでも興奮して自分から追い込まれる❤,Even if you're strong; I can easily defeat you by making you cum. ###
+マスターだろうとモンスターだろうと、男がこんなにちょろいなんて もっと早くから知っておけばよかったわ❤,I wish I had know much earlier that men are such pushovers; both masters and monsters❤
+さぁ、君が虜になってるおっきなおっぱい見せつけてあげるから、エナジー自分で吐き出して負けちゃいなさい？ほら、イっちゃえ❤,Now; I'll show you the breasts that have charmed you; so spill your energy and make yourself lose by your own hand! Now; cum!
+ううぅ、あ…っ、うあ…っ❤,Uuuh... Ah... Aaaah...❤
+こんなにどぴゅどぴゅ出しちゃって❤チンポが付いてるってだけで、例え上級モンスターだとしても怖くないわね❤,Your semen flew with such force❤ Even if its an advanced monsters; there's nothing to be afraid of as long as they've got penis❤
 こんなにどぴゅどぴゅ出しちゃって❤チンポが付いてるってだけで楽勝すぎるわ❤,
 君もチンポ我慢できなくなっちゃったの？揃いも揃ってえっちなことに弱すぎよ❤,
 さっきの子がおっぱいに思いっきり出してるの見て、たまらなくなっちゃったんだ？,
