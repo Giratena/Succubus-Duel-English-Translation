@@ -1,3 +1,3 @@
 default
-雪神との盟約,與雷神的盟約
-LPを1000払って発動可能。\n[1].このカードが存在する限り、相手フィールド上の「凍結」状態のモンスターは効果を発動できない。\n[2].ターン終了時に発動する。相手フィールド上の「凍結」状態のすべてのモンスターに800ポイントのダメージを与える。,支付1000點LP發動。\n[1].當這張卡在場上時，對手場上有「凍結」狀態的怪獸無法發動效果。\n[2].回合結束時發動。對手場上有「凍結」狀態的怪獸受到800點傷害。
+雪神との盟約,Snow God Pact
+LPを1000払って発動可能。\n[1].このカードが存在する限り、相手フィールド上の「凍結」状態のモンスターは効果を発動できない。\n[2].ターン終了時に発動する。相手フィールド上の「凍結」状態のすべてのモンスターに800ポイントのダメージを与える。,Pay 1000 LP to play this card.\n[1]. As long as this card is on the field; monsters with [Freeze] on your opponent's field may not activate their effects.\n[2]. Activate at the end of the turn; inflict 800 points of damage to all monsters with [Freeze] on your opponent's field.

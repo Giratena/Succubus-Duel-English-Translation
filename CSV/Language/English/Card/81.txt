@@ -1,3 +1,3 @@
 default
-キョンシーボーイ,死屍少年
-[1].このカードがデッキから直接墓地へ送られたとき発動する。このカードを墓地から特殊召喚する。\n[2].戦闘時に「ゾンビ」を付与する。,[1].當這張卡從牌組被送往墓地時發動。這張卡從墓地特殊召喚到自己場上。\n[2].交戰時賦予對手「殭屍」。
+キョンシーボーイ,Jiangshi Boy
+[1].このカードがデッキから直接墓地へ送られたとき発動する。このカードを墓地から特殊召喚する。\n[2].戦闘時に「ゾンビ」を付与する。,[1]. When this card is sent directly from the Deck to the Graveyard: Special Summon this card from the Graveyard.\n[2]. During battle; inflicts [Zombie].

@@ -1,4 +1,4 @@
-　　default
+default
 @初期設定
     &カード名,細工師ノーム
     &カード画像,EU63.png

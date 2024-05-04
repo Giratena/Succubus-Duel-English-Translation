@@ -1,3 +1,3 @@
 default
-いたずらケットシー,惡作劇凱特
-[1].このカードが通常召喚に成功したとき発動する。フィールド上の魔法トラップカードをすべて手札に戻す。戻った枚数と同じだけお互いにランダムに手札を捨て、その捨てた枚数だけドローする。,[1].當這張卡通常召喚成功時發動。場上所有的魔法・陷阱卡回到手牌。雙方隨機捨棄各自回到手牌的卡片張數。然後再抽取與捨棄張數相等的張數的卡。
+いたずらケットシー,Mischievous Cat-Sith
+[1].このカードが通常召喚に成功したとき発動する。フィールド上の魔法トラップカードをすべて手札に戻す。戻った枚数と同じだけお互いにランダムに手札を捨て、その捨てた枚数だけドローする。,[1]. When this card is Normal Summoned: Return all Magic/Trap cards on the field to their owners' hands. Both players then discard the same number of cards at random and draw an equal number of cards.

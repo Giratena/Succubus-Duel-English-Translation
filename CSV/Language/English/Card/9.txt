@@ -1,3 +1,3 @@
 default
-ウッドアーチャー,森林弓箭手
-弓の腕に自信がある狩人。狩りで獲物をしとめ損ねたことは一度もない。,弓術高超的獵人。他從未放過看上的獵物。
+ウッドアーチャー,Wood Archer
+弓の腕に自信がある狩人。狩りで獲物をしとめ損ねたことは一度もない。,An archer who's confident in his bow arm. He never fails to take down a game in his hunts.

@@ -1,3 +1,3 @@
 default
-VIPルームサービス,VIP房招待
-[1].自分フィールド上に「バニー」モンスターが２体以上存在し「{%%40226}」にチャージが3つ以上ある場合に発動できる。「{%%40226}」のチャージを3つ消費し、相手プレイヤーに「バニー」モンスターの数×500ポイントのダメージを与え、「おっぱいに弱い」と「メロメロ」を付与する。,[1].當自己場上有２體「兔女郎」怪獸，「{%%40226}」的充能在3以上時才能發動。消費「{%%40226}」上的3個充能，給予對手玩家自己場上「兔女郎」怪獸數量Ｘ500點傷害，賦予「胸部弱點」與「著迷」。
+VIPルームサービス,VIP Room Service
+[1].自分フィールド上に「バニー」モンスターが２体以上存在し「{%%40226}」にチャージが3つ以上ある場合に発動できる。「{%%40226}」のチャージを3つ消費し、相手プレイヤーに「バニー」モンスターの数×500ポイントのダメージを与え、「おっぱいに弱い」と「メロメロ」を付与する。,[1]. If you have 2 or more "Bunny" monsters on your field and there are 3 or more charges on [{%%40226}]; spend 3 charges from [{%%40226}] to deal 500 x X damage to your opponent (X = number of "Bunny" monsters on your field). Then; inflict [Breast Fetish] and [Lovey Dovey] on your opponent.

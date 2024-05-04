@@ -1,3 +1,3 @@
 default
-竜を狩るもの,狩龍者
-[1].フィールド上にドラゴンタイプのモンスターがいる場合、このカードの召喚コストは１つ少なくなる。\n[2].このカードの通常召喚に成功したとき、フィールド上のドラゴンタイプモンスター１体を選択して発動する。そのモンスターに1000ポイントのダメージを与える。,[1].當自己場上有龍族種類的怪獸存在時，這張卡在上級召喚時所需代價減少１體。\n[2].當這張卡通常召喚成功時，選擇場上龍族種類的１體怪獸發動。給予該怪獸1000點傷害。
+竜を狩るもの,Dragon Hunter
+[1].フィールド上にドラゴンタイプのモンスターがいる場合、このカードの召喚コストは１つ少なくなる。\n[2].このカードの通常召喚に成功したとき、フィールド上のドラゴンタイプモンスター１体を選択して発動する。そのモンスターに1000ポイントのダメージを与える。,[1]. If there is a Dragon Type monster on the field; the summoning cost for this card is reduced by one.\n[2]. When this card is successfully Normal Summoned; select one Dragon Type monster on the field and deal 1000 points of damage to it.

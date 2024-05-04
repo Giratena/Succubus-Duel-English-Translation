@@ -1,3 +1,3 @@
 default
-捜索,檢索
-自分のデッキからランダムに地属性のモンスター１体を手札に加える。,[1].從自己牌組隨機將１張地屬性怪獸加入手牌。
+捜索,Tracking
+自分のデッキからランダムに地属性のモンスター１体を手札に加える。,Add a random Earth monster from your deck to your hand.

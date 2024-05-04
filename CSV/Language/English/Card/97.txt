@@ -1,3 +1,3 @@
 default
-氷結術師,冰結術師
-[1].このカードがフィールド上に存在する限り、水属性の魔法カードでダメージを受けた相手モンスターは[「凍結」状態を付与される,[1].當這張卡在場上時，對方怪獸受到水屬性魔法卡的傷害時賦予該怪獸「凍結」。
+氷結術師,Ice Bender
+[1].このカードがフィールド上に存在する限り、水属性の魔法カードでダメージを受けた相手モンスターは[「凍結」状態を付与される,[1]. While this card is on the field; opposing monsters damaged by Water Attribute magic cards are also inflicted with [Freeze].

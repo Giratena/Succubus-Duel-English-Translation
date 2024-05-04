@@ -1,3 +1,3 @@
 default
-レギオン,軍團招集
-[1].自分の墓地に戦士・ローグ・ハンタータイプのカードがすべて存在する場合、自分モンスターの通常召喚時に手札を2枚捨てて発動できる。召喚したモンスターのレベル以下の、召喚したモンスターとタイプが異なるモンスターをデッキから２体まで選択して特殊召喚する。その後、自分の墓地のモンスターをすべてゲームから取り除く。,[1].自己墓地有戰士・盜賊・獵人類型的怪獸卡存在，當自己進行通常召喚時，可以捨棄２張手牌發動。從牌組選擇２張通常召喚的怪獸的等級以下、類型不同的怪獸特殊召喚到自己場上。然後，將自己墓地所有怪獸卡移除遊戲。
+レギオン,Legion
+[1].自分の墓地に戦士・ローグ・ハンタータイプのカードがすべて存在する場合、自分モンスターの通常召喚時に手札を2枚捨てて発動できる。召喚したモンスターのレベル以下の、召喚したモンスターとタイプが異なるモンスターをデッキから２体まで選択して特殊召喚する。その後、自分の墓地のモンスターをすべてゲームから取り除く。,[1]. If your Graveyard contains a Warrior; Rogue; and Hunter Type card; when you Normal Summon a monster; you may discard 2 cards to Special Summon up to 2 monsters from your Deck with different Types than the Summoned monster and levels equal to or less than it. Then banish all monsters in your Graveyard.

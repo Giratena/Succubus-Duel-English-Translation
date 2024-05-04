@@ -1,3 +1,3 @@
 default
-神弓の使い手,神弓師
-このカードが通常召喚に成功したときに発動する。自分の墓地のハンタータイプのモンスターの数×400ポイントダメージを相手フィールド上のすべてのモンスターに与える。,[1].當這張卡通常召喚成功時發動。給予對手場上所有怪獸自己墓地的獵人類型怪獸卡張數Ｘ400點的傷害。
+神弓の使い手,Divine Bow Wielder
+このカードが通常召喚に成功したときに発動する。自分の墓地のハンタータイプのモンスターの数×400ポイントダメージを相手フィールド上のすべてのモンスターに与える。,[1]. When this card is Normal Summoned: Deal 400 x X points of damage to all monsters on the opponent's field (X = the number of Hunter Type monsters in your Graveyard).

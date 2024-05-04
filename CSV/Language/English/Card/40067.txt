@@ -1,3 +1,3 @@
 default
-焼き討ち,燒毀
-500LPを払い、フィールド上の表側表示魔法トラップカード1枚を選択して発動する。そのカードを破壊する。,[1].支付500點LP，選擇場上１張表側魔法・陷阱卡發動。該卡破壞。
+焼き討ち,Scorched Earth
+500LPを払い、フィールド上の表側表示魔法トラップカード1枚を選択して発動する。そのカードを破壊する。,Pay 500 LP and select one face-up Magic/Trap Card on the field: Destroy that card.

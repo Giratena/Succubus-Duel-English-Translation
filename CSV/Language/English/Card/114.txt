@@ -1,3 +1,3 @@
 default
-救世の騎士クレイン,救世騎士古雷因
-[1].このカードが自分フィールド上に存在する限り、自分の光属性モンスターが受ける戦闘ダメージ・効果ダメージは200ポイントダウンする。\n[2].自分モンスターのHPが回復したとき発動する。自分フィールド上のすべての光属性モンスターの攻撃力と最大HPを300ポイントアップする。,[1].當這張卡在場上時，自己場上的光屬性怪獸受到的戰鬥・效果傷害減少200點。\n[2].自己怪獸的HP回復時發動。自己場上所有光屬性怪獸的攻擊力與最大HP提升300點。
+救世の騎士クレイン,Crane - Knight of Salvation
+[1].このカードが自分フィールド上に存在する限り、自分の光属性モンスターが受ける戦闘ダメージ・効果ダメージは200ポイントダウンする。\n[2].自分モンスターのHPが回復したとき発動する。自分フィールド上のすべての光属性モンスターの攻撃力と最大HPを300ポイントアップする。,[1]. As long as this card is on your field; reduce battle and effect damage to your Light Attribute monsters by 200 points.\n[2]. When a monster's HP is recovered: Increase the attack power and maximum HP of all your Light Attribute monsters on the field by 300 points.

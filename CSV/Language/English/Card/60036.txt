@@ -1,3 +1,3 @@
 default
-ドラゴンソード,龍神劍
-LPを1000払い、炎属性キャラクターに装備可能。\n[1].装備モンスターはドラゴンタイプになり、攻撃力が500ポイントアップする。\n[2].装備キャラクターが相手を戦闘で破壊した時発動する。装備キャラクターの攻撃力を200ポイントアップする。,支付1000點LP裝備給炎屬性角色。\n[1].改為龍族類型，攻擊力提升500點。\n[2].戰鬥破壞對手怪獸時發動。裝備角色攻擊力提升200點。
+ドラゴンソード,Dragon Sword
+LPを1000払い、炎属性キャラクターに装備可能。\n[1].装備モンスターはドラゴンタイプになり、攻撃力が500ポイントアップする。\n[2].装備キャラクターが相手を戦闘で破壊した時発動する。装備キャラクターの攻撃力を200ポイントアップする。,[1]. Pay 1000 LP; this card may be equipped to a Fire Attribute character.\n[1]. The equipped monster becomes Dragon Type and gains 500 ATK.\n[2]. When the equipped character destroys an opponent's monster in battle; increase the equipped character's attack power by 200 points.

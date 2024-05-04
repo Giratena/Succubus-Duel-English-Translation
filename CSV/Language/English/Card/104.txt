@@ -1,3 +1,3 @@
 default
-秘境探検家,秘境探險家
-[1].相手フィールド上にレベル5以上のモンスターしか存在しない場合、このカードは相手プレイヤーに直接攻撃できる。\n[2]相手フィールド上の魔法トラップゾーンにカードが３枚以上裏向きで伏せられている場合、このカードが通常召喚に成功した時発動する。カードを2枚ドローする。,[1].當對手場上沒有等級５以上的怪獸存在時，這張卡可以直接攻擊對手。\n[2].當對手場上的魔陷區有３張裡側卡片，這張卡通常召喚成功時發動。抽２張卡。
+秘境探検家,Uncharted Explorer
+[1].相手フィールド上にレベル5以上のモンスターしか存在しない場合、このカードは相手プレイヤーに直接攻撃できる。\n[2]相手フィールド上の魔法トラップゾーンにカードが３枚以上裏向きで伏せられている場合、このカードが通常召喚に成功した時発動する。カードを2枚ドローする。,[1]. If there are only level 5 or higher monsters on the enemy field; this card can attack the opponent directly.\n[2]. If this card is normal summoned when there are 3 or more set facedown cards on your opponent's field; draw 2 cards.

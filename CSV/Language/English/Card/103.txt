@@ -1,3 +1,3 @@
 default
-毒薬術師,毒藥術師
-[1].１ターンに５度まで、自分が「ポーション」魔法カードを使用したとき発動する。「{%%40269}」を１枚生成して手札に加える。\n[2].相手フィールド上のモンスターが「毒」の状態異常ダメージで破壊されたとき発動する。デッキから魔法カードをランダムに１枚手札に加える。,[1].１回合５次，當自己發動「藥水」魔法卡時發動。生成１張「{%%40269}」加入手牌。\n[2].對手場上的怪獸因為「毒」狀態傷害而破壞時發動。從牌組隨機將１張魔法卡加入手牌。
+毒薬術師,Poison Alchemist
+[1].１ターンに５度まで、自分が「ポーション」魔法カードを使用したとき発動する。「{%%40269}」を１枚生成して手札に加える。\n[2].相手フィールド上のモンスターが「毒」の状態異常ダメージで破壊されたとき発動する。デッキから魔法カードをランダムに１枚手札に加える。,[1]. Up to 5 times per turn; when you use a [Potion] Magic Card: Generate one [{%%40269}] and add it to your hand.\n[2]. When an opponent's monster on the field is destroyed by damage from [Poison]: Add one random Magic Card from your Deck to your hand.

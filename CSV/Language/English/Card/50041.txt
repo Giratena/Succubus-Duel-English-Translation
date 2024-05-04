@@ -1,3 +1,3 @@
 default
-絶えぬ生命,生生不息
-[1].「成長」状態の自分モンスターが破壊され墓地へ送られたとき発動できる。デッキからランダムにモンスターカードを2枚まで手札に加える。,[1].當有「成長」狀態的我方怪獸被破壞送往墓地時可以發動。從牌組隨機將最多２張怪獸卡加入手牌。
+絶えぬ生命,Life Unending
+[1].「成長」状態の自分モンスターが破壊され墓地へ送られたとき発動できる。デッキからランダムにモンスターカードを2枚まで手札に加える。,[1]. When your monster with [Growth] is destroyed and sent to the Graveyard; you may add up to 2 random Monster Cards from your Deck to your hand.

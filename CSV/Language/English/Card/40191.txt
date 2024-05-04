@@ -1,3 +1,3 @@
 default
-イージスシールド,伊希斯祝福
-[1].LPを半分払い、キャラクター１体を選択して発動する。そのモンスターに「イージスの護り」(そのキャラクターが受ける戦闘ダメージ・効果ダメージを10分の1にする,3ターン)を付与する。,[1].支付一半LP，選擇一名角色發動。賦予該角色「聖盾守護」（自己所受到的所有戰鬥・效果傷害改為原來的10之1
+イージスシールド,Aegis Shield
+[1].LPを半分払い、キャラクター１体を選択して発動する。そのモンスターに「イージスの護り」(そのキャラクターが受ける戦闘ダメージ・効果ダメージを10分の1にする,3ターン)を付与する。,[1]. Pay half your LP and select 1 character. Grant that monster [Aegis Protection (3 turns)].\n(Aegis Protection: reduce all battle and effect damage this character takes to one-tenth)

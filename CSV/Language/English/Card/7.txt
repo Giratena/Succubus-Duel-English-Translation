@@ -1,3 +1,3 @@
 default
-ナイフ使い,小刀使
-戦闘でダメージを与えたとき相手に毒200を与える。,\n[1].此卡因交戰造成戰鬥傷害後，賦予對手「毒」(200)。
+ナイフ使い,Knife Wielder
+戦闘でダメージを与えたとき相手に毒200を与える。,Whenever this monster deals combat damage; that enemy gains [Poison (200)].

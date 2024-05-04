@@ -1,3 +1,3 @@
 default
-墓移し,墓移し
-手札から闇属性カード１枚を捨てて発動可能。\n[1].相手モンスターが相手の墓地へ送られたとき発動する。そのカードを相手の墓地から自分の墓地へ加える。\n[2].発動後3回目の自分ターン終了時に発動する。このカードは自壊する。,手札から闇属性カード１枚を捨てて発動可能。\n[1].相手モンスターが相手の墓地へ送られたとき発動する。そのカードを相手の墓地から自分の墓地へ加える。\n[2].発動後3回目の自分ターン終了時に発動する。このカードは自壊する。
+墓移し,Grave Shifting
+手札から闇属性カード１枚を捨てて発動可能。\n[1].相手モンスターが相手の墓地へ送られたとき発動する。そのカードを相手の墓地から自分の墓地へ加える。\n[2].発動後3回目の自分ターン終了時に発動する。このカードは自壊する。,Discard 1 Dark Attribute card from your hand.\n[1]. When an opponent's monster is sent to their Graveyard; add that card to your Graveyard from your opponent's Graveyard.\n[2]. banish this card at the end of the third turn after activation.

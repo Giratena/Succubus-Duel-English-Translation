@@ -1,3 +1,3 @@
 default
-過剰強化,強化過剩
-パラメータが上昇しているモンスター1体を選択して発動する。そのモンスターの攻撃力とHPを400ポイントアップさせる。,[1].選擇１體能力值有提升的怪獸發動。該怪獸攻擊力與最大HP提升400點。
+過剰強化,Limit Break
+パラメータが上昇しているモンスター1体を選択して発動する。そのモンスターの攻撃力とHPを400ポイントアップさせる。,Choose a monster whose parameters are increased. Increase that monster's Attack and HP by 400 points.

@@ -1,3 +1,3 @@
 default
-石拾いの精霊,撿石精靈
-LPを500払って発動可能。\n[1].このカードの発動時、デッキから「ジェム」魔法カードをランダムに１枚手札に加える。\n[2].自分ターン開始時に発動する。自分の墓地から「ジェム」魔法カードをランダムに１枚手札に加える。この効果が２回発動したとき、このカードは自壊する。,支付500點LP發動。\n[1].這張卡從手牌中發動時，隨機從牌組將1張「寶石」魔法卡加入手牌。\n[2].自己回合開始時發動。隨機從墓地將１張「寶石」魔法卡加入手牌。當這個效果發動２次後，這張卡自爆。
+石拾いの精霊,Pebble Spirit
+LPを500払って発動可能。\n[1].このカードの発動時、デッキから「ジェム」魔法カードをランダムに１枚手札に加える。\n[2].自分ターン開始時に発動する。自分の墓地から「ジェム」魔法カードをランダムに１枚手札に加える。この効果が２回発動したとき、このカードは自壊する。,Pay 500 LP.\n[1]. When this card is activated; randomly add 1 "Gem" Spell card from your Deck to your hand.\n[2]. Activate at the start of your turn; randomly add 1 "Gem" Spell card from your Graveyard to your hand. If this effect has been activated twice; destroy this card.

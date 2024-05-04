@@ -1,3 +1,3 @@
 default
-空中射撃,對空射擊
-自分フィールド上にハンタータイプのモンスターがいるとき、相手がモンスターの特殊召喚に成功した場合に発動できる。そのモンスターに1500ポイントのダメージを与える。,自己場上有獵人類型怪獸，對手特殊召喚怪獸成功時發動。給予該怪獸1500點傷害。
+空中射撃,Aerial Barrage
+自分フィールド上にハンタータイプのモンスターがいるとき、相手がモンスターの特殊召喚に成功した場合に発動できる。そのモンスターに1500ポイントのダメージを与える。,[1]. If you have a Hunter Type monster on your field and your opponent successfully Special Summons a monster; inflict 1500 damage to that monster.

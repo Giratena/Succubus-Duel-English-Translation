@@ -1,3 +1,3 @@
 default
-紅蓮の狂戦士,紅蓮狂戰士
-[1].炎属性カードの効果で効果ダメージを受けたときに発動する。ターン終了時までこのカードの攻撃力を600ポイントアップする。,[1].當此卡受到炎屬性卡片的效果傷害時發動。這張卡的攻擊力提升600點到這回合結束。
+紅蓮の狂戦士,Crimson Berserker
+[1].炎属性カードの効果で効果ダメージを受けたときに発動する。ターン終了時までこのカードの攻撃力を600ポイントアップする。,[1]. If this card is damaged by a Fire Attribute Effect: The attack power of this card is increased by 600 points until the end of the turn.

@@ -1,3 +1,3 @@
 default
-フェザーコール,羽翼呼喚
-[1].自分フィールド上にモンスターが存在せず相手フィールド上にモンスターが存在する場合、LPを500払って発動する。自分のデッキから「ハーピー」モンスターを２枚手札に加える。\n[2].このカードが風属性カードの効果で手札から捨てれらたとき発動する。自分のデッキからレベル４以下の「ハーピー」モンスターを１体特殊召喚する。,[1].當自己場上沒有怪獸而對手場上有怪獸的時候，支付500點LP發動。從自己牌組隨機將２張「哈比」怪獸加入手牌。\n[2].當這張卡因風屬性效果從手牌中捨棄時發動。從牌組隨機特殊召喚１張等級４以下的「哈比」怪獸到自己場上。
+フェザーコール,Feather Call
+[1].自分フィールド上にモンスターが存在せず相手フィールド上にモンスターが存在する場合、LPを500払って発動する。自分のデッキから「ハーピー」モンスターを２枚手札に加える。\n[2].このカードが風属性カードの効果で手札から捨てれらたとき発動する。自分のデッキからレベル４以下の「ハーピー」モンスターを１体特殊召喚する。,[1]. If you control no monsters and your opponent controls a monster; pay 500 LP to activate this card. Add 2 'Harpy' monsters from your Deck to your hand.\n[2]. When this card is discarded from your hand due to the effect of a Wind Attribute card; Special Summon 1 Level 4 or lower 'Harpy' monster from your deck.

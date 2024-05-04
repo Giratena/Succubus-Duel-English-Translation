@@ -1,3 +1,3 @@
 default
-熱水噴出孔,熱水噴出孔
-クールタイム4\n[1].自分のデッキから水属性モンスターを２枚ランダムに手札に加える。その後、自分プレイヤーに「クールタイムカード使用不可」(4ターン)を付与する。,クールタイム4\n[1].自分のデッキから水属性モンスターを２枚ランダムに手札に加える。その後、自分プレイヤーに「クールタイムカード使用不可」(4ターン)を付与する。
+熱水噴出孔,Hydrothermal Vent
+クールタイム4\n[1].自分のデッキから水属性モンスターを２枚ランダムに手札に加える。その後、自分プレイヤーに「クールタイムカード使用不可」(4ターン)を付与する。,Cooldown 4\n[1]. Add 2 random Water Attribute monsters from your Deck to your hand; then grant [Cooldown Card Usage Prohibited (4 turns)] to yourself.

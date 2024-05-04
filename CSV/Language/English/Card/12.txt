@@ -1,3 +1,3 @@
 default
-デーモンスレイヤー,惡魔獵手
-[1].このカードが悪魔タイプのモンスターまたは「サキュバス」モンスターへ与える戦闘ダメージは倍になる。\n[2].悪魔タイプのモンスターまたは「サキュバス」モンスターを戦闘で破壊し墓地へ送った時に発動する。カードを２枚ドローする。,[1].這張卡給予惡魔類型的怪獸或著是「魅魔」角色的戰鬥傷害倍增。\n[2].當惡魔類型怪獸或是「魅魔」怪獸被戰鬥破壞送往墓地時發動。抽２張牌。
+デーモンスレイヤー,Demon Slayer
+[1].このカードが悪魔タイプのモンスターまたは「サキュバス」モンスターへ与える戦闘ダメージは倍になる。\n[2].悪魔タイプのモンスターまたは「サキュバス」モンスターを戦闘で破壊し墓地へ送った時に発動する。カードを２枚ドローする。,[1]. This card deals double combat damage to demon type monsters and "Succubus" cards.\n[2]. When a demon type monster or "Succubus" card is destroyed in battle by this card and sent to the graveyard; draw 2 cards.

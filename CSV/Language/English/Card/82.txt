@@ -1,3 +1,3 @@
 default
-ウインドランサー,迅風槍士
-[1].このターン、自分が風属性カードの効果を４回以上発動している場合、このカードの召喚コストは-1される。\n[2].このカードが相手モンスターを戦闘で破壊したとき、相手の魔法トラップカード１枚を選択して発動できる。そのカードを相手の手札に戻す。,[1].這個回合中自己風屬性卡片效果發動４次以上的話，這張卡的上級召喚代價減少１體。\n[2].這張卡以戰鬥破壞對手怪獸時，可選擇對手１張魔法・陷阱卡發動。該卡回到對手手牌。
+ウインドランサー,Wind Lancer
+[1].このターン、自分が風属性カードの効果を４回以上発動している場合、このカードの召喚コストは-1される。\n[2].このカードが相手モンスターを戦闘で破壊したとき、相手の魔法トラップカード１枚を選択して発動できる。そのカードを相手の手札に戻す。,[1]. If you have activated the effects of Wind Attribute cards 4 or more times this turn; reduce the summoning cost of this card by 1.\n[2]. When this card destroys an opponent's monster by battle: You can select one enemy Magic/Trap Card; return that card to the opponent's hand.

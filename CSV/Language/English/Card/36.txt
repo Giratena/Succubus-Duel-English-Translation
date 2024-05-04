@@ -1,3 +1,3 @@
 default
-吟遊詩人,吟遊詩人
-このカードが特殊召喚に成功したとき発動する。自分フィールド上のすべてのモンスターの最大HPを800ポイントアップする。,[1].當這張卡特殊召喚成功時發動。自己場上所有怪獸的最大HP提升800點。
+吟遊詩人,Minstrel
+このカードが特殊召喚に成功したとき発動する。自分フィールド上のすべてのモンスターの最大HPを800ポイントアップする。,If this card is special summoned; increase the max HP of all monsters on your side of the field by 800 points.

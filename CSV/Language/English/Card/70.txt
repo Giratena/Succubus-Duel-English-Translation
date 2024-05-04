@@ -1,3 +1,3 @@
 default
-少年勇者,勇者少年
-[1].このカードが装備カードを装備したとき発動する。チャージを+1する。\n[2].このカードが相手モンスターを戦闘で破壊したとき発動する。チャージを+3する。\n[3].チャージを10消費し、１度だけ発動できる。このカードの最大HPと攻撃力を2500ポイントアップし、{%%60021}を１枚生成して手札に加える。,[1].當這張卡裝備上裝備卡時發動。充能+1。\n[2].這張卡戰鬥破壞對手怪獸時發動。充能+3。\n[3].消費10充能發動。這張卡的攻擊力與最大HP提升2500點，生成１張「{60021}」加入手牌。這個效果只能發動１次。
+少年勇者,Young Hero
+[1].このカードが装備カードを装備したとき発動する。チャージを+1する。\n[2].このカードが相手モンスターを戦闘で破壊したとき発動する。チャージを+3する。\n[3].チャージを10消費し、１度だけ発動できる。このカードの最大HPと攻撃力を2500ポイントアップし、{%%60021}を１枚生成して手札に加える。,[1]. When this card is equipped with an Equipment Card: Increase Charge by +1.\n[2]. When this card destroys an opponent's monster in battle: Increase Charge by +3.\n[3]. Spend 10 Charges to activate this effect only once: Increase this card's maximum HP and attack power by 2500 points; generate one {%%60021} and add it to your hand.

@@ -1,3 +1,3 @@
 default
-魔力集中,集中魔力
-[1].自分フィールド上に魔術師タイプのモンスターが存在する場合、発動できる。自分プレイヤーに「魔法カードダメージアップ(X)」(4ターン)を付与する。Xは発動したときの自分フィールド上の魔術師タイプモンスター×200ポイント。,[1].自己場上有魔法師類型怪獸存在時發動。賦予我方玩家「魔法卡傷害提升(X)」（4回合）。X為發動時自己場上的魔法師類型怪獸數量乘以200點。
+魔力集中,Magic Concentration
+[1].自分フィールド上に魔術師タイプのモンスターが存在する場合、発動できる。自分プレイヤーに「魔法カードダメージアップ(X)」(4ターン)を付与する。Xは発動したときの自分フィールド上の魔術師タイプモンスター×200ポイント。,[1]. If you have a Spellcaster Type monster on your field; grant [Magic Card Damage Up (200 x X)] to yourself. (X = the number of Spellcaster Type monsters on your field at activation.)Spellcaster Type

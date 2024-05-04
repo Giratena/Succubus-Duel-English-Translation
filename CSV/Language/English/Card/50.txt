@@ -1,3 +1,3 @@
 default
-砲撃手,重砲手
-[1].手札の魔法カードを１枚捨てて発動できる。相手の魔法・罠カードをランダムに１枚破壊する。,[1].可捨棄手牌１張魔法卡發動。隨機破壞對手場上１張魔法・陷阱卡。
+砲撃手,Cannoner
+[1].手札の魔法カードを１枚捨てて発動できる。相手の魔法・罠カードをランダムに１枚破壊する。,[1]. Discard one Magic Card from your hand to activate this effect: Destroy one random Magic/Trap Card your opponent controls.

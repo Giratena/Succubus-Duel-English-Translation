@@ -1,3 +1,3 @@
 default
-ダブルスラッシュ,雙重斬擊
-[1].自分のローグタイプのモンスターが攻撃宣言をしたときに発動できる。次の戦闘で、そのモンスターの攻撃回数を+1する。,[1].當自己的盜賊類型怪獸進行攻擊宣言時發動。該怪獸在下次戰鬥中攻擊次數+1。
+ダブルスラッシュ,Double Slash
+[1].自分のローグタイプのモンスターが攻撃宣言をしたときに発動できる。次の戦闘で、そのモンスターの攻撃回数を+1する。,[1]. Can be activated when a rogue type monster you control declares an attack. During the next fight; the number of times that monster can attack is increased by 1.

@@ -1,3 +1,3 @@
 default
-ドラゴニックシャーマン,龍人薩滿
-[1].このカードが場に出たとき発動する。自分フィールド上のすべてのモンスターをドラゴンタイプにする。\n[2].このカードが場に存在する限り、自分フィールド上のドラゴンタイプモンスターが与える戦闘ダメージは200ポイントアップする。,[1].當這張卡出場時發動。自己場上所有怪獸改為龍族種類。\n[2].當這張卡在場上時，自己場上的龍族種類怪獸造成的戰鬥傷害增加200點。
+ドラゴニックシャーマン,Draconic Shaman
+[1].このカードが場に出たとき発動する。自分フィールド上のすべてのモンスターをドラゴンタイプにする。\n[2].このカードが場に存在する限り、自分フィールド上のドラゴンタイプモンスターが与える戦闘ダメージは200ポイントアップする。,[1]. When this card is Summoned; change all monsters on your field to Dragon Type.\n[2]. As long as this card remains on the field; increase the battle damage dealt by Dragon Type monsters on your field by 200 points.

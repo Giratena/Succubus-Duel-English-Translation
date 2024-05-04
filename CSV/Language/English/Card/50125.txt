@@ -1,3 +1,3 @@
 default
-テンタクルバインド,テンタクルバインド
-[1].攻撃宣言時に、戦闘に参加する自分の水属性モンスター１体を選択して発動できる。そのモンスターの攻撃力を500ポイントアップし、相手に「拘束」を付与する。,[1].攻撃宣言時に、戦闘に参加する自分の水属性モンスター１体を選択して発動できる。そのモンスターの攻撃力を500ポイントアップし、相手に「拘束」を付与する。
+テンタクルバインド,Tentacle Bind
+[1].攻撃宣言時に、戦闘に参加する自分の水属性モンスター１体を選択して発動できる。そのモンスターの攻撃力を500ポイントアップし、相手に「拘束」を付与する。,[1]. When an attack is declared; you may select one of your Water Attribute monsters that is engaged in combat. Increase its ATK by 500 and apply [Restraint] to the opponent.

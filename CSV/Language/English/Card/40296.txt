@@ -1,3 +1,4 @@
 default
-暗黒騎士の猛追,黑暗騎士的追殺
-LPを1000払って発動可能。\n[1].自分の「ブラックナイト」が相手モンスターに攻撃宣言を行ったとき発動する。デッキの一番上のカードを墓地へ送り、そのカードがモンスターカードだった場合、ブラックナイトの攻撃宣言回数を+1する。,支付1000點LP發動。\n[1].自己的「黑暗騎士」向對手怪獸進行攻擊宣言時發動。將牌組最上方１張卡送往墓地。如果該卡片是怪獸卡的話，「黑暗騎士」的攻擊宣言回數+1到回合結束。
+暗黒騎士の猛追,Dark Knight's Pursuit
+LPを1000払って発動可能。\n[1].自分の「ブラックナイト」が相手モンスターに攻撃宣言を行ったとき発動する。デッキの一番上のカードを墓地へ送り、そのカードがモンスターカードだった場合、ブラックナイトの攻撃宣言回数を+1する。,Pay 1000 LP to cast.\n[1]. When your "Black Knight" declares an attack on an opponent's monster; send the top card of your Deck to the Graveyard. If the card is a Monster Card; your "Black Knight" cards gain +1 additional attack during combat until the end of the urn.
+

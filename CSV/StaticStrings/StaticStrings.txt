@@ -44,6 +44,7 @@ default
 &&行為はげしめSE,nukiSasi.ogg
 &&手コキSE,nyurrupon01.ogg
 &&おっぱいSE,Oppai01.mp3
+&&パイズリSE,Paizuri_piero1.ogg
 &&ノックSE,DoorKnock04_Onjin.mp3,
 &&ドア閉まるSE,DoorClose_Onjin.mp3
 &&ドアSE,Door_Onjin.mp3
@@ -88,7 +89,9 @@ default
 &&文字2SE,
 &&文字3SE,
 &&文字4SE,
-
+&&ドローSE,DrawSound_Body Armor 7.ogg
+&&エラーSE,Buzzer01-2.ogg
+&&セットSE,SetSound_Click sounds 40.ogg
 
 //背景
 &&タイトル背景,dlfanfanokyu03n.jpg
@@ -154,6 +157,17 @@ default
 &&宿屋アイコン,UI_Icon_Home.png,,
 &&クエストアイコン,UI_Icon_Flag.png
 &&場所移動アイコン,UI_Icon_ArrowRight.png
+&&閉じるアイコン,nc156719.png
+&&UI右矢印,UI_Icon_RightArrow.png
+&&UI左矢印,UI_Icon_LeftArrow.png
+&&UIスキップ右矢印,UI_Icon_Skip.png
+&&UIスキップ左矢印,UI_Icon_SkipBack.png
+&&ボタン背景青,UI_Button_Blue.png
+&&ボタン背景赤,UI_Button_Red.png
+&&ボタン背景緑,UI_Button_Green.png
+&&ボタン背景黄,UI_Button_Yellow.png
+&&ボタン背景灰,UI_Button_Grey.png
+&&選択肢背景,select_button_hover.png
 
 //エフェクト
 &&セクシーエフェクト,Sexy01
@@ -192,13 +206,14 @@ default
 &&爆破エフェクト,Bomb01
 &&時計エフェクト,Chrono
 &&矢の雨エフェクト,ArrawRain
-&&ハートスタンプエフェクト,HeartStamp
 &&パワーアップエフェクト,PowerUpEffect
 &&パワーダウンエフェクト,PowerDownEffect
 &&シンプル魔法エフェクト,Circle
 &&魔法攻撃エフェクト,MagicAttack
 &&叩きつぶしエフェクト,ImpactAttack01
 &&ひっかきエフェクト,Claw
+//後編で使用するので使用不可
+&&ハートスタンプエフェクト,HeartStamp
 
 //画像
 &&精液画像,Semen.png
@@ -238,6 +253,34 @@ default
 &&墓地ボタン,墓地
 &&カード生成ボタン,カード生成
 &&キャンセルボタン,キャンセル
+
+&&デッキ編集イエス,はい
+&&デッキ編集ノー,いいえ
+&&デッキ編集キャンセル,キャンセル
+&&デッキ編集開く,開く
+&&デッキ編集閉じる,閉じる
+&&デッキ編集次へ,次へ
+&&デッキ編集戻る,戻る
+&&デッキ編集セーブ,保存
+&&デッキ編集昇順,昇順
+&&デッキ編集降順,降順
+&&デッキ編集デフォルト名,新しいデッキ
+&&デッキ編集下級モンスター,下級モンスター:
+&&デッキ編集上級モンスター,上級モンスター:
+&&デッキ編集モンスター,モンスター:
+&&デッキ編集魔法,魔法:
+&&デッキ編集罠,罠:
+&&デッキ編集残数なし,残数なし
+&&デッキ編集編集上限,編集上限
+&&デッキ編集編集ボタン,編集する
+&&デッキ編集破棄,破棄
+&&デッキ編集確認,編集内容が保存されていません。
+&&デッキ編集警告,使用できないデッキを装備しています。
+&&デッキ編集絞り込み,絞り込み
+&&デッキ編集並び替え,並び替え
+&&デッキ編集保存成功,保存しました。
+&&デッキ編集選択チュートリアル,タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。
+&&デッキ編集名前変更チュートリアル,デッキ名を編集します。
 
 &&バトル終了メッセージ,バトル終了！
 &&勝利メッセージ,プレイヤーの勝利！！

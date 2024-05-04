@@ -1,3 +1,3 @@
 default
-要塞兵士ゴルログ,要塞士兵克洛格
-[1].このカードが受けるダメージは常に100ポイントダウンする(ただし0にはならず最低100)。,[1].這張卡受到的傷害降低100點（但不會歸0最低100）。
+要塞兵士ゴルログ,Fortress Soldier Gollog
+[1].このカードが受けるダメージは常に100ポイントダウンする(ただし0にはならず最低100)。,[1]. The damage received by this card is reduced by 100 points (Min receiving damage = 100).

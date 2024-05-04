@@ -1,3 +1,3 @@
 default
-シャドウメイジ,暗影法師
-[1].1ターンに1度、墓地の闇属性カードを7枚取り除き、自分フィールド上のモンスター1体を選択して発動できる。そのモンスターのコピーを自分フィールド上に特殊召喚する。\n[2].1ターンに1度、闇属性の魔法カードが発動したときに発動する。デッキからランダムなカードを2枚墓地へ送る。,[1].１回合１次，可隨機移除自己墓地７張闇屬性卡片，選擇自己場上１體怪獸發動。複製該怪獸特殊召喚到自己場上。\n[2].１回合１次，闇屬性魔法卡發動時發動。從牌組隨機將２張卡片送入墓地。
+シャドウメイジ,Shadow Mage
+[1].1ターンに1度、墓地の闇属性カードを7枚取り除き、自分フィールド上のモンスター1体を選択して発動できる。そのモンスターのコピーを自分フィールド上に特殊召喚する。\n[2].1ターンに1度、闇属性の魔法カードが発動したときに発動する。デッキからランダムなカードを2枚墓地へ送る。,[1]. Once per turn; banish seven Dark Attribute cards from the Graveyard and select one monster on your field to activate this effect: Special Summon a copy of that monster onto your field.\n[2]. Once per turn; when a Dark Attribute Magic Card is activated: Send two random cards from the Deck to the Graveyard.

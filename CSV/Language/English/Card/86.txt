@@ -1,3 +1,3 @@
 default
-発掘ドワーフ,挖礦矮人
-[1].このカードが場に出た時発動する。「{%%50015}」を２枚生成して手札に加える。,[1].這張卡出場時發動。生成２張「{%%50015}」加入手牌。
+発掘ドワーフ,Excavation Dwarf
+[1].このカードが場に出た時発動する。「{%%50015}」を２枚生成して手札に加える。,[1]. When this card is summoned: Generate 2 [{%%50015}] cards and add them to your hand.

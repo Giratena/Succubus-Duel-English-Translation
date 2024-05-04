@@ -8,13 +8,13 @@ default
 シスター,
 ギルド地下通路,
 Place/MorugenUnderground,
-情報収集,
-デッキ編集,
+情報収集,Investigate
+デッキ編集,Deck Edit
 タイトルに戻る,
-特殊オプション,
-ロード,
-セーブ,
-回想,
+特殊オプション,Special Options
+ロード,Load
+セーブ,Save
+回想,Reminisce
 作戦会議,
 (特殊)２周目プレイ,
 (特殊)街に戻った状態にする,

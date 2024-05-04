@@ -1,3 +1,3 @@
 default
-毒液の注入,注入毒液
-[1].自分フィールド上にローグタイプのモンスターがいる場合に、相手キャラクターに効果ダメージを与えたとき発動する。そのキャラクターに毒(200)を付与する。,[1].當自己場上有盜賊類型怪獸時，對手角色受到效果傷害時發動。賦予該角色「毒」（200）。
+毒液の注入,Venom Infusion
+[1].自分フィールド上にローグタイプのモンスターがいる場合に、相手キャラクターに効果ダメージを与えたとき発動する。そのキャラクターに毒(200)を付与する。, [1]. When a Rogue Type monster is on your field and an opponent's character takes effect damage; that character also receives [Poison (200)].

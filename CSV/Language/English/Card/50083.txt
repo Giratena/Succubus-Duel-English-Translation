@@ -1,3 +1,3 @@
 default
-数の暴力,數量暴力
-[1].レベル3以下の自分モンスターが戦闘で破壊されたとき、LPを500払って発動できる。デッキからレベル3以下のモンスター1体を選択して特殊召喚する。,[1].當自己的等級３以下的怪獸被戰鬥破壞時，可以支付500點LP發動從牌組中選擇１張等級３以下怪獸特殊召喚到自己場上。
+数の暴力,Strength in Numbers
+[1].レベル3以下の自分モンスターが戦闘で破壊されたとき、LPを500払って発動できる。デッキからレベル3以下のモンスター1体を選択して特殊召喚する。,[1]. When a Level 3 or lower monster you control is destroyed by battle; pay 500 LP. Special Summon 1 Level 3 or lower monster from your Deck.

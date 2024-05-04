@@ -1,3 +1,3 @@
 default
-生命の果実,生命的果實
-自分フィールド上のモンスター1体に「成長」（自分ターン終了時ごとにHPを200ポイントアップ）を付与する。,[1].選擇自己場上１體怪獸發動，賦予該怪獸「成長」（當自己回合結束時最大HP提升200點）。
+生命の果実,Fruit of Life
+自分フィールド上のモンスター1体に「成長」（自分ターン終了時ごとにHPを200ポイントアップ）を付与する。,Target monster on your side of the field gains "Growth" (HP increases by 200 points at the end of your turn.)

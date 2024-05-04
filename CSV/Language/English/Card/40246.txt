@@ -1,3 +1,3 @@
 default
-ソードレイン,劍雨
-[1].相手フィールド上にモンスターが存在する場合に発動できる。デッキの上からカードを５枚墓地へ送る。装備カードが墓地へ送られるたびに、ランダムな相手モンスターに300ポイントのダメージを与える。,[1].對手場上有怪獸存在時發動。從牌組上方將５張卡送往墓地。這個效果每送１張裝備卡往墓地，給予隨機對手１體怪獸300點傷害。
+ソードレイン,Sword Rain
+[1].相手フィールド上にモンスターが存在する場合に発動できる。デッキの上からカードを５枚墓地へ送る。装備カードが墓地へ送られるたびに、ランダムな相手モンスターに300ポイントのダメージを与える。,[1]. If there are monsters on your opponent's field; send the top 5 cards of your Deck to the Graveyard. Each time an Equipment Card is sent to the Graveyard by this effect; deal 300 damage to a random opponent's monster.

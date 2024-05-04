@@ -1,3 +1,3 @@
 default
-翼の魔術師,羽翼魔術師
-[1].このカードが場に出たとき、手札の風属性モンスター１体を選択して発動できる。そのモンスターのレベルを１つ下げる。\n[2].このカードが自分フィールド上に存在する限り、自分フィールド上のレベル３以下風属性モンスターは相手プレイヤーに直接攻撃できる。,[1].這張卡出場時，可選擇手牌１張風屬性怪獸發動。該怪獸等級下降１。\n[2].當這張卡在場上時，自己場上等級３以下的風屬性怪獸可以直接攻擊對手玩家。
+翼の魔術師,Winged Magician
+[1].このカードが場に出たとき、手札の風属性モンスター１体を選択して発動できる。そのモンスターのレベルを１つ下げる。\n[2].このカードが自分フィールド上に存在する限り、自分フィールド上のレベル３以下風属性モンスターは相手プレイヤーに直接攻撃できる。,[1]. When this card is Summoned: Select one Wind Attribute monster in your hand; decrease that monster's level by one.\n[2]. As long as this card is on your field; Level 3 or lower Wind Attribute monsters can attack the opposing player directly.

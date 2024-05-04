@@ -1,3 +1,3 @@
 default
-不協和の鐘,不協調的鐘聲
-[1].墓地の闇属性モンスターをランダムに1枚取り除き、相手フィールド上のモンスター2体を選択して発動できる。それらのモンスターにお互いの攻撃力分のダメージをそれぞれ与える。,[1].從墓地隨機移除１張闇屬性怪獸卡，選擇對手場上２體怪獸發動。那些怪獸分別受到選擇的另一隻怪獸的攻擊力傷害。
+不協和の鐘,Bell of Discord
+[1].墓地の闇属性モンスターをランダムに1枚取り除き、相手フィールド上のモンスター2体を選択して発動できる。それらのモンスターにお互いの攻撃力分のダメージをそれぞれ与える。,[1]. Remove a Dark Attribute monster from your field to your Graveyard and select 2 monsters on your opponent's field. Deal damage to each of those monsters equal to their combined attack power.

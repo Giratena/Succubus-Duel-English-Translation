@@ -1,3 +1,3 @@
 default
-奇襲,襲擊
-LPを500払って発動する。手札からレベル４以下の闇属性モンスター1体を特殊召喚する。,支付500點LP發動。從手牌特殊召喚闇屬性・等級4以下的怪獸到自己場上。
+奇襲,Surprise Attack
+LPを500払って発動する。手札からレベル４以下の闇属性モンスター1体を特殊召喚する。,Pay 500 LP to Special Summon one Level 4 or lower Dark Attribute monster from your hand.

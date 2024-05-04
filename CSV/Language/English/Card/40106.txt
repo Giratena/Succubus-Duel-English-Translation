@@ -1,3 +1,3 @@
 default
-見張り台,瞭望台
-[1].相手モンスターが場に出たとき発動する。そのモンスターに100ポイントのダメージを与える。,[1].對手怪獸出場時發動。給予該怪獸100點傷害。
+見張り台,Lookout
+[1].相手モンスターが場に出たとき発動する。そのモンスターに100ポイントのダメージを与える。,[1]. When an opponent's monster is summoned to the field; inflict 100 points of damage to that monster.

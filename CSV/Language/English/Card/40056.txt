@@ -1,3 +1,3 @@
 default
-食物連鎖,食物鏈
-このカード名のカードは1ターンに１枚しか発動できない。\n[1].手札を1枚捨て、自分フィールド上の水属性モンスター1体をコストにして発動する。デッキからレベル５~６の水属性モンスターをランダムに1体特殊召喚する。(デッキ内に対象のモンスターが存在しない場合、発動できない),這個卡名１回合只能發動１次。\n[1].選擇自己場上１體水屬性怪獸為代價，捨棄１張手牌發動。從牌組隨機特殊召喚１體等級５～６的水屬性怪獸到自己場上（如果牌組內沒有對象卡片則這張卡無法發動）。
+食物連鎖,Food Chain
+このカード名のカードは1ターンに１枚しか発動できない。\n[1].手札を1枚捨て、自分フィールド上の水属性モンスター1体をコストにして発動する。デッキからレベル５~６の水属性モンスターをランダムに1体特殊召喚する。(デッキ内に対象のモンスターが存在しない場合、発動できない),Duplicates of this card cannot be played in the same turn.\n[1]. Discard 1 card in your hand and target 1 Water Attribute monster on your field as a cost to Special Summon 1 random Level 5~6 Water Attribute monster from the Deck. (Cannot be activated if no monster in the deck exists.)

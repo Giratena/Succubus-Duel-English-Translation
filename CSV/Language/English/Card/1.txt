@@ -1,3 +1,3 @@
 default
-ブラックナイト,黑暗騎士
-黒い鎧に身を包んだ上級剣士。するどい剣で敵を切り裂く。,身著黑色鎧甲的上級劍士。以銳利的劍斬擊對手。
+ブラックナイト,Black Knight
+黒い鎧に身を包んだ上級剣士。するどい剣で敵を切り裂く。,A seasoned warrior who wears dark armor. He cuts down all foes that stand before him with his sharp blade.

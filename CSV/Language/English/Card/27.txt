@@ -1,3 +1,3 @@
 default
-バンディット,山賊
-荒々しい性格の山賊。斧の一振りは分厚い鎧をも引き裂く。,他是一名豪邁的盜賊。一揮斧就能砍碎厚重的鎧甲。
+バンディット,Bandit
+荒々しい性格の山賊。斧の一振りは分厚い鎧をも引き裂く。,A bandit with a rough personality. A single swing of his axe can tear through the thickest of armour.

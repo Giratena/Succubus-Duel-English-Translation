@@ -1,3 +1,3 @@
 default
-龍の威圧,龍的咆嘯
-[1].自分フィールド上にレベル5以上のドラゴンタイプモンスターが存在する場合、相手が魔法・トラップカードを発動したとき発動できる。そのカードの効果を無効にし、破壊する。,[1].自己場上有等級５以上的龍族類型怪獸存在，當對手發動魔法・陷阱卡時可以發動。將該卡效果無效且破壞。
+龍の威圧,Dragon's Roar
+[1].自分フィールド上にレベル5以上のドラゴンタイプモンスターが存在する場合、相手が魔法・トラップカードを発動したとき発動できる。そのカードの効果を無効にし、破壊する。,[1]. If you control a Level 5 or higher Dragon Type monster; when your opponent activates a Spell/Trap Card; negate its effect and destroy it.

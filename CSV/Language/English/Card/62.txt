@@ -1,3 +1,3 @@
 default
-ノッカー,敲碎者
-[1].このカードが守備状態のモンスターに与える戦闘ダメージは800ポイントアップする。,[1].這張卡給予守備狀態怪獸的戰鬥傷害增加800點。
+ノッカー,Knocker
+[1].このカードが守備状態のモンスターに与える戦闘ダメージは800ポイントアップする。,[1]. The battle damage this card deals to a defending monster is increased by 800 points.
