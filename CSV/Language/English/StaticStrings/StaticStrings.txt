@@ -101,12 +101,12 @@ Claw,
 昇順,Ascending
 降順,Decending
 新しいデッキ,New Deck
-下級モンスター,Lesser Monster
-上級モンスター,Advanced Monster
+下級モンスター:,Lesser Monsters: 
+上級モンスター:,Advanced Monsters: 
 モンスター,Monster
-魔法,Magic
-罠,Trap
-残数なし,No remaining numbers
+魔法:,Spells: 
+罠:,Traps: 
+残数なし,No cards left
 編集上限,Edit Limit exceeded
 編集する,Edit Deck
 破棄,Discard
