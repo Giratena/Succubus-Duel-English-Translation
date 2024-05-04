@@ -114,6 +114,6 @@ Claw,
 使用できないデッキを装備しています。,You are equipping a deck that cannot be used.
 絞り込み,Optimize
 並び替え,Reorganize
-保存しました。,Save Deck
+保存しました。,Save Complete
 タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. /nThe deck you are currently using has a boarder around it.
 デッキ名を編集します。,Change the deck name.
