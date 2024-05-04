@@ -17,33 +17,33 @@ Place/WestTown,
 回想,Reminisce
 次のステージへ,Next Stage
 師匠からもらった情報をもとに、僕は盗賊団が荒らしているという村の近くまで来ていた。,According to my master's information; a band of thieves have settled near this town.
-ここで情報収集をして、盗賊団のアジトを見つけ出そう。そして、「ネクロ」という名前のカードマスターに、研究していたサキュバス化を治す方法について尋ねるのだ。,I need to gather information and find the thieves' hideout. I also need to ask a cardmaster known as Necro if there's a way to cure someone from succubus transformation.
+ここで情報収集をして、盗賊団のアジトを見つけ出そう。そして、「ネクロ」という名前のカードマスターに、研究していたサキュバス化を治す方法について尋ねるのだ。,I need to gather information and find their hideout. I also need to look for Cardmaster Necro and ask if there's a way to cure someone from succubus transformation since she's been researching it.
 次のステージへすすめるようになりました。,You can now advance to the next stage.
-お、あんたが依頼を受けてくれたカードマスターか？\n頼むぜ、盗賊たちのせいで、この村もだいぶやべえんだ。,Are you the cardmaster who took the request for the thieves? Please take care of them. The town is in really bad shape because of them.
-金目のものはもちろん、食い物も奪っていっちまう。\n普通の盗賊なら俺たちで追い返せないこともねえけど、\n相手には強いカードマスターが味方してるんだよ。,They're stealing our valuables and food. We could handle it ourselves if it was a normal band of thieves; but they've got a strong cardmaster on their side.
-盗賊退治に行った村の腕自慢たちが、みんなカードマスターに負けて、\n足腰立たない骨抜きにされて帰ってきたって話だぜ。,The strong folk in the village tried going to root out the thieves; but they all lost to the cardmaster and returned while barely able to stand.
-だからあんたが頼りなんだ。\n悪いカードマスターに負けないでくれよ。,That's why you're our only hope. Please don't go losing to that evil cardmaster.
-ううぅ…。だめだ、まだ思い出しちまう…。\nん？ああ、カードマスターの人か。\nわざわざこんな辺鄙な村に助けに来てくれてありがとよ。,Uuh... No; I'm remembering it again... Hmm? Oh; are you a cardmaster? Thank you for all the way to our remote village to help.
-俺たち20人ぐらいでよ、\n盗賊退治のために、北の山にあるやつらのねぐらに襲撃をかけたんだ。\nところが向こうにいた紫髪のカードマスターがやばくてな、,We tried attacking the thieves' hideout at the northern mountain with around 20 people; but their purple-haired cardmaster was too much for us.
-ゾンビだ死神だっておっかないモンスターたちをどんどん出してくるんだ。\nでも、どのモンスターも美人でよ。\n俺たち訳も分からないまま、押さえつけられて、嬲られて…。,She summoned terrifying monsters like zombies and death reapers in big numbers. And all of them were such beauties too. We got pushed down and toyed with before we could even make sense of anything.
-くそお、あんなに憎らしい盗賊団だってのに、\n体は気持ちよくなっちまうのが腹が立つぜ。\nそのまま動けなくなるまで体力を奪われて、村に送り返されちまった。,Damn it! I'm so angry to myself for giving into the pleasure from such terrible thieves! They kept taking energy from us until we couldn't move before sending us back to the village.
-最後に「無駄な抵抗しないで貢ぎ続ければまたしてあげる」って\nささやかれてよ。くそお、あんなの味わちまったら…。俺、もう…。\nああ、ダメだ。しゃんとしねえと、村の危機だってのに。,At the end; the cardmaster whispered: "Stop with the futile resistance. I'll keep you company again if you continue giving me offerings." Damn it! After experiencing that once... Aaah... I'm about to lose myself. The safety of our village is at stake here; so I need to keep my head straight.
+お、あんたが依頼を受けてくれたカードマスターか？\n頼むぜ、盗賊たちのせいで、この村もだいぶやべえんだ。,Oh? Are you a cardmaster who took our request? Please root out the thieves for us. The town is in terrible shape because of them.
+金目のものはもちろん、食い物も奪っていっちまう。\n普通の盗賊なら俺たちで追い返せないこともねえけど、\n相手には強いカードマスターが味方してるんだよ。,They're stealing our valuables and food. We could handle common thieves alone;  but they've got a strong cardmaster on their side.
+盗賊退治に行った村の腕自慢たちが、みんなカードマスターに負けて、\n足腰立たない骨抜きにされて帰ってきたって話だぜ。,Our strong folk tried to take out the thieves; but they all lost to that cardmaster. They got drained to the point where they could barely walk when they returned.
+だからあんたが頼りなんだ。\n悪いカードマスターに負けないでくれよ。,That's why we sent out the request. Please don't go losing to that bad cardmaster.
+ううぅ…。だめだ、まだ思い出しちまう…。\nん？ああ、カードマスターの人か。\nわざわざこんな辺鄙な村に助けに来てくれてありがとよ。,Uuh... I'm remembering it again... Oh; are you a cardmaster? Thank you for coming all the way to our remote village to help.
+俺たち20人ぐらいでよ、\n盗賊退治のために、北の山にあるやつらのねぐらに襲撃をかけたんだ。\nところが向こうにいた紫髪のカードマスターがやばくてな、,We had about 20 people when we tried attacking the thieves' hideout at the northern mountain; but their cardmaster with purple hair was too much for us.
+ゾンビだ死神だっておっかないモンスターたちをどんどん出してくるんだ。\nでも、どのモンスターも美人でよ。\n俺たち訳も分からないまま、押さえつけられて、嬲られて…。,She summoned huge numbers of terrifying monsters like zombies and death reapers on us. And every single one of them was a beautiful woman; too. We barely managed to do anything before we were pushed down and toyed by them...
+くそお、あんなに憎らしい盗賊団だってのに、\n体は気持ちよくなっちまうのが腹が立つぜ。\nそのまま動けなくなるまで体力を奪われて、村に送り返されちまった。,Damn it! I'm mad at myself for giving in to the pleasure when the other party is a nasty thief! She drained our energy until we couldn't move before sending us packing to the village.
+最後に「無駄な抵抗しないで貢ぎ続ければまたしてあげる」って\nささやかれてよ。くそお、あんなの味わちまったら…。俺、もう…。\nああ、ダメだ。しゃんとしねえと、村の危機だってのに。,And at the very end; she whispered: "Stop the futile resistance. I can keep you company again if you continue giving me offerings." Damn it! After experiencing all the things she did... I'm already about to lose myself... But I need to keep my head straight since the safety of our village is at stake.
 兄ちゃん町の外から来た人だろ？\nふだん見ない顔だもんな。,Onii-chan; did you come from outside the village? I haven't seen you before.
-この町はなあ、金がいっぱい取れるんだぜ。すげえだろ。\n山に開けた穴から、いっぱい掘り出してんだ。,You can find lots of gold around here. Amazing; right? You can mine lots of it from the holes in the mountains.
-でもな。北の山に盗賊団が住みついてから、\nその金をちまちま奪われてんだ。いつの間にか盗まれていることも\nあれば、堂々と昼間っから盗っていくこともあるんだぜ。,However; thieves have settled on the northern mountain and they've been stealing the gold we've been finding. They've even started coming out in the broad daylight to take whatever they can from us.
-大人たちはこの間の討伐失敗以来、\nすっかりあいつらに逆らえなくなっちまっているみたいだしよ。\n情けねえったらねえよ。,We haven't been able resist at all ever since the adults failed in rooting them out. It's quite miserable.
+この町はなあ、金がいっぱい取れるんだぜ。すげえだろ。\n山に開けた穴から、いっぱい掘り出してんだ。,Our village mines a lot of gold. Amazing; right? There are huge veins of it in the mountains around here.
+でもな。北の山に盗賊団が住みついてから、\nその金をちまちま奪われてんだ。いつの間にか盗まれていることも\nあれば、堂々と昼間っから盗っていくこともあるんだぜ。,But we've been losing gold to a band of thieves after they took a base at the northern mountain. And now; they've even started stealing anything they can in the broad daylight.
+大人たちはこの間の討伐失敗以来、\nすっかりあいつらに逆らえなくなっちまっているみたいだしよ。\n情けねえったらねえよ。,The adults have started complying with their demands after they failed to drive them away. That's pretty miserable.
 はぁ…。ここのところ稼ぎが少なくって嫌になっちゃう。\n盗賊騒ぎでこの村に来る人も減っちゃって、\nカモが全然いないのよねぇ・・・。,Sigh... Making money has been difficult lately. Travelers have been avoiding this town because of the thieves; so I haven't been able to find any easy targets.
 ん？なにあなた。村の人じゃないわね。\n旅商人かなにかかしら。,Hmmm? Hey; Onii-san. I haven't seen you before. Are you a traveler?
 ・・・。,...
 （ん、視線がきょろきょろしてる。\nおっぱい見ないようにしてるんだ…❤\nなんかチョロそうな男ね…❤）,(His eyes are wandering as he's trying to avoid staring at my breasts...❤ That's a telltale sign of an easy target.)
-ねえ、お兄さん。わたしね、この村でアクセサリー商をしているの。\nこの村って金で有名でしょう？\nだから金のアクセサリーを作って売ってるのよ。,You see; I sell accessories. You know how this village is famous for it's gold; right? I craft handmade accessories from it.
+ねえ、お兄さん。わたしね、この村でアクセサリー商をしているの。\nこの村って金で有名でしょう？\nだから金のアクセサリーを作って売ってるのよ。,You see; I sell accessories. You know how this village is famous for its gold; right? I craft handmade accessories from it.
 お兄さんに、わたしが作ったアクセサリー、\n買ってほしいなぁって…❤\nねえだめ？ほら、見てこんなアクセサリーなんだけど・・・❤,I'd like you to buy one of my accessories❤ Please take a look at this pendant...
 そういうと女は首にかけていたペンダントの紐に手をかけ、ゆっくりと上にあげた。,After those words; the woman grabbed a string around her neck and began to slowly pull on it.
 ペンダントのひもは大きな胸の谷間の中に続いており、そこからゆっくりとアクセサリーの小さな飾りが引き出されてくる。かなり大きな胸がむにゅりと歪んで、ペンダントを取り出しているだけなのに、なんだかとってもエッチな光景だ。,The string extended between her massive breasts where I could see the top of a small accessory peeking out. Even though she was only taking it out; the sight of her breasts getting pushed aside was really lewd.
 （くす❤見てる、見てる❤\nさっきまでキョロキョロしてた視線が釘付けね❤わっかりやす❤）,(Ehehe❤ He's staring❤ His wandering gaze got locked on my breasts❤ It's so obvious❤)
 あとちょっとで全体が顔を出すというところで、急に女は手を止めた。そして僕のそばに一歩近寄るとささやくように甘い声で言った。,Just as she was about to fully pull out the pendant; the woman stopped her hand. Then; she took a step closer to me and sweetly whispered...
 ねえ、お兄さん❤\n最後のところお兄さんが引っ張てくれない？\nわたし、手で持ち上げるの疲れちゃった…❤,Hey; Onii-san❤ Can you pull out the last bit? My hand got tired❤
-こんなにおっぱいが大きいと、\n谷間の挟む力もすごくてぇ…❤\n持ち上げるのも手が疲れちゃうの。だからほら、おねがい❤,My breasts are really big; so they're clinging to the pendant really tightly❤ I don't think I can do it. Please, pull it out for me❤
+こんなにおっぱいが大きいと、\n谷間の挟む力もすごくてぇ…❤\n持ち上げるのも手が疲れちゃうの。だからほら、おねがい❤,My breasts are really big; so they're clinging to the pendant really tightly❤ I don't think I can do it. Please; pull it out for me❤
 そう言って、僕にペンダントの鎖を触らせようとしてくる。果たしてそんな理由で腕が疲れるだろうか。明らかに怪しい…。,After those words; the woman held the string of the pendant to me. I wondered if she really could have exhausted her hands from pulling on such a small accessory? This was looking quite suspicious.
 しかし、たぷたぷと目の前で揺れる胸が僕の思考を奪ってくる。あの鎖を引っ張ったらもっと揺れる様子が見れるかもしれない・・・。僕は・・・。,However; her massive breasts shaking in front of my eyes were taking away my reason. A thought crossed my mind that I might get to see them shake even more if I pulled on the string. In that situation; I...
 わわっ、もうそんなに急に離れないでよ。\nどうしたの？わたしのアクセサリー、見て行ってくれないの…❤,Woah! Why did you pull back all of a sudden? Are you going to leave before taking a look of my pendant?❤
@@ -54,7 +54,7 @@ Place/WestTown,
 んふ❤どうしたのお兄さん。\nさっきは帰っちゃったのに、また戻ってきてくれたんだ❤,Mmmh❤ What is it; Onii-san? You left before; but now you're back here❤
 やっぱりぃ、これが気になっちゃった？くすくす❤,Did the curiosity end up getting the better of you? Ehehe❤
 そういって女は見せつけるようにアクセサリーの鎖をなんども小刻みに上下に引いてみせた。軽い振動に合わせて、胸がたぷんたぷんと揺れている。,After those words; the woman made small and quick tugs on the string of the pendant; which made her breasts shake along with them.
-あうう・・・❤, Uuuh...❤
+あうう・・・❤,Uuuh...❤
 ねえ、お兄さん。\nこうやって持ち上げてるとおっぱいが重くてぇ…❤\nわたし手が疲れちゃったから代わりに持ち上げてほしいの❤,Hey; Onii-san. My breasts are so big and heavy that I can't get the pendant out any more than this...❤ My hands are tired; so can you pull it out for me?
 おねがぁい❤\nこ、こ❤やさしく引っ張って❤\nあんまり乱暴にしちゃいやよ❤ほら・・・❤,Please take the string and pull it out❤ But try not to be too rough❤
 そう言って、僕にペンダントの鎖を触らせようとしてくる。僕は・・・。,After those words; the woman held the string of the pendant to me. In that situation; I...
@@ -65,7 +65,7 @@ Place/WestTown,
 （うわぁ・・・❤やわらかいぃ・・・❤）,(Waaah...❤ They're so soft...❤)
 あん❤お兄さんのエッチ❤\nねえ、いいわよ、そのままおっぱいの中から\nペンダントの飾りを引っ張りだして❤,Ah❤ Onii-san; how naughty of you❤ But I don't mind. You grab the pendant directly from my breasts too❤
 ほら、早く❤早く❤,Now; please hurry❤ Quickly pull it out for me❤
-彼女は胸を両手で側面から押して、谷間の感触をむにゅむにゅと味合わせてくる。手の平を覆う甘い快感と、いきなり女の人の谷間に手を突っ込んでしまったという恥しさで、頭の中が沸騰しそうだ。,The woman pushed her breasts together with her hands, giving me a full experience of their softness. My head was about to overboil: first from the shame of suddenly touching a woman's breast; and the second from the heavenly sensation I was feeling with my hand.
+彼女は胸を両手で側面から押して、谷間の感触をむにゅむにゅと味合わせてくる。手の平を覆う甘い快感と、いきなり女の人の谷間に手を突っ込んでしまったという恥しさで、頭の中が沸騰しそうだ。,The woman pushed her breasts together with her hands; giving me a full experience of their softness. My head was about to overboil: first from the shame of suddenly touching a woman's breast; and the second from the heavenly sensation I was feeling with my hand.
 僕は顔を真っ赤にしながら急いで、彼女に言われるまま谷間の中でペンダントの飾りを探した。指が固いものに触れる。これに違いない。急いで手の平で握って、それを取り出すと・・・。,As she urged me on; I began searching for the pendant while feeling my cheeks burning up. I felt something hard brush against my fingertip. That must have been the pendant; so I grabbed it and pulled it out; but...
 あん❤んふふ、ありがと❤\nあなたのおかげでペンダントを取り出せたわ。\nってあら・・・？,Ah❤ Ehehe. Thank you❤ We managed to get the pendant out with your help... Oh...?
 僕が手の平を開いてみると、そこには元々蝶の形をしていたであろう、金の飾りが見て取れた。しかしそれはぐにゃりと歪んで、僕の手の平の上で潰れてしまっている。,When I opened my hand; a golden ornament that looked like a butterfly rested on my palm; or that was what it would have looked like if it hadn't been terribly twisted and turned.
@@ -128,7 +128,7 @@ ring completely went between my breasts❤ If you were to cum now and dirty my p
 そうしたら、またあなたに弁償させちゃう～❤\nあーん、ごめんなさーい❤,If that were to happen; you would have to pay compensation to me again❤ Aah❤ I'm so sorry❤
 うあ、あぐぅ、そんな激しく動かしたら・・・❤はひぃっ❤,Ah... Ugh... Wait; if you move so fast; I...❤ Aaah❤
 言葉とは裏腹に、彼女はどんどんパイズリの速度を早くしていく。だぷん、だぷんと大きな胸が波打って、僕のペニスをもみくちゃにしていく。,Contrary to what she said; the woman picked up the pace with her boobjob. She was tightly kneading my penis and smacking her breasts down on my waist.
-ダメだ、このまま出したら、また高い金を払わされてしまう。我慢して、早く抜かないと。ううっ、でも、気持ちよくてぇ…❤,No, I shouldn't give in! She will make me pay a huge sum of gold again if I cum now! I need to endure and pull out... Uuuh... But it feels so good❤
+ダメだ、このまま出したら、また高い金を払わされてしまう。我慢して、早く抜かないと。ううっ、でも、気持ちよくてぇ…❤,No; I shouldn't give in! She will make me pay a huge sum of gold again if I cum now! I need to endure and pull out... Uuuh... But it feels so good❤
 あーん、おっぱいから指輪を取り出すまで我慢してくださぁい❤\nイっちゃダメ、イっちゃダメですよ❤イったら今度は\n8000Gです～。たかーいお金を払ってもらわないと～❤,
 Please endure until I've managed to take out the ring❤ Please don't cum❤ Don't cum❤ If you were to cum now; you would have to pay me 8000G❤ You would have to pay such an exorbitant amount❤
 こんなにおっぱい激しく動かされても、イっちゃダメ❤\nほらぁがまんしてぇ❤\nぎゅーってチンポ押しつぶされてもぉ、がまんがまん❤,You can't go cumming even if I were to move my breasts this intensively❤ You need to endure❤ Endure even when I'm tightly squeezing your penis❤
@@ -150,16 +150,16 @@ I only needed to push off them woman; but I wasn't able to figure that out with 
 彼女は胸をむにゅむにゅと揺らし、さっきまでのパイズリを思い出させる動きを僕に見せつけてきた。,The woman shook her breasts up and down in the air to make me recall how she had given me a boobjob a moment ago.
 僕はさっき射精したばかりだというのに、エロ過ぎる光景を前にまた前かがみになってしまう。,I couldn't help slouching with another erection because of how lewd that sight was even when I had ejaculated just now.
 ま、さすがに3回も貢ぎに来るほどバカじゃないわよね？\nそれじゃあねー。,But no one would be as stupid as to fall for the same trick three times; right? Then; bye.
-この街は金の産出で有名でな。\n金細工の技術も進んでいるんだ。,This village is famous for its gold; and you can find many skilled goldsmiths around here.
-俺たちが作ったアクセサリーは、国中で人気があって、\nプレゼントにも喜ばれるぜ。\nあんたもひとつどうだい？,The accessories we make are popular across the country; and they make great gifts. Why don't you buy one too?
-ん、あんたが持っているそのペンダント。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant you've got... Haha. You got your hands on fakes. They aren't made of gold.
-ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nあんたのやつ相当な粗悪品だな。,Just try comparing it to one my goods. The color is off; right? It's a fake. The shape is quite bad too; so you got sold quite a poor product.
-え？いくらぐらいが妥当かって？\nうーん、50Gぐらいじゃねえかなぁ。\nそれでも買うやつがいるかどうか…。,Eh? How valuable do I think it is? Hmm. Maybe around 50G? But I doubt anyone would by it even at that.
-ま、騙されたなら勉強代だと思うしかねえな。\n世の中悪い奴もいるから気を付けなよ。,Well; if you got swindled; you can only take it as a learning experience. You should be careful because there are bad people like that.
-ん、あんたが持っているそのペンダントと指輪。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant and ring you've got... Haha. You got your hands on fakes. They aren't made of gold.
-ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nそりゃ、相当な粗悪品だな。,Just try comparing it to one my goods. The color is off; right? It's a fake. The shape is quite bad too; so you got sold quite a poor product.
-その宝石も安い水晶だしよ。\nえ？いくらぐらいが妥当かって？\nうーん、どっちも50Gぐらいじゃねえかなぁ。,That jewel is just a cheap crystal too. Eh? How valuable do I think they are? Maybe around 50G each?
-ん、あんたが持っているその指輪。\nお前さん、またパチモン掴まされたのか。\nその指輪も純金じゃなくてメッキだぜ。,Hmm? That ring you've got... You got swindled again. It's another fake. 
-忠告したばっかりなのに、あんたも学ばないねぇ。\n付いている宝石も安い水晶だしよ。\nこりゃまたかなりの粗悪品だな。,It seems my earlier warning went to deaf ears. That jewel is just a cheap crystal too. It's quite poor-quality item.
-え？いくらぐらいが妥当かって？\nうーん、それも50Gぐらいじゃねえかなぁ。, Eh? How much would I estimate for its value? That's probably around 50G too.
-あんた騙されやすいみたいだしよ。もう下手に買わない方がいいよ。\nちゃんとした店を探すまで、買い物は控えておきな。\nそうでないとお金がいくらあっても足りねえぜ。,Maybe you should avoid buying anything since you're getting swindled a lot. Hold onto your purse on until you've found a proper shop.
+この街は金の産出で有名でな。\n金細工の技術も進んでいるんだ。,This village is famous for its gold sources. It's also at the leading edge of goldsmithing techniques.
+俺たちが作ったアクセサリーは、国中で人気があって、\nプレゼントにも喜ばれるぜ。\nあんたもひとつどうだい？,The accessories made here are popular across the country and make great gifts. Why don't you buy one too?
+ん、あんたが持っているそのペンダント。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant... Haha. You got tricked, son. That's not made of real gold.
+ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nあんたのやつ相当な粗悪品だな。,Try comparing it to one the accessories I've made. The color is off, right? That's a fake. The craftwork isn't great either, so you got sold quite a poor product.
+え？いくらぐらいが妥当かって？\nうーん、50Gぐらいじゃねえかなぁ。\nそれでも買うやつがいるかどうか…。,Eh? How much would I estimate for its value? Hmm... Around 50G? But it might be challenging to find a buyer even at that price.
+ま、騙されたなら勉強代だと思うしかねえな。\n世の中悪い奴もいるから気を付けなよ。,Well, you should take this as a learning experience. Be careful because there are swindlers like that around too.
+ん、あんたが持っているそのペンダントと指輪。\nははぁ、パチモンを掴まされたな。\nそれ純金じゃなくてメッキだぜ。,Hmm? That pendant and ring... Haha. You got tricked, son. Those aren't made of real gold.
+ほら、俺が作った本物と見比べると色味がだいぶ違うだろ？\nメッキだし、形も悪いしで、\nそりゃ、相当な粗悪品だな。,Try comparing them to one the accessories I've made. The color is off, right? That's a fake. The craftwork isn't great either, so you got sold quite a poor products.
+その宝石も安い水晶だしよ。\nえ？いくらぐらいが妥当かって？\nうーん、どっちも50Gぐらいじゃねえかなぁ。,That jewel is just a cheap crystal as well. Eh? How much would I estimate for their value? Hmm... Around 50G each; I think.
+ん、あんたが持っているその指輪。\nお前さん、またパチモン掴まされたのか。\nその指輪も純金じゃなくてメッキだぜ。,Hmm? That ring... You got tricked again, son. That's another fake. 
+忠告したばっかりなのに、あんたも学ばないねぇ。\n付いている宝石も安い水晶だしよ。\nこりゃまたかなりの粗悪品だな。,It seems like my earlier warning went to deaf ears. That jewel is just a cheap crystal too. You got sold another poor-quality item.
+え？いくらぐらいが妥当かって？\nうーん、それも50Gぐらいじゃねえかなぁ。,Eh? How much would I estimate for its value? Hmm... That's probably only around 50G too.
+あんた騙されやすいみたいだしよ。もう下手に買わない方がいいよ。\nちゃんとした店を探すまで、買い物は控えておきな。\nそうでないとお金がいくらあっても足りねえぜ。,You keep getting tricked; so maybe it would be for the better you to stop buying things outside of proper shops? Otherwise; you might lose all your gold.
