@@ -1,4 +1,4 @@
 default
 フレイムキャンサー,Flame Crab
 [1].このカードが召喚に成功したときライフを800払って発動する。「ラヴァガール」1体をを特殊召喚する。\n[2].このカードが攻撃宣言を行ったときに発動する。このカードを除くフィールド上のすべてのモンスターに100ポイントダメージを与える。,[1]When this monster is summoned; pay 800LP to Special Summon 1 Lava Girl.\n[2]When this monster attacks; deal 100 damage to all other monster on the field.
-炎を身にまとった大きなカニ。火山地帯に住んでおり、移動にあわせて体に付着した溶岩を周囲にまき散らすたいへん迷惑な生き物である。,A huge crab clad in flames that lives in volcanic regions. It's a troublesome creature that spreads molten rock from its body wherever it moves.
+炎を身にまとった大きなカニ。火山地帯に住んでおり、移動にあわせて体に付着した溶岩を周囲にまき散らすたいへん迷惑な生き物である。,A huge crab clad in flames that lives in volcanic regions. Molten rock scatters from its body everywhere where it moves; which makes it a troublesome creature.
