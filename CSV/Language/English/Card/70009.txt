@@ -20,21 +20,21 @@ Sexy01,
 ランクが上でも関係ない、\nこの間と同じようにまたわたしが勝つんだから！\nさあバトルよ！,It doesn't matter if you're higher rank! I'll win just like last time! Now; let's battle!
 ううっ、強い…。\nでもわたし諦めない、次やるときは勝つんだから！\nまたやりましょう！,Uuh... So strong. But I'm not giving up! I'll win next time! Mark my words!
 ランクが上の男でも射精しちゃうわたしのカラダ、\nアンタには刺激が強かったかもしれないわね❤\nふふ、エナジーごちそうさま❤,
-へへん、どう？わたしの炎デッキの力、すごいでしょ！,
-楽しいバトルだったわ。またいつでも再戦待ってるわね。,
+へへん、どう？わたしの炎デッキの力、すごいでしょ！,Ehehe. Well? The power of my flame deck is amazing; right?
+楽しいバトルだったわ。またいつでも再戦待ってるわね。,That was a fun battle. I'm ready for a rematch anytime.
 ううっ、さすがに強いわね…。\n上のランクに行っただけあるわ…。悔しいぃ…。,Uuh... So strong. It's no wonder you ranked up... This is frustrating...
-エナジーごちそうさま❤ランクが上でも、\nわたしの体で精液どぴゅどぴゅしちゃうのは変わらなかったわね❤,
-やったぁ！上のランク相手でも勝てた！\nわたしの炎デッキの力、すごいでしょ！,
-またいつでも再戦待ってるわね！,
+エナジーごちそうさま❤ランクが上でも、\nわたしの体で精液どぴゅどぴゅしちゃうのは変わらなかったわね❤,Thanks for the energy❤ Even when you got higher rank; you still couldn't help blowing your load to my body just like before❤
+やったぁ！上のランク相手でも勝てた！\nわたしの炎デッキの力、すごいでしょ！,Yay! I won against a higher rank opponent! The power of my flame deck is amazing!
+またいつでも再戦待ってるわね！,I'm ready for a rematch anytime!
 あなたのターンからね。,You go first.
 わたしのターンからね。,I go first.
 ドロー！,Draw!
 ドローするわ。,I draw a card.
 行くわよ、{使用カード}を上級召喚！,Here I go; I summon {使用カード}!
 {使用カード}を召喚。,Summon {使用カード}.
-ううっ、あうう・・・❤,
-あは、アンタ復活したのにチンポギンギンじゃない❤\n自分から負けちゃっただけあって\n理性がゴミみたいに弱っちいのね❤,
-こんな風に罵られてもうっとりした顔のままだし、重症だわ❤\n何もできないでくの坊のにはさっさと退場願うとしましょう。\nくすくす❤,
+ううっ、あうう・・・❤,Uuuh... Auuuh...❤
+あは、アンタ復活したのにチンポギンギンじゃない❤\n自分から負けちゃっただけあって\n理性がゴミみたいに弱っちいのね❤,Ahaha. Your penis is hard even after reviving❤ Your mind must be weak as trash since you made yourself lose❤
+こんな風に罵られてもうっとりした顔のままだし、重症だわ❤\n何もできないでくの坊のにはさっさと退場願うとしましょう。\nくすくす❤,You've got some serious issues when you're watching with enraptured face while I make fun of you like this. Blockheads who can't do anything like you should just leave already. Ahaha❤
 さらにもう1枚発動！,And I activate another magic!
 墓地へ送られたとき{使用カード}の効果発動！すべてのモンスターに1000ポイントダメージ！,{使用カード} triggers when sent to graveyard! I deal 1000 points of damage to all monsters!
 爆発の時間よ！すべてのモンスターに1000ポイントダメージ！,Time for an explosion! 1000 points of damage to all monsters!
@@ -42,12 +42,12 @@ Sexy01,
 炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローし味方全体を200ポイント回復！,{使用カード} triggered from fire damage! I draw a card and recover 200HP to all my monsters!
 炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローしてさらに味方を回復させる！,{使用カード} triggers from fire damage! I draw a card and heal all my monsters!
 効果ダメージで破壊されたとき{使用カード}の効果発動！自身を墓地から復活させる！,{使用カード} triggers when its destroyed by effect damage; reviving it from the graveyard!
-戦闘で破壊されたとき{使用カード}の効果発動！「ラヴァガール」を特殊召喚！,
+戦闘で破壊されたとき{使用カード}の効果発動！「ラヴァガール」を特殊召喚！,{使用カード} triggers when it's destroyed in battle! I special summon Lava Girl!
 炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,{使用カード} triggered from fire damage! It's HP and ATK increase by 300 points!
 炎を食って成長しなさい！{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,Consume the flames and grow! {使用カード} triggered; increasing its HP and ATK increase by 300 points!
 召喚に成功したとき{使用カード}の効果発動！ラヴァガールを特殊召喚！,{使用カード} triggers on summon! I special summon Lava Girl!
-攻撃時に{使用カード}のモンスター効果発動！すべてのモンスターに100ポイントダメージを与えるわ！,
-魔法カード発動！{使用カード}！これを付与したモンスターが戦闘破壊されたとき2ドローするわ.,
+攻撃時に{使用カード}のモンスター効果発動！すべてのモンスターに100ポイントダメージを与えるわ！,{使用カード} triggers when it attacks, dealing 100 points of damage to all other monsters!
+魔法カード発動！{使用カード}！これを付与したモンスターが戦闘破壊されたとき2ドローするわ.,I activate magic card: {使用カード}! Targeted monster draws me 2 cards when its destroyed in combat!
 魔法カード発動！{使用カード}！すべてのモンスターに400ポイントダメージよ！,I activate magic card {使用カード}; dealing 400 points of damage to all monsters!
 どんどん吹っ飛ばすわ。魔法カード、{使用カード}を発動！,I'll blow you away. Magic Card {使用カード} activate!
 ライフを500払い、{使用カード}を発動！表側表示の魔法トラップカードを1枚破壊する！,I pay 500 LP to activate {使用カード}; destroying a face-up magic or trap card!
@@ -55,11 +55,11 @@ Sexy01,
 さらにその後、自分フィールド上のすべてのモンスターは600ポイントダメージを受けるわ！,And then; I deal 600 points of damage to all my monsters!
 永続魔法{使用カード}を発動！わたしのターン終了時ごとにすべてのモンスターに100ポイントダメージを与えるわ！,I active permanent magic {使用カード}! At the end of my turns; all monster take 100 points of damage!
 永続魔法{使用カード}を発動！すべてのモンスターに100ポイントの効果ダメージを毎ターン与えるわ！,I active permanent magic {使用カード}; dealing 100 points of damage to all monsters!
-装備魔法カード発動！{使用カード}！,
-魔法カードを発動するわ！{使用カード}！,
-トラップカードを発動！{使用カード}！,
-カードをセット。,
-カードを伏せる。,
+装備魔法カード発動！{使用カード}！,I activate equipment card: {使用カード}!
+魔法カードを発動するわ！{使用カード}！,I activate magic card: {使用カード}!
+トラップカードを発動！{使用カード}！,I activate trap card: {使用カード}!
+カードをセット。,I set a card.
+カードを伏せる。,I play a card face-down.
 攻撃するわ！{防御カード}にアタック！,I'm attacking! My target is {防御カード}!
 バトルよ！{使用カード}で{防御カード}を攻撃！,Let's fight! I attack {防御カード} with {使用カード}!
 むむ、手札が悪いわね。ターンエンド。,Nnngh... I've got a bad hand. Turn end.
@@ -67,43 +67,43 @@ Sexy01,
 ターンを終了よ。,I end my turn.
 ターンエンドよ。,Turn end.
 これで終わりね。ターンエンド。,That's all. I end my turn.
-む、攻撃を防いでくるか…。,
-ねえ、アンタもわたしの胸が気になる？前はもっとぺったんこだったのに最近急に大きくなったのよ、これ。,Hey; are you; too; interested in my breasts? I was much flatter before; but they've been growing really fast recently.
-男ってほんとスケベよね。こうやってボタンをはずして谷間をチラって見せたら…。ほら目が吸い寄せられてる❤,All men are such lechers. I just need to take off a button and show a peek of my cleavage... See? Your eyes got instantly drawn to it❤
-この中にチンポ入れて気持ちよくしてあげよっか？練習してるからけっこううまいはずよ。えい、ずっぷん…❤,Do you want me to insert your penis into this hole and make you feel good? I've been training; so I've become pretty good at it... There we we❤ You're all in❤
-おっぱいで挟んでしごくのをパイズリって言うんでしょ？こんなことで気持ちよくなっちゃうなんて男って変態よね❤,
-アンタもわたしのおっぱいで挟まれたら、少ししごいただけでエナジー出しちゃうのかしら。実験してあげるわ❤,
-見なさい。わたし胸大きいでしょ？これ急に大きくなったから服のサイズが間に合わなくってパツパツなの。,Look. Can you see how huge my breasts are? They've been growing so quickly that my shirt barely fits me.
-いまもまだおっきくなっている最中でしょっちゅうボタンが飛んでっちゃうのよ。めんどうったらないわ。,And they're still getting bigger; since my buttons always keep popping off. It's been quite troublesome.
-でもそのおかげで最近の戦績は向上中❤だって男ってこれにあんまりに弱いんだもの❤,But thanks to that; my win rate has seen an explosive growth recently. Men just can't help being weak to breasts after all❤
-あんたもそうよね？ほら、パイズリしてあげるからさっさとわたしに白旗あげちゃいなさい❤くすくす❤,You're also the same; right? I'll give you a boobjob; so hurry up and put up the white flag❤ Ahaha❤
-谷間のボタンを外してっと…。\nアンタのチンポ、パイズリで気持ちよくしてあげる❤,I'll undo this button on my shirt... And make you feel good with boobjob❤
-見て？丸ごと飲み込んじゃったわ❤\nおっぱいに完全に埋もれてチンポが見えない❤\nなんだかこうやって捕まえると優越感があるわよね♪,Look; your penis went in all the way to the base❤ It's fully buried and hidden between my breasts❤ I can't help feeling a sense of superiority when I catch you like this♪
-おっぱいをズリズリ動かして、\n足腰立たなくなるまで気持ちよくしてあげる❤\n覚悟しなさい。ふふふ❤,I'm going to slide my breasts up and down and make you feel so good that your legs give in❤ Get ready for it. Ahahaha❤
-膝でグリグリされて気持ちいいの？ふふふ、声出しちゃってみっともないわね。,Does it feel good when I grind my knee against your groin? Ahaha! Look at you miserably moaning.
-わたしの美脚でさっさとイかせてあげる。されるがまま喘いでていいわよ。変態❤,I'll make you cum to my beautiful leg. Go ahead and moan louder while you're too helpless to stop me. You pervert❤
-足でふみつけてしごいてあげるわ。,I'll trample and grind you under my foot.
-こんなふうに前後にスリスリされるのが気持ちいいんでしょ？\n女に見下ろされながら足に出しちゃいなさい。くすくす❤,It feels good when I move back on forth like this; right? Cum to my foot while I'm looking down at you. Ahaha❤
-ふとももの間にチンポを入れて気持ちよくしてあげる。,I'll make you feel good by inserting your penis between my thighs.
-んふ、この姿勢だとおっぱいがアンタの胸板にあたっちゃうわね❤\nむにゅうってつぶれて、視線が釘付けかしら？,Mmmh. My breasts also pressing against your chest in this position❤ Does it capture your eyes to see them squish up like that?
-おっぱいを馬鹿みたいに見ている間に、\n腰を振ってふとももでチンポをしごいてあげる❤\nさっさと射精しちゃいなさい❤,While you're staring at them like a dummy; I'll shake my hips and stroke your penis with my thighs❤ Hurry up and cum❤
-あれあれー？わたしより上のランクのくせに、足で踏まれてチンポ固くなっているんだけど？,What's this? You're higher rank than me; so why is your penis getting hard when I trample it?
-ランクが上がってもチンポ踏まれちゃえば関係ないか。足でぐりぐりチンポいじめてあげるから、早く降参しちゃいなさい。ふふふ❤,It looks like your rank makes no difference to getting trampled❤ I'll grind your penis under my foot; so hurry up and surrender already. Ahahaha❤
-両足でチンポ挟んで足コキしてあげるわ。,I'll grab your penis between my soles and give you a footjob.
-けっこう野外を走り回っているから、足の動きには自信があるのよ。しっかりチンポ捕まえてシコシコ気持ちよくしてあげる。ほらほらほら！,I often go running in the outskirts; so I'm confident in my leg muscles. I can tightly squeeze and stroke your penis like this!
-ん？どうしたのかしら。\nわたしのそばに来て、そんな媚びるような目をしちゃって…。\nえ、もしかしてわたしに気持ちいいことしてほしいの？,Hmm? What's this? You came to me with such fawning eyes... Do you want me to make you feel good or something?
-あは、本当にそうなんだ❤\nまだバトル中なのに敵に攻撃をねだるなんて\nわたしのセクシーな体に脳を焼かれちゃったかしら❤,Ahaha. That's really what you want?❤ To think that you would go begging your opponent in the middle of a battle... Did my sexy body fry up your brain?❤
-どうする？胸でしてほしい？それとも足で踏んでほしい？\nアンタがどうやってやられたいか教えてくれれば、\nしてあげてもいいわよ❤,Well? Do want a boobjob? Or maybe you want me to trample you under my feet? Tell me how you want it and I'll do so❤
-胸で挟んでほしい,I want it with your breasts
-足で踏んでほしい,I want it with your feet
-なんでも,I want it with everything
-そう、胸でしてほしいんだ❤\nみんなこの胸が大好きよね。最近急に大きくなったのだけれど、\n大きくなってから勝率が段違いなの❤,I see; you want me to use my breasts❤ All men just can't help but love my breasts. They've been growing really fast recently; and that has made a huge different in my win rate❤
-パツンパツンに張った服の中に、\nアンタのチンポを入れて気持ちよくしてあげる❤\nわたしのパイズリ、たっぷり楽しみなさい❤,I'll insert your penis inside my tight shirt and make you feel good❤ Enjoy my boobjob to your heart's content❤
-へぇ、足で踏んでほしいんだ❤\nおっぱいに夢中になっちゃう男の子ばかりなのに、\nアンタは変わった趣味してるのね❤,Oh? You want me to trample you?❤ You've got some weird tastes since boys usually go crazy over breasts. 
-いいわよ❤マゾなアンタをたっぷり気持ちよくしてあげる❤\n足コキだってけっこううまいんだから、\nすぐに射精させてみせるわ❤,Fine❤ I'll make you feel good; you masochist❤ I'm quite skilled in footjobs; so I'm sure I can make you cum in no time❤
-くすくす❤おっぱいでズリズリってしてあげたら、\nとっても情けない顔で射精しちゃったわね❤\n谷間にこんなに出してスケベなんだから❤,Ahaha❤ You blew your load with a really miserable face to my boobjob❤ You're such a perv to cum so hard in my boobs❤
-脚でいじめてあげたら、アヘアへ言いながら出しちゃったわ❤\nわたしにバカにされながらいじめられて、気持ちよかったんだ❤\nマゾなモンスターね。くすくす❤,You moaned and blew your load so hard❤ Did it feel that good when I made fun of and toyed you with my foot? What a masochistic monsters❤ Ahahaha❤
-……っ！❤,
+む、攻撃を防いでくるか…。,Nngh... You protected against my attack.
+ねえ、アンタもわたしの胸が気になる？前はもっとぺったんこだったのに最近急に大きくなったのよ、これ。,Hey; are you; too; interested in my breasts? I was quite flat before; but my chest has been growing a lot recently.
+男ってほんとスケベよね。こうやってボタンをはずして谷間をチラって見せたら…。ほら目が吸い寄せられてる❤,Men truly are just a bunch of lechers. I just need to take off a button to show a peek of my cleavage... See? Your eyes got instantly drawn to it❤
+この中にチンポ入れて気持ちよくしてあげよっか？練習してるからけっこううまいはずよ。えい、ずっぷん…❤,Do you want me to insert your penis into this hole and make you feel good? I've been training; so I think I can do it pretty good... There we we❤ You're all in❤
+おっぱいで挟んでしごくのをパイズリって言うんでしょ？こんなことで気持ちよくなっちゃうなんて男って変態よね❤,It's called a boobjob when a girl squeezes and strokes a penis with her breasts; right? Men are such perverts to feel good from something like this❤
+アンタもわたしのおっぱいで挟まれたら、少ししごいただけでエナジー出しちゃうのかしら。実験してあげるわ❤,I wonder if you'll also give away your energy with a little bit of squeezing and stroking? Let's find out❤
+見なさい。わたし胸大きいでしょ？これ急に大きくなったから服のサイズが間に合わなくってパツパツなの。,Look how huge my breasts are. I've been going through such a growth spurt that my shirt barely fits me.
+いまもまだおっきくなっている最中でしょっちゅうボタンが飛んでっちゃうのよ。めんどうったらないわ。,And they still haven't stopped getting bigger. It's quite troubling when my buttons always keep popping off.
+でもそのおかげで最近の戦績は向上中❤だって男ってこれにあんまりに弱いんだもの❤,But thanks to my breasts; my win rate has seen an explosive increase recently. Men are just that weak to them❤
+あんたもそうよね？ほら、パイズリしてあげるからさっさとわたしに白旗あげちゃいなさい❤くすくす❤,You're also the same; right? I'll give you a boobjob; so hurry up and stick up the white flag❤ Ahaha❤
+谷間のボタンを外してっと…。\nアンタのチンポ、パイズリで気持ちよくしてあげる❤,I'll undo a lower button on my shirt... And make you feel good with boobjob❤
+見て？丸ごと飲み込んじゃったわ❤\nおっぱいに完全に埋もれてチンポが見えない❤\nなんだかこうやって捕まえると優越感があるわよね♪,Look; I took your penis all the way to the base❤ It's fully hidden between my breasts❤ It kind of tickles my sense of superiority when I hold you in this position♪
+おっぱいをズリズリ動かして、\n足腰立たなくなるまで気持ちよくしてあげる❤\n覚悟しなさい。ふふふ❤,Then; I'm going to move my breasts up and down and make you feel so good that your legs give in❤ Get ready. Ahahaha❤
+膝でグリグリされて気持ちいいの？ふふふ、声出しちゃってみっともないわね。,Does it feel good when I grind your groin with my knee? Ahaha! Look at you miserably moaning.###
+わたしの美脚でさっさとイかせてあげる。されるがまま喘いでていいわよ。変態❤,I'll make you cum to my beautiful legs; so go ahead and moan even louder while you're too helpless to do anything. You pervert❤
+足でふみつけてしごいてあげるわ。,I'll trample and grind your penis under my foot.
+こんなふうに前後にスリスリされるのが気持ちいいんでしょ？\n女に見下ろされながら足に出しちゃいなさい。くすくす❤,It feels good when I move back on forth like this; right? Cum to my foot while I look down at you. Ahaha❤
+ふとももの間にチンポを入れて気持ちよくしてあげる。,I'll insert your penis between my thighs and make you feel good.
+んふ、この姿勢だとおっぱいがアンタの胸板にあたっちゃうわね❤\nむにゅうってつぶれて、視線が釘付けかしら？,Ngh. This position makes my breasts also press against your chest❤ Is it eye-catching to see them squish up like that?
+おっぱいを馬鹿みたいに見ている間に、\n腰を振ってふとももでチンポをしごいてあげる❤\nさっさと射精しちゃいなさい❤,I'll shake my hips and stroke your penis with my thighs while you're staring at my breasts like a total dummy❤ Hurry up and cum❤
+あれあれー？わたしより上のランクのくせに、足で踏まれてチンポ固くなっているんだけど？,What's this? Why is your penis getting hard when I trample it even when you're supposed to be higher rank than me?
+ランクが上がってもチンポ踏まれちゃえば関係ないか。足でぐりぐりチンポいじめてあげるから、早く降参しちゃいなさい。ふふふ❤,It looks like the rank difference makes no difference to getting trampled❤ I'll grind your penis under my foot; so hurry up and surrender already. Ahahaha❤
+両足でチンポ挟んで足コキしてあげるわ。,I'll grab your penis with my soles and give you a footjob.
+けっこう野外を走り回っているから、足の動きには自信があるのよ。しっかりチンポ捕まえてシコシコ気持ちよくしてあげる。ほらほらほら！,I often go running in the outskirts; so I'm quite confident in my leg muscles. I can tightly squeeze and stroke your penis like this!
+ん？どうしたのかしら。\nわたしのそばに来て、そんな媚びるような目をしちゃって…。\nえ、もしかしてわたしに気持ちいいことしてほしいの？,Hmm? What's this? You're walking to me with such fawning eyes... Do you want me to make you feel good or something?
+あは、本当にそうなんだ❤\nまだバトル中なのに敵に攻撃をねだるなんて\nわたしのセクシーな体に脳を焼かれちゃったかしら❤,Ahaha. That's really what you want?❤ To think that you would go begging your opponent in the middle of a battle... Did your brain get fried before my sexy body?❤
+どうする？胸でしてほしい？それとも足で踏んでほしい？\nアンタがどうやってやられたいか教えてくれれば、\nしてあげてもいいわよ❤,Well; what where you thinking of? Do want a boobjob? Or maybe you want me to trample you under my feet? Tell me and I'll do it❤
+胸で挟んでほしい,Use your breasts
+足で踏んでほしい,Use your feet
+なんでも,I want both
+そう、胸でしてほしいんだ❤\nみんなこの胸が大好きよね。最近急に大きくなったのだけれど、\n大きくなってから勝率が段違いなの❤,I see. So you want me to use my breasts❤ All men have been crazy about them. My chest has been growing fast recently; and that has made a huge boost to my win rate❤
+パツンパツンに張った服の中に、\nアンタのチンポを入れて気持ちよくしてあげる❤\nわたしのパイズリ、たっぷり楽しみなさい❤,I'll insert your penis in my tight shirt and make you feel good❤ Make sure to thoroughly enjoy my boobjob❤
+へぇ、足で踏んでほしいんだ❤\nおっぱいに夢中になっちゃう男の子ばかりなのに、\nアンタは変わった趣味してるのね❤,Oh? You want me to trample you?❤ Men are usually crazy over my breasts; so you've got some unusual tastes.
+いいわよ❤マゾなアンタをたっぷり気持ちよくしてあげる❤\n足コキだってけっこううまいんだから、\nすぐに射精させてみせるわ❤,But I don't mind❤ I'll make you feel good; you masochist❤ I'm pretty good at footjobs; so I'm sure you'll cum in no time❤###
+くすくす❤おっぱいでズリズリってしてあげたら、\nとっても情けない顔で射精しちゃったわね❤\n谷間にこんなに出してスケベなんだから❤,Ahaha❤ My boobjob made you blow your load with a really miserable face❤ You're such a perv to cum so much in my boobs❤
+脚でいじめてあげたら、アヘアへ言いながら出しちゃったわ❤\nわたしにバカにされながらいじめられて、気持ちよかったんだ❤\nマゾなモンスターね。くすくす❤,You moaned and blew your load so hard❤ Was it that amazing to have me make fun of you and toy you with my foot? You're such a masochistic monster❤ Ahahaha❤
+……っ！❤,...!❤###
 もしかしてアンタ、またわたしでオナニーしちゃうの？前回それで負けてるくせに、学習能力ないのかしら❤,
 あぁ それとも、"わたしのおっぱいには勝てない"ってことを学習しちゃったの？ふふ❤,
 う、うぅ…❤,
