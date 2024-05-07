@@ -35,7 +35,7 @@ Sexy01,
 ううっ、あうう・・・❤,Uuuh... Auuuh...❤
 あは、アンタ復活したのにチンポギンギンじゃない❤\n自分から負けちゃっただけあって\n理性がゴミみたいに弱っちいのね❤,Ahaha. Your penis is hard even after reviving❤ Your mind must be weak as trash since you made yourself lose❤
 こんな風に罵られてもうっとりした顔のままだし、重症だわ❤\n何もできないでくの坊のにはさっさと退場願うとしましょう。\nくすくす❤,You've got some serious issues when you're watching with enraptured face while I make fun of you like this. Blockheads who can't do anything like you should just leave already. Ahaha❤
-さらにもう1枚発動！,And I activate another magic!
+さらにもう1枚発動！,And I activate another card!
 墓地へ送られたとき{使用カード}の効果発動！すべてのモンスターに1000ポイントダメージ！,{使用カード} triggers when sent to graveyard! I deal 1000 points of damage to all monsters!
 爆発の時間よ！すべてのモンスターに1000ポイントダメージ！,Time for an explosion! 1000 points of damage to all monsters!
 墓地へ送られたとき{使用カード}の効果発動！デッキから植物モンスターを呼び出す！,{使用カード} triggers when it's sent to the graveyard! I summon a plant monster card from my deck!
@@ -47,16 +47,16 @@ Sexy01,
 炎を食って成長しなさい！{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,Consume the flames and grow! {使用カード} triggered; increasing its HP and ATK increase by 300 points!
 召喚に成功したとき{使用カード}の効果発動！ラヴァガールを特殊召喚！,{使用カード} triggers on summon! I special summon Lava Girl!
 攻撃時に{使用カード}のモンスター効果発動！すべてのモンスターに100ポイントダメージを与えるわ！,{使用カード} triggers when it attacks, dealing 100 points of damage to all other monsters!
-魔法カード発動！{使用カード}！これを付与したモンスターが戦闘破壊されたとき2ドローするわ.,I activate magic card: {使用カード}! Targeted monster draws me 2 cards when its destroyed in combat!
-魔法カード発動！{使用カード}！すべてのモンスターに400ポイントダメージよ！,I activate magic card {使用カード}; dealing 400 points of damage to all monsters!
-どんどん吹っ飛ばすわ。魔法カード、{使用カード}を発動！,I'll blow you away. Magic Card {使用カード} activate!
-ライフを500払い、{使用カード}を発動！表側表示の魔法トラップカードを1枚破壊する！,I pay 500 LP to activate {使用カード}; destroying a face-up magic or trap card!
+魔法カード発動！{使用カード}！これを付与したモンスターが戦闘破壊されたとき2ドローするわ.,I activate spell card: {使用カード}! Targeted monster draws me 2 cards when its destroyed in combat!
+魔法カード発動！{使用カード}！すべてのモンスターに400ポイントダメージよ！,I activate spell card {使用カード}; dealing 400 points of damage to all monsters!
+どんどん吹っ飛ばすわ。魔法カード、{使用カード}を発動！,I'll blow you away. Spell Card {使用カード} activate!
+ライフを500払い、{使用カード}を発動！表側表示の魔法トラップカードを1枚破壊する！,I pay 500 LP to activate {使用カード}; destroying a face-up spell or trap card!
 ライフを1500払い、{使用カード}を発動！植物カードを破壊して炎のモンスターを2体呼び出す！,I pay 1500 LP and destroy one of my plant monsters to activate {使用カード}; summoning 2 flame monsters!
 さらにその後、自分フィールド上のすべてのモンスターは600ポイントダメージを受けるわ！,And then; I deal 600 points of damage to all my monsters!
-永続魔法{使用カード}を発動！わたしのターン終了時ごとにすべてのモンスターに100ポイントダメージを与えるわ！,I active permanent magic {使用カード}! At the end of my turns; all monster take 100 points of damage!
-永続魔法{使用カード}を発動！すべてのモンスターに100ポイントの効果ダメージを毎ターン与えるわ！,I active permanent magic {使用カード}; dealing 100 points of damage to all monsters!
+永続魔法{使用カード}を発動！わたしのターン終了時ごとにすべてのモンスターに100ポイントダメージを与えるわ！,I active continuous spell: {使用カード}! At the end of my every turn; all monster take 100 points of damage!
+永続魔法{使用カード}を発動！すべてのモンスターに100ポイントの効果ダメージを毎ターン与えるわ！,I active continuous spell {使用カード} to deal 100 points of damage to all monsters on my every turn!
 装備魔法カード発動！{使用カード}！,I activate equipment card: {使用カード}!
-魔法カードを発動するわ！{使用カード}！,I activate magic card: {使用カード}!
+魔法カードを発動するわ！{使用カード}！,I activate spell card: {使用カード}!
 トラップカードを発動！{使用カード}！,I activate trap card: {使用カード}!
 カードをセット。,I set a card.
 カードを伏せる。,I play a card face-down.
