@@ -5,9 +5,8 @@ Place/MorugenInn,
 タイトルに戻る,Back to title
 ロード,Load
 セーブ,Save
-回想,Reminisce
-イベント回想,Reminisce Event
-回想バトル,Reminisce Battle
+イベント回想,Event Viewer
+回想バトル,Battle Viewer
 図鑑,Illustration Viewer
 アニメ回想,Animation Viewer
 特殊オプション,Special Options
