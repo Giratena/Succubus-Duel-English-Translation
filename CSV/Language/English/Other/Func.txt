@@ -1,6 +1,6 @@
 default
-タイトルに戻る,
-やっぱりやめる,
+タイトルに戻る,Back to title
+やっぱりやめる,Stop as is
 このモードは翻訳者がテストするためのモードです。まだ翻訳は実装されていません。\nThis mode is for translators to test. No translations have been implemented yet.\n此模式用于翻译测试。 尚未实施任何翻译。,
 日本語,
 English,
