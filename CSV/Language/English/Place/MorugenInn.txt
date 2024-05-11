@@ -7,12 +7,12 @@ Place/MorugenInn,
 セーブ,Save
 イベント回想,Event Viewer
 回想バトル,Battle Viewer
-図鑑,Illustration Viewer
+図鑑,Encylopedia
 アニメ回想,Animation Viewer
 特殊オプション,Special Options
 プレイヤー情報,Player Infomation
 仮想バトル,Virtual Battle
-街へ戻る,Return to Town
+街へ戻る,Return to the City
 テスト,
 テスト2,
 テスト3,
