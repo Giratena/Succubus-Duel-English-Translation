@@ -11,7 +11,6 @@ default
     &斬るSE,damage_koubou.mp3
     &馬SE,Uma01_Onjin.mp3
     &キスエフェクト,Kiss01
-    &フレーバーテキスト,A young; low rank succubus who can control slime. With her ability to turn her own body into slime; she is able to sneak into any place that has the slightest crack. Her strength isn't particularly high amongst the low rank succubi; but she is very useful due to her infiltration and espionage abilities.
     攻撃エフェクト設定,&&キスエフェクト
     
 @イベント
