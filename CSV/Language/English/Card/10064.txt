@@ -1,5 +1,5 @@
 default
-カーバンクル,
+カーバンクル,Carbuncle
 EU64_paizuriAnime,
 EU64_paizuriFlashAnime,
 わたしはカーバンクル、宝石の精霊なの。\nこの額の宝石があなたに幸福をもたらすんだよ。\nほら、見て・・・❤,
