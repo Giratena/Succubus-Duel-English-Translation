@@ -21,6 +21,12 @@ default
     メニュー追加,仮想バトル,Card/70040,仮想バトル
     メニュー追加,街へ戻る,&ファイルパス,街へ戻る
     メニュー生成,右
+
+    //デバッグ,{%%<Card id>.カードテキスト}
+    //デバッグ,{%%<Card id>.&エロ効果テキスト}
+    //デバッグ,{%%<Card id>.フレーバーテキスト}
+    // Replace <Card id> with the card id number to obtain the text effects for monster-girl cards.
+
     イベント終了
 
 @街へ戻る

@@ -1219,6 +1219,8 @@ default
     
     $テキスト画像id,=,1005 +_#2
     テキスト画像,$テキスト画像id,<align="left">{%カード.フレーバーテキスト}
+    デバッグ,{%カード.フレーバーテキスト}
+    // Debug line to copy character descriptions to the clipboard for translation purposes
     画像アンカー,$テキスト画像id,(0.501,0.3),(0.92,0.94)
     
     $画像閲覧ボタンid,=,1006 + _#2
