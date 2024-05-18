@@ -13,7 +13,7 @@ Sexy01,
 あら、久しぶりね。もしかしてもうランクが上がったの？,Oh; it's been a while. Did you perhaps rank up already?
 くぅー、やるじゃない。わたしも早くランクを上げたいわ。,Ugh. Not bad. I want to rank up soon too.
 この間は負けたけれど、今度は負けない！\n例えランクで先に行かれても今日の勝負は別ものよ。,I lost previously; but it won't happen again! Today's battle will be different even if you're higher rank!
-さあ、熱いバトルをしましょう！,Now, Let's have a fiery battle!
+さあ、熱いバトルをしましょう！,Now; Let's have a fiery battle!
 とはいえ、この間の勝負はわたしの勝ちだったわね♪\n例えランクで先に行かれても、強いのはわたしのはずよ。,But even if you did; I won last time. I'm the one who's stronger even if you're higher rank.
 また会ったわね。\nガンガンバトルしてお互いの実力を上げていきましょう！,We meet again. Let's battle and improve our skills!
 あなたの方がランクが上なだけあって、\nやっぱり強いけれど…。\n今回は負けないわよ！,You may be strong and higher rank... But I'm not losing this time!
@@ -46,7 +46,7 @@ Sexy01,
 炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,{使用カード} triggered from fire damage! It's HP and ATK increase by 300 points!
 炎を食って成長しなさい！{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,Consume the flames and grow! {使用カード} triggered; increasing its HP and ATK increase by 300 points!
 召喚に成功したとき{使用カード}の効果発動！ラヴァガールを特殊召喚！,{使用カード} triggers on summon! I special summon Lava Girl!
-攻撃時に{使用カード}のモンスター効果発動！すべてのモンスターに100ポイントダメージを与えるわ！,{使用カード} triggers when it attacks, dealing 100 points of damage to all other monsters!
+攻撃時に{使用カード}のモンスター効果発動！すべてのモンスターに100ポイントダメージを与えるわ！,{使用カード} triggers when it attacks; dealing 100 points of damage to all other monsters!
 魔法カード発動！{使用カード}！これを付与したモンスターが戦闘破壊されたとき2ドローするわ.,I activate spell card: {使用カード}! Targeted monster draws me 2 cards when its destroyed in combat!
 魔法カード発動！{使用カード}！すべてのモンスターに400ポイントダメージよ！,I activate spell card {使用カード}; dealing 400 points of damage to all monsters!
 どんどん吹っ飛ばすわ。魔法カード、{使用カード}を発動！,I'll blow you away. Spell Card {使用カード} activate!
@@ -104,11 +104,11 @@ Sexy01,
 くすくす❤おっぱいでズリズリってしてあげたら、\nとっても情けない顔で射精しちゃったわね❤\n谷間にこんなに出してスケベなんだから❤,Ahaha❤ My boobjob made you blow your load with a really miserable face❤ You're such a perv to cum so much in my boobs❤
 脚でいじめてあげたら、アヘアへ言いながら出しちゃったわ❤\nわたしにバカにされながらいじめられて、気持ちよかったんだ❤\nマゾなモンスターね。くすくす❤,You moaned and blew your load so hard❤ Was it that amazing to have me make fun of you and toy you with my foot? You're such a masochistic monster❤ Ahahaha❤
 ……っ！❤,...!❤###
-もしかしてアンタ、またわたしでオナニーしちゃうの？前回それで負けてるくせに、学習能力ないのかしら❤,Did you start masturbating again? That's how you lost to me last time, you know? Are you so stupid that you can't learn from your mistakes?
+もしかしてアンタ、またわたしでオナニーしちゃうの？前回それで負けてるくせに、学習能力ないのかしら❤,Did you start masturbating again? That's how you lost to me last time; you know? Are you so stupid that you can't learn from your mistakes?
 あぁ それとも、"わたしのおっぱいには勝てない"ってことを学習しちゃったの？ふふ❤,Or perhaps you learned that it's impossible to win against my breasts?
 う、うぅ…❤,Uh... Uuuh...❤
 あっは❤ばかにされてしごくスピード速くなってるし❤男にとってはそんなに我慢できないものなのかな、おっきいおっぱいって❤,Ahaha❤ You started stroking faster when I made fun of you❤ Do men find huge breasts that irresistible?
-でもアンタ、ほんとにそれでいいの？毎回女の子の体でムラムラして負けちゃって❤実力はわたし以上にあるかもしれないのに❤,But are you really fine with  this? I mean, getting horny over my body and losing all your matches against me because of it❤ You might be above me in terms of strength; you know?
+でもアンタ、ほんとにそれでいいの？毎回女の子の体でムラムラして負けちゃって❤実力はわたし以上にあるかもしれないのに❤,But are you really fine with  this? I mean; getting horny over my body and losing all your matches against me because of it❤ You might be above me in terms of strength; you know?
 モンスターたちもかわいそうだし、目標とかもあるんじゃないのかなー？　あ、モンスターはマスターと同じでおっきしちゃってるか❤,I feel sorry for your monsters. Don't you have a goal that you want to achieve or something? Ah; or are your monsters getting hard-ons in the same way as their master?❤
 …………！,...!
 へー❤そこで手を止めることはできるんだ。まぁ相当 無理して頑張ってるみたいだけど❤,Oh? That line made you stop your hand? You seem to be pushing yourself quite hard to achieve that❤
@@ -122,19 +122,19 @@ Sexy01,
 二回連続でオナニー始めて負けちゃうなんて❤わたし、アンタをだめにしちゃったかも❤,To think that you would go and masturbate yourself to a loss twice in a row❤ Perhaps I've ruined you with my breasts?
 う、く…っ❤,Ugh...❤
 なになに、マスターのアンタがわたしでオナニーしちゃうの？,What? Did you start masturbating to me despite being a cardmaster?
-自分でしこしこ始めちゃうなんて、そんなに我慢できないものなのかしら。,To think that you would do that... Is my body that irresistible?
-でもモンスターやわたしにえっちなことされるんだから、仕方ないのかもしれないわね❤,But I guess there's no helping it when I and my monsters have been doing all kinds of lewd things❤
-大抵の男って、バトルが始まるとすぐ"ぼっきんきん"しちゃってるし❤,Most men I fight can't help getting a hard-on right after the battle starts❤
-ほぉら、おっぱいよ❤これがたまらなかったんでしょう？❤,Here; have a look at my breasts❤ This is what's the best; right?
+自分でしこしこ始めちゃうなんて、そんなに我慢できないものなのかしら。,To think that you would do that... Do you find my body simply that irresistible?
+でもモンスターやわたしにえっちなことされるんだから、仕方ないのかもしれないわね❤,But I guess that can't be helped when I and my monsters have been doing all kinds of lewd things during our battle❤
+大抵の男って、バトルが始まるとすぐ"ぼっきんきん"しちゃってるし❤,Most men I fight get a hard-on right after the battle starts❤
+ほぉら、おっぱいよ❤これがたまらなかったんでしょう？❤,Here; have a look at my breasts❤ This is what's the best part; right?
 ……！！❤,...!❤
-あはは、ちょっと強調してあげたらしごくスピード速くなった❤,Aahaha. I only emphasized my breasts a little; and your stroking got faster❤
-アンタたちってこれに弱すぎよね❤まぁ、わたしのおっぱいってサキュバスと比べてもなかなかの大きさだもの❤,Men are way too weak to breasts❤ But I guess mine are so large that I might not even lose to a succubus in size❤
-男がこれを気にしないっていう方が難しい話なのかしら❤,Perhaps I could even say that men have trouble not paying attention to my breasts❤
-今回で何人目になるのかな、バトル中なのに わたしの体にメロメロになっちゃった男の人数❤,I wonder how many times does this make it? There have been so many men who have become charmed by my body while I have a battle with them❤
-さ、アンタの目の前でおっぱい たっぷり見せつけてあげるから、しこしこ我慢できなかったチンポから白いのいっぱい出しちゃいなさい❤,Now; I'll thrust my breasts right in front of your eyes; so spew out the white stuff❤
-思いっきりかけていいわよ、精子ぶちまけて負けちゃえ❤,You can go ahead and shoot it all over my breasts❤ Shoot your semen and lose❤
+あはは、ちょっと強調してあげたらしごくスピード速くなった❤,Aahaha. I only emphasized my breasts a little; and you started stroking faster❤
+アンタたちってこれに弱すぎよね❤まぁ、わたしのおっぱいってサキュバスと比べてもなかなかの大きさだもの❤,Men are way too weak to breasts❤ But I guess mine are so large that even a succubus might lose to them in terms of size❤
+男がこれを気にしないっていう方が難しい話なのかしら❤,Men are always looking at my breasts❤ You could even say that they're having difficulty not paying attention to them❤
+今回で何人目になるのかな、バトル中なのに わたしの体にメロメロになっちゃった男の人数❤,I wonder how many does this make it? Like you; many men have become charmed by my body while I've battled them❤
+さ、アンタの目の前でおっぱい たっぷり見せつけてあげるから、しこしこ我慢できなかったチンポから白いのいっぱい出しちゃいなさい❤,Now; I'll show off my breasts here; right in front of you; so spew out the white stuff❤
+思いっきりかけていいわよ、精子ぶちまけて負けちゃえ❤,You can go ahead and shoot it all over them❤ Shoot your semen and lose❤
 あ、うっ、うぅ…っ❤,Ah... Uuuh... Uuuh❤
-あーあー、わたしに促されるままイっちゃって❤気持ちよかったかしら？うふふ❤,Aa-ah. You blew your load just as I told you to❤ Did it feel good to do it? Ahaha❤
+あーあー、わたしに促されるままイっちゃって❤気持ちよかったかしら？うふふ❤,Aa-ah. You blew your semen just as I told you to❤ Did it feel good? Ahaha❤
 あ…、あぅ…❤,Ah... Aaah...❤
 あらあら モンスターくん？敵マスターの前でチンポしごき始めちゃって、どうしたのかしら。,Oh my. Mr. Monster? Why did you suddenly start stroking your penis in front of your master's opponent?
 わたしの体がえっちすぎて、理性が溶けちゃった？まったく、今はバトル中なのよ？❤,Do you find my body so irresistibly sexy that your mind melted? Good grief. We're in the middle of a battle; you know?❤
@@ -156,7 +156,7 @@ Sexy01,
 う、うぅ…❤あ…❤,U-Uuuh...❤ Ah...❤
 すっかり心ここにあらずって感じね❤ガチガチになったチンポの先っぽから、透明なのがとろとろ溢れ出ちゃってるわよ❤,It's like you're here with body but not with spirit❤ There's transparent liquid dripping from the tip of your penis too❤
 もうイきそうになっちゃってるのがばればれ❤,That makes it clear that you're about to cum already❤
-…………そうだ❤,...Oh, I know❤
+…………そうだ❤,...Oh; I know❤
 はい、ずっぷん❤自分でしごいて射精寸前にしちゃったガチガチチンポ、不意打ちでおっぱいに飲み込まれるのはどんな感じ？耐えられるわけないわよね❤,Here we go❤ How does it feel to get a surprise boobjob after stroking yourself to the edge? It feels way too good to endure; right?❤
 ちょっとエナジー欲しくなったの、おっぱいの奥にたっぷり吐き出してちょうだい❤,I could use your energy; so give me a big load it between my breasts❤
 あ、あ、うああぁぁうぅぅうう……っ❤❤,Ah... Ah... Uaaaaaaaah❤❤❤
@@ -183,57 +183,57 @@ Sexy01,
 あは、出した出した❤瞬殺❤わたしに高速パイズリされて、我慢できる男はいないわ❤,Ahaha! There it is❤ You really did it instantly❤ There is no man who can endure my all-out boobjob❤
 おっぱいに気をとられて油断した方が悪いのよ、すけべ❤,It's your own fault for getting distracted by my breasts. You perv❤
 あーあー、自分でしこって出しちゃった❤ね、わたしの体がそんなにえっちだったの？うふふ❤,
-わたしよりランクが上でも、男ならおっぱいに弱いのは変わらないわね❤たくさん出しちゃって❤くすくす❤,There's no changing the fact that men are weak to breasts even if you're higher rank than me❤ You shot huge load❤ Ahaha❤
+わたしよりランクが上でも、男ならおっぱいに弱いのは変わらないわね❤たくさん出しちゃって❤くすくす❤,There's no changing the fact that men are weak to breasts; higher rank or not❤ Just look at this huge load you shot❤ Ahaha❤
 抗えないパイズリ射精、いかがだったかしら❤くすくす❤,How did it feel to cum to my irresistible boobjob?❤ Ahaha❤
 あは、わたしの体にこんなにかけちゃって❤足裏とふともも、柔らかくて我慢できなかったでしょう❤ふふ❤,Ah... You blew your load all over my body❤ My thighs and feet were irresistible soft; right? Ahaha❤
 あは、出した出した❤やっぱりこれしてあげたら、男は射精しちゃうものなのね❤,Ah... There it is❤ Men just can't help cumming when I do this❤
-バトルに負け動けなくなった僕は、フレアの前に膝をついていた。,After losing the battle and could no longer move; I fell on my knees in front of Flare.
-ふふん！やっぱり君も強かったけど、今回はわたしの勝利！\n勝つのは気分がいいわね！,Hmm-mmm! You were strong; but it's my win this time! How nice it feels to win!
-得意げな顔をして勝ち誇るフレアを下から見上げると、豊満な乳房が服を持ち上げているのを意識してしまう。一瞬 目を奪われてしまい急いで視線を背けるが、その様子をフレアに見られていた。,As I looked up at Flare while she boasted about her victory; I couldn't help noticing how tightly her shirt clung to her massive breasts. I was momentarily charmed by that sight before quickly averting my gaze; but Flare didn't miss what happened. 
-あ、アンタ今おっぱい見てたでしょ！\n急に大きくなったんだけど、\n地元でもこっちでも男ってすぐに見てくるわよね。,Ah! You just took a glance at my breasts; didn't you? They suddenly got bigger; but men couldn't help looking at them even before that happened.
-でもこの胸のおかげで、最近は勝率が爆上がり❤\nどいつもこいつも、おっぱいに弱すぎなのよ❤,But it's thanks to these breasts that my win rate has gone through explosive increase❤ Everyone is just way too weak to breasts❤
-……アンタ、わたしがおっぱい持ち上げたの見て\nまたチンポ大きくしちゃってるんじゃないでしょうね？,...It looks like the sight of shirt tightly clinging to my breasts gave you another hard-on❤
-ちょうどいいわ、バトルで使った魔力はアンタから補給しちゃおっと❤\n敗者だもの、文句はないわよね❤,That's a good timing❤ I'll use you to replenish the mana that I expended in our battle❤ As the loser; you don't have the right to complain❤
-フレアがこちらの腰を引き上げ、勃起してしまっているペニスを爆乳とも言える大きさの乳房で挟み込んでくる。敗北して体力の限界の体は気持ちよさで更に弛緩してしまい、抵抗はまったく叶わなかった。,Flare lifted up my hips and inserted my erect penis between her huge breasts that could be described as explosive. I couldn't resist at all when my already exhausted body relaxed from how good her breasts felt.
-はい、アンタのチンポ挟んじゃった❤\nじゃあ、パイズリ始めるわね❤,There we go. I've got your penis tightly locked up❤ I'll start the boobjob then❤
+バトルに負け動けなくなった僕は、フレアの前に膝をついていた。,After losing the battle and being unable to move; I fell on my knees in front of Flare.
+ふふん！やっぱり君も強かったけど、今回はわたしの勝利！\n勝つのは気分がいいわね！,Mmm-mmh! You are strong; but the battle ended in my victory this time! Ah; how sublime winning feels!
+得意げな顔をして勝ち誇るフレアを下から見上げると、豊満な乳房が服を持ち上げているのを意識してしまう。一瞬 目を奪われてしまい急いで視線を背けるが、その様子をフレアに見られていた。,When I looked up at Flare while she was boasting about her victory; I couldn't help noticing how tightly her shirt clung to her massive breasts. That sight momentarily charmed me; and when I realized what I was doing; I quickly averted my gaze. However; she hadn't missed that.
+あ、アンタ今おっぱい見てたでしょ！\n急に大きくなったんだけど、\n地元でもこっちでも男ってすぐに見てくるわよね。,Ah! You just glanced at my breasts; didn't you? Even while they've been growing really fast recently; that's where men have been looking even before that happened.
+でもこの胸のおかげで、最近は勝率が爆上がり❤\nどいつもこいつも、おっぱいに弱すぎなのよ❤,However; it's thanks to my breasts that my win rate has seen an explosive increase❤ Everyone is just way too weak to breasts❤
+……アンタ、わたしがおっぱい持ち上げたの見て\nまたチンポ大きくしちゃってるんじゃないでしょうね？,...It look like the sight of breasts from below has given you another hard-on❤
+ちょうどいいわ、バトルで使った魔力はアンタから補給しちゃおっと❤\n敗者だもの、文句はないわよね❤,That's quite a good timing❤ I'll make use of you and replenish the mana that I expended in our battle❤ As the loser; you don't have the right to complain❤
+フレアがこちらの腰を引き上げ、勃起してしまっているペニスを爆乳とも言える大きさの乳房で挟み込んでくる。敗北して体力の限界の体は気持ちよさで更に弛緩してしまい、抵抗はまったく叶わなかった。,Flare grabbed up my hips and inserted my erect penis between her huge breasts; which could be described as explosive. I was already exhausted from the defeat; so I couldn't put up any resistance; and my body relaxing from how good her breasts felt wasn't helping either.
+はい、アンタのチンポ挟んじゃった❤\nじゃあ、パイズリ始めるわね❤,There we go. Your penis is nicely locked up❤ I'll get started the boobjob; then❤
 う、あぁ…❤,Uah...❤
-うふふ、気持ちいいでしょ❤\nわたしのムチムチのおっぱいで隙間なくチンポ包み込まれて、\n平気でいられる男なんていないわ❤,Ahaha. It feels good; right? There isn't a single man who can stay calm when I've got their penis locked between my breasts❤
-ガチガチになっちゃったチンポに柔らかいおむねが吸いついてきて、\nたまらないはずよ❤,It should feel irresistibly good when my soft breasts tightly cling to your hard penis❤
+うふふ、気持ちいいでしょ❤\nわたしのムチムチのおっぱいで隙間なくチンポ包み込まれて、\n平気でいられる男なんていないわ❤,Ahaha. Feels good; right? No man who can stay calm when I've have their penis snuggly between my breasts❤
+ガチガチになっちゃったチンポに柔らかいおむねが吸いついてきて、\nたまらないはずよ❤,It should feel irresistibly good when my soft breasts are tightly clinging to your hard penis❤
 あっ、あ…っ❤,Ah... Ah...❤
-見た目でも簡単に男を誘惑できるけど、\nわたしのおっぱいはパイズリで真価を発揮するの❤,I can already charm men with my looks alone; but my breasts show their true merit in boobjobs❤
+見た目でも簡単に男を誘惑できるけど、\nわたしのおっぱいはパイズリで真価を発揮するの❤,My good looks are already enough to charm men; but my breasts show their true merit in boobjobs❤
 はぅ……❤,Aah...❤
-あらあら、一瞬で夢心地になっちゃって❤\nアンタも他の男と同じなのね❤\n強いのに、おっぱいでかんたんにチンポビンビンになって負けちゃう❤,Oh my❤ You've already fallen in pleasure daze❤ That's no different from all the other men❤ Even when you're strong; you can't help your penis getting hard and losing before my breasts❤
-もともとわたしの周りって、優れた使い手が多かったのよ。\n昔のわたしはなかなか勝てなかったわ。,In the past; there were many skilled cardmasters around me; and I could barely earn any wins.
-でもおっぱいが膨らみ始めてからは、\nえっちな気分にさせてあげればイチコロ❤ちょっと挑発してあげれば、\nモンスターもマスターもす～ぐオナニー始めちゃう❤,But when my breasts started growing; everyone have turned into pushover when I've charmed them with my sexiness. I just need to strike a pose; and both monsters and cardmasters can't help masturbating in front of me❤
-そうなったら、男はもう女の子には勝てないわ❤\nだって男の精液って魔力の塊ですもの❤,When that happens; men can't win against girls no matter what❤ After all; semen is the physical form of men's mana❤
-男はどんどん失ってわたしはどんどん回復できる❤\nそんなの勝負になるわけないじゃない❤,When a man rapidly loses his mana through his semen; I can use it to recover my own mana❤ It can't be even called a battle at that point❤
+あらあら、一瞬で夢心地になっちゃって❤\nアンタも他の男と同じなのね❤\n強いのに、おっぱいでかんたんにチンポビンビンになって負けちゃう❤,Oh my❤ You've already fallen in the pleasure daze❤ That's the same as with all the other men❤ Even when you're strong; you can't help getting a hard-on and losing before my breasts❤
+もともとわたしの周りって、優れた使い手が多かったのよ。\n昔のわたしはなかなか勝てなかったわ。,Before; all the cardmasters around me were really skilled; and I could barely earn any wins.
+でもおっぱいが膨らみ始めてからは、\nえっちな気分にさせてあげればイチコロ❤ちょっと挑発してあげれば、\nモンスターもマスターもす～ぐオナニー始めちゃう❤,But when my breasts started growing and I could charm them with my sexiness; all of them turned into pushovers. I just need to strike a pose; and both monsters and cardmasters start masturbating in front of me❤
+そうなったら、男はもう女の子には勝てないわ❤\nだって男の精液って魔力の塊ですもの❤,Once men start doing that; they can't win against girls no matter what❤ After all; semen is the physical form of men's mana❤
+男はどんどん失ってわたしはどんどん回復できる❤\nそんなの勝負になるわけないじゃない❤,When men start to rapidly lose their mana through their semen; and I can use it to recover my own mana...❤ The battle can't be called a battle anymore❤
 はぅ、うぅあ…❤,Ah... Uuuh...❤
-それに、今アンタにもしてあげてるパイズリ❤\n誘惑しても手強い大人はもちろんいるけど、\nその時はこうやって直接エナジー抜きとっちゃえば問題なしよ❤,Then; there's also the boobjobs; like I'm giving you one right now❤ There are naturally strong people who can resist my charm; but stops being an issue if I directly drain their energy like this❤
-わたしのムチムチのおっぱいで挟んであげれば、\nみーんな簡単にイっちゃうもの❤\nそしたら爆破に耐えられる体力を持ってたって無駄❤,Everyone end up quickly cumming when I insert their penis between my soft breasts❤ Then it's useless even if the man is strong enough to endure my explosions❤
-この爆乳に挟まれて、\nチンポの気持ちよさを我慢できる男なんていないわ❤\n大事なエナジーをわたしに抜き取られちゃうしかないのよ❤,There isn't a man who can endure my explosive breasts on their penis❤ Everyone has no choice but to let me drain their energy❤
-ほらほら、アンタももう限界でしょ？\nわたしのパイズリで、貴重な魔力\n思いっきりぶちまけちゃいなさい❤,Hey; you're close to your limit; right? Blow your precious mana to my boobjob with all you've got❤
+それに、今アンタにもしてあげてるパイズリ❤\n誘惑しても手強い大人はもちろんいるけど、\nその時はこうやって直接エナジー抜きとっちゃえば問題なしよ❤,Then; there's also the matter of boobjobs; the like that I'm giving you one right now❤ Naturally; there are some strong men who can resist my charms; but stops being an issue if I directly drain their energy like this❤
+わたしのムチムチのおっぱいで挟んであげれば、\nみーんな簡単にイっちゃうもの❤\nそしたら爆破に耐えられる体力を持ってたって無駄❤,Everyone end up cumming quickly when  their penis is between my soft breasts❤ It's futile even if the man was sturdy enough to survive through my explosions❤
+この爆乳に挟まれて、\nチンポの気持ちよさを我慢できる男なんていないわ❤\n大事なエナジーをわたしに抜き取られちゃうしかないのよ❤,No man can endure my explosive breasts on their penis❤ Everyone has no choice but to allow me to drain them of their energy❤
+ほらほら、アンタももう限界でしょ？\nわたしのパイズリで、貴重な魔力\n思いっきりぶちまけちゃいなさい❤,Hey; you're getting close to the limit; right? Release all your precious mana to my boobjob❤
 あ、あ、うぁ……っ❤,Ah... Ah... Aah...❤
 うぁ、はぅ、う…っ❤,Uh... Ah... Uuuh...❤
-ふふ、出た出た❤\nチンポをおっぱいで捕まえちゃえば、男なんてわたしの思うままよ❤,Ahaha. There it is❤ Men have no choice but to do as I say when I have their penis locked in my breasts❤
-う～ん おいしい❤やっぱり、アンタって\n良質な魔力を持ってるみたい❤もっともっと搾りとってあげるから、\nわたしにぜんぶ捧げちゃいなさい❤,Mmmh... Delicious❤ You have some nice quality mana❤ I'll keep draining you for more; so offer it all to me❤
+ふふ、出た出た❤\nチンポをおっぱいで捕まえちゃえば、男なんてわたしの思うままよ❤,Ahaha. There it is❤ Men have no choice but to do as I say when their penis is locked between my breasts❤
+う～ん おいしい❤やっぱり、アンタって\n良質な魔力を持ってるみたい❤もっともっと搾りとってあげるから、\nわたしにぜんぶ捧げちゃいなさい❤,Mmmh... Delicious❤You have some fine quality mana❤ I'll drain you for more; so keep offering it all to me❤
 ちょっと待っ、今は…っ！❤,Wait... Right now; I'm...!
-だーめ❤待ってあげない❤,No❤ I won't wait❤
-うふふ❤口ではそんなこと言ってても、\nわたしにおっぱい動かされたら\nすぐにチンポガチガチにしちゃってるじゃない❤,Ahaha❤ You're saying that with your mouth; but your penis got hard instantly when I moved my breasts again❤
-理性では止めてほしいって思っても、\n女の子にえっちなことされたら体はどんどんエナジー放出しちゃう❤\nしかも、それが気持ちよくてたまらない❤,Even if your mind wants me to stop; your body can't help releasing more energy when a girl is doing lewd things to you❤ Moreover; it feels irresistibly good❤
-サキュバスだっていることだし、\nこの調子なら女の子のわたしの方が\n男よりもずっと強くなれるかも❤,
-うぅ、そんなぁ…❤,
-それに、男からエナジーを吸い取れるのは\nサキュバスだけの専売特許じゃないわ❤,
-アンタも知ってるでしょうけど、\nカードマスターの女の子なら精液から魔力を補給できる❤\nもちろん サキュバスの効率には敵わないけれど……,
-それなら、こうしちゃえばいいのよ❤,
-！？　あ、あ、うあぁぁ…っ❤,
-一度に得られる魔力が少ないなら、\n男にたくさん吐き出させればいい❤,
-別にいいじゃない❤どうせ一回誘惑に負けちゃったら、\n男はもう気持ちよくなることで\n頭の中がいっぱいになっちゃうんでしょ❤,
-そんなこ……うっ、あ、はぅ…❤,
-耐えようと思っても感じちゃってしかたがないはずよ❤\nこれが、ピンチの時に使う わたしの本気パイズリ❤,
-ただでさえおっぱいに弱い男にわたしがこれをしてあげれば、\n１００パーセント射精させられるわ❤,
-ガチガチのチンポもみくちゃにされて\nおっぱいがぬちゅぬちゅ絡みついてきて、\n男には たまらないわよね❤,
-ほら、またイっちゃいなさい❤\n敵マスターにどんどんエナジー出しちゃえ❤,
-うぁ、あ、あぅぅ…❤,
-はい、イっちゃった❤\nね？一回チンポ挟んじゃえば、\nうぶな男の子なんて何回でも連続射精させられるわ❤,
-反応もかわいいし楽しくなってきちゃった❤\nこのまますっからかんになるまで、\nわたしに搾り尽くされちゃいなさい…❤,
-興が乗ったフレアにパイズリで挟み込まれたまま何度も絶頂を強要され、彼女に魔力をすっかり吸い尽くされてしまった。勝負に負け徹底的に女の子の柔らかさを味わわされた僕は、ふらつく足取りで帰路についた…。,
+だーめ❤待ってあげない❤,No❤ I'm not waiting❤
+うふふ❤口ではそんなこと言ってても、\nわたしにおっぱい動かされたら\nすぐにチンポガチガチにしちゃってるじゃない❤,Ahaha❤ You're telling me to wait with your mouth; but your penis got hard again the moment I moved my breasts❤
+理性では止めてほしいって思っても、\n女の子にえっちなことされたら体はどんどんエナジー放出しちゃう❤\nしかも、それが気持ちよくてたまらない❤,Even when your mind is telling me to stop; your body is wanting to release more energy when I'm doing lewd things to you❤ Moreover; it feels irresistibly good when I do so❤
+サキュバスだっていることだし、\nこの調子なら女の子のわたしの方が\n男よりもずっと強くなれるかも❤,As is with succubi; I might also become stronger than men if I continue like this❤
+うぅ、そんなぁ…❤,Uuuh... That's...❤
+それに、男からエナジーを吸い取れるのは\nサキュバスだけの専売特許じゃないわ❤,Besides; draining energy from men isn't limited to succubi❤
+アンタも知ってるでしょうけど、\nカードマスターの女の子なら精液から魔力を補給できる❤\nもちろん サキュバスの効率には敵わないけれど……,I'm sure you already know; but female cardmaster can use semen to replenish their mana❤ Although; we can't do it quite as efficiently as a succubus can...
+それなら、こうしちゃえばいいのよ❤,But that isn't an issue if we do this❤
+！？　あ、あ、うあぁぁ…っ❤,?! Ah... Ah... Aaaaah❤
+一度に得られる魔力が少ないなら、\n男にたくさん吐き出させればいい❤,If we can't get enough enough mana with a single load of semen; then we can just keep milking men over multiple times❤
+別にいいじゃない❤どうせ一回誘惑に負けちゃったら、\n男はもう気持ちよくなることで\n頭の中がいっぱいになっちゃうんでしょ❤,And it's not like you mind; right?❤ When men fall for the temptation once; their head becomes filled with pleasure and who can provide it for them❤
+そんなこ……うっ、あ、はぅ…❤,That's not... Uuh... Aaah❤
+耐えようと思っても感じちゃってしかたがないはずよ❤\nこれが、ピンチの時に使う わたしの本気パイズリ❤,Even if you try to resist; you can't help the pleasure taking over you❤ This is my serious boobjob that I use when I'm in a pinch❤
+ただでさえおっぱいに弱い男にわたしがこれをしてあげれば、\n１００パーセント射精させられるわ❤,Even at their strongest; I have a 100% record of making men who are weak to breasts cum with this❤
+ガチガチのチンポもみくちゃにされて\nおっぱいがぬちゅぬちゅ絡みついてきて、\n男には たまらないわよね❤,Men just can't get enough of it when I squeeze and knead their hard penises with my sot breasts❤
+ほら、またイっちゃいなさい❤\n敵マスターにどんどんエナジー出しちゃえ❤,Now; cum again❤ Give your energy to your opposing cardmaster❤
+うぁ、あ、あぅぅ…❤,Uh... Ah... Aaaah...❤
+はい、イっちゃった❤\nね？一回チンポ挟んじゃえば、\nうぶな男の子なんて何回でも連続射精させられるわ❤,There it goes❤ When it comes to naive boys like you; I can make you cum several times in a row once I have your penis between my breasts❤
+反応もかわいいし楽しくなってきちゃった❤\nこのまますっからかんになるまで、\nわたしに搾り尽くされちゃいなさい…❤,Your reactions are quite cute too; so I'm having fun with it❤ I'm going to keep draining you until you don't have any energy left❤
+興が乗ったフレアにパイズリで挟み込まれたまま何度も絶頂を強要され、彼女に魔力をすっかり吸い尽くされてしまった。勝負に負け徹底的に女の子の柔らかさを味わわされた僕は、ふらつく足取りで帰路についた…。,With Flare's switch flipped; she continued with the boobjob; forcing me to ejaculate; and draining me until I had zero mana remaining. I returned to the inn with unsteady steps after losing the battle and thoroughly experiencing the softness of a girl.
