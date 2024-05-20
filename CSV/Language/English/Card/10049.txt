@@ -1,14 +1,14 @@
 default
 足コキアラクネ,Footjob Arachne
 EU49_footJob,
-足コキが得意な小柄なアラクネ。アラクネ種にしては珍しく、下半身が蜘蛛ではなく人間の足がある。しかし、蜘蛛の名に恥じない足さばきは健在で、彼女の足に挟まれれば、まるで八本の足に責められているかのような巧みな快感に翻弄されてしまう。基本的に非力なモンスターだが、男を挑発して罠にはめ、そこを足で責めてくるため、安易に攻撃しないよう、罠に警戒しながら戦わなければならない。,A petite Arachne who is skilled in footjobs. While she possesses human legs; a rare trait for her species; she won't let down the name of Arachne with how skilled she is with using them. It will feel as if there are four pairs of feet touching and pleasuring you when she catches your penis between them. She may have low base stats but you need be cautious while fighting her; or you end up getting caught in her trap before you notice it.
+足コキが得意な小柄なアラクネ。アラクネ種にしては珍しく、下半身が蜘蛛ではなく人間の足がある。しかし、蜘蛛の名に恥じない足さばきは健在で、彼女の足に挟まれれば、まるで八本の足に責められているかのような巧みな快感に翻弄されてしまう。基本的に非力なモンスターだが、男を挑発して罠にはめ、そこを足で責めてくるため、安易に攻撃しないよう、罠に警戒しながら戦わなければならない。,A petite Arachne who specializes in footjobs. While she possesses human legs—a rare trait for her species— her skills live up to the Arachne name; as should you end up between her feet; you will be coaxed and pleasured in such a way it will feel as if 8 feet are playing and stroking your cock.\n\nWhile she is a comparatively weak monster; she can easily corner men with her feet after trapping them; so fighting her while being aware of her traps is crucial.
 
 ##Attempt with added line breaks.
-[1].１ターンに１度、自分がトラップカードを発動した時発動する。デッキから「蜘蛛」カードをランダムに１枚手札に加える。\n[2].このカードは「拘束」状態の相手と戦闘する場合、攻撃回数が1増加する。\n(戦闘時に「足コキに弱い」を付与する。弱点攻撃をしたとき、追加攻撃を行う。),[1].Whenever you activate a Trap card; add a random "Spider" card from your deck to your hand. This effect can only trigger once per turn.\n[2].Whenever fighting a "Restricted" target; this monsters makes an additional attack.\n(Inflicts "Footjob Weakness" in combat. Whenever attacking a weakness; this monsters makes an additional attack.)
+[1].１ターンに１度、自分がトラップカードを発動した時発動する。デッキから「蜘蛛」カードをランダムに１枚手札に加える。\n[2].このカードは「拘束」状態の相手と戦闘する場合、攻撃回数が1増加する。\n(戦闘時に「足コキに弱い」を付与する。弱点攻撃をしたとき、追加攻撃を行う。),[1].Whenever you activate a Trap card; add a random "Spider" card from your deck to your hand. This effect can only trigger once per turn.\n[2]. Whenever fighting a "Restricted" target; this monsters makes an additional attack.\n(Inflicts "Footjob Weakness" in combat. Whenever attacking a weakness; this monsters makes an additional attack.)
 
 ##Attempt without Line Breaks
 [1].１ターンに１度、自分がトラップカードを発動した時発動する。デッキから「蜘蛛」カードをランダムに１枚手札に加える。,[1].Whenever you activate a Trap card; add a random "Spider" card from your deck to your hand. This effect can only trigger once per turn.
-[2].このカードは「拘束」状態の相手と戦闘する場合、攻撃回数が1増加する。,[2].Whenever fighting a "Restricted" target; this monsters makes an additional attack.
+[2].このカードは「拘束」状態の相手と戦闘する場合、攻撃回数が1増加する。,[2]. Whenever fighting a "Restricted" target; this monsters makes an additional attack.
 (戦闘時に「足コキに弱い」を付与する。弱点攻撃をしたとき、追加攻撃を行う。),(Inflicts "Footjob Weakness" in combat. Whenever attacking a weakness; this monsters makes an additional attack.)
 
 ぷっ、糸にからまって動けないんだ？\n男のくせに非力～❤ちからよわーい❤,Pfft❤ Can't move after getting caught in a web? And you call yourself a man❤ You're so weak❤
