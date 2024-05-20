@@ -1,16 +1,7 @@
 default
 足コキアラクネ,Footjob Arachne
 EU49_footJob,
-足コキが得意な小柄なアラクネ。アラクネ種にしては珍しく、下半身が蜘蛛ではなく人間の足がある。しかし、蜘蛛の名に恥じない足さばきは健在で、彼女の足に挟まれれば、まるで八本の足に責められているかのような巧みな快感に翻弄されてしまう。基本的に非力なモンスターだが、男を挑発して罠にはめ、そこを足で責めてくるため、安易に攻撃しないよう、罠に警戒しながら戦わなければならない。,A petite Arachne who is skilled in footjobs. While she possesses human legs; a rare trait for her species; she won't let down the name of Arachne with how skilled she is with using them. It will feel as if there are four pairs of feet touching and pleasuring you when she catches your penis between them. She may have low base stats but you need be cautious while fighting her; or you end up getting caught in her trap before you notice it.
-
-##Attempt with added line breaks.
-[1].１ターンに１度、自分がトラップカードを発動した時発動する。デッキから「蜘蛛」カードをランダムに１枚手札に加える。\n[2].このカードは「拘束」状態の相手と戦闘する場合、攻撃回数が1増加する。\n(戦闘時に「足コキに弱い」を付与する。弱点攻撃をしたとき、追加攻撃を行う。),[1].Whenever you activate a Trap card; add a random "Spider" card from your deck to your hand. This effect can only trigger once per turn.\n[2].Whenever fighting a "Restricted" target; this monsters makes an additional attack.\n(Inflicts "Footjob Weakness" in combat. Whenever attacking a weakness; this monsters makes an additional attack.)
-
-##Attempt without Line Breaks
-[1].１ターンに１度、自分がトラップカードを発動した時発動する。デッキから「蜘蛛」カードをランダムに１枚手札に加える。,[1].Whenever you activate a Trap card; add a random "Spider" card from your deck to your hand. This effect can only trigger once per turn.
-[2].このカードは「拘束」状態の相手と戦闘する場合、攻撃回数が1増加する。,[2].Whenever fighting a "Restricted" target; this monsters makes an additional attack.
-(戦闘時に「足コキに弱い」を付与する。弱点攻撃をしたとき、追加攻撃を行う。),(Inflicts "Footjob Weakness" in combat. Whenever attacking a weakness; this monsters makes an additional attack.)
-
+足コキが得意な小柄なアラクネ。アラクネ種にしては珍しく、下半身が蜘蛛ではなく人間の足がある。しかし、蜘蛛の名に恥じない足さばきは健在で、彼女の足に挟まれれば、まるで八本の足に責められているかのように巧みな快感に翻弄されてしまう。基本的に非力なモンスターだが、男を挑発して罠にはめ、そこを足で責めてくる。安易に攻撃しないよう、罠に警戒しながら戦わなければならない。,A petite Arachne who is skilled in footjobs. While she possesses human legs; a rare trait for her species; she won't let down the name of Arachne with how skilled she is with using them. Once she has caught your penis; it will feel as if there were four pairs of legs touching and pleasuring you. She has low base stats but makes up for them by luring and provoking men into her traps. Fighting her requires proper caution; or you may end up getting caught in her web before you notice it.
 ぷっ、糸にからまって動けないんだ？\n男のくせに非力～❤ちからよわーい❤,Pfft❤ Can't move after getting caught in a web? And you call yourself a man❤ You're so weak❤
 あは、怒った？\nそんな状態でにらまれても、全然こわくないんだけど～❤\nだってほら・・・❤,Ahaha❤ Did that piss you off? Your glare isn't one bit scary❤ After all...❤
 雑魚おちんちん足で遊んであげれば、怖い顔なんてできないでしょ？\nふみふみ～❤すりすり～❤,That scary face will quickly melt away when I toy with your weak dick; right?\n All it takes is a little massage❤ And a little rubbing between my feet❤
