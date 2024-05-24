@@ -1,9 +1,9 @@
 default
 ジェリーフィッシュ,Jellyfish
 EU24_sexAnime,
-クラゲの女性モンスター。普段はふわふわと海流に乗ってのんびりと過ごしている。獲物が体に触れると麻痺針が飛び出すようになっており、相手を痺れさせて捕食する。人間の様な大きな生き物は消化できないため、精を奪ってエネルギーにしたあとは、浜辺に解放していくのだという。\n　本来は陸上にいると干からびそうになってしまうが、カードから召喚されている場合、マスターから供給される魔力によって水分を保つことができる。ぷるぷるとしたその肌触りはスライムとはまた違った感触であり、麻痺針に伴う恍惚感と合わせて、一度味わうと癖になってしまうものが跡を絶たないという。一説によれば、彼女が獲物を浜辺に放すのも、快感を忘れられなくなった男が自らまた精を捧げに来るのを知っているからだと言われている,A jellyfish girl monster. Normally she lives by leisurely floating with the ocean current. When prey touches her; her paralyzing needles jump out allowing her to predate on her target. It is said that large animals like humans cannot be digested; so after stealing their semen and energy; she releases them onto the beach. \n Normally she dries up on land; but when she is summoned by a card; the magical power provided by her master allows her to maintain her moisture. With the elastic feeling from her skin that differs from that of a slime; and the feeling of ecstasy that accompanies the paralyzing needles; there is no end to the number of people who become addicted after experiencing the pleasure. According to one theory; she releases her prey on the beach because she knows they will return to give her their semen; having not forgotten the pleasure.
-[1].戦闘後に発動する。相手に「麻痺」を付与する。,[1].Activate after combat. Inflicts "paralysis" on the opponent.
-[2].水属性のモンスターと戦闘する場合、受けるダメージが100ポイント減少する。, [2].When fighting a water type monster; reduce damage taken by 100 points.
+クラゲの女性モンスター。普段はふわふわと海流に乗ってのんびりと過ごしている。獲物が体に触れると麻痺針が飛び出すようになっており、相手を痺れさせて捕食する。人間の様な大きな生き物は消化できないため、精を奪ってエネルギーにしたあとは、浜辺に解放していくのだという。\n　本来は陸上にいると干からびそうになってしまうが、カードから召喚されている場合、マスターから供給される魔力によって水分を保つことができる。ぷるぷるとしたその肌触りはスライムとはまた違った感触であり、麻痺針に伴う恍惚感と合わせて、一度味わうと癖になってしまうものが跡を絶たないという。一説によれば、彼女が獲物を浜辺に放すのも、快感を忘れられなくなった男が自らまた精を捧げに来るのを知っているからだと言われている, A jellyfish girl monster. Normally she lives by leisurely floating with the ocean current. When prey touches her; her paralyzing needles jump out allowing her to predate on her target. It is said that large animals like humans cannot be digested; so after stealing their semen and energy; she releases them onto the beach. \n Normally she dries up on land; but when she is summoned by a card; the magical power provided by her master allows her to maintain her moisture. With the elastic feeling from her skin that differs from that of a slime; and the feeling of ecstasy that accompanies the paralyzing needles; there is no end to the number of people who become addicted after experiencing the pleasure. According to one theory; she releases her prey on the beach because she knows they will return to give her their semen; having not forgotten the pleasure.
+[1].戦闘後に発動する。相手に「麻痺」を付与する。,[1].Activate after combat. Inflicts "Paralysis" on the opponent.
+[2].水属性のモンスターと戦闘する場合、受けるダメージが100ポイント減少する。, [2].When fighting a Water Attribute monster; reduce damage taken by 100 points.
 おいで…❤脚で挟んであげるよ…❤,Come here...❤ I'll sandwich you with my thighs...❤
 え？なんだか肌に触れるとピリピリする？\nくすくす❤そんなの気にしなくていいの❤だって気持ちいいでしょ…？\nほら…❤ぎゅ～…❤,Eh? It feels tingly for some reason? Ehehe❤ You don't have to worry about that❤ Doesn't it feel good...? Here...❤ Squeeze~❤
 触手でぐるぐるぐる～…。捕まえた…❤\nおちんちんをふとももに入れちゃうね❤,I'll wrap you with my tentacles～... Gotcha...❤ Now I'll slide your dick in my thighs; okay❤
@@ -97,7 +97,7 @@ EU24_sexAnime,
 え？バカにしているのかって？\nそうね、ちょっとバカにしてるかも❤戦闘能力の低い下級モンスターに\nあっさり負けちゃうんだもの。くすくす❤,Eh? You think I'm making fun of you? Hmm; maybe just a little bit❤ Hehe❤
 いいわ、決めた。あなたのその顔が快楽に蕩けていくところ、\n観客のみんなと一緒に、特等席でじっくり観察してあげる❤,Alright; I've decided. I'm going to warp your face with pleasure; so that everyone in the audience can watch❤
 闘技場で負けたら勝者には敗者を自由にする権利があるの❤\nこんな風になぶりものにされることも多いから、\nよく覚えておくことね❤,In the arena; the winners have the right to do whatever they want to the loser❤ We often take advantage of it; so you'd better keep that in mind❤
-マスターの命令だから、\nわたしの麻痺毒でへろへろになっちゃったあなたを\nもっとしびれさせちゃうね…❤,By my master's orders; I'll make your already weak body numb with my paralyzing venom...❤
+マスターの命令なので、\nわたしの麻痺毒でへろへろになっちゃったあなたを\nもっとしびれさせちゃうね…❤,My master ordered me; so... \n I'll make your already weak body numb with my paralyzing venom...❤
 だいじょうぶ、ぴりっとするだけで痛くないよ❤\nとっても気持ちよくなれるから\nあなたもうれしいんじゃない？うふふ❤,It's okay. It won't hurt; just shock you❤ It'll feel really good; aren't you happy? Ahaha❤
 それじゃ、きもちよーくしてあげるね。\nわたしのナカにおちんちんを入れて、\nチューチュー吸い取ってあげる…❤,Well then; I'll make you feel super duper good～ I'll stick your dick inside; and squeeze and suck it...❤
 そうだよ。あなたがさっき見ただけで我慢できなくなって、\nシコシコしちゃったおまんこ…❤\nそこにカチカチになったおちんちんが食べられちゃうの❤, That's right. The thing you saw and couldn't endure; my pussy...❤ It's eating up your rock hard dick right now❤
@@ -139,7 +139,7 @@ EU24_sexAnime,
 ひっ、あっ・・・❤あああ・・・❤,Hii; ah...❤ Ahhh...❤
 女の子に負けることはダメなことじゃないよ❤\nわたしのマスターも別にあなたをボロボロにしたいわけじゃないの。,Losing to a girl isn't a bad thing❤ It's not like my master wanted to turn you into a mess.
 ただ、負けを認められないのはカッコ悪いことだから、\nちゃんとそれを教えてあげたいだけ❤,However; not being able to accept your loss is pretty pathetic; so I just wanted to properly discipline you.
-負けるのは気持ちいい…❤負けたって認めて、射精したら幸せ❤\nほら、頭の中で繰り返して？,"Losing feels good...❤ I'll accept the loss; cumming makes me happy"❤ \n Now; repeat that in your head.
+負けるのは気持ちいい…❤負けたって認めて、射精したら幸せ❤\nほら、頭の中で繰り返して？,"Losing feels good...❤ I'll accept the loss; cumming makes me happy"❤\nNow; repeat that in your head.
 あう…❤まへるのはひあわせ、あ、ああぁ・・・・❤,Hau...❤ Lozhing heelz guud; ah; ahhh...❤
 ふふふ❤おっぱいチューチューしちゃってかわいい。\nそうだよ、その調子。わたしに甘えれば、\n気持ちいいことで全身しびれて、もう恥ずかしくない❤,Hahaha❤ You're so cute sucking on my boobies. That's right; just like that. If you let yourself get doted on by me; and have your whole body pleasurably shocked; you won't feel embarassed anymore❤
 ほら、いくよー❤それっ❤ぱんぱん♪ぱんぱん♪,C'mon; let's do it❤ Like this-❤ Plap Plap♪ Plap Plap♪
