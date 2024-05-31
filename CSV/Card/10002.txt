@@ -11,7 +11,8 @@ default
     &立ち絵射精胸,EU2_bustCum.png
     &敗北音楽,Defeated_sougennotsuki_amatya.mp3
     攻撃エフェクト設定,&&セクシーエフェクト
-
+    &デフォルトマスター,%%70002
+    &デフォルト背景,&&師匠家背景
 
 
 @戦闘

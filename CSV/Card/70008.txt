@@ -10,6 +10,8 @@ default
     &行為音,nyurrupon01.ogg
     &行為音はげしめ,nukiSasi.ogg
     &背景画像,dlfanfanmachi02.jpg
+    &デフォルトマスター,%%70008
+    &デフォルト背景,&&街背景
 
 
 @フィールドイベント  
