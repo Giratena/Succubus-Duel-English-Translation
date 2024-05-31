@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Thunder Magician Summoner
-&効果テキスト,[1]. As long as this card is on the field; monsters damaged by Light Attribute Magic Cards are inflicted with [Paralysis].\n[2]. Once per turn; when an opponent's monster declares an attack: You can discard one [Thunder] or [Lightning] card from your hand to negate that attack and inflict 500 points of damage to all monsters on the opponent's field.
+&効果テキスト,[1]. As long as this card is on the field; monsters damaged by Light Attribute Spell Cards are inflicted with [Paralysis].\n[2]. Once per turn; when an opponent's monster declares an attack: You can discard one [Thunder] or [Lightning] card from your hand to negate that attack and inflict 500 points of damage to all monsters on the opponent's field.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

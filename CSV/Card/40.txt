@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Pirates
-&効果テキスト,[1]. When this card is discarded from the hand: Draw one card from the Deck.\n[2]. When this card is successfully Summoned: Discard one card to activate; Add one random Continuous Magic Card from your Deck to your hand.
+&効果テキスト,[1]. When this card is discarded from the hand: Draw one card from the Deck.\n[2]. When this card is successfully Summoned: Discard one card to activate; Add one random Continuous Spell Card from your Deck to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

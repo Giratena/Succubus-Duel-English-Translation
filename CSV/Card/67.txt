@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,High Priest
-&効果テキスト,[1]. When this card is Summoned; add one random Light Attribute Magic Card Permanent from the Deck to your hand.\n[2]. Once per turn; select one monster on the field to activate this effect: Recover that monster's HP by 1000 points.
+&効果テキスト,[1]. When this card is Summoned; add one random Light Attribute Spell Card Permanent from the Deck to your hand.\n[2]. Once per turn; select one monster on the field to activate this effect: Recover that monster's HP by 1000 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
