@@ -129,5 +129,5 @@ Claw,
 戦士,Warrior
 ハンタ一,Hunter
 通常魔法,Spell
-永続麿法,Continuous Spell
+永続魔法,Continuous Spell
 罠,Trap
