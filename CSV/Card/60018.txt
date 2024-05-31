@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Abyss Staff
-&効果テキスト,Equip able by Dark Attribute sorcerer type monsters on your field.\n[1]. Increase the attack power of equipped monster by 500 points. \n[2]. When you activate a Dark Attribute Magic Card; send 1 random Dark Attribute card to the Graveyard from your Deck. If the discarded card was Magic Card, add it to your hand.
+&効果テキスト,Equip able by Dark Attribute Spellcaster Type monsters on your field.\n[1]. Increase the attack power of equipped monster by 500 points. \n[2]. When you activate a Dark Attribute Magic Card; send 1 random Dark Attribute card to the Graveyard from your Deck. If the discarded card was Magic Card, add it to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
