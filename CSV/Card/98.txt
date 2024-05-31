@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Blazing Sorcerer
-&効果テキスト,[1]. As long as this card is on the field; the damage dealt to an opponent's monster by Fire Attribute Magic Cards is increased by 300 points.
+&効果テキスト,[1]. As long as this card is on the field; the damage dealt to an opponent's monster by Fire Attribute Spell Cards is increased by 300 points.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

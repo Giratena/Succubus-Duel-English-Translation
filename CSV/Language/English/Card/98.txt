@@ -1,3 +1,3 @@
 default
 灼熱術師,Blazing Sorcerer
-[1].このカードがフィールド上に存在する限り、炎属性の魔法カードで相手モンスターが受けるダメージは300ポイントアップする。,[1]. As long as this card is on the field; the damage dealt to an opponent's monster by Fire Attribute Magic Cards is increased by 300 points.
+[1].このカードがフィールド上に存在する限り、炎属性の魔法カードで相手モンスターが受けるダメージは300ポイントアップする。,[1]. As long as this card is on the field; the damage dealt to an opponent's monster by Fire Attribute Spell Cards is increased by 300 points.

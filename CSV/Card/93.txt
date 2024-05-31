@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Sedrick - The Magician Swordsman
-&効果テキスト,[1]. Discard one Magic Card from your hand: Increase this card's attack power by 1000 points until the end of the turn.\n[2]. When this card is destroyed and sent to the Graveyard: Add one random Magic Card from your Graveyard to your hand.
+&効果テキスト,[1]. Discard one Spell Card from your hand: Increase this card's attack power by 1000 points until the end of the turn.\n[2]. When this card is destroyed and sent to the Graveyard: Add one random Spell Card from your Graveyard to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
