@@ -320,3 +320,4 @@ default
 &&SelectCardMessage,カードを選択してください。
 &&CoinMessage1,コインの結果は表
 &&CoinMessage2,コインの結果は裏
+
