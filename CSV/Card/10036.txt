@@ -5,6 +5,8 @@ default
     &立ち絵射精胸,EU36_bustCum.png
     &パイズリ,EU36_paizuri (1).png
     &パイズリアニメ,EU36_paizuriAnime
+    &デフォルトマスター,%%70013
+    &デフォルト背景,&&闘技場背景
 
     
 @戦闘
