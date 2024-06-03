@@ -1,15 +1,15 @@
 default
 師匠,Master
-　主人公の師匠。Bランクの実力派。主に戦士系のカードを使い、特にサムライモンスターを好んで使う。\n　孤児になった主人公を拾い、小さいころから育ててきた。拾ったときは自身もまだ10代で、子供の育て方などまったく分からない中、まっすぐに育つように努力してきた。カードの使い方だけではなく、文字の読み書きなども教え、主人公にとっては師匠であると同時に年の離れた姉のような存在である。\n　全体的に運動神経がよく、性的なことも上手い。また魔力の扱いが卓越しているので彼女の魅了魔法を受けると実力のあるカードマスターであっても一瞬で思考能力を奪われ、恍惚感に茫然とすることしかできなくなるという。,Testing
-きゃあ！あいたた・・・。,
-たはぁー。強くなったわねぇ。練習デッキとはいえ、負けちゃった。,
-しっかり修行の成果が出ているじゃない。\nオッケー、オッケー♪\nこれなら街まで安全に行けるわ。,
-でも知っての通り、王都の向こう側は魔族の領地。\n強い魔物がうようよいるから、まだ行っちゃダメよ。,
-そうね、とりあえずの目標は\nギルドに入ってAランクのカードマスターになること。\n魔族領に入るのはそれからにしなさい。,
-あなたは亡くなったお父さんのように、\n強いマスターを目指している、そうでしょ？\nそれに…。,
-妹さん、だっけ。魔族領の近くではぐれたのよね？,
-はぐれたのはわたしのところに修行に来る前だから、\nもう8年以上前か。,
-心配だろうけれど、\n急いで無理をしても結果は伴わないわ。\n安全に少しづつ強くなりなさい。分かった？,
+　主人公の師匠。Bランクの実力派。主に戦士系のカードを使い、特にサムライモンスターを好んで使う。\n　孤児になった主人公を拾い、小さいころから育ててきた。拾ったときは自身もまだ10代で、子供の育て方などまったく分からない中、まっすぐに育つように努力してきた。カードの使い方だけではなく、文字の読み書きなども教え、主人公にとっては師匠であると同時に年の離れた姉のような存在である。\n　全体的に運動神経がよく、性的なことも上手い。また魔力の扱いが卓越しているので彼女の魅了魔法を受けると実力のあるカードマスターであっても一瞬で思考能力を奪われ、恍惚感に茫然とすることしかできなくなるという。,The protagonist's master. B Rank. Mainly uses warrior cards; but has a particular fondness for samurai monsters.\n\nShe found the protagonist since he was an orphan; and raised him since he was a child. Although she had no idea how to raise a child at the time; she worked hard to ensure he was raised properly. She didn't just teach him how to use cards; but also told him how to read and write; and acted as both an older sister figure as well as his master.\n\nOverall; she has good reflexes; and is skilled in many sexual arts. Her mastery of magic is so exceptional that even a skilled card master who falls under her spell will be instantly deprived of their ability to think and left in a state of pleasurable trance.
+きゃあ！あいたた・・・。,Kyah！Yeowch...
+たはぁー。強くなったわねぇ。練習デッキとはいえ、負けちゃった。,Whoa; you've become much stronger; haven't you? You managed to defeat me, even with that practice deck.
+しっかり修行の成果が出ているじゃない。\nオッケー、オッケー♪\nこれなら街まで安全に行けるわ。,A fine result from all that studious training no doubt.\nNow then~ Now then~♪\nYou should have no trouble being safe going into town like this.
+でも知っての通り、王都の向こう側は魔族の領地。\n強い魔物がうようよいるから、まだ行っちゃダメよ。,But as you know; next to the Royal Capital lies the monster grounds. It's crawling with strong monsters; so you mustn't go there.
+そうね、とりあえずの目標は\nギルドに入ってAランクのカードマスターになること。\n魔族領に入るのはそれからにしなさい。,Well anyways; your goal should be to join the guild and become an A-Rank Card Master.\nThen you'll be ready to head over into monster grounds.
+あなたは亡くなったお父さんのように、\n強いマスターを目指している、そうでしょ？\nそれに…。,You want to be a strong Card Master just like your father; am I right?\nAnd not only that...
+妹さん、だっけ。魔族領の近くではぐれたのよね？,Your sister too. You were separated from her near the monster grounds as well; right?
+はぐれたのはわたしのところに修行に来る前だから、\nもう8年以上前か。,You lost her before you came to me for training; so it must have been at least more than 8 years ago.
+心配だろうけれど、\n急いで無理をしても結果は伴わないわ。\n安全に少しづつ強くなりなさい。分かった？,I know you're worried...\nBut mindlessly rushing around won't bring you results.\nStay safe; and slowly hone your abilities little by little. Understood?
 いい返事ね。よろしい。,
 今、魔族領を支配しているのは\n「サキュバス」と呼ばれる魔物たちよ。\n彼女たちは男を快楽でたぶらかすのに長けているの。,
 当然、彼女たちが使うカードも\n男性を骨抜きにする、ふしだらなカードばかり。\nまだあなたには荷が重いから…。,
