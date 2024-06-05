@@ -9,7 +9,7 @@ Place/SouthVillage,
 情報収集,Investigate
 ショップ,Shop
 デッキ編集,Deck Edit
-タイトルに戻る,
+タイトルに戻る,Back to title
 特殊オプション,Special Options
 ロード,Load
 セーブ,Save

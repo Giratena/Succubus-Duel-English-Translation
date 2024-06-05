@@ -1,6 +1,7 @@
 default
-サキュバス少女,
+サキュバス少女,Succubus Girl
 Kiss01,
+スライムを操る下級サキュバスの少女。自身の体をスライム化させることができ、わずかな隙間があればどんなところにでも侵入できる。\n下級サキュバスの中でもそれほど戦闘力は高くない方だが、その便利な特性ゆえに侵入や諜報が得意で、様々な場面で活躍している。, A young; lesser class succubus with the power to control slime. With the ability to morph her entire body into slime; she is able to infiltrate any location with even the smallest opening.\n\nWhile she is not a strong fighter among the lower class succubi; these handy abilities make her a perfect fit for infiltration and espionage. This enables her to play an active role in all kinds of situations.
 導入イベントをスキップしますか？,
 よし、それじゃあ、ギルドのある隣街に向かおう！,
 おや、守護者のお弟子さんじゃないですか。これからどちらへお出かけで？,

@@ -1,3 +1,3 @@
 default
 エクスプロージョン,Explosion Burst
-[1].手札を2枚捨てて発動する。すべての相手モンスターに3000ポイントのダメージを与える。その後自分に「魔法カード使用不可」(20ターン)を付与する。,[1]. Discard two cards and deal 3000 points of damage to all opposing monsters. Then; inflict [Magic Card Use Prohibited (20)] on yourself
+[1].手札を2枚捨てて発動する。すべての相手モンスターに3000ポイントのダメージを与える。その後自分に「魔法カード使用不可」(20ターン)を付与する。,[1]. Discard two cards and deal 3000 points of damage to all opposing monsters. Then; inflict [Spell Card Use Prohibited (20)] on yourself
