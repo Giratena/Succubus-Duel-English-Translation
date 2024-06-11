@@ -46,6 +46,7 @@ MagicAttack,
 ImpactAttack01,
 Claw,
 召喚,Summon
+特殊召喚,Special Summon
 攻撃,Attack
 発動,Activate
 防御,Defend
@@ -94,7 +95,6 @@ Claw,
 はい,Yes
 いいえ,No
 開く,Open
-閉じる,Close
 次へ,To Next
 戻る,Back
 保存,Set
@@ -115,9 +115,8 @@ Claw,
 絞り込み,Optimize
 並び替え,Reorganize
 保存しました。,Save Complete
-タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. /nThe deck you are currently using has a boarder around it.
+タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. /nThe deck you are currently using has a border around it.
 デッキ名を編集します。,Change the deck name.
-一覧,Preview
 闇属性,Darkness
 水属性,Water,
 風属性,Wind,
@@ -131,4 +130,9 @@ Claw,
 通常魔法,Spell
 永続魔法,Continuous Spell
 罠,Trap
+装備,Equipment
+ド口一,Draw
+//These strings don't appear to work:
+一覧,Preview
 枚数:,Cards:
+閉じる,Close
