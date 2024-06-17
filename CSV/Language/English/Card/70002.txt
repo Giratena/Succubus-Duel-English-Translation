@@ -62,21 +62,21 @@ default
 相手モンスターに500ダメージを与え、\n攻撃力を1500ダウンさせるわ。,Deal 500 damage to an enemy monster and decrease its attack by 1500 points! 
 カードをセット。,Card set.
 カードを伏せるわ。,I'll set this card face down.
-快楽を味合わせてあげるわ❤{使用カード}で{防御カード}を攻撃！,
-メイドの奉仕に耐えられるかしら？{使用カード}で{防御カード}を攻撃！,
-さっさと逝かせてあげる❤{使用カード}で{防御カード}を攻撃！,
-バトルよ！{使用カード}で{防御カード}を攻撃！,
-行くわよ。{使用カード}で{防御カード}を攻撃！,
-あら、すっかりおっぱいに骨抜きね。\n女性モンスターにご奉仕されて、その厄介さが分かったかしら。,
-あら、手わざにすっかり骨抜きね。\n女性モンスターにご奉仕されて、その厄介さが分かったかしら。,
+快楽を味合わせてあげるわ❤{使用カード}で{防御カード}を攻撃！,I'll show you what pleasure is like.❤ {使用カード}; attack {防御カード}!
+メイドの奉仕に耐えられるかしら？{使用カード}で{防御カード}を攻撃！,I wonder if you can endure my maid's services? {使用カード}; attack {防御カード}!
+さっさと逝かせてあげる❤{使用カード}で{防御カード}を攻撃！,I'll make you cum before you know it-❤ {使用カード}; attack {防御カード}!
+バトルよ！{使用カード}で{防御カード}を攻撃！,Let's battle! {使用カード}; attack {防御カード}!
+行くわよ。{使用カード}で{防御カード}を攻撃！,Time to go! {使用カード}; attack {防御カード}!
+あら、すっかりおっぱいに骨抜きね。\n女性モンスターにご奉仕されて、その厄介さが分かったかしら。,Ara; you're become completely helpless for her boobs now; haven't you? Perhaps now you understand how troublesome being serviced by a female monster can be. 
+あら、手わざにすっかり骨抜きね。\n女性モンスターにご奉仕されて、その厄介さが分かったかしら。,Ara; you're become completely infactuated with her hands now; aren't you? Perhaps now you understand how troublesome being serviced by a female monster can be. 
 快楽攻撃を受けて集中を乱されたり、\n戦う意思自体を奪われたり、\n力任せだけじゃない強さをもっと教えてあげる❤,
 女性モンスター,
 女性モンスターは効果テキストに書かれていない快楽ダメージを与えてきたり、状態異常を付与することがあります。（オプションでテキストに表示するように変更できます）,
 くっ、なにもできないわね。ターンエンド。,
 出せる手札がないわ…。ターンエンドよ。,
-ターン終了よ。,
-ターンエンド。,
-わたしのターンはおしまい。ターンエンド。,
+ターン終了よ。,I end my turn.
+ターンエンド。,End turn.
+わたしのターンはおしまい。ターンエンド。,My turn is finished. End turn.
 攻撃を無効にするトラップね。うまく使えているじゃない。,
 でも、それはあくまでその場しのぎ。どこまで耐えられるかしら？,
 ううっ・・・。,

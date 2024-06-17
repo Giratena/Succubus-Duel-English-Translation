@@ -94,8 +94,8 @@ When one of my monsters defeats yours; I can activate {使用カード}!\nThe at
 カードを伏せるにゃ。,I'll set this card face down-nya.
 わたしのテクで気持ちよくしてやるにゃ。{防御カード}を攻撃！,I can make people feel really good with my techniques-nya. I attack your {防御カード}!,
 わたしも攻めるにゃ！{防御カード}を攻撃！,I can attack too-nya！I attack {防御カード}！,
-行くのにゃ！{使用カード}で{防御カード}を攻撃！,Go go-nya! I attack your {防御カード} with my {使用カード}!
-攻めるのにゃ！{使用カード}で{防御カード}を攻撃！,Now to attack! I attack your {防御カード} with my {使用カード}!,Now I'll attack-nya! {使用カード}; attack {防御カード}！,
+行くのにゃ！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!Go go-nya! I attack your {防御カード} with my {使用カード}!
+攻めるのにゃ！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!Now to attack! I attack your {防御カード} with my {使用カード}!,Now I'll attack-nya! {使用カード}; attack {防御カード}！,
 うにゅぅっ、手札が悪いのにゃ…。ターンエンド…。,Nyaa-; My hand is so bad... End turn...,
 何もできないのにゃ…。ターンエンドにゃ…。,I can't do anything-nya... End turn-nya.,
 ターン終了だにゃ。,End turn-nya.,
