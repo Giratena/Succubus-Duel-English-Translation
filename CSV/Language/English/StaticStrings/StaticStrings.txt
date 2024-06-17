@@ -127,6 +127,7 @@ Claw,
 魔術師,Spellcaster
 戦士,Warrior
 ハンタ一,Hunter
+悪魔,Demon
 通常魔法,Spell
 永続魔法,Continuous Spell
 罠,Trap
