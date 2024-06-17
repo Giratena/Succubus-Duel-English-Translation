@@ -87,7 +87,7 @@ When one of my monsters defeats yours; I can activate {使用カード}!\nThe at
 攻撃に対してトラップカード発動、{使用カード}！\nその攻撃は無効だにゃ！,I activate the trap card {使用カード} in response to your attack!\nYour attack is nullified!,
 「猫」モンスターが効果の対象になったとき、\n{使用カード}を発動！\nそのカードの効果を無効にして破壊するにゃ！,
 にゃはは、無駄だにゃ！「猫」モンスターが効果の対象になったとき、\n{使用カード}を発動！\nそのカードの効果を無効にして破壊するにゃ！,
-装備魔法カード発動！{使用カード}！,
+装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
 魔法カードを発動！{使用カード}！,
 トラップカードを発動！{使用カード}！,Trap card activate! {使用カード}!,
 カードをセットするにゃ。,Card set-nya.,
@@ -99,8 +99,8 @@ When one of my monsters defeats yours; I can activate {使用カード}!\nThe at
 うにゅぅっ、手札が悪いのにゃ…。ターンエンド…。,Nyaa-; My hand is so bad... End turn...,
 何もできないのにゃ…。ターンエンドにゃ…。,I can't do anything-nya... End turn-nya.,
 ターン終了だにゃ。,End turn-nya.,
-わたしのターンは終わりにゃ。ターンエンド。,My turn is finished-nya. End turn.
-これで終わりにゃ。ターンエンド。,And now I'm done-nya. End turn.
+わたしのターンは終わりにゃ。ターンエンド。,End turn.My turn is finished-nya. End turn.
+これで終わりにゃ。ターンエンド。,End turn.And now I'm done-nya. End turn.
 わたしの胸が気になるかにゃ？\nこんなに谷間が見えてたら、見たくなくても目に入るものにゃあ❤\nあは目が釘付けで隙だらけにゃ❤えい❤,Are my boobs are on your mind-nya?\nWhen my cleavage is showing like this; it's always visible even if you don't want to look at it-nya❤\nAnd your wandering eyes give the perfect opening-nya❤ Eei❤,
 男はみーんなこれが好きにゃ❤\n挟んでむぎゅむぎゅしてやれば、すぐに負けてくれるにゃ❤,All guys love this-nya~❤\nWhen I squeeze and massage my boobs around them; they giving in to to me immediately❤,
 お前はどうかにゃ？耐えられるかにゃ？\nほら、ずりずり、ずりずりにゃー❤,What about you-nya? Do you think you can resist them-nya?\nHora; squish squish- Squeeze squeeze~❤,
