@@ -53,7 +53,7 @@ default
 {使用カード}を発動し、敵から身を守る盾を味方に付与！,I'll activate {使用カード}; and give my allies a shield to protect them from enemies!
 もう一発いくわ。{使用カード}発動！,I'm not done yet now! {使用カード} activate!
 魔法カード発動！{使用カード}！\n相手モンスター全体に500ダメージ！,Magic card activate! {使用カード}!\nDeal 500 damage to an opponent's monster card!
-しびれなさい！{使用カード}発動！,Become numb! Activate {使用カード}!
+しびれなさい！{使用カード}発動！,Become numb! {使用カード} activate!
 そんな攻撃許すと思う？{使用カード}発動！,Did you think I'd let you just attack like that? Activate {使用カード}!
 ふふ、攻撃はさせないわ。{使用カード}発動！,Fufu. I don't think so- Activate {使用カード}!
 トラップカード発動！{使用カード}！,Trap card activate! {使用カード}!
