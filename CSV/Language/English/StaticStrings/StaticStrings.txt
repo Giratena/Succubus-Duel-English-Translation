@@ -118,9 +118,10 @@ Claw,
 タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. /nThe deck you are currently using has a border around it.
 デッキ名を編集します。,Change the deck name.
 闇属性,Darkness
-水属性,Water,
-風属性,Wind,
-火属性,Fire,
+水属性,Water
+風属性,Wind
+火属性,Fire
+炎属性,Blaze
 地属性,Earth
 光属性,Light
 ローグ,Rogue
@@ -137,3 +138,4 @@ Claw,
 一覧,Preview
 枚数:,Cards:
 閉じる,Close
+攻,Atk
