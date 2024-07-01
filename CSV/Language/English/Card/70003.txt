@@ -2,24 +2,26 @@ default
 サキュバス少女,Succubus Girl
 Kiss01,
 スライムを操る下級サキュバスの少女。自身の体をスライム化させることができ、わずかな隙間があればどんなところにでも侵入できる。\n下級サキュバスの中でもそれほど戦闘力は高くない方だが、その便利な特性ゆえに侵入や諜報が得意で、様々な場面で活躍している。, A young; lesser class succubus with the power to control slime. With the ability to morph her entire body into slime; she is able to infiltrate any location with even the smallest opening.\n\nWhile she is not a strong fighter among the lower class succubi; these handy abilities make her a perfect fit for infiltration and espionage. This enables her to play an active role in all kinds of situations.
-導入イベントをスキップしますか？,
-よし、それじゃあ、ギルドのある隣街に向かおう！,
-おや、守護者のお弟子さんじゃないですか。これからどちらへお出かけで？,
-・・・なるほど。ギルドのある隣街っていうと、モルゲンですね。,
-今から馬車でちょうどモルゲンへ行くんですが、よろしければご一緒いたしませんか？,
-いいんですか？,
-ええ。守護者のお弟子さんが一緒なら、もし魔物が出ても安心です。,
-普段は魔物から逃げ切れるように、あまりたくさん荷を積まないのですが...,
-護衛の方がいると馬車が重くなっても大丈夫なので、一度に多く運べるんです。,
-どうです、ともに利益のある話でしょう？ぜひ、ウチの馬車に乗ってくださいな。,
-はは、さすがは守護者のお弟子さん。頼もしいですね！,
-短い間ですが、よろしくお願いします。,
-一緒に来てくださいますか！ありがとうございます。,
-短い間ですが、よろしくお願いしますね！,
-こうして旅商人に馬車に乗せてもらって5日が経った。,
-道中、何体か魔物が出たけれど・・・,
-たいして強くはない個体で、僕は難なくそれらを退けていた。,
-はぁ、はぁ・・・・。倒したのか・・・？,
+導入イベントをスキップしますか？,Would you like to skip the opening event?
+よし、それじゃあ、ギルドのある隣街に向かおう！,Okay; time to head over to the nearby town that has a guild!
+おや、守護者のお弟子さんじゃないですか。これからどちらへお出かけで？,Oh; you're the apprentice of this village's guardian; aren't you?
+・・・なるほど。ギルドのある隣街っていうと、モルゲンですね。,...So you're going to the guild at Morgen Town huh? I see...
+今から馬車でちょうどモルゲンへ行くんですが、よろしければご一緒いたしませんか？,I'm about to head there on my carriage. Would you like to hitch a ride with me?
+いいんですか？,You wouldn't mind?
+ええ。守護者のお弟子さんが一緒なら、もし魔物が出ても安心です。,Not at all. It'd be nice to have a guardian's apprentice if any monsters show up.
+普段は魔物から逃げ切れるように、あまりたくさん荷を積まないのですが...,I normally keep my load light so that I can escape any demons that show up.
+護衛の方がいると馬車が重くなっても大丈夫なので、一度に多く運べるんです。,Having you as an escort would allow me to not care about how much I'm transporting.
+どうです、ともに利益のある話でしょう？ぜひ、ウチの馬車に乗ってくださいな。,So; what do you think? It'd work out for both of us. Come on; take a ride in my carriage.
+-,leave the escorting to me!
+-,I'll take your word on that...
+はは、さすがは守護者のお弟子さん。頼もしいですね！,Hahaha; you really are the disciple of that guardian!
+短い間ですが、よろしくお願いします。,Hahaha; you really are the disciple of that guardian!
+一緒に来てくださいますか！ありがとうございます。,Looking forward to working with you for a bit.
+短い間ですが、よろしくお願いしますね！,So; you'll come with me! Thanks a bunch.
+こうして旅商人に馬車に乗せてもらって5日が経った。,5 days have passed since the travelling merchant gave me a ride.
+道中、何体か魔物が出たけれど・・・,While we did come across a few monsters...
+たいして強くはない個体で、僕は難なくそれらを退けていた。,They were weak enough that I was able to easily fight them off.
+はぁ、はぁ・・・・。倒したのか・・・？,Hahhh; hahhh... I won?
 僕の最後の一撃を受けて、サキュバスは光の粒になって消えていった。これで退治できたのだろうか…？,
 ううっ・・・。,
 ・・・・！大丈夫ですか？,
@@ -35,46 +37,48 @@ Kiss01,
 まさか最初の依頼からこんなことになるとは…。初めてのサキュバスとの戦いで疲れた僕は、宿屋に入るなりベッドに倒れこんでしまった。,
 師匠が会えと言っていた、ギルドのリーフさんに会うのは、また明日にしよう…。,
 商人から護衛の報酬を得た！,
-いやあ、おかげさんで順調ですねぇ。その若さでたいしたもんです。,
-あと何時間かでモルゲンの街につきますよ。,
-ほら、そこの街道を右に行くと…。うん…？,
-あのー、お兄さんたち、街へ行こうとしているんですか？,
-実はわたし、いまちょっと困ってて助けてほしいんです・・・。,
-お兄さんたち、こっちに来てくれませんか？,
+いやあ、おかげさんで順調ですねぇ。その若さでたいしたもんです。,Man; things are going great thanks to you. You're amazing for how young you are.
+あと何時間かでモルゲンの街につきますよ。,We'll reach Morgen in a few more hours.
+ほら、そこの街道を右に行くと…。うん…？,Hora; just look to the right of that road... Hn?
+あのー、お兄さんたち、街へ行こうとしているんですか？,Ummm; Onii-sans... Are you trying to head to town?
+実はわたし、いまちょっと困ってて助けてほしいんです・・・。,I'm actually in a bit of trouble right now... Could you please help me out?
+お兄さんたち、こっちに来てくれませんか？,Onii-sans; won't you come over here?
 ・・・・・・？,
-うふ、そばに来てくれてありがとうございます。,
-実はわたし、さっきからずーっとおなかがすいていて…。,
-お兄さんたちの精気、わけてほしいんです❤,
-彼女はそういうと、突然背伸びをして僕の頭に顔を近づけてきた。,
-ちゅっ❤,
-っ・・・・・❤,
-くす❤もしかしてキスされるの初めてですか？,
-こんなちっちゃな子にファーストキス奪われて、唇と唇が触れただけでとろーんてなっちゃって…❤,
-かわいいですね❤お兄さん❤,
-お、おいどうなっているんだ。女の子から悪魔の羽・・・！？,
-うふふ❤商人さんはじっとしててください。あなたのこともすぐに食べてあげます。,
-でもまずはこちらのカードマスターのお兄さんから❤,
-ん、ちゅっ・・・❤,
-はうぅぅっ・・・・・❤,
-メロメロにして、カードも使えなくして・・・❤そのまま搾っちゃいますね❤,
-あやしい・・・・・・。,
-こんな道の真ん中でどうしたんだい？,
-ちょっと今降りるから待ってなよ。,
-商人が馬車から降りようとする。僕は彼を引き留め、小さな女の子に対して警戒の目を向けた。,
-あれ、どうしてそんなに怖い顔をしているんですか？,
-わたしのそばに来てください。足を怪我してしまったんです。おねがいします・・・。,
-なぜだろう、嫌な予感がする。見た目はただの小さな女の子のはずなのに・・・。,
-んー・・・。何か怪しまれるようなところあったかなぁ・・・。あ、もしかして、,
-魔力が漏れているのがバレちゃいました？くすくす❤,
-気づかずに来てくれれば、唇でちゅってしてあげたのに・・・❤ほら、こんな風に。,
-そう言うと少女は唇に指をあて、ちゅっと弾いて見せた。,
-・・・・・・!,
-そ、その羽！！な、なんで魔族領でもないのにサキュバスが！？,
-あは❤驚いた顔してますね。サキュバスを見るのは初めてですか？,
-わたしがここにいる理由なんて気にしてもしょうがないですよ。だって……。,
-今からあなたたちはわたしに食べられちゃうんだから❤,
-まずはそこの、カードマスターのお兄さんからです。,
-この足でぬちゅぬちゅしごいて、きもちよーく何回もイかせてあげますね❤,
+-,Approach the girl while wondering what is wrong.
+-,Back away from the girl as she seems suspicious.
+うふ、そばに来てくれてありがとうございます。,Ufu; thank you so much for coming over here.
+実はわたし、さっきからずーっとおなかがすいていて…。,You see; I've been sooo hungry...
+お兄さんたちの精気、わけてほしいんです❤,So I want you Onii-sans to share your energy with me~❤
+彼女はそういうと、突然背伸びをして僕の頭に顔を近づけてきた。,The brunette suddenly stood up to her full height and brought her face close to my head.
+ちゅっ❤,*Smoochhh❤*
+っ・・・・・❤,*Hnnn......❤* 
+くす❤もしかしてキスされるの初めてですか？,Tehe❤ Was that your first kiss?
+こんなちっちゃな子にファーストキス奪われて、唇と唇が触れただけでとろーんてなっちゃって…❤,Melting away from a young girl lightly pressing her lips against you like this...❤
+かわいいですね❤お兄さん❤,Onii-san❤ You're just too cute❤
+お、おいどうなっているんだ。女の子から悪魔の羽・・・！？,H-Hey; what's going on. Wings sprouted from that girl's back...!?
+うふふ❤商人さんはじっとしててください。あなたのこともすぐに食べてあげます。,Ufufu❤ Just stay put; Merchant-san. I'll gobble you up in a bit.
+でもまずはこちらのカードマスターのお兄さんから❤,But I'm going to start with this Cardmaster Onii-san over here❤
+ん、ちゅっ・・・❤,Hnn... *Smooch❤*
+はうぅぅっ・・・・・❤,H-hahhh...❤ 
+メロメロにして、カードも使えなくして・・・❤そのまま搾っちゃいますね❤,I'm going to melt you away so that you can't use your cards❤ And then; I'm gonna drain you like this~❤
+あやしい・・・・・・。,How strange...   
+こんな道の真ん中でどうしたんだい？,Why are you standing in the middle of the road like that?
+ちょっと今降りるから待ってなよ。,I'm coming to ya; so wait a sec.
+商人が馬車から降りようとする。僕は彼を引き留め、小さな女の子に対して警戒の目を向けた。,I stared harshly at the young girl while reaching a hand out to stop the merchant as he tried to get out of his carriage. 
+あれ、どうしてそんなに怖い顔をしているんですか？,Hmmm; why are you making such a scary face?
+わたしのそばに来てください。足を怪我してしまったんです。おねがいします・・・。,Please come to me. I hurt my leg. Pleaseee...
+なぜだろう、嫌な予感がする。見た目はただの小さな女の子のはずなのに・・・。,I wasn't sure why; but I had a bad feeling about this girl. She might look like your average, cute girl but...
+んー・・・。何か怪しまれるようなところあったかなぁ・・・。あ、もしかして、,Hnnn...Why are you so suspicious... Ah; could it be..
+魔力が漏れているのがバレちゃいました？くすくす❤,You could feel my magic leaking out? Tehehe~❤ 
+気づかずに来てくれれば、唇でちゅってしてあげたのに・・・❤ほら、こんな風に。,If you had only come over here I would have smooched your lips❤ Hora; just like this...
+そう言うと少女は唇に指をあて、ちゅっと弾いて見せた。,The small girl placed a finger on her lips before flinging them my way.   
+・・・・・・!,......!?
+そ、その羽！！な、なんで魔族領でもないのにサキュバスが！？,T-Those wings!? W-Why is a succubus so far from the demon's territory!?
+あは❤驚いた顔してますね。サキュバスを見るのは初めてですか？,Aha❤ You look surprised. This your first time seeing a succubus? 
+わたしがここにいる理由なんて気にしてもしょうがないですよ。だって……。,No need to worry about why I'm here though. After all... 
+今からあなたたちはわたしに食べられちゃうんだから❤,I'm going to be gobbling you two up here and now~❤
+まずはそこの、カードマスターのお兄さんからです。,I better start with you; Cardmaster Onii-san.
+この足でぬちゅぬちゅしごいて、きもちよーく何回もイかせてあげますね❤,I'll stroke and pump you with my slimy feet until you cum again and again~❤      
 うふふ、わたしのターンからですね❤,
 お兄さん、キスでもうメロメロですか？わざわざモンスター出さなくても勝てちゃいそうです❤,
 頭の中ピンク色になっているうちに、きもちよく、終わらせてあげます❤ほら・・・。,
