@@ -37,7 +37,7 @@ Place/SouthVillage,
 カードパックは開いた人の適正に応じてその中身が決まる。開けるまで何が入っているか誰にも分からない。,The contents of the card pack are determined by the suitability of the person opening it. Nobody knows what's inside until it’s opened.
 今からお兄さんが開けるのが楽しみだよ。どんなカードが入っているかな？,I'm excited to see what kind of cards you'll pull out. What do you think will be inside?
 さて…。昨日仕掛けた罠の様子はどうなっているかのう。,Now then... I wonder how the trap I set up yesterday is doing.
-わしはこれからウサギ取りの罠を見に行くところじゃよ。\n罠猟はわしの生きがいじゃ。いい場所にしかけて成果をじっと待つ。\nこのときのワクワク感がたまらん。,I'm about to go check on the rabbit traps I set up yesterday. Trap hunting is my passion. Placing traps in the right spots and patiently waiting for the results... The excitement during that waiting period is unmatched."
+わしはこれからウサギ取りの罠を見に行くところじゃよ。\n罠猟はわしの生きがいじゃ。いい場所にしかけて成果をじっと待つ。\nこのときのワクワク感がたまらん。,I'm about to go check on the rabbit traps I set up yesterday. Trap hunting is my passion. Placing traps in the right spots and patiently waiting for the results... The excitement during that waiting period is unmatched.
 またあとで家に来るといい、\nいつものように鍋をつくってごちそうしてやろう。\nいまの季節のうさぎはうまいぞ。,Come by my house later. I'll cook up a stew for you like always and treat you to a meal. This season's rabbit is delicious!
 罠カードについて,About Trap Cards:
 罠カードは伏せたターンには発動できません。伏せた次のターン以降はじめて発動できるようになります。,Trap cards cannot be activated on the turn they are set; and can only be activated starting from the next turn after.
