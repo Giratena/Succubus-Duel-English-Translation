@@ -19,7 +19,7 @@ Place/SouthVillage,
 やあ、こんにちは。守護者のお弟子さん。, Whoa; hello there! It's the Guardian's apprentice.
 あんたらすごいよなぁ。１人で２０枚や３０枚もカードが使えるんだろ？, You guys are amazing. Each of you can use 20 or 30 cards; right?
 おれら一般人じゃ、４，５人で魔力を合わせて、ようやく１枚召喚できるかどうかだぜ。, For us ordinary folks; it takes the combined magic of 4 or 5 people to barely summon even one card.
-カードマスターってのはすごいねぇ。尊敬しちまうよ。, Card Masters are incredible aren't they? I have a great deal of respect for them.
+カードマスターってのはすごいねぇ。尊敬しちまうよ。, Cardmasters are incredible aren't they? I have a great deal of respect for them.
 デッキ枚数について, About the number of cards in the deck:
 プレイヤーのデッキに入れられるカードの枚数は最大で３０枚です。２０枚から３０枚の間で、自由にデッキを組むことができます。同じカードは３枚までしか入れられません。,Players can include a maximum of 30 cards in their deck. You can freely construct your deck with anywhere between 20 to 30 cards and you can only include up to three copies of the same card.
 おや、師匠との修行、今日はもう終わりかい？,Oh; has your training with your Master finished for today?
