@@ -92,6 +92,8 @@ EU1_Maid_Cum,
 自分から負けちゃう、敗北射精、\n気持ちよかったですか？\nくすくす❤,Did it feel good to bring yourself to a loss orgasm? Ahaha.❤
 あん、これ以上攻撃しないでください。\nやられてしまいます・・・。,Ah; please don't attack. I'm already down...
 もし攻撃しないでくだされば、\nいいこと、してあげますよ？,I'll present you with a reward if you don't attack.
+攻撃する,Attack
+攻撃しない,Don't attack
 ううっ、いじわる,Uuh... Bully.
 くす❤ありがとうございます。,Ehehe.❤ Thank you very much.
 それでは、お約束のご褒美です❤えい❤,Well then; this is the promised reward.❤ Here you go.❤

@@ -19,7 +19,7 @@ Place/SouthVillage,
 やあ、こんにちは。守護者のお弟子さん。, Whoa; hello there! It's the Guardian's apprentice.
 あんたらすごいよなぁ。１人で２０枚や３０枚もカードが使えるんだろ？, You guys are amazing. Each of you can use 20 or 30 cards; right?
 おれら一般人じゃ、４，５人で魔力を合わせて、ようやく１枚召喚できるかどうかだぜ。, For us ordinary folks; it takes the combined magic of 4 or 5 people to barely summon even one card.
-カードマスターってのはすごいねぇ。尊敬しちまうよ。, Card Masters are incredible aren't they? I have a great deal of respect for them.
+カードマスターってのはすごいねぇ。尊敬しちまうよ。, Cardmasters are incredible aren't they? I have a great deal of respect for them.
 デッキ枚数について, About the number of cards in the deck:
 プレイヤーのデッキに入れられるカードの枚数は最大で３０枚です。２０枚から３０枚の間で、自由にデッキを組むことができます。同じカードは３枚までしか入れられません。,Players can include a maximum of 30 cards in their deck. You can freely construct your deck with anywhere between 20 to 30 cards and you can only include up to three copies of the same card.
 おや、師匠との修行、今日はもう終わりかい？,Oh; has your training with your Master finished for today?
@@ -37,7 +37,7 @@ Place/SouthVillage,
 カードパックは開いた人の適正に応じてその中身が決まる。開けるまで何が入っているか誰にも分からない。,The contents of the card pack are determined by the suitability of the person opening it. Nobody knows what's inside until it’s opened.
 今からお兄さんが開けるのが楽しみだよ。どんなカードが入っているかな？,I'm excited to see what kind of cards you'll pull out. What do you think will be inside?
 さて…。昨日仕掛けた罠の様子はどうなっているかのう。,Now then... I wonder how the trap I set up yesterday is doing.
-わしはこれからウサギ取りの罠を見に行くところじゃよ。\n罠猟はわしの生きがいじゃ。いい場所にしかけて成果をじっと待つ。\nこのときのワクワク感がたまらん。,I'm about to go check on the rabbit traps I set up yesterday. Trap hunting is my passion. Placing traps in the right spots and patiently waiting for the results... The excitement during that waiting period is unmatched."
+わしはこれからウサギ取りの罠を見に行くところじゃよ。\n罠猟はわしの生きがいじゃ。いい場所にしかけて成果をじっと待つ。\nこのときのワクワク感がたまらん。,I'm about to go check on the rabbit traps I set up yesterday. Trap hunting is my passion. Placing traps in the right spots and patiently waiting for the results... The excitement during that waiting period is unmatched.
 またあとで家に来るといい、\nいつものように鍋をつくってごちそうしてやろう。\nいまの季節のうさぎはうまいぞ。,Come by my house later. I'll cook up a stew for you like always and treat you to a meal. This season's rabbit is delicious!
 罠カードについて,About Trap Cards:
 罠カードは伏せたターンには発動できません。伏せた次のターン以降はじめて発動できるようになります。,Trap cards cannot be activated on the turn they are set; and can only be activated starting from the next turn after.
