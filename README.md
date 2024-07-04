@@ -18,6 +18,7 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 ## General
 - Any ❤, must be prefixed with puncuation. Eg: ".❤", "!❤", "?❤", "~❤", or "...❤" 
 - Any "," must be replaced with ";". This is because the scripts are comma-delimited CSVs. They will render as "," in game.
+- Don't use "…". Use "..."!
 
 ## Card terminology
 - The elements a card can be (EG: Water, Fire Dark etc) is called "Attribute"
