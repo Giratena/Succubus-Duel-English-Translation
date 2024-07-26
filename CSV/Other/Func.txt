@@ -9,7 +9,7 @@ default
     デッキ編集画面生成
 
 @タイトルに戻る
-    選択肢,Quit Game,やっぱりやめる
+    選択肢,タイトルに戻る,やっぱりやめる
     if,選択肢,==,1
     {
         場所移動,&&場所タイトル
@@ -297,7 +297,7 @@ default
     $旧配列位置,=,0
     
     &師匠アニメ,(EU1_MaidAPaizuri,EU1_Maid_Cum,EU2_paizuriAnime,EU3_paizuriAnime)
-    &スライムサキュバスアニメ,(EU5_thighJobAnime,slime_bigBreastPaizuri,slime_superBigBreastPaizuri,EU7_paizuriAnime,EU8_handJobAnime)
+    &スライムサキュバスアニメ,(EU5_thighJobAnime,slime_bigBreastPaizuri,slime_superBigBreastPaizuri,EU7_paizuriAnime,EU8_handJobAnime,F2_FootJobAnime (1))
     &エルルアニメ,(EU17_paizuriAnime,EP06_HandJob (1)),
     &試験官アニメ,(EU18_PaizuriAnime,EU18_PaizuriAnime2,EU19_handJobAnime,EP07_PaizuriAnime),
     &シスターアニメ,(EU21_PaizuriAnime,EU22_paizuriAnime)
@@ -315,7 +315,7 @@ default
     &メロディアニメ,(EU82_blowJob,EU83_bustShakeAnime,EU83_paizuriAnime,EU84_footJobAnime,EU81_paizuri,F22_bustShakeAnime,F22_paizuriAnime)
     &ネクロアニメ,(EU53_paizuriAnime,EU54_footJobAnime,EU55_thighJobAnime,EU56_handJobAnime,F23_paizuriAnime)
     &ジェミニアニメ,(EU62_paizuriAnime,EU63_blowJobAnime,EU64_paizuriAnime,EU64_paizuriFlashAnime,EU61_tailJobAnime,F24_paizuriAnime)
-    &リュカアニメ,(EU58_bustZoomAnime,EU59_paizuriAnime,EU59_paizuriAuraAnime,EU60_handJobAnime,F25_bustShakeAnime,F25_paizuriAnime)
+    &リュカアニメ,(EU58_bustZoomAnime,EU59_paizuriAnime,EU59_paizuriAuraAnime,EU60_handJobAnime,NPC9_paizuriAnime,F25_bustShakeAnime,F25_paizuriAnime)
     &シルヴィアアニメ,(EU67_footJobAnime,EU68_paizuriAnime,EU68_paizuri2Anime,EU85_handJobAnime,EU69_cowgirlAnime,EU69_cowgirl2Anime,F26_bustShakeAnime,F26_paizuriAnime)
     &サキュバスエルルアニメ,(EU57_footShakeAnime,EU57_bustShakeAnime,EU57_paizuriAnime,EU71_bustShakeAnime,EU71_paizuriAnime,EU72_bustShakeAnime,EU72_bustShowShakeAnime,EU72_paizuriAnime,EU70_bustShakeAnime,EU70_handJobAnime,F27_bustShakeAnime,F27_kissAnime,F27_handJobAnime,F27_paizuriAnime)
     
@@ -421,7 +421,7 @@ default
         &スキップ位置,+=,&アニメ一覧.Count+1
         &アニメ一覧,+=,&シルヴィアアニメ
     }
-    if,$$サキュバスエルル戦勝利,>=,1,||,$$地下通路説明完了,==,1,||,$$周回数,>,0
+    if,$$サキュバスエルル戦勝利,>=,2,||,$$地下通路説明完了,==,1,||,$$周回数,>,0
     {
         &スキップ位置,+=,&アニメ一覧.Count+1
         &アニメ一覧,+=,&サキュバスエルルアニメ
@@ -643,7 +643,7 @@ default
         &スキップ位置,+=,&一覧.Count+1
         &一覧,+=,&ムニン
     }
-    if,$$Dランク昇格試験勝利,>=,1
+    if,$$Dランク昇格試験勝利,>=,1,||,$$地下通路説明完了,==,1
     {
         &スキップ位置,+=,&一覧.Count+1
         &一覧,+=,&フラワー
@@ -819,7 +819,7 @@ default
         case,$イベントバトルボタンid
         {
             //グローバル変数は回想モードON状態だと変更できなくなるのでコマンドの順番に注意
-            $$回想スキップ,=,1
+            $$回想スキップ,=,0
             回想モードON,
             画像全削除
             外部イベント実行変数パス,%カード.ファイルパス,イベント
@@ -878,7 +878,6 @@ default
         フェードイン,
         画像全削除
         break
-        //イベント実行,回想詳細ウインドウ画像表示,_#1,_#2
     }
     画像全削除
 
@@ -1003,6 +1002,11 @@ default
         &スキップ位置,+=,&一覧.Count+1
         &一覧,+=,&スライムサキュバス,
     }
+    if,$$プラント戦闘済み,>=,1,||,$$地下通路説明完了,==,1
+    {
+        &スキップ位置,+=,&一覧.Count+1
+        &一覧,+=,&プラント,
+    }
     if,$$エルル会ったことがある,>=,1,||,$$地下通路説明完了,==,1
     {
         &スキップ位置,+=,&一覧.Count+1
@@ -1028,7 +1032,7 @@ default
         &スキップ位置,+=,&一覧.Count+1
         &一覧,+=,&ムニン
     }
-    if,$$Dランク昇格試験勝利,>=,1
+    if,$$Dランク昇格試験勝利,>=,1,||,$$地下通路説明完了,==,1
     {
         &スキップ位置,+=,&一覧.Count+1
         &一覧,+=,&フラワー
@@ -1183,21 +1187,77 @@ default
 @図鑑詳細ウインドウ生成
     //_#1:カード、_#2:基礎画像idプラス
     イベント実行,図鑑詳細ウインドウ画像表示,_#1,_#2
+    %自分プレイヤー,=,_#1.&デフォルトマスター
+    自分プレイヤー設定,_#1,%自分プレイヤー
     while,true
     {
-        ボタン付加,$閉じるボタンid,$画像閲覧ボタンid
+        ボタン付加,$閉じるボタンid,
+        全子供ボタン付加,$ソーターid
         ボタン待ち
+        画像全削除
         switch,選択肢,
         case,$閉じるボタンid
         {
-            画像全削除
             break
         }
         case,$画像閲覧ボタンid
         {
-            画像全削除
             イベント実行,画像閲覧ウインドウ生成,_#1,_#2+100
-        }        
+        }
+        case,$敗北後回想ボタンid
+        {
+            Now回想ON,
+            &現在背景,=,現在背景
+            &現在BGM,=,現在BGM,
+            暗転,1
+            背景,_#1.&デフォルト背景
+            外部カードイベント実行,敗北後,_#1,相手プレイヤー,
+            ループダメージ停止
+            背景,&現在背景
+            BGM,&現在BGM
+            Now回想OFF,
+            明転,1
+        }
+        case,$主人公オナニー回想ボタンid
+        {
+            Now回想ON,
+            &現在背景,=,現在背景
+            オナニー回数加算,_#1,1
+            外部カードイベント実行,オナニー,_#1,相手プレイヤー,
+            背景,&現在背景
+            Now回想OFF,
+        }
+        case,$オナニー回想ボタンid
+        {
+            Now回想ON,
+            &現在背景,=,現在背景
+            オナニー回数加算,_#1,1
+            %プレイヤー,=,%%0
+            フェイス設定,%プレイヤー,false
+            外部カードイベント実行,オナニー,_#1,%プレイヤー,
+            背景,&現在背景
+            Now回想OFF,
+        }
+        
+        case,$命乞い回想ボタンid
+        {
+            Now回想ON,
+            &現在背景,=,現在背景
+            命乞い回数加算,_#1,1
+            外部カードイベント実行,命乞い,_#1,相手プレイヤー,
+            背景,&現在背景
+            Now回想OFF,
+        }
+        case,$命乞い2回想ボタンid
+        {
+            Now回想ON,
+            &現在背景,=,現在背景
+            命乞い回数加算,_#1,1
+            外部カードイベント実行,命乞い2,_#1,相手プレイヤー,
+            背景,&現在背景
+            Now回想OFF,
+        }
+        画像全削除
         イベント実行,図鑑詳細ウインドウ画像表示,_#1,_#2
     }
     画像全削除
@@ -1219,15 +1279,93 @@ default
     
     $テキスト画像id,=,1005 +_#2
     テキスト画像,$テキスト画像id,<align="left">{%カード.フレーバーテキスト}
+    デバッグ,{%カード.フレーバーテキスト}
+    // Debug line to copy character descriptions to the clipboard for translation purposes
     画像アンカー,$テキスト画像id,(0.501,0.3),(0.92,0.94)
+
+    $ソーターid,=,1006 + _#2
+    ソーター,$ソーターid,横型,(0.5,0.05),(0.95,0.25)
     
-    $画像閲覧ボタンid,=,1006 + _#2
+    $画像閲覧ボタンid,=,1007 + _#2
     &ボタン画像,&&ボタン背景赤
     画像,$画像閲覧ボタンid,&ボタン画像,
     画像縦横比不保持,$画像閲覧ボタンid
-    画像アンカー,$画像閲覧ボタンid,(0.6,0.05),(0.9,0.25)
+    親子化,$ソーターid,$画像閲覧ボタンid
     テキスト画像,$画像閲覧ボタンid+1,画像閲覧
     親子化,$画像閲覧ボタンid,$画像閲覧ボタンid+1
+    
+    $ボタンid,=,1009 + _#2
+    $敗北後回想ボタンid,=,0
+    $オナニー回想ボタンid,=,0
+    $主人公オナニー回想ボタンid,=,0
+    $命乞い回想ボタンid,=,0
+    $命乞い2回想ボタンid,=,0
+    $命乞い3回想ボタンid,=,0
+    
+    if,%カード.?HasSection:オナニー.Count,>,0
+    {
+        $ボタンid,+=,2,
+        $主人公オナニー回想ボタンid,=,$ボタンid
+        &ボタン画像,&&ボタン背景赤
+        画像,$ボタンid,&ボタン画像,
+        画像縦横比不保持,$ボタンid
+        親子化,$ソーターid,$ボタンid
+        テキスト画像,$ボタンid+1,オナニー(主人公)
+        親子化,$ボタンid,$ボタンid+1
+
+        $ボタンid,+=,2,
+        $オナニー回想ボタンid,=,$ボタンid
+        &ボタン画像,&&ボタン背景赤
+        画像,$ボタンid,&ボタン画像,
+        画像縦横比不保持,$ボタンid
+        親子化,$ソーターid,$ボタンid
+        テキスト画像,$ボタンid+1,オナニー
+        親子化,$ボタンid,$ボタンid+1
+    }
+    if,%カード.?HasSection:命乞い.Count,>,0
+    {
+        $ボタンid,+=,2,
+        $命乞い回想ボタンid,=,$ボタンid
+        &ボタン画像,&&ボタン背景赤
+        画像,$ボタンid,&ボタン画像,
+        画像縦横比不保持,$ボタンid
+        親子化,$ソーターid,$ボタンid
+        テキスト画像,$ボタンid+1,命乞い
+        親子化,$ボタンid,$ボタンid+1
+    }
+    if,%カード.?HasSection:命乞い2.Count,>,0
+    {
+        $ボタンid,+=,2,
+        $命乞い2回想ボタンid,=,$ボタンid
+        &ボタン画像,&&ボタン背景赤
+        画像,$ボタンid,&ボタン画像,
+        画像縦横比不保持,$ボタンid
+        親子化,$ソーターid,$ボタンid
+        テキスト画像,$ボタンid+1,命乞い2
+        親子化,$ボタンid,$ボタンid+1
+    }
+    if,%カード.?HasSection:命乞い3.Count,>,0
+    {
+        $ボタンid,+=,2,
+        $命乞い3回想ボタンid,=,$ボタンid
+        &ボタン画像,&&ボタン背景赤
+        画像,$ボタンid,&ボタン画像,
+        画像縦横比不保持,$ボタンid
+        親子化,$ソーターid,$ボタンid
+        テキスト画像,$ボタンid+1,命乞い3
+        親子化,$ボタンid,$ボタンid+1
+    }
+    if,%カード.?HasSection:敗北後.Count,>,0
+    {
+        $ボタンid,+=,2,
+        $敗北後回想ボタンid,=,$ボタンid
+        &ボタン画像,&&ボタン背景赤
+        画像,$敗北後回想ボタンid,&ボタン画像,
+        画像縦横比不保持,$敗北後回想ボタンid
+        親子化,$ソーターid,$敗北後回想ボタンid
+        テキスト画像,$敗北後回想ボタンid+1,敗北後
+        親子化,$敗北後回想ボタンid,$敗北後回想ボタンid+1
+    }
     
 @画像閲覧ウインドウ生成
     背景,&&グレー背景,

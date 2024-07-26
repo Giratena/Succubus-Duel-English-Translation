@@ -20,6 +20,8 @@ default
     &爆乳パイズリアニメ,slime_superBigBreastPaizuri
     &おっぱいSE,Oppai01.mp3
     攻撃エフェクト設定,&&セクシーエフェクト
+    &デフォルトマスター,%%70003
+    &デフォルト背景,&&丘夕方背景
 
 
 @効果

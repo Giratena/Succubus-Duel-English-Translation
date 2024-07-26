@@ -1,47 +1,48 @@
 default
-村人A,
-老婆【!】,
-老婆,
-商人,
-狩人,
-南の村,
+村人A,Villager A
+老婆【!】,Old Lady【!】
+老婆,Old Lady
+商人,Merchant
+狩人,Hunter
+南の村,Southern Village
 Place/SouthVillage,
 情報収集,Investigate
 ショップ,Shop
 デッキ編集,Deck Edit
-タイトルに戻る,
+タイトルに戻る,Back to title
 特殊オプション,Special Options
 ロード,Load
 セーブ,Save
 回想,Reminisce
+図鑑,Gallery
 次のステージへ,Next Stage
-やあ、こんにちは。守護者のお弟子さん。,
-あんたらすごいよなぁ。１人で２０枚や３０枚もカードが使えるんだろ？,
-おれら一般人じゃ、４，５人で魔力を合わせて、ようやく１枚召喚できるかどうかだぜ。,
-カードマスターってのはすごいねぇ。尊敬しちまうよ。,
-デッキ枚数について,
-プレイヤーのデッキに入れられるカードの枚数は最大で３０枚です。２０枚から３０枚の間で、自由にデッキを組むことができます。同じカードは３枚までしか入れられません。,
-おや、師匠との修行、今日はもう終わりかい？,
-なに？この村から出発する？そうかい、ついに妹さんを探しにいくのかい,
-あんたが魔族に襲われてこの村に流れてきたときは、あんなに小さかったのに…。,
-今ではこんなに強くなって。頑張ったねぇ。,
-これは餞別だ。とっておきな。,
-頑張って魔族をぶちのめしてくるんだよ！,
-この村に来たときはカードのこともよくわかっていないような、痩せた子供だったのにねぇ、,
-守護者のコノハ様に見出されて、こってり修行をつけてもらったおかげで、今じゃこんなに頼もしい。,
-妹さん見つかるといいね。頑張って魔族をぶちのめしてくるんだよ！,
-ん？そこのきみ、デッキを身に付けているね。この村の守護者さんかな？,
-へぇ、守護者のお弟子さんなのかい。よろしく、わたしはこの村に来たばかりの商人だよ。,
-ちょうど王都の方で仕入れてきたカードパックがあるんだ。よかったら買っていてよ。,
-カードパックは開いた人の適正に応じてその中身が決まる。開けるまで何が入っているか誰にも分からない。,
-今からお兄さんが開けるのが楽しみだよ。どんなカードが入っているかな？,
-さて…。昨日仕掛けた罠の様子はどうなっているかのう。,
-わしはこれからウサギ取りの罠を見に行くところじゃよ。\n罠猟はわしの生きがいじゃ。いい場所にしかけて成果をじっと待つ。\nこのときのワクワク感がたまらん。,
-またあとで家に来るといい、\nいつものように鍋をつくってごちそうしてやろう。\nいまの季節のうさぎはうまいぞ。,
-罠カードについて,
-罠カードは伏せたターンには発動できません。伏せた次のターン以降はじめて発動できるようになります。,
-特殊オプションについて,
-拠点のメニューから「特殊オプション」を実行することができます。,
-特殊オプションでは難易度の変更やBGMの音量調整、プレイヤーの見た目変更などを行えます。,
-操作説明,
-右クリックでメッセージをスキップできます。マウスホイールでメッセージを透過できます。スマートフォンの場合、二本指タップでスキップできます。長押ししたまま上下に動かすとメッセージを透過できます。,
+やあ、こんにちは。守護者のお弟子さん。, Whoa; hello there! It's the Guardian's apprentice.
+あんたらすごいよなぁ。１人で２０枚や３０枚もカードが使えるんだろ？, You guys are amazing. Each of you can use 20 or 30 cards; right?
+おれら一般人じゃ、４，５人で魔力を合わせて、ようやく１枚召喚できるかどうかだぜ。, For us ordinary folks; it takes the combined magic of 4 or 5 people to barely summon even one card.
+カードマスターってのはすごいねぇ。尊敬しちまうよ。, Cardmasters are incredible aren't they? I have a great deal of respect for them.
+デッキ枚数について, About the number of cards in the deck:
+プレイヤーのデッキに入れられるカードの枚数は最大で３０枚です。２０枚から３０枚の間で、自由にデッキを組むことができます。同じカードは３枚までしか入れられません。,Players can include a maximum of 30 cards in their deck. You can freely construct your deck with anywhere between 20 to 30 cards and you can only include up to three copies of the same card.
+おや、師匠との修行、今日はもう終わりかい？,Oh; has your training with your Master finished for today?
+なに？この村から出発する？そうかい、ついに妹さんを探しにいくのかい,What? You're leaving the village? I see...so you're finally going to look for your sister are you?
+あんたが魔族に襲われてこの村に流れてきたときは、あんなに小さかったのに…。,Oh; I remember when you were just a small boy; washed up in our village after we were being attacked by monsters...
+今ではこんなに強くなって。頑張ったねぇ。,And now you've become so strong. You've worked hard to get where you are.
+これは餞別だ。とっておきな。,This is a parting gift. Please take it.
+頑張って魔族をぶちのめしてくるんだよ！,Work hard and defeat those monsters for me!
+この村に来たときはカードのこともよくわかっていないような、痩せた子供だったのにねぇ、,When you first came to this village; you were a scrawny kid who didn't even understand much about cards...
+守護者のコノハ様に見出されて、こってり修行をつけてもらったおかげで、今じゃこんなに頼もしい。,But thanks to our Guardian Konoha taking you in and giving you training; you can really hold your own now.
+妹さん見つかるといいね。頑張って魔族をぶちのめしてくるんだよ！,I hope you find your sister. Good luck and go beat up those demon monsters! , 
+ん？そこのきみ、デッキを身に付けているね。この村の守護者さんかな？,Hm? I see you have a deck with you. Are you the guardian of this village?
+へぇ、守護者のお弟子さんなのかい。よろしく、わたしはこの村に来たばかりの商人だよ。,Oh; you're the disciple of the guardian. Nice to meet you! I’m a merchant who’s just arrived in this village.
+ちょうど王都の方で仕入れてきたカードパックがあるんだ。よかったら買っていてよ。,I’ve got some card packs that I brought from the Royal Capital. How about buying one?
+カードパックは開いた人の適正に応じてその中身が決まる。開けるまで何が入っているか誰にも分からない。,The contents of the card pack are determined by the suitability of the person opening it. Nobody knows what's inside until it’s opened.
+今からお兄さんが開けるのが楽しみだよ。どんなカードが入っているかな？,I'm excited to see what kind of cards you'll pull out. What do you think will be inside?
+さて…。昨日仕掛けた罠の様子はどうなっているかのう。,Now then... I wonder how the trap I set up yesterday is doing.
+わしはこれからウサギ取りの罠を見に行くところじゃよ。\n罠猟はわしの生きがいじゃ。いい場所にしかけて成果をじっと待つ。\nこのときのワクワク感がたまらん。,I'm about to go check on the rabbit traps I set up yesterday. Trap hunting is my passion. Placing traps in the right spots and patiently waiting for the results... The excitement during that waiting period is unmatched.
+またあとで家に来るといい、\nいつものように鍋をつくってごちそうしてやろう。\nいまの季節のうさぎはうまいぞ。,Come by my house later. I'll cook up a stew for you like always and treat you to a meal. This season's rabbit is delicious!
+罠カードについて,About Trap Cards:
+罠カードは伏せたターンには発動できません。伏せた次のターン以降はじめて発動できるようになります。,Trap cards cannot be activated on the turn they are set; and can only be activated starting from the next turn after.
+特殊オプションについて,About Special Options
+拠点のメニューから「特殊オプション」を実行することができます。,'Special Options' can be selected from the base menu.
+特殊オプションでは難易度の変更やBGMの音量調整、プレイヤーの見た目変更などを行えます。,In 'Special Options' you can change the difficulty; adjust the BGM volume; and modify the player's appearance.
+操作説明,Controls Explanation
+右クリックでメッセージをスキップできます。マウスホイールでメッセージを透過できます。スマートフォンの場合、二本指タップでスキップできます。長押ししたまま上下に動かすとメッセージを透過できます。,You can right-click to skip messages. Using the mouse wheel; you can make messages transparent. For smartphones; you can skip messages with a two-finger tap. By holding and moving up or down; you can make messages transparent.

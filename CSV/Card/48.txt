@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Moon Magician
-&効果テキスト,[1]. Once per turn; when a character that you control has their HP recovered: Increase the maximum HP of the monster that received the recovery by 300 points and grant it [Next Damage Nullified]. Additionally; add one random Light Attribute Magic Card from your Deck to your hand.
+&効果テキスト,[1]. Once per turn; when a character that you control has their HP recovered: Increase the maximum HP of the monster that received the recovery by 300 points and grant it [Next Damage Nullified]. Additionally; add one random Light Attribute Spell Card from your Deck to your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
