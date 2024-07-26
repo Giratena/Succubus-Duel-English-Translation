@@ -12,8 +12,8 @@ default
     &妹立ち絵,F29_nonSuccubus.png
     &サキュバス立ち絵A,succubus_shadow.png
     &サキュバス立ち絵B,succubus_shadow2.png
-
-
+    &デフォルトマスター,%%70007
+    &デフォルト背景,&&ギルド背景
 
 @クエストイベント
     背景変更,&&ギルド背景            

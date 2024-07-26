@@ -1,11 +1,11 @@
 default
-タイトルに戻る,
-やっぱりやめる,
+タイトルに戻る,Back to title
+やっぱりやめる,Never mind
 このモードは翻訳者がテストするためのモードです。まだ翻訳は実装されていません。\nThis mode is for translators to test. No translations have been implemented yet.\n此模式用于翻译测试。 尚未实施任何翻译。,
-日本語,
-English,
-简体中文,
-한국어,
+日本語,Japanese
+English,English
+简体中文,Chinese
+한국어,Korean
 言語が日本語に設定されました。,
 The language has been set to English.,
 To translate; open the text in CSV/Language/English and write the English text next to the comma. Commas are not allowed in the text; so if you want to use commas; please use semicolons.,
@@ -51,15 +51,15 @@ To translate; open the text in CSV/Language/English and write the English text n
 文字送りが無効になりました。,
 文字送りが有効になりました。,
 BGMの音量を変更できます,
-変更する,
-変更しない,
+変更する,Change
+変更しない,Don't change
 BGMのボリュームが変更されました。,
 SEの音量を変更できます。,
 SEのボリュームが{&&InputtedText}に変更されました。,
 主人公のHPと攻撃力に一定の上限を設定できます。主に難易度を上げるために利用できる機能です。,
 この機能を利用したとしてもバトル開始時のステータスが変更されるだけでレベルそのものに影響はありません。機能を解除することでいつでも本来のレベルのステータスに戻ることができます。,
 能力制限を入れるか選んでください,
-制限をしない,
+制限をしない,No Limits
 HP6000/Atk1000,
 HP8000/Atk1300,
 能力制限をしないモードになりました。HPと攻撃力はレベルによって決まります。,
@@ -84,7 +84,7 @@ HP8000/Atk1300,
 主人公の見た目が決定されました。この内容はいつでも変更できます。,
 文字が表示されるときの音をミュートにできます。,
 文字音1（デフォルト）,
-音をなくす,
+音をなくす,No sound
 文字音を１に設定しました。,
 文字音を無音に設定しました。,
 文字音を2に設定しました。,
@@ -92,3 +92,7 @@ HP8000/Atk1300,
 文字音を4に設定しました。,
 主人公の情報,
 {プレイヤー情報},
+画像閲覧,Artwork
+ドロー,Draw
+閉じる,Close
+
