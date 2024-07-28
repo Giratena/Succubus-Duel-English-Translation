@@ -5,8 +5,8 @@ Kiss01,
 導入イベントをスキップしますか？,Would you like to skip the opening event?
 よし、それじゃあ、ギルドのある隣街に向かおう！,Okay; time to head over to the nearby town that has a guild!
 おや、守護者のお弟子さんじゃないですか。これからどちらへお出かけで？,Oh; you're the apprentice of this village's guardian; aren't you?
-・・・なるほど。ギルドのある隣街っていうと、モルゲンですね。,...So you're going to the guild at Morgen Town huh? I see...
-今から馬車でちょうどモルゲンへ行くんですが、よろしければご一緒いたしませんか？,I'm about to head there on my carriage. Would you like to hitch a ride with me?
+・・・なるほど。ギルドのある隣街っていうと、モルゲンですね。,...So you're going to the guild at Morgen Town; huh? I see...
+今から馬車でちょうどモルゲンへ行くんですが、よろしければご一緒いたしませんか？,I'm about to head there in my carriage. Would you like to hitch a ride with me?
 いいんですか？,You wouldn't mind?
 ええ。守護者のお弟子さんが一緒なら、もし魔物が出ても安心です。,Not at all. It'd be nice to have a guardian's apprentice if any monsters show up.
 普段は魔物から逃げ切れるように、あまりたくさん荷を積まないのですが...,I normally keep my load light so that I can escape any monsters that show up.
@@ -28,10 +28,10 @@ Kiss01,
 はは、すみません。体から力が抜けてしまって…。,Ha ha; sorry about that. It seems like all the strength has left my body…
 あんな小さな女の子なのにあれがサキュバスなんですね…。,To think that such a small girl could be a succubus…
 恥ずかしながら魔力で魅了されてしまっていたみたいです。,Embarrassingly enough; it seems I was enchanted by her magic.
-わたしは妻一筋だったはずなのに…。うううっ…。,And I have a wife too; I can't believe she got to me like that… *sob*…
+わたしは妻一筋だったはずなのに…。うううっ…。,And I have a wife; too. I can't believe she got to me like that… *sob*…
 ・・・・。,...
 守護者のお弟子さん、あなたのおかげで助かりました。,Disciple of the Guardian; you saved me. Thank you;  truly.
-いまは急いでモルゲンを目指しましょう。また魔物に襲われたらたまりません！,Now let's need to hurry toward Morgen. We can't afford to be attacked by monsters again!
+いまは急いでモルゲンを目指しましょう。また魔物に襲われたらたまりません！,Now; let's to hurry toward Morgen. We can't afford to be attacked by monsters again!
 こうして僕らはモルゲンに向かって急いで馬車を走らせ、その日のうちに街へ着いたのだった。,And so; we hurriedly drove the carriage towards Morgen and managed to reach the town by the end of the day.
 街の外で見かけたサキュバスについては、モルゲンの門番に報告しておいた。魔族領から遠いこの地でサキュバスが出ることは珍しく、彼は非常に驚いているようだった。,I reported the succubus we encountered outside of town to the watchman of Morgen. Succubi appearing this far from the Demon's Domain is rare; and he seemed very surprised.
 まさか最初の依頼からこんなことになるとは…。初めてのサキュバスとの戦いで疲れた僕は、宿屋に入るなりベッドに倒れこんでしまった。,I reported the succubus we encountered outside of town to the watchman of Morgen. Succubi appearing this far from the Monster's Domain is rare; and he seemed very surprised.
@@ -57,7 +57,7 @@ Kiss01,
 かわいいですね❤お兄さん❤,Oh my; what a strapping young man~❤ You're just too cute~❤
 お、おいどうなっているんだ。女の子から悪魔の羽・・・！？,H-Hey; what's going on. Wings sprouted from that girl's back...!?
 うふふ❤商人さんはじっとしててください。あなたのこともすぐに食べてあげます。,Ufufu~❤ Just stay put; Merchant-san. I'll gobble you up in a bit.
-でもまずはこちらのカードマスターのお兄さんから❤,But I'm going to start with this Cardmaster Onii-san over here❤
+でもまずはこちらのカードマスターのお兄さんから❤,But I'm going to start with this cardmaster Onii-san over here❤
 ん、ちゅっ・・・❤,Hnn... *Smooch❤*
 はうぅぅっ・・・・・❤,H-hahhh...❤ 
 メロメロにして、カードも使えなくして・・・❤そのまま搾っちゃいますね❤,I'm going to melt you away so that you can't use your cards❤ And then; I'm gonna drain you like this~❤
@@ -70,25 +70,25 @@ Kiss01,
 なぜだろう、嫌な予感がする。見た目はただの小さな女の子のはずなのに・・・。,I wasn't sure why; but I had a bad feeling about this girl. She might look like your average; cute girl but...
 んー・・・。何か怪しまれるようなところあったかなぁ・・・。あ、もしかして、,Hnnn...Why are you so suspicious... Ah; could it be..
 魔力が漏れているのがバレちゃいました？くすくす❤,You can feel my magic aura around me? Tehehe~❤ 
-気づかずに来てくれれば、唇でちゅってしてあげたのに・・・❤ほら、こんな風に。,If you had only come over here I would have smooched your lips.❤ Hora; just like this...
+気づかずに来てくれれば、唇でちゅってしてあげたのに・・・❤ほら、こんな風に。,If you had only come over here; I would have smooched your lips.❤ Hora; just like this...
 そう言うと少女は唇に指をあて、ちゅっと弾いて見せた。,The small girl placed a finger on her lips before flinging them my way.   
 ・・・・・・!,......!?
 そ、その羽！！な、なんで魔族領でもないのにサキュバスが！？,T-Those wings!? W-Why is a succubus so far from the monster's domain!?
 あは❤驚いた顔してますね。サキュバスを見るのは初めてですか？,Aha~❤ You look surprised. Is this your first time seeing a succubus? 
-わたしがここにいる理由なんて気にしてもしょうがないですよ。だって……。,No need to worry about why I'm here though. After all... 
-今からあなたたちはわたしに食べられちゃうんだから❤,I'm going to be gobbling you two up here and now~❤
-まずはそこの、カードマスターのお兄さんからです。,Starting with you; Mr. Cardmaster.
+わたしがここにいる理由なんて気にしてもしょうがないですよ。だって……。,No need to worry about why I'm here; though. After all... 
+今からあなたたちはわたしに食べられちゃうんだから❤,I'm going to be gobbling you two up; here and now~❤
+まずはそこの、カードマスターのお兄さんからです。,Starting with you; Mr. cardmaster.
 この足でぬちゅぬちゅしごいて、きもちよーく何回もイかせてあげますね❤,I'll stroke and pump you with my slimy feet until you cum again and again~❤      
 うふふ、わたしのターンからですね❤,Ufufu; looks like it's my turn now.❤
-お兄さん、キスでもうメロメロですか？わざわざモンスター出さなくても勝てちゃいそうです❤,Are you already head over heels for me just from a kiss mister? It looks like I might win even without summoning any monsters~❤
+お兄さん、キスでもうメロメロですか？わざわざモンスター出さなくても勝てちゃいそうです❤,Are you already head over heels for me just from a kiss; mister? It looks like I might win even without summoning any monsters~❤
 頭の中ピンク色になっているうちに、きもちよく、終わらせてあげます❤ほら・・・。,I'll make sure you finish off nicely while your mind is all pink and fuzzy~❤ Hora…
 わたしの気配に気づくぐらいだから、きっとお兄さん強いんですよね？,Since you were able to notice my presence; you must be quite strong; right mister?
 でも、エッチなことにはまだ不慣れみたい。だから、いっぱいきもちいいことしてあげて・・・❤,But it seems like you're still not used to lewd things. So; let me make you feel really good…❤
 ふにゃふにゃのメロメロに負けさせてあげます❤,I'll make sure you lose by becoming completely weak and helpless for me~❤
-お兄さんのターンからですね❤,Looks like it's your turn mister.❤
+お兄さんのターンからですね❤,Looks like it's your turn; mister.❤
 でも、戦う前からわたしのキスでメロメロになっちゃっているみたい・・・❤,But it looks like my kiss has already made you head over heels for me before we even started fighting…❤
 くすくす❤ちゃんとカード出せますか？ほら、頑張ってください❤,*Giggle*-❤ Are you able to summon your cards properly? Hora- do your best~❤
-お兄さんのターンからですね。,Your turn mister!
+お兄さんのターンからですね。,Your turn; mister!
 カードを出す前に・・・。ねえ、わたしの唇見てください❤,Oh hey; before you summon your card...look at my lips for a moment.❤
 さっきはキスしてあげられなくて、残念でした・・・❤,It's a shame I couldn't give you a kiss earlier...❤
 そばまで来てくれたら、たくさんちゅっちゅって、ついばむみたいにいっぱいキスしてあげたのに❤,If you had come closer; I would've given you lots of little pecks; just like a bird~❤
@@ -101,10 +101,10 @@ Kiss01,
 {使用カード}を召喚します！,Summon; {使用カード}!
 ううっ、あうう・・・❤,Ooh; ahh...❤
 あは❤せっかく復活させてもらったのに、\nさっきエナジーを出したときのこと、\nばっちり記憶に残っちゃってるみたいですね❤,Aha~❤ It seems like even after being revived; you still clearly remember the moment when you shot all your energy out; don't you~?❤
-おちんちんがもうギンギンみたいです❤\nそんなモンスターが出てきても全然怖くありませんよ❤,It looks like your dick is already rock hard too~❤ There's nothing scary about monster who comes out with something like that~❤
-魔法カード発動！{使用カード}！自分の水属性モンスターと、同じレベルの水属性モンスターを手札に加えます。,Magic Card Activate! {使用カード}! This allows me to add a water attribute monster of the same level as my current water attribute monster to my hand.
+おちんちんがもうギンギンみたいです❤\nそんなモンスターが出てきても全然怖くありませんよ❤,It looks like your dick is already rock hard; too~❤ There's nothing scary about monster who comes out with something like that~❤
+魔法カード発動！{使用カード}！自分の水属性モンスターと、同じレベルの水属性モンスターを手札に加えます。,Magic Card activate! {使用カード}! This allows me to add a water attribute monster of the same level as my current water attribute monster to my hand.
 スライムちゃん、どんどん集まってきてください。{使用カード}発動！,Slime-chans'; gather and assemble! {使用カード} activate!
-魔法カード発動！{使用カード}！スライムの体力をパワーアップです！,Magic Card Activate! {使用カード}! This powers my my slimes and makes them stronger!
+魔法カード発動！{使用カード}！スライムの体力をパワーアップです！,Magic Card activate! {使用カード}! This powers my slimes and makes them stronger!
 スライムちゃんを強くしちゃいます！{使用カード}を発動！,I'll make my Slime creatures even stronger! Activate {使用カード}!
 さらにパワーアップ！{使用カード}をもう一枚発動します。,And now to power up even further! I activate another {使用カード}.
 {使用カード}を発動！傷ついたモンスターを1500ポイント回復します！,I activate {使用カード} to heal my injured monster by 1500 points!
@@ -137,12 +137,12 @@ Kiss01,
 はぅうう…❤あっ、ああっ…❤,Haah…❤ Ah; ahhh…❤
 くすくす❤あとちょっとでイっちゃいますね。,Giggle❤ You're about to cum any second now.
 む、攻撃させてくれないんですか？,Hmph; you won't let me attack?
-せっかくカードマスターのお兄さんのこと、気持ちよくしてあげようと思ったのに・・・❤,And here I was thinking of making an effort to make you feel good; mister card master-❤
+せっかくカードマスターのお兄さんのこと、気持ちよくしてあげようと思ったのに・・・❤,And here I was thinking of making an effort to make you feel good; mister cardmaster-❤
 ふふ❤すっかりキスでメロメロですね❤,Fufu-❤ You’re fallen completely head over heels from my kiss; haven't you?~❤
 もっと魅了を深くしてあげます。んっちゅ❤,Time to deepen my charm spell even more. Mwah~❤
 わたしの唇が気持ちよぎて、頭の中とろけちゃったみたいですね❤,My lips feel so good that your mind seems to have melted away; hasn't it?~❤
-腕をダランとさせて、ちっちゃな女の子にされるがまま・・・❤くすくす❤もっともっとメロメロにしてあげます❤,Your arms are limp; completely at the mercy of a little girl…Ufufu~ Now let's make you even more lovey dovey for me~❤
-サキュバスのキスを知っちゃったら、もう、戦う気力なんてわかないですよね。,Once you've caught experiencing a succubus's kiss; you won't have any will left to fight; right?
+腕をダランとさせて、ちっちゃな女の子にされるがまま・・・❤くすくす❤もっともっとメロメロにしてあげます❤,Your arms are limp; completely at the mercy of a little girl…Ufufu~ Now; let's make you even more lovey-dovey for me~❤
+サキュバスのキスを知っちゃったら、もう、戦う気力なんてわかないですよね。,Once you're caught experiencing a succubus's kiss; you won't have any will left to fight; right?
 わたしの唇に見とれて、仲間の声も届かないみたい❤くすくす❤,Looks like you're so captivated by my lips that you can't hear your comrades' voices~ *Giggle*~❤
 そのままでいいんですよ。射精しちゃうまで、いっぱいキスしてあげますからね・・・❤んちゅ、ちゅう❤,But that's okay~ I'll kiss you nonstop until you cum…❤ Mwah; mwah❤
 うふふ❤ご主人様の命令より、わたしのキスの方が大事になっちゃいましたか？,Ufufu~❤ Are my kisses more important to you than your master's orders now?
@@ -150,12 +150,12 @@ Kiss01,
 ちっちゃな女の子に簡単に抑え込まれて、キスされるがまま・・・❤くすくす。使い魔失格ですね❤んっちゅ❤,Easily held down and kissed by a little girl like this… *Giggle*. You're a failure as a familiar~ Mwah❤
 わたしのキスで虜にしてあげますね❤んっちゅ❤,I'll make you my slave with my kisses~ Mwah❤
 自分よりずっとちっちゃな女の子と、唇を合わせる気分はどうですか？,How does it feel to have your lips locked with a girl much smaller than yourself?
-大人でもなかなかしないような、やらしいディープキス❤いっぱい楽しみましょ？んーっちゅ❤,Naughty deep kisses that even adults don't often share… Let's enjoy them even more; okay? Mmmm-wah~❤
+大人でもなかなかしないような、やらしいディープキス❤いっぱい楽しみましょ？んーっちゅ❤,Naughty; deep kisses that even adults don't often share… Let's enjoy them even more; okay? Mmmm-wah~❤
 カードを使っちゃダメですよ。じっとして、メロメロになって、わたしに負けてください。,Don't use any cards. Just stay still; give in to the moment; and lose to me~
 おねがいを聞いてくれるなら、ほらご褒美・・・❤んっちゅ❤,If you heed my request; your reward will be… Mwah❤
 戦いなんてやめましょ？あなたのマスターの命令は、サキュバスのキスで忘れさせてあげます。んーーっちゅ❤,Let's give up on this fight; okay? I'll make you forget your master's orders with a succubus's kiss. Mmmm-wahh❤
 ううっ…。人間の男のくせに思った以上に強いです…。,Uugh... You're stronger than I thought for a human male...
-たいして女の子に慣れてもなさそうなのに…。カードマスターさん、あなたのことを見くびっていたみたいです。,And it's not like you seem to be used to girls either... It seems I underestimated you; Cardmaster.
+たいして女の子に慣れてもなさそうなのに…。カードマスターさん、あなたのことを見くびっていたみたいです。,And it's not like you seem to be used to girls either... It seems I underestimated you; cardmaster.
 たいして女の子に慣れてもなさそうなのに…。主人との絆、というやつでしょうか。たいしたものですね。,And it's not like you seem to be used to girls either... Perhaps it's due to the bond you share with your master?
 でも、それもここまで。えいっ❤,But; this is the end for you. Eei~!❤
 抵抗なんてさせません。ドギツイ快楽で、全部奪ってあげます❤,I won't let you resist me. I'll use my intense pleasures to take everything from you~❤
@@ -184,24 +184,24 @@ Kiss01,
 くっ…。またですか。思った以上に強い人が多いですね…。,Ugh… Again? There are more strong ones than I thought…
 でも、あなたもさっきの人と同じ目に合うだけの話です。えいっ❤,But you’ll end up just like the last guy. Eei~!❤
 あひぃっ…❤足に飲みこまれてっ…❤,Ahiee…❤ Her feet are swallowing up m-my…❤
-あなたが戦いながらちらちらと、わたしの足を見ていたこと気づいていましたよ。,I noticed you sneaking glances at my feet while during the fight.
-仲間がさっきされたことを、自分もされるのだろうかって、期待してたんじゃないですか？,Were you wondering if the same thing that happened to your comrade would happen to you too?
-え？違うって？ふふふ、そんなことはチンポに聞けばわかります。このギンギンに勃起したチンポ、どれだけわたしの足コキに耐えられるでしょうかね❤,What? You deny it? Fufufu; I can tell by asking your dick. Look at this rock-hard erection; how long do you think it could last against my footjob~?❤
+あなたが戦いながらちらちらと、わたしの足を見ていたこと気づいていましたよ。,I noticed you sneaking glances at my feet during the fight.
+仲間がさっきされたことを、自分もされるのだろうかって、期待してたんじゃないですか？,Were you wondering if the same thing that happened to your comrade would happen to you; too?
+え？違うって？ふふふ、そんなことはチンポに聞けばわかります。このギンギンに勃起したチンポ、どれだけわたしの足コキに耐えられるでしょうかね❤,What? You deny it? Fufufu; I can tell by asking your dick. Looking at this rock-hard erection; how long do you think it could last against my footjob~?❤
 何回も足を上下に往復させてチンポをしごく。ただそれだけなのに、さっきの人はわたしに屈服しておねだりしちゃいました。,The last guy was already begging for me in submission; and all I had to do was stroke his dick by moving my feet up and down repeatedly.
 あなたも、きっと同じ❤。さあ、チンポを犯される快感、たっぷり楽しんでくださいね。うふふふ❤,And you'll end up sharing the same fate. Now then; enjoy the pleasures of having your cock pleasured silly~ Ufufufu~❤
-おまんこでもないただの足の裏ですよ？それなのにちょっといじめてあげたら、情けなく射精しちゃう男の人ばっかり❤,It's just the sole of my foot; not even a pussy you know? And yet with just a bit of tormenting; men can't help but miserably shoot their energy into it~❤
+おまんこでもないただの足の裏ですよ？それなのにちょっといじめてあげたら、情けなく射精しちゃう男の人ばっかり❤,It's just the sole of my foot; not even a pussy; you know? And yet with just a bit of tormenting; men can't help but miserably shoot their energy into it~❤
 足で踏みつけるたびに、んふふ、とんでもない喘ぎ声が漏れちゃってます♪さっきの人よりも声、大きいんじゃないですか？,With every step I take; *giggle*; you're letting out ridiculous moans~♪ Your voice is even louder than the last guy's; isn't it?
 ほら❤ほら❤ほら❤頑張ってわたしを追い詰めたのだから、少しは抵抗してくださいよ❤,Hora~❤ Hora~❤ Hora~❤ You did manage to corner me; so try to put up some resistance~❤
 あはは❤とっても素直になれましたね❤あなたも、さっきの人もみんなチョロすぎです。,Ahaha~❤ You became so honest~❤ Both you and the last guy are way too easy.
 戦いのことなんて、サキュバスに気持ちよくしてもらえるなら、どうでもよくなっちゃう。おちんちんを支配してあげれば、頭の中も全部支配されちゃう。,If a succubus can make you feel good: you don't care about the battle at all. Once I conquer your dick; I'll conquer your mind too.
 本当に下等生物ですね❤このマゾ男❤敵の女の子に足蹴にされて、興奮しているんだから、救いようがありません。,Look at this masochistic man~ Truly a lowly creature~❤ There's no hope for you; getting all excited being trampled by an enemy girl's feet.
-ほら、とどめですよ。パンパンパンって音がするぐらいに、強く踏みつけてあげます。さっさとイっちゃってください。変態❤,Hora; this is the end. I'll stomp harder so you can hear the slapping sound. Hurry up and cum already' pervert~❤
+ほら、とどめですよ。パンパンパンって音がするぐらいに、強く踏みつけてあげます。さっさとイっちゃってください。変態❤,Hora; this is the end. I'll stomp harder so you can hear the slapping sound. Hurry up and cum already; pervert~❤
 あは、こっち来てくださいって言ったら、ほんとに来ちゃうんだぁ❤そんなにキスしてほしかったんですか？,Aha; when I said come over here; you really did~❤ You want a kiss that badly?
 手も我慢できなくておちんちんを触っちゃっている。くすくす❤1ターン目で誘惑に負けるとか護衛失格ですね❤,You couldn't even resist touching your dick. Giggle~ Losing to temptation in the first turn makes you a failure as an escort~❤
-マスターさん自らこっちに来たと思ったら、ふふ、オナニー始めちゃうんですか？,When the master himself thought about coming over; he started masturbating? Ufufu; did Master really start masturbating on his own?"
-あらあら❤今度はマスターさんが自分からオナニーし始めちゃうんですか？,Oh my~❤ Is Mr. Master starting to masturbate all on his own now?
+マスターさん自らこっちに来たと思ったら、ふふ、オナニー始めちゃうんですか？,When the master himself thought about coming over; he started masturbating? Ufufu; did Master really start masturbating on his own?
+あらあら❤今度はマスターさんが自分からオナニーし始めちゃうんですか？,Oh my~❤ Is Mr. master starting to masturbate all on his own now?
 戦い始めたばかりなのに、簡単にムラムラに負けちゃいましたね❤本当に童貞さんってチョロい❤くすくす❤,Even though the fight has only started; you're so easily losing control over your arousal.❤ Virgins are really so easy. *Giggle*-❤
-結局カードを１枚も出さないまま負けちゃうんですね❤キスだけでメロメロになって、カードマスター失格です❤,Huh. You ended up losing without even drawing a single card.❤ Melting away from kisses like that... you're a failure as a Cardmaster.
+結局カードを１枚も出さないまま負けちゃうんですね❤キスだけでメロメロになって、カードマスター失格です❤,Huh. You ended up losing without even drawing a single card.❤ Melting away from kisses like that... you're a failure as a cardmaster.
 結構頑張ったのに、最後は自分からオナニー❤ふふ、エッチなこといっぱい見すぎて、我慢できなくなっちゃったんですね。,Even though you tried your best; in the end you ended up jacking yourself off. Fufu; you must have seen so many lewd things that you couldn't hold back anymore.
 本当に童貞さんなんですね❤ちょっとキスで誘惑されただけで、自分からシコシコはじめちゃうなんて・・・❤,You really are a virgin.❤ Just with a little temptation from my kisses; you ended up playing with yourself...❤
 ほら、そんなかわいらしいお兄さんに、ちょっとしたオカズを提供してあげます。,Hora; since you're such a cute young man; I'll give you some fap material.
@@ -227,10 +227,10 @@ Kiss01,
 あは❤すごい量です。精液がこんなにたくさん・・・❤,Aha~❤ Look at that amount. So much semen...❤
 エナジーを自分から敵に捧げちゃうなんて・・・、くすくす❤弱いカード使いが護衛で、商人さんもかわいそうですね。,Offering up your energy to your enemy all on your own... *Giggle* You're such a weak card-user; it's no wonder the merchant is suffering.
 くすくす❤わたしの前でオナニー始めちゃうんですか？,*Giggle* Are you starting to stroke your dick in front of me?
-くすくす❤あなたもわたしの前でオナニー始めちゃうんですか？,*Giggle* Are you starting to stroke your dick in front of me too?
+くすくす❤あなたもわたしの前でオナニー始めちゃうんですか？,*Giggle* Are you starting to stroke your dick in front of me; too?
 ちょっとキスで誘惑されただけで、自分からシコシコはじめちゃうなんて理性が弱くてかわいいです❤,How cute; letting yourself be seduced by just a little kiss and then jerking off all on your own~❤
-でも、あなたのマスターがかわいそう。大事な従者だと思っていたのに、サキュバスのキス一つで裏切られて・・・❤,But your master will be very sad won't he? Thinking you were a loyal servant; only to be betrayed by just one kiss from a succubus~❤
-こんな風に、ちゅっちゅってほっぺたにキスされただけで、主従関係捨てちゃうんですもん❤,I bet just having your cheek kissed lightly like this will make you throw away your loyalty won't it~❤
+でも、あなたのマスターがかわいそう。大事な従者だと思っていたのに、サキュバスのキス一つで裏切られて・・・❤,But your master will be very sad; won't he? Thinking you were a loyal servant; only to be betrayed by just one kiss from a succubus~❤
+こんな風に、ちゅっちゅってほっぺたにキスされただけで、主従関係捨てちゃうんですもん❤,I bet just having your cheek kissed lightly like this will make you throw away your loyalty; won't it~❤
 はうぅっ・・・❤,Ahh…❤
 うふふ❤ほっぺたのキス、とっても気持ちよさそうですね。,Ufufu~❤ Looks like you really enjoyed those cheek kisses.
 おちんちんを扱く手がどんとん早くなって、甘えるみたいにじーっとわたしの顔見ちゃって、かわいいです❤,The way your hand is stroking your dick faster and faster; while you stare sweetly at my face like you're begging is super cute~❤
@@ -240,22 +240,22 @@ Kiss01,
 ほら、ちゅっ❤んっちゅ❤ちゅ❤,Hora; mwah~❤ Mwah~❤ Smooch~❤
 あっ、あっ、ああっ・・・❤,Ah; ah; aaah…❤
 んふふ❤すっごく興奮しちゃってる❤敵の女の子に唇でからかわれながらするオナニー、くせになっちゃいそうですね。,Ufufu~❤ You're so turned on now~ It's like you're getting addicted to masturbating while being teased by an enemy girl’s lips.
-にやにや笑われながら、ちゅぱちゅぱいっている唇の音に合わせて、シコシコ、シコシコ・・・❤,With a sly smile; she kept making slurping noises with her lips; and you just keep jerking off to the sound…❤
+にやにや笑われながら、ちゅぱちゅぱいっている唇の音に合わせて、シコシコ、シコシコ・・・❤,With a sly smile; she keeps making slurping noises with her lips; and you just keep jerking off to the sound…❤
 とってもみじめなはずなのに、腰がびくびくしちゃってて、かわいいです❤,You should be super embarassed by this; and yet your hips won't stop twitching. It's really cute.❤
 もうあと数回しごけば出ちゃいそうですね❤出したらダメなのに、マスターのこと裏切って、敵を回復させちゃう裏切りおもらし・・・❤,Just a few more strokes and you'll cum; won't you?❤ You really shouldn't let anything out...you’ll be betraying your master...! And any traitorous leakage would heal your enemy so much...❤
 いいですよ。負けちゃってください❤ちっちゃな女の子に負けちゃう幸せ、唇にたっぷり刻みつけてあげます。んっちゅ❤,But don't worry. Go ahead and lose~❤ I'll leave you with the joy of losing to a petite girl like me; and carve it deeply into you with some kisses on your lips. Mmmwah~❤
 あは❤すごい量です。キスしてあげただけなのに、精液がこんなにたくさん・・・❤,Aha~❤ Look at that amount. So much semen just from a kiss…❤
-他のお兄さんたちもこっちに来ていいですよ。自分から負けてくれるなら、ご褒美のキス、してあげますからね❤,You other guys over there can come too. If you're willing to lose on your own; I'll reward you with a kiss~❤
+他のお兄さんたちもこっちに来ていいですよ。自分から負けてくれるなら、ご褒美のキス、してあげますからね❤,You other guys over there can come; too. If you're willing to lose on your own; I'll reward you with a kiss~❤
 わたしの勝ちですね❤オナニーしながらのキス、気持ちよかったですか？,Looks like I've won; huh? Did it feel good jerking off to my kisses?
 足が精液でどろどろ❤みっともなくおねだりして負けて恥ずかしいですね。ふふふ♪,Your feet are drenched in semen~ Such a pathetic loser begging and losing so pitifully. Fufufu.♪
 キス、気持ちよかったですか？わたしの勝ちですね❤,Did you enjoy the kiss? Looks like this is my victory then~❤
 スライム使いのサキュバスは、主人公が動けなくなったのを見ると、そばにいた商人に手下のスライムたちを差し向けた。,The slime controlling succubus; upon seeing the protagonist immobilized; sent her slime minions towards the nearby merchant.
 サキュバスの魔力を受けていつの間にか魅了されていた商人は、逃げることもできずすぐにスライムたちに捕まり、全身を彼女たちに包み込まれていった。,The merchant; having succumbed to the succubus's magic; found himself too captivated to escape. He was quickly captured by the slimes as they starting engulfing his body in slime.
-スライム越しにくぐもった嬌声が聞こえ始める。彼もまた身動きができなくなるまで搾り取られてしまうのだろう。,Muffled moans began to emanate through the slime. He too would undoubtedly be drained until he could no longer move.
-僕はその様子を、快感にしびれぼんやりとした頭の中で、ただ見ていることしかできなかった。,I could only watch the scene in a daze; my mind numb with pleasure.
+スライム越しにくぐもった嬌声が聞こえ始める。彼もまた身動きができなくなるまで搾り取られてしまうのだろう。,Muffled moans began to emanate through the slime. He; too; would undoubtedly be drained until he could no longer move.
+僕はその様子を、快感にしびれぼんやりとした頭の中で、ただ見ていることしかできなかった。He could only watch the scene in a daze; his mind numb with pleasure.
 くううっ・・。こんなはずじゃ・・・。,Uooghhh… This wasn’t supposed to happen…
 くすくす❤何がこんなはずじゃないんですか？みっともなくわたしにイかされたばっかりなのに・・・❤,Giggle~❤ What wasn't supposed to happen? You just came so pathetically because of me…❤
-いまさら落ち着いてもカッコ悪いだけですよ。エッチな攻撃に負けちゃった、護衛のカードマスターさん❤,It's not a good look trying to collect yourself now.  It doesn't change the fact that you're the one who lost to such lewd attacks; Mr. Cardmaster escort~❤
+いまさら落ち着いてもカッコ悪いだけですよ。エッチな攻撃に負けちゃった、護衛のカードマスターさん❤,It's not a good look trying to collect yourself now.  It doesn't change the fact that you're the one who lost to such lewd attacks; Mr. cardmaster escort~❤
 あ、もしかして一回射精してスッキリしたから、そんな冷静なことを言い出したんでしょうか。,Oh; could it be that you’re saying such composed things because you feel relieved after ejaculating once?
 そんな余裕はすぐなくなりますよ。ほら、わたしの脚を見てください。,But that calmness won't last long. Hora; look at my legs.
 ピンク色でどろっとしているでしょう？わたし、体の一部をスライムに変えられるんです。,See the pink gooeyness? I can transform parts of my body into slime too.
@@ -280,12 +280,12 @@ Kiss01,
 そ、それはっ・・・❤うっ❤ううっ❤,T-That's…❤ Ngh…❤ Oooh…❤
 あは、言えないんだ。ほら、ほらほらほら❤こうやってぐりぐりされるのが気持ちいいんですよね。踏みつけられて喜んで、馬鹿みたいに感じちゃうんですよね。,Aha; you can’t say it. Hora; hora; hora.❤ It feels good to be ground down like this; doesn’t it? Feeling happy being stepped on; getting off like a fool.
 あがっ、あぐっ❤❤あっ、ああっっ・・・❤,Ahhh, oghhh…❤❤ Ah, ahhh…❤
-あはは、もう人の言葉もしゃべれませんね❤カードマスターだろうと踏んでしまえばただのマゾ豚さんです❤みっともなく鳴くことしかできない。,Aha! You can’t even speak human words anymore.❤ Whether you're a Cardmaster or not; once you're being stepped on; you're just a pathetic masochist pig. All you can do is moan miserably.
+あはは、もう人の言葉もしゃべれませんね❤カードマスターだろうと踏んでしまえばただのマゾ豚さんです❤みっともなく鳴くことしかできない。,Aha! You can’t even speak human words anymore.❤ Whether you're a cardmaster or not; once you're being stepped on; you're just a pathetic masochist pig. All you can do is moan miserably.
 さあ、どうぞ。最後に盛大に射精していいですよ。わたしにあなたの大事なエナジー、全部捧げてください❤,Well then; go ahead. You can have one final grand ejaculation. Give me all your precious energy.❤
 ほらほらほら・・・❤,Hora; hora; hora…❤
 あひぃっ❤❤あっ、だめ、あああっ・・・❤,Ahh…❤ No, not there… Ahhhhh…❤
 はい、おしまい❤ごちそうさまでした。,Yes; that’s it.❤ Thank you for the meal.
-結構おいしかったし、どこかに連れ帰ってもよかったんですけど、ここは人間の国ですしね。,It was quite delicious; I would even consider taking you somewhere; but this is the human country.
+結構おいしかったし、どこかに連れ帰ってもよかったんですけど、ここは人間の国ですしね。,It was quite delicious. I would even consider taking you somewhere; but this is the human country.
 さて、なくなりかけてたエナジーも補給できたし、さっさと隠れましょう。任務、任務っと・・・。,Now that I've replenished my dwindling energy; it's time to quickly hide. The mission... I mustn't forget the mission...
 こうして主人公は、最初の戦闘でスライム使いの淫魔に負け、命が干からびるまで精を吸い取られた。,And so; our protagonist lost in his first battle against the slime-using succubus; his life force sucked out until he dried up.
 妹を探すはずだった冒険は、自分よりもずっと年下の少女にあっけなく踏みにじられてその幕を閉じ、,The adventure he started to find his sister ended abruptly under the feet of a girl much younger than himself.
