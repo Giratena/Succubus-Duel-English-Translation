@@ -2,15 +2,15 @@ default
 師匠,Master
 　主人公の師匠。Bランクの実力派。主に戦士系のカードを使い、特にサムライモンスターを好んで使う。\n　孤児になった主人公を拾い、小さいころから育ててきた。拾ったときは自身もまだ10代で、子供の育て方などまったく分からない中、まっすぐに育つように努力してきた。カードの使い方だけではなく、文字の読み書きなども教え、主人公にとっては師匠であると同時に年の離れた姉のような存在である。\n　全体的に運動神経がよく、性的なことも上手い。また魔力の扱いが卓越しているので彼女の魅了魔法を受けると実力のあるカードマスターであっても一瞬で思考能力を奪われ、恍惚感に茫然とすることしかできなくなるという。,The protagonist's master. B Rank. Mainly uses warrior cards; but has a particular fondness for samurai monsters.\n\nShe found the protagonist since he was an orphan; and raised him since he was a child. Although she had no idea how to raise a child at the time; she worked hard to ensure he was raised properly. She didn't just teach him how to use cards; but also told him how to read and write; and acted as both an older sister figure as well as his master.\n\nOverall; she has good reflexes; and is skilled in many sexual arts. Her mastery of magic is so exceptional that even a skilled card master who falls under her spell will be instantly deprived of their ability to think and left in a state of pleasurable trance.
 きゃあ！あいたた・・・。,Kyah！Yeowch...
-たはぁー。強くなったわねぇ。練習デッキとはいえ、負けちゃった。,That hurt! You've become much stronger I can see. Even with that practice deck; you still managed to defeat me.
+たはぁー。強くなったわねぇ。練習デッキとはいえ、負けちゃった。,That hurt! You've become much stronger; I can see. Even with that practice deck; you still managed to defeat me.
 しっかり修行の成果が出ているじゃない。\nオッケー、オッケー♪\nこれなら街まで安全に行けるわ。,A fine result from all that studious training no doubt.Now then~♪ You should have no trouble being safe going into town like this.
 でも知っての通り、王都の向こう側は魔族の領地。\n強い魔物がうようよいるから、まだ行っちゃダメよ。,But as you know; next to the Royal Capital lies the monster grounds. It's crawling with strong monsters; so you mustn't go there.
-そうね、とりあえずの目標は\nギルドに入ってAランクのカードマスターになること。\n魔族領に入るのはそれからにしなさい。,That said. For now; your goal should be to join the guild and become an A-rank Cardmaster. Only after reaching that point should you consider entering the Monster's Domain.
-あなたは亡くなったお父さんのように、\n強いマスターを目指している、そうでしょ？\nそれに…。,You want to be a strong Cardmaster just like your father; am I right?\nAnd not only that...
-妹さん、だっけ。魔族領の近くではぐれたのよね？,You're thinking about your sister too aren't you? You were separated from her near the monster grounds as well; right?
+そうね、とりあえずの目標は\nギルドに入ってAランクのカードマスターになること。\n魔族領に入るのはそれからにしなさい。,That said. For now; your goal should be to join the guild and become an A-rank cardmaster. Only after reaching that point should you consider entering the Monster's Domain.
+あなたは亡くなったお父さんのように、\n強いマスターを目指している、そうでしょ？\nそれに…。,You want to be a strong cardmaster just like your father; am I right?\nAnd not only that...
+妹さん、だっけ。魔族領の近くではぐれたのよね？,You're thinking about your sister; too; aren't you? You were separated from her near the monster grounds as well; right?
 はぐれたのはわたしのところに修行に来る前だから、\nもう8年以上前か。,You lost her before you came to me for training; so it must have been at least more than 8 years ago.
 心配だろうけれど、\n急いで無理をしても結果は伴わないわ。\n安全に少しづつ強くなりなさい。分かった？,I know you're worried...\nBut mindlessly rushing around won't bring you results.\nStay safe; and slowly hone your abilities little by little. Understood?
-わかりました。師匠！,Understood Master!
+わかりました。師匠！,Understood; Master!
 ．．．．。,...
 いい返事ね。よろしい。,Good answer. Very well then.
 今、魔族領を支配しているのは\n「サキュバス」と呼ばれる魔物たちよ。\n彼女たちは男を快楽でたぶらかすのに長けているの。,Right now; the monsters controlling the monster domain are called "Succubus". Though they mainly specialize in seducing men with pleasure; they're very good at it. 
@@ -23,7 +23,7 @@ default
 いいわ。教えてあげる。デッキを用意しなさい。\n今から実践で女モンスターと戦うってことがどういうことか、\n見せてあげるわ。,Very well. I'll teach you. Ready your deck! Let's have a practice match fighting female monsters; and I'll show you!
 きゃあ！,Kyah!
 あいたたた・・・。\nすごいわ。まさか負けるだなんて思わなかった。\nあなたには才能があるとは思ってたけど、想像以上ね。,That hurt even more than the last duel... Impressive~. I wasn't expecting to lose at all there. I always knew you had talent; but that was something else!
-サキュバスが魔物として現れ始めたのが十数年前、\nその戦法を参考にしたカードマスターたちが、\n快楽攻撃を使い始めたのがここ数年のできごと。,It was more than a decade ago that Succubi began to appear as demons. For the last few years; card masters have started incorporating pleasure attacks into their battle plan.
+サキュバスが魔物として現れ始めたのが十数年前、\nその戦法を参考にしたカードマスターたちが、\n快楽攻撃を使い始めたのがここ数年のできごと。,It was more than a decade ago that Succubi began to appear as demons. For the last few years; cardmasters have started incorporating pleasure attacks into their battle plan.
 それまで男性の方が強いマスターが多かったのに、\nこの戦術の変化で最近は男性マスターの勝率が大きく低下しているの。,Until now; the strongest card masters have been males; but the recent change in battle tactics has caused the win rates of male card masters to rapidly decline.
 ふつう、はじめてカードに快楽攻撃された男性プレイヤーは、\n頭とろとろになって足腰立たなくなっちゃうものなのよ？\nほんとたいしたものだわ。,Normally; male players who are attacked with pleasure from those cards for the first time get foggy minds and can't stand due to losing control over their lower body. It's a huge problem.
 あなたなら最終的には魔族たちに打ち勝つこともできるかもしれない。\nとはいえ、急がば回れなのは本当よ。,You might eventually be able to defeat the monsters; but remember it's unwise to rush into things absentmindedly.
@@ -35,7 +35,7 @@ default
 女の子の色香に負けちゃうような実力じゃあ、\n魔族領に入ることは難しい……、,It will be difficult for you to enter into monster territory if you aren't good enough to overcome a woman's sex appeal...
 これで分かったように、\n並大抵の実力じゃ、魔族領に入ることは難しいわ。,So as you can see; entering into monster territory with average skills will prove difficult.
 下級サキュバスならまだしも\n中級以上のサキュバスだとわたしよりも強いのよ。\nきっと童貞の男の子なんか瞬殺されちゃうでしょうね。,While I'm stronger than lesser-class succubi; I don't compare to high-class or even middle-class succubi. I'm sure a virgin boy like yourself would be defeated out there in an instant.
-だからこそ、地道に頑張っていきましょう。\n隣街には大きなカードマスターギルドがあって、たくさんの\nカードマスターがいる。きっとあなたにはいい刺激になるはずよ。,So for that reason; you'll need to keep steadily improving yourself. There's a card master guild in the next town over; and there are a lot of card masters there. I'm sure it will be a good source of inspiration for you.
+だからこそ、地道に頑張っていきましょう。\n隣街には大きなカードマスターギルドがあって、たくさんの\nカードマスターがいる。きっとあなたにはいい刺激になるはずよ。,So for that reason; you'll need to keep steadily improving yourself. There's a cardmaster guild in the next town over; and there are a lot of card masters there. I'm sure it will be a good source of inspiration for you.
 ギルドの方には手紙を書いておくわ。\n向こうについたらリーフという人に会いなさい。\n頼りになる人だから色々と面倒を見てくれるはずよ。,I'll write a letter to the guild. When you get over there; ask for a man named Leif. He's a reliable person; and will be sure to look after you.
 それじゃあ、これは支度金。,Now then; here's some preperation money.
 このお金を使って、カードパックを買うなり、装備を整えるといいわ。,Use this gold to buy any card packs or equipment you need.
@@ -48,7 +48,7 @@ default
 行きなさい！{使用カード}を召喚！,Now go! Summon {使用カード}!
 ふふ、何の効果も持たないカードだからって油断しちゃダメよ。\n女性モンスターはその体自体が男を惑わす武器になるの。,Fufu. Don't let your guard down just because a card doesn't have any effects. The body of a female monster itself can be a dangerous weapon for disarming men.
 ううっ、あうう・・・❤,Ooh; ahh...❤
-ふふふ❤その子を復活させて役に立つの？\nさっき自滅した情けない子じゃない❤, Fufu.❤ Is a good idea to revive that guy? \Was't he the pathetic one who sacrificed himself moments ago?❤,
+ふふふ❤その子を復活させて役に立つの？\nさっき自滅した情けない子じゃない❤, Fufu.❤ Is it a good idea to revive that guy? \Was't he the pathetic one who sacrificed himself moments ago?❤,
 魔法カード発動！{使用カード}！\nレベル４以下モンスター１体に直接攻撃能力を付与！,Magic card activate! {使用カード}! \nI can grant any one monster below level 4 the ability to attack directly!
 防御モンスターを無視して直接攻撃させてもらうわね。\n魔法カード、{使用カード}発動！,I'm going to ignore your defending monsters and attack you directly; OK? Magic card {使用カード}; activate!
 魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
@@ -71,16 +71,16 @@ default
 バトルよ！{使用カード}で{防御カード}を攻撃！,Let's battle! {使用カード}; attack {防御カード}!
 行くわよ。{使用カード}で{防御カード}を攻撃！,Time to go! {使用カード}; attack {防御カード}!
 あら、すっかりおっぱいに骨抜きね。\n女性モンスターにご奉仕されて、その厄介さが分かったかしら。,Ara; you can feel yourself becoming completely helpless for her boobs; can't you? Perhaps now you understand how troublesome being serviced by a female monster can be. 
-あら、手わざにすっかり骨抜きね。\n女性モンスターにご奉仕されて、その厄介さが分かったかしら。,Ara; you can feel yourself becoming infactuated with her hands; can't you? Perhaps now you understand how troublesome being serviced by a female monster can be. 
+あら、手わざにすっかり骨抜きね。\n女性モンスターにご奉仕されて、その厄介さが分かったかしら。,Ara; you can feel yourself becoming infatuated with her hands; can't you? Perhaps now you understand how troublesome being serviced by a female monster can be. 
 快楽攻撃を受けて集中を乱されたり、\n戦う意思自体を奪われたり、\n力任せだけじゃない強さをもっと教えてあげる❤,Distracted by pleasure attacks...having your will to fight snatched away...\nI'll show you that there is more to strength than just brute force.❤
 女性モンスター,Female Monsters
 女性モンスターは効果テキストに書かれていない快楽ダメージを与えてきたり、状態異常を付与することがあります。（オプションでテキストに表示するように変更できます）,Female Monsters may inflict pleasure damage or status conditions that aren't shown on the card's text. (This setting can be changed in the game options.)
-くっ、なにもできないわね。ターンエンド。,
-出せる手札がないわ…。ターンエンドよ。,
+くっ、なにもできないわね。ターンエンド。,Tch; seems like I can't do anything. End turn.
+出せる手札がないわ…。ターンエンドよ。,I don't have any cards I can play... End turn.
 ターン終了よ。,I end my turn.
 ターンエンド。,End turn.
 わたしのターンはおしまい。ターンエンド。,My turn is finished. End turn.
-攻撃を無効にするトラップね。うまく使えているじゃない。,A trap to nullify my monster's attacks huh? You know how to use your cards well.
+攻撃を無効にするトラップね。うまく使えているじゃない。,A trap to nullify my monster's attacks; huh? You know how to use your cards well.
 でも、それはあくまでその場しのぎ。どこまで耐えられるかしら？,But you're only delaying the inevitable. I wonder how much more you can endure?
 ううっ・・・。,Oooh...
 あは❤なになに？師匠のわたしでオナニーしちゃうわけ？,Aha!❤ What do you think you're doing? Are you trying to masturbate to me; your teacher?
@@ -101,33 +101,33 @@ default
 イっちゃえ。馬鹿弟子❤,Go on and cum. My foolish student.❤
 あは❤たくさん出てる。自分でしごくのそんなに気持ちよかったんだ。,Hehe~ So much is coming out. So jerking yourself off felt that good huh?"
 それじゃあ試合終了ね。明日から修行また頑張るのよ。,Now then; that's it for today's session. We'll continue training hard again starting tomorrow; alright?
-あら❤\n敵のマスターの前にやってきて、しこしこ始めちゃうなんて、\nずいぶんと変態なのね❤,Oh my.❤ You came right to the enemy card master and started jerking off… You're quite the pervert; aren't you?
-あなたのマスターはわたしじゃないのよ？\n分かってる？くすくす❤,Your master is not me you know?\nYou know that don't you? Kuhuhu-❤;"
+あら❤\n敵のマスターの前にやってきて、しこしこ始めちゃうなんて、\nずいぶんと変態なのね❤,Oh my.❤ You came right to the enemy cardmaster and started jerking off… You're quite the pervert; aren't you?
+あなたのマスターはわたしじゃないのよ？\n分かってる？くすくす❤,Your master is not me you know?\nYou know that; don't you? Kuhuhu-❤;"
 女モンスターにエッチな攻撃されて我慢できなくなっちゃった？\nやっぱり使い手が童貞だとモンスターもうぶになっちゃうのかしら。,Did you lose control after being sexually attacked by my female monsters? Perhaps monsters become inexperienced if their master is also a virgin...
 例えばほら、こうやっておっぱいを揺らしてあげれば・・・❤,For example; if I sway my boobs like this...❤
 はううっ・・・❤,Haaahh...❤
-あはは❤興奮して扱く手が早くなっちゃったわね。\nシコシコシコシコ、一生懸命にしごいてそんなに気持ちいいの？,Haha!❤ You've started jerking off even faster.\nStroke stroke stroke stroke~ Does pumping your cock really feel that good?"
-練習試合とはいえ大事な試合なのに、\n試験に挑んでいるマスターのこと裏切っちゃうんだ。,Even though this is only a practice match; it's also an important one; and you're betraying your master who is challenging you."
+あはは❤興奮して扱く手が早くなっちゃったわね。\nシコシコシコシコ、一生懸命にしごいてそんなに気持ちいいの？,Haha!❤ You've started jerking off even faster.\nStroke stroke stroke stroke~ Does pumping your cock really feel that good?
+練習試合とはいえ大事な試合なのに、\n試験に挑んでいるマスターのこと裏切っちゃうんだ。,Even though this is only a practice match; it's also an important one; and yet here you are betraying your master.
 女の子にエッチなこといっぱいされて、\n戦うことよりシコシコすることの方が大事になっちゃったんだ❤,The girls have been doing so many naughty things to you; and now you'd rather jerk off than fight~❤
-くすくす❤ヘンタイ❤強そうなのは見た目だけね。,Kuhuhu.❤ What a pervert.❤ You look strong but that's all it is; isn't it?,
+くすくす❤ヘンタイ❤強そうなのは見た目だけね。,Kuhuhu.❤ What a pervert.❤ You look strong; but that's all it is; isn't it?,
 気持ちよくなるところ見ててあげる❤シコシコ扱いて、射精しちゃえ。,Go ahead and stroke. I'll watch you...❤ Just give in and let yourself come~
 あは❤たくさん出てる。エナジーごちそうさま❤,Aha!❤ You're putting out so much! Thank you for the energy.❤,
 ねえ、弟子？従僕がこんな調子で、本当に勝てるのかしら。なんならあなたも私の体でしこっちゃう？くすくす❤,Well my student~? Do you really think you can win like this? If you want; you can always jerk off to my body too. Kuhuhu...❤
 あは❤いきなり何しているわけ？まさか師匠のわたしでオナニー？,Ahaha!❤ What are you doing all of a sudden? Are you seriously jerking off to your master?
 ぷっ❤節操なさすぎでしょ。\nまだ１ターン目よ。何か興奮するようなことあった？,Pfft... You have no self-control at all; do you? We're still in the first turn you know. Did something get you excited?
-えっちなことなんて分からないって言ってたのに、\n自分でおちんち触ると気持ちよくなることは知ってたんだ。,You said you didn't understand anything about sex; and yet you knew that touching your cock would feel good."
+えっちなことなんて分からないって言ってたのに、\n自分でおちんち触ると気持ちよくなることは知ってたんだ。,You said you didn't understand anything about sex; and yet you knew that touching your cock would feel good.
 女の子の体を見るだけで理性が飛んじゃうなんて、\nほんと童貞マスターってよわよわなのね❤くすくす❤,You can't even keep your composure while looking at a girl's body. You're such a pathetic virgin master.❤ Kuhuhu.❤
 ふふ、馬鹿にされて興奮しちゃってる。しごく手が早くなってるわよ。,Fufu. you're getting excited just from being mocked.❤ Your hand is moving faster and faster; isn't it?
 ま、こうなっちゃったらもう練習試合は終わりね。\nどうせイくまで我慢なんてできないでしょう？,Well; given how you are now; this practice match is over.❤ There's no way you can control yourself until you finish; right?❤
 一度エッチなことで頭いっぱいになっちゃったら、\n男はもうそれでおしまい❤\n白いのびゅって出すまで猿になっちゃう。,Once a guy is completely consumed by lewd thoughts; it's over for him.❤ He ends up turning into a monkey until his white stuff shoots out.
 いいわよ。さっさと出しなさい。\nこんな簡単に負けちゃうなら、\n魔族領にだって行かないでしょ。,It's OK. Hurry up and finish.❤ If you lose this easily; there's no way you can even step into the monster grounds.
 気持ちよくなるところ見ててあげるわ❤\nついでにほら、チャームの魔法もかけてっと❤,I'll watch you make yourself feel good~❤ And while we're at it; I'll cast a charm spell on you too~
-あは❤たくさん出てる。\n自分でしごくのそんなに気持ちよかったんだ。,Hehe~ So much is coming out. So jerking yourself off felt that good huh?"
+あは❤たくさん出てる。\n自分でしごくのそんなに気持ちよかったんだ。,Hehe~ So much is coming out. So jerking yourself off felt that good; huh?
 それじゃあ試合終了ね。\n明日から地道に修行に励むこと。わかった？,Now then; that's it for today's session. We'll continue training hard again starting tomorrow; alright?
 やっぱり使い手が童貞だとモンスターもうぶになっちゃうのかしら。\n例えばほら、こうやっておっぱいを揺らしてあげれば・・・❤,It seems that if the user is a virgin; their monsters become inexperienced as well. For instance; look. If I bounce my breasts like this...❤
 練習試合とはいえ大事な試合なのに、\n召喚されてすぐにマスターのこと裏切っちゃうんだ❤,Though this is only a practice duel; it's still an important one. And yet right after being summoned; they can't help but betray their master...❤
-くすくす。ヘンタイ❤\n強そうなのは見た目だけね。,Kuhuhu.❤ What a pervert.❤ You look strong but that's all it is; isn't it?,
+くすくす。ヘンタイ❤\n強そうなのは見た目だけね。,Kuhuhu.❤ What a pervert.❤ You look strong; but that's all it is; isn't it?,
 馬鹿にされて興奮しているところがますます変態ね。\nいいわよ。早く出しなさい。,Getting excited from being mocked just makes you even more of a pervert you know~\nVery well. Go ahead and release. Quickly now~
 気持ちよくなるところ見ててあげる❤\nシコシコ扱いて、射精しちゃえ。,I'll watch you make yourself feel good~❤ Just keep stroking and cum for me.
-あは❤たくさん出てる。\nマスターからもらった魔力をこんな形で敵にあげちゃって、悪い子ね❤,Ahaha!❤ You're putting out so much!\nGiving the enemy the magic power you received from your Master like this...you're such a bad boy.❤
-ねえ、弟子？\nあなたのモンスターがこんな調子で、本当に勝てるのかしら。\nなんならあなたも私の体でしこっちゃう？くすくす❤,So tell me; my student.\nDo you really think your monsters can win in this state?\nIf you want; you can always jerk off to my body too. Kuhuhu.❤
+あは❤たくさん出てる。\nマスターからもらった魔力をこんな形で敵にあげちゃって、悪い子ね❤,Ahaha!❤ You're putting out so much!\nGiving the enemy the magic power you received from your master like this...you're such a bad boy.❤
+ねえ、弟子？\nあなたのモンスターがこんな調子で、本当に勝てるのかしら。\nなんならあなたも私の体でしこっちゃう？くすくす❤,So tell me; my student.\nDo you really think your monsters can win in this state?\nIf you want; you can always jerk off to my body; too. Kuhuhu.❤
