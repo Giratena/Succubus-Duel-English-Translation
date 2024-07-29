@@ -75,8 +75,8 @@ default
 快楽攻撃を受けて集中を乱されたり、\n戦う意思自体を奪われたり、\n力任せだけじゃない強さをもっと教えてあげる❤,Distracted by pleasure attacks...having your will to fight snatched away...\nI'll show you that there is more to strength than just brute force.❤
 女性モンスター,Female Monsters
 女性モンスターは効果テキストに書かれていない快楽ダメージを与えてきたり、状態異常を付与することがあります。（オプションでテキストに表示するように変更できます）,Female Monsters may inflict pleasure damage or status conditions that aren't shown on the card's text. (This setting can be changed in the game options.)
-くっ、なにもできないわね。ターンエンド。,
-出せる手札がないわ…。ターンエンドよ。,
+くっ、なにもできないわね。ターンエンド。,Tch; seems like I can't do anything. End turn.
+出せる手札がないわ…。ターンエンドよ。,I don't have any cards I can play... End turn.
 ターン終了よ。,I end my turn.
 ターンエンド。,End turn.
 わたしのターンはおしまい。ターンエンド。,My turn is finished. End turn.
@@ -107,7 +107,7 @@ default
 例えばほら、こうやっておっぱいを揺らしてあげれば・・・❤,For example; if I sway my boobs like this...❤
 はううっ・・・❤,Haaahh...❤
 あはは❤興奮して扱く手が早くなっちゃったわね。\nシコシコシコシコ、一生懸命にしごいてそんなに気持ちいいの？,Haha!❤ You've started jerking off even faster.\nStroke stroke stroke stroke~ Does pumping your cock really feel that good?
-練習試合とはいえ大事な試合なのに、\n試験に挑んでいるマスターのこと裏切っちゃうんだ。,Even though this is only a practice match; it's also an important one; and you're betraying your master who is challenging you.
+練習試合とはいえ大事な試合なのに、\n試験に挑んでいるマスターのこと裏切っちゃうんだ。,Even though this is only a practice match; it's also an important one; and yet here you are betraying your master.
 女の子にエッチなこといっぱいされて、\n戦うことよりシコシコすることの方が大事になっちゃったんだ❤,The girls have been doing so many naughty things to you; and now you'd rather jerk off than fight~❤
 くすくす❤ヘンタイ❤強そうなのは見た目だけね。,Kuhuhu.❤ What a pervert.❤ You look strong; but that's all it is; isn't it?,
 気持ちよくなるところ見ててあげる❤シコシコ扱いて、射精しちゃえ。,Go ahead and stroke. I'll watch you...❤ Just give in and let yourself come~
