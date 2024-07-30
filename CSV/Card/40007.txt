@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Protection Shield
-&効果テキスト,Grants one monster on the field "All Combat Damage Recieved next fight becomes 0".
+&効果テキスト,Target monster gains "All Combat Damage received next fight becomes 0".
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
