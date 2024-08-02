@@ -1,20 +1,20 @@
 default
 オクタ,Octa
 F14_footJobAnime,
-闘技場ではあなたに負けたけれど、\n今日は負けないわよ。,I might've lost back in the stadium; but I won't lose today.
+闘技場ではあなたに負けたけれど、\n今日は負けないわよ。,I might've lost back in the colosseum; but I won't lose today.
 周りに観客がいなければ緊張もしないしね。\n先輩としてあなたより強いところを見せてあげる❤,I won't get nervous if there's no spectators around. As a senior; I'll show you that I'm stronger.❤
 あら、{主人公}、また会ったわね。,Oh; {主人公}. We meet again.
 今日はこの間とは同じ結果にはならないわ。\nわたしの水属性デッキの力、思い知らせてあげる！,This time will be different. I'll show you the power of my Water Attribute deck!
 ふふ、この間はわたしの勝ちだったわね。\nまた負けさせられたいのかしら。,Hehe; it was my win last time. Perhaps you wanted to lose again?
-先輩として闘技場以外でならわたしの方が強いってところ、\n何度でも見せてあげる❤\nおとなしくわたしにポイントと魔力を献上しなさい❤,I'll show you that I'm stronger as your senior outside the stadium.❤ Just be obedient and give me your power and points~❤
+先輩として闘技場以外でならわたしの方が強いってところ、\n何度でも見せてあげる❤\nおとなしくわたしにポイントと魔力を献上しなさい❤,I'll show you that I'm stronger as your senior outside the colosseum.❤ Just be obedient and give me your power and points~❤
 ううっ、さすがね、{主人公}。\nでも、次は勝つんだから。,Ugh; as expected from {主人公}. But I won't lose the next time.
 ふふ、負けっぱなしってわけじゃないのよ。\nわたしの先輩としての実力分かったかしら♪,Hehe; I won't keep losing you know. Maybe now you've learnt the power of a senior♪
 Dランクに挑戦する,Challenge a D-rank
 今はやめておく,Stop for now
 早速申し込みを行い、僕は試合時間を待っていた。対戦相手はオクタという名前のDランクマスターらしい。,I quickly applied; and received the time of the match. My opponent seems to be a D-rank card master named Octa.
-初めての闘技場での試合に、体が緊張しているのを感じる。多くの人が会場へと入っていくがあの人たち全員が観客なのだろうか。これまでの１対１の戦いとは少し違う、異質な戦い…。,I'm feeling nervous since it's my first time fighting in the stadium. Lots of people are heading towards the venue. Are they all spectators for the match? It's completely different from the one on one fights I've been doing up until now...
+初めての闘技場での試合に、体が緊張しているのを感じる。多くの人が会場へと入っていくがあの人たち全員が観客なのだろうか。これまでの１対１の戦いとは少し違う、異質な戦い…。,I'm feeling nervous since it's my first time fighting in the colosseum. Lots of people are heading towards the venue. Are they all spectators for the match? It's completely different from the one on one fights I've been doing up until now...
 ダメだ。考えていると余計にドキドキしてきた。人の少ない場所に行って、ちょっと心を落ち着けよう。,No; I shouldn't be thinking about that. It'll just make me even more nervous. Let's go somewhere empty to calm down.
-闘技場のメインホールから少し奥へ行くと、通用路のような場所に出た。ここなら人もいないし、ちょうどよさそうだ。試合までここで精神を集中させることにしよう。,Going deeper from the stadium's main hall is a place that looks like an alley. It doesn't seem like there's anyone here; so this place should be good. I'll focus my mind and concentrate here until the match starts.
+闘技場のメインホールから少し奥へ行くと、通用路のような場所に出た。ここなら人もいないし、ちょうどよさそうだ。試合までここで精神を集中させることにしよう。,Going deeper from the colosseum's main hall is a place that looks like an alley. It doesn't seem like there's anyone here; so this place should be good. I'll focus my mind and concentrate here until the match starts.
 はぁ…。最近あんまり勝てないなぁ…。\nエルルと差が付いちゃう…。,Haah... I haven't been able to win lately... I'm gonna be left behind by Eruru...
 ん？誰？\nここに先客がいるなんて、珍しいわね。,Hm? Who's there? It's strange to see someone here.
 わたし？わたしはオクタ。Dランクのカードマスターよ。\n今から試合があるの。って、その指輪アナタもDランクね。,Me? I'm Octa; a D-rank card master. I have a match soon... Wait; that ring in your finger means you're also a D-rank.
@@ -65,8 +65,8 @@ Dランクに挑戦する,Challenge a D-rank
 後輩くん❤素直でいい子❤\nそれじゃローションをたっぷり手に絡めて…❤,What an obedient junior~❤ Now I'll put the lotions on my hand...❤
 ズボンの中に手を入れて直接しごいてあげる…❤\nほら、ぬちゅぬちゅぬちゅ❤,My hand will go inside your pants and jerk it off...❤ Squish; squish~❤
 うあっ、あうう・・・❤,Uwahh...❤
-うふふ❤そんなに声をこらえなくても、\nここなら少し騒いだって大丈夫よ。\n闘技場はうるさいんだから、わたしたちの声なんて聞こえないわ。,Ehehe.❤ You don't have to hold your voice down; it's fine to let all your moans out. The stadium is quite noisy so no one will hear any sounds we make here.
-あなたとわたしの二人きり❤闘技場の裏でこんなことして\n何だか背徳感を感じちゃうわね❤\nあなたなんてまだ初試合もしてないのに、最初からこれだもの❤,Just the two of us~❤ Doing something like this behind the stadium~❤ It feels like we're doing something we shouldn't be doing; doesn't it?❤ You haven't even had your debut match and yet you're already like this.
+うふふ❤そんなに声をこらえなくても、\nここなら少し騒いだって大丈夫よ。\n闘技場はうるさいんだから、わたしたちの声なんて聞こえないわ。,Ehehe.❤ You don't have to hold your voice down; it's fine to let all your moans out. The colosseum is quite noisy so no one will hear any sounds we make here.
+あなたとわたしの二人きり❤闘技場の裏でこんなことして\n何だか背徳感を感じちゃうわね❤\nあなたなんてまだ初試合もしてないのに、最初からこれだもの❤,Just the two of us~❤ Doing something like this behind the colosseum~❤ It feels like we're doing something we shouldn't be doing; doesn't it?❤ You haven't even had your debut match and yet you're already like this.
 対戦相手にチンポを握られて、\nぬちゅぬちゅぬちゅ❤ぐちゅぐちゅぐちゅ❤\n激しくされて気持ちよさそうにあえいでる❤,Having your match opponent grab your dick and jerk it.❤ Squish; squish~❤ Looks like you're enjoying it when I go rougher from your moans.❤
 ねえ、わたしの指キレイでしょ？\nいっつも部屋の中で研究ばかりしてるから、日焼けもしないで肌も白いの❤,My finger are pretty; aren't they? I'm always indoor doing research; that's why my skin is this white without a hint of a tan.❤
 そんなきれいな手にチンポぎゅって包まれて、\nあん、腰が抜けちゃいそうに気持ちいいわね❤\nいいとろけ顔になってるわ❤,With such a pretty finger grasping your dick; you'll feel so good that your hips will give out.❤ And you'll melt from the pleasure~❤
@@ -75,7 +75,7 @@ Dランクに挑戦する,Challenge a D-rank
 ほら、腰を突きだしていいのよ。\nあなたは今日はもう棄権するんだもの❤\n快感をこらえたりしなくていいの❤,Go on; stick out your hips even more. You're going to withdraw from the match today anyway.❤ So you don't have to hold back from this pleasure.❤
 ローションでぬるぬるになった手の筒に包まれて、\nそこにおちんちんを出して、入れて、ぐちゅぐちゅぐちゅ❤\nいっぱい気持ちよくなっていいの❤,My ring-shaped hand covered in lotion is going in and out of your dick.❤ Squish; squish~❤ It's fine; just enjoy it.❤
 あはは、腰がひくひく動いてる❤\nほんとかわいい❤言われるがままじゃない❤\n女の言葉のいいなりになんかなっちゃ本当はダメなのよ？,Ahaha; your hips is twitching so much.❤ That's so cute.❤ But you shouldn't just blindly do what any girl says; you know?
-サキュバスだけじゃないの。闘技場には\n悪い女のマスターがたくさんいるんだから❤\nそんな風にだらんって力を抜いて、女に体を任せたりなんてしたらダメ❤,Even if it’s not a succubus; there’s a lot of bad girls in the stadium.❤ You can't relax yourself like this and let them do as they please on your body.❤
+サキュバスだけじゃないの。闘技場には\n悪い女のマスターがたくさんいるんだから❤\nそんな風にだらんって力を抜いて、女に体を任せたりなんてしたらダメ❤,Even if it’s not a succubus; there’s a lot of bad girls in the colosseum.❤ You can't relax yourself like this and let them do as they please on your body.❤
 ううっ❤オクタさんっ❤\nああっ❤もうっ・・・❤うううっ❤,Uuu~❤ Octaa~❤ Aaahh~❤ I'm going to...❤ Uuuu~❤
 そうね、そろそろ試合も始まる時間だし、\nさくっと出して、棄権届けを受付に出しに行かないとね❤,Oh right; the match will start soon. Let's hurry up and finish this so you can submit your withdrawal.❤ I'll also use my fingers to rub around the tip.❤ I'll keep teasing your glans until you can't think anymore.❤
 ほら、筒をぎゅってしめて、上下にごしごしごし❤\n先っぽに被せた手の指もわしゃわしゃわしゃ❤\nあなたのカリ首を意識が飛びそうになるぐらいいじめてあげちゃう❤,Here; I'll hold it even tighter and rub it up and down.❤ I’ll also cover the tip with fingers.❤ I’ll tease your glans until you’re unconscious.❤
@@ -92,15 +92,15 @@ Dランクに挑戦する,Challenge a D-rank
 試合までもう時間がない、僕も急いで行かなくては。前かがみのまま僕はひょこひょこと会場へと向かったのだった。,There isn't much time left until the match; I have to hurry up and go there too. Still hunched over; I walked wobbily to the venue.
 さあ、本日の注目の一戦です！,Now; it's time for the featured match of the day!
 ギルドに登録してわずか1か月でDランクに昇格！\n更に昇格試験ではサキュバスを2体も退けるほどの活躍を見せたのが\nこのマスター！,This card master reached D-rank in just 1 month after registering in the guild! And he even repelled 2 succubus during his rank promotion exam!
-誰が呼んだか「期待のルーキー」、\nＢランクマスターコノハの秘蔵弟子、{主人公}選手の登場です！！,People even call him "Rising Rookie"; B-rank Card Master Konoha's treasured pupil; {主人公} has arrived!!
+誰が呼んだか「期待のルーキー」、\nＢランクマスターコノハの秘蔵弟子、{主人公}選手の登場です！！,People even call him the "Highly Anticipated Newcomer"; B-rank Card Master Konoha's treasured pupil; {主人公} has arrived!!
 おお、観客のみなさんも盛り上がっていますねー！\n大きな拍手が聞こえてきます！,Ohh; the spectators are getting excited! You can hear such a big applause for him!
 続く対戦者は水属性デッキの使い手！,His next opponent is a water deck user!
 相手のカードさえも水属性に染めるその特殊なデッキは、\n対戦相手の戦術を崩壊させるほどの力を秘めています！\nさあ、彼女は新人の第一歩をくじいてしまうのでしょうか！,Her deck is able to paint opponent's cards into water attribute! This unique deck has the ability to destroy their opponent's strategies! Now; will she be able to stop the newcomer on his first step?
 年上相手だと緊張しがち、意外と小心者の女の子！\nＤランクマスター、{自分}選手の入場です！,She gets nervous around older men; and is a surprisingly timid girl! D-rank card master; {自分} has arrived!
 （うぐ、随分と注目されちゃってる。\nさっきあの子と話してなかったら、\n緊張でガチガチになってたかも。）,(Ugh; so much spectators. If I hadn't talked to that kid earlier; I might still be frozen stiff by now.)
-勝つのは期待のルーキーか！\nそれともDランクの水の乙女か！,Will the winner be the rising rookie!? Or will it be the D-rank water girl!?
+勝つのは期待のルーキーか！\nそれともDランクの水の乙女か！,Will the winner be the highly anticipated newcomer!? Or will it be the D-rank water girl!?
 さあ胸が高鳴るバトルの開始です！,The exciting battle is about to start!
-ねえ、ルーキーくん。\n初めての舞台にしては、すごい観客の数よね。\n緊張でガチガチになっちゃっているんじゃない？,Hey; rookie. This is your first time in the stage yet there's so much spectators. It really makes you nervous; doesn't it?
+ねえ、ルーキーくん。\n初めての舞台にしては、すごい観客の数よね。\n緊張でガチガチになっちゃっているんじゃない？,Hey; newcomer. This is your first time in the stage yet there's so much spectators. It really makes you nervous; doesn't it?
 ほら、まずは握手をしましょう。\nよろしくね。ふふ…❤,Let's start with a handshake. Hehe...❤
 彼女の差し出した手に握手を返すと、オクタさんは握った指をなまめかしく絡ませてきた。そして離れぎわ、手の平をつつぅーっとなであげてきた。,When I shaked her hand back; Octa entwined her fingers with mine seductively. And just before parting; she stroked the palm of my hand.
 ・・・っ❤,...❤
@@ -109,22 +109,22 @@ Dランクに挑戦する,Challenge a D-rank
 え？そんなことはない？僕は快楽に負けないって？\nふふ、やっぱりかっこいいじゃない。\nそのキリっとした目、初舞台にしては上出来よ。,Eh? That wouldn't happen? You wouldn't lose to pleasure? Hehe; you're kinda cool aren't you. Those sharp eyes are impressive for a debut.
 でも、これから先輩として実力を見せてあげる。\n水に溺れて、快楽に溺れて、\n何もできず無様にやられてしまいなさい！,But I'll show you the power of a senior from here on out. 
 チンポ、ずっとギンギンのまま収まらないわね❤\n観客からは見えないみたいだけど、\n司会者のお姉さんには、気づかれてるみたいよ❤,Your dick has been so hard; it's not settling down at all~❤ Looks like the spectators haven't noticed; but the announcers seems to have.❤
-ほら、今もちらっと見てる❤\nそんなところガチガチにして、緊張するべき場所が違うと思うんだけど。\n期待のルーキーくん？くすくす❤,Look; she's glancing here even now.❤ I think that place is the wrong place to be tense at at a place like this. Mr. Rising Rookie? *giggle*.❤
+ほら、今もちらっと見てる❤\nそんなところガチガチにして、緊張するべき場所が違うと思うんだけど。\n期待のルーキーくん？くすくす❤,Look; she's glancing here even now.❤ I think that place is the wrong place to be tense at at a place like this. Mr. Highly Anticipated Newcomer? *giggle*.❤
 ううっ、くそぉ・・・❤,Ughh; damn you...❤
 あはは、そんな状態ですごまれても、全然怖くないわ❤,Ahaha; even if you try intimidating me; I'm not scared at all with you in such a state.❤
 そうね、試合が始まったら、\nいきなり続きをおねだりしてもいいわよ…？\nどうせ負けるんだもの❤すぐに射精しても同じことでしょ？,Ah; right. The match is about to start; so you can just beg to continue where we left off earlier... After all; you're just gonna lose anyway~❤ What's the difference if you just came immediately anyway?
 それともマゾなあなたは、\n無意味な抵抗をしてから負ける方がお好みかしら…❤\nいずれにせよ、たっぷり私に溺れさせてあげる❤,Or perhaps since you're a masochist; you’d prefer to lose while resisting meaninglessly...❤ Whichever one; I'll make sure to drown you completely.❤
 水に溺れて、快楽に溺れて、\n何もできず無様にやられてしまいなさい！,Drown in water; drown in pleasure; and lose pathetically without being able to do anything about it!
 決着ー！！勝者は{主人公}選手！,The winner is {主人公}!
-見事な速攻で勝負を決めました！とても新人とは思えない、カードさばきです！これはすごい新人が現れました！,The battle was decided with an impressive swift attack! His card handling skill is nothing like a rookie! This is one talented rookie!
-大観衆のなかDランク相手に一歩も引かない実力を発揮しました！見事な勝利です！これはすごい新人が現れました！,He didn't back down at all against a D-rank in front of such a large crowd! What an impressive battle! This is one talented rookie!
+見事な速攻で勝負を決めました！とても新人とは思えない、カードさばきです！これはすごい新人が現れました！,The battle was decided with an impressive swift attack! His card handling skill is nothing like a newcomer! This is one talented newcomer!
+大観衆のなかDランク相手に一歩も引かない実力を発揮しました！見事な勝利です！これはすごい新人が現れました！,He didn't back down at all against a D-rank in front of such a large crowd! What an impressive battle! This is one talented newcomer!
 うう…、まさか寸止めされた状態で勝つなんて…。なんて精神力…。,Ugh... To win in such a condition after I left you on the edge... What an unbelievable willpower...
 サキュバスに勝ったってのは伊達じゃないわね。たいしたものだわ。,You weren't joking when you said you won against a succubus. That's very impressive.
 うう…、試合前のちょっかいをはねのけたときといい、たいした精神力ね…。,Ugh... To brush off my advances before the fight; what an impressive willpower...
 サキュバスに勝ったってのは伊達じゃないみたい。完全にわたしの負けよ。,Looks like you weren't joking when you said you won against a succubus. It's my complete loss.
-闘技場で勝利した！勝利報酬を得た！,You won in the stadium! You've received your rewards!
+闘技場で勝利した！勝利報酬を得た！,You won in the colosseum! You've received your rewards!
 闘技場Dランク2回戦に挑戦できるようになりました。,You can now challenge D-rank 2nd round.
-あなたのターンからね。さて、噂の新人マスターはどんな初動をするのかしら。,It's your turn. Now; I wonder what the rookie master is gonna do next.
+あなたのターンからね。さて、噂の新人マスターはどんな初動をするのかしら。,It's your turn. Now; I wonder what the newcomer master is gonna do next.
 わたしのターンからね。さあ、Dランクの実力を見せてあげるわ。,It's my turn. I'll show you the strength of a D-rank.
 あなたのターンからね。さて今日はどんな動きをするのかしら？,It's your turn. Now; I wonder what you'll do today?
 わたしのターンからね。ふふ、水モンスターの力を思い知りなさい。,It's my turn. Hehe; You'll learn the power of my water monsters.
@@ -191,8 +191,8 @@ Dランクに挑戦する,Challenge a D-rank
 む、そのカード、水属性対策のカードじゃない。\nどこかでわたしのデッキのこと聞いたのかしら。\n厄介だわ。,Ugh; isn't that card a counter against Water Attributes? I wonder where you heard my deck from; that's so annoying.
 む、そのカード水属性対策のカードじゃない。\nわたしが水属性ばっかり使うから狙い撃ちってわけ？,Ugh; isn't that card a counter against Water Attributes? Are you deliberately targeting me because I use a Water Attribute deck?
 わたしに一回勝ってるくせに、ずいぶんいじわるなことするじゃない。\nでも、簡単には負けないわよ。,You've won once already; but you're still so mean against me. But I won't lose that easily.
-カードをセット。,Card set.
-カードを伏せるわ。,Card unset.
+カードをセット。,I set this card.
+カードを伏せるわ。,I place this card facedown.
 気持ちよくしてあげるわ❤{防御カード}を攻撃！,I'll make you feel good.❤ Attack {防御カード}!
 いいことしてあげる❤{防御カード}を攻撃！,I'll do something nice for you.❤ Attack {防御カード}!
 もう一回行くわ！{使用カード}で{防御カード}を攻撃！,One more time! Attack {防御カード} with {使用カード}!
@@ -214,7 +214,7 @@ Dランクに挑戦する,Challenge a D-rank
 指を亀頭に絡めて、ぐちゅぐちゅぐちゅ❤\nふふ、敏感なところいじめられて気持ちいい？,My fingers are stroking your glans.❤ Stroke; stroke~❤ Hehe; does it feel good to get teased on your sensitive place?
 手でチンポ気持ちよくしてあげる。,I'll make you cum with my hand.
 試合前にさんざんシコられてもう限界でしょ？\nさっさと出して無様に負けちゃいなさい。くすくす❤,You've reached your limit from getting jerked before the match; right? Go ahead; just shoot it all out and lose miserably. *giggle*.❤
-両手で握ってしこしこ❤しこしこ❤\nどう？わたしの指の動き、かなり気持ちいいでしょ？\nランクアップしたばかりの初心者くんに耐えられるかしら❤,I'll grasp it with both of my hand and jerk it.❤ How is it? My fingers feels so good; aren't they? I wonder if a rookie that just ranked up can endure this.❤
+両手で握ってしこしこ❤しこしこ❤\nどう？わたしの指の動き、かなり気持ちいいでしょ？\nランクアップしたばかりの初心者くんに耐えられるかしら❤,I'll grasp it with both of my hand and jerk it.❤ How is it? My fingers feels so good; aren't they? I wonder if a newcomer that just ranked up can endure this.❤
 くす❤腰が震えてる❤もう出しちゃうんだ❤,*giggle*.❤ It's already trembling.❤ It's gonna shoot out already.❤
 試合前にわたしの提案を断っても、\nこうやって手コキで負けたら結局無意味ね❤\nほら、ほら、ほら。さっさとイってしまいなさい！,Even though you refused my proposal before the match; it's meaningless if you lose to a handjob like this in the end~❤ Come on; go ahead and cum!
 わたしの手コキは腰が抜けるぐらい気持ちいいわよ❤\nマスターのことなんてすぐに忘れさせてあげるわ❤,My handjob feels so good it'll bring you down on your knees.❤ You'll soon forget about your master.❤
@@ -223,21 +223,21 @@ Dランクに挑戦する,Challenge a D-rank
 あなたのチンポなんて足でいじめてあげれば十分よね。,Even my feet would be enough for dicks like you.
 両側からぎゅって押さえつけながら、たくさん擦ってあげる❤\n足の間で射精しちゃいなさい❤,I'll press down with both of my feet and rub your dick.❤ Go ahead and cum between my feet.❤
 足コキで負けさせてあげるわ。,Just give in to this footjob.
-せっかくの闘技場への初挑戦、\n足なんかでイかされたら屈辱よね？\n期待の新人マスターなら、これぐらい我慢しなきゃダメよ。,It'd be humiliating if you came from a foot at your first stadium debut fight; wouldn't it? You're the rising rookie so you need to be able to endure this much.
+せっかくの闘技場への初挑戦、\n足なんかでイかされたら屈辱よね？\n期待の新人マスターなら、これぐらい我慢しなきゃダメよ。,It'd be humiliating if you came from a foot at your first colosseum debut fight; wouldn't it? You're the highly anticipated newcomer so you need to be able to endure this much.
 でも、こうやって交互に足裏でしごいてあげれば…❤\nふふふ、腰が動いちゃうのよね❤\n足コキに屈服して無様な姿さらしちゃう？ほらほらほら❤,But if I alternate stroking with the sole of my feet like this...❤ Hehe; your hips starts moving like that~❤ Will you yield to this footjob and reveal yourself in such a humiliating state? Come on; do your best~❤
-しもべのモンスターなら、\nマスターくんの晴れ舞台、台無しにするわけにいかないわよね。\n足でしごかれたぐらいでイっちゃうなんて論外。,You're just a servant monster; so you can't be ruining your master's big moment on the stadium. It'd outrageous for you to cum from my feet.
+しもべのモンスターなら、\nマスターくんの晴れ舞台、台無しにするわけにいかないわよね。\n足でしごかれたぐらいでイっちゃうなんて論外。,You're just a subordinate monster; so you can't be ruining your master's big moment on the colosseum. It'd outrageous for you to cum from my feet.
 でも、激しくチンポごしごしされたら、\n頭のなかまっしろでしょ❤ほらほらほら❤\n足コキに負けて射精して、マスターくんの期待裏切りなさい❤,But when your dick get rubbed intensely; your head goes blank.❤ Come on; lose to this footjob and betray your master's expectation.❤
 ローション垂らしながら足でしごかれるの気持ちいいでしょ？,Does it feel good to be stroked by my feet dripping with lotion?
 このローションにはわたしの魔力をしみこませてあるの。\nさらにわたしのモンスターの粘液を混ぜて作った、特製品♪\nサキュバスの体液ほどじゃないけど、快感増幅効果があるはずよ。,This lotion is seeped with my magic and mixed with my monster's mucus; it's a special-made lotion♪ It's not as effective as a real succubus body; but it can amplify the pleasure you take.
 これで敏感になった亀頭を、うり、乱暴に足でごしごしごし❤\n強くこすってもローションのせいで気持ちよくなっちゃうわね。\nあは、どんどん腰が浮いてきてる❤,Now for this sensitive glans; I'll rub it roughly with my feet.❤ No matter how rough I do it; the lotion will turn it into pleasure. Ehe; your hips are starting to rise.❤
-ローション足コキなんて、\n初心者マスターくんには快感が強すぎたかしら。\nチンポバカになっちゃたら、ごめんね❤うりうりうり~♪,I wonder if that lotion footjob was way too much for Mr. Rookie.❤ Sorry that your dick turned all weird now~❤ Rub; rub~♪
+ローション足コキなんて、\n初心者マスターくんには快感が強すぎたかしら。\nチンポバカになっちゃたら、ごめんね❤うりうりうり~♪,I wonder if that lotion footjob was way too much for Mr. newcomer.❤ Sorry that your dick turned all weird now~❤ Rub; rub~♪
 もうイく？イっちゃう？\nふふふ、あなたの試合はここで終わりみたい❤\n足コキでさっさと射精しなさい❤ザーコ❤,You wanna cum? Hehe; looks like your match is going to end soon,❤ Go ahead and cum to this footjob.❤ Loooser~❤
 敏感になった亀頭を、乱暴に足でごしごしごし❤\nあは、どんどん腰が浮いてきてる❤\n下級モンスターじゃ耐えられないかしら。くすくす❤,Now for this sensitive glans; I'll rub it roughly with my feet.❤ Ehe; your hips are starting to rise.❤ Is this too much for a low rank monster? *giggle*.❤
 敏感になった亀頭を、乱暴に足でごしごしごし❤\nあは、どんどん腰が浮いてきてる❤\n上級モンスターでも足でこんなに感じちゃうんだ❤くすくす❤,Now for this sensitive glans; I'll rub it roughly with my feet.❤ Ehe; your hips are starting to rise.❤ Is this too much for a high rank monster? *giggle*.❤
 両手で握ってしこしこ❤しこしこ❤\nどう？わたしの指の動き、かなり気持ちいいでしょ？\n{主人公}でも我慢するのは大変なんじゃない？,I'll jerk it with both of my hand.❤ How is it? The movement of my fingers feels so good; aren't they? Even if it's {主人公}; it'd be hard to endure it.
-闘技場では我慢できたのに\n公式試合じゃなければ負けちゃうのね❤\nほら、ほら、ほら❤先っぽぐちゅぐちゅいじめられて出しちゃえ❤,You were able to endure this on the stadium; but you lost when it's an official match instead~❤ Come on; I'll tease the tip so just cum.❤
-わたしに一回勝ってるのに、足なんかでイかされたら屈辱よね？\n期待の新人マスターなら、これぐらい我慢しなきゃダメよ❤,Even though you've won against me once; isn't it humiliating to cum from a foot? If you're the rising rookie; you need to be able to endure this much.❤
-しもべのモンスターなら、マスターを守るために頑張らなきゃ❤\n足でしごかれたぐらいでイっちゃうなんて論外❤,You're a servant monster; so do your best to protect your master.❤ You can't possibly cum from just my feet.❤
+闘技場では我慢できたのに\n公式試合じゃなければ負けちゃうのね❤\nほら、ほら、ほら❤先っぽぐちゅぐちゅいじめられて出しちゃえ❤,You were able to endure this on the colosseum; but you lost when it's an official match instead~❤ Come on; I'll tease the tip so just cum.❤
+わたしに一回勝ってるのに、足なんかでイかされたら屈辱よね？\n期待の新人マスターなら、これぐらい我慢しなきゃダメよ❤,Even though you've won against me once; isn't it humiliating to cum from a foot? If you're the highly anticipated newcomer; you need to be able to endure this much.❤
+しもべのモンスターなら、マスターを守るために頑張らなきゃ❤\n足でしごかれたぐらいでイっちゃうなんて論外❤,You're a subordinate monster; so do your best to protect your master.❤ You can't possibly cum from just my feet.❤
 でも、激しくチンポごしごしされたら、\n頭のなかまっしろでしょ❤ほらほらほら❤\n足コキに負けて射精して、ご主人を守るのなんてやめちゃいなさい❤,But when your dick get rubbed intensely; your head will goes blank.❤ Come on; lose to this footjob and stop protecting your master.❤
 これで敏感になった亀頭を、うり、乱暴に足でごしごしごし❤\n強くこすってもローションのせいで気持ちよくなっちゃうわね❤\nあは、どんどん腰が浮いてきてる❤,Now for this sensitive glans; I'll rub it roughly with my feet.❤ No matter how rough I do it; the lotion will turn it into pleasure. Ehe; your hips are starting to rise.❤
 {主人公}みたいに強い相手でも、\nローション足コキはしっかり効果があるみたい❤\n気持ちよすぎてチンポバカになっちゃたら、ごめんね❤うりうりうり~♪,{主人公} looked like a strong opponent; but seems the lotion footjob was quite effective.❤ Sorry that your dick turned all weird now~❤ Rub; rub~♪
@@ -246,27 +246,27 @@ Dランクに挑戦する,Challenge a D-rank
 ふふ、少しは我慢したけれど、結局おねだりして負けちゃうんだ❤\n試合前にされた,Hehe; you endured it a little before the match but in the end you still lost and begged me.❤
 ううっ・・❤だって、はぐううっ・・・❤,Ugh...❤ That's because...❤
 ごめんごめん❤ずっと粘液ローションに絡みつかれて\nもう我慢できないのよね❤,Sorry; sorry~❤ The lotion has been coiling on you; I bet you can't endure it any longer~❤
-新人相手にかわいそうなことしちゃったわ。\nその分ちゃんと気持ちよくしてあげる❤\nほら、どうやってイキたいか、わたしに教えなさい❤,What a pitiful rookie; I'll make sure to pleasure you.❤ So; how do you want to lose? Please tell me~❤
+新人相手にかわいそうなことしちゃったわ。\nその分ちゃんと気持ちよくしてあげる❤\nほら、どうやってイキたいか、わたしに教えなさい❤,What a pitiful newcomer; I'll make sure to pleasure you.❤ So; how do you want to lose? Please tell me~❤
 あら？その物欲しそうな目は何なのかしら❤\n「快楽には負けない」とか言ってたのに、\nへぇー、わたしに気持ちよくしてって頼んじゃうんだ❤,Oh; I was wondering what's with those longing eyes.❤ Even though you said "I wouldn't lose to pleasure" earlier; now you're asking me to pleasure you.❤
 ぷぷっ、情けない❤\nカッコつけるなら最後までちゃんと貫きなさいよ。\n中途半端なのが一番カッコ悪いわよ？,Pfft; so pathetic~❤ If you said that just to look cool; then at least stick with it until the end. People who goes back on their words are just the worst; you know?
 あら？もうバトルはいいの？\nわたしに近寄ってきて、気持ちよくしてください、って\nそんなカッコ悪いこと言っちゃうんだ❤,Oh; is the battle over already? Approaching me and asking to be pleasured; that's so embarrassing.❤
 やっぱり男の子はダメね❤一度ギンギンにさせられちゃったら、\n射精することで頭がいっぱいになっちゃう❤\nそのためなら初試合だって投げ出しちゃう❤,Men really are no good~❤ Once they get hard; their heads are filled with thoughts of cumming.❤ They'll even happily throw away their debut match.❤
 まあ、あんまり言ったらかわいそうかしら❤\nだいじょうぶ、試合前にちょっかいかけた分、\nちゃんと気持ちよくしてあげる❤,Well; even though I said that I do feel bad.❤ I did mess with you before the match so I'll make sure to pleasure you properly this time.❤
 ほらどうしてほしいのか、こびるように言ってみなさい❤\nあなたのしてほしいこと、特別にしてあげるわよ❤,So; how do you want to get pleasured? Please tell me~❤ Just for you; I'll do anything you ask of me.❤
-あなたのマスターは初試合を頑張っているのに、\n手下がこれじゃどうしようもないわね❤,Even though your master is giving his best in his debut match; there's no way he can do anything with servants like this~❤
+あなたのマスターは初試合を頑張っているのに、\n手下がこれじゃどうしようもないわね❤,Even though your master is giving his best in his debut match; there's no way he can do anything with subordinates like this~❤
 ほらどうしてほしいのか、言ってみなさい❤\n裏切ったご褒美に、あなたのしてほしいこと、特別にしてあげるわよ❤,Please tell me how you want to be rewarded~❤ I'm letting you choose as a special reward for betraying your master.❤
 からみつく手コキ,Coiling Handjob
 恍惚の足踏み,Ecstasy Stomping
 なんでも,Whichever
 あは、手でさっきの続きをしてほしいの？\nいいわよ❤わたしの指の動きで、\nあなたのこと骨抜きにしてあげる❤,Ehe; you wanted to continue the handjob from earlier? Fine by me❤ My fingers will make you go weak❤
 ふーん、手でいじめてほしいんだ❤\nわたしの手、絡みつくように動いてとっても気持ちいいの❤\nあなたもすぐ骨抜きになるわよ。くすくす❤,Hmm; so you wanted to get teased by my hands.❤ My hands will coil all around your dick.❤  It'll feel so good; you'll go weak from it. *giggle*.❤
-あは、足で踏んでほしいの？\nくすくす❤ルーキーくんはマゾなのね❤,Ehe; you want to get stepped on? *giggle*.❤ So Mr. Rookie is a masochist~❤
+あは、足で踏んでほしいの？\nくすくす❤ルーキーくんはマゾなのね❤,Ehe; you want to get stepped on? *giggle*.❤ So Mr. Newcomer is a masochist~❤
 いいわよ❤その情けないお願いに応えて、ちゃんと踏んであげる❤\n足でしごかれて、たっぷり喘ぎなさい❤,Fine by me.❤ I'll grant your pathetic request and step on you~❤ Make sure to moan a lot~❤
 あは、足で踏んでほしいの？\nくすくす❤主人を裏切ってまで頼むのが足コキとか、\nだいぶ変態じゃない❤このマゾ❤,Ehe; you want to get stepped on? *giggle*.❤ Betraying your master and asking for a footjob; you’re a huge pervert aren’t you?❤ You pervert.❤
 いいわ、やってあげる❤\n足で踏んでしごいて、たっぷり喘がせてあげるわね❤,Fine by me; I'll do it.❤ Make sure to moan a lot~❤
-闘技場だと頑張ったのに、今日はもう負けを認めちゃうのね❤\nどうしたの？禁欲でもしてた？,You tried so hard in the stadium; but you're admitting defeat so easily today~❤ What's wrong? Could it be you were abstinent back then?
-いいわよ❤闘技場と比べればたいしてポイント入らないけど、\n勝ちを献上してくれるならありがたくもらっておくわ❤\nほら、どうやって負けたいのか言ってみなさい❤,Fine by me.❤ This doesn't give me much points compared to winning in the stadium; but I'll happily take any free wins that present themselves to me.❤ So; tell me how you want to lose~❤
-あなたのマスターはバトルを頑張っているのに、\n手下がこれじゃどうしようもないわね❤,Even though your master is giving his best in the battle; there's no way he can do anything with servants like this~❤
+闘技場だと頑張ったのに、今日はもう負けを認めちゃうのね❤\nどうしたの？禁欲でもしてた？,You tried so hard in the colosseum; but you're admitting defeat so easily today~❤ What's wrong? Could it be you were abstinent back then?
+いいわよ❤闘技場と比べればたいしてポイント入らないけど、\n勝ちを献上してくれるならありがたくもらっておくわ❤\nほら、どうやって負けたいのか言ってみなさい❤,Fine by me.❤ This doesn't give me much points compared to winning in the colosseum; but I'll happily take any free wins that present themselves to me.❤ So; tell me how you want to lose~❤
+あなたのマスターはバトルを頑張っているのに、\n手下がこれじゃどうしようもないわね❤,Even though your master is giving his best in the battle; there's no way he can do anything with subordinates like this~❤
 ふーん、手でいじめてほしいんだ❤\n知ってるでしょうけど、わたしの手、絡みつくように動いて\nとっても気持ちいいの❤あなたもすぐ骨抜きにしてあげる❤,Hmm; so you wanted to get teased by my hands.❤ Did you know? My hand coiling around feels really good.❤ You'll soon go weak from it too.❤
 ふーん、手でいじめてほしいんだ❤\nわたしの手、絡みつくように動いてとっても気持ちいいの❤\nあなたもすぐ骨抜きになるわ❤,Hmm; so you wanted to get teased by my hands.❤ My hand coiling around feels really good.❤ You'll soon go weak from it too.❤
 くす❤気持ちよさそうな射精❤\n出したあとも、腰を痙攣させて、そんなに余韻が残ってるんだ❤,*giggle*.❤ Seems you had such a pleasurable ejaculation.❤ Even after ejaculating; your hips are still shaking from the afterglow.❤
@@ -296,10 +296,10 @@ Dランクに挑戦する,Challenge a D-rank
 ううっ…❤くそぉ…❤,Ugh...❤ Noo...❤
 あはは、悔しいのにチンポ触る手止まらないね❤\nばっかみたい❤,Ehehe; you look so frustrated yet your hand isn't stopping.❤ Just like a fool.❤
 ねえ、こんな負け方したら変な性癖ついちゃうんじゃない？\nわたしみたいな背の低い女の子に見下されながら、\n衆人環視の中でおちんちんをしこしこしこ❤,Say; aren’t you going to get a weird fetish if you lose like this? Getting looked down by a short girl like me while jerking your dick in front of everyone.❤
-はじめての闘技場の試合なのに度胸があるんだかないんだか❤\nわたしに笑われてるだけでも興奮と恥ずかしさで、\n心臓がバクバクいっておかしくなりそうでしょう？,Even if it’s your debut stadium match; I can’t tell if you have the courage or not.❤ Even having me laugh at you is already getting you both excited and embarrassed; your heart is pounding like crazy isn’t it? 
+はじめての闘技場の試合なのに度胸があるんだかないんだか❤\nわたしに笑われてるだけでも興奮と恥ずかしさで、\n心臓がバクバクいっておかしくなりそうでしょう？,Even if it’s your debut colosseum match; I can’t tell if you have the courage or not.❤ Even having me laugh at you is already getting you both excited and embarrassed; your heart is pounding like crazy isn’t it? 
 そんな状態で射精したら、絶対もう普通の性癖に戻れないわ❤\n変態マゾがすっかり染みついちゃう❤\nそうしたらこの先の勝負だって勝てなくなるかもね…❤くすくす❤,If you ejaculate like that; you definitely won’t be able to go back to normal.❤ You’ll completely turn into a perverted masochist.❤ If that happens; I don’t think you’ll be able to win any of your matches anymore...❤ *giggle*.❤
 あう、ううっ…❤,Ahh; ugh...❤
-あはは、かわいい顔するじゃない❤言ってて楽しくなってきちゃった❤\nサキュバスにも勝った期待のルーキーなのに、\nそれがわたしの前で膝まづいてるなんて❤,Ehehe; what a cute face you’re making~❤ I’m having too much fun with you.❤ Even though you’re a rising rookie who even won against a succubus; now you’re down on your knees in front of me.❤
+あはは、かわいい顔するじゃない❤言ってて楽しくなってきちゃった❤\nサキュバスにも勝った期待のルーキーなのに、\nそれがわたしの前で膝まづいてるなんて❤,Ehehe; what a cute face you’re making~❤ I’m having too much fun with you.❤ Even though you’re a highly anticipated newcomer who even won against a succubus; now you’re down on your knees in front of me.❤
 つまりあなたには、\nサキュバスよりもわたしの方が魅力的だったってことでしょ？\nおちんちん我慢できなくなるぐらいわたしの方がエロかったのよね？,Which means; you were more charmed by me than by a succubus? Your dick can't hold back like this because I was too lewd; right?
 くすくす❤ほらじーってあなたのするところ、見ていてあげる❤\nあなたの大事な初試合、わたしにゆがめられて、\nわたしのことで頭いっぱいになって、それで終わるのよ❤,*giggle*.❤ I'll make sure to watch.❤ As your precious debut match gets distorted by me; your mind will only be thinking of me; and it'll end just like that.❤ 
 嫌なら手をとめてみなさい❤\nもう射精寸前だろうけど、ほら我慢して見せたら？,If you don’t like it; then just try stopping your hands~❤ I know you’re about to cum; but how about showing me you can endure it?
@@ -311,10 +311,10 @@ Dランクに挑戦する,Challenge a D-rank
 うわぁ、ほんとに言ったわ。\nでもごめんね。パンツとか見せる気ないから。\nそんなことしなくても、ほら、耳元でこう言えば十分でしょ？,Uwah; you actually said it. But too bad; I’m not interested in showing you my panties. But even without that; here; saying this on your ears will be enough.
 イ・ケ❤マゾ❤,Cum; you masochist.❤
 はぅあ、そ、そんな、ああっ…❤,Haah; I can’t; ahhh...❤
-あはは、たっぷり出しちゃった❤\n屈服射精は気持ちよかったかしら？対戦相手のこと様付けで\n呼んじゃうなんて、ぷぷ、期待の新人はずいぶんとお行儀がいいのね❤,Ehehe; you let out so much~❤ Did your submission ejaculation felt good? To even call your opponent "Master!"...❤ Pfft; the rising rookie sure is obedient~❤
+あはは、たっぷり出しちゃった❤\n屈服射精は気持ちよかったかしら？対戦相手のこと様付けで\n呼んじゃうなんて、ぷぷ、期待の新人はずいぶんとお行儀がいいのね❤,Ehehe; you let out so much~❤ Did your submission ejaculation felt good? To even call your opponent "Master!"...❤ Pfft; the highly anticipated newcomer sure is obedient~❤
 わたしの足にこんなにかけて・・・❤\n射精が終わった後のその幸せそうな表情…❤\nとっても間抜けな顔よ。くすくす❤,Letting out so much on my thighs...❤ You have such a satisfied look after ejaculating...❤ What a stupid look. *giggle*.❤
-ふふ…、わたしでオナニーしちゃうの？\n期待のルーキーなんて言われているけど、\n手下のモンスターはたいしたことのないのね❤,Hehe... You started masturbating to me? Even though it’s the so called rising rookie; your monsters are no big deal~❤
-マスターの大事な大事な初試合なのに、\n自分の快楽を優先して裏切りオナニー❤\nだめな手下を持ってマスターがかわいそう❤,Even though it’s your master’s precious debut match; they chose their own pleasure and betray him.❤ I’m feeling sorry for your master for having such useless servants.❤
+ふふ…、わたしでオナニーしちゃうの？\n期待のルーキーなんて言われているけど、\n手下のモンスターはたいしたことのないのね❤,Hehe... You started masturbating to me? Even though it’s the so called highly anticipated newcomer; your subordinate monsters are no big deal~❤
+マスターの大事な大事な初試合なのに、\n自分の快楽を優先して裏切りオナニー❤\nだめな手下を持ってマスターがかわいそう❤,Even though it’s your master’s precious debut match; they chose their own pleasure and betray him.❤ I’m feeling sorry for your master for having such useless subordinates.❤
 ううっ…❤,Ugh...❤
 いまだってバカにされて興奮している❤\nねえ、マゾモンスターはわたしのどこを見てオナニーしているのかしら,I’m making fun of you yet you’re getting even more excited.❤ Mr. Masochist Monster; I wonder which part of me you’re masturbating to?
 この短いスカートから伸びている脚？それとも器用に動く指先？,Is it my thighs showing from my short skirt? Or is it my dexterous fingertips?
@@ -345,19 +345,19 @@ Dランクに挑戦する,Challenge a D-rank
 試合前にシコシコしてあげたのが効いたようね。どんなに強いマスターでも、チンポいじられて寸止めされたら、男の知能はサル以下に落ちちゃう。,Seems jerking you off before the fight was effective. When a dick is teased and edged right at the end; their intelligence drops even lower than a monkey.
 サキュバスにだって勝てたのに、わたしみたいなマスターに卑怯なことされて自滅敗北しちゃうなんて❤くすくす、とってもみじめね❤,Even though you've beaten a succubus; seeing a card master like me made you so empty-headed that you started losing on your own.❤ That’s very pathetic; isn’t it? *giggle*.❤
 試合前に服の上から触られただけなのに、早くイきたくてすぐに試合放棄❤男ってほんとチンポに脳みそあるんじゃないの？,I was only touching you over your clothes before the fight; and now you wanted to ejaculate quickly and threw the match away.❤ Men really only got dick for brains; don’t they?
-くすくす❤まさか開始早々仲間に続いてオナニー始めちゃうなんて。期待のルーキーなんて言われているのに、みんなに見られている所で、恥ずかしくないの？,*giggle*.❤ To think you'd also start jerking off like your allies. Despite being called the rising rookie; aren’t you embarrassed doing it here where everyone can see it?
+くすくす❤まさか開始早々仲間に続いてオナニー始めちゃうなんて。期待のルーキーなんて言われているのに、みんなに見られている所で、恥ずかしくないの？,*giggle*.❤ To think you'd also start jerking off like your allies. Despite being called the highly anticipated newcomer; aren’t you embarrassed doing it here where everyone can see it?
 あは、耳まで真っ赤になっているじゃない。恥ずかしさはあるのに、チンポムラムラして我慢できなくなっちゃったんだ❤かっこ悪ーい❤,Ehe; you're turning red all the way to the ears. So you really are embarrassed; but you're so horny that you couldn't hold back❤ That's so uncoool~❤
 やっぱり試合前にシコシコしてあげたのが効いたのかしら？チンポいじられて寸止めされたら、男は頭の中サル以下になっちゃうものね。,Could it really be that jerking you off before the fight was this effective? As I thought; when a dick is teased and edged right at the end; their intelligence drops even lower than a monkey~❤
 サキュバスにだって勝てたのに、わたしみたいなマスターに卑怯なことされて自滅敗北❤みじめー❤,Even though you've beaten a succubus before; seeing a card master like me made you so empty-headed that you started losing on your own.❤ So pathetic~❤ 
 試合前に服の上から触られただけなのに、早くイきたくてすぐに試合放り出しちゃう❤男ってほんとチンポに脳みそあるんじゃないの？,I was only touching you over your clothes before the fight; and now you want to immediately threw the match away.❤ Men really only got dick for brains; don’t they?
-くすくす❤まさかあなたもオナニー始めちゃうなんて。期待のルーキーくんが、みんなに見られている所でオナニー…❤恥ずかしくないの？,*giggle*.❤ To think you'd start jerking off too on your own. Masturbating here where everyone can see the rising rookie...❤ Aren't you embarrassed?
+くすくす❤まさかあなたもオナニー始めちゃうなんて。期待のルーキーくんが、みんなに見られている所でオナニー…❤恥ずかしくないの？,*giggle*.❤ To think you'd start jerking off too on your own. Masturbating here where everyone can see the highly anticipated newcomer...❤ Aren't you embarrassed?
 試合前にシコシコされてもここまで我慢できたのにね❤でも結局チンポいじられて寸止めされたら、射精してすっきりしたくて、耐えられなくなっちゃうのよね❤,Even though you've kept enduring since getting jerked before the match up until now~❤ But in the end; you couldn't bear the constant throbbing from getting edged~❤
 試合前はわたしの誘惑をはねのけたのに、結局我慢できなくなっちゃってオナニースタート❤。強がっていた分、余計に男としてみっともないと思うわ❤,Even though you refused my proposal before the match; in the end you couldn’t hold back and started masturbating.❤ I think the fact you were pretending to be strong-willed makes you even more pathetic~❤
 ねえねえ、これだけ言われているのに何も言い返さないの？「正々堂々戦う」んでしょ？シコシコしてないで何か言ったら？くすくす❤,Hey; why don't you say anything back? You wanted to "fight fair and square"; right? Why don't you stop jerking off and say something? *giggle*.❤
 はううっ…。止めなきゃだめなのにぃ…。,Hauuu.... I need to stop; but...
 あはは、ダメなのにチンポ触る手止まらないね❤\nばっかみたい❤,Ehehe; you shouldn’t be doing this but you can’t stop touching your dick.❤ What an idiot~❤
-ふふ…、あなたもわたしでオナニーしちゃうの？期待のルーキーのモンスターは、オナニー狂いのマゾばっかり❤,Hehe... you’re also masturbating to me? The rising rookie’s monster are all masochists addicted to masturbating.❤
-マスターの大事な大事な初試合なのに、自分の快楽を優先して次から次に裏切りオナニー❤ルーキーくんに同情しちゃうわ❤,Even though it’s your master’s precious debut match; but one after another they chose their own pleasure and betrays him.❤ I’m starting to feel sorry for Mr. Rookie~❤
+ふふ…、あなたもわたしでオナニーしちゃうの？期待のルーキーのモンスターは、オナニー狂いのマゾばっかり❤,Hehe... you’re also masturbating to me? The highly anticipated newcomer’s monster are all masochists addicted to masturbating.❤
+マスターの大事な大事な初試合なのに、自分の快楽を優先して次から次に裏切りオナニー❤ルーキーくんに同情しちゃうわ❤,Even though it’s your master’s precious debut match; but one after another they chose their own pleasure and betrays him.❤ I’m starting to feel sorry for Mr. Newcomer~❤
 いまだってバカにされて興奮している❤ねえ、マゾモンスターはわたしのどこを見てオナニーしているのかしら。,I’m making fun of you yet you’re getting even more excited.❤ Hey; Masochist Monster; I wonder which part of me you’re masturbating to?
 わたし胸は小さいけれど、結構エロい技での勝率も高いのよ。肌がすべすべして気持ちいいらしいわ❤,My boobs might be small; but I got a lot of wins with my lewd techniques. My smooth skin apparently feels good~❤
 ねえ、正直に言いなさい。わたしのどこをオカズにしているのか…。言えば近くで見せてあげる…❤,Hey; please tell me honestly. Which part of me are you masturbating to... If you tell me; I’ll let you get closer and see it...❤
@@ -381,28 +381,28 @@ Dランクに挑戦する,Challenge a D-rank
 勝手に自爆してくれるなら一番楽よね。ふふ、その調子でどんどん負けに来ていいわよ❤,Having your opponent lose on their own sure is easy. Hehe; it's fine to keep going like that and lose~❤
 あっ・・・❤あああっ❤がまんできないっ・・・❤,Ah...❤ Aaaahhh~❤ I can’t hold it anymore...❤
 くす、なにやってるのかしら❤\nバトルの途中でシコシコしだして、すぐ射精❤,What are you even doing? *giggle*.❤ You masturbated as soon as the battle started and immediately came❤
-わたしを倒した期待のルーキーとは思えないわ❤\n実は前の試合の時からこうやって負けたかったの？うふふふ❤,I can’t believe you’re the rising rookie who beat me.❤ The truth is you actually wanted to lose like this even before the match started; didn’t you? *giggle*.❤
-{主人公}のしもべのくせに理性が弱いのね❤\nあなたのせいで体力も回復❤\nこれなら今日は勝てるかも♪,{主人公}’s servants have such weak willpower~❤ Because of you; my LP has been restored.❤ I think I can even win today♪
+わたしを倒した期待のルーキーとは思えないわ❤\n実は前の試合の時からこうやって負けたかったの？うふふふ❤,I can’t believe you’re the highly anticipated newcomer who beat me.❤ The truth is you actually wanted to lose like this even before the match started; didn’t you? *giggle*.❤
+{主人公}のしもべのくせに理性が弱いのね❤\nあなたのせいで体力も回復❤\nこれなら今日は勝てるかも♪,{主人公}’s subordinates have such weak willpower~❤ Because of you; my LP has been restored.❤ I think I can even win today♪
 あはは、あなたもオナニーしてやられちゃうわけ？\n今日はずいぶんみんな早漏ね❤,Ahaha; you’re also starting to masturbate? Everyone sure is a quick-shooter today~❤
-闘技場ではわたしを倒したくせに、\n実は前の試合の時からこうやって負けたかったの？くすくす❤,Even though you were able to defeat me in the stadium; the truth is you actually wanted to lose like this even before the match started; didn’t you? *giggle*.❤
+闘技場ではわたしを倒したくせに、\n実は前の試合の時からこうやって負けたかったの？くすくす❤,Even though you were able to defeat me in the colosseum; the truth is you actually wanted to lose like this even before the match started; didn’t you? *giggle*.❤
 ぷっ、またオナニーで負けるんだ❤\nみんな仲良くシコシコしてバカみたいね❤,Pfft; another one masturbated and lost again.❤ Everyone is jerking off together looking like idiots~❤
-{主人公}のしもべのくせに理性弱すぎよ❤\nあなたのおかげで体力も回復❤\nこれなら今日は勝てるかも♪,{主人公}’s servants have such weak willpower~❤ Thanks to you; my LP has been restored.❤ I think I can even win today♪
+{主人公}のしもべのくせに理性弱すぎよ❤\nあなたのおかげで体力も回復❤\nこれなら今日は勝てるかも♪,{主人公}’s subordinates have such weak willpower~❤ Thanks to you; my LP has been restored.❤ I think I can even win today♪
 ふふふ、それにしても自分から負けちゃうなんてね。\n勝利をありがと❤ありがたく受け取っておくわ。,Hehe; to think you’d lose on your own. Thank you for the win~❤ I’ll gladly accept it.
-あら、ふとももまで飛ばすなんて勢いよすぎ❤\n足でイクなんて期待のルーキーもただのマゾ男なのね❤くすくす❤,Oh; you came so much it even reached my thighs.❤ Cumming from my feet; turns out the talented rookie is just a masochist~❤ *giggle*.❤
+あら、ふとももまで飛ばすなんて勢いよすぎ❤\n足でイクなんて期待のルーキーもただのマゾ男なのね❤くすくす❤,Oh; you came so much it even reached my thighs.❤ Cumming from my feet; turns out the talented newcomer is just a masochist~❤ *giggle*.❤
 はい、おしまい。\n手でからめとられてチンポ耐えられなかったわね。くすくす❤,Yep; that's the end. Your dick couldn't endure my hand stroking it. *giggle*.❤
 あら、触れてもいないのにイっちゃった❤\nチンポ気持ちよくて我慢できなかったの？くすくす❤,Oh; you came even without me touching you.❤ Did your dick feel so good you couldn’t hold back? *giggle*.❤
-自分から攻撃のチャンスを捨てて、膝なんかで射精しちゃうなんて。\nくすくす❤期待のルーキーが聞いてあきれるわ。,To think you threw away your chance to attack and came on my knees.❤ *giggle*.❤ I’m shocked to hear that from the rising rookie.
-ふふふ、それにしても自分から負けちゃうなんてね❤\n闘技場でもそうやって負けてくれればよかったのに❤\nシコシコ気持ちよかった？,Hehe; but even so to think you lost on your own~❤ If only you’d lose like this on the stadium too.❤ Did it feel good jerking off?
+自分から攻撃のチャンスを捨てて、膝なんかで射精しちゃうなんて。\nくすくす❤期待のルーキーが聞いてあきれるわ。,To think you threw away your chance to attack and came on my knees.❤ *giggle*.❤ I’m shocked to hear that from the highly anticipated newcomer.
+ふふふ、それにしても自分から負けちゃうなんてね❤\n闘技場でもそうやって負けてくれればよかったのに❤\nシコシコ気持ちよかった？,Hehe; but even so to think you lost on your own~❤ If only you’d lose like this on the colosseum too.❤ Did it feel good jerking off?
 あら、ふとももまで飛ばすなんて勢いよすぎ❤\n足でイクなんて思ったよりもマゾなね❤{主人公}❤くすくす❤,Oh; you came so hard from my feet it went all the way to my thighs.❤ You’re even more of a masochist than I thought; {主人公}❤ *giggle*.❤
-はい、おしまい。手でからめとられてチンポ耐えられなかったわね❤\n闘技場でもこれぐらいサクっと射精してくれればよかったのに❤\nくすくす❤,Yep; that's the end. Your dick couldn't endure my hand stroking it. If only you'd cum this quickly in the stadium too.❤ *giggle*.❤
-自分から攻撃のチャンスを捨てて、膝なんかで射精しちゃうなんて❤\nくすくす❤期待のルーキーが聞いてあきれるわ。,To think you threw away your chance to attack and came on my knees.❤ *giggle*.❤ I’m shocked to hear that from the rising rookie.
+はい、おしまい。手でからめとられてチンポ耐えられなかったわね❤\n闘技場でもこれぐらいサクっと射精してくれればよかったのに❤\nくすくす❤,Yep; that's the end. Your dick couldn't endure my hand stroking it. If only you'd cum this quickly in the colosseum too.❤ *giggle*.❤
+自分から攻撃のチャンスを捨てて、膝なんかで射精しちゃうなんて❤\nくすくす❤期待のルーキーが聞いてあきれるわ。,To think you threw away your chance to attack and came on my knees.❤ *giggle*.❤ I’m shocked to hear that from the highly anticipated newcomer.
 決着ー！！勝者はオクタ選手！,It's settled! The winner is Octa!
 これはどうしたことか、オクタ選手のドローと同時に{主人公}選手、急にエナジーを漏らしてしまった！,What just happened!? While Octa is drawing her cards; {主人公} suddenly shot his energy out!
 よっぽどムラムラが抑えられなくなってしまったのでしょうか。\n触れられもせずに急に射精！観客席から失笑の声も聞こえてきます。,He must’ve been very horny that he couldn’t hold back anymore; because he came suddenly even without being touched! You can hear the laughter even from the spectators.
-サキュバスを倒した期待の新人をオクタ選手がくだしました。\nDランクの先輩としての意地を見せた！,The rising rookie that managed to beat a succubus has been beaten by Octa! She showed her pride as a senior D-rank!
+サキュバスを倒した期待の新人をオクタ選手がくだしました。\nDランクの先輩としての意地を見せた！,The highly anticipated newcomer that managed to beat a succubus has been beaten by Octa! She showed her pride as a senior D-rank!
 一方{主人公}選手、まさかの自滅で敗北！\n若い青年にはオクタ選手のデッキは強すぎたか！\nちょっと恥ずかしい初戦になりました！,On the other side; to think {主人公} would lose on his own! Is Octa’s deck just too much for the young man!? This has turned into an embarrassing debut match!
 オクタ選手をいいところまで追い詰めただけに、\nこれはもったいない。もう少し我慢できなかったのでしょうか！\n今後の理性の成長に期待です！,Even though he was on the brink of victory; what a shame! Perhaps he couldn’t endure it any longer!? We look toward his willpower growing in the future!
-開始直後に自慰にふけってしまうとは、\n観客席からは期待のルーキーに失笑の声がもれています。,You can hear the spectators laughing at the rising rookie who started masturbating as soon as the match started.
+開始直後に自慰にふけってしまうとは、\n観客席からは期待のルーキーに失笑の声がもれています。,You can hear the spectators laughing at the highly anticipated newcomer who started masturbating as soon as the match started.
 一方{主人公}選手、オクタ選手の足コキで敗北！\n足に挟み込まれて喘がされるまま、一気に敗北に追い込まれました。,On the other side;  {主人公} lost to Octa’s footjob! Trapped between her thighs and left moaning; he‘s quickly forced into defeat.
 一方{主人公}選手、オクタ選手の手コキで敗北！\n巧みな手練手管に一気に敗北に追い込まれました。,On the other side;  {主人公} lost to Octa’s handjob! With her skilled technique; he‘s quickly forced into defeat.
 オクタ選手をいいところまで追い詰めましたが、\nあと少し耐えきれなかったか。\n{主人公}選手の今後の成長に期待です！,Even though he was on the brink of victory; perhaps he couldn’t endure it just a little more!? We look toward seeing {主人公}’s willpower growing in the future!
@@ -410,7 +410,7 @@ Dランクに挑戦する,Challenge a D-rank
 あは、なんとかなってよかった。,Ehe; somehow I managed to do it. 
 さて、このあとは…。,Now then; next is...
 ぐうっ…。まだ、ぼくは…。,Ugh... Not yet... I'm...
-おや、なんと期待のルーキー、まだ戦う意思があるようです！\n一回エナジーを吐き出して、もうふらふらのはずですが、\nすごい闘志だ！,Ohh; looks like the rising rookie still has the will to fight! He must've been reeling from shooting his energy; what tenacious willpower!
+おや、なんと期待のルーキー、まだ戦う意思があるようです！\n一回エナジーを吐き出して、もうふらふらのはずですが、\nすごい闘志だ！,Ohh; looks like the highly anticipated newcomer still has the will to fight! He must've been reeling from shooting his energy; what tenacious willpower!
 膝立ちながらキッとオクタ選手をにらみつけています！\nまだカードを召喚する魔力が残っているのでしょうか。,He's on his knees glaring at Octa! Does he perhaps still have magical power remaining to summon a card?
 はあ。めんどくさ。,Haah; so annoying.
 負けたならおとなしく寝てなさいよ。\nこうやって蹴られても何もできないくせに。,You lost so just stay quiet and faint already. You can't even do anything even if I kick you like this.
@@ -435,12 +435,12 @@ Dランクに挑戦する,Challenge a D-rank
 くすくす❤すごい声ね。\n観客席まで聞こえちゃう、大きな恥ずかしい声❤\n女の子に足で踏まれて、そんな声出しちゃうんだ。\n,*giggle*.❤ What a great moan you're leaking out. Even the spectators are gonna hear those embarrassing moans.❤ It's the kind of moans someone getting stepped on by a girl would make.❤
 このローション、チンポだけじゃなくて、\n腰の深いところまでじんじん来るでしょ？\n体が熱くなってきてどんどん抑えが効かなくなってきて・・・❤,Not just your dick; you can even feel the lotion deep in your hips; doesn't it? Your body feels hotter and hotter; and you can't control yourself anymore...❤
 わたしの足で、ずちゅずちゅってチンポをこすられるたびに、\n頭の中ピンク色に染まって\n気持ちいいってこと以外何も考えられなくなる❤,Every time my feet rubs against your dick; your mind can't think of anything but how good it feels.❤
-ほらほら！足コキされて、立ち上がれるなら\n立ち上がってみなさいよ。\nまだ諦めないんでしょ？闘技場でわたしに勝つんでしょ？,Come on; show me that you can still stand up even after getting a footjob. Didn't you say you haven't lost yet? That you'll win against me in the stadium?
+ほらほら！足コキされて、立ち上がれるなら\n立ち上がってみなさいよ。\nまだ諦めないんでしょ？闘技場でわたしに勝つんでしょ？,Come on; show me that you can still stand up even after getting a footjob. Didn't you say you haven't lost yet? That you'll win against me in the colosseum?
 あぐっ、ああっ、気持ちいいっ、きもちいいぃっ❤❤,Aghhhh; too good...❤ It feels too goooood~❤❤
 ダメぇ、イ、イかせて、射精、射精したいぃ❤,No more... Cum... I want to cum~❤❤
 ぷ、それがあなたの今の望み？\n戦いのことなんて、もうどうでもいいんだ？,Pfft; so that's what you wish for? So you don't care about the match anymore?
 ま、あんまりやりすぎてもかわいそうかしらね。\n上下関係も分かったところで、\nほら待ち望んでいた天国よ❤,Well; I'd feel bad going too far myself. Now that you know your place; I'll send you to heaven as you wish~❤
-ぐちゅぐちゅぐちゅぐちゅ、両足で挟んで上下にしごいてあげる❤\nわたしには勝てないってしっかり分かったでしょ？\n分かったならイって返事しなさい❤雑魚ルーキー❤,Squish; squish. I'll jerk you with both of my feet.❤ You understand now that you can't beat me; right? If you do; then please reply~❤ Small fry rookie~❤
+ぐちゅぐちゅぐちゅぐちゅ、両足で挟んで上下にしごいてあげる❤\nわたしには勝てないってしっかり分かったでしょ？\n分かったならイって返事しなさい❤雑魚ルーキー❤,Squish; squish. I'll jerk you with both of my feet.❤ You understand now that you can't beat me; right? If you do; then please reply~❤ Small fry newcomer~❤
 あひっ、あっ、ああっ❤❤,Ahieeeee~❤❤
 あはは、２回目だっていうのにすごい量ね。\nそれにその顔❤すっかりアヘ顔さらしちゃって、\nローション足コキで、完全にメロメロって感じかしら。,Ahaha; it's your 2nd time ejaculating yet it's still such an impressive amount. And that look you have~❤ Such a face filled with ecstasy. You're completely smitten by the lotion footjob; aren't you?
 快感の余韻で腰がまだカクカク動いているし❤\nまるで陸に打ち上げられた魚みたいね。くすくす❤,Your hips is still moving from the afterglow~❤ You look just like a fish that’s been washed ashore; *giggle❤
@@ -450,8 +450,8 @@ Dランクに挑戦する,Challenge a D-rank
 空っぽになるまでわたしの手に搾り取られなさい❤\n指をうねうねう動かすのは得意なの❤\nほらほらほら❤,I'll squeeze you with my hand until you're dry.❤ My fingers’ wriggling movement is a specialty of mine.❤ I'll show you how good it feels~❤ 
 試合前に誘惑を断ったときから、\nこんな風に早く抜いてほしかったんでしょう？\nようやく念願かなってよかったわね❤,Ever since you declined my temptation before the match; you've wanted me to jerk you off like this didn't you? I'm glad your wish finally came true~❤
 わたしの細い指でなでられて、あはこんなに喜んでる❤\nすっかり物わかりのいい子になっちゃったわね❤,Getting stroked by my slender fingers and letting out such happy moans.❤ You've become such an obedient kid~❤
-彼女にカラカラになるまで射精させられ気を失った僕は、気が付くと闘技場の医務室にいた。,She kept making me ejaculate until I was completely empty and lost consciousness. When I woke up; I was already brought to the stadium's infirmary.
-僕が負けたあとの様子を医務室の人に聞くと、期待のルーキーが失神KOさせられた姿を見て、がっかりした客やにやにや笑っている客が多かったとのことだった。,When I asked the people in the infirmary about what had happened after I lost; they told me that many of the spectators were disappointed or were laughing at the sight of the rising rookie getting knocked out unconscious.
+彼女にカラカラになるまで射精させられ気を失った僕は、気が付くと闘技場の医務室にいた。,She kept making me ejaculate until I was completely empty and lost consciousness. When I woke up; I was already brought to the colosseum's infirmary.
+僕が負けたあとの様子を医務室の人に聞くと、期待のルーキーが失神KOさせられた姿を見て、がっかりした客やにやにや笑っている客が多かったとのことだった。,When I asked the people in the infirmary about what had happened after I lost; they told me that many of the spectators were disappointed or were laughing at the sight of the highly anticipated newcomer getting knocked out unconscious.
 こんな姿をもし師匠が見ていたとしたら…。ううっ、自分で自分が情けなくなってくる。,If my master had seen me in such a state... Ugh; I feel ashamed yet I can only blame myself.
 しかし、それから数週間後・・・。,But; a few weeks later...
 くっ・・・❤ああっ・・・❤,Ugh...❤ Ahh...❤
@@ -460,7 +460,7 @@ Dランクに挑戦する,Challenge a D-rank
 あううっ・・・❤,Ahhh...❤
 おおっと、{主人公}選手、またもやオクタ選手に組みつかれた！\n今回もこのまま負けてしまうのか！,Ohh; {主人公} has been caught by Octa yet again! Will he lose this time again!?
 {主人公}選手、男性選手には勝てるものの、女性マスターにはほぼ全敗！\n特にオクタ選手相手には一方的な負け試合が続いています！,{主人公} could win against male opponents; yet almost always loses against female opponents! His matches against Octa especially has been one-sided again and again!
-サキュバスを倒したときの心の強さはどこへ行ったのか！\nすっかり色香に弱くなった元「期待のルーキー」に\n観客もすでに諦めの目を向けているようです！,Where has the card master with strong willpower to even beat a succubus go!? Even the spectators seems to have given up on this "Former Rising Rookie" that has became weak to getting charmed!
+サキュバスを倒したときの心の強さはどこへ行ったのか！\nすっかり色香に弱くなった元「期待のルーキー」に\n観客もすでに諦めの目を向けているようです！,Where has the card master with strong willpower to even beat a succubus go!? Even the spectators seems to have given up on this "Former Highly Anticipated Newcomer" that has became weak to getting charmed!
 くうっ、勝たないといけないんだ…。\n師匠に恥ずかしくないように、なにより妹を助けるために…。,Ugh; I have to win... I can't disappoint my master; and more importantly I need to save my sister...
 あは、そんなヘロヘロの攻撃当たるわけないじゃない❤,Ehe; there's no way such a feeble attack is going to hit me.❤
 何か考えているようだけど。どうせ無意味よ。\nほら、ローションをたっぷり手と足に垂らして…❤,Looks like you're thinking about something; but it's useless. Here; I'll put lots of lotion on your hand and feet...❤
@@ -470,21 +470,21 @@ Dランクに挑戦する,Challenge a D-rank
 あっ、あっ、あうううぅ・・・・❤,Ahh; ahhhhh...❤
 一度骨の髄までオクタさんの快感を教え込まれたあとでは、彼女の攻撃にまったく抵抗できなくなってしまった。,Once I had been taught the feeling of pleasure to my very core by Octa; I couldn't resist her attacks anymore.
 何度気合を入れなおして勝負を挑んでも、ローションをつけた状態で愛撫を受ければ、それだけで頭の中が真っ白になってしまう。そんな状態ではカードもまともに使用することができない。,No matter how many times I gathered my spirit and challenged her to a match; once I get caressed with those lotions my mind blanks out immediately. I couldn't even use my cards anymore.
-こうして僕は延々と敗北を重ね、結局Ｄランクより上のランクに行くことはできなかった。強くなるため他の手段を模索しようと思っても、オクタさんとの試合を思い出すと、それすら手につかず、また闘技場に足を運んでしまうことをどうしてもやめられなかった。,I continued racking up losses and losses; that I never ended up being able to increase my rank past D-rank. Even if I had found another way to get stronger; once I remember that match with Octa; I get so overwhelmed that I couldn't help but go the stadium again.
+こうして僕は延々と敗北を重ね、結局Ｄランクより上のランクに行くことはできなかった。強くなるため他の手段を模索しようと思っても、オクタさんとの試合を思い出すと、それすら手につかず、また闘技場に足を運んでしまうことをどうしてもやめられなかった。,I continued racking up losses and losses; that I never ended up being able to increase my rank past D-rank. Even if I had found another way to get stronger; once I remember that match with Octa; I get so overwhelmed that I couldn't help but go the colosseum again.
 妹を助けに行くという当初の目的も果たせないまま、僕の冒険はこうして幕を閉じたのだった。,Thus my adventure ended without accomplishing my original goal of saving my sister.
 みなさんご存じの通り、勝者のオクタ選手には魔力補充の権利が与えられます。衆人環視のこの場で魔力を得るか、それともプライベートルームに移動するかは彼女の自由です。,As you all know; the winner Octa is given the right to replenish her magical power. She’s free to choose whether she wants to replenish it here where everyone can see or move to a private room.
 オクタ選手、どうされますか？,Octa; what will you do?
 そうね、わたしは・・・。,Good question; I guess I will...
-うふふ、ここが闘技場に備え付けの個室よ。なかなかいい部屋でしょ？ここを自由にできるのは勝者の特権ね。,Ehehe; this place is the stadium’s private room. It’s a pretty good room; isn’t it? The winner gets to use this room freely.
+うふふ、ここが闘技場に備え付けの個室よ。なかなかいい部屋でしょ？ここを自由にできるのは勝者の特権ね。,Ehehe; this place is the colosseum’s private room. It’s a pretty good room; isn’t it? The winner gets to use this room freely.
 ん？どうしたの？搾精がプライベートルームになったから安堵しているのかしら。それとも…。,Hm? What’s wrong? Are you relieved that you’ll get squeezed in a private room; or perhaps...
 みんなが見ている前でいじめてもらえなくて、残念だった？このヘンタイ❤,Are you disappointed that you didn’t get to be teased in front of everyone? You pervert.❤
 あは、さっき射精したばかりなのに、チンポ、ビンビンじゃない❤この部屋に来るまでずっとムラムラしてたんだ。,Ehe; even though you just came earlier it’s already so hard~❤ You’ve been so hard ever since coming to this room.
 わたしは優しいから、あなたの人生まで壊すつもりはないの。街中の人に、みっともないところ見られたくないと思って配慮してあげたのよ。,I’m a kind person so I didn’t want to destroy your life. I was being considerate since I didn’t want the people in the city to see you in such an embarrassing state.
-あなたにはほどほどに活躍してもらって、闘技場で今後もわたしに負けてもらわないと、ね・・・♪,From now on; try your best not to lose to me again in the stadium...♪
+あなたにはほどほどに活躍してもらって、闘技場で今後もわたしに負けてもらわないと、ね・・・♪,From now on; try your best not to lose to me again in the colosseum...♪
 ほら、そこのベッドに寝なさい。射精で魔力を出した後だからふらふらしているでしょうけど、寝るぐらいならできるはずよ。,Come; lie on that bed. You’ll probably feel dizzy after cumming and letting out your magical power so you can just sleep there after.
 そう、いい子ね。うふふ❤たっぷりローションかけながら、足でいじめてあげる❤,Yes; good boy. Ehehe.❤ I’ll use lots of lotion and tease you with my feet~❤
 くす❤さっきまで対戦してた相手とは思えないわね。みっともないとろけ顔❤,*giggle*.❤ I can’t believe you’re the opponent I was fighting just earlier. You have such a pathetic look on your face.❤
-自分でしごいて負けちゃうような雑魚ルーキーじゃ仕方ないか。足で激しくしごいてあげたらすぐに射精しちゃいそうね❤,I guess it couldn’t be helped when you’re a loser rookie who lost by masturbating yourself. I bet you’ll cum immediately if I get even rougher with my feet~❤
+自分でしごいて負けちゃうような雑魚ルーキーじゃ仕方ないか。足で激しくしごいてあげたらすぐに射精しちゃいそうね❤,I guess it couldn’t be helped when you’re a loser who lost by masturbating yourself. I bet you’ll cum immediately if I get even rougher with my feet~❤
 対戦中も足でしごかれて射精したわよね。あなた足フェチなの？ふーん、だったらもっと足に弱くしてあげる。,Even during the match; you also came from my feet. Do you just have a foot fetish? Hmm; then I’ll make you go even weaker to feet.
 わたしの足を見たら無条件で勃起して、すぐに射精したくなるぐらいに…ね。ふふ、楽しみ♪,Now when you see my feet; you’ll reflexively go hard and immediately want to ejaculate... Hehe; I can’t wait to see that♪
 例えばこんな風に両足でぎゅってチンポを捕まえて、前後にしゅっしゅって動かすのはどう？足裏がぴったり吸い付いてきて気持ちいいでしょ❤,For example; what if I use both of my feet to grab your dick like this and move it back and forth? The sole of my feet sticking to your dick feels great; doesn’t it?❤
