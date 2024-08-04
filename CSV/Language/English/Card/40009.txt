@@ -1,4 +1,4 @@
 default
 ライフアップ,Life Up
-プレイヤーの最大HPを500ポイント増加させる。このターンの終了時、自分フィールド上にモンスターがいなければ、カードを１枚ドローする。,Player gains 500 MAX HP.\nIf you control no monsters at the end of the turn: Draw 1 card.
+プレイヤーの最大HPを500ポイント増加させる。このターンの終了時、自分フィールド上にモンスターがいなければ、カードを１枚ドローする。,You gain 500 MAX HP.\nIf you control no monsters at the end of the turn: Draw 1 card.
 
