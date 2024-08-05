@@ -22,10 +22,10 @@ default
     メニュー追加,街へ戻る,&ファイルパス,街へ戻る
     メニュー生成,右
 
-    デバッグ,{%%10006.カードテキスト}
-    デバッグ,{%%10006.&エロ効果テキスト}
-    デバッグ,{%%10006.フレーバーテキスト}
-    // Replace 10006 with the card id number and remove the leading "//" and text effects for that monster-girl card will be copied to your clipboard.
+    //デバッグ,{%%10007.カードテキスト}
+    //デバッグ,{%%10007.&エロ効果テキスト}
+    //デバッグ,{%%10007.フレーバーテキスト}
+    // Replace 10007 with the card id number and remove the leading "//" and text effects for that monster-girl card will be copied to your clipboard.
 
     イベント終了
 
