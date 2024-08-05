@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Power Gem Lv2
-&効果テキスト,This card can only be activated when there is a "Gem" card other than "Gem of Power Lv2" in your Graveyard.\n[1]. Increase the target monster's attack power by 600 points.
+&効果テキスト,This card can only be activated if there is a "Gem" card other than "Power Gem Lv2" in your Graveyard.\n[1]. Target character gains 600 ATK.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,
