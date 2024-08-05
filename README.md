@@ -32,7 +32,7 @@ DON'T:
 Retain any laughter as follows while preserving the nuanced Japanese:
 > You can add an "!" or "~" after it if it feels appropriate!
 - うふふ -> Ufufu
-- くすくす -> "\*Giggle\*", "Hehe", "Teehee"
+- くすくす -> "\*Giggle\*", "Hehe", "Teehee", "Kuhuhu", or "\*snicker\*"
 - あは -> Aha
 - あはは -> Ahaha
 
