@@ -22,12 +22,15 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 - Don't use "…". Use "..."!
 ### Japanese SFX
 Japanese words often have lots of sfx. The Japanese language is great with sfx but not so much for English! So you'll want to substitute with an adjective fulled English description instead if nesscisary.
-  > DON'T: "ほら、さわさわ❤さわさわ・・・❤" -> "Look; brush~❤ brush...❤"
 
-  > DO: "ほら、さわさわ❤さわさわ・・・❤" -> "See how I'm gently brushing my fingers over your nipples?~❤"
+DO:
+> "ほら、さわさわ❤さわさわ・・・❤" -\> "See how I'm gently brushing my fingers over your nipples?\~❤"
+
+DON'T: 
+> "ほら、さわさわ❤さわさわ・・・❤" -\> "Look; brush~❤ brush...❤"
 ### Japanese laughter
 Retain any laughter as follows while preserving the nuanced Japanese:
-> You can add an "!" or "~" after it if it feels appropriate.
+> You can add an "!" or "~" after it if it feels appropriate!
 - うふふ -> Ufufu
 - くすくす -> "\*Giggle\*", "Hehe", "Teehee"
 - あは -> Aha
