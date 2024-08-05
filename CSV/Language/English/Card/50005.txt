@@ -1,3 +1,3 @@
 default
 返しの刃,Counter Blade
-[1].防御状態の自分のモンスターが相手から攻撃されたとき発動できる。そのモンスターの攻撃力をターン終了時まで1000ポイントアップさせ、防御状態を解除する。,[1]. When your monster in Defense Position is attacked; increase that monster's attack power by 1000 points and change it to Attack Position until the end of the turn.
+[1].防御状態の自分のモンスターが相手から攻撃されたとき発動できる。そのモンスターの攻撃力をターン終了時まで1000ポイントアップさせ、防御状態を解除する。,[1]. If a defense position monster you control is attacked: That monster is changed to attack position and it gains 1000 ATK until the end of the turn.
