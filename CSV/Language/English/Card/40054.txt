@@ -1,3 +1,3 @@
 default
 毒のオーラ,Poison Aura
-フィールド上のモンスター1体を選択して発動する。そのモンスターに「毒のオーラ」（戦闘時に相手に「毒」200を付与）を付与する。,Select one monster on the field: Grant that monster [Poison Aura].\n[Poison Aura] = Inflicts [Poison (200)] during battle.
+フィールド上のモンスター1体を選択して発動する。そのモンスターに「毒のオーラ」（戦闘時に相手に「毒」200を付与）を付与する。,Target 1 monster on the field; That monster gains [Poison Aura] (Monsters it fights gain [Poison(200)]).

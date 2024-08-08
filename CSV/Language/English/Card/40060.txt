@@ -1,3 +1,3 @@
 default
 ウォーターバレット,Water Barrage
-手札を1枚捨てて発動する。フィールド上のモンスター1体に300ポイントダメージを与える。捨てたカードが水属性だった場合、その後カードを1枚ドローする。,Discard 1 card in your hand and deal 300 points of damage to a monster on the field. If a Water Attribute card was discarded; draw a card.
+手札を1枚捨てて発動する。フィールド上のモンスター1体に300ポイントダメージを与える。捨てたカードが水属性だった場合、その後カードを1枚ドローする。,Discard 1 card from your hand and target 1 monster; Deal 300 damage to that monster. Then if the discarded card was Water Attribute; draw a card.
