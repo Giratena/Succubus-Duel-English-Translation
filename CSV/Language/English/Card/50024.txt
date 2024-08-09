@@ -1,3 +1,3 @@
 default
 守護の光,Divine Protection
-相手が魔法カードを発動したときに発動できる。自分フィールド上のすべてのモンスターに「受ける効果ダメージ半減」(1ターン)を付与する。,When your opponent activates a Spell Card: Grant all monsters on your field "Damage received is halved" for 1 turn.
+相手が魔法カードを発動したときに発動できる。自分フィールド上のすべてのモンスターに「受ける効果ダメージ半減」(1ターン)を付与する。,If your opponent activates a Spell Card: All monsters you control gain "Damage received is halved" for 1 turn.

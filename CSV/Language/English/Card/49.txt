@@ -1,3 +1,3 @@
 default
 テンプルナイト,Temple Knight
-[1].このカードが闇属性モンスターと戦闘を行うとき、その攻撃宣言時に発動する。このカードの攻撃力を200ポイントアップする。,[1]. If this card initiates combat against a Dark Attribute Card: Increase the attack power of this card by 200 points.
+[1].このカードが闇属性モンスターと戦闘を行うとき、その攻撃宣言時に発動する。このカードの攻撃力を200ポイントアップする。,[1]. When this monster fights against a Dark Attribute monster: This monster gains 200 ATK.
