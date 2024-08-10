@@ -1,7 +1,7 @@
 default
 ネネコ,Neneko
 F18_paizuriAnime,
-にゃ、お前は闘技場で戦ったあのマスターかにゃ。\nお前が活躍してるせいで弟がますます冒険に乗り気になってるのにゃ。\nどうしてくれるのにゃ。,Nya- You're that Card Master from that arena-nya! \nBecause of your running around; my brother is becoming more and more interested in adventuring-nya. \nOh; what will I do-nya...
+にゃ、お前は闘技場で戦ったあのマスターかにゃ。\nお前が活躍してるせいで弟がますます冒険に乗り気になってるのにゃ。\nどうしてくれるのにゃ。,Nya- You're that Cardmaster from that arena-nya! \nBecause of your running around; my brother is becoming more and more interested in adventuring-nya. \nOh; what will I do-nya...
 サキュバスとかほかの悪い女に捕まったらと思うと、\n心配でしょうがないのにゃ。,When I think about him being caught getting by some bad women or succubi; \nI can't help but be worried-nya...
 だからやっぱり姉として\n男のマスターには限界があるっていうのを\n教えてやらないといけないのにゃ。,So as his older sister; \nI must teach him the limits of a male card master-nya. 
 今日はお前に勝ってみせるにゃ。\nそうすれば少しは弟も思い直すと思うにゃ。\nさあ、妖怪たちとわたしの体でお前をひぃひぃ喘がせてやるのにゃ❤,I'm going to show him that I defeated you today-nya.\nIf I do that; then my brother will surely rethink things a little.\nNow then; I'll make sure my yokai monsters and body will leave you paw-sitively meowing and moaning in defeat-nya!❤
@@ -87,20 +87,20 @@ When one of my monsters defeats yours; I can activate {使用カード}!\nThe at
 攻撃に対してトラップカード発動、{使用カード}！\nその攻撃は無効だにゃ！,I activate the trap card {使用カード} in response to your attack!\nYour attack is nullified!,
 「猫」モンスターが効果の対象になったとき、\n{使用カード}を発動！\nそのカードの効果を無効にして破壊するにゃ！,
 にゃはは、無駄だにゃ！「猫」モンスターが効果の対象になったとき、\n{使用カード}を発動！\nそのカードの効果を無効にして破壊するにゃ！,
-装備魔法カード発動！{使用カード}！,
+装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
 魔法カードを発動！{使用カード}！,
 トラップカードを発動！{使用カード}！,Trap card activate! {使用カード}!,
 カードをセットするにゃ。,Card set-nya.,
 カードを伏せるにゃ。,I'll set this card face down-nya.
 わたしのテクで気持ちよくしてやるにゃ。{防御カード}を攻撃！,I can make people feel really good with my techniques-nya. I attack your {防御カード}!,
 わたしも攻めるにゃ！{防御カード}を攻撃！,I can attack too-nya！I attack {防御カード}！,
-行くのにゃ！{使用カード}で{防御カード}を攻撃！,Go go-nya! I attack your {防御カード} with my {使用カード}!
-攻めるのにゃ！{使用カード}で{防御カード}を攻撃！,Now to attack! I attack your {防御カード} with my {使用カード}!,Now I'll attack-nya! {使用カード}; attack {防御カード}！,
+行くのにゃ！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!Go go-nya! I attack your {防御カード} with my {使用カード}!
+攻めるのにゃ！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!Now to attack! I attack your {防御カード} with my {使用カード}!,Now I'll attack-nya! {使用カード}; attack {防御カード}！,
 うにゅぅっ、手札が悪いのにゃ…。ターンエンド…。,Nyaa-; My hand is so bad... End turn...,
 何もできないのにゃ…。ターンエンドにゃ…。,I can't do anything-nya... End turn-nya.,
 ターン終了だにゃ。,End turn-nya.,
-わたしのターンは終わりにゃ。ターンエンド。,My turn is finished-nya. End turn.
-これで終わりにゃ。ターンエンド。,And now I'm done-nya. End turn.
+わたしのターンは終わりにゃ。ターンエンド。,End turn.My turn is finished-nya. End turn.
+これで終わりにゃ。ターンエンド。,End turn.And now I'm done-nya. End turn.
 わたしの胸が気になるかにゃ？\nこんなに谷間が見えてたら、見たくなくても目に入るものにゃあ❤\nあは目が釘付けで隙だらけにゃ❤えい❤,Are my boobs are on your mind-nya?\nWhen my cleavage is showing like this; it's always visible even if you don't want to look at it-nya❤\nAnd your wandering eyes give the perfect opening-nya❤ Eei❤,
 男はみーんなこれが好きにゃ❤\n挟んでむぎゅむぎゅしてやれば、すぐに負けてくれるにゃ❤,All guys love this-nya~❤\nWhen I squeeze and massage my boobs around them; they giving in to to me immediately❤,
 お前はどうかにゃ？耐えられるかにゃ？\nほら、ずりずり、ずりずりにゃー❤,What about you-nya? Do you think you can resist them-nya?\nHora; squish squish- Squeeze squeeze~❤,
