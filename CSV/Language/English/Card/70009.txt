@@ -3,10 +3,10 @@ default
 F9_paizuriAnime,
 Sexy01,
 E級のカードマスター。爆発カボチャを筆頭に、全体効果ダメージを与えるカードを多用する。好きな言葉は「爆破」。殲滅力はあるのだが、敵味方問わず被害を与えるカードが多いため集団任務で周りにいつも被害を与えている。そのせいで、なかなかランクが上がらない。今回の大会はそんな自分でもランクを上げられるチャンスだと思い参戦した。\n最近急に胸が大きくなってきており、女の武器を自覚しはじめている。,Flare is an E-rank cardmaster who uses many cards that deal damage to everyone; like the Explosive Pumpkin. Her favorite work is "explosive". While she packs a lot of firepower; she has been stuck in low ranks due to her cards damaging both enemies and allies alike in requests. She's participating in the tournament as a chance to rank up finally.\n\nHer breasts have gone through a growth spurt recently; which she is starting to learn how to use to her advantage.
-わたしはフレア！炎使いのカードマスターよ！あなたもE級のカードマスター？,I'm Flare! A flame cardmaster! Are you also E-rank?
+わたしはフレア！炎使いのカードマスターよ！あなたもE級のカードマスター？,I'm Flare! A fire cardmaster! Are you also E-rank?
 わたしの使うカードって周りにも被害を出しちゃうから\n普段のクエストだとなかなか苦労しちゃうの。でも大会なら別！,My cards are always causing damage to others; so they're difficult to use in normal quests; but that won't be an issue in the tournament!
 さっそくバトルしましょう！わたしの爆炎で、絶対勝って見せるわ！,Now; let's duel! I'll show you the absolute power of my explosions!
-わたしはフレア！炎使いのカードマスターよ！,I'm Flare! A flame cardmaster!
+わたしはフレア！炎使いのカードマスターよ！,I'm Flare! A fire cardmaster!
 その指輪の色、わたしより格上みたいね。\nちょうどいいわ！相手にとって不足なし。バトルしましょう！,You're a higher rank based on the color of your ring; but I don't mind that! Let's duel!
 また会ったわね。同じEランク同士、今日もバトルしましょう！,We meet again. Let's duel as fellow E-rankers!
 この間は負けたけれど、今度は負けないわ。行くわよ！,I might have lost last time; but it's not happening again! Let's do this!
@@ -21,12 +21,12 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 ランクが上でも関係ない、\nこの間と同じようにまたわたしが勝つんだから！\nさあバトルよ！,It doesn't matter if you're higher rank or not! I'm going to win just like before! Now; let's duel!
 ううっ、強い…。\nでもわたし諦めない、次やるときは勝つんだから！\nまたやりましょう！,Uuh... You're so strong. But I'm not giving! I'll win next time! Mark my words!
 ランクが上の男でも射精しちゃうわたしのカラダ、\nアンタには刺激が強かったかもしれないわね❤\nふふ、エナジーごちそうさま❤,Even higher rank men can't help spilling semen to my body; so perhaps it's a bit too stimulating for a low-rank like you?❤ Ahaha. Thanks for the energy❤
-へへん、どう？わたしの炎デッキの力、すごいでしょ！,Ehehe. Well? The power of my flame deck is amazing; right?
+へへん、どう？わたしの炎デッキの力、すごいでしょ！,Ehehe. Well? The power of my fire-attribute deck is amazing; right?
 楽しいバトルだったわ。またいつでも再戦待ってるわね。,It was a good duel. You can come for a rematch anytime.
 ううっ、さすがに強いわね…。\n上のランクに行っただけあるわ…。悔しいぃ…。,Uuh... So strong. It's no wonder why you made it to the next rank... How frustrating...
 エナジーごちそうさま❤ランクが上でも、\nわたしの体で精液どぴゅどぴゅしちゃうのは変わらなかったわね❤,Thanks for the energy❤ Despite making it to the next rank; there's still no changing the fact that you can't help spilling your semen to my body❤
-やったぁ！上のランク相手でも勝てた！\nわたしの炎デッキの力、すごいでしょ！,Yay! I won against a higher-rank opponent! My flame deck is amazing!
-またいつでも再戦待ってるわね！,You can for a rematch anytime!
+やったぁ！上のランク相手でも勝てた！\nわたしの炎デッキの力、すごいでしょ！,Yay! I won against a higher-rank opponent! My fire-attribute deck is amazing!
+またいつでも再戦待ってるわね！,You can ask me for a rematch anytime!
 あなたのターンからね。,You go first.
 わたしのターンからね。,I go first.
 ドロー！,Draw!
@@ -40,11 +40,11 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 墓地へ送られたとき{使用カード}の効果発動！すべてのモンスターに1000ポイントダメージ！,{使用カード} triggers when sent to graveyard! I deal 1000 points of damage to all monsters!
 爆発の時間よ！すべてのモンスターに1000ポイントダメージ！,Time for an explosion! 1000 points of damage to all monsters!
 墓地へ送られたとき{使用カード}の効果発動！デッキから植物モンスターを呼び出す！,{使用カード} triggers when it's sent to the graveyard! I summon a plant Monster Card from my deck!
-炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローし味方全体を200ポイント回復！,{使用カード} triggered from flame damage! I draw a card and recover 200HP to all my monsters!
-炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローしてさらに味方を回復させる！,{使用カード} triggers from flame damage! I draw a card and heal all my monsters!
+炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローし味方全体を200ポイント回復！,{使用カード} triggered from fire damage! I draw a card and recover 200HP to all my monsters!
+炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローしてさらに味方を回復させる！,{使用カード} triggers from fire damage! I draw a card and heal all my monsters!
 効果ダメージで破壊されたとき{使用カード}の効果発動！自身を墓地から復活させる！,{使用カード} triggers when it's destroyed with effect damage. I revive it from the graveyard!
 戦闘で破壊されたとき{使用カード}の効果発動！「ラヴァガール」を特殊召喚！,{使用カード} triggers when it's destroyed in battle! I special summon Lava Girl!
-炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,{使用カード} triggered from flame damage! It's HP and ATK increase by 300 points!
+炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,{使用カード} triggered from fire damage! It's HP and ATK increase by 300 points!
 炎を食って成長しなさい！{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,Consume the flames and grow! {使用カード} triggered; increasing its HP and ATK increase by 300 points!
 召喚に成功したとき{使用カード}の効果発動！ラヴァガールを特殊召喚！,{使用カード} triggers on summon! I special summon Lava Girl!
 攻撃時に{使用カード}のモンスター効果発動！すべてのモンスターに100ポイントダメージを与えるわ！,{使用カード} triggers when it attacks; dealing 100 points of damage to all other monsters!
@@ -52,7 +52,7 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 魔法カード発動！{使用カード}！すべてのモンスターに400ポイントダメージよ！,I activate spell card {使用カード}; dealing 400 points of damage to all monsters!
 どんどん吹っ飛ばすわ。魔法カード、{使用カード}を発動！,I'll blow you away. Spell Card {使用カード} activate!
 ライフを500払い、{使用カード}を発動！表側表示の魔法トラップカードを1枚破壊する！,I pay 500 LP to activate {使用カード}; destroying a face-up spell or trap card!
-ライフを1500払い、{使用カード}を発動！植物カードを破壊して炎のモンスターを2体呼び出す！,I pay 1500 LP and destroy one of my plant monsters to activate {使用カード}; summoning two flame monsters!
+ライフを1500払い、{使用カード}を発動！植物カードを破壊して炎のモンスターを2体呼び出す！,I pay 1500 LP and destroy one of my plant monsters to activate {使用カード}; summoning two fire-attribute monsters!
 さらにその後、自分フィールド上のすべてのモンスターは600ポイントダメージを受けるわ！,And then; I deal 600 points of damage to all my monsters!
 永続魔法{使用カード}を発動！わたしのターン終了時ごとにすべてのモンスターに100ポイントダメージを与えるわ！,I active continuous spell: {使用カード}! At the end of my turns; all monsters take 100 points of damage!
 永続魔法{使用カード}を発動！すべてのモンスターに100ポイントの効果ダメージを毎ターン与えるわ！,I active continuous spell {使用カード} to deal 100 points of damage to all monsters on my turns!
@@ -135,7 +135,7 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 さ、アンタの目の前でおっぱい たっぷり見せつけてあげるから、しこしこ我慢できなかったチンポから白いのいっぱい出しちゃいなさい❤,Now... I'll stick my breasts right in front of your eyes; so keep stroking until your white stuff spills out.❤
 思いっきりかけていいわよ、精子ぶちまけて負けちゃえ❤,You can even shoot your load all over them.❤ Spill your semen and lose.❤
 あ、うっ、うぅ…っ❤,Ah... Uuuh... Uuuh❤
-あーあー、わたしに促されるままイっちゃって❤気持ちよかったかしら？うふふ❤,Aa-ah. You blew your semen just as I told you to.❤ Did it feel good? Ahaha.❤
+あーあー、わたしに促されるままイっちゃって❤気持ちよかったかしら？うふふ❤,Now; look at this. You blew your semen just as I told you to.❤ Did it feel good? Ahaha.❤
 あ…、あぅ…❤,Ah... Aaah...❤
 あらあら モンスターくん？敵マスターの前でチンポしごき始めちゃって、どうしたのかしら。,Oh my... Mr. Monster? Why did you suddenly start masturbating to your master's opponent?
 わたしの体がえっちすぎて、理性が溶けちゃった？まったく、今はバトル中なのよ？❤,Is my body so irresistibly sexy that it made your mind melt? Good grief. We're in the middle of a duel; you know?❤
@@ -183,7 +183,7 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 う、あ、うぁっ、あ……っ❤,Uh... Ah... Aah... Ah...❤
 あは、出した出した❤瞬殺❤わたしに高速パイズリされて、我慢できる男はいないわ❤,Ahaha! You blew your load!❤ It really was an instant finish.❤ There isn't a single man who can endure my all-out boobjob.❤
 おっぱいに気をとられて油断した方が悪いのよ、すけべ❤,You can only blame yourself for getting distracted by my breasts. You pervert.❤
-あーあー、自分でしこって出しちゃった❤ね、わたしの体がそんなにえっちだったの？うふふ❤,Aa-ah. You really went and stroked yourself all the way.❤ Was my body that irresistibly sexy? Ahahaha.❤
+あーあー、自分でしこって出しちゃった❤ね、わたしの体がそんなにえっちだったの？うふふ❤,Now; look at you. You really went and stroked yourself all the way.❤ Was my body that irresistibly sexy? Ahahaha.❤
 わたしよりランクが上でも、男ならおっぱいに弱いのは変わらないわね❤たくさん出しちゃって❤くすくす❤,Higher rank or not; there's no changing the fact that men are weak to breasts.❤ Just look at this huge load you shot.❤ Ahaha.❤
 抗えないパイズリ射精、いかがだったかしら❤くすくす❤,How did you like cumming to my irresistible boobjob?❤ Ahaha.❤
 あは、わたしの体にこんなにかけちゃって❤足裏とふともも、柔らかくて我慢できなかったでしょう❤ふふ❤,Ahaha. Look how you got it all over my body.❤ My feet and thighs were irresistibly soft; right? Ahaha.❤
