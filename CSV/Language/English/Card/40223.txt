@@ -1,3 +1,3 @@
 default
 プロペラ推進装置,Propeller Propulsion Device
-[1].１ターンに１度、自分が風属性モンスターを場に出したとき発動する。カードを１枚ドローし、そのモンスターの攻撃力を300ポイントアップする。\n[2].発動後２回目の自分ターン終了時に発動する。このカードは自壊する。,[1]. Once per turn; when you summon a Wind Attribute monster; draw 1 card and increase that monster's attack power by 300 points.\n[2]. Activate at the end of your second turn after this card was activated; banish this card.
+[1].１ターンに１度、自分が風属性モンスターを場に出したとき発動する。カードを１枚ドローし、そのモンスターの攻撃力を300ポイントアップする。\n[2].発動後２回目の自分ターン終了時に発動する。このカードは自壊する。,[1]. Once per turn if you summon a Wind Attribute monster: Draw 1 card and that monster gains 300 ATK.\n[2]. At the end of your second turn after activating this card: Banish this card.
