@@ -1,4 +1,4 @@
 default
 砲撃,Cannon Fire
-クールタイム6\n[1].フィールド上の魔法・トラップカード１枚を選択して発動する。そのカードを破壊する。その後、自分プレイヤーに「クールタイムカード使用不可」(6ターン)を付与する。,Cooldown 6\n[1]. Select 1 Magic or Trap card on the field; destroy it. Then; grant [Cooldown Card Usage Prohibited (6 turns)] to yourself.
+クールタイム6\n[1].フィールド上の魔法・トラップカード１枚を選択して発動する。そのカードを破壊する。その後、自分プレイヤーに「クールタイムカード使用不可」(6ターン)を付与する。,Cooldown 6\n[1]. Target 1 Magic/Trap card; Destroy that card then you gain [Cooldown Card Usage Prohibited (6 turns)].
 
