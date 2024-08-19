@@ -19,7 +19,7 @@ default
 {使用カード}を上級召喚！,I advance summon {使用カード}!
 {使用カード}を召喚！,I summon {使用カード}!
 チュートリアル２：召喚,Tutorial 2: Normal Summoning
-プレイヤーは手札から１ターンに１度だけモンスターを召喚することができます。場に出したモンスターはHPがゼロになると破壊され墓地へ送られます。レベルが５以上のモンスターは場のモンスターをコストに支払わないと召喚することができません（レベルが５～６の場合１体、レベルが７以上の場合２体）。,Players may normal summon 1 monster each turn from their hands. A monster is destroyed and sent to the Graveyard when their HP reaches 0.\n\nMonsters with a Level of 5 or more require monsters to be tributed from the field to be played. (1 monster for a Level 5-6 monster, 2 monsters for a 7+).
+プレイヤーは手札から１ターンに１度だけモンスターを召喚することができます。場に出したモンスターはHPがゼロになると破壊され墓地へ送られます。レベルが５以上のモンスターは場のモンスターをコストに支払わないと召喚することができません（レベルが５～６の場合１体、レベルが７以上の場合２体）。,Players may normal summon 1 monster each turn from their hands. A monster is destroyed and sent to the Graveyard when their HP reaches 0. Monsters with a Level of 5 or more require monsters to be tributed from the field to be played. (1 monster for a Level 5-6 monster, 2 monsters for a 7+).
 チュートリアル３：攻撃,Tutorial 3: Attacking
 召喚したモンスターは相手に攻撃することができます。ただし先攻１ターン目のプレイヤーは攻撃することができません。, Summoned monsters can be used to attack opponents. However; the player who gets to go first in a match may not attack until their second turn.
 チュートリアル６：勝利条件,Tutorial 6: Win Conditions
