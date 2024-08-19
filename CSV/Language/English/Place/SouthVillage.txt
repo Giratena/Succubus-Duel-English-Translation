@@ -14,7 +14,7 @@ Place/SouthVillage,
 ロード,Load
 セーブ,Save
 回想,Reminisce
-図鑑,Gallery
+図鑑,Encyclopedia
 次のステージへ,Next Stage
 やあ、こんにちは。守護者のお弟子さん。, Whoa; hello there! It's the guardian's apprentice.
 あんたらすごいよなぁ。１人で２０枚や３０枚もカードが使えるんだろ？, You guys are amazing. Each of you can use 20 or 30 cards; right?
