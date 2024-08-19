@@ -1,4 +1,4 @@
-default,
+.default,
 サキュバス少女,Succubus Girl
 Kiss01,
 スライムを操る下級サキュバスの少女。自身の体をスライム化させることができ、わずかな隙間があればどんなところにでも侵入できる。\n下級サキュバスの中でもそれほど戦闘力は高くない方だが、その便利な特性ゆえに侵入や諜報が得意で、様々な場面で活躍している。, A young; lesser class succubus with the power to control slime. With the ability to morph her entire body into slime; she is able to infiltrate any location with even the smallest opening.\n\nWhile she is not a strong fighter among the lower class succubi; these handy abilities make her a perfect fit for infiltration and espionage. This enables her to play an active role in all kinds of situations.
@@ -40,27 +40,27 @@ Kiss01,
 いやあ、おかげさんで順調ですねぇ。その若さでたいしたもんです。,Man; things are going great thanks to you. You're amazing for how young you are.
 あと何時間かでモルゲンの街につきますよ。,We'll reach Morgen in a few more hours.
 ほら、そこの街道を右に行くと…。うん…？,Huh; look over there. To the right of that road... Hm?
-あのー、お兄さんたち、街へ行こうとしているんですか？,Umm; are you guys heading to the city?"
-実はわたし、いまちょっと困ってて助けてほしいんです・・・。,Actually; I'm in a bit of trouble right now and I could really use some help...
+あのー、お兄さんたち、街へ行こうとしているんですか？,Umm; are you guys heading to the city?
+実はわたし、いまちょっと困ってて助けてほしいんです・・・。,To tell the truth; I'm in a bit of trouble right now and I could really use some help...
 お兄さんたち、こっちに来てくれませんか？,Could you guys come over here?
 ・・・・・・？,...?
-なんだろう? 少女のそばに近寄った,Approach the girl while wondering what's up.
+なんだろう？ 少女のそばに近寄った,Approach the girl while wondering what's up.
 怪しい。 少女から距離を取った,I don't trust them. Back away from the girl.
 うふ、そばに来てくれてありがとうございます。,Ufufu; thank you for coming closer.
-実はわたし、さっきからずーっとおなかがすいていて…。,You see; I've been really hungry for a while now…
+実はわたし、さっきからずーっとおなかがすいていて…。,You see; I've been really hungry for a while now...
 お兄さんたちの精気、わけてほしいんです❤,So I want you guys to share your energy with me~❤
 彼女はそういうと、突然背伸びをして僕の頭に顔を近づけてきた。,The brunette suddenly stood up to her full height and brought her face close to my head.
-ちゅっ❤,*Smoochhh❤*
-っ・・・・・❤,*Hnnn......❤* 
+ちゅっ❤,*Smoochhh~❤*
+っ・・・・・❤,Mmm......❤*
 くす❤もしかしてキスされるの初めてですか？,Tehe.❤ Was that your first kiss?
 こんなちっちゃな子にファーストキス奪われて、唇と唇が触れただけでとろーんてなっちゃって…❤,Melting away from a young girl lightly pressing her lips against you like this...❤
 かわいいですね❤お兄さん❤,Oh my; what a strapping young man~❤ You're just too cute~❤
 お、おいどうなっているんだ。女の子から悪魔の羽・・・！？,H-Hey; what's going on. Wings sprouted from that girl's back...!?
-うふふ❤商人さんはじっとしててください。あなたのこともすぐに食べてあげます。,Ufufu~❤ Just stay put; Merchant-san. I'll gobble you up in a bit.
-でもまずはこちらのカードマスターのお兄さんから❤,But I'm going to start with this Cardmaster Onii-san over here~❤
-ん、ちゅっ・・・❤,Hnn... *Smooch❤*
+うふふ❤商人さんはじっとしててください。あなたのこともすぐに食べてあげます。,Ufufu~❤ Just stay put; Merchant-san. I will feast on you in a bit.
+でもまずはこちらのカードマスターのお兄さんから❤,But first; I'm going to start with Mr. Cardmaster over here~❤
+ん、ちゅっ・・・❤,Mmm... Mmwah~❤
 はうぅぅっ・・・・・❤,H-hahhh...❤ 
-メロメロにして、カードも使えなくして・・・❤そのまま搾っちゃいますね❤,I'm going to melt you away so that you can't use your cards❤ And then; I'm gonna drain you like this~❤
+メロメロにして、カードも使えなくして・・・❤そのまま搾っちゃいますね❤,Falling in love... Unable to use your cards...❤ I will milk your dick while you're unable to do anything else~❤
 あやしい・・・・・・。,How strange...   
 こんな道の真ん中でどうしたんだい？,Why are you standing in the middle of the road like that?
 ちょっと今降りるから待ってなよ。,I'm coming to ya; so wait a sec.
@@ -86,8 +86,8 @@ Kiss01,
 でも、エッチなことにはまだ不慣れみたい。だから、いっぱいきもちいいことしてあげて・・・❤,But it seems like you're still not used to lewd things. So; let me make you feel really good…❤
 ふにゃふにゃのメロメロに負けさせてあげます❤,I'll make sure you lose by becoming completely weak and helpless for me~❤
 お兄さんのターンからですね❤,Looks like it's your turn; mister.❤
-でも、戦う前からわたしのキスでメロメロになっちゃっているみたい・・・❤,But it looks like my kiss has already made you head over heels for me before we even started fighting…❤
-くすくす❤ちゃんとカード出せますか？ほら、頑張ってください❤,*Giggle*-❤ Are you able to summon your cards properly? Hora- do your best~❤
+でも、戦う前からわたしのキスでメロメロになっちゃっているみたい・・・❤,But it looks like my kisses have already made you head over heels for me before we even started fighting...❤
+くすくす❤ちゃんとカード出せますか？ほら、頑張ってください❤,*Giggle*❤ Are you able to summon your cards properly? Hora~ Do your best~❤
 お兄さんのターンからですね。,Your turn; mister!
 カードを出す前に・・・。ねえ、わたしの唇見てください❤,Oh hey; before you summon your card...look at my lips for a moment.❤
 さっきはキスしてあげられなくて、残念でした・・・❤,It's a shame I couldn't give you a kiss earlier...❤
@@ -103,7 +103,7 @@ Kiss01,
 あは❤せっかく復活させてもらったのに、\nさっきエナジーを出したときのこと、\nばっちり記憶に残っちゃってるみたいですね❤,Aha~❤ It seems like even after being revived; you still clearly remember the moment when you shot all your energy out; don't you~?❤
 おちんちんがもうギンギンみたいです❤\nそんなモンスターが出てきても全然怖くありませんよ❤,It looks like your dick is already rock hard; too~❤ There's nothing scary about monster who comes out with something like that~❤
 魔法カード発動！{使用カード}！自分の水属性モンスターと、同じレベルの水属性モンスターを手札に加えます。,Magic Card activate! {使用カード}! This allows me to add a water attribute monster of the same level as my current water attribute monster to my hand.
-スライムちゃん、どんどん集まってきてください。{使用カード}発動！,Slime-chans'; gather and assemble! {使用カード} activate!
+スライムちゃん、どんどん集まってきてください。{使用カード}発動！,Now my cute little slimes~ Gather and assemble! {使用カード} activate!
 魔法カード発動！{使用カード}！スライムの体力をパワーアップです！,Magic Card activate! {使用カード}! This powers my slimes and makes them stronger!
 スライムちゃんを強くしちゃいます！{使用カード}を発動！,I'll make my Slime creatures even stronger! Activate {使用カード}!
 さらにパワーアップ！{使用カード}をもう一枚発動します。,And now to power up even further! I activate another {使用カード}.
@@ -150,7 +150,7 @@ Kiss01,
 ちっちゃな女の子に簡単に抑え込まれて、キスされるがまま・・・❤くすくす。使い魔失格ですね❤んっちゅ❤,Easily held down and kissed by a little girl like this… *Giggle*. You're a failure as a familiar~ Mwah❤
 わたしのキスで虜にしてあげますね❤んっちゅ❤,I'll make you my slave with my kisses~ Mwah❤
 自分よりずっとちっちゃな女の子と、唇を合わせる気分はどうですか？,How does it feel to have your lips locked with a girl much smaller than yourself?
-大人でもなかなかしないような、やらしいディープキス❤いっぱい楽しみましょ？んーっちゅ❤,Naughty; deep kisses that even adults don't often share… Let's enjoy them even more; okay? Mmmm-wah~❤
+大人でもなかなかしないような、やらしいディープキス❤いっぱい楽しみましょ？んーっちゅ❤,It'll be a naughty; deep kiss that even adults don't often share... Enjoy it as much as you can; okay? Mmmm-wah~❤
 カードを使っちゃダメですよ。じっとして、メロメロになって、わたしに負けてください。,Don't use any cards. Just stay still; give in to the moment; and lose to me~
 おねがいを聞いてくれるなら、ほらご褒美・・・❤んっちゅ❤,If you heed my request; your reward will be… Mwah❤
 戦いなんてやめましょ？あなたのマスターの命令は、サキュバスのキスで忘れさせてあげます。んーーっちゅ❤,Let's give up on this fight; okay? I'll make you forget your master's orders with a succubus's kiss. Mmmm-wahh❤

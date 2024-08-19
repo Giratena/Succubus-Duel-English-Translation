@@ -1,3 +1,3 @@
 default
 危機一髪,Close Call
-[2].自分フィールド上のHPが500以下のモンスターが、相手のカードの効果の対象になったとき発動できる。そのカードの効果を無効にし、破壊する。,[1]. When a monster on your field with HP of 500 or less becomes the target of an opponent's card effect; negate that effect and destroy that card.
+[1].自分フィールド上のHPが500以下のモンスターが、相手のカードの効果の対象になったとき発動できる。そのカードの効果を無効にし、破壊する。,[1]. If a monster you control with 500 or less HP is targeted by your opponent's card effect: Negate the effect and destroy that card.

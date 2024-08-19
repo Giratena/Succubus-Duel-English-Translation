@@ -1,3 +1,3 @@
 default
 ブレイドダンス,Blade Dance
-[1].ランダムな相手モンスターに300ポイントのダメージを与える。これを墓地の装備カードの数だけ繰り返す。,[1]. Inflict 300 x X damage to a random opponent's monster. (X = The number of equipment cards in your Graveyard.)
+[1].ランダムな相手モンスターに300ポイントのダメージを与える。これを墓地の装備カードの数だけ繰り返す。,[1]. Deal 300 x X damage to 1 random monster your opponent controls. (X = Number of equipment cards in your Graveyard.)
