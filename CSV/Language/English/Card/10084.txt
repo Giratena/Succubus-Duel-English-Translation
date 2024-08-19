@@ -1,6 +1,6 @@
 default
 踊り子サキュバス,Dancer Succubus
-踊り子がサキュバスになったモンスター。素早い動きで相手を翻弄し、攻撃をかわしながらセクシーな踊りでこちらの理性を削ってくる。気が付けば攻撃している側の動きは遅くなり、いつの間にか踊りに見とれて棒立ちになってしまっているという。,This monster is a dancer that has turned into a succubus. She seduces her targets and slowly makes them lose their minds by performing a sexy dance amidst of dodging attacks with her agile steps. Before her victims can even realize it; they'll start slowing down and ultimately stopping altogether to watch her dance in a daze.
+踊り子がサキュバスになったモンスター。素早い動きで相手を翻弄し、攻撃をかわしながらセクシーな踊りでこちらの理性を削ってくる。気が付けば攻撃している側の動きは遅くなり、いつの間にか踊りに見とれて棒立ちになってしまっているという。,A monster is a dancer that has turned into a succubus. She seduces her targets and slowly makes them lose their minds by performing a sexy dance amidst of dodging attacks with her agile steps. Before her victims can even realize it; they'll start slowing down and ultimately stopping altogether to watch her dance in a daze.
 EU84_footJobAnime,
 ###When there's a mermaid present to sing. Triggers once.
 うふ❤いい音楽ね❤\n合わせてわたしの踊りも見せてあげる❤\nあはーん❤,Ah!❤ That's such a nice song.❤ I'll match my dance to the rhythm❤ Ahaaaaan~❤
