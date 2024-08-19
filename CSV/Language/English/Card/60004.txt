@@ -1,3 +1,3 @@
 default
 アイアンリング,Iron Ring
-フィールド上のモンスターまたはプレイヤーが装備可能。相手から受ける戦闘ダメージを100ポイント減少させる。,Can be equipped to anybody.\nReduces the combat damage taken by the equipped character by 100.
+フィールド上のモンスターまたはプレイヤーが装備可能。相手から受ける戦闘ダメージを100ポイント減少させる。,Can be equipped to any character.\nReduces the combat damage taken by the equipped character by 100.

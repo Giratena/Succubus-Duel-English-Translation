@@ -1,3 +1,3 @@
 default
 ダブルスラッシュ,Double Slash
-[1].自分のローグタイプのモンスターが攻撃宣言をしたときに発動できる。次の戦闘で、そのモンスターの攻撃回数を+1する。,[1]. If a Rogue Type monster you control declares an attack: During this fight its attack hit one more time.
+[1].自分のローグタイプのモンスターが攻撃宣言をしたときに発動できる。次の戦闘で、そのモンスターの攻撃回数を+1する。,[1]. If a Rogue Type monster you control declares an attack: gain an additional attack this fight.
