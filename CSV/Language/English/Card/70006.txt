@@ -1,240 +1,242 @@
 default
-エルル,
+エルル,Eruru
 ,
 EP06_HandJob (1),
 Kiss01,
 Sexy01,
-ん？この辺じゃ見ない顔ね。初心者のカードマスターかしら。,
-はじめまして。わたしは、エルル。D級のカードマスターよ。,
-あなたのランクはF級？ふーん、まだカードを始めたばっかりなんだ。,
-さっそくバトルと行きましょ。上級者として軽く倒してあげる。,
-やっほー。{ランク名}級カードマスターくん。また会ったわね。バトルする？,
-この間わたしが負けたのは運よ。運。今度は勝つわ。さあ行くわよ！,
-この間みたいに、キャロルのおっぱいでまた負けさせてあげるわ。ふふふ、せいぜい楽しみなさい。,
-ふふ、前はわたしの勝ちだったわね。またこてんぱんにしてあげる。,
-やっほー。F級カードマスターくん。また会ったわね。バトルする？,
-え？もうF級じゃない、{ランク名}級になったって？\nへぇー、すごいじゃない。,
-とはいえまだわたしより下のランクでしょ。\n前回たまたま負けちゃったけれど、今日はわたしが勝つんだから。\nさあ行くわよ！,
-でも結局、またわたしのモンスターに負けちゃうんでしょ？\nふふ、ランクが上がったところでパイズリにアヘらされてるようじゃ\n仕方ないわね❤,
-この間みたいに、キャロルのおっぱいで負けさせてあげるわ。\nせいぜい楽しみなさい❤,
-でも結局、またわたしに負けちゃうんでしょ？\nランクが１つ上がったところで、たいして変わらない❤\n今日もこてんぱんにしてあげる❤,
-やっほー。E級カードマスターくん。また会ったわね。バトルする？,
-やっほー。{主人公}。\n今時間ある？それならわたしとバトルでもしましょう。,
-同じDランク同士、闘技場に向けてしっかり調整していかないとね。\nこの間は負けたけど、今日は勝たせてもらうわ！,
-くぅ、格下に負けるなんて屈辱…。次は負けないわ！,
-はい、わたしの勝ち。やっぱりF級とD級じゃ、実力が違うわよね。クスクス。,
-はい、わたしの勝ち。やっぱりE級とD級じゃ、実力が違うわよね。クスクス。,
-うっ、さすがね。やるじゃない、{主人公}。\nでも次は勝つわ。またバトルしましょう。,
-はい、わたしの勝ち❤\n気持ちよく射精できてよかったわね❤うふふ❤,
-あなたのターンからね。さあ、いいバトルをしましょう。,
-わたしのターンからね。いくわよ、わたしの闇属性モンスターでこてんぱんにしてあげる。,
-わたしのターン、ドロー。,
-{使用カード}を上級召喚するわ。,Now I'll advance summon {使用カード}~
+ん？この辺じゃ見ない顔ね。初心者のカードマスターかしら。,Hmm? I haven't seen your face around. Are you a beginner cardmaster?
+はじめまして。わたしは、エルル。D級のカードマスターよ。,I'll introduce myself. I'm Eruru; a D-Rank cardmaster.
+あなたのランクはF級？ふーん、まだカードを始めたばっかりなんだ。,You're an F-rank; huh? Hmm; so you're just starting out.
+さっそくバトルと行きましょ。上級者として軽く倒してあげる。,Let's have a battle then. I'll easily beat you since I'm more experienced.
+やっほー。{ランク名}級カードマスターくん。また会ったわね。バトルする？,Hello; if it isn't the {ランク名}-rank. We meet again! Wanna have a battle?
+この間わたしが負けたのは運よ。運。今度は勝つわ。さあ行くわよ！,It was just bad luck that I lost last time. Bad luck; I tell you! This time I'll definitely win. Come at me!
+この間みたいに、キャロルのおっぱいでまた負けさせてあげるわ。ふふふ、せいぜい楽しみなさい。,Looks like you'll lose to Carol's breasts this time, too. Fufu; please enjoy them.
+ふふ、前はわたしの勝ちだったわね。またこてんぱんにしてあげる。,Fufu; you lost to me last time. I'll beat you thoroughly this time; too.
+やっほー。F級カードマスターくん。また会ったわね。バトルする？,Hello; if it isn't the F-rank. We meet again. Wanna have a battle?
+え？もうF級じゃない、{ランク名}級になったって？\nへぇー、すごいじゃない。,Eh? You're not F-rank anymore; but {ランク名}-rank? Woow; impressive~
+とはいえまだわたしより下のランクでしょ。\n前回たまたま負けちゃったけれど、今日はわたしが勝つんだから。\nさあ行くわよ！,Though; it's still a lower rank than mine. My loss last time was just an accident. I'll definitely win today. Come at me!
+でも結局、またわたしのモンスターに負けちゃうんでしょ？\nふふ、ランクが上がったところでパイズリにアヘらされてるようじゃ\n仕方ないわね❤,But in the end; you'll lose again to my monsters; won't you? Fufu; your rank might've increased; but you still go so crazy over a titjob. Oh well~❤
+この間みたいに、キャロルのおっぱいで負けさせてあげるわ。\nせいぜい楽しみなさい❤,Looks like you'll lose to Carol's breasts. Fufu; please enjoy them~❤
+でも結局、またわたしに負けちゃうんでしょ？\nランクが１つ上がったところで、たいして変わらない❤\n今日もこてんぱんにしてあげる❤,But in the end; you'll lose to me again. Your rank might've increased by one; but you still haven't changed a bit~❤ I'll beat you thoroughly.❤
+やっほー。E級カードマスターくん。また会ったわね。バトルする？,Hello; if it isn't the E-rank. We meet again. Wanna have a battle?
+やっほー。{主人公}。\n今時間ある？それならわたしとバトルでもしましょう。,Hello; if it isn't {主人公}. Are you free? Then let's have a battle.
+同じDランク同士、闘技場に向けてしっかり調整していかないとね。\nこの間は負けたけど、今日は勝たせてもらうわ！,We're fellow D-ranks; so make sure you're well prepared before you head out to the colosseum. I might've lost last time; but I'll get my win today!
+くぅ、格下に負けるなんて屈辱…。次は負けないわ！,Kuh; to lose against a lower rank... It's so humiliating. I won't lose next time!
+はい、わたしの勝ち。やっぱりF級とD級じゃ、実力が違うわよね。クスクス。,Yep; looks like I won. There really is a big gap between F-rank and D-rank; *Giggle*
+はい、わたしの勝ち。やっぱりE級とD級じゃ、実力が違うわよね。クスクス。,Yep; looks like I won. There really is a big gap between E-rank and D-rank; *Giggle*
+うっ、さすがね。やるじゃない、{主人公}。\nでも次は勝つわ。またバトルしましょう。,Ugh; I thought so. You're not half bad; {主人公}. But next time; victory will be mine. Let's battle again sometime; OK?
+はい、わたしの勝ち❤\n気持ちよく射精できてよかったわね❤うふふ❤,Yep; looks like I won.❤ I bet you're glad to get such a pleasurable ejaculation.❤ Ufufu~❤
+あなたのターンからね。さあ、いいバトルをしましょう。,It's my turn. Let's have a good battle.
+わたしのターンからね。いくわよ、わたしの闇属性モンスターでこてんぱんにしてあげる。,It's my turn. My Dark Attribute monster will beat you thoroughly.
+わたしのターン、ドロー。,It's my turn; draw.
+{使用カード}を上級召喚するわ。,I'll special summon {使用カード}.
 {使用カード}を召喚！,Summon {使用カード}!
-ううっ、あうう・・・❤,
-ぷぷっ、蘇ったばっかりなのに、もう前かがみなんだけど❤\n自滅しちゃうようなザコじゃ、\n何度出てきても意味ないわよね❤,
-そこで勃起チンポ抱えてじっとしてれば？\nすぐにまたエナジーを搾り取ってあげる❤\nま、ほかのモンスターにぼこられちゃうかもだけど❤,
-さらにもう1枚発動！,
-{使用カード}の効果発動！カードを1枚ドロー！.,
-{使用カード}が場に出たとき効果発動！山札から1枚ドロー！,
-{使用カード}の効果発動！相手の攻撃力を300ポイントダウン！,
-力を奪ってあげる。{使用カード}の効果を発動！,
-{使用カード}の効果発動！闇属性モンスターの攻撃力を300ポイントアップ！,
-{使用カード}の効果を発動！闇属性モンスターの攻撃力をパワーアップ！,
-破壊されたとき{使用カード}の効果発動！罠カードをサーチするわ！,
-{使用カード}が破壊されたとき効果を発動！罠カードを山札から手札にサーチ！,
-魔法カード発動！{使用カード}！手札からレベル4以下の闇属性モンスターを特殊召喚するわ.,
-{使用カード}発動！手札から闇属性の下級モンスターを特殊召喚するわ。,
-{使用カード}を発動！強化状態の味方をさらに強化するわ！,
-どんどん強くなりなさい。{使用カード}を発動！,
-{使用カード}を発動！デッキからローグモンスターをサーチさせてもらうわね。,
-さあ行くわよ。{使用カード}を発動！連続攻撃してあげる！,
-装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-魔法カードを発動！{使用カード}！,Magic card activate! {使用カード}!
-トラップカードを発動するわ！{使用カード}！,
-カードをセット。,Card set.
-カードを伏せるわ。,I'll set this card face down.
-あなたのこと気持ちよくしてあげるわね。{防御カード}を攻撃！,
-快感で戦えなくしてあげる。{防御カード}を攻撃！,
-バトルよ！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
-ううっ、なにもできないわ。ターンエンド。,End turn.
-あまり良くない手札ね。なにもできない。ターンエンド。,End turn.
-ターン終了よ。, I end my turn.
-ターンエンド。,End turn.
-わたしのターンはおわり。ターンエンド。,End turn.
-あら、攻撃妨害？意外とやるじゃない。,
-投げキッスとか好き？ほら指で唇をはじいて、ちゅっ❤,
-ねえ、エッチなことしたくない？\n投げキッスでムラムラさせたげるね。んっちゅ❤,
-F級カードマスターくんはまだまだ女の子に対してうぶなんでしょ？\nわたしと気持ちいいことしたい？,
-E級カードマスターくんはまだまだ女の子に対してうぶなんでしょ？\nわたしと気持ちいいことしたい？,
-ねえほら、唇を見て？\n{主人公}はわたしと気持ちいいことしたい？,
-それなら、そのままじっとしててよ…❤んっちゅ❤,
-投げキッスで興奮させたげる。んっちゅ❤,
-手でいじめてあげる。ほら、ぎゅってチンコを握って、シコシコ…❤,
-意外と優しい扱き方でしょ？頭のなかとろとろにしちゃうね。ふふふ❤,
-手コキしてあげよっか？チンポを捕まえて、シコシコ、シコシコ♪,
-わたし、手先が器用だからとても気持ちいいはずよ。\nほら、さっさとイっちゃいなさい。,
-F級カードマスターくんは女の子に手でしてもらったことはある？,
-女の子の手って柔らかいから気持ちいいのよ。ほら、実際にやったげる。シコシコ、シコシコ…♪,
-E級カードマスターくんは女の子に手でしてもらったことはある？,
-わたし手コキにはけっこう自信があるの❤\n{主人公}のこともすぐに骨抜きにしてあげる❤\nほら、シコシコ、シコシコ…♪,
-わたしの手でかわいがってあげる。ほら、握って上下に、シコシコ…❤いっぱい声出しちゃっていいからね。,
-わたしの胸、けっこう大きいでしょ。挟んであげようか？,
-ほら、服の隙間からチンコを入れてっと…。\nふふふ、おっぱいの感触たくさん楽しんでね❤,
-胸で挟んで、気持ちよくしてあげる。\nこの大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,
-その状態で上下に何度もズリズリ♪ パイズリって気持ちいいのよ。ほら…❤,
-F級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,
-E級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,
-おっぱいで特別ご奉仕してあげるわね❤{主人公}❤\nチンコを服の中に入れてっと…。,
-おっぱいあったかくて気持ちいい？そのまま力抜いてなさい。\nきっと耐えられなくて、すぐに終わるわ。\nよいしょっ。ズリズリ、ズリズリ…❤,
-胸で挟んで、気持ちよくしてあげる。この大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,
-あら、我慢できなくて射精させてくださいってお願いしちゃうわけ？\n初心者らしいカッコ悪いおねだりね❤,
-どうやって負けたいのかしら❤\n先輩マスターのわたしに向かって、声に出して言ってみなさい❤,
-あら、我慢できなくて射精させてくださいってお願いしちゃうわけ？\nDランクにもなってカッコ悪いおねだりね❤,
-くすくす❤\nバトルの途中なのに、敵のマスターにおねだりしちゃうんだ❤\n初心者マスターのモンスターだけあって、理性が弱いのね❤,
-どうやって負けたいのかしら❤\n声に出して言ってみなさい❤,
-くすくす❤\nバトルの途中なのに、敵のマスターにおねだりしちゃうんだ❤\nマスターは強くてもモンスターは理性が弱いのね❤,
-足止め投げキッス,
-みっちり着衣パイズリ,
-腰砕け手コキ,
-なんでも,You decide
-あはは、投げキスをいっぱいしてほしいの？\nすごくかわいいお願いをするのね❤,
-いいわよ、してあげる❤\n本当はただ足止めするための技だけど、何回も当てて\nあなたのこと投げキスだけでイかせてあげるわ❤,
-ふーん、このおっぱいで挟んでほしいんだ❤\nおっぱいフェチの雑魚チンポ、シャツをめくって中に入れて、\nたっぷりズリズリしてあげるわ❤,
-ふふ、手でシコシコしてほしいのね❤\nわたし手コキはかなりうまい方だと思うの❤\nあなたの足腰すぐに立たなくさせてあげる❤,
-くすくす❤キスされるたびにビクビク震えて、ついに射精しちゃった❤\n魔力は多少込めているけど、投げキスだけでイクとかだいぶ変態よね❤,
-変態っていうかただザコなだけかしら？\n指先でちゅってされるだけで負けるんだもの❤\nぷっ、くすくすくす♪,
-ふふ、わたしのパイズリ気持ちよかったでしょ？\n服があなたのせいでベトベト❤\nでも魔力に変えて吸収するから精液つけられたところで困らないわ❤,
-困るのはあなたの仲間たちね❤\n裏切ったせいで戦力が一人減って、そのうえわたしは全回復。\nどう考えてもピンチじゃない。くすくす❤,
-ふふ、わたしの手コキ気持ちよかったでしょ❤\nシコシコしてあげれば、たいていの男は骨抜きにできる自信があるわ。,
-あなたも全然耐えられなかったわね❤\nくすくす❤,
-あっ、ああっ・・・。,
-ふふふ、この間負けて今回も負けちゃうんだ。\nそれもオナニーで自分から負けに来ちゃうなんて、雑魚すぎじゃない？,
-あら？オナニー始めちゃうわけ？\nF級カードマスターくんは、理性も低ランクなのね❤,
-あら？オナニー始めちゃうわけ？\nE級カードマスターくんは、理性も低ランクなのね❤,
-あら？オナニー始めちゃうわけ？\nD級になったのに、{主人公}の理性は低ランクなのね❤,
-この間はわたしに勝てたのに、今度は自爆して負けちゃうんだもの。\nもしかして前のバトルのときから、\nわたしでオナニーしたいなぁとか思ってたの？この変態❤,
-わたしのおっぱいとかおへそを見てムラムラしちゃったの？\nたいした露出じゃないと思うんだけど、\nこれぐらいで我慢できなくなるなんて、うぶでかわいい❤,
-ううっ…。,
-せっかくだから服を少しずつめくって露出を増やしてあげるわ。ほら…。,
-わたしの下乳、見えるでしょ？\nむにゅむにゅしてて柔らかそうで、エッチなおっぱい❤,
-このおっぱいにチンコ入れたいなぁとか妄想しちゃってるの？\n谷間にチンコ突き入れて、そのまま両側から\nおっぱいでむにゅーって押しつぶされて…❤,
-ふふふ、とっても気持ちいいでしょうね。そんなことされたら、\nすぐに我慢できなくなって射精しちゃうかも。,
-どんどん妄想していいのよ。好きなだけわたしの体でシコって、\nさっさと負けちゃいなさい。,
-敵のマスターのエッチな姿で自爆オナニー。\nF級マスターにはお似合いの負け方よ。くすくす…❤,
-はひぃっ…❤,
-あーあ、こんなに出しちゃってみっともない。谷間がべとべと。,
-気持ちよさそうな顔しちゃって、恥ずかしくないの？\nこの間といい、わたしの谷間でオナニーするの癖になっちゃったみたいね。\n変態雑魚マスターくん❤,
-頑張れば勝つこともある相手に、カッコ悪い負け方しちゃったわね。\nふふふ、そんなんじゃもうわたしには勝てないかもよ？,
-初心者のうちからこんな調子じゃ、\nあなた上のランクになんていけないわよ。くすくす❤,
-あら？オナニー始めちゃうわけ？\nF級カードマスターのしもべは、しょせんF級の理性しかないのね。,
-戦いの最中でも、敵マスターのおっぱいとかおへそでムラムラしちゃう\nよわーい理性❤これぐらいで我慢できなくなるなんて、なさけなーい❤,
-ふふ、馬鹿にされて興奮しちゃってるの？\n服を少しずつめくって露出を増やしてあげる。ほら…。,
-わたしの下乳見えるでしょ？\nむにゅむにゅで柔らかそうで、エッチな谷間❤,
-このおっぱいにチンコ入れたいなぁとか妄想しちゃってるんでしょ？\n好きなだけシコって、さっさと負けちゃいなさい。,
-敵マスターのエッチな谷間で自爆オナニー。\n雑魚モンスターにはお似合いの負け方よ。くすくす…❤,
-あ、ああっ…❤,
-あらあら、こんなに出しちゃって、よっぽど気持ちよかったのかしら。\nエナジーで服がべとべと❤,
-敵のマスターを回復させるなんて、ダメなしもべね。\nふふ、他の子もわたしの体でオナニーして、ダメな子になっちゃう？,
-あら？あなたもオナニー始めちゃうわけ？しもべと同じでF級カードマスターくんは、理性も雑魚なのね。くすくす。,
-この間はわたしに勝てたのに、今度は自爆してシコシコ❤ もしかして前のバトルのときから、わたしでオナニーしたいなぁとか思ってたの？この変態❤,
-戦いの最中なのに、わたしのおっぱいとかおへそを見て、ムラムラしちゃったんだ。これぐらいで我慢できなくなるなんて、なさけなーい❤,
-馬鹿にされて興奮して変態じゃない。あなたもわたしのおっぱい見たいの？ほら、服を少しずつめくって露出を増やしてあげる。,
-わたしの下乳見えるでしょ？むにゅむにゅで柔らかそうで、エッチなおっぱい…❤,
-このおっぱいにチンコ入れたいなぁとか妄想しちゃってんでしょ？いいわよ。好きなだけシコって、あなたもさっさと負けちゃいなさい。,
-しもべともども、敵のマスターのエッチな姿で自爆オナニー。F級マスターにはお似合いの負け方よ。くすくす…❤,
-気持ちよさそうな顔しちゃって、恥ずかしくないの？この間といい、わたしの谷間でオナニーするの癖になっちゃったみたいね。変態雑魚マスターくん❤,
-頑張れば勝つこともある相手に、カッコ悪い負け方しちゃったわね。ふふふ、そんなんじゃもうわたしには勝てないかもよ？,
-初心者のうちからこんな調子じゃ、あなた上のランクになんていけないわよ。くすくす❤,
-あら？あなたもオナニー始めちゃうわけ？ボクもオナニーしたいよぉって我慢できなくなっちゃたんだ。くすくす❤,
-戦いの最中でも、敵マスターのおっぱいとかおへそでムラムラしちゃう、よわーい理性。これぐらいでシコシコ止まらなくなっちゃうなんて、なさけなーい❤,
-あは、馬鹿にされて興奮しちゃってるじゃない。あなたもわたしのおっぱい見たくてこっちに来たんでしょ？,
-ならほら、服を少しずつめくって露出を増やしてあげる。わたしの下乳見ていいわよ。むにゅむにゅで柔らかそうで、エッチな谷間…❤,
-このおっぱいにチンコ入れたいなぁとか妄想しなさい。妄想のパイズリで好きなだけシコって、さっさと負けるのよ。,
-敵のマスターのエッチな姿で自爆オナニー。雑魚モンスターにはお似合いの負け方でしょ。くすくす…❤,
-あらあら、こんなに出しちゃって、よっぽど気持ちよかったのかしら。エナジーで谷間がべとべと。,
-敵のマスターを回復させるなんて、ダメなしもべね。ふふ、他の子もわたしの体でオナニーして、ダメな子になっちゃう？,
-はい、わたしの勝ち❤オナニーでおっぱいに射精するの気持ちよかった？,
-ほら、見てよ。手がどろどろ。\nわたしの手にあっけなく負けちゃったね、F級マスターくん❤,
-ほら、見てよ。手がどろどろ。\nわたしの手にあっけなく負けちゃったね、E級マスターくん❤,
-ほら、見てよ。手がどろどろ。\nわたしの手にあっけなく負けちゃったね、{主人公}❤,
-あは、なに？投げキッスされただけでイっちゃったの？\nうぶすぎでしょ。ぷぷぷ❤,
-んふふ、パイズリ気持ちよかった？\nF級くんのチンコ、おっぱいに負けちゃったねー❤,
-んふふ、パイズリ気持ちよかった？\nE級くんのチンコ、おっぱいに負けちゃったねー❤,
-んふふ、パイズリ気持ちよかった？\n{主人公}のチンコ、おっぱいに負けちゃったねー❤,
-F級くん,
-E級くん,
-あなた,
-勝負に負け動けなくなった僕は、エルルさんの前で膝をついていた。エルルさんはそんな様子の僕を見下ろしニタニタと笑っている。,
-勝負に負け動けなくなった僕は、エルルの前で膝をついていた。エルルはそんな様子の僕を見下ろしニタニタと笑っている。,
-ふふふ。やっぱりわたしの方が強かったわね。F級じゃあ仕方ないかもだけど、ただの人間に気持ちよくされて情けなく射精…❤,
-ふふふ。やっぱりわたしの方が強かったわね。E級じゃあ仕方ないかもだけど、ただの人間に気持ちよくされて情けなく射精…❤,
-ふふふ。やっぱりわたしの方が強かったわね。\nサキュバスに勝てる実力だってあるはずなのに、\nただの人間に気持ちよくされて情けなく射精…❤,
-とってもみっともないと思うわ。くすくす❤,
-そうだ。あなたが少しは我慢できるように、わたしが稽古つけてあげましょうか。,
-稽古…？,
-そう、稽古❤わたしの体を使って{&呼び方}を気持ちよくしてあげるの。きみはそれを頑張って我慢するってわけ。,
-例えばこの手を使っておちんちんを…。,
-そういうと彼女は指先でペニスをつーっと撫で上げた。ゾクゾクとした快感が体を走り、僕は思わず体をビクンと震わせてしまう。,
-こんな風にかわいがってあげようかなーってね。手袋でなでられて、けっこう気持ちいいでしょ？,
-{&呼び方}が望むなら、いまからシコシコしてあげて、我慢の練習、させてあげる。どうする？やってみる？,
-ううっ…、それは…❤,
-ただし、有料だからね。手でしてほしいなら1回{$cost}ゴールド❤,
-わたしに気持ちいい特訓してもらえるんだから、お金を払うのは当然よね？ふふ、さあ早く決めなさい？,
-格上の相手に気持ちいい特訓してもらえるんだから、お金を払うのは当然よね？ふふ、さあ早く決めなさい？,
-エルルは手で筒を作ると意味ありげに上下に動かして僕に見せつけてくる。さっき射精させられたばかりだというのに目を逸らすことができない…,
-僕は・・・・。,
-あらそう。残念。,
-せっかくこの雑魚なチンポ、鍛えてあげようと思ったのになぁ…❤,
-エルルはそう言うと勃起したペニスに狙いを定め、指でその先端をわしゃわしゃと弄んできた。,
-ひあっ❤ああっ❤❤❤,
-あはは、弱っちくてかわいい❤,
-ま、{&呼び方}は{&呼び方}らしく、せいぜい頑張りなさい。じゃあねー。,
-あううっ・・・・❤,
-主人公はエルルの手コキに弱くなってしまった…,
-あは、これぐらいの誘惑でお金払っちゃうんだ。すなおー❤,
-って、{&呼び方}{$cost}G持っていないじゃん。,
-はぁ、それで「手で気持ちよくしてほしい」とか都合よすぎ。,
-わたしの手で気持ちよくしてもらいたいなら…。,
-エルルはそう言うとペニスの先端を指先でわしゃわしゃと弄んできた。,
-はい、ここでおしまい。続きはちゃんとお金を持ってくること。いいわね？ふふふ…。,
-はひぃっ・・・・❤,
-それじゃお金ももらったことだし、"特訓"してあげる。,
-さっきから握ってほしそうにビクビクしているチンコ、この手でぎゅって握って…。,
-シコシコスタート❤,
-あっ…❤ああっ…❤,
-んふふ、ゆっくりな手コキなのにずいぶん気持ちよさそうね。,
-女モンスターにエッチなことされたことはあっても、普通の女の子に手コキしてもらったことなんてあんまりないでしょ？,
-精液には魔力がたっぷり溶けだしているから、男のカードマスターと戦う時にはエッチな技は効果抜群❤だから、みんなけっこう練習するのよ。,
-基本テクとして、手のひらにゆるーく魔力をまとわせながら、軽くシコシコ❤これだけで男の子は悲鳴をあげちゃう。,
-悲鳴っていうか喜びの声かな？勝負に負けそうになっているのに、うれしいよぉ、気持ちいいよぉって声をあげてよがっちゃうの。,
-あなたもそうよね？お金出してまでシコシコしてほしいって思っちゃったんだもんね？,
-あうっ…❤それはぁ…❤,
-別に言い訳しなくてもいいのよ。言い訳されても面倒くさいだけだし。,
-さっさとチンコしこられて、お金を貢いでくれればそれでオッケー。,
-ほら、もう金玉がきゅってなって、限界が来てる。射精しちゃうんでしょ？ゆるい手コキに負けてあっという間に敗北しちゃう。,
-男ってそういうものよ。くすくす❤,
-ねえ、どうする？我慢するための特訓なんだし、ここで手コキストップしてあげてもいいわよ。お願いするなら、やめてあげる。,
-{&呼び方}はこれからの戦いのために、気持ちいいのを我慢しないといけないんでしょ？ほら早く言いなさい？,
-あっ…❤ううっ…❤手コキを、やめ…❤,
-はーい、ここでスピードアップ❤,
-あっ❤ああっ❤❤❤だめ、これっ、あああっ…❤,
-あはは、口で"ストップ"も言えないなんてなさけなーい❤,
-この程度の快感でしゃべれなくなるようじゃ、特訓したって意味ないわね。,
-{&呼び方}、もういいわよ。ここからは快感に身を任せても。,
-もう特訓は終わり。あとはわたしの手で気持ちよくなることだけ考えるの…❤,
-さあ、腰を突き出して。一番気持ちいい格好でわたしにシコられなさい。そしてみっともなく射精する…❤,
-ほら、ほら、ほら…❤カリ首をしごいて、とどめをさしてあげる。,
-思いっきり腰へこらせて、みじめに射精しろ。低級マスター❤,
-あうっ❤ああっ❤❤❤,
-あは、こんなに手袋をべとべとにしちゃって出し過ぎよ。よいっしょと…。,
-はい、魔法で元通り。精液をエナジーに変えられない一般人なら、服に射精されると洗濯するのもけっこう大変なのよ？,
-って、そんなアヘ顔じゃ、わたしの言葉なんて聞こえないか。,
-手コキされただけで蕩け顔しちゃって、ほんと{ランク名}級ってよわいわ。くすくす❤,
-手コキされただけで蕩け顔しちゃって、{ランク名}級になってもまだまだよわいままなのね。くすくす❤,
-まあそれなりに高いお金くれたし、もうちょい搾ってあげるわ。ここからはサービスよ。,
-あっ❤いま敏感でっ❤ひああっ❤,
-敏感な方が気持ちいいでしょ？ほらほらほら…❤,
-冒険をあきらめますか？,
-エルルに特訓をつけてもらった僕は、彼女の与える快感が忘れられなくなっていた。,
-彼女に何回戦いを挑んでも、空中で軽く手コキのまねをされるだけで腰砕けになってしまい、もうカードを召喚するどころではない状態にさせられてしまった。,
+ううっ、あうう・・・❤,Uuu; ahh...❤
+ぷぷっ、蘇ったばっかりなのに、もう前かがみなんだけど❤\n自滅しちゃうようなザコじゃ、\n何度出てきても意味ないわよね❤,Pfft; you've only been called out and you're already hunching over like that.❤ For a weakling that loses on their own like you; the result won't change no matter how many times you try.❤ 
+そこで勃起チンポ抱えてじっとしてれば？\nすぐにまたエナジーを搾り取ってあげる❤\nま、ほかのモンスターにぼこられちゃうかもだけど❤,How about you just stay still and hold that erection out? I'll squeeze your energy again real soon.❤ Well; the other monsters might get to you first~❤
+さらにもう1枚発動！,And I'll activate one more card!
+{使用カード}の効果発動！カードを1枚ドロー！.,Activate {使用カード}'s effect! Draw one card!
+{使用カード}が場に出たとき効果発動！山札から1枚ドロー！,When entering the field; activate {使用カード}'s effect! Draw one card from my deck.
+{使用カード}の効果発動！相手の攻撃力を300ポイントダウン！,Activate {使用カード}'s effect! Opponent's attack power is lowered by 300 points.
+力を奪ってあげる。{使用カード}の効果を発動！,I'll steal your power. Activate {使用カード}'s effect!
+{使用カード}の効果発動！闇属性モンスターの攻撃力を300ポイントアップ！,Activate {使用カード}'s effect! Dark Attribute monsters attack power increases by 300.
+{使用カード}の効果を発動！闇属性モンスターの攻撃力をパワーアップ！,Activate {使用カード}'s effect! Dark Attribute monsters attack power increases.
+破壊されたとき{使用カード}の効果発動！罠カードをサーチするわ！,When it's destroyed; activate {使用カード}'s effect! It searches for a trap card!
+{使用カード}が破壊されたとき効果を発動！罠カードを山札から手札にサーチ！,When it's destroyed; activate {使用カード}'s effect! It searches for a trap card from my deck and adds it into my hand!
+魔法カード発動！{使用カード}！手札からレベル4以下の闇属性モンスターを特殊召喚するわ.,Activate magic card's effect! {使用カード}! It special summons a level 4 Dark Attribute monster from my hand.
+{使用カード}発動！手札から闇属性の下級モンスターを特殊召喚するわ。,Activate {使用カード}'s effect! It special summons a lower-rank Dark Attribute monster from my hand.
+{使用カード}を発動！強化状態の味方をさらに強化するわ！,Activate {使用カード}'s effect! Allies that have been buffed are buffed even further!
+どんどん強くなりなさい。{使用カード}を発動！,Get more and more powerful. Activate {使用カード}!
+{使用カード}を発動！デッキからローグモンスターをサーチさせてもらうわね。,Activate {使用カード}'s effect! It searches for a Rogue Type monster from my deck and adds it to my hand.
+さあ行くわよ。{使用カード}を発動！連続攻撃してあげる！,Let's go! Activate {使用カード}! Take these successive attacks!
+装備魔法カード発動！{使用カード}！,Activate magic equipment card! {使用カード}!
+魔法カードを発動！{使用カード}！,Activate magic card! {使用カード}!
+トラップカードを発動するわ！{使用カード}！,Activate trap card! {使用カード}!
+カードをセット。,I set this card.
+カードを伏せるわ。,I place this card facedown.
+あなたのこと気持ちよくしてあげるわね。{防御カード}を攻撃！,I'll make you feel good now~ Attack {防御カード}!
+快感で戦えなくしてあげる。{防御カード}を攻撃！,I'll make you go powerless from pleasure. Attack {防御カード}!
+バトルよ！{使用カード}で{防御カード}を攻撃！,Go! Attack {防御カード} using {使用カード}!
+ううっ、なにもできないわ。ターンエンド。,Uuu; I can't do anything. Turn end.
+あまり良くない手札ね。なにもできない。ターンエンド。,My hand doesn't look good; I can't do anything. Turn end.
+ターン終了よ。,Turn over.
+ターンエンド。,Turn end.
+わたしのターンはおわり。ターンエンド。,I finished my turn. Turn end.
+あら、攻撃妨害？意外とやるじゃない。,Oh; you blocked my attack? Not bad.
+投げキッスとか好き？ほら指で唇をはじいて、ちゅっ❤,Do you like blown kisses? Look; my fingers are on my lips... Smooch~❤
+ねえ、エッチなことしたくない？\n投げキッスでムラムラさせたげるね。んっちゅ❤,Say; don't you want to do something lewd? I'll make you get excited with blown kisses. Smooch~❤
+F級カードマスターくんはまだまだ女の子に対してうぶなんでしょ？\nわたしと気持ちいいことしたい？,Silly F-rank cardmaster. You're still inexperienced around girls; aren't you? Don't you want to feel good with me?
+E級カードマスターくんはまだまだ女の子に対してうぶなんでしょ？\nわたしと気持ちいいことしたい？, Silly E-rank cardmaster. You're still inexperienced around girls; aren't you? Don't you want to feel good with me?
+ねえほら、唇を見て？\n{主人公}はわたしと気持ちいいことしたい？,Hey; look at this~ See my lips? Don't you want to feel good with me; {主人公}?
+それなら、そのままじっとしててよ…❤んっちゅ❤,Then just stay still like that...❤ Smooch~❤
+投げキッスで興奮させたげる。んっちゅ❤,I'll make you get excited with blown kisses. Smooch~❤
+手でいじめてあげる。ほら、ぎゅってチンコを握って、シコシコ…❤,I'll tease your dick with my hands. Look; I'll hold it tightly; and start stroking it up and down...❤
+意外と優しい扱き方でしょ？頭のなかとろとろにしちゃうね。ふふふ❤,The way I stroke is surprisingly gentle; isn't it? I bet it's turning your head into a mess; hehe~❤
+手コキしてあげよっか？チンポを捕まえて、シコシコ、シコシコ♪,Should I give you a handjob? I caught your dick. Jerk; jerk...❤
+わたし、手先が器用だからとても気持ちいいはずよ。\nほら、さっさとイっちゃいなさい。,I'm skilled with my fingers; so it should feel really good. There; go ahead and cum.
+F級カードマスターくんは女の子に手でしてもらったことはある？,F-rank cardmaster; have you ever been touched by a girl before?
+女の子の手って柔らかいから気持ちいいのよ。ほら、実際にやったげる。シコシコ、シコシコ…♪,A girl's soft hands will feel really good. Here; I'll do it for you. Stroke stroke; stroke stroke...♪
+E級カードマスターくんは女の子に手でしてもらったことはある？,E-rank card master; have you ever been touched  bya girl before?
+わたし手コキにはけっこう自信があるの❤\n{主人公}のこともすぐに骨抜きにしてあげる❤\nほら、シコシコ、シコシコ…♪,I'm confident in my handjob skills.❤ {主人公}'s dick will quickly turn powerless.❤ Here; I'll rub it...♪
+わたしの手でかわいがってあげる。ほら、握って上下に、シコシコ…❤いっぱい声出しちゃっていいからね。,I'll treat you good with my hands. There; I'll hold your dick then move up and down...❤ You can make as much noise as you want.
+わたしの胸、けっこう大きいでしょ。挟んであげようか？,My boobs are surprisingly big; aren't they? Should I squeeze you with them?
+ほら、服の隙間からチンコを入れてっと…。\nふふふ、おっぱいの感触たくさん楽しんでね❤,Here; put your dick inside the gap in my clothes... Hehe; please enjoy this sensation.❤
+胸で挟んで、気持ちよくしてあげる。\nこの大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,I'll make you feel good with these boobs. I'll insert your dick inside of them and squeeze it.
+その状態で上下に何度もズリズリ♪ パイズリって気持ちいいのよ。ほら…❤,I'll move it up and down just like that♪ Titjobs feel good; don't they? I'll move it like this...❤
+F級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,Here's a special service for the F-rank cardmaster. I'll put your dick inside of my clothes...
+E級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,Here's a special service for the E-rank cardmaster. I'll put your dick inside of my clothes...
+おっぱいで特別ご奉仕してあげるわね❤{主人公}❤\nチンコを服の中に入れてっと…。,Here's a special service for ❤{主人公}❤. I'll put your dick inside of my clothes...
+おっぱいあったかくて気持ちいい？そのまま力抜いてなさい。\nきっと耐えられなくて、すぐに終わるわ。\nよいしょっ。ズリズリ、ズリズリ…❤,Do my breasts feel that good? Just relax. I'm sure you won't be able to resist this; so this'll be over soon. Squeeze; squeeze...❤
+胸で挟んで、気持ちよくしてあげる。この大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,I'll make you feel good with these breasts. I'll put your dick between my huge breasts and squeeze them.
+あら、我慢できなくて射精させてくださいってお願いしちゃうわけ？\n初心者らしいカッコ悪いおねだりね❤,Oh; you can't endure; so you're begging me to make you ejaculate? So typical for a beginner. What a pathetic request~❤
+どうやって負けたいのかしら❤\n先輩マスターのわたしに向かって、声に出して言ってみなさい❤,So; how do you want to lose?❤ Please face your senior and say it loudly.❤
+あら、我慢できなくて射精させてくださいってお願いしちゃうわけ？\nDランクにもなってカッコ悪いおねだりね❤,Oh; you can't endure so you're begging me to make you ejaculate? Even if you're a D-ranker; that's such a pathetic request❤
+くすくす❤\nバトルの途中なのに、敵のマスターにおねだりしちゃうんだ❤\n初心者マスターのモンスターだけあって、理性が弱いのね❤,*Giggle*❤ Even though we're in the middle of a battle; to beg your opponent like that~❤ Even if you're the monster of a beginner card master; your self-control is really weak~❤
+どうやって負けたいのかしら❤\n声に出して言ってみなさい❤,So; how do you want to lose?❤ Please face me and say it loudly.❤
+くすくす❤\nバトルの途中なのに、敵のマスターにおねだりしちゃうんだ❤\nマスターは強くてもモンスターは理性が弱いのね❤,*Giggle*❤ Even in the middle of a battle; to beg your opponent like that~❤ Even if your master's strong; his monsters don't have any self-control~❤
+足止め投げキッス,Paralyzing Blown Kiss
+みっちり着衣パイズリ,Tight Titjob
+腰砕け手コキ,Hip-Breaking Handjob
+なんでも,Whichever
+あはは、投げキスをいっぱいしてほしいの？\nすごくかわいいお願いをするのね❤,Ahaha; you want more blown kisses? That's a cute request~❤
+いいわよ、してあげる❤\n本当はただ足止めするための技だけど、何回も当てて\nあなたのこと投げキスだけでイかせてあげるわ❤,Fine by me. I'll give you your blown kisses.❤ Honestly; this skill was originally meant for stopping your movements; but I'll give you as many blown kisses as you want~❤
+ふーん、このおっぱいで挟んでほしいんだ❤\nおっぱいフェチの雑魚チンポ、シャツをめくって中に入れて、\nたっぷりズリズリしてあげるわ❤,Hooh; so you want to be squeezed by my breasts.❤ I'll put this weak penis inside of my shirt and squeeze tight.❤
+ふふ、手でシコシコしてほしいのね❤\nわたし手コキはかなりうまい方だと思うの❤\nあなたの足腰すぐに立たなくさせてあげる❤,Fufu; so you want to be jerked off by my hand.❤ I think I'm pretty good with my hands.❤ You won't be able to stand up after this~❤
+くすくす❤キスされるたびにビクビク震えて、ついに射精しちゃった❤\n魔力は多少込めているけど、投げキスだけでイクとかだいぶ変態よね❤,*Giggle*❤ You're trembling with every blown kisses; and you finally came.❤ I placed some magic on my kisses; but you really are a pervert to cum from kisses alone~❤
+変態っていうかただザコなだけかしら？\n指先でちゅってされるだけで負けるんだもの❤\nぷっ、くすくすくす♪,Or maybe not a pervert; but rather a pushover? I only used my fingertips; but you lost from that.❤ Pfft; *Giggle*♪
+ふふ、わたしのパイズリ気持ちよかったでしょ？\n服があなたのせいでベトベト❤\nでも魔力に変えて吸収するから精液つけられたところで困らないわ❤,Hehe; did my boobs really feel that good? My clothes are all sticky from your cum~❤ But it's not a problem since I can turn it all into magic and absorb it.❤
+困るのはあなたの仲間たちね❤\n裏切ったせいで戦力が一人減って、そのうえわたしは全回復。\nどう考えてもピンチじゃない。くすくす❤,The ones in trouble are your comrades.❤ Because of your betrayal; they lost one member; and I even get to fully recover. No matter how you view it; they're are in big trouble. *Giggle*❤
+ふふ、わたしの手コキ気持ちよかったでしょ❤\nシコシコしてあげれば、たいていの男は骨抜きにできる自信があるわ。,Hehe; looks like you're feeling good from my handjob~❤ If a boy lets me give them a handjob; I'm confident that I can make them go mad from pleasure.
+あなたも全然耐えられなかったわね❤\nくすくす❤,Looks like you can't endure it either~❤ *Giggle*❤
+あっ、ああっ・・・。,Ah; ahh...
+ふふふ、この間負けて今回も負けちゃうんだ。\nそれもオナニーで自分から負けに来ちゃうなんて、雑魚すぎじゃない？,Hehe; you lost last time; and now you're losing again. Not to mention you lost by masturbating yourself. That's so pathetic; isn't it?
+あら？オナニー始めちゃうわけ？\nF級カードマスターくんは、理性も低ランクなのね❤,Oh? You're masturbating now? Turns out; an F-rank cardmaster also has F-rank self-control.❤
+あら？オナニー始めちゃうわけ？\nE級カードマスターくんは、理性も低ランクなのね❤,Oh? You're masturbating now? Turns out; an E-rank cardmaster also has E-rank self-control.❤
+あら？オナニー始めちゃうわけ？\nD級になったのに、{主人公}の理性は低ランクなのね❤,Oh? You're masturbating now? Even though {主人公} is a D-rank cardmaster; your self-control is still low-ranked.❤
+この間はわたしに勝てたのに、今度は自爆して負けちゃうんだもの。\nもしかして前のバトルのときから、\nわたしでオナニーしたいなぁとか思ってたの？この変態❤,Even though you won last time; you threw the battle and lost this time. Could it be that you just wanted to masturbate to me since our last battle? You pervert~❤
+わたしのおっぱいとかおへそを見てムラムラしちゃったの？\nたいした露出じゃないと思うんだけど、\nこれぐらいで我慢できなくなるなんて、うぶでかわいい❤,Did you get turned on from looking at my boobs and navel? I didn't think I was exposing too much skin; but it's pretty cute how that's enough to make you unable to hold yourself back.❤
+ううっ…。,Uuu...
+せっかくだから服を少しずつめくって露出を増やしてあげるわ。ほら…。,We're already this far; so I might as well open my clothes to expose even more skin. Here you go...
+わたしの下乳、見えるでしょ？\nむにゅむにゅしてて柔らかそうで、エッチなおっぱい❤,Are you looking at my underboobs? It's so soft and squishy. Tt's so lewd isn't it?❤
+このおっぱいにチンコ入れたいなぁとか妄想しちゃってるの？\n谷間にチンコ突き入れて、そのまま両側から\nおっぱいでむにゅーって押しつぶされて…❤,Are you fantasizing about your dick entering my boobs? Just imagine it entering my cleavage; getting squeezed from both sides...❤
+ふふふ、とっても気持ちいいでしょうね。そんなことされたら、\nすぐに我慢できなくなって射精しちゃうかも。,Hehe; that'd feel really good. I'm sure if that happened; you'd cum immediately.
+どんどん妄想していいのよ。好きなだけわたしの体でシコって、\nさっさと負けちゃいなさい。,You can keep fantasizing all you want about my body; so just keep jerking off and lose.
+敵のマスターのエッチな姿で自爆オナニー。\nF級マスターにはお似合いの負け方よ。くすくす…❤,Throwing the battle by masturbating to your opponent's body. You really are an F-rank to lose like that. *Giggle*...❤
+はひぃっ…❤,Hahieeeee...❤
+あーあ、こんなに出しちゃってみっともない。谷間がべとべと。,Ahh; cumming like that is so pathetic. My cleavage is all sticky now.
+気持ちよさそうな顔しちゃって、恥ずかしくないの？\nこの間といい、わたしの谷間でオナニーするの癖になっちゃったみたいね。\n変態雑魚マスターくん❤,Aren't you embarrassed to make a face like that? Seems you're developing a habit of masturbating to my breasts; just like the other day. You perverted cardmaster~❤
+頑張れば勝つこともある相手に、カッコ悪い負け方しちゃったわね。\nふふふ、そんなんじゃもうわたしには勝てないかもよ？,Even if you were trying your hardest to win; that's such a pathetic way to lose; you know? Hehe; I don't think you can win against me anymore after that.
+初心者のうちからこんな調子じゃ、\nあなた上のランクになんていけないわよ。くすくす❤,If you're already like this as a beginner; I don't think you'll ever be able to climb to a higher rank. *Giggle*❤
+あら？オナニー始めちゃうわけ？\nF級カードマスターのしもべは、しょせんF級の理性しかないのね。,Oh? You're masturbating now? It's no wonder the subordinate of an F-rank cardmaster would also have F-rank self-control.❤
+戦いの最中でも、敵マスターのおっぱいとかおへそでムラムラしちゃう\nよわーい理性❤これぐらいで我慢できなくなるなんて、なさけなーい❤,We're in the middle of a battle; and yet you're getting turned on from your opponent's boobs and navel. What weak self-control~❤ To think you can't even handle this much. Pathetic~❤
+ふふ、馬鹿にされて興奮しちゃってるの？\n服を少しずつめくって露出を増やしてあげる。ほら…。,Heh; are you getting even harder from getting ridiculed? Here; I'll expose my body even more...
+わたしの下乳見えるでしょ？\nむにゅむにゅで柔らかそうで、エッチな谷間❤,You're looking at my underboobs; right? It's so soft and squishy. It's such lewd cleavage; isn't it?❤
+このおっぱいにチンコ入れたいなぁとか妄想しちゃってるんでしょ？\n好きなだけシコって、さっさと負けちゃいなさい。,Are you fantasizing about your dick entering my boobs? You can keep fantasizing all you want; so just keep jerking off and lose.
+敵マスターのエッチな谷間で自爆オナニー。\n雑魚モンスターにはお似合いの負け方よ。くすくす…❤,Throwing the battle by masturbating to your opponent's cleavage. You really are a small fry monster to lose like that. *Giggle*...❤
+あ、ああっ…❤,Ah; ahh...❤
+あらあら、こんなに出しちゃって、よっぽど気持ちよかったのかしら。\nエナジーで服がべとべと❤,Oh; was it really that pleasurable? My clothes are now all sticky from your energy.❤
+敵のマスターを回復させるなんて、ダメなしもべね。\nふふ、他の子もわたしの体でオナニーして、ダメな子になっちゃう？,Letting your master's opponent recover. What a useless subordinate. Hehe; is anyone else going to masturbate to my body and turn themselves useless?
+あら？あなたもオナニー始めちゃうわけ？しもべと同じでF級カードマスターくんは、理性も雑魚なのね。くすくす。,Oh? You're also masturbating now? No wonder the subordinate of an F-rank cardmaster would also have such weak self-control.❤ *giggle*
+この間はわたしに勝てたのに、今度は自爆してシコシコ❤ もしかして前のバトルのときから、わたしでオナニーしたいなぁとか思ってたの？この変態❤,Even though you won last time; this time you masturbated right away and threw the battle. Could it be that you just wanted to masturbate to me since last time? You pervert~❤
+戦いの最中なのに、わたしのおっぱいとかおへそを見て、ムラムラしちゃったんだ。これぐらいで我慢できなくなるなんて、なさけなーい❤,We're in the middle of a battle; and yet you're getting turned on from your opponent's boobs. Not being able to handle this much is so pathetic～❤
+馬鹿にされて興奮して変態じゃない。あなたもわたしのおっぱい見たいの？ほら、服を少しずつめくって露出を増やしてあげる。,Aren't you one of those perverts that gets even harder from getting ridiculed? And you also want to see my boobs; right? Here; I'll expose my body even more...
+わたしの下乳見えるでしょ？むにゅむにゅで柔らかそうで、エッチなおっぱい…❤,You're looking at my underboobs; right? It's so soft and squishy; it's such lewd cleavage; isn't it?❤
+このおっぱいにチンコ入れたいなぁとか妄想しちゃってんでしょ？いいわよ。好きなだけシコって、あなたもさっさと負けちゃいなさい。,Are you fantasizing about your dick entering my boobs? That's fine. You; too; can keep fantasizing all you want. Just keep jerking off and lose.
+しもべともども、敵のマスターのエッチな姿で自爆オナニー。F級マスターにはお似合いの負け方よ。くすくす…❤,Subordinates are just like their master. Throwing the battle by masturbating to your opponent's body. What a fitting way of losing for an F-rank. *Giggle*...❤
+気持ちよさそうな顔しちゃって、恥ずかしくないの？この間といい、わたしの谷間でオナニーするの癖になっちゃったみたいね。変態雑魚マスターくん❤,Aren't you embarrassed to make a face like that? Seems you're developing a habit of masturbating to my breasts; just like the other day. You perverted cardmaster~❤
+頑張れば勝つこともある相手に、カッコ悪い負け方しちゃったわね。ふふふ、そんなんじゃもうわたしには勝てないかもよ？,Even if you were trying your hardest to win; that's such a pathetic way to lose; you know? Hehe; I don't think you can win against me anymore after that.
+初心者のうちからこんな調子じゃ、あなた上のランクになんていけないわよ。くすくす❤,If you're already like this as a beginner; I don't think you'll ever be able to climb to a higher rank. *Giggle*❤
+あら？あなたもオナニー始めちゃうわけ？ボクもオナニーしたいよぉって我慢できなくなっちゃたんだ。くすくす❤,Oh? You're also masturbating now? So you also couldn't hold yourself back from masturbating to me.❤ *Giggle*
+戦いの最中でも、敵マスターのおっぱいとかおへそでムラムラしちゃう、よわーい理性。これぐらいでシコシコ止まらなくなっちゃうなんて、なさけなーい❤,We're in the middle of a battle; and yet you're getting turned on from your opponent's boobs and navel. What weak self-control~ Just this much and you can't stop yourself from masturbating. So pathetic~❤
+あは、馬鹿にされて興奮しちゃってるじゃない。あなたもわたしのおっぱい見たくてこっちに来たんでしょ？,Aha; are you getting even harder from getting ridiculed? You also came here because you wanted to see my boobs; right?
+ならほら、服を少しずつめくって露出を増やしてあげる。わたしの下乳見ていいわよ。むにゅむにゅで柔らかそうで、エッチな谷間…❤,Then here; I'll expose my body even more. It's fine to look at my underboobs. It's so soft and squishy; it's such lewd cleavage...❤
+このおっぱいにチンコ入れたいなぁとか妄想しなさい。妄想のパイズリで好きなだけシコって、さっさと負けるのよ。,Go ahead and fantasize about your dick entering my boobs. Keep fantasizing about getting a titjob all you want and lose to me.
+敵のマスターのエッチな姿で自爆オナニー。雑魚モンスターにはお似合いの負け方でしょ。くすくす…❤,Throwing the battle by masturbating to your opponent's body. What a fitting way of losing for a small fry monster. *Giggle*...❤
+あらあら、こんなに出しちゃって、よっぽど気持ちよかったのかしら。エナジーで谷間がべとべと。,Oh; was it really that pleasurable? My cleavage is all sticky from your energy.
+敵のマスターを回復させるなんて、ダメなしもべね。ふふ、他の子もわたしの体でオナニーして、ダメな子になっちゃう？,Letting your master's opponent recover You're just a useless subordinate. Hehe; is anyone else going to masturbate to my body and turn themselves useless?
+はい、わたしの勝ち❤オナニーでおっぱいに射精するの気持ちよかった？,Yep; looks like I won~❤ Are you satisfied cumming to my boobs?
+ほら、見てよ。手がどろどろ。\nわたしの手にあっけなく負けちゃったね、F級マスターくん❤,Look; my hand's all dirty now. You lost so easily against these hands; F-rank cardmaster~❤
+ほら、見てよ。手がどろどろ。\nわたしの手にあっけなく負けちゃったね、E級マスターくん❤,Look; my hand's all dirty now. You lost so easily against these hands; E-rank cardmaster~❤
+ほら、見てよ。手がどろどろ。\nわたしの手にあっけなく負けちゃったね、{主人公}❤,Look; my hand's all dirty now. You lost so easily against these hands; {主人公}~❤
+あは、なに？投げキッスされただけでイっちゃったの？\nうぶすぎでしょ。ぷぷぷ❤,Aha; what? You came from just blown kisses alone? You're way too innocent. Pfft~❤
+んふふ、パイズリ気持ちよかった？\nF級くんのチンコ、おっぱいに負けちゃったねー❤,Hehe; is my titjob that good? F-rank cardmaster's dick is gonna lose to my boobs~❤
+んふふ、パイズリ気持ちよかった？\nE級くんのチンコ、おっぱいに負けちゃったねー❤,Hehe; is my titjob that good? E-rank cardmaster's dick is gonna lose to my boobs~❤
+んふふ、パイズリ気持ちよかった？\n{主人公}のチンコ、おっぱいに負けちゃったねー❤,Hehe; is my titjob that good? {主人公}'s dick is gonna lose to my boobs~❤
+F級くん,F-rank
+E級くん,E-rank
+あなた,You
+勝負に負け動けなくなった僕は、エルルさんの前で膝をついていた。エルルさんはそんな様子の僕を見下ろしニタニタと笑っている。,As I lost the battle and was left unable to move; I was on my knees in front of Eruru. She smirked as she looked down at my state from above.
+勝負に負け動けなくなった僕は、エルルの前で膝をついていた。エルルはそんな様子の僕を見下ろしニタニタと笑っている。,As I lost the battle and was left unable to move; I was on my knees in front of Eruru. She smirked as she looked down at my state from above.
+ふふふ。やっぱりわたしの方が強かったわね。F級じゃあ仕方ないかもだけど、ただの人間に気持ちよくされて情けなく射精…❤,Hehehe. As expected; I'm stronger. You're only F-rank so it couldn't be helped that you'd feel good and cum shamefully from an ordinary human...❤
+ふふふ。やっぱりわたしの方が強かったわね。E級じゃあ仕方ないかもだけど、ただの人間に気持ちよくされて情けなく射精…❤,Hehehe. As expected; I'm stronger. You're only E-rank so it couldn't be helped that you'd feel good and cum shamefully from an ordinary human...❤
+ふふふ。やっぱりわたしの方が強かったわね。\nサキュバスに勝てる実力だってあるはずなのに、\nただの人間に気持ちよくされて情けなく射精…❤,Hehehe. As expected; I'm stronger. Even though you're strong enough to beat a succubus; you still came so shamefully from an ordinary human...❤
+とってもみっともないと思うわ。くすくす❤,I find that so pathetic. *Giggle*
+そうだ。あなたが少しは我慢できるように、わたしが稽古つけてあげましょうか。,Oh right; what about training with me so you can control yourself better?
+稽古…？,Train...?
+そう、稽古❤わたしの体を使って{&呼び方}を気持ちよくしてあげるの。きみはそれを頑張って我慢するってわけ。,That's right; "train"❤ I'll make {&呼び方} feel good using my body; and you'll do your best enduring it.
+例えばこの手を使っておちんちんを…。,For example; if I use my hand on your dick...
+そういうと彼女は指先でペニスをつーっと撫で上げた。ゾクゾクとした快感が体を走り、僕は思わず体をビクンと震わせてしまう。,As she says that; she moveed her fingertips to my dick and started stroking it. A thrilling feeling ran through me and I reflexively trembled from it.
+こんな風にかわいがってあげようかなーってね。手袋でなでられて、けっこう気持ちいいでしょ？,I'll make you feel good just like that. Being stroked with my gloves feels good; doesn't it?
+{&呼び方}が望むなら、いまからシコシコしてあげて、我慢の練習、させてあげる。どうする？やってみる？,If {&呼び方} wants it; I'll start the self-control training. So? Wanna do it?
+ううっ…、それは…❤,Ugh... That's...❤
+ただし、有料だからね。手でしてほしいなら1回{$cost}ゴールド❤,But there's a fee. If you want to do it with my hand; it'll cost you {$cost} gold~❤
+わたしに気持ちいい特訓してもらえるんだから、お金を払うのは当然よね？ふふ、さあ早く決めなさい？,You're getting a fun training session with me; so obviously you should pay for it. Fufu; come. Decide quickly.
+格上の相手に気持ちいい特訓してもらえるんだから、お金を払うのは当然よね？ふふ、さあ早く決めなさい？,You're geting a fun training session with a higher rank; so obviously you should pay for it. Fufu; come. Decide quickly.
+エルルは手で筒を作ると意味ありげに上下に動かして僕に見せつけてくる。さっき射精させられたばかりだというのに目を逸らすことができない…,Eruru makes a tube shape with her hand and showed it going up and down suggestively. I couldn't look away even though I just came earlier...
+僕は・・・・。,I...
+手でしてほしいとお願いした,Ask her to do it with her hand
+特訓を断った,Refuse the special training
+あらそう。残念。,Is that so? Too bad.
+せっかくこの雑魚なチンポ、鍛えてあげようと思ったのになぁ…❤,I thought for sure I'd train this weakling of a dick...❤
+エルルはそう言うと勃起したペニスに狙いを定め、指でその先端をわしゃわしゃと弄んできた。,As Eruru said that; she aimed at my erect penis and used her fingers on the tip of my penis; toying with it vigorously.
+ひあっ❤ああっ❤❤❤,Hyaa❤❤❤ Ahhh❤❤❤
+あはは、弱っちくてかわいい❤,Ahaha; you're adorably weak.❤
+ま、{&呼び方}は{&呼び方}らしく、せいぜい頑張りなさい。じゃあねー。,Well; {&呼び方} can just stay like that. Do your best. Bye~
+あううっ・・・・❤,Auuuu...❤
+主人公はエルルの手コキに弱くなってしまった…,The protagonist became weaker to Eruru's handjob...
+あは、これぐらいの誘惑でお金払っちゃうんだ。すなおー❤,Aha; you're paying even with just that much seduction. What an honest boy~❤
+って、{&呼び方}{$cost}G持っていないじゃん。,That said; you don't have {&呼び方}{$cost}G.
+はぁ、それで「手で気持ちよくしてほしい」とか都合よすぎ。,Haah; and yet you're all "I want to get pleasured from your hand".
+わたしの手で気持ちよくしてもらいたいなら…。,If you want to get pleasured by my hand that much...
+エルルはそう言うとペニスの先端を指先でわしゃわしゃと弄んできた。,Eruru used her fingers on the tip of my penis and toyed with it vigorously.
+はい、ここでおしまい。続きはちゃんとお金を持ってくること。いいわね？ふふふ…。,Yep; I'll stop there. If you want me to continue; make sure you bring enough money next time. Okay? Fufu...
+はひぃっ・・・・❤,Yeshh...❤
+それじゃお金ももらったことだし、"特訓"してあげる。,I got the money so I'll give you your "special training".
+さっきから握ってほしそうにビクビクしているチンコ、この手でぎゅって握って…。,Your dick that has been twitching since earlier will be squeezed by these hands...
+シコシコスタート❤,Special training start!❤
+あっ…❤ああっ…❤,Ah...❤ Aahhh...❤
+んふふ、ゆっくりな手コキなのにずいぶん気持ちよさそうね。,Fufu; I'm still moving slowly; yet you're already looking so satisfied.
+女モンスターにエッチなことされたことはあっても、普通の女の子に手コキしてもらったことなんてあんまりないでしょ？,Even if you've gotten a handjob from a monster girl before; you've probably never had a normal girl do this to you; right?
+精液には魔力がたっぷり溶けだしているから、男のカードマスターと戦う時にはエッチな技は効果抜群❤だから、みんなけっこう練習するのよ。,Semen has a lot of magical power mixed into it; so lewd techniques are very effective for fighting male cardmasters.❤ That's why all the female cardmasters practice it.
+基本テクとして、手のひらにゆるーく魔力をまとわせながら、軽くシコシコ❤これだけで男の子は悲鳴をあげちゃう。,The basic technique is to coat the palm of my hand with magical power.❤ Even just this alone will already make boys scream.
+悲鳴っていうか喜びの声かな？勝負に負けそうになっているのに、うれしいよぉ、気持ちいいよぉって声をあげてよがっちゃうの。,But those screams are just screams of pleasure; aren't they? Even though they lost the fight; they all start saying "it feels so good".
+あなたもそうよね？お金出してまでシコシコしてほしいって思っちゃったんだもんね？,You're just the same; aren't you? You even paid me because you wanted your dick to get squeezed; didn't you?
+あうっ…❤それはぁ…❤,Auu... ❤ That's not...❤
+別に言い訳しなくてもいいのよ。言い訳されても面倒くさいだけだし。,It's fine; you don't have to make excuses. It's just a bother.
+さっさとチンコしこられて、お金を貢いでくれればそれでオッケー。,You'll happily present money just to get your dick squeezed.
+ほら、もう金玉がきゅってなって、限界が来てる。射精しちゃうんでしょ？ゆるい手コキに負けてあっという間に敗北しちゃう。,Look; you're at your limit already. Are you going to cum? You're going to lose and surrender to this slow handjob.
+男ってそういうものよ。くすくす❤,Boys are just like that. *Giggle*❤
+ねえ、どうする？我慢するための特訓なんだし、ここで手コキストップしてあげてもいいわよ。お願いするなら、やめてあげる。,Say; what do you want to do? This special training is to help you control yourself; so if you ask me to stop then I'll stop.
+{&呼び方}はこれからの戦いのために、気持ちいいのを我慢しないといけないんでしょ？ほら早く言いなさい？,Wasn't this originally for {&呼び方} to control himself better for the upcoming battles? Come on; tell me what you want?
+あっ…❤ううっ…❤手コキを、やめ…❤,Ah...❤ Ugh...❤ Please sto-...❤
+はーい、ここでスピードアップ❤,Alright; I'll speed up~❤
+あっ❤ああっ❤❤❤だめ、これっ、あああっ…❤,Ah❤ Ahhhh❤❤❤ No more; ahhhhhhh...❤
+あはは、口で"ストップ"も言えないなんてなさけなーい❤,Ahaha; your mouth can't even say "stop". So pathetic~❤
+この程度の快感でしゃべれなくなるようじゃ、特訓したって意味ないわね。,There's no point in getting a special training when you can't even speak from just this level of pleasure.
+{&呼び方}、もういいわよ。ここからは快感に身を任せても。,That's enough; {&呼び方}. Just surrender yourself to pleasure from now on.
+もう特訓は終わり。あとはわたしの手で気持ちよくなることだけ考えるの…❤,The special training is now over. So you can just focus on feeling good from my hands...❤
+さあ、腰を突き出して。一番気持ちいい格好でわたしにシコられなさい。そしてみっともなく射精する…❤,Now; stick your hips out. I'll give you the best pleasure with my hands. And you'll pathetically cum...❤
+ほら、ほら、ほら…❤カリ首をしごいて、とどめをさしてあげる。,Look...❤ I'll stroke the glans and finish you off right away.
+思いっきり腰へこらせて、みじめに射精しろ。低級マスター❤,Stick your hips out and ejaculate miserably; you low-rank master~❤
+あうっ❤ああっ❤❤❤,Auu❤ Aahhh❤❤❤
+あは、こんなに手袋をべとべとにしちゃって出し過ぎよ。よいっしょと…。,Ahaha; you came so much you made my gloves all sticky. There...
+はい、魔法で元通り。精液をエナジーに変えられない一般人なら、服に射精されると洗濯するのもけっこう大変なのよ？,And now it's back to normal with magic. If you're a normal person who couldn't turn semen into energy; it sure would be troublesome to clean your outfit; wouldn't you agree?
+って、そんなアヘ顔じゃ、わたしの言葉なんて聞こえないか。,What's with that satisfied face; did you not hear what I was just saying?
+手コキされただけで蕩け顔しちゃって、ほんと{ランク名}級ってよわいわ。くすくす❤,Such a face just from getting a handjob. You really are {ランク名}-rank. So weak~❤ *Giggle*
+手コキされただけで蕩け顔しちゃって、{ランク名}級になってもまだまだよわいままなのね。くすくす❤,Such a face just from getting a handjob; you're still so weak despite being a {ランク名}-rank. *Giggle*❤
+まあそれなりに高いお金くれたし、もうちょい搾ってあげるわ。ここからはサービスよ。,Well; you gave me a lot of money; so I'll squeeze out some more. Consider these your extra service.
+あっ❤いま敏感でっ❤ひああっ❤,Ahh~❤ I'm still sensitive~❤ Hyaah~❤
+敏感な方が気持ちいいでしょ？ほらほらほら…❤,It's even better that you're sensitive; no? Look...❤
+冒険をあきらめますか？,Give up on the adventure?
+エルルに特訓をつけてもらった僕は、彼女の与える快感が忘れられなくなっていた。,After receiving special training from Eruru; I couldn't forget how pleasurable it was...
+彼女に何回戦いを挑んでも、空中で軽く手コキのまねをされるだけで腰砕けになってしまい、もうカードを召喚するどころではない状態にさせられてしまった。,No matter how many times I tried fighting her; my hips would give out immediately from the sight of her hand mimicking a handjob in the air and I couldn't even summon a card against her.
