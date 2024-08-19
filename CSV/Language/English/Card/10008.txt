@@ -1,8 +1,8 @@
 default
 メルティスライム,Melty Slime
 EU8_handJobAnime,
-[1]自分ターン終了時に発動する。自分の墓地のスライムタイプモンスターの数×40ポイントHPを回復する。,
-体は小さいが、男性を搾り取ることに特化した肉体を持つ。手を筒状の搾精器官に変形させることができ、その手が与えてくる快楽ははかり知れない。,
+[1]自分ターン終了時に発動する。自分の墓地のスライムタイプモンスターの数×40ポイントHPを回復する。,[1]. At the end of your turn; you may activate this card to restore HP = 40 x X (X = the number of Slime type monsters in your graveyard.)
+体は小さいが、男性を搾り取ることに特化した肉体を持つ。手を筒状の搾精器官に変形させることができ、その手が与えてくる快楽ははかり知れない。,Though her body is small; her slime is specially made to milk men. She is able to transform her hand into a semen squeezing apparatus; which is known to feel unfathomably pleasurable.
 ふふ、マスターのキスで魅了されて、もう身動き取れないみたいね❤, Hehe; It looks like you can't move anymore after being charmed by my master's kiss.❤️
 そんな状態で上級モンスターであるわたしの攻撃に耐えられるのかしら❤,I wonder if you'll be able to endure attacks from an advanced monster like me in your current state~❤️
 このスライムハンドでチンポを全部包み込んで、\n何回も上下に動かしてあげれば・・・❤きっと瞬殺よね。ほら・・・♪,If I wrap your entire penis with this slime hand; and move it up and down repeatedly...❤ It'll surely be an instant defeat. Look...♪
