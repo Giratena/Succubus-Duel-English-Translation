@@ -16,9 +16,25 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 
 # Special Translation information
 ## General
+### Punctuation
 - Any ❤, must be prefixed with puncuation. Eg: ".❤", "!❤", "?❤", "~❤", or "...❤" 
 - Any "," must be replaced with ";". This is because the scripts are comma-delimited CSVs. They will render as "," in game.
 - Don't use "…". Use "..."!
+### Japanese SFX
+Japanese words often have lots of sfx. The Japanese language is great with sfx but not so much for English! So you'll want to substitute with an adjective fulled English description instead if nesscisary.
+
+DO:
+> "ほら、さわさわ❤さわさわ・・・❤" -\> "See how I'm gently brushing my fingers over your nipples?\~❤"
+
+DON'T: 
+> "ほら、さわさわ❤さわさわ・・・❤" -\> "Look; brush~❤ brush...❤"
+### Japanese laughter
+Retain any laughter as follows while preserving the nuanced Japanese:
+> You can add an "!" or "~" after it if it feels appropriate!
+- うふふ -> Ufufu
+- くすくす -> "\*Giggle\*", "Hehe", "Teehee", "Kuhuhu", or "\*snicker\*"
+- あは -> Aha
+- あはは -> Ahaha
 
 ## Card terminology
 - The elements a card can be (EG: Water, Fire Dark etc) is called "Attribute"
@@ -27,7 +43,6 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 - Removing a card from the game is called "banishing" a card.
 - The discard pile is called the "Graveyard". This word should be capitalized.
 - Statuses are labeled as [Status Name (X)] where X is the effect number if any.
-
 
 ## Translating Enemy Cards:
 Some cards don't have all the text available to translate (such as card descriptions) but they can be translated through the following:

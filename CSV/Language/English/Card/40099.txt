@@ -1,3 +1,3 @@
 default
 瞑想,Meditation
-[1].自分ターン終了時に発動する。自分のLPを400回復する。この効果が3回発動したとき、このカードは自壊する。\n[2].このカードが破壊され墓地へ送られたとき発動する。プレイヤーの攻撃力を400ポイントアップする。,[1]. Activate at the end of your turn: Recover 400 LP. (When this effect has been activated three times; destroy this card.)\n[2]. When this card is destroyed and sent to the Graveyard: Increase player's attack power by 400 points.
+[1].自分ターン終了時に発動する。自分のLPを400回復する。この効果が3回発動したとき、このカードは自壊する。\n[2].このカードが破壊され墓地へ送られたとき発動する。プレイヤーの攻撃力を400ポイントアップする。,[1]. At the end of your turn: You recover 400 LP. (When this effect has been activated three times: destroy this card.)\n[2]. When this card is destroyed and sent to the Graveyard: You gain 400 ATK.

@@ -1,3 +1,3 @@
 default
 ライトニング,Lightning
-相手フィールド上のすべてのモンスターに500ポイントのダメージを与える。,Deals 500 points of damage to all monsters on your opponent's side of the field.
+相手フィールド上のすべてのモンスターに500ポイントのダメージを与える。,Deal 500 damage to all monsters your opponent controls.
