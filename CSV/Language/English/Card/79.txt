@@ -1,3 +1,3 @@
 default
 奇術師,Magician
-[1].このカードが通常召喚に成功したとき発動できる。お互いに手札をランダムに3枚捨て、捨てた枚数と同じ枚数だけデッキからドローする。\n[2].１ターンに１度、自分が魔法カードを発動したとき、LPを800払って発動できる。デッキからランダムにトラップカードを1枚手札に加える。,[1]. When this card is normal summoned; you may have each player discard 3 random cards from their hand; and then draw the same number of cards back.\n[2]. Once per turn; after you activate a magic card you may pay 800 LP. If you do so; add one random trap card from the deck to your hand.
+[1].このカードが通常召喚に成功したとき発動できる。お互いに手札をランダムに3枚捨て、捨てた枚数と同じ枚数だけデッキからドローする。\n[2].１ターンに１度、自分が魔法カードを発動したとき、LPを800払って発動できる。デッキからランダムにトラップカードを1枚手札に加える。,[1]. When this card is normal summoned; you may have each player discard 3 random cards from their hand; and then draw the same number of cards back.\n[2]. Once per turn; after you activate a Spell Card you may pay 800 LP. If you do so; add one random trap card from the deck to your hand.

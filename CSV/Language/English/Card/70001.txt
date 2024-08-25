@@ -1,49 +1,50 @@
 default
 師匠,Master
-　主人公の師匠。Bランクの実力派。主に戦士系のカードを使い、特にサムライモンスターを好んで使う。\n　孤児になった主人公を拾い、小さいころから育ててきた。拾ったときは自身もまだ10代で、子供の育て方などまったく分からない中、まっすぐに育つように努力してきた。カードの使い方だけではなく、文字の読み書きなども教え、主人公にとっては師匠であると同時に年の離れた姉のような存在である。\n　全体的に運動神経がよく、性的なことも上手い。また魔力の扱いが卓越しているので彼女の魅了魔法を受けると実力のあるカードマスターであっても一瞬で思考能力を奪われ、恍惚感に茫然とすることしかできなくなるという。, test
-主人公の見た目を選択してください。,
-主人公の見た目が決定されました。この内容はいつでもオプションで変更できます。,
-僕はこの村でカードの修行をしていた。,
-師匠のもと、毎日バトルに明け暮れる日々...,
-これまで大変な思いは何回もしたけれど、,
-今日はついに、町へ行くための試験の日だった！,
-よおし、それじゃどれぐらいうまくカードが使えるようになったか、見てあげる。,
-わたしのこの練習デッキに勝てれば、町に行ってもオッケー。弱いままで外に出たら、モンスターに襲われるかもしれないからね。,
-わたしに勝てるぐらいの実力を見せてみて。いくよ！,
-その意気や良し。さあ始めるよ！,
-今回はわたしが先攻ね。ドロー！,
-チュートリアル１：ドロー,
-プレイヤーのゲーム開始時の手札は５枚です。自分のターンが来るたびに、山札からカードを１枚引きます。山札からカードを引くことを「ドロー」といいます。,
+主人公の師匠。Bランクの実力派。主に戦士系のカードを使うがそれ以外の魔獣モンスターも巧みに操る。,The protagonist's master. A skilled B-rank card master who primarily uses warrior-type cards but is also adept at controlling other beast monsters as well.
+主人公の見た目を選択してください。,Please select the appearance of the main character.
+主人公の見た目が決定されました。この内容はいつでもオプションで変更できます。,The player's appearance has been set. You can change this at any time in the options.
+僕はこの村でカードの修行をしていた。,For many years; I've been in this village training in the art of cards.
+師匠のもと、毎日バトルに明け暮れる日々...,Under the guidance of my master; I've been battling day after day...
+これまで大変な思いは何回もしたけれど、,I've undergone countless ordeals under her tutelage...
+今日はついに、町へ行くための試験の日だった！,But today is finally the day I can take the exam that will let me visit other cities!
+よおし、それじゃどれぐらいうまくカードが使えるようになったか、見てあげる。,Alright! Very well then. Let's see just how well you've learned to use your cards.
+わたしのこの練習デッキに勝てれば、町に行ってもオッケー。弱いままで外に出たら、モンスターに襲われるかもしれないからね。,You might get attacked by monsters upon leaving this village if you aren't strong enough. But if you can beat my practice deck; then I don't have any problems letting you go to the big city! 
+わたしに勝てるぐらいの実力を見せてみて。いくよ！,Show me what you can do by beating me. Here we go!
+負けないぞ！,I won't lose!
+絶対勝ってやる！,I'll win no matter what!
+その意気や良し。さあ始めるよ！,That's the spirit! Now then; let's get started!
+今回はわたしが先攻ね。ドロー！,I'll go first this time. Draw!
+チュートリアル１：ドロー,Tutorial 1: The Draw Phase
+プレイヤーのゲーム開始時の手札は５枚です。自分のターンが来るたびに、山札からカードを１枚引きます。山札からカードを引くことを「ドロー」といいます。,Each player starts the game with 5 cards in their hand. At the start of your turn; you add 1 card to your hand. This is called the "Draw Phase".
 {使用カード}を上級召喚！,I advance summon {使用カード}!
 {使用カード}を召喚！,I summon {使用カード}!
-チュートリアル２：召喚,
-プレイヤーは手札から１ターンに１度だけモンスターを召喚することができます。場に出したモンスターはHPがゼロになると破壊され墓地へ送られます。レベルが５以上のモンスターは場のモンスターをコストに支払わないと召喚することができません（レベルが５～６の場合１体、レベルが７以上の場合２体）。,
-チュートリアル３：攻撃,
-召喚したモンスターは相手に攻撃することができます。ただし先攻１ターン目のプレイヤーは攻撃することができません。,
-チュートリアル６：勝利条件,
-先に相手のライフポイント(LP)をゼロにした方が勝者です。ライフを減らすためには相手プレイヤーに攻撃をする必要があります。ただし場に相手のモンスターがいる場合は、相手プレイヤーに直接攻撃できないので、先にモンスターを倒さなければなりません。,
-,
-このゲームではプレイヤー自身も相手に攻撃を行うことができます。プレイヤーの攻撃力は比較的高いので、積極的に攻撃をしかけていくことが重要です。,
-それでは実際に自分のカードを操作して、デュエルに勝利してみましょう。,
-{使用カード}の効果発動！手札からレベル３以下のモンスター１体を特殊召喚！,
-{使用カード}のモンスター効果発動！攻撃力が500ポイントアップ！,
-魔法カード発動！{使用カード}！自分のモンスターに１回きりのバリアを付与するわ。,
-{使用カード}を発動し、敵から身を守る盾を味方に付与！,
-魔法カード発動！{使用カード}！相手表側モンスター全体に500ダメージ！,
-しびれなさい！{使用カード}発動！,
-もう一発いくわ。{使用カード}発動！,
-魔法カード発動！{使用カード}！デッキから地属性のモンスターをランダムに手札に加えるわ。,
-毒をくらいなさい。魔法カード発動！{使用カード}！,
-魔法カード発動！{使用カード}！,
-トラップカード発動！{使用カード}！,
-チュートリアル４：魔法,
-緑色の枠のカードは「魔法カード」です。１ターンに何枚でも使うことができます。効果はカードによりさまざまです。,
-チュートリアル５：トラップ,
-赤色の枠のカードは「罠カード」です。自分の場に伏せた次のターンから使うことができます。条件を満たせば相手ターンでも発動できます。,
-カードをセット。,
-カードを伏せるわ。,
-バトルよ！{使用カード}で{防御カード}を攻撃！,
-ターン終了よ。,
-ターンエンド。,
-わたしのターンはおしまい。ターンエンド。,
-攻撃を無効にするトラップね。うまく使えているじゃない。,
+チュートリアル２：召喚,Tutorial 2: Normal Summoning
+プレイヤーは手札から１ターンに１度だけモンスターを召喚することができます。場に出したモンスターはHPがゼロになると破壊され墓地へ送られます。レベルが５以上のモンスターは場のモンスターをコストに支払わないと召喚することができません（レベルが５～６の場合１体、レベルが７以上の場合２体）。,Players may normal summon 1 monster each turn from their hands. A monster is destroyed and sent to the Graveyard when their HP reaches 0. Monsters with a Level of 5 or more require monsters to be tributed from the field to be played. (1 monster for a Level 5-6 monster, 2 monsters for a 7+).
+チュートリアル３：攻撃,Tutorial 3: Attacking
+召喚したモンスターは相手に攻撃することができます。ただし先攻１ターン目のプレイヤーは攻撃することができません。, Summoned monsters can be used to attack opponents. However; the player who gets to go first in a match may not attack until their second turn.
+チュートリアル６：勝利条件,Tutorial 6: Win Conditions
+先に相手のライフポイント(LP)をゼロにした方が勝者です。ライフを減らすためには相手プレイヤーに攻撃をする必要があります。ただし場に相手のモンスターがいる場合は、相手プレイヤーに直接攻撃できないので、先にモンスターを倒さなければなりません。,A player wins when they reduce their opponent's LP to 0. However; as long as a player has one or more monsters on the field they may not be attacked directly. Players are unable to directly attack their opponent as long as they have one.
+このゲームではプレイヤー自身も相手に攻撃を行うことができます。プレイヤーの攻撃力は比較的高いので、積極的に攻撃をしかけていくことが重要です。,In this game; players may attack their opponents directly. The attack power of the player is comparatively higher; so attacking aggressively is key.
+それでは実際に自分のカードを操作して、デュエルに勝利してみましょう。,Now; make use of your cards to win the duel!
+{使用カード}の効果発動！手札からレベル３以下のモンスター１体を特殊召喚！,{使用カード}'s effect has been activated! I can special summon 1 monster of level 3 or lower from my hand to the field!
+{使用カード}のモンスター効果発動！攻撃力が500ポイントアップ！,{使用カード}'s monster effect has been activated! Atk has increased by 500!
+魔法カード発動！{使用カード}！自分のモンスターに１回きりのバリアを付与するわ。,I activate my spell card {使用カード}! I can give my monster a 1 time barrier!    
+{使用カード}を発動し、敵から身を守る盾を味方に付与！,I use {使用カード} to create a barrier that protects my monster from your attacks!         
+魔法カード発動！{使用カード}！相手表側モンスター全体に500ダメージ！,I activate my spell card {使用カード}! It deals 500 damage to all your face up monsters!
+しびれなさい！{使用カード}発動！,Become numb! {使用カード} activate! 
+もう一発いくわ。{使用カード}発動！,Let's do that again! {使用カード} activate!  
+魔法カード発動！{使用カード}！デッキから地属性のモンスターをランダムに手札に加えるわ。,I activate the spell card {使用カード}! It randomly adds one Earth Attribute monster from my deck to my hand.
+毒をくらいなさい。魔法カード発動！{使用カード}!,Succumb to poison! {使用カード} activate!    
+魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
+トラップカード発動！{使用カード}！,Trap card activate! {使用カード}!
+チュートリアル４：魔法,Tutorial 4: Spell Cards
+緑色の枠のカードは「魔法カード」です。１ターンに何枚でも使うことができます。効果はカードによりさまざまです。, Spell cards have a green frame. You may use as many of these cards in a turn as you want. Each card will state what it does.
+チュートリアル５：トラップ,Tutorial 5: Trap Cards
+赤色の枠のカードは「罠カード」です。自分の場に伏せた次のターンから使うことができます。条件を満たせば相手ターンでも発動できます。,Cards with a red frame are traps. You must place them face down and wait 1 turn before activating them. Depending on their activation conditions; some traps can also be used on your opponent's turn.
+カードをセット。,Card set.
+カードを伏せるわ。,I'll set this card face down.
+バトルよ！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
+ターン終了よ。, I end my turn.
+ターンエンド。,End turn.
+わたしのターンはおしまい。ターンエンド。,End turn.
+攻撃を無効にするトラップね。うまく使えているじゃない。,A trap that negates attacks huh? Aren't you using your cards well!

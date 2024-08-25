@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Cannoner
-&効果テキスト,[1]. Discard one Magic Card from your hand to activate this effect: Destroy one random Magic/Trap Card your opponent controls.
+&効果テキスト,[1]. Discard one Spell Card from your hand to activate this effect: Destroy one random Magic/Trap Card your opponent controls.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

@@ -1,23 +1,24 @@
-default
-案内好きの男性,
-せっかちな商人（チュートリアル：スキップ）,
-街の兵士,
-老婆,
-優しそうなカードマスター【!】,
-優しそうなカードマスター,
-❤かわいい女の子,
-❤マッサージ屋の女の子,
-マッサージ屋の女の子,
-モルゲン入口,
+default,
+案内好きの男性,Man who likes to show people around
+せっかちな商人（チュートリアル：スキップ）,Impatient Merchant (Tutorial: Skip)
+街の兵士,Soldier in the City
+老婆,Elderly Lady
+優しそうなカードマスター【!】,Kind Hearted Cardmaster【!】
+優しそうなカードマスター,Kind Hearted Cardmaster
+❤かわいい女の子,Cute Girl ❤
+❤マッサージ屋の女の子,Massage Parlor Girl ❤
+マッサージ屋の女の子,Massage Parlor Girl
+モルゲン入口,Morgen Entrance
 Place/MorugenEntrance,
 情報収集,Investigate
 ショップ,Shop
 デッキ編集,Deck Edit
-タイトルに戻る,
+タイトルに戻る,Back to title
 特殊オプション,Special Options
 ロード,Load
 セーブ,Save
 回想,Reminisce
+図鑑,Encyclopedia
 次のステージへ,Next Stage
 ようこそモルゲンの街へ。おや、南の方の村からここに来たのかい？,
 モルゲンより南にある集落っていうと、どれも小規模なものばかり…。\nてことは、きみはモルゲンみたいに大きい街は初めてだろう？,

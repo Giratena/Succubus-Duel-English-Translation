@@ -298,25 +298,26 @@ default
 &&コントロール奪取メッセージ,{A}のコントロールが奪われた！
 &&コントロールスワップメッセージ,{A}と{B}のコントロールが入れ替わった！
 
-&&LoseMoneyMessage,Lost {x}G.
-&&GetMoneyMessage,Obtained {x}G.
-&&AddPlayerAtkMessage.The main character's power increased by {x} points.
-&&LosePlayerAtkMessage,The main character's power decreased by {x} points.
-&&AddEXPMessage,Obtained {x} experience points.
-&&LoseEXPMessage,Lost {x} experience points.
-&&AddRankPointMessage,Obtained {x} rank points.
-&&LoseRankPointMessage,Lost {x} rank points.
-&&AddCardMessage,Obtained {A}.
-&&RobCardMessage,Lost 1 {A}.
-&&LevelUpMessage,Level increased to {レベル}!\nAttack power up {x}!\nHP up {y}!
-&&LevelDownMessage,Level decreased to {レベル}!\nAttack power down {x}!\nHP down {y}!
-&&AddWeakMessage,Player is now {x}% weaker to {A}.
-&&AddResistMessage,Player is now {x}% more resistant to {A}.
-&&InputTextOverMessage,Not enough characters (must be at least {x} characters)
-&&InputTextShortageMessage,Character limit reached (Must be within {x} characters)
-&&InputTextOKButton,Confirm
-&&SelectCardNothingMessage,There are no cards that can be selected.
-&&SelectCardShortageMessage,You do not have enough cards that can be selected.
-&&SelectCardMessage,Please select a card.
-&&CoinMessage1,The coin result is heads.
-&&CoinMessage2,The coin result is tails.
+&&LoseMoneyMessage,{x}Gを失いました
+&&GetMoneyMessage,{x}Gを手に入れました
+&&AddPlayerAtkMessage.主人公の攻撃力が{x}ポイントアップしました
+&&LosePlayerAtkMessage,主人公の攻撃力が{x}ポイントダウンしました
+&&AddEXPMessage,経験値{x}ポイントを手に入れました
+&&LoseEXPMessage,経験値{x}ポイントを失いました
+&&AddRankPointMessage,ランクポイント{x}を手に入れました
+&&LoseRankPointMessage,ランクポイント{x}を失いました
+&&AddCardMessage,{A}を手に入れました
+&&RobCardMessage,{A}を1枚奪われました
+&&LevelUpMessage,レベルが{主人公レベル}になりました\n攻撃力{x}アップ！\nHP{y}アップ！
+&&LevelDownMessage,レベルが{主人公レベル}になりました\n攻撃力{x}ダウン、\nHP{y}ダウン
+&&AddWeakMessage,主人公は{A}に対して{x}%弱くなった
+&&AddResistMessage,主人公は{A}に対して{x}%強くなった
+&&InputTextOverMessage,文字数が多すぎます({x}文字以内)
+&&InputTextShortageMessage,文字数が少なすぎます({x}文字以上)
+&&InputTextOKButton,決定
+&&SelectCardNothingMessage,選択できるカードがありません
+&&SelectCardShortageMessage,必要な数の選択できるカードがありません
+&&SelectCardMessage,カードを選択してください。
+&&CoinMessage1,コインの結果は表
+&&CoinMessage2,コインの結果は裏
+

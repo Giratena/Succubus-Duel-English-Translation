@@ -10,7 +10,7 @@ default
 Place/MorugenUnderground,
 情報収集,Investigate
 デッキ編集,Deck Edit
-タイトルに戻る,
+タイトルに戻る,Back to title
 特殊オプション,Special Options
 ロード,Load
 セーブ,Save

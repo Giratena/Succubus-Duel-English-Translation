@@ -10,6 +10,8 @@ default
     &パイズリアニメ,EU17_paizuriAnime
     &敗北音楽,Defeated_sougennotsuki_amatya.mp3
     攻撃エフェクト設定,&&セクシーエフェクト
+    &デフォルトマスター,%%70006
+    &デフォルト背景,&&街背景
 
 @戦闘
     攻撃タイプランダム変更,パイズリ,手コキ

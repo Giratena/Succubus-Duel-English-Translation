@@ -1,7 +1,7 @@
 default
 @初期設定
 &カード名,Crystal Swordsman Alva
-&効果テキスト,[1]. When you activate a [Gem] Magic Card: Increase this card's attack power by 100 x X (X = the number of [Gem] cards in the Graveyard) until the end of the turn.\n[2]. The battle damage this card inflicts to the opposing player is halved.
+&効果テキスト,[1]. When you activate a [Gem] Spell Card: Increase this card's attack power by 100 x X (X = the number of [Gem] cards in the Graveyard) until the end of the turn.\n[2]. The battle damage this card inflicts to the opposing player is halved.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

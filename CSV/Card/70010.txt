@@ -11,6 +11,8 @@ default
     &パイズリSE,paizuri_pon1.ogg
     &手コキSE,nyurrupon01.ogg
     &おっぱいSE,Oppai01.mp3
+    &デフォルトマスター,%%70010
+    &デフォルト背景,&&街背景
 
     
 @フィールドイベント     
