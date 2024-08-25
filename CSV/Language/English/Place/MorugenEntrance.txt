@@ -20,27 +20,27 @@ Place/MorugenEntrance,
 回想,Reminisce
 図鑑,Encyclopedia
 次のステージへ,Next Stage
-ようこそモルゲンの街へ。おや、南の方の村からここに来たのかい？,
-モルゲンより南にある集落っていうと、どれも小規模なものばかり…。\nてことは、きみはモルゲンみたいに大きい街は初めてだろう？,
-王都にはさすがに負けるけど、\n店は多いし歓楽街だってある。\n都会をぜひ満喫して行ってくれ。,
-カードを用いた戦いにおいて、デッキのバランスは非常に重要です。,
-上級モンスターは強力な分召喚が難しい…。\n5レベル以上ならコストが<b>1体</b>、\n7レベル以上ならコストが2体も必要になります。,
-下級モンスターを上級モンスターの2倍ほど多めに入れて、\nちょうどいいぐらいかもしれませんね。,
-知ってるかい？もうすぐこの街では祭りが始まるんだよ。,
-カードマスターたちがお互いに実力を競い合う、熱い祭りさ。\n周りを見るとカードマスターらしき人がいっぱいいるだろう？,
-10年に一度、このモルゲンの町はカードマスターで溢れかえるのさ。\nわたしにもカードの才能があれば、参加してみたいものなんだけどねぇ\nいやあ血が騒ぐよ。,
-やあ、こんにちは。\n話・・・？\nええと、長くないならいいよ。,
-いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,
-イベントのスキップについて,
-スキップ操作,
-会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,
-またタップ操作の場合は二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,
-こんにちは。わたしはBランクのカードマスター、リーズよ。,
-見たところあなたはまだ新人かな？ギルドリングをつけてないわね。,
-ほら。わたしが指にはめているこのリングがギルドリングよ。\nギルドに所属する証で同時にランクの高さも表しているの。,
-この街に来たってことは、ギルドに入るんでしょう？\nなら、これは先輩からのご祝儀よ。,
-なんていうか、あなたからは大物になりそうな気配を感じるわ。\nだから先行投資みたいなものね。,
-あなたもわたしみたいな強いカードマスターになりなさい？\nランクが上がったらぜひ戦いましょう！,
-あらどうしたの？\nもしかしてギルドへの道がわからなくて迷子になっちゃった？,
-あそこに緑の屋根の大きな建物が見えるでしょ？\nその正面を右に曲がったら、白い屋根の建物が見えるはずよ。\nそれがギルドの建物。,
-屋根の色が独特で目立つからすぐにわかると思うわ。\nふふ、なんならお姉さんが連れて行ってあげようか？,
+ようこそモルゲンの街へ。おや、南の方の村からここに来たのかい？,Welcome to the town of Morgen. Oh; did you come here from the village in the south?
+モルゲンより南にある集落っていうと、どれも小規模なものばかり…。\nてことは、きみはモルゲンみたいに大きい街は初めてだろう？,I heard the settlements south of Morgen are pretty small... So this is probably your first time in a town as big as Morgen; right?
+王都にはさすがに負けるけど、\n店は多いし歓楽街だってある。\n都会をぜひ満喫して行ってくれ。,Of course; it's no match for the Royal Capital; but we have plenty of shops and even an entertainment district. Please enjoy your time in the city.
+カードを用いた戦いにおいて、デッキのバランスは非常に重要です。,In card battles; deck balance is extremely important.
+上級モンスターは強力な分召喚が難しい…。\n5レベル以上ならコストが<b>1体</b>、\n7レベル以上ならコストが2体も必要になります。,High-level monsters can difficult to summon because of their power... If they are level 5 or above; they cost <b>1 monster</b> to summon. If they are level 7 or above; they cost 2 monsters to summon.
+下級モンスターを上級モンスターの2倍ほど多めに入れて、\nちょうどいいぐらいかもしれませんね。,So; I'd say you'd be just right to put in about twice as many low level monsters as high level monsters.
+知ってるかい？もうすぐこの街では祭りが始まるんだよ。,Did you know? There is a festival in town that will start soon.
+カードマスターたちがお互いに実力を競い合う、熱い祭りさ。\n周りを見るとカードマスターらしき人がいっぱいいるだろう？,It's a heated festival where cardmasters gather to test their skill. Look around. You can see a lot of people who look like card masters; right?
+10年に一度、このモルゲンの町はカードマスターで溢れかえるのさ。\nわたしにもカードの才能があれば、参加してみたいものなんだけどねぇ\nいやあ血が騒ぐよ。,Once every ten years; the town of Morgen floods with card masters. If I had any talent for cards; I'd love to participate. It really gets my blood pumping.
+やあ、こんにちは。\n話・・・？\nええと、長くないならいいよ。,Oh hey; hello there. You want to talk? Well; as long as it's not too long.
+いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,Ah; forget it. I'm just too impatient; and I don't like listening to people talk. I just wish I could to skip everything; you know?
+イベントのスキップについて,About skipping events
+スキップ操作,How to skip events
+会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,You can skip conversations and scenes by right-clicking. To stop skipping; release the right-click button.
+またタップ操作の場合は二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,You can also skip by tapping the screen with two fingers. The text will stop skipping when you release your fingers.
+こんにちは。わたしはBランクのカードマスター、リーズよ。,Hello there. I'm Lizz; a B-Rank cardmaster!
+見たところあなたはまだ新人かな？ギルドリングをつけてないわね。,Are you a newbie? I see you're not wearing a guild ring!
+ほら。わたしが指にはめているこのリングがギルドリングよ。\nギルドに所属する証で同時にランクの高さも表しているの。,See this? This ring I'm wearing on my finger is my guild ring. It's proof that I belong to a guild; and it also shows that I'm highly ranked too.
+この街に来たってことは、ギルドに入るんでしょう？\nなら、これは先輩からのご祝儀よ。,Since you came to this town; you must be joining the guild; right? In that case; here's a gift from your senior.
+なんていうか、あなたからは大物になりそうな気配を感じるわ。\nだから先行投資みたいなものね。,For some reason; I have a feeling you're going to make a big splash here; so think of it as a investment into your journey.
+あなたもわたしみたいな強いカードマスターになりなさい？\nランクが上がったらぜひ戦いましょう！,Think you have what it takes to battle a strong cardmaster like me? Let's battle when your rank is higher!
+あらどうしたの？\nもしかしてギルドへの道がわからなくて迷子になっちゃった？,Oh? What's wrong? Ah; perhaps you got lost and don't know your way to the guild?
+あそこに緑の屋根の大きな建物が見えるでしょ？\nその正面を右に曲がったら、白い屋根の建物が見えるはずよ。\nそれがギルドの建物。,See the big building with the green roof over there? If you turn right in front of it; you should see a building with a white roof. That's the guild building.
+屋根の色が独特で目立つからすぐにわかると思うわ。\nふふ、なんならお姉さんが連れて行ってあげようか？,The roof colour is different from other bulldings; so you should have no issues finding it. Fufu; why not come with me and we can go there together?
