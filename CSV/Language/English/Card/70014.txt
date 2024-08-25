@@ -19,7 +19,7 @@ Dランクに挑戦する,Challenge a D-rank
 ん？誰？\nここに先客がいるなんて、珍しいわね。,Hm? Who's there? It's strange to see someone here.
 わたし？わたしはオクタ。Dランクのカードマスターよ。\n今から試合があるの。って、その指輪アナタもDランクね。,Me? I'm Octa; a D-rank cardmaster. I have a match soon... Wait; that ring in your finger means you're also a D-rank.
 あなたも一人になりたくてこに来たのかしら。\nやっぱり試合前って緊張するわよね。,I'm guessing you also came here to find a place without people. The wait before a match sure is nerve-wracking; isn't it?
-そう言って肩をすくめると、オクタと名乗ったカードマスターは僕の隣に腰かけた。,As she said that; the cardmaster Octa shrugged her shoulders and sat down next to me.
+そう言って肩をすくめると、オクタと名乗ったカードマスターは僕の隣に腰かけた。,As she said that; Octa shrugged her shoulders and sat down next to me.
 ぼくは{主人公}です。はじめまして。,I'm {主人公}; good to meet you.
 えっ、{主人公}・・・？\n・・・！\nってことはわたしの対戦相手じゃない。,{主人公}...? Wait... That means you're my opponent; aren't you?
 あは、あなたみたいに初心者が相手だって思うと、\nわたしも少しは気が楽になるわ。\nあ、こんなこと言ったら失礼か。,Ehe; I feel a bit better already if a beginner like you is my opponent. Ah; sorry for saying that.
@@ -178,10 +178,10 @@ Dランクに挑戦する,Challenge a D-rank
 甘いわ。水属性モンスターの攻撃宣言時に{使用カード}を発動！攻撃モンスターに1000ポイントのダメージを与え、さらに１枚ドローよ。,Too naive. Activate {使用カード}'s effect when a Water Attribute monster declares an attack! The Water Attribute monster takes 1000 point of damage; and I also draw one card.
 かかったわね。{使用カード}を発動！水属性モンスターが攻撃した時、そのモンスターに1000ポイントのダメージ与えて１枚ドローするわ。,I got you now. Activate {使用カード}'s effect! When a Water Attribute monster attacks; that monster takes 1000 point of damage and I also draw one card.
 装備魔法カード発動！{使用カード}！,Activate magical equipment card; {使用カード}!
-水属性キャラクターと戦闘するとき{使用カード}の効果を発動！ターン終了時まで自身の攻撃力を400ポイントアップするわ。,When attacking a Water Attribute enemy; activate {使用カード}'s effect! Until the turn ends; increase their attack power by 400 points.
+水属性キャラクターと戦闘するとき{使用カード}の効果を発動！ターン終了時まで自身の攻撃力を400ポイントアップするわ。,When attacking a Water Attribute enemy; I activate {使用カード}'s effect! Until the turn ends; increase their attack power by 400 points.
 {使用カード}の効果を発動！水属性の相手との戦闘時に、ターン終了時まで自身の攻撃力を400ポイントアップするわ。,Activate {使用カード}'s effect! When attacking a Water Attribute enemy; increase attack power by 400 point until the end of this turn.
-戦闘するとき{使用カード}の効果を発動！相手が水属性でない場合、そのモンスターを水属性に変化させるわ。,Activate {使用カード}'s effect during combat! If the target isn't a Water Attribute; change the targets's attribute into Water Attribute.
-戦闘時に{使用カード}の効果を発動！相手の属性を水属性に変化するわ。,Activate {使用カード}'s effect during combat! Change the targets's attribute into Water Attribute.
+戦闘するとき{使用カード}の効果を発動！相手が水属性でない場合、そのモンスターを水属性に変化させるわ。,Activate {使用カード}'s effect during combat! It changes target's Attribute to Water if it isn't already.
+戦闘時に{使用カード}の効果を発動！相手の属性を水属性に変化するわ。,Activate {使用カード}'s effect during combat! Change target's attribute into Water Attribute.
 装備魔法カード発動！{使用カード}！\nわたし自身に装備するわ。,Activate magical equipment card; {使用カード}; on myself!
 {使用カード}の効果を発動！\n相手フィールド上のカードを１枚水属性に変更よ。,Activate {使用カード}'s effect! Change an opponent's card into Water Attribute.
 {使用カード}の効果を発動！\nあなたのフィールド上のカードを１枚水属性に変えてあげる。,Activate {使用カード}'s effect! Change one of your cards into Water Attribute.
@@ -217,11 +217,11 @@ Dランクに挑戦する,Challenge a D-rank
 手でチンポ気持ちよくしてあげる。,I'll make you cum with my hand.
 試合前にさんざんシコられてもう限界でしょ？\nさっさと出して無様に負けちゃいなさい。くすくす❤,You've reached your limit from getting jerked before the match; right? Go ahead; just shoot it all out and lose miserably. *Giggle*❤
 両手で握ってしこしこ❤しこしこ❤\nどう？わたしの指の動き、かなり気持ちいいでしょ？\nランクアップしたばかりの初心者くんに耐えられるかしら❤,I'll grasp it with both of my hand and jerk it.❤ How is it? My fingers feel so good; don't they? I wonder if a newcomer that just ranked up can endure this.❤
-くす❤腰が震えてる❤もう出しちゃうんだ❤,*Giggle*❤ It's already trembling.❤ It's gonna shoot out so soon.❤
+くす❤腰が震えてる❤もう出しちゃうんだ❤,*Giggle*❤ It's already trembling.❤ It's gonna shoot out already.❤
 試合前にわたしの提案を断っても、\nこうやって手コキで負けたら結局無意味ね❤\nほら、ほら、ほら。さっさとイってしまいなさい！,Even though you refused my proposal before the match; it's meaningless if you lose to a handjob like this in the end~❤ Come on; go ahead and cum!
 わたしの手コキは腰が抜けるぐらい気持ちいいわよ❤\nマスターのことなんてすぐに忘れさせてあげるわ❤,My handjob feels so good it'll bring you down on your knees.❤ You'll soon forget about your master.❤
 手コキだけじゃなくて足コキもわたし得意なの。,I'm not just good at handjobs; but also at footjobs.
-ほら、こうして挟んで上下にごしごし❤\n土踏まずの圧力が気持ちいいでしょ？ふふふ…❤,Look; I'll step on it and rub it up and down like this.❤ Doesn't it feel good to get pleasured by the arch of my foot? Hehe...❤
+ほら、こうして挟んで上下にごしごし❤\n土踏まずの圧力が気持ちいいでしょ？ふふふ…❤,Look; I'll step on it and rub it up and down like this.❤ Doesn't it feel good to have your dick pressed on by the arch of my foot? Hehe...❤
 あなたのチンポなんて足でいじめてあげれば十分よね。,Even my feet would be enough for dicks like yours.
 両側からぎゅって押さえつけながら、たくさん擦ってあげる❤\n足の間で射精しちゃいなさい❤,I'll press down with both of my feet and rub your dick.❤ Go ahead and cum between my feet.❤
 足コキで負けさせてあげるわ。,Just give in to this footjob.
@@ -359,7 +359,7 @@ Dランクに挑戦する,Challenge a D-rank
 はううっ…。止めなきゃだめなのにぃ…。,Hauuu.... I need to stop; but...
 あはは、ダメなのにチンポ触る手止まらないね❤\nばっかみたい❤,Ehehe; you shouldn’t be doing this; but you can’t stop touching your dick.❤ What an idiot~❤
 ふふ…、あなたもわたしでオナニーしちゃうの？期待のルーキーのモンスターは、オナニー狂いのマゾばっかり❤,Hehe... you’re also masturbating to me? The highly anticipated newcomer’s monsters are all masochists addicted to masturbating.❤
-マスターの大事な大事な初試合なのに、自分の快楽を優先して次から次に裏切りオナニー❤ルーキーくんに同情しちゃうわ❤,Even though it’s your master’s precious debut match; they chose their own pleasure and betray him one after another .❤ I’m starting to feel sorry for Mr. Newcomer~❤
+マスターの大事な大事な初試合なのに、自分の快楽を優先して次から次に裏切りオナニー❤ルーキーくんに同情しちゃうわ❤,Even though it’s your master’s precious debut match; they they gave in to their own desires and betrayed him one after another .❤ I’m starting to feel sorry for Mr. Newcomer~❤
 いまだってバカにされて興奮している❤ねえ、マゾモンスターはわたしのどこを見てオナニーしているのかしら。,I’m making fun of you; yet you’re getting even more excited.❤ Hey; Masochist Monster; I wonder which part of me you’re masturbating to?
 わたし胸は小さいけれど、結構エロい技での勝率も高いのよ。肌がすべすべして気持ちいいらしいわ❤,My boobs might be small; but I get a lot of wins with my lewd techniques. My smooth skin apparently feels good~❤
 ねえ、正直に言いなさい。わたしのどこをオカズにしているのか…。言えば近くで見せてあげる…❤,Hey; please tell me honestly. Which part of me are you masturbating to... If you tell me; I’ll let you get closer and see it...❤
