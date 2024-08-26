@@ -1,3 +1,3 @@
 default
 月の魔術師,Moon Magician
-[1].1ターンに1度、自分キャラクターのHPが回復した時に発動する。回復を受けたモンスターの最大HPを300ポイントアップし、「次受けるダメージ無効」を付与する。さらにデッキから光属性の魔法カードをランダムに1枚手札に加える。,[1]. Once per turn; when a character that you control has their HP recovered: Increase the maximum HP of the monster that received the recovery by 300 points and grant it [Next Damage Nullified]. Additionally; add one random Light Attribute Spell Card from your Deck to your hand.
+[1].1ターンに1度、自分キャラクターのHPが回復した時に発動する。回復を受けたキャラクターの最大HPを300ポイントアップし、「次受けるダメージ無効」を付与する。さらにデッキから光属性の魔法カードをランダムに1枚手札に加える。,[1]. Once per turn when a character you control recovers HP: That character gains 300 MAX HP and gains [Next Damage Nullified]. After that add 1 random Light Attribute Spell Card from your deck to your hand.

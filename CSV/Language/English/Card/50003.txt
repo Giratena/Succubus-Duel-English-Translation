@@ -1,3 +1,3 @@
 default
 武器砕き,Weapon Break
-相手が装備カードを発動したときに発動できる。その装備カードの効果を無効にし破壊する。その後、自分はカードを１枚ドローする。,[1]. If an opponent activates an Equipment Card; negate that card's effect and destroy it. Then; draw 1 card.
+相手が装備カードを発動したときに発動できる。その装備カードの効果を無効にし破壊する。その後、自分はカードを１枚ドローする。,[1]. If your opponent activates an Equipment Card: Negate that card's effect and destroy it; then draw 1 card.

@@ -65,11 +65,11 @@ HP8000/Atk1300,
 能力制限をしないモードになりました。HPと攻撃力はレベルによって決まります。,
 主人公の能力上限をHP6000,
 主人公の能力上限をHP8000,
-カード効果欄に「おっぱいに弱い付与」などの能力を記載するかどうか選択できます。,
-エロ系効果も表示する,
-エロ系効果は秘匿状態にする,
-エロ系効果もカードテキストに表示されるようになりました。,
-エロ系効果はカードテキスト上で秘匿されるようになりました。,
+カード効果欄に「おっぱいに弱い付与」などの能力を記載するかどうか選択できます。,You can choose whether or not to list abilities such as 'inflicts titty fetish' in enemy card effect descriptions. 
+エロ系効果も表示する,Display erotic card effects
+エロ系効果は秘匿状態にする,Keep erotic card effects secret
+エロ系効果もカードテキストに表示されるようになりました。,Erotic effects will be displayed in the card text.
+エロ系効果はカードテキスト上で秘匿されるようになりました。,Erotic effects will be kept secret on the card text. 
 ショップ画面で、パック内の未所持のカードも表示されるか設定できます（デフォルトでは非表示）。,
 未所持カードも表示する,
 未所持カードは秘匿状態にする,
