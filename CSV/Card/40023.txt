@@ -1,8 +1,7 @@
 default
 @初期設定
 &カード名,Bloody Slash
-&効果テキスト,[1]Deals 1500 damage to an enemy monster. Requires a Warrior monster on your field.
-
+&効果テキスト,[1]If you have a Warrior Type monster on your field: Deals 1500 damage to target enemy monster.
 &ハード効果テキスト,
 &イージー効果テキスト,
 &フレーバーテキスト,

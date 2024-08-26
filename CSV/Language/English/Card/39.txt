@@ -1,3 +1,3 @@
 default
 ポセイドン,Poseidon
-このカードが通常召喚に成功したとき発動できる。手札をすべて捨て、このカードの攻撃力とHPを捨てた枚数×200ポイントアップする。その後、捨てた枚数+1枚のカードをデッキからドローする。,If this card is normal summoned: Discard your hand and increase this card's attack power by 200 x X and draw X + 1 cards (X = the total number of cards that were discarded).
+このカードが通常召喚に成功したとき発動できる。手札をすべて捨て、このカードの攻撃力とHPを捨てた枚数×200ポイントアップする。その後、捨てた枚数+1枚のカードをデッキからドローする。,When this card is Normal Summoned: Discard your whole hand and draw X + 1 cards and this card gains 200 x X ATK (X = Number of cards discarded by this effect).

@@ -1,3 +1,3 @@
 default
 アダマントジェム,Adamantine Gem
-[1].フィールド上のモンスターまたはプレイヤーを選択して発動する。そのキャラクターの最大HPを墓地の「ジェム」カード×400ポイントアップさせる。その後、自分の墓地からランダムに「ジェム」カードを３枚までゲームから取り除く。,[1]. Select a character on the field and increase their maximum HP by 400 x X (X =  the number of "Gem" cards in your Graveyard). Then; banish up to 3 random "Gem" cards from your Graveyard.
+[1].フィールド上のモンスターまたはプレイヤーを選択して発動する。そのキャラクターの最大HPを墓地の「ジェム」カード×400ポイントアップさせる。その後、自分の墓地からランダムに「ジェム」カードを３枚までゲームから取り除く。,[1]. Target 1 character; That character gains 400 x X MAX HP and then Banish 3 random "Gem" cards from your Graveyard. (X =  Number of "Gem" cards in your Graveyard). 

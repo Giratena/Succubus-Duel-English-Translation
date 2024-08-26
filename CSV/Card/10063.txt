@@ -7,6 +7,8 @@ default
     &立ち絵射精胸,EU63_bustCum.png
     &立ち絵射精手,EU63_handCum.png
     &立ち絵射精口,EU63_mouthCum.png
+    &デフォルトマスター,%%70024
+    &デフォルト背景,&&闘技場背景
 
 //宝石出たよ！集合集合！
 

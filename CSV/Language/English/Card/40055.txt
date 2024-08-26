@@ -1,3 +1,3 @@
 default
 魂の共鳴,Soul Resonance
-フィールド上に同名モンスターが存在するモンスター1体を選択して発動する。その同名モンスターすべての攻撃力を500ポイントアップする。,Select a monster that there is more than one of on the field. Increase the attack power of all monsters with that name by 500 points.
+フィールド上に同名モンスターが存在するモンスター1体を選択して発動する。その同名モンスターすべての攻撃力を500ポイントアップする。,Target 1 monster on the field that shares its name with another monster. All monsters with the same name as the targeted monster's gain 500 ATK.

@@ -1,3 +1,3 @@
 default
 枯野の再生,Restored Wasteland
-自分フィールド上にモンスターがいないときLPを1000払って発動できる。自分の墓地からレベル4以下の地属性モンスターをランダムに1体特殊召喚する。,If there are no monsters on your field; pay 1000 LP: Special Summon one random Level 4 or lower Earth Attribute monster from your Graveyard.
+自分フィールド上にモンスターがいないときLPを1000払って発動できる。自分の墓地からレベル4以下の地属性モンスターをランダムに1体特殊召喚する。,If there are no monsters on your field: Pay 1000 LP; Special Summon 1 random level 4 or lower Earth Attribute monster from your Graveyard.

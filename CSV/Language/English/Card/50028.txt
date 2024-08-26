@@ -1,3 +1,3 @@
 default
 索敵警報,Search Party Alarm
-相手がモンスターの召喚に成功したとき発動できる。自分の手札にレベル5以下のハンタータイプのモンスターがいるなら、そのモンスターを特殊召喚する。手札にハンタータイプのモンスターがいないなら、デッキからハンタータイプのモンスター1枚を手札に加える。,[1]. If your opponent successfully summons a monster; you may Special Summon 1 Level 5 or lower Hunter Type monster from your hand. If there are no Hunter Type monsters in your hand; add 1 random Hunter Type monster from your Deck to your hand.
+相手がモンスターの召喚に成功したとき発動できる。自分の手札にレベル5以下のハンタータイプのモンスターがいるなら、そのモンスターを特殊召喚する。それ以外の場合、デッキからハンタータイプのモンスターをランダムに1枚手札に加える。,[1]. If your opponent Summons a monster: Special Summon 1 level 5 or lower Hunter Type monster from your hand. If you do not have any; instead add 1 random Hunter Type monster from your deck to your hand.

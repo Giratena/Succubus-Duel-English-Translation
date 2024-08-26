@@ -7,7 +7,7 @@ Place/MorugenInn,
 セーブ,Save
 イベント回想,Event Viewer
 回想バトル,Battle Viewer
-図鑑,Encylopedia
+図鑑,Encyclopedia
 アニメ回想,Animation Viewer
 特殊オプション,Special Options
 プレイヤー情報,Player Infomation

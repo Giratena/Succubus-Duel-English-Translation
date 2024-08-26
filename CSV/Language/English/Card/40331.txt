@@ -1,3 +1,3 @@
 default
 宝石の錬成,Gem Alchemy
-[1].手札の「ジェム」魔法カードを１枚捨てて発動できる。カードを３枚ドローする。その後、自分プレイヤーに「ターン終了時まで「ジェム」魔法カード以外の魔法カードを発動できない」を付与する。,[1]. Discard 1 "Gem" Spell Card from your hand and draw 3 cards. Then; inflict [Magic Card Usage Ban (Except Gem Cards)] to yourself.
+[1].手札の「ジェム」魔法カードを１枚捨てて発動できる。カードを３枚ドローする。その後、自分プレイヤーに「ターン終了時まで「ジェム」魔法カード以外の魔法カードを発動できない」を付与する。,[1]. Discard 1 "Gem" Spell Card from your hand and draw 3 cards. Then; inflict [Spell Card Usage Ban (Except Gem Cards)] to yourself.

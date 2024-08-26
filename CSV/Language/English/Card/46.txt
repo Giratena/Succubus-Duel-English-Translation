@@ -1,3 +1,3 @@
 default
 大賢者,Great Sage
-[1].このカードがフィールド上に存在する限り、自分が魔法カードの効果で相手モンスターに与えるダメージは常に500ポイントアップする。\n[2].魔法カードの効果で相手モンスターを破壊したとき発動する。デッキから魔法カードをランダムに1枚手札に加える。,[1]. As long as this card is on the field; the damage dealt to an opponent's monster by the effects of Magic Cards is always increased by 500 points.\n[2]. When a Magic Card's effect destroys an opponent's monster: Add one random Magic Card from your Deck to your hand.
+[1].このカードがフィールド上に存在する限り、自分が魔法カードの効果で相手モンスターに与えるダメージは常に500ポイントアップする。\n[2].魔法カードの効果で相手モンスターを破壊したとき発動する。デッキから魔法カードをランダムに1枚手札に加える。,[1]. Damage dealt to monsters your opponent controls by the effects of Spell Cards is increased by 500 points.\n[2]. When a Spell Card's effect destroys a monster your opponent controls: Add 1 random Spell Card from your deck to your hand.

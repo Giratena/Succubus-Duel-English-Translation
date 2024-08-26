@@ -1,3 +1,3 @@
 default
 アクアジェム,Aqua Gem
-手札を1枚捨てて発動する。自分フィールド上のモンスターを全て水属性にし、「代償強化」（自分が手札を捨てるたびに攻撃力が100ポイントアップする）を付与する。,Discard 1 card in your hand to play. All monsters on your field gain the Water Attribute and [Reinforcement] (Each time the player discards a card; their attack power increases by 100 points.)
+手札を1枚捨てて発動する。自分フィールド上のモンスターを全て水属性にし、「代償強化」（自分が手札を捨てるたびに攻撃力が100ポイントアップする）を付与する。,Discard 1 card from your hand; All monsters you control become Water Attribute and gain [Reinforcement] (Each time you discard a card; this monsters gains 100 ATK).
