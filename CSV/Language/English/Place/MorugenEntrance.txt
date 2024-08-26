@@ -20,7 +20,7 @@ Place/MorugenEntrance,
 回想,Reminisce
 図鑑,Encyclopedia
 次のステージへ,Next Stage
-ようこそモルゲンの街へ。おや、南の方の村からここに来たのかい？,Welcome to the town of Morgen. Oh; did you come here from the village in the south?
+ようこそモルゲンの街へ。おや、南の方の村からここに来たのかい？,Welcome to the town of Morgen! Oh; did you come here from the village in the south?
 モルゲンより南にある集落っていうと、どれも小規模なものばかり…。\nてことは、きみはモルゲンみたいに大きい街は初めてだろう？,I heard the settlements south of Morgen are pretty small... So this is probably your first time in a town as big as Morgen; right?
 王都にはさすがに負けるけど、\n店は多いし歓楽街だってある。\n都会をぜひ満喫して行ってくれ。,Of course; it's no match for the Royal Capital; but we have plenty of shops and even an entertainment district. Please enjoy your time in the city.
 カードを用いた戦いにおいて、デッキのバランスは非常に重要です。,In card battles; deck balance is extremely important.
