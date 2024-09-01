@@ -1,8 +1,8 @@
 default
 キノコガール,Mushroom Girl
 EU31_paizuriAnime,
-[1].このカードが場に出たとき発動する。「よわよわ胞子」を１枚手札に加える。\n([2].戦闘時に相手に「衰弱」(毎ターン終了時に攻撃力を50ポイントダウン,4ターン)を付与する。),
-キノコの体を持つ魔物の少女。にこやかな見た目とは裏腹に人間のことをただの食料としか思っておらず、死にそうになって干からびていく男の姿を見ることが好きである。\n　彼女の体から放出される胞子は相手に恍惚感を与えると同時にその筋力を吸収する能力を持っている。かわいい見た目に騙されて彼女に抱き着かれてしまえば、屈強な戦士であってもあっという間に子供のように無力にされて、そのままゆっくりと死ぬまで精を吸い取られてしまうだろう。\n　干からびた男はその場に放置することが多いが、気に入った相手には胞子を植え付けて自分の分身を作ることがあり、そのさいには男の遺伝子を吸収してより強力な個体が生まれてくるのだという。,
+[1].このカードが場に出たとき発動する。「よわよわ胞子」を１枚手札に加える。\n([2].戦闘時に相手に「衰弱」(毎ターン終了時に攻撃力を50ポイントダウン,4ターン)を付与する。),[1]. When this card enters the field; search your deck for "Weakening Spores" and add it to your hand.\n([2]. When this card enters combat; inflicts [weakness] on foe ([Weakness] = Attack power is reduced by 50 points for 4 turns.))
+キノコの体を持つ魔物の少女。にこやかな見た目とは裏腹に人間のことをただの食料としか思っておらず、死にそうになって干からびていく男の姿を見ることが好きである。\n　彼女の体から放出される胞子は相手に恍惚感を与えると同時にその筋力を吸収する能力を持っている。かわいい見た目に騙されて彼女に抱き着かれてしまえば、屈強な戦士であってもあっという間に子供のように無力にされて、そのままゆっくりと死ぬまで精を吸い取られてしまうだろう。\n　干からびた男はその場に放置することが多いが、気に入った相手には胞子を植え付けて自分の分身を作ることがあり、そのさいには男の遺伝子を吸収してより強力な個体が生まれてくるのだという。,A monster girl with the body of a mushroom. Despite her friendly smile; she thinks of humans as nothing but food and enjoys watching men dry up as they die.\nThe spores released from her both induce feelings of ecstasy as well as sap the strength away from her foes. Men who are deceived by her cute appearance will become as helpless as a child in her embrace, and will be milked of all his sperm until they die a slow death.\nThe withered man is often left after that; but if she likes them; she may use her spores to create stronger version of him using his DNA. 
 手で気持ちいいことしてほしいの？いいよ❤, Do you want me to make you feel good with my hand? Sure thing~❤
 あ、でもわたしに手でしこしこされると\nあなたの体にわたしの胞子がついちゃうかも。,Oh; but if I stroke you with my hand; my spores might get on your body.
 胞子がつくと生命力をどんどん吸い取られると思うけど…。\n気持ちいいからいっか❤しこしこしちゃうねー❤,Once the spores are on you; they'll start draining your life force... But since it feels good; it's okay. I'll give you a nice handjob~❤
