@@ -10,7 +10,7 @@ default
 今回は守護者資格のあるカードマスターからの推薦ですので、\n入会審査はなしで大丈夫です。,This time; the recommendation is from a card master who has guardian qualifications; so there is no need for an entrance examination.
 さっそく書類に必要事項をお書きください。,Please fill out the necessary information on the document immediately.
 書き終わりましたか？ありがとうございます。,Are you done filling in the document? Thank you.
-えーと、お名前は{主人公}さん……、\nふむふむ、出身はだいぶ北にある村なんですね。,Umm; your name is {Main Character}... \n I see; you're from a village quite far to the north.
+えーと、お名前は{主人公}さん……、\nふむふむ、出身はだいぶ北にある村なんですね。,Umm; your name is {主人公}... \n I see; you're from a village quite far to the north.
 登録おつかれさまです。\n新人カードマスターはまずはFランクからのスタートです。,Thank you for registering. \n New Card Masters will start out at F rank.
 Fランクですか？,F rank?
 はい。ギルドのカードマスターにはランクがあり、\n上からA、B、C、D、E、Fと6段階あります。,Yes. Guild card masters have ranks; with six levels: A; B; C; D; E; and F from the top.
