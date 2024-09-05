@@ -11,14 +11,14 @@ default
 さっそく書類に必要事項をお書きください。,Please fill out the necessary information on this form.
 書き終わりましたか？ありがとうございます。,Are you done? Thank you!
 えーと、お名前は{主人公}さん……、\nふむふむ、出身はだいぶ北にある村なんですね。,Umm; so your name is {主人公}... \n I see. You're from a village quite far to the north.
-登録おつかれさまです。\n新人カードマスターはまずはFランクからのスタートです。,Thank you for registering. \n New cardmasters will start out at F rank.
-Fランクですか？,F rank?
+登録おつかれさまです。\n新人カードマスターはまずはFランクからのスタートです。,Thank you for registering. \n New cardmasters will start out at F-rank.
+Fランクですか？,F-rank?
 はい。ギルドのカードマスターにはランクがあり、\n上からA、B、C、D、E、Fと6段階あります。,Yes. Guild cardmasters have ranks; with six levels: A; B; C; D; E; and F from top to bottom.
 例えば、あなたの師匠であるコノハさんは\nB級のカードマスターですね。B級ともなると\n「守護者」として地域の治安維持を任されることもあります。,For example; your master; Konoha; is a B-rank cardmaster. B-rank cardmasters are sometimes entrusted with maintaining peace in the area as "guardians."
 さて、あなたはこれからギルドで任務をこなし、\n少しづつランクをあげていくわけですが…。,As you complete missions for the guild; you will gradually increase your rank...
 非常に良いタイミングでギルドに登録されましたね。\n今この街では10年に1度の大きな大会が開かれています。,You have joined the guild at an extremely opportune time.\nRight now; a major tournament that takes place once every ten years is being held in this city.
 大会の最中は他のカードマスターに勝つことで、\nどんどん自分のランクをあげていくことができるんですよ。,During the tournament; you can steadily increase your rank by defeating other cardmasters.
-B級やA級になるためにはふつう何年もかかりますが、\nうまく勝ち抜ければこの大会中にA級になることだって夢ではありません。,It usually takes years to reach B or A rank; but if you win your battles; it's not impossible to reach A rank during this tournament.
+B級やA級になるためにはふつう何年もかかりますが、\nうまく勝ち抜ければこの大会中にA級になることだって夢ではありません。,It usually takes years to reach B- or A-rank; but if you win your battles; it's not impossible to reach A-rank during this tournament.
 F級から一気にA級まで行った人はわたしの知る限りではいませんが…\nもしかしたらあなたならできるかもしれません。頑張ってくださいね！,As far as I know; no one has gone from F-rank to A-rank in one go... but maybe you can do it. Good luck!
 ありがとうございます！,Thank you!
 ギルドメンバーになった証として、ギルドリングを手に入れた！,As proof of guild membership; you have received a guild ring!
