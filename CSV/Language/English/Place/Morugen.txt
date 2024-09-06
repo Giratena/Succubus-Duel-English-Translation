@@ -7,10 +7,10 @@ default
 メロディに会いに学園へ行く(未実装),Go to school to meet Melody (not implemented yet)
 (特殊)地下通路へ行く,(Special) Go to the underground passage
 見回りの兵士,Soldier on patrol
-モルゲン,Morgen (translator note: Morugen?)
+モルゲン,Morugen
 Place/Morugen,
-バトル大会について,About the Battle Tournament (translators note: About the Tourament?)
-マップ画面ではフィールド上のカードマスターを選びバトルを開始することができます。バトルに勝利することで、賞金や経験値に加え、あなたの指輪にランクポイントがたくわえられます。,On the map screen; you can select a card master on the field and start a battle. By winning a battle; you will earn prize money; experience points; and rank points on your guild ring. translator's note: leave out guild ring?
+バトル大会について,About the Battle Tournament (translators note: About the Tournament?)
+マップ画面ではフィールド上のカードマスターを選びバトルを開始することができます。バトルに勝利することで、賞金や経験値に加え、あなたの指輪にランクポイントがたくわえられます。,On the map screen; you can select a cardmaster on the field to battle against them. By winning a battle; you will earn prize money; experience points; and rank points on your guild ring. translator's note: leave out guild ring?
 ランクについて,About Rank
 ランクポイントが上限に達すると、ギルドで昇格試験を受けられます。試験をクリアすることでランクが上昇します。Aランクを目指してがんばりましょう！,When you reach the upper limit of rank points; you can take a promotion test at the guild. Clearing the test will increase your rank. Do your best to reach A rank!
 上部メニューボタンを使用すると、ショップの利用やデッキの編集が行えます。ホームボタンを押すことで宿屋に戻ることができ、セーブは宿屋内で行うことができます。,You can use the top menu button to use the shop or edit your deck. Press the home button to return to the inn; where you can save.
@@ -18,12 +18,12 @@ Place/Morugen,
 クエストについて,About Quests
 マップ画面では一定の条件を満たすとクエストが発生することがあります。画面上部のメニューから旗のマークを選択するとクエストを受けることができます。,On the map screen; quests may occur if certain conditions are met. You can receive quests by selecting the flag icon from the menu at the top of the screen.
 カードパックがショップに追加されました。,Card packs have been added to the shop. (translator's note: "New" Card packs?)
-カードマスターが新たに登場するようになりました。,Card Master is now available.
+カードマスターが新たに登場するようになりました。,Cardmaster is now available.
 宿屋で休んだ翌日、僕はギルドに呼び出されていた。,The next day; after resting at the inn; I was summoned to the guild. (translators note: make less Engrish?)
 お越しいただきありがとうございます、{主人公}さん！昨日は初めてのクエストでのサキュバス討伐、お疲れ様でした！,Thank you for stopping by; {主人公}! Good job on defeating the succubus on your first quest yesterday!
 昨日はクエストから帰ってきた直後という事もあって、お伝えしていなかったことがあります。,Yesterday; I just got back from a quest; so there's something I didn't tell you about. (translator's note: this should probably be rephrased)
 はい。この度ランク昇格に伴い、{主人公}さんは闘技場への入場許可が貰えるようになりました！,Yes. Since your rank has increased; {主人公}; you will now be allowed to enter the arena! (translator's note: rephrase?)
-D級以上のカードマスターの方々はその多くが闘技場に出入りしています。,Many card masters who are D rank or above frequently use the arena.
+D級以上のカードマスターの方々はその多くが闘技場に出入りしています。,Many cardmasters who are D-rank or above frequently use the arena.
 闘技場ではランクポイントも賞金もかなり多くもらえることになっているので、上手く闘技場で勝っていけば、ランクも上げやすくなりますよ！,You can get a lot of rank points and prize money in the arena; so if you can win well in the arena; it will be easier to raise your rank! (translator's note: Rephrase this)
 ですが闘技場に出入りするマスターはみな腕に覚えのある人ばかり。例え同じDランクでも、上のランクのマスターに勝てる人だっています。,
 一応お聞きしますが、闘技場への入場を希望いたしますか？,
