@@ -50,12 +50,12 @@ To translate; open the text in CSV/Language/English and write the English text n
 有効にする,Enable
 文字送りが無効になりました。,Automatic text feed is now disabled.
 文字送りが有効になりました。,Automatic text feed is now enabled.
-BGMの音量を変更できます,
+BGMの音量を変更できます,Change BGM (background music) volume?
 変更する,Change
 変更しない,Don't change
-BGMのボリュームが変更されました。,
-SEの音量を変更できます。,
-SEのボリュームが{&&InputtedText}に変更されました。,
+BGMのボリュームが変更されました。,BGM volume has been changed.
+SEの音量を変更できます。,Change SE (sound effect) volume?
+SEのボリュームが{&&InputtedText}に変更されました。,SE volume changed to {&&InputtedText}.
 主人公のHPと攻撃力に一定の上限を設定できます。主に難易度を上げるために利用できる機能です。,
 この機能を利用したとしてもバトル開始時のステータスが変更されるだけでレベルそのものに影響はありません。機能を解除することでいつでも本来のレベルのステータスに戻ることができます。,
 能力制限を入れるか選んでください,
