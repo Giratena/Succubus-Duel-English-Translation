@@ -44,12 +44,12 @@ To translate; open the text in CSV/Language/English and write the English text n
 攻撃力を1000に戻す,Attack power has been restored to 1000.
 いまのままにする,Leave it as it is.
 主人公の攻撃力が1000に設定されました。,The protagonist's attack power was set to 1000.
-自動文字送りを設定できます。メッセージの表示が終わってから一定時間で次のセリフに進むようになります。,
-自動文字送りを有効にするか選んでください,
-無効にする,
-有効にする,
-文字送りが無効になりました。,
-文字送りが有効になりました。,
+自動文字送りを設定できます。メッセージの表示が終わってから一定時間で次のセリフに進むようになります。,Here you can change the automatic text feed setting. If enabled; you can set how many frames it takes before displaying the next message.
+自動文字送りを有効にするか選んでください,Select whether you want to enable automatic text feed.
+無効にする,Disable
+有効にする,Enable
+文字送りが無効になりました。,Automatic text feed is now disabled.
+文字送りが有効になりました。,Automatic text feed is now enabled.
 BGMの音量を変更できます,
 変更する,Change
 変更しない,Don't change
