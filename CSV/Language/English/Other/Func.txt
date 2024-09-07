@@ -56,15 +56,15 @@ BGMの音量を変更できます,Change BGM (background music) volume?
 BGMのボリュームが変更されました。,BGM volume has been changed.
 SEの音量を変更できます。,Change SE (sound effect) volume?
 SEのボリュームが{&&InputtedText}に変更されました。,SE volume changed to {&&InputtedText}.
-主人公のHPと攻撃力に一定の上限を設定できます。主に難易度を上げるために利用できる機能です。,
-この機能を利用したとしてもバトル開始時のステータスが変更されるだけでレベルそのものに影響はありません。機能を解除することでいつでも本来のレベルのステータスに戻ることができます。,
-能力制限を入れるか選んでください,
+主人公のHPと攻撃力に一定の上限を設定できます。主に難易度を上げるために利用できる機能です。,You can set a limit to the HP and attack power of the protagonist. This option is mainly available to increase the difficulty level.
+この機能を利用したとしてもバトル開始時のステータスが変更されるだけでレベルそのものに影響はありません。機能を解除することでいつでも本来のレベルのステータスに戻ることができます。,Enabling this option will only change the HP and attack power at the beginning of a battle and will not affect the original values. You can always go back to the original values by deactivating the option.
+能力制限を入れるか選んでください,Please select whether to limit the protagonist's HP and attack power.
 制限をしない,No Limits
-HP6000/Atk1000,
-HP8000/Atk1300,
-能力制限をしないモードになりました。HPと攻撃力はレベルによって決まります。,
-主人公の能力上限をHP6000,
-主人公の能力上限をHP8000,
+HP6000/Atk1000,Limit to HP6000/Atk1000
+HP8000/Atk1300,Limit to HP8000/Atk1300
+能力制限をしないモードになりました。HPと攻撃力はレベルによって決まります。,No limits have been set. HP and attack power are determined by the protagonist's level.
+主人公の能力上限をHP6000,Protagonist has been limited to 6000HP & 1000 ATK
+主人公の能力上限をHP8000,Protagonist has been limited to 8000HP & 1300 ATK
 カード効果欄に「おっぱいに弱い付与」などの能力を記載するかどうか選択できます。,You can choose whether or not to list abilities such as 'inflicts titty fetish' in enemy card effect descriptions. 
 エロ系効果も表示する,Display erotic card effects
 エロ系効果は秘匿状態にする,Keep erotic card effects secret
