@@ -9,7 +9,7 @@ default
 見回りの兵士,Soldier on patrol
 モルゲン,Morugen
 Place/Morugen,
-バトル大会について,About the Battle Tournament
+バトル大会について,About the Tournament
 マップ画面ではフィールド上のカードマスターを選びバトルを開始することができます。バトルに勝利することで、賞金や経験値に加え、あなたの指輪にランクポイントがたくわえられます。,On the map screen; you can select a cardmaster on the field to fight against them. By winning a battle; you will earn prize money; experience points; and earn rank points for your guild ring.
 ランクについて,About Rank
 ランクポイントが上限に達すると、ギルドで昇格試験を受けられます。試験をクリアすることでランクが上昇します。Aランクを目指してがんばりましょう！,When you reach the upper limit of rank points; you can take a promotion test at the guild. Clearing the test will increase your rank. Do your best to reach A-rank!
