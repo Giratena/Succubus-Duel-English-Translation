@@ -6,44 +6,44 @@ default
 English,English
 简体中文,Chinese
 한국어,Korean
-言語が日本語に設定されました。,
+言語が日本語に設定されました。,言語が日本語に設定されました。(The language is now set to Japanese)
 The language has been set to English.,
 To translate; open the text in CSV/Language/English and write the English text next to the comma. Commas are not allowed in the text; so if you want to use commas; please use semicolons.,
-语言已设置为简体中文。,
+语言已设置为简体中文。,语言已设置为简体中文。(The language is now set to Simplified Chinese.)
 要进行翻译，请在 CSV/Language/SimplifiedChinese 中打开文本，然后在逗号旁边写入翻译后的文本。,
-언어가 한국어로 설정되었습니다.,
+언어가 한국어로 설정되었습니다.,언어가 한국어로 설정되었습니다. (The language is now set to Korean.)
 번역하려면 CSV/언어/한국어에서 텍스트를 열고 쉼표 옆에 영어 텍스트를 입력합니다. 텍스트에는 쉼표가 허용되지 않으므로 쉼표를 사용하려면 세미콜론을 사용하세요.,
-難易度を変更することができます。,
-難易度は\nハード（敵のパラメーター3割増加）\nノーマル\nイージー（敵のパラメータ2割減少）\nらくらく（味方のHP+2000Atk+800）\nの3つの中から選択できます。難易度は何度でも変更可能です。,
-難易度を選択してください(現在の難易度:{難易度名})。,
+難易度を変更することができます。,Here you can change the difficulty level.
+難易度は\nハード（敵のパラメーター3割増加）\nノーマル\nイージー（敵のパラメータ2割減少）\nらくらく（味方のHP+2000Atk+800）\nの3つの中から選択できます。難易度は何度でも変更可能です。,You can choose from three difficulty levels: \nHard (30% increase in enemy stats)\nNormal \nEasy (20% decrease in enemy stats)\n;Phoenix (HP+2000 and Atk+800 for allies)\n You can change the difficulty level as many times as you like.
+難易度を選択してください(現在の難易度:{難易度名})。,Select a difficulty level (current difficulty: {難易度名})
 ハード,Hard
 ノーマル,Normal
 イージー,Easy
 らくらくモード,Phoenix Mode
-難易度をハードに変更しました。,
-ハードでは相手の能力が上がるほか、一部敵カードに効果が追加される場合があります。,
-難易度をノーマルに変更しました。,
-難易度をイージーに変更しました。,
-イージーでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,
-難易度をらくらくモードに変更しました。,
-らくらくモードでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,
-またバトル中３回だけ、数枚の強力なカードの中から１枚生成して手札に加えることができます。,
-主人公にイベントで付与された弱点を一時的に無効にできます。,
-無効にされるのはストーリー中に付与された弱点だけです。戦闘中に付与される状態異常は無効になりません。,
-弱点を一時的に無効にする,
-弱点を有効にする,
-主人公にイベントで付与された弱点をすべて解除します。,
-解除された弱点は元に戻せないのでご注意ください。,
+難易度をハードに変更しました。,Difficulty has been set to Hard.
+ハードでは相手の能力が上がるほか、一部敵カードに効果が追加される場合があります。,In addition to increasing the stats of the opponent; some enemy cards may have additional effects that can catch you off guard.
+難易度をノーマルに変更しました。,The difficulty has been set to Normal.
+難易度をイージーに変更しました。,The difficulty has been set to Easy.
+イージーでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,On Easy difficulty; the opponent's stats are reduced and the effects of some enemy cards may be changed.
+難易度をらくらくモードに変更しました。,The difficulty level was changed to Phoenix mode.
+らくらくモードでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,In Phoenix mode; the opponent's stats are reduced and the effects of some enemy cards may be changed.
+またバトル中３回だけ、数枚の強力なカードの中から１枚生成して手札に加えることができます。,In addition; three times throughout a battle; one of several powerful cards can be generated and added to the hand.
+主人公にイベントで付与された弱点を一時的に無効にできます。,This option can temporarily disable a weakness the protagonist has aquired from events.
+無効にされるのはストーリー中に付与された弱点だけです。戦闘中に付与される状態異常は無効になりません。,Only weaknesses inflicted during the story will be disabled. Abnormalities inflicted during battle will not be disabled.
+弱点を一時的に無効にする,Temporarily disable a weakness.
+弱点を有効にする,Enabling Weaknesses
+主人公にイベントで付与された弱点をすべて解除します。,Removes all the protagonist's weaknesses.
+解除された弱点は元に戻せないのでご注意ください。,Note that weaknesses that have been removed cannot be restored.
 弱点をすべて解除する,Revert all weaknesses
 しない,Never mind
 本当にいいですか？,Are you really sure?
 はい,Yes
 いいえ,No
-主人公に付与された弱点をすべてリセットしました。,
-主人公の攻撃力が低下している場合、攻撃力を1000に戻すことができます。,
-攻撃力を1000に戻す,
-いまのままにする,
-主人公の攻撃力が1000に設定されました。,
+主人公に付与された弱点をすべてリセットしました。,The protagonist's weaknesses have been reset.
+主人公の攻撃力が低下している場合、攻撃力を1000に戻すことができます。,If the protagonist's attack power is reduced; restore it to 1000.
+攻撃力を1000に戻す,Attack power has been restored to 1000.
+いまのままにする,Leave it as it is.
+主人公の攻撃力が1000に設定されました。,The protagonist's attack power was set to 1000.
 自動文字送りを設定できます。メッセージの表示が終わってから一定時間で次のセリフに進むようになります。,
 自動文字送りを有効にするか選んでください,
 無効にする,
