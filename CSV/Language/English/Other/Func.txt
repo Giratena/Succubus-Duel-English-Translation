@@ -65,32 +65,32 @@ HP8000/Atk1300,Limit to HP8000/Atk1300
 能力制限をしないモードになりました。HPと攻撃力はレベルによって決まります。,No limits have been set. HP and attack power are determined by the protagonist's level.
 主人公の能力上限をHP6000,Protagonist has been limited to 6000HP & 1000 ATK
 主人公の能力上限をHP8000,Protagonist has been limited to 8000HP & 1300 ATK
-カード効果欄に「おっぱいに弱い付与」などの能力を記載するかどうか選択できます。,You can choose whether or not to list abilities such as 'inflicts titty fetish' in enemy card effect descriptions. 
+カード効果欄に「おっぱいに弱い付与」などの能力を記載するかどうか選択できます。,You can choose whether or not to list abilities such as 'inflicts boob fetish' in enemy card effect descriptions. 
 エロ系効果も表示する,Display erotic card effects
 エロ系効果は秘匿状態にする,Keep erotic card effects secret
 エロ系効果もカードテキストに表示されるようになりました。,Erotic effects will be displayed in the card text.
 エロ系効果はカードテキスト上で秘匿されるようになりました。,Erotic effects will be kept secret on the card text. 
-ショップ画面で、パック内の未所持のカードも表示されるか設定できます（デフォルトでは非表示）。,
-未所持カードも表示する,
-未所持カードは秘匿状態にする,
-未所持カードも含めてショップ画面から閲覧できるようになりました。,
-未所持カードはショップ画面では非表示になるように設定されました。,
-主人公の名前を変更できます。,
-名前を変更しますか？,
-主人公の名前を{主人公}に変更しました。,
-主人公の見た目を変更できます。,
-見た目を変更しますか？,
-主人公の見た目を選択してください。,
-主人公の見た目が決定されました。この内容はいつでも変更できます。,
-文字が表示されるときの音をミュートにできます。,
-文字音1（デフォルト）,
+ショップ画面で、パック内の未所持のカードも表示されるか設定できます（デフォルトでは非表示）。,On the store screen; you can set whether the unclaimed cards in the pack are also displayed (hidden by default).
+未所持カードも表示する,Display unclaimed cards as well.
+未所持カードは秘匿状態にする,Keep unclaimed cards hidden.
+未所持カードも含めてショップ画面から閲覧できるようになりました。,Cards; including those not yet owned; can now be viewed from the store screen.
+未所持カードはショップ画面では非表示になるように設定されました。,Unowned cards are now set to be hidden on the store screen.
+主人公の名前を変更できます。,Here you can change the name of the protagonist.
+名前を変更しますか？,Do you want to change your name?
+主人公の名前を{主人公}に変更しました。,Changed the name of the protagonist to {主人公}.
+主人公の見た目を変更できます。,Here you can change the appearance of the protagonist.
+見た目を変更しますか？,Want to change the protagonist's appearance?
+主人公の見た目を選択してください。,Select the appearance of the protagonist
+主人公の見た目が決定されました。この内容はいつでも変更できます。,The appearance of the protagonist has been changed. This can be changed at any time.
+文字が表示されるときの音をミュートにできます。,Here you can choose the sound played when writing text to the screen.
+文字音1（デフォルト）,Character sound 1 (default)
 音をなくす,No sound
-文字音を１に設定しました。,
-文字音を無音に設定しました。,
-文字音を2に設定しました。,
-文字音を3に設定しました。,
-文字音を4に設定しました。,
-主人公の情報,
+文字音を１に設定しました。,Character sound set to 1.
+文字音を無音に設定しました。,Text sound set to silent.
+文字音を2に設定しました。,Character sound set to 2.
+文字音を3に設定しました。,Character sound set to 3.
+文字音を4に設定しました。,Character sound set to 4.
+主人公の情報,Protagonist information
 {プレイヤー情報},
 画像閲覧,Artwork
 ドロー,Draw
