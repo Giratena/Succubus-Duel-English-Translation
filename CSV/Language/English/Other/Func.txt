@@ -90,7 +90,7 @@ HP8000/Atk1300,Limit to HP8000/Atk1300
 文字音を2に設定しました。,Character sound set to 2.
 文字音を3に設定しました。,Character sound set to 3.
 文字音を4に設定しました。,Character sound set to 4.
-主人公の情報,Protagonist information
+主人公の情報,Player Information
 {プレイヤー情報},
 画像閲覧,Artwork
 ドロー,Draw
