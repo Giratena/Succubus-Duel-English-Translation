@@ -25,7 +25,7 @@ To translate; open the text in CSV/Language/English and write the English text n
 難易度をノーマルに変更しました。,The difficulty has been set to Normal.
 難易度をイージーに変更しました。,The difficulty has been set to Easy.
 イージーでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,On Easy difficulty; the opponent's stats are reduced and the effects of some enemy cards may be changed.
-難易度をらくらくモードに変更しました。,The difficulty level was changed to Phoenix mode.
+難易度をらくらくモードに変更しました。,The difficulty has been set to Phoenix mode.
 らくらくモードでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,In Phoenix mode; the opponent's stats are reduced and the effects of some enemy cards may be changed.
 またバトル中３回だけ、数枚の強力なカードの中から１枚生成して手札に加えることができます。,In addition; three times throughout a battle; one of several powerful cards can be generated and added to the hand.
 主人公にイベントで付与された弱点を一時的に無効にできます。,This option can temporarily disable a weakness the protagonist has aquired from events.
