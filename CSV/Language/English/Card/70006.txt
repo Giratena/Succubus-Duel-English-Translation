@@ -10,7 +10,7 @@ Sexy01,
 さっそくバトルと行きましょ。上級者として軽く倒してあげる。,Let's have a battle then. I'll easily beat you since I'm more experienced.
 やっほー。{ランク名}級カードマスターくん。また会ったわね。バトルする？,Hello; if it isn't the {ランク名}-rank. We meet again! Wanna have a battle?
 この間わたしが負けたのは運よ。運。今度は勝つわ。さあ行くわよ！,It was just bad luck that I lost last time. Bad luck; I tell you! This time I'll definitely win. Come at me!
-この間みたいに、キャロルのおっぱいでまた負けさせてあげるわ。ふふふ、せいぜい楽しみなさい。,Looks like you'll lose to Carol's breasts this time, too. Fufu; please enjoy them.
+この間みたいに、キャロルのおっぱいでまた負けさせてあげるわ。ふふふ、せいぜい楽しみなさい。,Maybe this time; I'll make you lose to Carol's breasts again. Fufu; look forward to it.
 ふふ、前はわたしの勝ちだったわね。またこてんぱんにしてあげる。,Fufu; you lost to me last time. I'll beat you thoroughly this time; too.
 やっほー。F級カードマスターくん。また会ったわね。バトルする？,Hello; if it isn't the F-rank. We meet again. Wanna have a battle?
 え？もうF級じゃない、{ランク名}級になったって？\nへぇー、すごいじゃない。,Eh? You're not F-rank anymore; but {ランク名}-rank? Woow; impressive~
@@ -173,11 +173,11 @@ E級くん,E-rank
 とってもみっともないと思うわ。くすくす❤,I find that so pathetic. *Giggle*
 そうだ。あなたが少しは我慢できるように、わたしが稽古つけてあげましょうか。,Oh right; what about training with me so you can control yourself better?
 稽古…？,Train...?
-そう、稽古❤わたしの体を使って{&呼び方}を気持ちよくしてあげるの。きみはそれを頑張って我慢するってわけ。,That's right; "train"❤ I'll make {&呼び方} feel good using my body; and you'll do your best enduring it.
+そう、稽古❤わたしの体を使って{&呼び方}を気持ちよくしてあげるの。きみはそれを頑張って我慢するってわけ。,That's right; "train"❤ I make {&呼び方} cardmasters feel good using my body; and they do your best enduring it.
 例えばこの手を使っておちんちんを…。,For example; if I use my hand on your dick...
-そういうと彼女は指先でペニスをつーっと撫で上げた。ゾクゾクとした快感が体を走り、僕は思わず体をビクンと震わせてしまう。,As she says that; she moveed her fingertips to my dick and started stroking it. A thrilling feeling ran through me and I reflexively trembled from it.
-こんな風にかわいがってあげようかなーってね。手袋でなでられて、けっこう気持ちいいでしょ？,I'll make you feel good just like that. Being stroked with my gloves feels good; doesn't it?
-{&呼び方}が望むなら、いまからシコシコしてあげて、我慢の練習、させてあげる。どうする？やってみる？,If {&呼び方} wants it; I'll start the self-control training. So? Wanna do it?
+そういうと彼女は指先でペニスをつーっと撫で上げた。ゾクゾクとした快感が体を走り、僕は思わず体をビクンと震わせてしまう。,As she said that; she moved her fingertips over my dick and started stroking it. A thrilling feeling ran through me and I reflexively trembled from it.
+こんな風にかわいがってあげようかなーってね。手袋でなでられて、けっこう気持ちいいでしょ？,I'll make you feel good just like that. Being stroked with my gloves feels good; right?
+{&呼び方}が望むなら、いまからシコシコしてあげて、我慢の練習、させてあげる。どうする？やってみる？,I only give self-control training to {&呼び方}s that want it. What do you say? Do you wanna do it?
 ううっ…、それは…❤,Ugh... That's...❤
 ただし、有料だからね。手でしてほしいなら1回{$cost}ゴールド❤,But there's a fee. If you want to do it with my hand; it'll cost you {$cost} gold~❤
 わたしに気持ちいい特訓してもらえるんだから、お金を払うのは当然よね？ふふ、さあ早く決めなさい？,You're getting a fun training session with me; so obviously you should pay for it. Fufu; come. Decide quickly.

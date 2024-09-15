@@ -25,7 +25,7 @@ Place/MorugenEntrance,
 王都にはさすがに負けるけど、\n店は多いし歓楽街だってある。\n都会をぜひ満喫して行ってくれ。,Of course; it's no match for the Royal Capital; but we have plenty of shops; and even an entertainment district. Please; enjoy your time in the city.
 カードを用いた戦いにおいて、デッキのバランスは非常に重要です。,In card battles; deck balance is extremely important.
 上級モンスターは強力な分召喚が難しい…。\n5レベル以上ならコストが<b>1体</b>、\n7レベル以上ならコストが2体も必要になります。,High-level monsters can be difficult to summon because of their power... If they are level 5 or above; they cost <b>1 monster</b> to summon. If they are level 7 or above; they cost <b>2 monsters</b> to summon.
-下級モンスターを上級モンスターの2倍ほど多めに入れて、\nちょうどいいぐらいかもしれませんね。,So; I'd say you'd be just right to put in about twice as many low-level monsters as high level monsters.
+下級モンスターを上級モンスターの2倍ほど多めに入れて、\nちょうどいいぐらいかもしれませんね。,So; I'd say you'd be just right to build your card deck with about twice as many low-level monsters as high level monsters.
 知ってるかい？もうすぐこの街では祭りが始まるんだよ。,Did you know? There is a festival in town that will start soon.
 カードマスターたちがお互いに実力を競い合う、熱い祭りさ。\n周りを見るとカードマスターらしき人がいっぱいいるだろう？,It's a heated festival where cardmasters gather to test their skill. Look around. You can see a lot of people who look like cardmasters; right?
 10年に一度、このモルゲンの町はカードマスターで溢れかえるのさ。\nわたしにもカードの才能があれば、参加してみたいものなんだけどねぇ\nいやあ血が騒ぐよ。,Once every ten years; the town of Morgen floods with cardmasters. If I had any talent for cards; I'd love to participate. It really gets my blood pumping.
