@@ -62,39 +62,39 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 (ふぅ・・・。),(Phew...)
 慣れない読書ですっかり疲れてしまった。僕はサキュバスについて知らないことばかりだし、たまに来て少しは勉強をすることにしよう。,All that reading has left me completely exhausted; since I'm not used to it. I really don't know anything about succubi. I'll come back here once in a while to learn a bit more.
 闘技場横図書館に行けるようになりました。,You can now go to the library next to the arena.
-試合が終わると、今日も情報を集めるため、僕は闘技場横の図書館に来ていた。,
-当てもなくサキュバス関連の本を探していると、一冊の薄い本が目に留まる。,
-（「サキュバス化の呪いの研究」・・・？）,
-手に取ってみると、本というより論文を綴じたものだった。専門的な読み物らしく、この間のやさしい本と違い、頭が痛くなるような難解な言葉が並んでいる。,
-（ううっ、がんばって読むか・・・。）,
-ふぅ・・・。疲れた・・・。,
-なんとなく理解したところによると、この論文は人間をサキュバス化させる呪いの術式について研究したものらしい。,
-サキュバスは人間を性的に絶頂させることで魂を無防備にさせ、そこに呪いの術式を刻むのだそうだ。,
-術式には強力な防御機構が備わっており、サキュバス以外のものが術式をいじろうとすると魂ごと自壊するようになっている。,
-魂が壊れたらそのまま命を失ってしまう。そのため通常の手段でサキュバス化を治すことは困難だと書かれていた。,
-（妹を治すことはやっぱり難しいのかな・・・・。）,
-論文の最後には、「もしサキュバスと親和性の高い魔力があり、反発されずに呪いに触れることができれば、呪いの解除は可能なはずである」と書かれている。,
-希望がまるでない、というわけではないようだ。地道に調べて方法を探っていけば、きっと・・・。,
-（疲れたし、今日はもう帰ろう。）,
-僕は宿屋に戻り次第、すぐにベッドに飛び込んだ。頭を使う勉強は試合をするよりも疲れてしまう。,
-それにしても子どものときからちゃんと読み書きを教えてくれた師匠には感謝してもし足りない。,
-幼い僕を育てるだけでも大変だっただろうに、カードの修行をつけて、勉強も教えてくれて・・・。,
-師匠との日々を思い出しているうちに、僕はいつの間にか寝てしまった。,
-もしも妹が生きていて、人間に戻すことができたら一緒に図書館に行こう…。,
-頭が良くて小難しいことが大好きだったから、きっと目を輝かせてくれるだろう。そんなことをぼんやりと夢に見ながら、次の日の朝を迎えたのだった。,
-エイライラ先生の話を聞いた翌日。僕はさっそくギルド図書館に来ていた。,
-（この間見つけた論文は確かこの辺のはずだ…。）,
-(あった！),
-僕は「サキュバス化の呪いの研究」の論文を手に取る。相変わらず言葉づかいが難しくて、何を書いているのか細かい部分は分からない。,
-ただ「もしサキュバスの呪いに反発されずに触れることができれば、呪いの解除は可能である」と書いてあることは間違いなかった。,
-論文の作者を見ると、「ネクロ」という名前が書かれている。この人に会うことができれば、もっと詳しく分かるだろうか。,
-{主人公}さん、こんにちは♪\n今日はどのようなご用でしょうか？,
-え？ネクロという名前の研究者ですか…？\nうーん、どこかで聞いたことがあるような…。,
-そういってしばらく頭をひねったのち、受付さんは何かを思い出したようにポンと手を叩いた。,
-あ！そういえば昔コノハさんとお話したときに、\nその名前を聞いたことがあります。,
-確かコノハさんの昔からの友人だとか。\nコノハさんと並ぶ実力者で、\n当時は若手のエースとして大変期待されていたみたいですよ。,
-現在ネクロさんがどこにいるかは\n残念ながら把握していません…。\nでももしかしたら、コノハさんならご存じかもしれませんね。,
-なるほど、ありがとうございます！,
+試合が終わると、今日も情報を集めるため、僕は闘技場横の図書館に来ていた。,After the match; I went to the library next to the arena to look for information again.
+当てもなくサキュバス関連の本を探していると、一冊の薄い本が目に留まる。,While searching aimlessly for books on succubus; one thin book catches the eye.
+（「サキュバス化の呪いの研究」・・・？）,(‘Study of the Succubusification Curse’ ...?)
+手に取ってみると、本というより論文を綴じたものだった。専門的な読み物らしく、この間のやさしい本と違い、頭が痛くなるような難解な言葉が並んでいる。,When I picked it up; I found that it was not so much a book as a collection of research papers. It seemed to be a technical read; and unlike the easy books I read in the past; it was lined with difficult words that made my head hurt.
+（ううっ、がんばって読むか・・・。）,(Ugh; I'll do my best to read it...)
+ふぅ・・・。疲れた・・・。,Phew... I'm tired...
+なんとなく理解したところによると、この論文は人間をサキュバス化させる呪いの術式について研究したものらしい。,From what I understand; the paper is a study of a curse that turns a human into a succubus.
+サキュバスは人間を性的に絶頂させることで魂を無防備にさせ、そこに呪いの術式を刻むのだそうだ。,Succubi make the soul of a human vulnerable by causing sexual climax in the victim; which allows them to carve a curse formula into it.
+術式には強力な防御機構が備わっており、サキュバス以外のものが術式をいじろうとすると魂ごと自壊するようになっている。,The curse has a strong defence mechanism; so that if anything other than a succubus tries to tamper with the it; the soul itself is destroyed.
+魂が壊れたらそのまま命を失ってしまう。そのため通常の手段でサキュバス化を治すことは困難だと書かれていた。,If the soul is destroyed; the person will lose its life as a result. It was therefore written that it is difficult to cure succubusification by normal means.
+（妹を治すことはやっぱり難しいのかな・・・・。）,(Is it still difficult to cure my sister? ・・・・.) (note: maybe "it really is difficult to cure my sister..."?)
+論文の最後には、「もしサキュバスと親和性の高い魔力があり、反発されずに呪いに触れることができれば、呪いの解除は可能なはずである」と書かれている。,At the end of the paper; it states that ‘if one has a high magical affinity with the succubus and can touch the curse without being repelled; it should be possible to lift the curse’.
+希望がまるでない、というわけではないようだ。地道に調べて方法を探っていけば、きっと・・・。,It seems there is still hope. If I continue my search and find out how to do it; I'm sure I'll be able to cure my sister...
+（疲れたし、今日はもう帰ろう。）,(I'm tired; let's go home for the day.)
+僕は宿屋に戻り次第、すぐにベッドに飛び込んだ。頭を使う勉強は試合をするよりも疲れてしまう。,I jumped into bed as soon as I got back to the inn. Wracking my brain studying is more tiring than fighting in a match.
+それにしても子どものときからちゃんと読み書きを教えてくれた師匠には感謝してもし足りない。,Still; I can't thank my teacher enough for teaching me to read and write properly from childhood.
+幼い僕を育てるだけでも大変だっただろうに、カードの修行をつけて、勉強も教えてくれて・・・。,It must have been hard just to raise me as a young boy; but also to train me as a cardmaster and teaching me to study...
+師匠との日々を思い出しているうちに、僕はいつの間にか寝てしまった。,I fell asleep before I knew it; reminiscing about my days with my mentor.
+もしも妹が生きていて、人間に戻すことができたら一緒に図書館に行こう…。,If my sister is alive and I can turn her back into a human; we can go to the library together...
+頭が良くて小難しいことが大好きだったから、きっと目を輝かせてくれるだろう。そんなことをぼんやりと夢に見ながら、次の日の朝を迎えたのだった。,She was smart and loved small details; so I'm sure she would have a twinkle in her eye. I woke up the next morning; remembering vaguely about such a dream.
+エイライラ先生の話を聞いた翌日。僕はさっそくギルド図書館に来ていた。,The day after I heard Elaila's story. I immediately came to the Guild Library.
+（この間見つけた論文は確かこの辺のはずだ…。）,(I'm pretty sure the paper I found the other day was around here...)
+(あった！),(There it is!)
+僕は「サキュバス化の呪いの研究」の論文を手に取る。相変わらず言葉づかいが難しくて、何を書いているのか細かい部分は分からない。,I pick up the paper ‘A Study of the Succubation Curse’. The wording is as difficult as ever; and I can't make out any of the details of what it says.
+ただ「もしサキュバスの呪いに反発されずに触れることができれば、呪いの解除は可能である」と書いてあることは間違いなかった。,However; there was no doubt that it stated that ‘if the succubus curse could be touched without being repelled by it; the curse could be lifted’.
+論文の作者を見ると、「ネクロ」という名前が書かれている。この人に会うことができれば、もっと詳しく分かるだろうか。,Looking at the author of the paper; the name ‘Necro’ is mentioned. Would it be possible to meet this person to find out more?
+{主人公}さん、こんにちは♪\n今日はどのようなご用でしょうか？,Hello; {主人公}♪; what can I do for you today?
+え？ネクロという名前の研究者ですか…？\nうーん、どこかで聞いたことがあるような…。,Eh? A researcher named Necro...? Hmmm; I've heard of her somewhere....
+そういってしばらく頭をひねったのち、受付さんは何かを思い出したようにポンと手を叩いた。,After saying this she tilts her head thinking for a while. The receptionist then claps her hands as if she has remembered something.
+あ！そういえば昔コノハさんとお話したときに、\nその名前を聞いたことがあります。,Ah! I remember hearing that name when I spoke to Konoha in the past.
+確かコノハさんの昔からの友人だとか。\nコノハさんと並ぶ実力者で、\n当時は若手のエースとして大変期待されていたみたいですよ。,She was an old friend of Konoha's; as I recall. She was a talented person together with Konoha; and at the time; it seems she was very much expected to be an ace of the young generation.
+現在ネクロさんがどこにいるかは\n残念ながら把握していません…。\nでももしかしたら、コノハさんならご存じかもしれませんね。,Unfortunately; we do not know where Necro is currently... But perhaps Konoha might know.
+なるほど、ありがとうございます！,I see; thank you so much!
 受付さんの助言を受けて、僕は師匠に手紙を出すことにした。,
 せっかくの手紙だ。ネクロについて尋ねるだけではなく、僕はこの街での修行の様子や大会で連戦連勝していることも手紙に書いた。,
 師匠は手紙を見て僕の活躍を喜んでくれるだろうか。,
