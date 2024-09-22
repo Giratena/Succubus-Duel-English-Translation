@@ -13,7 +13,7 @@ Place/Morugen,
 マップ画面ではフィールド上のカードマスターを選びバトルを開始することができます。バトルに勝利することで、賞金や経験値に加え、あなたの指輪にランクポイントがたくわえられます。,On the map screen; you can select a cardmaster on the field to fight against them. By winning a battle; you will earn prize money; experience points; and earn rank points for your guild ring.
 ランクについて,About Rank
 ランクポイントが上限に達すると、ギルドで昇格試験を受けられます。試験をクリアすることでランクが上昇します。Aランクを目指してがんばりましょう！,When you reach the maximum amount of rank points for your current rank; you can take a promotion test at the guild. Clearing the test will increase your rank. Do your best to reach A-rank!
-上部メニューボタンを使用すると、ショップの利用やデッキの編集が行えます。ホームボタンを押すことで宿屋に戻ることができ、セーブは宿屋内で行うことができます。,You can use the top menu button to access the shop or edit your deck. The home button to returns you to the inn; where you can save.
+上部メニューボタンを使用すると、ショップの利用やデッキの編集が行えます。ホームボタンを押すことで宿屋に戻ることができ、セーブは宿屋内で行うことができます。,You can use the top menu button to access the shop or edit your deck. The home button returns you to the inn; where you can save.
 クエスト：Eランク昇格試験が発生しました,Quest: E-Rank Promotion Exam has occurred (translators note: feeling usure about this translation. Started or Completed?)
 クエストについて,About Quests
 マップ画面では一定の条件を満たすとクエストが発生することがあります。画面上部のメニューから旗のマークを選択するとクエストを受けることができます。,Quests can be triggered when certain conditions are met. You can see the currently available quests by selecting the flag icon from the menu at the top of the map screen.
