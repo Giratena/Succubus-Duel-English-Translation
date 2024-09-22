@@ -21,17 +21,17 @@ Place/Morugen,
 カードマスターが新たに登場するようになりました。,Cardmaster is now available.
 宿屋で休んだ翌日、僕はギルドに呼び出されていた。,The following day; after resting at the inn; I was summoned to the guild.
 お越しいただきありがとうございます、{主人公}さん！昨日は初めてのクエストでのサキュバス討伐、お疲れ様でした！,Thank you for coming; {主人公}! Good job on defeating the succubus on your first quest yesterday!
-昨日はクエストから帰ってきた直後という事もあって、お伝えしていなかったことがあります。,Yesterday; you just got back from your quest; so there's something I did not get to tell you.
-はい。この度ランク昇格に伴い、{主人公}さんは闘技場への入場許可が貰えるようになりました！,Yes. Since your rank has increased; {主人公}; you will now be allowed to enter the arena!
+昨日はクエストから帰ってきた直後という事もあって、お伝えしていなかったことがあります。,Since you just got back from your quest yesterday; there is something I have waited to tell you.
+はい。この度ランク昇格に伴い、{主人公}さんは闘技場への入場許可が貰えるようになりました！,Since your rank has increased; {主人公}; you will now be allowed to enter the arena!
 D級以上のカードマスターの方々はその多くが闘技場に出入りしています。,Many cardmasters who are D-rank or above frequently use the arena.
 闘技場ではランクポイントも賞金もかなり多くもらえることになっているので、上手く闘技場で勝っていけば、ランクも上げやすくなりますよ！,You can get a lot of rank points and prize money in the arena. If you win your matches in the arena; it will be much easier to raise your rank!
-ですが闘技場に出入りするマスターはみな腕に覚えのある人ばかり。例え同じDランクでも、上のランクのマスターに勝てる人だっています。,However; all the masters who enter and leave the arena are skilled. Even if they are also D-rank, there are some who can beat the higher-ranked cardmasters.
+ですが闘技場に出入りするマスターはみな腕に覚えのある人ばかり。例え同じDランクでも、上のランクのマスターに勝てる人だっています。,However; all the masters who enter and leave the arena are skilled. Even if they are also D-rank; there are some who can beat the higher-ranked cardmasters.
 一応お聞きしますが、闘技場への入場を希望いたしますか？,Just to confirm; would you like to enter the arena?
 承知しました。きっと{主人公}さんなら戦っていけるでしょう。,Yes; sir. I'm sure {主人公} will be able to fight. (note: is cappable enough to fight?)
 ふふ、頼もしい言葉です。{主人公}さんなら本当に戦い抜けるでしょうね。,Hmm, that's good word to hear. I'm sure {主人公} will really be able to fight his way through.
 Dランクになったギルドリングがそのまま参加許可証となるので、今からすぐに闘技場の試合に参加できます。頑張ってくださいね！,Your D-rank guild ring will serve as permit; so you can start participating in arena matches right away. Good luck!
 メニューから闘技場に行けるようになりました。,You can now access the Arena from the menu.
-Dランク以降では闘技場で対戦をすることでストーリーが進むようになります。闘技場で一度勝利した相手は、それ以降街でも戦えるようになります（闘技場のマスターと街で戦う場合、敗北シーンはありません）。,From D-rank; and onwards; the storyline is progressed by fighting in the arena. Once you have defeated an opponent in the arena; you can fight them in the city from then on (if you fight an arena cardmaster in the city; there is no defeat scene).
+Dランク以降では闘技場で対戦をすることでストーリーが進むようになります。闘技場で一度勝利した相手は、それ以降街でも戦えるようになります（闘技場のマスターと街で戦う場合、敗北シーンはありません）。,From D-rank; and onwards; the storyline is progressed by fighting in the arena. Once you have defeated an opponent in the arena; you can fight them in the city as well (if you fight an arena cardmaster in the city; there is no defeat scene).
 勝負のあと僕は闘技場のすぐそばにある、大きな図書館に来ていた。,After the match I came to a big library, right next to the arena.
 聞くところによると、この図書館は闘技場の収益で運営されているそうだ。普通は入館料を取られるが、Ｄランク以上のマスターになると、入館料は無料になるらしい。,According to what I've heard; the library is funded by the proceeds of the arena. Normally; the library charges an entrance fee; but if you are a D-rank or higher cardmaster, the entrance fee is free.
 （サキュバスについての本を読んでおきたいな。\nそれと、サキュバス化した人間を元に戻す方法の本が\nあったりしないだろうか・・・。）,(I'd like to read a book about succubus. I wonder if there are any books on how to turn back a succubus-ified human back to normal...)
