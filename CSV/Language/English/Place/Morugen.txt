@@ -10,7 +10,7 @@ default
 モルゲン,Morugen
 Place/Morugen,
 バトル大会について,About the Tournament
-マップ画面ではフィールド上のカードマスターを選びバトルを開始することができます。バトルに勝利することで、賞金や経験値に加え、あなたの指輪にランクポイントがたくわえられます。,On the map screen; you can select a cardmaster on the field to fight against them. By winning a battle; you will earn prize money; experience points; and earn rank points for your guild ring.
+マップ画面ではフィールド上のカードマスターを選びバトルを開始することができます。バトルに勝利することで、賞金や経験値に加え、あなたの指輪にランクポイントがたくわえられます。,On the map screen; you can select a cardmaster on the field to fight against them. By winning a battle; you will earn prize money; experience points; and rank points.
 ランクについて,About Rank
 ランクポイントが上限に達すると、ギルドで昇格試験を受けられます。試験をクリアすることでランクが上昇します。Aランクを目指してがんばりましょう！,When you reach the maximum amount of rank points for your current rank; you can take a promotion test at the guild. Clearing the test will increase your rank. Do your best to reach A-rank!
 上部メニューボタンを使用すると、ショップの利用やデッキの編集が行えます。ホームボタンを押すことで宿屋に戻ることができ、セーブは宿屋内で行うことができます。,You can use the top menu buttons to access the shop or edit your deck. The home button returns you to the inn; where you can save.
@@ -25,7 +25,7 @@ Place/Morugen,
 はい。この度ランク昇格に伴い、{主人公}さんは闘技場への入場許可が貰えるようになりました！,Since your rank has increased; you will now be allowed to enter the arena!
 D級以上のカードマスターの方々はその多くが闘技場に出入りしています。,Many cardmasters who are D-rank or above frequently use the arena.
 闘技場ではランクポイントも賞金もかなり多くもらえることになっているので、上手く闘技場で勝っていけば、ランクも上げやすくなりますよ！,You can get a lot of rank points and prize money there. If you win your matches in the arena; it will be much easier to raise your rank!
-ですが闘技場に出入りするマスターはみな腕に覚えのある人ばかり。例え同じDランクでも、上のランクのマスターに勝てる人だっています。,However; all the masters who enter and leave the arena are skilled. Even if they are also D-rank; there are some who can beat the higher-ranked cardmasters.
+ですが闘技場に出入りするマスターはみな腕に覚えのある人ばかり。例え同じDランクでも、上のランクのマスターに勝てる人だっています。,However; all the cardmasters who frequent the arena are skilled. There are even some of the D-rank; who can beat higher-ranked cardmasters.
 一応お聞きしますが、闘技場への入場を希望いたしますか？,Just to confirm; would you like to enter the arena?
 承知しました。きっと{主人公}さんなら戦っていけるでしょう。,Yes; sir. I'm sure {主人公} will be able to fight. (note: is cappable enough to fight?)
 ふふ、頼もしい言葉です。{主人公}さんなら本当に戦い抜けるでしょうね。,Hmm, that's good word to hear. I'm sure {主人公} will really be able to fight his way through.
