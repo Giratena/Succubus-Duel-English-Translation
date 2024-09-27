@@ -53,7 +53,7 @@ OPイベントをスキップしますか？,
 エルルさんが話していた噂が本当なら、今日はだいぶ楽ができるかもしれない。,If the rumors I heard from Elulu are true; today's match should be easy.
 とはいえ試合は試合だ。油断せずに気を引き締めて行こう。,Nevertheless; a match is a match. I shouldn't let my guard down.
 控室で試合の準備をしていると、誰かがドアをノックしてきた。,While I was preparing for the match; someone knocked on the door.
-失礼します。わたくし、今日のあなた様の対戦相手、\nリュカ・シャルロットのメイドでございます。,Excuse me; I'm the maid of Mistress Luka Charlotte; who happens to be your today's opponent.
+失礼します。わたくし、今日のあなた様の対戦相手、\nリュカ・シャルロットのメイドでございます。,Excuse me; I'm the maid of Mistress Charlotte Lucas; who happens to be your today's opponent.
 お嬢様があなた様に試合前のご挨拶をなさりたいとのことで、\n申し訳ございませんが、\nドアを開けていただけませんでしょうか。,The mistress would like to exchange greetings with you before the match. Could you open the door for us?
 ・・・・。,...
 対戦相手が挨拶に来た、というのであれば、ドアを開けないのは失礼にあたるだろう。,It would be rude of me not to open the door if my opponent is here to give her greetings.
@@ -63,7 +63,7 @@ OPイベントをスキップしますか？,
 メイドを伴った一人の少女、おそらく今日の対戦相手であろう彼女は、ずかずかと部屋の中に入ってくると、控室のベッドにどかっと腰を下ろした。,Accompanied by a maid, a girl, whom I assume to be my opponent, rudely made her way into the room and sat down on the bed.
 挨拶をしに来たというには、横柄な態度だ。僕はいぶかしげに彼女の様子を見ていると、お付きのメイドも部屋に入り、僕に話しかけてきた。,She acted awfully arrogant for to have come exchange greetings. While I was watching her with caution; her maid also came in to the room and came to speak to me.
 どうもはじめまして。{主人公}様。\nこのたびはお嬢様との試合、\nよろしくお願いいたします。,Nice to meet you; Sir {主人公}. I wish you'll have a good match with my mistress.
-わたくしどもリュカ商会は国内随一の大商会。\nカードパックなども商っておりますので、「リュカ」の名を\n{主人公}様もお聞きになったことがあるのではないでしょうか。,We belong to the Luka Trading Company which is the largest domestic trading company. We deal in card packs among other items; so it's like you have heard the name Luka before.
+わたくしどもリュカ商会は国内随一の大商会。\nカードパックなども商っておりますので、「リュカ」の名を\n{主人公}様もお聞きになったことがあるのではないでしょうか。,We belong to the Lucas Trading Company which is the largest domestic trading company. We deal in card packs among other items; so it's like you have heard the name Lucas before.
 これはお嬢様からのお近づきのしるしです。\nどうぞお開けになってください。,This is a gift of acquittance from my mistress. You may open it.
 そういうとメイドは僕にカードパックを差し出した。表面にハートマークがあしらわれた、白色の見たことがないパックだ。,With those words; the maid presented me a card pack. It was pure white with only a heart mark at the front. I hadn't seen a pack like this before.
 パックを開けてみると聞いたこともないようなカードが中に入っていた。「性癖浸食」に「おっぱいマゾ」・・・！？なんだこのカードたちは。,Opening it; I found cards that I hadn't heard before... "Fetish Corruption"... "Boob Masochist"... What's with these cards?!
