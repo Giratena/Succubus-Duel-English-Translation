@@ -16,8 +16,8 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 この間は負けたけれど、今度は負けない！\n例えランクで先に行かれても今日の勝負は別ものよ。,I might have lost last time; but it's not happening again! Today's duel will be different despite your higher rank!
 さあ、熱いバトルをしましょう！,Now; let's have a fiery battle!
 とはいえ、この間の勝負はわたしの勝ちだったわね♪\n例えランクで先に行かれても、強いのはわたしのはずよ。,But there's no changing the fact that I won last time♪ I'm sure I'm still the stronger one; despite your rank-up.
-また会ったわね。\nガンガンバトルしてお互いの実力を上げていきましょう！,We meet again. Let's duel and hone our skills!
-あなたの方がランクが上なだけあって、\nやっぱり強いけれど…。\n今回は負けないわよ！,I know that you're stronger and higher rank... But I'm not losing this time!
+また会ったわね。\nガンガンバトルしてお互いの実力を上げていきましょう！,So we meet again huh. Let's have an fiery battle and hone our skills!
+あなたの方がランクが上なだけあって、\nやっぱり強いけれど…。\n今回は負けないわよ！,I know that you're stronger and higher rank... But this time I won't lose!
 ランクが上でも関係ない、\nこの間と同じようにまたわたしが勝つんだから！\nさあバトルよ！,It doesn't matter if you're higher rank or not! I'm going to win just like before! Now; let's duel!
 ううっ、強い…。\nでもわたし諦めない、次やるときは勝つんだから！\nまたやりましょう！,Uuh... You're so strong. But I'm not giving! I'll win next time! Mark my words!
 ランクが上の男でも射精しちゃうわたしのカラダ、\nアンタには刺激が強かったかもしれないわね❤\nふふ、エナジーごちそうさま❤,Even higher-rank men can't help spilling semen to my body; so perhaps it's a bit too stimulating for a low-rank like you?❤ Ahaha. Thanks for the energy~❤
@@ -44,13 +44,13 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローしてさらに味方を回復させる！,{使用カード} triggers from fire damage! I draw a card and heal all my monsters!
 効果ダメージで破壊されたとき{使用カード}の効果発動！自身を墓地から復活させる！,{使用カード} triggers when it's destroyed with effect damage. I revive it from the graveyard!
 戦闘で破壊されたとき{使用カード}の効果発動！「ラヴァガール」を特殊召喚！,{使用カード} triggers when it's destroyed in battle! I special summon Lava Girl!
-炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,{使用カード} triggered from fire damage! It's HP and ATK increase by 300 points!
+炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,When {使用カード} receives fire damage; I activate it's ability and increase it's HP and ATK by 300 points!
 炎を食って成長しなさい！{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,Consume the flames and grow! {使用カード} triggered; increasing its HP and ATK increase by 300 points!
 召喚に成功したとき{使用カード}の効果発動！ラヴァガールを特殊召喚！,{使用カード} triggers on summon! I special summon Lava Girl!
 攻撃時に{使用カード}のモンスター効果発動！すべてのモンスターに100ポイントダメージを与えるわ！,{使用カード} triggers when it attacks; dealing 100 points of damage to all other monsters!
 魔法カード発動！{使用カード}！これを付与したモンスターが戦闘破壊されたとき2ドローするわ.,I activate spell card: {使用カード}! Targeted monster draws me two cards when it's destroyed in combat!
 魔法カード発動！{使用カード}！すべてのモンスターに400ポイントダメージよ！,I activate spell card {使用カード}; dealing 400 points of damage to all monsters!
-どんどん吹っ飛ばすわ。魔法カード、{使用カード}を発動！,I'll blow you away. Spell Card {使用カード} activate!
+どんどん吹っ飛ばすわ。魔法カード、{使用カード}を発動！,Time to blow off some steam. Spell Card {使用カード} activate!
 ライフを500払い、{使用カード}を発動！表側表示の魔法トラップカードを1枚破壊する！,I pay 500 LP to activate {使用カード}; destroying a face-up spell or trap card!
 ライフを1500払い、{使用カード}を発動！植物カードを破壊して炎のモンスターを2体呼び出す！,I pay 1500 LP and destroy one of my Plant monsters to activate {使用カード}; summoning two Fire Attribute monsters!
 さらにその後、自分フィールド上のすべてのモンスターは600ポイントダメージを受けるわ！,And then; I deal 600 points of damage to all my monsters!
