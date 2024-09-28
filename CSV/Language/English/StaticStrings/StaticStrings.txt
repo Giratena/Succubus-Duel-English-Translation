@@ -121,7 +121,7 @@ Claw,
 水属性,Water
 風属性,Wind
 火属性,Fire
-炎属性,Fire //Same translation due to an error according to Irojimatome-san
+炎属性,Fire
 地属性,Earth
 光属性,Light
 ローグ,Rogue
