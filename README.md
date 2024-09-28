@@ -28,13 +28,14 @@ DO:
 
 DON'T: 
 > "ほら、さわさわ❤さわさわ・・・❤" -\> "Look; brush~❤ brush...❤"
-### Japanese laughter
+### Japanese laughter/Other Terms
 Retain any laughter as follows while preserving the nuanced Japanese:
 > You can add an "!" or "~" after it if it feels appropriate!
 - うふふ -> Ufufu
 - くすくす -> "\*Giggle\*", "Hehe", "Teehee", "Kuhuhu", or "\*snicker\*"
 - あは -> Aha
 - あはは -> Ahaha
+- エナジー -> Mana
 
 ## Card terminology
 - The elements a card can be (EG: Water, Fire Dark etc) is called "Attribute"
