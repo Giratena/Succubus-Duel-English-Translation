@@ -31,43 +31,43 @@ OPイベントをスキップしますか？,
 なんにしても勝利は勝利だ！僕は歓声を背にその場を後にしたのだった。,
 闘技場の勝利報酬を得た！,
 やっほー、{主人公} 。元気にしてた？,Yah-hoo; {主人公}. How have you been?
-エルルさんが僕に話しかけてきた。彼女も試合の申し込みに来ていたらしい。,Elulu came to speak to me. It seems like she's here to apply for a match too.
-サキュバスが復活してしまうことについて、エイライラさんに話を通し、原因を探ってくれたのはエルルさんだった。あのあときちんと話もできていなかったし心配をかけていたかもしれない。,She was the one who helped me talk with Eilaila about the succubi's revival and find the source for it. We haven't had a chance to talk after that; so she might have been worried.
-僕はこれまでのできごとや新たに分かったことを彼女に話した。,I told her about what I've been up to after that and what information I've found.
-え、半魔族化した魔力を逆に利用して、サキュバスを治療・・・？\n魔族化しているならサキュバスの呪いに触れられる・・・？,
-・・・。聞いたこともない仮説ね。でもありえない話でもなさそう。\nサキュバス化の治療はまだ誰も成し遂げていない偉業だし、\nもし実用化できれば、勲章ものの功績になるんじゃない？,
-ふふ、それにしてもずいぶん明るい表情に戻ったわね。\nあなた、出会ったときからどこか思いつめた顔をしてたし。\n他人事とはいえ、なんだかとてもほっとしちゃった。,
-妹さんを助けられるかもしれない希望が見えて、本当によかったわね。,
-・・・♪,
-それに聞いたわよ。さっそくBランクで1勝を上げたそうね。\n今日の試合も、たぶん楽勝でしょうし、\nこれはほんとにAランク昇格が見えてきたかも・・・。,
-・・・？,
-楽勝？,
-ああ、今日のあなたの試合相手なんだけど、\nどうやらリュカ商会のお嬢様らしいのよ。,
-彼女は上級召喚もできないぐらいの魔力しかなくて、\n実力もDランクぐらいなんだけど、\nギルドの大スポンサーだからって名誉Bランクをもらってるの。,
-名誉Bランクってのは、\n寄付金とか研究とか、\nバトル以外の功績で認められたときにもらえる特別なランクね。,
-名誉Bランクでも普通のBランクと同じように闘技場へ\n挑戦できるんだけど、出場しても負けて恥をかくだけでしょ？\n普通は試合に出たりしないの。,
-でも、今日はなぜかその名誉Bランクのお嬢様が\n「無敗のルーキー」への挑戦を望んでいるらしいのよ。\nあちこちで噂になってるわ。,
-ま、あなたからすれば、\n弱い相手が出てくれてラッキーってところよね。,
-わたしとしても、お金でBランクになったような人に\n大きな顔してほしくないし、\nあなたには相手をこてんぱんに負かしてほしいわ。,
-わたしの試合はあなたより後だし、楽しみに観戦してるわね。\nそれじゃ、バイバイ♪,
-エルルさんが話していた噂が本当なら、今日はだいぶ楽ができるかもしれない。,If the rumors I heard from Elulu are true; today's match should be easy.
-とはいえ試合は試合だ。油断せずに気を引き締めて行こう。,Nevertheless; a match is a match. I shouldn't let my guard down.
-控室で試合の準備をしていると、誰かがドアをノックしてきた。,While I was preparing for the match; someone knocked on the door.
-失礼します。わたくし、今日のあなた様の対戦相手、\nリュカ・シャルロットのメイドでございます。,Excuse me; I'm the maid of Mistress Charlotte Lucas; who happens to be your today's opponent.
-お嬢様があなた様に試合前のご挨拶をなさりたいとのことで、\n申し訳ございませんが、\nドアを開けていただけませんでしょうか。,The mistress would like to exchange greetings with you before the match. Could you open the door for us?
+エルルさんが僕に話しかけてきた。彼女も試合の申し込みに来ていたらしい。,Elulu came up to me. It seems like she's here for a match too.
+サキュバスが復活してしまうことについて、エイライラさんに話を通し、原因を探ってくれたのはエルルさんだった。あのあときちんと話もできていなかったし心配をかけていたかもしれない。,She was the one who helped me connect with Eilaila about the succubi's revival and find the cause for it. We haven't had a chance to talk after that; so she must have been worried about me.
+僕はこれまでのできごとや新たに分かったことを彼女に話した。,I filled her in about what I've been up to and the information I've found.
+え、半魔族化した魔力を逆に利用して、サキュバスを治療・・・？\n魔族化しているならサキュバスの呪いに触れられる・・・？,Eh? You can revers
+・・・。聞いたこともない仮説ね。でもありえない話でもなさそう。\nサキュバス化の治療はまだ誰も成し遂げていない偉業だし、\nもし実用化できれば、勲章ものの功績になるんじゃない？,...I've never heart of such hypothesis; but it seems possible. No one has succeeded in curing succuficiation yet; so it would be a huge achievement if it was possible through that.
+ふふ、それにしてもずいぶん明るい表情に戻ったわね。\nあなた、出会ったときからどこか思いつめた顔をしてたし。\n他人事とはいえ、なんだかとてもほっとしちゃった。,Ehehe. Nevertheless; your expression looks much brighter than before. You've had this hard look on your face ever since I met you. I know it's not my problem; but I feel relieved.
+妹さんを助けられるかもしれない希望が見えて、本当によかったわね。,I'm glad you've found a method that might cure your little sister.
+・・・♪,...♪
+それに聞いたわよ。さっそくBランクで1勝を上げたそうね。\n今日の試合も、たぶん楽勝でしょうし、\nこれはほんとにAランク昇格が見えてきたかも・・・。,Oh; I heard how you're about to reach B-rank too. You should have an easy match today; so it might not take long before you make it to A-rank...
+・・・？,...?
+楽勝？,I wasn't sure what she meant by an easy match.
+ああ、今日のあなたの試合相手なんだけど、\nどうやらリュカ商会のお嬢様らしいのよ。,Oh; your opponent today is the young lady of the Lucas Trading Company.
+彼女は上級召喚もできないぐらいの魔力しかなくて、\n実力もDランクぐらいなんだけど、\nギルドの大スポンサーだからって名誉Bランクをもらってるの。,She doesn't have the mana capacity to use advanced summons and her skills are only in par of D-rank cardmasters; but she has been given rank of Honorable B-Rank because of being a big sponsor for the guild.
+名誉Bランクってのは、\n寄付金とか研究とか、\nバトル以外の功績で認められたときにもらえる特別なランクね。,Honorable B-rank is a special rank can be earned through merits outside of battles; like donations and research achievements.
+名誉Bランクでも普通のBランクと同じように闘技場へ\n挑戦できるんだけど、出場しても負けて恥をかくだけでしょ？\n普通は試合に出たりしないの。,They can fight matches in the arena like the regular B-ranks; but normally they don't do that because they would only embarrass themselves by losing.
+でも、今日はなぜかその名誉Bランクのお嬢様が\n「無敗のルーキー」への挑戦を望んでいるらしいのよ。\nあちこちで噂になってるわ。,However; it seems that this honorable B-rank lady specifically requested a match against the "undefeated rookie"; or that's what the rumors say.
+ま、あなたからすれば、\n弱い相手が出てくれてラッキーってところよね。,But from your point of view; you're lucky to face off against such a weak opponent.
+わたしとしても、お金でBランクになったような人に\n大きな顔してほしくないし、\nあなたには相手をこてんぱんに負かしてほしいわ。,I don't want someone who bought their way into B-rank acting so high and mighty; so I would like you to completely beat her up.
+わたしの試合はあなたより後だし、楽しみに観戦してるわね。\nそれじゃ、バイバイ♪,My match comes up after you; so I'm looking forward to seeing happen. Well then; bye bye♪
+エルルさんが話していた噂が本当なら、今日はだいぶ楽ができるかもしれない。,If the rumors said by Elulu are true; I should have an easy match today.
+とはいえ試合は試合だ。油断せずに気を引き締めて行こう。,Nevertheless; a match is a match; so I shouldn't let my guard down.
+控室で試合の準備をしていると、誰かがドアをノックしてきた。,As I was preparing for the match; I heard someone knock on the door.
+失礼します。わたくし、今日のあなた様の対戦相手、\nリュカ・シャルロットのメイドでございます。,Excuse me; Sir {主人公}; I'm a maid serving Mistress Charlotte Lucas; who is your today's opponent.
+お嬢様があなた様に試合前のご挨拶をなさりたいとのことで、\n申し訳ございませんが、\nドアを開けていただけませんでしょうか。,The mistress would like to exchange greetings with you before the match. Could I ask to let us inside?
 ・・・・。,...
-対戦相手が挨拶に来た、というのであれば、ドアを開けないのは失礼にあたるだろう。,It would be rude of me not to open the door if my opponent is here to give her greetings.
-僕は控室のドアを開けて、彼女を迎え入れた。,I opened the door to the room and welcome her in.
-入るわね。\nふーん、ここが一般選手の控室。\nやっぱりVIPの部屋とは違うのね。,Coming in. Hmm? So this is what the commoner waiting room looks like. It's completely different from the ones prepared for VIPs.
-あら、ベッドがついているの。\n一般人は自分の部屋じゃなくてここで寝たりするのかしら？\n変なの♪,Oh? There's even a bed. Do commoners actually sleep here instead of your own room? That's so weird♪
-メイドを伴った一人の少女、おそらく今日の対戦相手であろう彼女は、ずかずかと部屋の中に入ってくると、控室のベッドにどかっと腰を下ろした。,Accompanied by a maid, a girl, whom I assume to be my opponent, rudely made her way into the room and sat down on the bed.
-挨拶をしに来たというには、横柄な態度だ。僕はいぶかしげに彼女の様子を見ていると、お付きのメイドも部屋に入り、僕に話しかけてきた。,She acted awfully arrogant for to have come exchange greetings. While I was watching her with caution; her maid also came in to the room and came to speak to me.
-どうもはじめまして。{主人公}様。\nこのたびはお嬢様との試合、\nよろしくお願いいたします。,Nice to meet you; Sir {主人公}. I wish you'll have a good match with my mistress.
-わたくしどもリュカ商会は国内随一の大商会。\nカードパックなども商っておりますので、「リュカ」の名を\n{主人公}様もお聞きになったことがあるのではないでしょうか。,We belong to the Lucas Trading Company which is the largest domestic trading company. We deal in card packs among other items; so it's like you have heard the name Lucas before.
-これはお嬢様からのお近づきのしるしです。\nどうぞお開けになってください。,This is a gift of acquittance from my mistress. You may open it.
-そういうとメイドは僕にカードパックを差し出した。表面にハートマークがあしらわれた、白色の見たことがないパックだ。,With those words; the maid presented me a card pack. It was pure white with only a heart mark at the front. I hadn't seen a pack like this before.
-パックを開けてみると聞いたこともないようなカードが中に入っていた。「性癖浸食」に「おっぱいマゾ」・・・！？なんだこのカードたちは。,Opening it; I found cards that I hadn't heard before... "Fetish Corruption"... "Boob Masochist"... What's with these cards?!
-ふーん、男が開けるとそういう感じのカードになるんだ。\n・・・。にしても、「貢ぐ」とか「おっぱいマゾ」とか、\nヘンタイ丸出しって感じで、きもちわるーい❤,Hmm? So that's the kind of cards come out of those packs when a man opens them... For there to be stuff like "Tribute" and "Boob Masochist," those are totally perverted. How gross.❤
+対戦相手が挨拶に来た、というのであれば、ドアを開けないのは失礼にあたるだろう。,It would be rude of me not to open the door if my opponent was here to greet me.
+僕は控室のドアを開けて、彼女を迎え入れた。,I opened the door to the room and let them inside.
+入るわね。\nふーん、ここが一般選手の控室。\nやっぱりVIPの部屋とは違うのね。,Coming in. Hmm? So this is what the commoner waiting room looks like. It's completely different from the ones for VIPs.
+あら、ベッドがついているの。\n一般人は自分の部屋じゃなくてここで寝たりするのかしら？\n変なの♪,Oh? There's even a bed. Do you actually sleep here instead of your own room? You commoners are so weird♪
+メイドを伴った一人の少女、おそらく今日の対戦相手であろう彼女は、ずかずかと部屋の中に入ってくると、控室のベッドにどかっと腰を下ろした。,A girl; who I assumed to be my today's opponent; rudely made her into the room and sat down on the bed.
+挨拶をしに来たというには、横柄な態度だ。僕はいぶかしげに彼女の様子を見ていると、お付きのメイドも部屋に入り、僕に話しかけてきた。,She acted awfully arrogant despite having come to exchange greetings. While I watched her with caution; the maid who accompanied her also made her way in to speak with me.
+どうもはじめまして。{主人公}様。\nこのたびはお嬢様との試合、\nよろしくお願いいたします。,Nice to meet you; Sir {主人公}. I wish you'll have a good match with my mistress today.
+わたくしどもリュカ商会は国内随一の大商会。\nカードパックなども商っておりますので、「リュカ」の名を\n{主人公}様もお聞きになったことがあるのではないでしょうか。,We belong to the Lucas Trading Company; which is on of the largest domestic trading companies. We deal in card packs among other items; so it's like you have heard of us before.
+これはお嬢様からのお近づきのしるしです。\nどうぞお開けになってください。,This is a token of acquittance from the mistress. You may open it.
+そういうとメイドは僕にカードパックを差し出した。表面にハートマークがあしらわれた、白色の見たことがないパックだ。,With those words; the maid presented me a card pack. It had a pure white wrapper with only a heart mark decorating the front. I hadn't seen a pack like this before.
+パックを開けてみると聞いたこともないようなカードが中に入っていた。「性癖浸食」に「おっぱいマゾ」・・・！？なんだこのカードたちは。,When I opened it; I also found cards that I hadn't heard of before... "Fetish Corruption"... "Boob Masochist"... What the heck are these cards?!
+ふーん、男が開けるとそういう感じのカードになるんだ。\n・・・。にしても、「貢ぐ」とか「おっぱいマゾ」とか、\nヘンタイ丸出しって感じで、きもちわるーい❤,Hmm? So that's the type of cards come out of it when a man opens it... For there to be stuff like "Tribute" and "Boob Masochist," those are totally perverted. How gross.❤
 いつの間にかそばに来ていたシャルロットが、後ろから僕のカードを覗き込み、ケタケタと小馬鹿にしたように笑っている。,Charlotte was suddenly behind me to peek at my cards and giggle at me.
 ふふ、そのカードパック、変わってるでしょ？\nちなみに女が開けると、サキュバスのカードが出てくるのよ。,Ahaha. That card pack was strange; right? By the way; when a girl opens it; they get succubus cards.
 1年ぐらい前からかな、\nたまーにサキュバスのカードが流通しているのを見かけるようになって\nそれで四方手を尽くして調査したら、そのパックが見つかったの。,It's been about a year since you could rarely come across a succubus card circulating the merchants. When we searched all across the land for its source; we came across those card packs.
