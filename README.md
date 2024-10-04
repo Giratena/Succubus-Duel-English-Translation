@@ -21,7 +21,7 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 - Any "," must be replaced with ";". This is because the scripts are comma-delimited CSVs. They will render as "," in game.
 - Don't use "…". Use "..."!
 ### Japanese SFX
-Japanese words often have lots of sfx. The Japanese language is great with sfx but not so much for English! So you'll want to substitute with an adjective fulled English description instead if nesscisary.
+Japanese words often have lots of sfx. The Japanese language is great with sfx but not so much for English! So you'll want to substitute with an adjective English description instead if necessary. If sfx is used, be sure to wrap them in "*". EG: "*Suck, slurp*"
 
 DO:
 > "ほら、さわさわ❤さわさわ・・・❤" -\> "See how I'm gently brushing my fingers over your nipples?\~❤"
