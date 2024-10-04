@@ -20,11 +20,11 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 あなたの方がランクが上なだけあって、\nやっぱり強いけれど…。\n今回は負けないわよ！,I know that you're stronger and higher rank... But this time I won't lose!
 ランクが上でも関係ない、\nこの間と同じようにまたわたしが勝つんだから！\nさあバトルよ！,It doesn't matter if you're higher rank or not! I'm going to win just like before! Now; let's duel!
 ううっ、強い…。\nでもわたし諦めない、次やるときは勝つんだから！\nまたやりましょう！,Uuh... You're so strong. But I'm not giving! I'll win next time! Mark my words!
-ランクが上の男でも射精しちゃうわたしのカラダ、\nアンタには刺激が強かったかもしれないわね❤\nふふ、エナジーごちそうさま❤,Even higher-rank men can't help spilling semen to my body; so perhaps it's a bit too stimulating for a low-rank like you?❤ Ahaha. Thanks for the energy~❤
+ランクが上の男でも射精しちゃうわたしのカラダ、\nアンタには刺激が強かったかもしれないわね❤\nふふ、エナジーごちそうさま❤,Even higher-rank men can't help spilling semen to my body; so perhaps it's a bit too stimulating for a low-rank like you?❤ Ahaha. Thanks for the mana~❤
 へへん、どう？わたしの炎デッキの力、すごいでしょ！,Ehehe. Well? The power of my Fire Attribute deck is amazing; right?
 楽しいバトルだったわ。またいつでも再戦待ってるわね。,It was a good duel. You can come for a rematch anytime.
 ううっ、さすがに強いわね…。\n上のランクに行っただけあるわ…。悔しいぃ…。,Uuh... So strong. It's no wonder you made it to the next rank... How frustrating...
-エナジーごちそうさま❤ランクが上でも、\nわたしの体で精液どぴゅどぴゅしちゃうのは変わらなかったわね❤,Thanks for the energy~❤ Despite making it to the next rank; there's still no changing the fact that you can't help spilling your semen to my body~❤
+エナジーごちそうさま❤ランクが上でも、\nわたしの体で精液どぴゅどぴゅしちゃうのは変わらなかったわね❤,Thanks for the mana~❤ Despite making it to the next rank; there's still no changing the fact that you can't help spilling your semen to my body~❤
 やったぁ！上のランク相手でも勝てた！\nわたしの炎デッキの力、すごいでしょ！,Yay! I won against a higher-rank opponent! My Fire Attribute deck is amazing!
 またいつでも再戦待ってるわね！,You can ask me for a rematch anytime!
 あなたのターンからね。,You go first.
@@ -43,10 +43,10 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローし味方全体を200ポイント回復！,When {使用カード} is triggered by fire damage; I draw a card and restore 200 HP to all my monsters!
 炎ダメージを受けたとき{使用カード}の効果発動！カードを1枚ドローしてさらに味方を回復させる！,{使用カード} triggers from fire damage! I draw a card and heal all my monsters!
 効果ダメージで破壊されたとき{使用カード}の効果発動！自身を墓地から復活させる！,{使用カード} triggers when it's destroyed with effect damage. I revive it from the graveyard!
-戦闘で破壊されたとき{使用カード}の効果発動！「ラヴァガール」を特殊召喚！,When {使用カード} is destroyed in battle; I activate it's effect which allows me to special summon 1 Lava Girl!
-炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,When {使用カード} receives fire damage; I activate it's ability and increase it's HP and ATK by 300 points!
-炎を食って成長しなさい！{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,Absorb the flames and grow stronger! I activate {使用カード}'s effect; increasing its HP and ATK by 300 points!
-召喚に成功したとき{使用カード}の効果発動！ラヴァガールを特殊召喚！,When {使用カード} is summoned; I activate it's effect and special summon 1 Lava Girl!
+戦闘で破壊されたとき{使用カード}の効果発動！「ラヴァガール」を特殊召喚！,When {使用カード} is destroyed in battle; I can activate it's effect and special summon 1 Lava Girl!
+炎ダメージを受けたとき{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,When {使用カード} receives fire damage; it's HP and ATK will increase by 300 points!
+炎を食って成長しなさい！{使用カード}の効果発動！HPと攻撃力を300ポイントアップ！,Consume the flames and grow! I activate {使用カード}'s effect; increasing its HP and ATK by 300 points!
+召喚に成功したとき{使用カード}の効果発動！ラヴァガールを特殊召喚！,When {使用カード} is summoned; I may special summon 1 Lava Girl!
 攻撃時に{使用カード}のモンスター効果発動！すべてのモンスターに100ポイントダメージを与えるわ！,{使用カード} triggers when it attacks; dealing 100 points of damage to all other monsters!
 魔法カード発動！{使用カード}！これを付与したモンスターが戦闘破壊されたとき2ドローするわ.,When {使用カード} attacks; it activates its effect; dealing 100 points of damage to all other monsters!
 魔法カード発動！{使用カード}！すべてのモンスターに400ポイントダメージよ！,I activate spell card {使用カード}; dealing 400 points of damage to all monsters!
@@ -73,7 +73,7 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 男ってほんとスケベよね。こうやってボタンをはずして谷間をチラって見せたら…。ほら目が吸い寄せられてる❤,Honestly; men are just a bunch of lechers. I just need to undo a single button to show off a little bit of cleavage like this; and... See? Your eyes instantly locked on the gap in my shirt.❤
 この中にチンポ入れて気持ちよくしてあげよっか？練習してるからけっこううまいはずよ。えい、ずっぷん…❤,Do you want me to stick your penis into this hole and pleasure you? I've been practicing; so it should feel pretty good... There we go.❤ You're all in.❤
 おっぱいで挟んでしごくのをパイズリって言うんでしょ？こんなことで気持ちよくなっちゃうなんて男って変態よね❤,It's called a boobjob when a girl uses her breasts to stroke and squeeze a man's penis; right? Men are such perverts for getting off on something like this.❤
-アンタもわたしのおっぱいで挟まれたら、少ししごいただけでエナジー出しちゃうのかしら。実験してあげるわ❤,I wonder if you're the same as the others and leak your energy with just a few strokes? Let's find out.❤
+アンタもわたしのおっぱいで挟まれたら、少ししごいただけでエナジー出しちゃうのかしら。実験してあげるわ❤,I wonder if you're the same as the others and leak your mana with just a few strokes? Let's find out.❤
 見なさい。わたし胸大きいでしょ？これ急に大きくなったから服のサイズが間に合わなくってパツパツなの。,Look. My breasts are huge; right? I've gone through such a huge growth spurt that my shirt barely fits me.
 いまもまだおっきくなっている最中でしょっちゅうボタンが飛んでっちゃうのよ。めんどうったらないわ。,And they still haven't stopped growing. I'm constantly having buttons popping off. It's quite troublesome.
 でもそのおかげで最近の戦績は向上中❤だって男ってこれにあんまりに弱いんだもの❤,But it's thanks to these breasts that my win rate has seen explosive growth recently.❤ Men are just that hopeless before such a massive bosom.❤
@@ -146,7 +146,7 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 あ、あぁ…っ❤,Ah... Aaah...❤
 持っている能力は手強くてもイかせちゃえばかんたんに倒せちゃうし、それどころか 体をアピールするだけでも興奮して自分から追い込まれる❤,Even the strongest men can be easily brought down by making them cum; and when you're getting excited just by the sight of my body; you're basically bringing yourself onto your knees.❤
 マスターだろうとモンスターだろうと、男がこんなにちょろいなんて もっと早くから知っておけばよかったわ❤,I wish I had known much earlier how all men are just a bunch of pushovers before sexual appeal. It's the same regardless if you're a monster or a cardmaster.❤
-さぁ、君が虜になってるおっきなおっぱい見せつけてあげるから、エナジー自分で吐き出して負けちゃいなさい？ほら、イっちゃえ❤,Since it was my breasts that charmed you; I'll give you a good view of them. Keep stroking your penis and spill your energy by your own hand! Now; cum!
+さぁ、君が虜になってるおっきなおっぱい見せつけてあげるから、エナジー自分で吐き出して負けちゃいなさい？ほら、イっちゃえ❤,Since it was my breasts that charmed you; I'll give you a good view of them. Keep stroking your penis and spill your mana by your own hand! Now; cum!
 ううぅ、あ…っ、うあ…っ❤,Uuuh... Ah... Aaaah...❤
 こんなにどぴゅどぴゅ出しちゃって❤チンポが付いてるってだけで、例え上級モンスターだとしても怖くないわね❤,That's such a huge load.❤ Even advanced monsters are nothing to fear as long as they've got a penis.❤
 こんなにどぴゅどぴゅ出しちゃって❤チンポが付いてるってだけで楽勝すぎるわ❤,That's such a huge load.❤ Winning is so easy when you're facing someone with a penis.❤
@@ -159,13 +159,13 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 もうイきそうになっちゃってるのがばればれ❤,It's obvious that you're about to cum already.❤
 …………そうだ❤,...Oh; I know!❤
 はい、ずっぷん❤自分でしごいて射精寸前にしちゃったガチガチチンポ、不意打ちでおっぱいに飲み込まれるのはどんな感じ？耐えられるわけないわよね❤,There we go.❤ How does it feel to suddenly get your penis between my breasts when you've stroked yourself to the edge? There's no way you can hold onto your load; right?❤
-ちょっとエナジー欲しくなったの、おっぱいの奥にたっぷり吐き出してちょうだい❤,I could use the energy right now; so give me a big load in my breasts.❤
+ちょっとエナジー欲しくなったの、おっぱいの奥にたっぷり吐き出してちょうだい❤,I could use the mana right now; so give me a big load in my breasts.❤
 あ、あ、うああぁぁうぅぅうう……っ❤❤,Ah... Ah... Uaaaaaaaah!❤❤❤
 あはは、すごい声❤不意打ちパイズリそんなに気持ちよかったんだ❤,Ahaha! That's one amazing moan.❤ Did the surprise boobjob feel that good?❤
-上級モンスターでも、男である限りおっぱいで誘惑して挟んじゃえばイチコロね❤エナジーごちそうさま❤,If they are men; even advanced monsters easily go down when I tempt and squeeze them with my breasts.❤ Thanks for the energy.❤
-大量射精しちゃってエナジーもこんなにたくさん❤ごちそうさま❤,You gave me such a huge load of semen and energy.❤ Thanks for the treat.❤
+上級モンスターでも、男である限りおっぱいで誘惑して挟んじゃえばイチコロね❤エナジーごちそうさま❤,If they are men; even advanced monsters easily go down when I tempt and squeeze them with my breasts.❤ Thanks for the mana.❤
+大量射精しちゃってエナジーもこんなにたくさん❤ごちそうさま❤,You gave me such a huge load of semen and mana.❤ Thanks for the treat.❤
 あら？マスターくんも今の見てチンポおっきくしちゃってるじゃない❤,Oh? Mr. Cardmaster; did you get a hard-on from watching that?
-アンタもわたしのおっぱいにエナジーごちそうしに来てくれてもいいのよ？くすくす❤,I wouldn't mind if you; too; wanted to supply me with a big load of energy.❤ Ahahaha.❤
+アンタもわたしのおっぱいにエナジーごちそうしに来てくれてもいいのよ？くすくす❤,I wouldn't mind if you; too; wanted to supply me with a big load of mana.❤ Ahahaha.❤
 くっ、いたた。素質がある気はしてたけど、アンタやっぱり いい攻撃してくるわね。今のは効いたわ…。,Ugh... Ow... I had a feeling you would pack a punch. That was a good hit.
 僕の渾身の一撃を喰らい よろめいたフレアが、こちらにしなだれかかってくる。ぐったりとした様子で、もう余力は残っていないようだ。,After staggering from my all out attack; Flare ended up leaning on me. It didn't seem like she had the strength to stay up on her own anymore.
 力を抜いた彼女の肉体が思いっきり僕に押しつけられる。豊満な胸を当てられるうちに、ペニスがだんだんと勃ってきてしまった…。,With her limp body pressing against me; I was also getting a good feel of her huge breasts. I couldn't help getting a boner before their sensation.
@@ -220,20 +220,20 @@ E級のカードマスター。爆発カボチャを筆頭に、全体効果ダ�
 ちょっと待っ、今は…っ！❤,Wait... Right now; I'm...!
 だーめ❤待ってあげない❤,Nope!❤ I won't wait even a moment.❤
 うふふ❤口ではそんなこと言ってても、\nわたしにおっぱい動かされたら\nすぐにチンポガチガチにしちゃってるじゃない❤,Ahaha.❤ Even when you told me to stop; your penis got harder when I started moving again.❤
-理性では止めてほしいって思っても、\n女の子にえっちなことされたら体はどんどんエナジー放出しちゃう❤\nしかも、それが気持ちよくてたまらない❤,Even though your voice of reason is telling you to stop; your body just keeps shooting more and more energy whenever a girl does something lewd with her body.❤ My irresistible breasts just feel that good.❤
+理性では止めてほしいって思っても、\n女の子にえっちなことされたら体はどんどんエナジー放出しちゃう❤\nしかも、それが気持ちよくてたまらない❤,Even though your voice of reason is telling you to stop; your body just keeps shooting more and more mana whenever a girl does something lewd with her body.❤ My irresistible breasts just feel that good.❤
 サキュバスだっていることだし、\nこの調子なら女の子のわたしの方が\n男よりもずっと強くなれるかも❤,If I keep doing this; maybe I can become stronger than any man.❤ That's how it works for succubi; right?❤
 うぅ、そんなぁ…❤,Uuuh... That's...❤
-それに、男からエナジーを吸い取れるのは\nサキュバスだけの専売特許じゃないわ❤,It's not like draining energy from men is only limited to succubi.❤
-アンタも知ってるでしょうけど、\nカードマスターの女の子なら精液から魔力を補給できる❤\nもちろん サキュバスの効率には敵わないけれど……,As you surely know; female cardmasters can also replenish mana with semen.❤ It's quite inefficient compared to how succubi do it with energy drain...
+それに、男からエナジーを吸い取れるのは\nサキュバスだけの専売特許じゃないわ❤,It's not like draining mana from men is only limited to succubi.❤
+アンタも知ってるでしょうけど、\nカードマスターの女の子なら精液から魔力を補給できる❤\nもちろん サキュバスの効率には敵わないけれど……,As you surely know; female cardmasters can also replenish mana with semen.❤ It's quite inefficient compared to how succubi do it with mana drain...
 それなら、こうしちゃえばいいのよ❤,But the inefficiency shouldn't be a problem if I do this!❤
 ！？　あ、あ、うあぁぁ…っ❤,?! Ah... Ah... Aaaaah!❤
 一度に得られる魔力が少ないなら、\n男にたくさん吐き出させればいい❤,If I can absorb only a little mana with each load; I just need to make you cum multiple times to make up for it.❤
 別にいいじゃない❤どうせ一回誘惑に負けちゃったら、\n男はもう気持ちよくなることで\n頭の中がいっぱいになっちゃうんでしょ❤,And it's not like you mind; right?❤ After all; now that you've fallen to the temptation once; pleasure should be the only thing on your mind.❤
 そんなこ……うっ、あ、はぅ…❤,That's not... Uuh... Aaah!❤
 耐えようと思っても感じちゃってしかたがないはずよ❤\nこれが、ピンチの時に使う わたしの本気パイズリ❤,Even if you try to resist; you can't help the pleasure taking over your body.❤ This is the serious boobjob that I use when I'm in a pinch.❤
-ただでさえおっぱいに弱い男にわたしがこれをしてあげれば、\n１００パーセント射精させられるわ❤,I have a 100% record of making every man who's weak to breasts cum by doing this.❤
-ガチガチのチンポもみくちゃにされて\nおっぱいがぬちゅぬちゅ絡みついてきて、\n男には たまらないわよね❤,Men just can't get enough of it when I squeeze and knead their penis with my soft breasts.❤
-ほら、またイっちゃいなさい❤\n敵マスターにどんどんエナジー出しちゃえ❤,Now; cum again.❤ Give your energy to your opposing cardmaster.❤
+ただでさえおっぱいに弱い男にわたしがこれをしてあげれば、\n１００パーセント射精させられるわ❤,I have a 100% win rate of making men weak to breasts cum when I do this.❤
+ガチガチのチンポもみくちゃにされて\nおっぱいがぬちゅぬちゅ絡みついてきて、\n男には たまらないわよね❤,Men just can't get enough of it when I squeeze and knead their penis between my soft breasts like this.❤
+ほら、またイっちゃいなさい❤\n敵マスターにどんどんエナジー出しちゃえ❤,Now; cum again.❤ Give your mana to your opposing cardmaster.❤
 うぁ、あ、あぅぅ…❤,Uh... Ah... Aaaah...❤
 はい、イっちゃった❤\nね？一回チンポ挟んじゃえば、\nうぶな男の子なんて何回でも連続射精させられるわ❤,And there. You spilled your load.❤ Did you know? It's a trifling thing for me to make naive boys like you cum several times in a row once I have your penis between my breasts.❤
 反応もかわいいし楽しくなってきちゃった❤\nこのまますっからかんになるまで、\nわたしに搾り尽くされちゃいなさい…❤,I'm even starting to enjoy this since your reactions are so adorable.❤ I'll keep draining your penis until you're completely dry.❤
