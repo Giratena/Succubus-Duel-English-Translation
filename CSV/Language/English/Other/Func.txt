@@ -6,91 +6,91 @@ default
 English,English
 简体中文,Chinese
 한국어,Korean
-言語が日本語に設定されました。,
+言語が日本語に設定されました。,言語が日本語に設定されました。(The language is now set to Japanese)
 The language has been set to English.,
 To translate; open the text in CSV/Language/English and write the English text next to the comma. Commas are not allowed in the text; so if you want to use commas; please use semicolons.,
-语言已设置为简体中文。,
+语言已设置为简体中文。,语言已设置为简体中文。(The language is now set to Simplified Chinese.)
 要进行翻译，请在 CSV/Language/SimplifiedChinese 中打开文本，然后在逗号旁边写入翻译后的文本。,
-언어가 한국어로 설정되었습니다.,
+언어가 한국어로 설정되었습니다.,언어가 한국어로 설정되었습니다. (The language is now set to Korean.)
 번역하려면 CSV/언어/한국어에서 텍스트를 열고 쉼표 옆에 영어 텍스트를 입력합니다. 텍스트에는 쉼표가 허용되지 않으므로 쉼표를 사용하려면 세미콜론을 사용하세요.,
-難易度を変更することができます。,
-難易度は\nハード（敵のパラメーター3割増加）\nノーマル\nイージー（敵のパラメータ2割減少）\nらくらく（味方のHP+2000Atk+800）\nの3つの中から選択できます。難易度は何度でも変更可能です。,
-難易度を選択してください(現在の難易度:{難易度名})。,
+難易度を変更することができます。,Here you can change the difficulty level.
+難易度は\nハード（敵のパラメーター3割増加）\nノーマル\nイージー（敵のパラメータ2割減少）\nらくらく（味方のHP+2000Atk+800）\nの3つの中から選択できます。難易度は何度でも変更可能です。,You can choose from three difficulty levels: \nHard (30% increase in enemy stats)\nNormal \nEasy (20% decrease in enemy stats)\n;Phoenix (HP+2000 and Atk+800 for allies)\n You can change the difficulty level as many times as you like.
+難易度を選択してください(現在の難易度:{難易度名})。,Select a difficulty level (current difficulty: {難易度名})
 ハード,Hard
 ノーマル,Normal
 イージー,Easy
 らくらくモード,Phoenix Mode
-難易度をハードに変更しました。,
-ハードでは相手の能力が上がるほか、一部敵カードに効果が追加される場合があります。,
-難易度をノーマルに変更しました。,
-難易度をイージーに変更しました。,
-イージーでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,
-難易度をらくらくモードに変更しました。,
-らくらくモードでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,
-またバトル中３回だけ、数枚の強力なカードの中から１枚生成して手札に加えることができます。,
-主人公にイベントで付与された弱点を一時的に無効にできます。,
-無効にされるのはストーリー中に付与された弱点だけです。戦闘中に付与される状態異常は無効になりません。,
-弱点を一時的に無効にする,
-弱点を有効にする,
-主人公にイベントで付与された弱点をすべて解除します。,
-解除された弱点は元に戻せないのでご注意ください。,
+難易度をハードに変更しました。,Difficulty has been set to Hard.
+ハードでは相手の能力が上がるほか、一部敵カードに効果が追加される場合があります。,In addition to increasing the stats of the opponent; some enemy cards may have additional effects that can catch you off guard.
+難易度をノーマルに変更しました。,The difficulty has been set to Normal.
+難易度をイージーに変更しました。,The difficulty has been set to Easy.
+イージーでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,On Easy difficulty; the opponent's stats are reduced and the effects of some enemy cards may be changed.
+難易度をらくらくモードに変更しました。,The difficulty has been set to Phoenix mode.
+らくらくモードでは相手の能力が下がるほか、一部敵カードの効果が変更になる場合があります。,In Phoenix mode; the opponent's stats are reduced and the effects of some enemy cards may be changed.
+またバトル中３回だけ、数枚の強力なカードの中から１枚生成して手札に加えることができます。,In addition; three times throughout a battle; one of several powerful cards can be generated and added to the hand.
+主人公にイベントで付与された弱点を一時的に無効にできます。,This option can temporarily disable a weakness the protagonist has aquired from events.
+無効にされるのはストーリー中に付与された弱点だけです。戦闘中に付与される状態異常は無効になりません。,Only weaknesses inflicted during the story will be disabled. Abnormalities inflicted during battle will not be disabled.
+弱点を一時的に無効にする,Temporarily disable a weakness.
+弱点を有効にする,Enabling Weaknesses
+主人公にイベントで付与された弱点をすべて解除します。,Removes all the protagonist's weaknesses.
+解除された弱点は元に戻せないのでご注意ください。,Note that weaknesses that have been removed cannot be restored.
 弱点をすべて解除する,Revert all weaknesses
 しない,Never mind
 本当にいいですか？,Are you really sure?
 はい,Yes
 いいえ,No
-主人公に付与された弱点をすべてリセットしました。,
-主人公の攻撃力が低下している場合、攻撃力を1000に戻すことができます。,
-攻撃力を1000に戻す,
-いまのままにする,
-主人公の攻撃力が1000に設定されました。,
-自動文字送りを設定できます。メッセージの表示が終わってから一定時間で次のセリフに進むようになります。,
-自動文字送りを有効にするか選んでください,
-無効にする,
-有効にする,
-文字送りが無効になりました。,
-文字送りが有効になりました。,
-BGMの音量を変更できます,
+主人公に付与された弱点をすべてリセットしました。,The protagonist's weaknesses have been reset.
+主人公の攻撃力が低下している場合、攻撃力を1000に戻すことができます。,If the protagonist's attack power is reduced; restore it to 1000.
+攻撃力を1000に戻す,Attack power has been restored to 1000.
+いまのままにする,Leave it as it is.
+主人公の攻撃力が1000に設定されました。,The protagonist's attack power was set to 1000.
+自動文字送りを設定できます。メッセージの表示が終わってから一定時間で次のセリフに進むようになります。,Here you can change the automatic text feed setting. If enabled; you can set how many frames it takes before displaying the next message.
+自動文字送りを有効にするか選んでください,Select whether you want to enable automatic text feed.
+無効にする,Disable
+有効にする,Enable
+文字送りが無効になりました。,Automatic text feed is now disabled.
+文字送りが有効になりました。,Automatic text feed is now enabled.
+BGMの音量を変更できます,Change BGM (background music) volume?
 変更する,Change
 変更しない,Don't change
-BGMのボリュームが変更されました。,
-SEの音量を変更できます。,
-SEのボリュームが{&&InputtedText}に変更されました。,
-主人公のHPと攻撃力に一定の上限を設定できます。主に難易度を上げるために利用できる機能です。,
-この機能を利用したとしてもバトル開始時のステータスが変更されるだけでレベルそのものに影響はありません。機能を解除することでいつでも本来のレベルのステータスに戻ることができます。,
-能力制限を入れるか選んでください,
+BGMのボリュームが変更されました。,BGM volume has been changed.
+SEの音量を変更できます。,Change SE (sound effect) volume?
+SEのボリュームが{&&InputtedText}に変更されました。,SE volume changed to {&&InputtedText}.
+主人公のHPと攻撃力に一定の上限を設定できます。主に難易度を上げるために利用できる機能です。,You can set a limit to the HP and attack power of the protagonist. This option is mainly available to increase the difficulty level.
+この機能を利用したとしてもバトル開始時のステータスが変更されるだけでレベルそのものに影響はありません。機能を解除することでいつでも本来のレベルのステータスに戻ることができます。,Enabling this option will only change the HP and attack power at the beginning of a battle and will not affect the original values. You can always go back to the original values by deactivating the option.
+能力制限を入れるか選んでください,Please select whether to limit the protagonist's HP and attack power.
 制限をしない,No Limits
-HP6000/Atk1000,
-HP8000/Atk1300,
-能力制限をしないモードになりました。HPと攻撃力はレベルによって決まります。,
-主人公の能力上限をHP6000,
-主人公の能力上限をHP8000,
-カード効果欄に「おっぱいに弱い付与」などの能力を記載するかどうか選択できます。,You can choose whether or not to list abilities such as 'inflicts titty fetish' in enemy card effect descriptions. 
+HP6000/Atk1000,Limit to HP6000/Atk1000
+HP8000/Atk1300,Limit to HP8000/Atk1300
+能力制限をしないモードになりました。HPと攻撃力はレベルによって決まります。,No limits have been set. HP and attack power are determined by the protagonist's level.
+主人公の能力上限をHP6000,Protagonist has been limited to 6000HP & 1000 ATK
+主人公の能力上限をHP8000,Protagonist has been limited to 8000HP & 1300 ATK
+カード効果欄に「おっぱいに弱い付与」などの能力を記載するかどうか選択できます。,You can choose whether or not to list abilities such as 'inflicts boob fetish' in enemy card effect descriptions. 
 エロ系効果も表示する,Display erotic card effects
 エロ系効果は秘匿状態にする,Keep erotic card effects secret
 エロ系効果もカードテキストに表示されるようになりました。,Erotic effects will be displayed in the card text.
 エロ系効果はカードテキスト上で秘匿されるようになりました。,Erotic effects will be kept secret on the card text. 
-ショップ画面で、パック内の未所持のカードも表示されるか設定できます（デフォルトでは非表示）。,
-未所持カードも表示する,
-未所持カードは秘匿状態にする,
-未所持カードも含めてショップ画面から閲覧できるようになりました。,
-未所持カードはショップ画面では非表示になるように設定されました。,
-主人公の名前を変更できます。,
-名前を変更しますか？,
-主人公の名前を{主人公}に変更しました。,
-主人公の見た目を変更できます。,
-見た目を変更しますか？,
-主人公の見た目を選択してください。,
-主人公の見た目が決定されました。この内容はいつでも変更できます。,
-文字が表示されるときの音をミュートにできます。,
-文字音1（デフォルト）,
+ショップ画面で、パック内の未所持のカードも表示されるか設定できます（デフォルトでは非表示）。,On the store screen; you can set whether the unclaimed cards in the pack are also displayed (hidden by default).
+未所持カードも表示する,Display unclaimed cards as well.
+未所持カードは秘匿状態にする,Keep unclaimed cards hidden.
+未所持カードも含めてショップ画面から閲覧できるようになりました。,Cards; including those not yet owned; can now be viewed from the store screen.
+未所持カードはショップ画面では非表示になるように設定されました。,Unowned cards are now set to be hidden on the store screen.
+主人公の名前を変更できます。,Here you can change the name of the protagonist.
+名前を変更しますか？,Do you want to change your name?
+主人公の名前を{主人公}に変更しました。,Changed the name of the protagonist to {主人公}.
+主人公の見た目を変更できます。,Here you can change the appearance of the protagonist.
+見た目を変更しますか？,Want to change the protagonist's appearance?
+主人公の見た目を選択してください。,Select the appearance of the protagonist
+主人公の見た目が決定されました。この内容はいつでも変更できます。,The appearance of the protagonist has been changed. This can be changed at any time.
+文字が表示されるときの音をミュートにできます。,Here you can choose the sound played when writing text to the screen.
+文字音1（デフォルト）,Character sound 1 (default)
 音をなくす,No sound
-文字音を１に設定しました。,
-文字音を無音に設定しました。,
-文字音を2に設定しました。,
-文字音を3に設定しました。,
-文字音を4に設定しました。,
-主人公の情報,
+文字音を１に設定しました。,Character sound set to 1.
+文字音を無音に設定しました。,Text sound set to silent.
+文字音を2に設定しました。,Character sound set to 2.
+文字音を3に設定しました。,Character sound set to 3.
+文字音を4に設定しました。,Character sound set to 4.
+主人公の情報,Player Information
 {プレイヤー情報},
 画像閲覧,Artwork
 ドロー,Draw
