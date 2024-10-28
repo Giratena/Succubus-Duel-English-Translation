@@ -1,9 +1,9 @@
 default,
 ラヴァガール,Lava Girl
 EU30_handJobAnime,
-[1].このカードが炎属性のカードから受ける効果ダメージは半分になる。,"[1]. Effect damage this card takes from cards with the flame attribute is halved. """
+[1].このカードが炎属性のカードから受ける効果ダメージは半分になる。,[1]. Effect damage this card takes from cards with the flame attribute is halved.
 [2].炎属性カードの効果で効果ダメージを受けたとき発動する。このカードの攻撃力と最大HPを300ポイントアップする。,[2]. When this card takes effect damage from the effect of a Flame Attribute card; increase this card's Attack and Maximum HP by 300 points.
-[3].自分フィールド上に「溶岩地帯」がある場合、自分ターン終了時に発動する。HPを600回復する。,"[3]. If ""Lava Zone"" is on your field at the end of your turn; this card recovers 600 HP."
+[3].自分フィールド上に「溶岩地帯」がある場合、自分ターン終了時に発動する。HPを600回復する。,[3]. If "Lava Zone" is on your field at the end of your turn; this card recovers 600 HP.
 マグマで体ができた粘体の少女。あまり足が速くないのでフレイムキャンサーの背中によく乗って移動している。体の表面の温度はそれほど高くなく彼女に全身を抱きしめられると温泉に入ったときのように心地よいのだという。\n\n　移動が苦手な分同じ場所でじっとしていることも多く、ひまなときは溶岩を糸状に伸ばしてあやとりなどをして過ごしている。その分手先がとても器用であり、粘体の体を使って作り出した無数の手に捕まると、男は巧みな指裁きの前に何もできなくされてしまう。彼女に捕まって巣に持ち替えられてしまえば、延々とひまつぶしの道具としてもてあそばれそこで彼女と共に一生を終えることになるだろう。,A type of Slime Girl made up of magma. Since she doesn't move very fast; she often travels by riding on the back of a flame crab. The surface temperature of her body is not high; so being embraced by her is said to feel comfortable; similar to entering a hot spring. Since she is not very good at moving; she often stays in the same location. During her free time; she enjoys using her skilled fingers to stretch the lava from her body into various thread like shapes. Men caught in these thread like shapes will be unable to resist as she uses her skilled hand techniques on them. If she takes him to her nest; he will spend the rest of his life with her as a entertainment to pass the time.
 わたしの手ってたくさんあるんです❤\nこれ、全部自分の思う通りに動かせるんですよ。,Look at how many hands I have!❤ I can move them all as I please too.
 例えば、あなたの脇をくすぐりながら、\nおちんちんをシコシコ♪ってしてあげたり…\nそんなこともできちゃいます❤,For example; I could tickle your sides while jerking your dick up and down at the same time~♪ There's nothing I can't do.❤
