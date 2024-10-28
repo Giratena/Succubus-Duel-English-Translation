@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 default,
 巨乳スライム,Huge Boobs Slimegirl
 [1].相手から精を得たとき発動する。攻撃力500ポイントアップ。,[1]. When this card extracts semen from an opponent; increase this card's attack power by 500 points.
@@ -193,5 +192,3 @@ slime_superBigBreastPaizuri,
 こうして主人公は、最初の戦闘で胸の大きなスライムに負け、命が干からびるまで精を吸い取られた。,And so; our protagonist lost to a big-breasted slime in his first battle; and had his lifeforce drained completey.
 妹を探すはずだった冒険は、あっけなく下級モンスターの手によってその幕を閉じ、,The adventure to find his sister ended abruptly at the hands of a lesser monster;
 その後、彼の行方を知るものは誰もいなかったという・・・。,and after that; no one knew what had happened to him...
-=======
->>>>>>> Stashed changes
