@@ -1,11 +1,11 @@
 default
-プラント,
-おや、あなたもカードマスターですか？,
-わたしはプラント。F級カードマスターです。,
-今回は多くのカードマスターと手合わせできるチャンスと聞いてやってきました。,
-では、さっそく手合わせお願いいたします！,
-またお会いしましたね。,
-この間は負けましたが、今度は負けませんからね。さあバトルしましょう！,
+プラント,Clover
+おや、あなたもカードマスターですか？,Oh! Are you a cardmaster too?
+わたしはプラント。F級カードマスターです。,I'm Clover. I'm a F-rank cardmaster.
+今回は多くのカードマスターと手合わせできるチャンスと聞いてやってきました。,I came to this event after I heard it was good opportunity to meet many other card masters.
+では、さっそく手合わせお願いいたします！,So then; please battle me right away!
+またお会いしましたね。,Hey; we meet again!
+この間は負けましたが、今度は負けませんからね。さあバトルしましょう！,I may have lost last time; but this time will be different; OK? Let's battle!
 この間はわたしの勝ちでした。今回も勝っちゃいますよ！,
 強いですね…。ううっ、次は負けませんよ。,
 ふふ、わたしの勝ちです。バトルありがとうございました！,
