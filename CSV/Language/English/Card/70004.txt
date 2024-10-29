@@ -6,14 +6,14 @@ default
 では、さっそく手合わせお願いいたします！,So then; please battle me right away!
 またお会いしましたね。,Hey; we meet again!
 この間は負けましたが、今度は負けませんからね。さあバトルしましょう！,I may have lost last time; but this time will be different; OK? Let's battle!
-この間はわたしの勝ちでした。今回も勝っちゃいますよ！,
-強いですね…。ううっ、次は負けませんよ。,
-ふふ、わたしの勝ちです。バトルありがとうございました！,
-あなたのターンからですね。お手柔らかにお願いします。,
-お手柔らかにお願いしますね。,
-わたしのターンですね、ドローします。,
-{使用カード}を上級召喚します。,
-{使用カード}を召喚です。,
+この間はわたしの勝ちでした。今回も勝っちゃいますよ！,I won our battle last time. I'm going to win this time too!
+強いですね…。ううっ、次は負けませんよ。,Man; you're strong...
+ふふ、わたしの勝ちです。バトルありがとうございました！,Teehee! Looks like I win. Thank you for battling me!
+あなたのターンからですね。お手柔らかにお願いします。,It's your turn first. Please be gentle!
+お手柔らかにお願いしますね。,Go easy on me; OK?
+わたしのターンですね、ドローします。,It's my turn now. I'm going to draw a card.
+{使用カード}を上級召喚します。,Advance summoning {使用カード}!
+{使用カード}を召喚です。,Summon; {使用カード}.
 ううっ、あうう・・・❤,
 あれあれ、蘇ってきたのに、まだ調子が悪そうですね。\nもしかして負けたときの快感が忘れられないのかな？,
 くすくす❤あまり意味のない蘇生になっちゃいましたね。\n蘇らせる相手はもう少し選んだ方がいいと思いますよ。,
