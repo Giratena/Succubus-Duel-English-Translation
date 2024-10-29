@@ -1,5 +1,6 @@
 default
 プラント,Clover
+山奥の村から今回の大会に参加した新人のカードマスター。村にはほとんどカードマスターがいなかったため、あまり実戦の経験がない。虫タイプと植物タイプのモンスターを好んで使う。,A new cardmaster from a village deep in the mountains who is now participating in the tournament. Since there weren't many cardmasters in her village; she doesn't have much experience in competitive battles. She prefers to use insect and plant type monsters.
 おや、あなたもカードマスターですか？,Oh! Are you a cardmaster too?
 わたしはプラント。F級カードマスターです。,I'm Clover. I'm a F-rank cardmaster.
 今回は多くのカードマスターと手合わせできるチャンスと聞いてやってきました。,I came to this event after I heard it was good opportunity to meet many other card masters.
@@ -14,8 +15,8 @@ default
 わたしのターンですね、ドローします。,It's my turn now. I'm going to draw a card.
 {使用カード}を上級召喚します。,Advance summoning {使用カード}!
 {使用カード}を召喚です。,Summon; {使用カード}.
-ううっ、あうう・・・❤,
-あれあれ、蘇ってきたのに、まだ調子が悪そうですね。\nもしかして負けたときの快感が忘れられないのかな？,
+ううっ、あうう・・・❤,Oogh; ooh...❤
+あれあれ、蘇ってきたのに、まだ調子が悪そうですね。\nもしかして負けたときの快感が忘れられないのかな？,Oh oh? You look like you're in pretty bad shape for someone who's just been revived. Maybe it's because you couldn't forget how good losing felt?
 くすくす❤あまり意味のない蘇生になっちゃいましたね。\n蘇らせる相手はもう少し選んだ方がいいと思いますよ。,
 さらにもう1枚発動します.,
 魔法カード発動！{使用カード}！風の刃で効果ダメージを与えます.,

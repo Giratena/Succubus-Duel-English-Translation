@@ -22,14 +22,14 @@ default
     メニュー追加,街へ戻る,&ファイルパス,街へ戻る
     メニュー生成,右
 
-    デバッグ,Card Name: {%%10029.&カード名}
-    デバッグ,Card Effect Text: {%%10029.&効果テキス卜}
-    デバッグ,Card Description: {%%10029.フレーバーテキスト}
-    デバッグ,Card Text: {%%10029.カードテキスト}
-    デバッグ,Card Hard Mode Effect Text: {%%10029.&ハード効果テキスト}
-    デバッグ,Card Easy Mode Text: {%%10029.&イージー効果テキス卜}
-    デバッグ,Card Ero Effect Text: {%%10029.&エロ効果テキスト}
-    デバッグ,Card Hard Mode Ero Text: {%%10029.&ハードエロ効果テキスト}
+    デバッグ,Card Name: {%%70004.&カード名}
+    デバッグ,Card Effect Text: {%%70004.&効果テキス卜}
+    デバッグ,Card Description: {%%70004.フレーバーテキスト}
+    デバッグ,Card Text: {%%70004.カードテキスト}
+    デバッグ,Card Hard Mode Effect Text: {%%70004.&ハード効果テキスト}
+    デバッグ,Card Easy Mode Text: {%%70004.&イージー効果テキス卜}
+    デバッグ,Card Ero Effect Text: {%%70004.&エロ効果テキスト}
+    デバッグ,Card Hard Mode Ero Text: {%%70004.&ハードエロ効果テキスト}
     // Replace 10007 with the card id number and remove the leading "//" and text effects for that monster-girl card will be copied to your clipboard.
 
     イベント終了
