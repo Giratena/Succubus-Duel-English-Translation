@@ -5,7 +5,7 @@ default
 ボクの姉ちゃんはC級のカードマスターなんだぜ。\n姉ちゃんに追いつくためにもこの大会で絶対に勝ちまくる！,My sister is a C-rank cardmaster. I'm going to win this tournament to catch up with her!
 てなわけで、勝負しようぜ！,So let's get on with the fight!
 よお、兄ちゃん。その指輪をしているってことはカードマスターだな！,Hey. You're wearing one of those rings; which means you're a cardmaster!
-ボクの姉ちゃんはC級のカードマスターなんだぜ。姉ちゃんに追いつくためにもこの大会で絶対に勝ちまくる！,My sister is a C-rank cardmaster. I'm going to win this tournament to catch up with my sister!
+ボクの姉ちゃんはC級のカードマスターなんだぜ。姉ちゃんに追いつくためにもこの大会で絶対に勝ちまくる！,My sister is a C-rank cardmaster. I'm going to win this tournament to catch up with her!
 お、兄ちゃん。また会ったな。,Oh. We meet again.
 兄ちゃんすげえよな。ボクの姉ちゃんにも勝っちまうんだもん。\nボク、兄ちゃんにあこがれて、最近修行頑張ってんだ！,You're awesome. You even beat my sister. I've been training hard lately because I want to be like you.
 だから、今日は修行の成果を見てくれよ！\n獣デッキで兄ちゃん相手にもいい勝負してみせるぜ！,So today; you'll see the results of my training! I'm going to play nice against you with my beast deck!
