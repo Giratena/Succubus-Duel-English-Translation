@@ -1,43 +1,43 @@
 default
-タイガ,
-わわ、兄ちゃん、もしかして無敗のルーキーか？\nすげぇ、こんなところで会えるなんてびっくりだぜ。,
-ボクはタイガ。ギルドに入って3ヵ月のF級カードマスターだ！,
-ボクの姉ちゃんはC級のカードマスターなんだぜ。\n姉ちゃんに追いつくためにもこの大会で絶対に勝ちまくる！,
-てなわけで、勝負しようぜ！,
-よお、兄ちゃん。その指輪をしているってことはカードマスターだな！,
-ボクの姉ちゃんはC級のカードマスターなんだぜ。姉ちゃんに追いつくためにもこの大会で絶対に勝ちまくる！,
-お、兄ちゃん。また会ったな。,
-兄ちゃんすげえよな。ボクの姉ちゃんにも勝っちまうんだもん。\nボク、兄ちゃんにあこがれて、最近修行頑張ってんだ！,
-だから、今日は修行の成果を見てくれよ！\n獣デッキで兄ちゃん相手にもいい勝負してみせるぜ！,
-少しは強くなったか？まあ今回もボクの勝ちだろうけどな！,
-兄ちゃん強いけどな、今度はボクが絶対に勝つ！さあバトルしようぜ！,
-強えぇ…。くっ、くそぉ…。次は負けないぜ！,
-よっしゃ、ボクの勝ちだ！兄ちゃん、バトルありがとな！,
-兄ちゃんのターンからだな！さあバトルスタートだ！,
-さあ、バトル開始だ！,
-ドローするぜ。,
-ドロー！,
+タイガ,Taiga
+わわ、兄ちゃん、もしかして無敗のルーキーか？\nすげぇ、こんなところで会えるなんてびっくりだぜ。,Whoa; aren't you the undefeated rookie? That's awesome! I'm surprised to see you here.
+ボクはタイガ。ギルドに入って3ヵ月のF級カードマスターだ！,My name is Taiga. I'm an F-rank cardmaster; and I've been in the guild for three months!
+ボクの姉ちゃんはC級のカードマスターなんだぜ。\n姉ちゃんに追いつくためにもこの大会で絶対に勝ちまくる！,My sister is a C-rank cardmaster. I'm going to win this tournament and catch up with her!
+てなわけで、勝負しようぜ！,So get ready to battle! I'm gonna go all out!
+よお、兄ちゃん。その指輪をしているってことはカードマスターだな！,Hey. You're wearing one of those rings; which means you're a cardmaster!
+ボクの姉ちゃんはC級のカードマスターなんだぜ。姉ちゃんに追いつくためにもこの大会で絶対に勝ちまくる！,My sister is a C-rank cardmaster. I'm going to win this tournament and catch up with her!
+お、兄ちゃん。また会ったな。,Oh. We meet again.
+兄ちゃんすげえよな。ボクの姉ちゃんにも勝っちまうんだもん。\nボク、兄ちゃんにあこがれて、最近修行頑張ってんだ！,You're awesome. You even beat my sister. I've been training hard lately because I want to be like you.
+だから、今日は修行の成果を見てくれよ！\n獣デッキで兄ちゃん相手にもいい勝負してみせるぜ！,So today; you'll see the results of my training! I'll give you a good fight with my beast deck!
+少しは強くなったか？まあ今回もボクの勝ちだろうけどな！,You're a bit stronger now? Well; I'm sure I'll win again this time!
+兄ちゃん強いけどな、今度はボクが絶対に勝つ！さあバトルしようぜ！,You're strong; but this time I'll definitely win! Come on; let's fight!
+強えぇ…。くっ、くそぉ…。次は負けないぜ！,So strong... Damn... I won't lose next time!
+よっしゃ、ボクの勝ちだ！兄ちゃん、バトルありがとな！,Yes; I've won! Thanks for the fight!
+兄ちゃんのターンからだな！さあバトルスタートだ！,It's your turn to start! Come on; let's go!
+さあ、バトル開始だ！,Come on; let the fight begin!
+ドローするぜ。,I'm gonna draw.
+ドロー！,Draw!
 1,
-へへん、{使用カード}を上級召喚だ！,
-{使用カード}を召喚だ。,
-さらにもう1枚発動だ！,
-{使用カード}の効果発動！手札からレベル３以下のモンスター１体を特殊召喚する！,
-魔法カード発動！{使用カード}！デッキから地属性のカードを加えるぜ.,
-手札にモンスターを呼ぶぜ。{使用カード}発動！,
-魔法カード発動！{使用カード}！HPを強化だ！,
-体力を上げて頑丈にするぜ。{使用カード}を発動！,
-切り札のカードだ！{使用カード}を発動！獣モンスターを永続的にパワーアップ！,
-永続魔法、{使用カード}を発動！獣モンスターたちの攻撃力を永続的にパワーアップさせる！,
+へへん、{使用カード}を上級召喚だ！,Heheh; {使用カード} is an advanced summon!
+{使用カード}を召喚だ。,Summon {使用カード}.
+さらにもう1枚発動だ！,And another one is activated!
+{使用カード}の効果発動！手札からレベル３以下のモンスター１体を特殊召喚する！,Activating the effect of {使用カード}! I can now Special Summon a Level 3 or lower monster from my hand!
+魔法カード発動！{使用カード}！デッキから地属性のカードを加えるぜ.,Magic card activated! {使用カード}! Adding a monster card to my hand from my deck.
+手札にモンスターを呼ぶぜ。{使用カード}発動！,I'm gonna add a monster card to my hand. {使用カード} activation!
+魔法カード発動！{使用カード}！HPを強化だ！,Magic card activated! I'm using {使用カード} to increase the HP of my target! (translate check needed)
+体力を上げて頑丈にするぜ。{使用カード}を発動！,I'm gonna boost the sturdyness of my target. Activate {使用カード}! (translate check needed)
+切り札のカードだ！{使用カード}を発動！獣モンスターを永続的にパワーアップ！,This is my trump card! Activate {使用カード}! It will permanently power up my beast monsters!
+永続魔法、{使用カード}を発動！獣モンスターたちの攻撃力を永続的にパワーアップさせる！,Activate permanent spell; {使用カード}! This will power up the attack power of my beast monsters while it remains on the field!
 装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-魔法カードを発動するぜ！{使用カード}！,
-トラップカードを発動！{使用カード}！,
-カードをセットするぜ。,
-カードを伏せるぜ。,
-ボクの攻撃！{防御カード}を攻撃！,
+魔法カードを発動するぜ！{使用カード}！,I'm gonna activate a magic card! {使用カード}!
+トラップカードを発動！{使用カード}！,Activate trap card! {使用カード}!
+カードをセットするぜ。,Let's set some cards.
+カードを伏せるぜ。,I'm gonna place my cards.
+ボクの攻撃！{防御カード}を攻撃！,My turn to attack! Attack {防御カード}!
 バトルだ！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
-うそだろ、この手札じゃなにもできない…。ターンエンドだ…。,
+うそだろ、この手札じゃなにもできない…。ターンエンドだ…。,No way; I can't do anything with this hand... I'm ending my turn...
 くっ、打つ手なしか…。ターンエンド。,End turn.
-ターンを終了するぜ。,
-ターンエンドだ。,
+ターンを終了するぜ。,I'm ending my turn.
+ターンエンドだ。,End of turn.
 ボクのターンはおわり。ターンエンド。,End turn.
-う、攻撃を防ぐ、カードか。,
+う、攻撃を防ぐ、カードか。,Oh; preventing attacks?
