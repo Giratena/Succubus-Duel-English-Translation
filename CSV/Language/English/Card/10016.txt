@@ -1,7 +1,7 @@
 default,
 モス,Moth Girl
-蛾の姿をしたモンスター娘。一日中寝ていることが多く、たまに起きては果物などを食べて暮らしている。全身がふかふかとしており、触るととても気持ちいい。相手を麻痺させる粉は本来外敵から身を守るためのものだが、この子は男の動きをとめて精を搾る時にも使用している。,
-[1].このカードが場に出たとき相手モンスター1体を選択して発動する。そのモンスターに「麻痺」を付与する。,
+蛾の姿をしたモンスター娘。一日中寝ていることが多く、たまに起きては果物などを食べて暮らしている。全身がふかふかとしており、触るととても気持ちいい。相手を麻痺させる粉は本来外敵から身を守るためのものだが、この子は男の動きをとめて精を搾る時にも使用している。,A monster girl in the form of a moth. Often spending her days sleeping; she occasionally wakes up to eat fruits and other types of her food. Her entire body is soft and fluffy; and is very pleasant to touch. Her powder that paralyses her foes was originally to protect her from outside forces; but now she uses it to stop the movement of human males so she can milk their sperm.
+[1].このカードが場に出たとき相手モンスター1体を選択して発動する。そのモンスターに「麻痺」を付与する。,[1]. When this card enteres the field; select 1 of your opponent's monsters and inflict it with [Paralysis].
 わたしの鱗粉でしびれさせちゃうよ。えいやー。,Become paralyzed by my moth scales! Eei!
 あれ、どうしたの？顔が赤くなってるよ？,Oh? What's wrong? Your face has turned red!
 あー、前にわたしに負けたこと、思い出しちゃったんだ。それじゃあ、もう戦うのは無理かな？くすくす❤,Ah- You remembered the last time I lost to you. So then; wouldn't that make it impossible for you to continue fighting? *Giggle*❤
@@ -14,7 +14,7 @@ default,
 どうかな？わたしの胸あんまり大きくないけど、ちゃんとズリズリできてるかな？んふふ、その顔、けっこう気持ちいいみたいだね❤,How is it? My boobs aren't that big; but maybe I can still rub your dick between them properly? Ufufu. Judging by the look on your face; your dick is feeling pretty good.❤
 戦うのは終わりにして、そのままとろけてていいよ。胸の間にいっぱい精液出してね。,You can stop fighting and let your mind melt away. Shoot your load into my cleavage; OK?
 おちんちん、手でしごいて気持ちよくしてあげる。,I'll stroke your dick with my hands and make it feel good.
-こうやってぎゅってにぎって、前後に動かすんだよ。よいしょ、よいしょっ、と…❤,"I""ll grasp my hand aroud your dick like this; and move it back and forth. Like this... and this... yeah...❤"
+こうやってぎゅってにぎって、前後に動かすんだよ。よいしょ、よいしょっ、と…❤,I'll grasp my hand aroud your dick like this; and move it back and forth. Like this... and this... yeah...❤
 んふ、おちんちん捕まえた。手で作った筒でしこしこしてあげるね❤,Mm; caught your dick. I'll wrap my hand around the shaft of your dick and stroke it good; okay?❤
 さきっぽから根元までゆっくり、しーこしこ❤しーこしこ❤,Slowly stroking from the base to the tip~ Up and down~❤ Up and down~❤
 敵の女の子におちんちん捕まえられちゃったね。ほら、しこしこー❤,Looks like your penis got caught by a female foe. Hora~ Time to stroke it good~❤
