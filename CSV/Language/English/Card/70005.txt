@@ -21,12 +21,12 @@ Fランクの獣人の少年。獣タイプのモンスターを中心にした�
 1,
 へへん、{使用カード}を上級召喚だ！,Heheh; {使用カード} is an advanced summon!
 {使用カード}を召喚だ。,Summon {使用カード}.
-さらにもう1枚発動だ！,And another one is activated!
-{使用カード}の効果発動！手札からレベル３以下のモンスター１体を特殊召喚する！,Activating the effect of {使用カード}! I can now Special Summon a Level 3 or lower monster from my hand!
-魔法カード発動！{使用カード}！デッキから地属性のカードを加えるぜ.,Magic card activated! {使用カード}! Adding a monster card to my hand from my deck.
+さらにもう1枚発動だ！,I activate another one as well!
+{使用カード}の効果発動！手札からレベル３以下のモンスター１体を特殊召喚する！,I activate {使用カード}'s effect! I can now Special Summon a Level 3 or lower monster from my hand!
+魔法カード発動！{使用カード}！デッキから地属性のカードを加えるぜ.,Magic card activate! {使用カード}! I add a monster card to my hand from my deck.
 手札にモンスターを呼ぶぜ。{使用カード}発動！,I'm gonna add a monster card to my hand. {使用カード} activation!
-魔法カード発動！{使用カード}！HPを強化だ！,Magic card activated! I'm using {使用カード} to increase the HP of my target! (translate check needed)
-体力を上げて頑丈にするぜ。{使用カード}を発動！,I'm gonna boost the sturdyness of my target. Activate {使用カード}! (translate check needed)
+魔法カード発動！{使用カード}！HPを強化だ！,Magic card activated! {使用カード}! Increase HP!
+体力を上げて頑丈にするぜ。{使用カード}を発動！,I'm gonna boost the sturdyness of my target. Activate {使用カード}!
 切り札のカードだ！{使用カード}を発動！獣モンスターを永続的にパワーアップ！,This is my trump card! Activate {使用カード}! It will permanently power up my beast monsters!
 永続魔法、{使用カード}を発動！獣モンスターたちの攻撃力を永続的にパワーアップさせる！,Activate permanent spell; {使用カード}! This will power up the attack power of my beast monsters while it remains on the field!
 装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
