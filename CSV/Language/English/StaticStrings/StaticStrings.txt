@@ -138,3 +138,5 @@ Claw,
 枚数:,Cards:
 閉じる,Close
 攻,Atk
+名前,Name
+効果,Effect
