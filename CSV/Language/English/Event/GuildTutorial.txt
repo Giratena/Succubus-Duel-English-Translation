@@ -2,8 +2,8 @@ default
 スライムのサキュバスを倒した次の日。僕は師匠に言われた通りカードマスターギルドの建物を訪ねていた。,The day after I defeated the slime succubus; I went to the cardmaster guild building as my master had told me to.
 あら、見ない顔ですね。新規の登録者さんですか？,Oh; I don't recognize you. Are you a new cardmaster?
 リーフさんという方に会いに来ました。,I came to see someone called Leaf.
-ああ。あなたがコノハさんのお弟子さんですね。,Ah. You're Konoha's student, aren't you?
-あいにくギルドマスターのリーフは外出中ですが、\n言伝を受けております。,Unfortunately; Guild Master Leaf is out, but she has received word of your coming.
+ああ。あなたがコノハさんのお弟子さんですね。,Ah. You're Konoha's student; aren't you?
+あいにくギルドマスターのリーフは外出中ですが、\n言伝を受けております。,Unfortunately; Guild Master Leaf is out; but she has received word of your coming.
 「南の村の守護者コノハが、\n若いけれど優秀な弟子をギルドに向かわせる」\nとのことでしたが…。,She was told that "Konoha; the protector of the southern village; will be sending a young but talented apprentice to the guild;".
 ふふ、確かになかなかの魔力ですね。\nあなたの才能がこれから伸びていくのが楽しみです。,Fufu; that's certainly some impressive magical power.\nI look forward to seeing your talent develop even further.
 さて、手紙の内容によれば、\nギルドへの登録を希望されているんですよね？,Now; according to the contents of the letter;\n you wish to register with the guild, right?
