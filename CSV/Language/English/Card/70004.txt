@@ -39,7 +39,7 @@ default,
 わたしも戦闘に加わります！{防御カード}を攻撃！,I will join the fight too! Attack {防御カード}!
 バトルです！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
 うっ、なにもできませんね。ターンエンドです。,Ugh; I guess I can't do anything. End turn.
-この手札では…。ターンエンドです。,No cards to play... ターンエンドです。
+この手札では…。ターンエンドです。,No cards to play... End turn.
 ターン終了です。,My turn is over.
 ターンエンドします。,I'm ending my turn.
 わたしのターンはおわりです。,My turn is over.
