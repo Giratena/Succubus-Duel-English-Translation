@@ -50,7 +50,7 @@ Claw,
 発動,Activate
 防御,Defend
 セット,Set
-オナニー,Masturbation
+オナニー,Masturbate
 おねだり,Beg
 デッキ,Deck
 墓地,Graveyard
