@@ -6,7 +6,7 @@ F27_handJobAnime,
 F27_bustShakeAnime,
 F27_paizuriAnime,
 OPイベントをスキップしますか？,
-はい,
+はい,Yes
 OPをスキップ,
 勝利後までスキップ,
 時刻は夕暮れ時、もうすぐ師匠と約束した時間だ。,
