@@ -1,33 +1,33 @@
 default,
 試験官,Examiner
 EP07_PaizuriAnime,
-ギルドに所属する中堅マスター。ハンタータイプのカードをメインに使用し、戦士やフクロウのカードをサポートに用いる。\n常日頃から谷間を露出させた格好で出歩いており、人に見られるのがわりと好きな性格。男の子が彼女の胸に見とれていたりすると、両手で寄せ上げてサービスポーズを見せつけたりしてくるので、性癖がゆがむ男の子が後を絶たない。\nランクはC級だが、試験のために実力を抑えている。,
+ギルドに所属する中堅マスター。ハンタータイプのカードをメインに使用し、戦士やフクロウのカードをサポートに用いる。\n常日頃から谷間を露出させた格好で出歩いており、人に見られるのがわりと好きな性格。男の子が彼女の胸に見とれていたりすると、両手で寄せ上げてサービスポーズを見せつけたりしてくるので、性癖がゆがむ男の子が後を絶たない。\nランクはC級だが、試験のために実力を抑えている。,A mid-level cardmaster who works at the guild. She mainly uses warrior and owl cards that are built around supporting her hunter type cards. She enjoys being watched by others; always walking around in outfits that expose her ample cleavage. When boys stare at her tits; she teasingly pushes them together with her hands into a service pose; which drive many young boys mad. Despite being ranked C-class; she holds back her true strength for exams.
 導入イベントをスキップしますか？,Do you want to skip the opening event?
 はい,Yes
 いいえ,No
-いくつかのバトルを経て、ランクポイントが十分にたまった僕はギルドの建物を訪れていた。,
-あら、また会いましたね、新人マスターさん。ギルドへようこそ。大会での戦いは順調ですか？,
-おお、本当ですか！,
-すばらしいです！まだ大会も始まったばかりだというのに、良いすべり出しですね！,
-それではギルドリングをこちらにお渡しください。ポイントを確認させていただきます。,
-ありがとうございます。確かに指輪には必要量のランクポイントが貯まっていますね。,
-これであなたはFランクからEランクに昇格できるわけですが…。,
-ランク昇格の際には、１つ試験をこなしてもらわないといけません。,
-試験の内容はランクごとに異なります。Eランクの昇格試験は、ギルド職員との戦闘試験です。,
-担当職員を呼んできますので、少々お待ちください。,
-やっほー！わたしがEランクの昇格試験を担当する試験官だよ。よろしくね！,
-ギルドに入りたてのあなたに、Fランクに見合った戦闘力があるかどうか、試させてもらうよ。,
-剣士とハンターを組み合わせたわたしのデッキにうまく対処できるかな？さあ、バトルを始めよう！,
-お、また来たね。ランク昇格試験、もう一回受ける？,
-わたしのデッキは、1体1体の戦闘力はそこまでないけど盤面にカードを多く出すから、魔法の全体攻撃とかを使うと戦いやすいと思うよ。,
-いてて、これはお見事。\n新人マスターくん、なかなか強いねぇ。,
-うん、これだけの実力があれば十分だよ。\nあなたは試験に合格。これからEランクだね！,
-Eランク昇格おめでとうございます！さすがですね。,
-それではギルドリングに特殊な装置で魔力を込めます。\nちょっと待っていてくださいね。,
-戻ってきた受付さんにギルドリングを返してもらうと、指輪にはめられた宝石の色が濃い緑色に変化していた。,
-どうです、指輪の色が変わっているでしょう？\nこれがEランクの証です。,
-Aランクになるとそれは奇麗な赤色になるんですよ。\nあなたの指輪がその色になるのが今から楽しみです。,
-へぇー、わたしに何回も負けたのにけっこう言うじゃん❤,
+いくつかのバトルを経て、ランクポイントが十分にたまった僕はギルドの建物を訪れていた。,After several battles; I had accumulated enough rank points and visited the guild building.
+あら、また会いましたね、新人マスターさん。ギルドへようこそ。大会での戦いは順調ですか？,Ah; the new cardmaster; we meet again! Welcome to the guild. How are the battles in the tournament going?
+おお、本当ですか！,Ooh; is that so!
+すばらしいです！まだ大会も始まったばかりだというのに、良いすべり出しですね！,That's wonderful to hear! The tournament has only just begun; and yet you're already off to a good start!
+それではギルドリングをこちらにお渡しください。ポイントを確認させていただきます。,Now then. Please hand me your guild ring. I shall confirm the number points you've collected.
+ありがとうございます。確かに指輪には必要量のランクポイントが貯まっていますね。,Thank you. You certainly have the required rank points stored in your ring.
+これであなたはFランクからEランクに昇格できるわけですが…。,With this; you can be promoted from F rank to E rank…
+ランク昇格の際には、１つ試験をこなしてもらわないといけません。,However; I must add in order to qualify for  a rank promotion; you must also pass a test.
+試験の内容はランクごとに異なります。Eランクの昇格試験は、ギルド職員との戦闘試験です。,The content of the test varies by rank. The E-rank promotion test is a battle test with guild staff.
+担当職員を呼んできますので、少々お待ちください。,I'll call the staff member responsible for this; so please wait a moment.
+やっほー！わたしがEランクの昇格試験を担当する試験官だよ。よろしくね！,Hi there! I'll be your examiner for the E-rank promotion test. It's nice to meet you!
+ギルドに入りたてのあなたに、Fランクに見合った戦闘力があるかどうか、試させてもらうよ。,I'll test whether you have the combat power befitting an F rank after you've joined the guild.
+剣士とハンターを組み合わせたわたしのデッキにうまく対処できるかな？さあ、バトルを始めよう！,Do you think you have what it takes to deal with my swordswoman and hunter deck? Now; let's start the battle!
+お、また来たね。ランク昇格試験、もう一回受ける？,Oh; you've come again. Are you here to take the rank examination test once more?
+わたしのデッキは、1体1体の戦闘力はそこまでないけど盤面にカードを多く出すから、魔法の全体攻撃とかを使うと戦いやすいと思うよ。,The cards in my deck don't have much power; but I can use them to easily populate my field; so magic cards that are good at hitting many cards at once might give you an advantage.
+いてて、これはお見事。\n新人マスターくん、なかなか強いねぇ。,Ouch! Nicely done. You’re quite strong for a rookie cardmaster; aren't you?
+うん、これだけの実力があれば十分だよ。\nあなたは試験に合格。これからEランクだね！,Mhm. You've passed with flying colours. You're now an E Rank cardmaster!
+Eランク昇格おめでとうございます！さすがですね。,Congratulations on your E Rank promotion! I had no doubts about you.
+それではギルドリングに特殊な装置で魔力を込めます。\nちょっと待っていてくださいね。,Now; we'll imbue your Guild Ring with magic using a special device. Please wait a moment.
+戻ってきた受付さんにギルドリングを返してもらうと、指輪にはめられた宝石の色が濃い緑色に変化していた。,When the receptionist returned your Guild Ring; the gem set in the ring changed to a deep green color.
+どうです、指輪の色が変わっているでしょう？\nこれがEランクの証です。,What do you think? See how the color of your ring has changed? This proves that you're now an E-Rank cardmaster.
+Aランクになるとそれは奇麗な赤色になるんですよ。\nあなたの指輪がその色になるのが今から楽しみです。,When you reach A Rank; it will turn a beautiful red. I'm looking forward to seeing you when that time comes!
+へぇー、わたしに何回も負けたのにけっこう言うじゃん❤,Hehe…! You've lost to me several times; yet you still speak so confidently…❤
 ま、気持ちいいことされても癖にならないで最後には勝てたんだから、\n将来性はあるのかな？くすくす❤,
 ううっ…。それは…。,
 こら。あんまり茶化しちゃかわいそうですよ。\n試験に無事合格したんですから今は応援しましょ。,
