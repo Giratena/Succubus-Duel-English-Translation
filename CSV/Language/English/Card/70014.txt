@@ -59,11 +59,11 @@ Dランクに挑戦する,Challenge a D-rank Cardmaster
 この状況に僕は・・・。,Faced with this situation; I...
 彼女を振り払った。,Shook her off
 彼女の提案にうなずいてしまった。,Gave her a silent nod
-きゃ、もうそんな乱暴に振り払わなくたっていいじゃない。,Kyah; you didn't have to shake me off that roughly.
-え？正々堂々カードで戦いましょうって？\nふーん。かっこいいこと言うじゃない。,Eh? Let's have a fair and square fight? Hmm; you really have a way with words.
+きゃ、もうそんな乱暴に振り払わなくたっていいじゃない。,Kyah; you didn't have to shake me off that roughly!
+え？正々堂々カードで戦いましょうって？\nふーん。かっこいいこと言うじゃない。,Eh? You'd rather fight fair and square? Hmm; you do have a way with words; don't you?
 しょうがない。わたしもあなたの先輩マスターだし、\n少しはまじめにやりますか。ま、それに\nこれだけ触られたら少しは試合にも影響するでしょ？,Oh well; I'm still your senior so I'll take you a little more seriously. And hey; if this much touching is enough to impact you; it might affect our match a little; right?
-わたしに対してムラムラしたまま、試合に臨むといいわ。\n卑怯だって？いいじゃない。これぐらいハンデよ、ハンデ。,You should be turned on like this during the match. That's unfair? It's fine; just think of it as a handicap.
-なんだか一緒に話してたおかげで、\nあなたに対する緊張はもう取れちゃった。\n水属性デッキの力を見せてあげる。,Somehow; I'm not nervous anymore after talking with you. I'll be showing you the power of my Water Attribute deck in the match.
+わたしに対してムラムラしたまま、試合に臨むといいわ。\n卑怯だって？いいじゃない。これぐらいハンデよ、ハンデ。,You should be turned on like this during the match. You think it's unfair? Don't worry about it; just think of it as a handicap.
+なんだか一緒に話してたおかげで、\nあなたに対する緊張はもう取れちゃった。\n水属性デッキの力を見せてあげる。,For some reason; I don't feel as nervous anymore after talking with you. I'll show you the power of my Water Attribute deck during our match.
 くす…❤\nとうとうコクンってうなずいちゃったわね❤,*Giggle*❤ Finally you agreed to it~❤
 後輩くん❤素直でいい子❤\nそれじゃローションをたっぷり手に絡めて…❤,What an obedient junior~❤ Now I'll put the lotion on my hand.❤
 ズボンの中に手を入れて直接しごいてあげる…❤\nほら、ぬちゅぬちゅぬちゅ❤,...and put my hand inside your pants and jerk you off...❤ Squish; squish~❤
@@ -186,9 +186,9 @@ Dランクに挑戦する,Challenge a D-rank Cardmaster
 装備魔法カード発動！{使用カード}！\nわたし自身に装備するわ。,Activate magical equipment card; {使用カード}; on myself!
 {使用カード}の効果を発動！\n相手フィールド上のカードを１枚水属性に変更よ。,Activate {使用カード}'s effect! Change an opponent's card into Water Attribute.
 {使用カード}の効果を発動！\nあなたのフィールド上のカードを１枚水属性に変えてあげる。,Activate {使用カード}'s effect! Change one of your cards into Water Attribute.
-ターン終了時、相手フィールド上に水属性カードしか存在しないとき、\n{使用カード}の効果を発動！デッキからカードを１枚ドローするわ。,When the turn ends and there's only Water Attribute cards on the opponent's field; activate {使用カード}'s effect! Draw one card from the deck.
+ターン終了時、相手フィールド上に水属性カードしか存在しないとき、\n{使用カード}の効果を発動！デッキからカードを１枚ドローするわ。,When the turn ends and there's only Water Attribute cards on the opponent's field; and can activate {使用カード}'s effect! I draw one card from the deck.
 水はいくらでも湧き出るものよ…。\nターン終了時、{使用カード}の効果を発動！,Water can spring forth endlessly... When the turn ends; activate {使用カード}'s effect!
-相手フィールド上に水属性カードしか存在しないとき、\nデッキからカードを毎ターン１枚ドローするわ。,When there's only Water Attribute cards on the opponent's field; draw one card from the deck.
+相手フィールド上に水属性カードしか存在しないとき、\nデッキからカードを毎ターン１枚ドローするわ。,When there's only Water Attribute cards on the opponent's field; I draw one card from the deck.
 魔法カードを発動！{使用カード}！,Activate spell card; {使用カード}!
 トラップカードを発動！{使用カード}！,Activate trap card; {使用カード}!
 む、そのカード、水属性対策のカードじゃない。\nどこかでわたしのデッキのこと聞いたのかしら。\n厄介だわ。,Ugh; isn't that card a counter against Water Attributes? I wonder where you heard about my deck. That's so annoying.
@@ -196,8 +196,8 @@ Dランクに挑戦する,Challenge a D-rank Cardmaster
 わたしに一回勝ってるくせに、ずいぶんいじわるなことするじゃない。\nでも、簡単には負けないわよ。,You've won once already; but you're still so mean against me. But I won't lose that easily.
 カードをセット。,I set this card.
 カードを伏せるわ。,I place this card facedown.
-気持ちよくしてあげるわ❤{防御カード}を攻撃！,I'll make you feel good.❤ Attack {防御カード}!
-いいことしてあげる❤{防御カード}を攻撃！,I'll do something nice for you.❤ Attack {防御カード}!
+気持ちよくしてあげるわ❤{防御カード}を攻撃！,I'll make you feel good!❤ Attacking {防御カード}!
+いいことしてあげる❤{防御カード}を攻撃！,I'll do something good.❤ Attacking {防御カード}!
 もう一回行くわ！{使用カード}で{防御カード}を攻撃！,One more time! Attack {防御カード} with {使用カード}!
 上級カードの力を見せてあげる。{使用カード}で{防御カード}を攻撃。,Show them the power of a high-class card. Attack {防御カード} with {使用カード}!
 行きなさい。{使用カード}で{防御カード}を攻撃。,Go. I attack {防御カード} with my {使用カード}!
@@ -209,15 +209,15 @@ Dランクに挑戦する,Challenge a D-rank Cardmaster
 気持ちよくしてもらえるのに止めるんだ？\nふーん、がんばっちゃって。生意気ね❤,You could be feeling good; but you want me to stop? Hmm; so cheeky~❤ Do your best then.
 ほら、手でいじってあげるわ。,Here; I'll tease you with my hand.
 指をタコの触手みたいにからめてチンポをしこしこ❤ぐちゅぐちゅ❤,I'll jerk you off with my tentacle-like fingers.❤ Rub; rub~❤ 
-ふふ、腰がふるえてる❤射精しそうなぐらい気持ちいいんでしょ？\nそのまま負けちゃいなさい。,Hehe; your hips are shaking.❤ You're feeling so good that you're going to cum; aren't you? Just go ahead and give in to this pleasure.
+ふふ、腰がふるえてる❤射精しそうなぐらい気持ちいいんでしょ？\nそのまま負けちゃいなさい。,Hehe; your hips are shaking.❤ You're feeling so good that you're going to cum; aren't you? Just go ahead and give in to the pleasure.
 あなたのチンポ、袖の中に入れながらシコってあげる❤,I'll put your dick inside of my sleeves and jerk it.❤
 何されているか見えない方が興奮するでしょ？\nぐにゅぐにゅって指を絡めてあげれば、\nほら腰が抜けそうなぐらい気持ちいい❤,It's hotter when you can't see it; right? My fingers around your dick will feel so good that your hips will give out.❤
 すっごいびくびくしてるじゃない❤\n自分の大事なところを見えないところでいじられて喜んで、\n男って変態ばっかりね❤,You're shaking so much; aren't you?❤ To enjoy getting teased in your precious place while not being able to see it. Men really are perverts~❤
-手コキでイかせてあげるわ。,I'll make you cum with a handjob.
+手コキでイかせてあげるわ。,I'll give you a handjob and make you cum.
 指を亀頭に絡めて、ぐちゅぐちゅぐちゅ❤\nふふ、敏感なところいじめられて気持ちいい？,My fingers are stroking your glans.❤ Stroke; stroke~❤ Hehe; does it feel good to get teased on your sensitive place?
-手でチンポ気持ちよくしてあげる。,I'll make you cum with my hand.
+手でチンポ気持ちよくしてあげる。,I'll use my hand to pleasure your penis.
 試合前にさんざんシコられてもう限界でしょ？\nさっさと出して無様に負けちゃいなさい。くすくす❤,You've reached your limit from getting jerked before the match; right? Go ahead; just shoot it all out and lose miserably. *Giggle*❤
-両手で握ってしこしこ❤しこしこ❤\nどう？わたしの指の動き、かなり気持ちいいでしょ？\nランクアップしたばかりの初心者くんに耐えられるかしら❤,I'll grasp it with both of my hand and jerk it.❤ How is it? My fingers feel so good; don't they? I wonder if a newcomer that just ranked up can endure this.❤
+両手で握ってしこしこ❤しこしこ❤\nどう？わたしの指の動き、かなり気持ちいいでしょ？\nランクアップしたばかりの初心者くんに耐えられるかしら❤,I'll grasp it with both of my hands and jerk it up and down like this.❤ How is it? My fingers feel so good; don't they? I wonder if a newcomer that just ranked up can endure this...❤
 くす❤腰が震えてる❤もう出しちゃうんだ❤,*Giggle*❤ It's already trembling.❤ It's gonna shoot out already.❤
 試合前にわたしの提案を断っても、\nこうやって手コキで負けたら結局無意味ね❤\nほら、ほら、ほら。さっさとイってしまいなさい！,Even though you refused my proposal before the match; it's meaningless if you lose to a handjob like this in the end~❤ Come on; go ahead and cum!
 わたしの手コキは腰が抜けるぐらい気持ちいいわよ❤\nマスターのことなんてすぐに忘れさせてあげるわ❤,My handjob feels so good it'll bring you down on your knees.❤ You'll soon forget about your master.❤
@@ -230,12 +230,12 @@ Dランクに挑戦する,Challenge a D-rank Cardmaster
 でも、こうやって交互に足裏でしごいてあげれば…❤\nふふふ、腰が動いちゃうのよね❤\n足コキに屈服して無様な姿さらしちゃう？ほらほらほら❤,But if I alternate stroking with the soles of my feet like this...❤ Hehe; your hips started moving like that~❤ Will you yield to this footjob and reveal yourself in such a humiliating state? Come on; do your best~❤
 しもべのモンスターなら、\nマスターくんの晴れ舞台、台無しにするわけにいかないわよね。\n足でしごかれたぐらいでイっちゃうなんて論外。,You're just a subordinate monster; so you can't be ruining your master's big moment on the colosseum. It'd outrageous for you to cum from my feet.
 でも、激しくチンポごしごしされたら、\n頭のなかまっしろでしょ❤ほらほらほら❤\n足コキに負けて射精して、マスターくんの期待裏切りなさい❤,But when your dick gets rubbed intensely; your head goes blank.❤ Come on; lose to this footjob and betray your master's expectation.❤
-ローション垂らしながら足でしごかれるの気持ちいいでしょ？,Does it feel good to be stroked by my feet dripping with lotion?
-このローションにはわたしの魔力をしみこませてあるの。\nさらにわたしのモンスターの粘液を混ぜて作った、特製品♪\nサキュバスの体液ほどじゃないけど、快感増幅効果があるはずよ。,This lotion is seeped with my magic and mixed with my monster's mucus; it's a special-made lotion♪ It's not as effective as a real succubus body; but it can amplify the pleasure you take.
-これで敏感になった亀頭を、うり、乱暴に足でごしごしごし❤\n強くこすってもローションのせいで気持ちよくなっちゃうわね。\nあは、どんどん腰が浮いてきてる❤,Now for the sensitive glans; I'll rub you roughly with my feet.❤ No matter how rough I do it; the lotion will turn it into pleasure. Ehe; your hips are starting to rise.❤
-ローション足コキなんて、\n初心者マスターくんには快感が強すぎたかしら。\nチンポバカになっちゃたら、ごめんね❤うりうりうり~♪,I wonder if that lotion footjob was way too much for Mr. Newcomer.❤ Sorry that your dick turned all weird now~❤ Rub; rub~♪
+ローション垂らしながら足でしごかれるの気持ちいいでしょ？,It feels good to be stroked by my feet while they're coated in lotion; right?
+このローションにはわたしの魔力をしみこませてあるの。\nさらにわたしのモンスターの粘液を混ぜて作った、特製品♪\nサキュバスの体液ほどじゃないけど、快感増幅効果があるはずよ。,This lotion is a special-made lotion seeped with my magic and mixed with the mucus from my monsters♪ It's not as effective as a real succubus body; but it can amplify the pleasure you feel.
+これで敏感になった亀頭を、うり、乱暴に足でごしごしごし❤\n強くこすってもローションのせいで気持ちよくなっちゃうわね。\nあは、どんどん腰が浮いてきてる❤,Now with the head of your dick all nice and sensitive; I'll rub your dick nicely between my feet.❤ No matter how rough I do it; the lotion will turn it into pleasure. Ehehe; your hips are starting to rise upwards.❤
+ローション足コキなんて、\n初心者マスターくんには快感が強すぎたかしら。\nチンポバカになっちゃたら、ごめんね❤うりうりうり~♪,I wonder if my lotion footjob was way too much for you; Rookie?❤ Sorry I turned your dick all stupid now~❤ Rub; rub~♪
 もうイく？イっちゃう？\nふふふ、あなたの試合はここで終わりみたい❤\n足コキでさっさと射精しなさい❤ザーコ❤,You wanna cum? Hehe; looks like your match is going to end soon,❤ Go ahead and cum to this footjob.❤ Loooser~❤
-敏感になった亀頭を、乱暴に足でごしごしごし❤\nあは、どんどん腰が浮いてきてる❤\n下級モンスターじゃ耐えられないかしら。くすくす❤,Now for your sensitive glans; I'll rub you roughly with my feet.❤ Ehe; your hips are starting to rise.❤ Is this too much for a low rank monster? *Giggle*❤
+敏感になった亀頭を、乱暴に足でごしごしごし❤\nあは、どんどん腰が浮いてきてる❤\n下級モンスターじゃ耐えられないかしら。くすくす❤,Now with the head of your dick all nice and sensitive; I'll rub your dick nicely between my feet.❤ Ehe; your hips are starting to rise.❤ Perhaps this is a little too much for low rank monster like you? *Giggle*❤
 敏感になった亀頭を、乱暴に足でごしごしごし❤\nあは、どんどん腰が浮いてきてる❤\n上級モンスターでも足でこんなに感じちゃうんだ❤くすくす❤,Now for you sensitive glans; I'll rub you roughly with my feet.❤ Ehe; your hips are starting to rise.❤ Is this too much for a high rank monster? *Giggle*❤
 両手で握ってしこしこ❤しこしこ❤\nどう？わたしの指の動き、かなり気持ちいいでしょ？\n{主人公}でも我慢するのは大変なんじゃない？,I'll jerk it with both of my hands.❤ How is it? The movement of my fingers feels so good; don't they? Even if it's {主人公}; it'd be hard to endure it.
 闘技場では我慢できたのに\n公式試合じゃなければ負けちゃうのね❤\nほら、ほら、ほら❤先っぽぐちゅぐちゅいじめられて出しちゃえ❤,You were able to endure this on the colosseum; but you lost when it's an official match instead~❤ Come on; I'll tease the tip so just cum.❤
@@ -406,7 +406,7 @@ Dランクに挑戦する,Challenge a D-rank Cardmaster
 一方{主人公}選手、まさかの自滅で敗北！\n若い青年にはオクタ選手のデッキは強すぎたか！\nちょっと恥ずかしい初戦になりました！,On the other side; to think {主人公} would lose on his own! Is Octa’s deck just too much for the young man!? This has turned into an embarrassing debut match!
 オクタ選手をいいところまで追い詰めただけに、\nこれはもったいない。もう少し我慢できなかったのでしょうか！\n今後の理性の成長に期待です！,Even though he was on the brink of victory! What a shame! Perhaps he couldn’t endure it any longer!? We look forward to his willpower grow in the future!
 開始直後に自慰にふけってしまうとは、\n観客席からは期待のルーキーに失笑の声がもれています。,You can hear the spectators laughing at the highly anticipated newcomer who started masturbating as soon as the match started.
-一方{主人公}選手、オクタ選手の足コキで敗北！\n足に挟み込まれて喘がされるまま、一気に敗北に追い込まれました。,On the other side;  {主人公} lost to Octa’s footjob! Trapped between her thighs and left moaning; he was quickly forced into defeat.
+一方{主人公}選手、オクタ選手の足コキで敗北！\n足に挟み込まれて喘がされるまま、一気に敗北に追い込まれました。,On the other side; {主人公} lost to Octa’s footjob! Trapped between her feet and left moaning; he was quickly forced into defeat.
 一方{主人公}選手、オクタ選手の手コキで敗北！\n巧みな手練手管に一気に敗北に追い込まれました。,On the other side;  {主人公} lost to Octa’s handjob! With her skilled technique; he was quickly forced into defeat.
 オクタ選手をいいところまで追い詰めましたが、\nあと少し耐えきれなかったか。\n{主人公}選手の今後の成長に期待です！,Even though he was on the brink of victory; perhaps he couldn’t endure it just a little more!? We look forward to seeing {主人公}’s willpower grow in the future!
 一方{主人公}選手、\n強力なモンスターを出したにも関わらず、なぜか様子見。\nその隙をオクタ選手につかれ、一気に膝で敗北に追い込まれました。,On the other side;  {主人公} summoned a strong monster; yet for some reason was being cautious. Using that opportunity; Octa quickly forced him to defeat with her knees.
@@ -445,7 +445,7 @@ Dランクに挑戦する,Challenge a D-rank Cardmaster
 ま、あんまりやりすぎてもかわいそうかしらね。\n上下関係も分かったところで、\nほら待ち望んでいた天国よ❤,Well; I'd feel bad going too far myself. Now that you know your place; I'll send you to heaven as you wish~❤
 ぐちゅぐちゅぐちゅぐちゅ、両足で挟んで上下にしごいてあげる❤\nわたしには勝てないってしっかり分かったでしょ？\n分かったならイって返事しなさい❤雑魚ルーキー❤,Squish; squish. I'll jerk you with both of my feet.❤ You understand now that you can't beat me; right? If you do; then please reply~❤ Small fry newcomer~❤
 あひっ、あっ、ああっ❤❤,Ahieeeee~❤❤
-あはは、２回目だっていうのにすごい量ね。\nそれにその顔❤すっかりアヘ顔さらしちゃって、\nローション足コキで、完全にメロメロって感じかしら。,Ahaha; it's your second time ejaculating; yet it's still such an impressive amount. And that look you have~❤ Such a face filled with ecstasy. You're completely smitten by the lotion footjob; aren't you?
+あはは、２回目だっていうのにすごい量ね。\nそれにその顔❤すっかりアヘ顔さらしちゃって、\nローション足コキで、完全にメロメロって感じかしら。,Ahaha! It's your second time ejaculating; yet it's still such an impressive amount. And that look you have~❤ Such a face filled with ecstasy. You're completely smitten by my lotion footjob; aren't you?
 快感の余韻で腰がまだカクカク動いているし❤\nまるで陸に打ち上げられた魚みたいね。くすくす❤,Your hips are still moving from the afterglow~❤ You look just like a fish that’s been washed ashore; *Giggle*❤
 あへぇっ、あうう・・・❤❤,Ahhhh...❤❤
 ほらまた気持ちよくしてあげるわ❤\n今度は手でしごいてあげる❤,Here; I'll make you feel good again.❤ I'll use my hand this time~❤
@@ -472,7 +472,7 @@ Dランクに挑戦する,Challenge a D-rank Cardmaster
 ほらほらほら❤足でチンポを挟んで前後に動かされてたまらないでしょ…❤,Look~❤ My feet are gripping your dick and moving up and down. It's unbearable isn't it...?❤
 あっ、あっ、あうううぅ・・・・❤,Ahh; ahhhhh...❤
 一度骨の髄までオクタさんの快感を教え込まれたあとでは、彼女の攻撃にまったく抵抗できなくなってしまった。,Once I had been taught the feeling of pleasure to my very core by Octa; I couldn't resist her attacks anymore.
-何度気合を入れなおして勝負を挑んでも、ローションをつけた状態で愛撫を受ければ、それだけで頭の中が真っ白になってしまう。そんな状態ではカードもまともに使用することができない。,No matter how many times I gathered my spirit and challenged her to a match; once I got caressed with those lotions; my mind blanks out immediately. I couldn't even use my cards anymore.
+何度気合を入れなおして勝負を挑んでも、ローションをつけた状態で愛撫を受ければ、それだけで頭の中が真っ白になってしまう。そんな状態ではカードもまともに使用することができない。,No matter how many times I gathered my spirit and challenged her to a match; once my cock was being caressed bewteen her lotioned feet; my mind blanks out immediately. I couldn't even use my cards anymore.
 こうして僕は延々と敗北を重ね、結局Ｄランクより上のランクに行くことはできなかった。強くなるため他の手段を模索しようと思っても、オクタさんとの試合を思い出すと、それすら手につかず、また闘技場に足を運んでしまうことをどうしてもやめられなかった。,I continued racking up so many losses; that I never ended up being able to increase my rank past D. Even if I had found another way to get stronger; once I remembered that match with Octa; I'd get so overwhelmed that I couldn't help but go the colosseum again.
 妹を助けに行くという当初の目的も果たせないまま、僕の冒険はこうして幕を閉じたのだった。,Thus my adventure ended without accomplishing my original goal of saving my sister.
 みなさんご存じの通り、勝者のオクタ選手には魔力補充の権利が与えられます。衆人環視のこの場で魔力を得るか、それともプライベートルームに移動するかは彼女の自由です。,As you all know; the winner Octa is given the right to replenish her magical power. She’s free to choose whether she wants to replenish it here where everyone can see or move to a private room.
