@@ -6,17 +6,18 @@ EP07_PaizuriAnime,
 はい,Yes
 いいえ,No
 いくつかのバトルを経て、ランクポイントが十分にたまった僕はギルドの建物を訪れていた。,After several battles; I had accumulated enough rank points and visited the guild building.
-あら、また会いましたね、新人マスターさん。ギルドへようこそ。大会での戦いは順調ですか？,Ah; the new cardmaster; we meet again! Welcome to the guild. How are the battles in the tournament going?
+あら、また会いましたね、新人マスターさん。ギルドへようこそ。大会での戦いは順調ですか？,Ah; it's the new cardmaster. We meet again! Welcome to the guild. How are the battles in the tournament going?
+ランクポイントがたまりました！,I've accumulated some rank points!
 おお、本当ですか！,Ooh; is that so!
 すばらしいです！まだ大会も始まったばかりだというのに、良いすべり出しですね！,That's wonderful to hear! The tournament has only just begun; and yet you're already off to a good start!
 それではギルドリングをこちらにお渡しください。ポイントを確認させていただきます。,Now then. Please hand me your guild ring. I shall confirm the number points you've collected.
 ありがとうございます。確かに指輪には必要量のランクポイントが貯まっていますね。,Thank you. You certainly have the required rank points stored in your ring.
-これであなたはFランクからEランクに昇格できるわけですが…。,With this; you can be promoted from F rank to E rank…
+これであなたはFランクからEランクに昇格できるわけですが…。,With this; you can be promoted from F rank to E rank...
 ランク昇格の際には、１つ試験をこなしてもらわないといけません。,However; I must add in order to qualify for  a rank promotion; you must also pass a test.
 試験の内容はランクごとに異なります。Eランクの昇格試験は、ギルド職員との戦闘試験です。,The content of the test varies by rank. The E-rank promotion test is a battle test with guild staff.
 担当職員を呼んできますので、少々お待ちください。,I'll call the staff member responsible for this; so please wait a moment.
 やっほー！わたしがEランクの昇格試験を担当する試験官だよ。よろしくね！,Hi there! I'll be your examiner for the E-rank promotion test. It's nice to meet you!
-ギルドに入りたてのあなたに、Fランクに見合った戦闘力があるかどうか、試させてもらうよ。,I'll test whether you have the combat power befitting an F rank after you've joined the guild.
+ギルドに入りたてのあなたに、Fランクに見合った戦闘力があるかどうか、試させてもらうよ。,Considering you've joined the guild; I'll test whether you have the combat power befitting an F rank.
 剣士とハンターを組み合わせたわたしのデッキにうまく対処できるかな？さあ、バトルを始めよう！,Do you think you have what it takes to deal with my swordswoman and hunter deck? Now; let's start the battle!
 お、また来たね。ランク昇格試験、もう一回受ける？,Oh; you've come again. Are you here to take the rank examination test once more?
 わたしのデッキは、1体1体の戦闘力はそこまでないけど盤面にカードを多く出すから、魔法の全体攻撃とかを使うと戦いやすいと思うよ。,The cards in my deck don't have much power; but I can use them to easily populate my field; so magic cards that are good at hitting many cards at once might give you an advantage.
@@ -72,10 +73,10 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 それでもきっと僕は、Aランクになって妹を助けに行く。それがどれだけわずかな可能性であったとしても…。僕は決意を新たにしたのだった。,
 あなたのターンからだね！どんなカードで攻めてくるか、楽しみ！,
 わたしのターンからだね！まずはどうしよっかなー。,
-とりあえずドローしてっと。,
-わたしのターン、ドロー。,
-{使用カード}を上級召喚するよ。,
-{使用カード}を召喚するよ！,
+とりあえずドローしてっと。,First of all; I'll draw a card.
+わたしのターン、ドロー。,My turn. Draw.
+{使用カード}を上級召喚するよ。,Special summon {使用カード}!
+{使用カード}を召喚するよ！,Summoning; {使用カード}!
 ううっ、あうう・・・❤,
 あはっ、試験中に自滅しちゃうような子はだめだねー。\n復活してもらったのに、まだうっとりした顔しちゃってる❤,
 そんなんじゃ、マスターくんの命令も耳に入らないんじゃない？\n情けない男の子だなー。くすくす❤,
@@ -109,10 +110,10 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 どう？快楽攻撃されて心は乱れてない？,
 昔はもっと剣と剣のぶつかり合いって感じだったんだけどね、\nここ最近はこういうエッチな攻撃に耐えられないと\n男のカードマスターはだいぶ厳しいよ。,
 試験官としてあなたの精神力試させてもらうね！,
-うーん、なにもできない！ターンエンド。,End turn.
-この手札じゃ、むりー。なにもできない。ターンエンド。,End turn.
-ターン終了だよ。,
-わたしのターンはおしまい。ターンエンド,
+うーん、なにもできない！ターンエンド。,Oof. Looks like I can't do anything! End turn.
+この手札じゃ、むりー。なにもできない。ターンエンド。,This hand is no good... I can't do much. End turn.
+ターン終了だよ。,My turn is over!
+わたしのターンはおしまい。ターンエンド,I'm done with my turn. End turn!
 これで終わりかな。ターンエンド。,End turn.
 む、攻撃させてくれないの？厄介なカードだなぁ。,
 手でシコシコしてあげるね。ほらじっとしてて、\nシコシコ❤シコシコ❤,
