@@ -11,7 +11,6 @@ ColosseumVIPRoom,
 WestTown,
 CollegeArchive,
 MorugenPrison,
-,
 Sexy01,
 Kiss01,
 PaizuriEffect,
@@ -51,7 +50,7 @@ Claw,
 発動,Activate
 防御,Defend
 セット,Set
-オナニー,Masturbation
+オナニー,Masturbate
 おねだり,Beg
 デッキ,Deck
 墓地,Graveyard
@@ -127,15 +126,17 @@ Claw,
 ローグ,Rogue
 魔術師,Spellcaster
 戦士,Warrior
-ハンタ一,Hunter
+ハンター,Hunter
 悪魔,Demon
 通常魔法,Spell
 永続魔法,Continuous Spell
 罠,Trap
 装備,Equipment
-ド口一,Draw
+ド口ー,Draw
 //These strings don't appear to work:
 一覧,Preview
 枚数:,Cards:
 閉じる,Close
 攻,Atk
+名前,Name
+効果,Effect

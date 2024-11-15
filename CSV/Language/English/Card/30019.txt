@@ -1,3 +1,3 @@
 default
-大ネズミ,大老鼠
-このカードが戦闘で相手モンスターを破壊したとき、自分フィールド上に自身のコピーを1体特殊召喚する。,[1].當這張卡戰鬥破壞對手怪獸時發動。複製這張卡特殊召喚到自己場上。
+大ネズミ,Giant Rat
+このカードが戦闘で相手モンスターを破壊したとき、自分フィールド上に自身のコピーを1体特殊召喚する。,[1]. When this card destroys an opponent's monster guring battle; special summon 1 copy of this card onto your side of the field.

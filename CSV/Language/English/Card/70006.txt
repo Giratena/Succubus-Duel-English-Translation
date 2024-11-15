@@ -1,13 +1,13 @@
 default
 エルル,Eruru
-,
 EP06_HandJob (1),
 Kiss01,
 Sexy01,
+闇属性のモンスターを好んで使うD級のカードマスター。特殊召喚を多用し、初心者を苦しめる。鍵開けなどの盗賊としての技能を身に着けており、手先が器用。そんな彼女の手コキは絶品で、戦闘後に彼女の虜になってしまう男が後を絶たないという。また大きな胸を活かしたパイズリも得意。男性が彼女に勝つためには強い理性が必要だろう。,A D-rank card master who prefers to use dark-attribute monsters; she often uses special summons and torments beginners. She possesses skills in lockpicking and other thievery; and as a result her hands are very dexterous. Her handjobs are exquisite; and many men become her captives after battle. She’s also skilled in the art of tittyfucking; thanks to her large breasts. Men need a strong willpower to have any hope of defeating her.
 ん？この辺じゃ見ない顔ね。初心者のカードマスターかしら。,Hmm? I haven't seen your face around. Are you a beginner cardmaster?
 はじめまして。わたしは、エルル。D級のカードマスターよ。,I'll introduce myself. I'm Eruru; a D-Rank cardmaster.
 あなたのランクはF級？ふーん、まだカードを始めたばっかりなんだ。,You're an F-rank; huh? Hmm; so you're just starting out.
-さっそくバトルと行きましょ。上級者として軽く倒してあげる。,Let's have a battle; then. I'll easily beat you since I'm more experienced.
+さっそくバトルと行きましょ。上級者として軽く倒してあげる。,So; wanna have a battle? I'll beat you easily since I'm more experienced.
 やっほー。{ランク名}級カードマスターくん。また会ったわね。バトルする？,Well; if it isn't the {ランク名}-rank. We meet again! Wanna have a battle?
 この間わたしが負けたのは運よ。運。今度は勝つわ。さあ行くわよ！,It was just bad luck that I lost last time. Bad luck; I tell you! This time I'll definitely win. Come at me!
 この間みたいに、キャロルのおっぱいでまた負けさせてあげるわ。ふふふ、せいぜい楽しみなさい。,Maybe this time; I'll make you lose to Carol's breasts again. Fufu; you should look forward to it.
@@ -21,7 +21,7 @@ Sexy01,
 やっほー。E級カードマスターくん。また会ったわね。バトルする？,Well; if it isn't the E-rank. We meet again. Wanna have a battle?
 やっほー。{主人公}。\n今時間ある？それならわたしとバトルでもしましょう。,Well; if it isn't {主人公}. Are you free? Then let's have a battle.
 同じDランク同士、闘技場に向けてしっかり調整していかないとね。\nこの間は負けたけど、今日は勝たせてもらうわ！,We're fellow D-ranks; so make sure you're well prepared before you head out to the colosseum. I might've lost last time; but I'll get my win today!
-くぅ、格下に負けるなんて屈辱…。次は負けないわ！,Kuh; to lose against a lower rank... It's so humiliating. I won't lose next time!
+くぅ、格下に負けるなんて屈辱…。次は負けないわ！,Ugh; it's humiliating to lose to someone who's lower rank than me... I won't lose next time!
 はい、わたしの勝ち。やっぱりF級とD級じゃ、実力が違うわよね。クスクス。,Yep; looks like I won. There really is a big gap between F-rank and D-rank; *Giggle*
 はい、わたしの勝ち。やっぱりE級とD級じゃ、実力が違うわよね。クスクス。,Yep; looks like I won. There really is a big gap between E-rank and D-rank; *Giggle*
 うっ、さすがね。やるじゃない、{主人公}。\nでも次は勝つわ。またバトルしましょう。,Ugh; I thought so. You're not half bad; {主人公}. But next time; victory will be mine. Let's battle again sometime; OK?
@@ -41,13 +41,13 @@ Sexy01,
 力を奪ってあげる。{使用カード}の効果を発動！,I'll steal your power. Activate {使用カード}'s effect!
 {使用カード}の効果発動！闇属性モンスターの攻撃力を300ポイントアップ！,Activate {使用カード}'s effect! A random Dark Attribute monster's attack power increases by 300.
 {使用カード}の効果を発動！闇属性モンスターの攻撃力をパワーアップ！,Activate {使用カード}'s effect! A random Dark Attribute monster's attack power increases.
-破壊されたとき{使用カード}の効果発動！罠カードをサーチするわ！,When it's destroyed; activate {使用カード}'s effect! It searches for a trap card!
+破壊されたとき{使用カード}の効果発動！罠カードをサーチするわ！,When {使用カード} is destroyed in battle; I can activate it's effect and search for a trap card to add to my hand!
 {使用カード}が破壊されたとき効果を発動！罠カードを山札から手札にサーチ！,When it's destroyed; activate {使用カード}'s effect! It searches for a trap card from my deck and adds it into my hand!
 魔法カード発動！{使用カード}！手札からレベル4以下の闇属性モンスターを特殊召喚するわ.,Activate magic card's effect! {使用カード}! It special summons a level 4 Dark Attribute monster from my hand.
 {使用カード}発動！手札から闇属性の下級モンスターを特殊召喚するわ。,Activate {使用カード}'s effect! It special summons a lower-rank Dark Attribute monster from my hand.
 {使用カード}を発動！強化状態の味方をさらに強化するわ！,Activate {使用カード}'s effect! Allies that have been buffed are buffed even further!
 どんどん強くなりなさい。{使用カード}を発動！,Get more and more powerful. Activate {使用カード}!
-{使用カード}を発動！デッキからローグモンスターをサーチさせてもらうわね。,Activate {使用カード}'s effect! It searches for a Rogue Type monster from my deck and adds it to my hand.
+{使用カード}を発動！デッキからローグモンスターをサーチさせてもらうわね。,I Activate {使用カード}'s effect! It searches for a Rogue Type monster from my deck and adds it to my hand.
 さあ行くわよ。{使用カード}を発動！連続攻撃してあげる！,Let's go! Activate {使用カード}! Take these successive attacks!
 装備魔法カード発動！{使用カード}！,Activate magic equipment card! {使用カード}!
 魔法カードを発動！{使用カード}！,Activate magic card! {使用カード}!
@@ -81,12 +81,12 @@ E級カードマスターくんは女の子に手でしてもらったことは�
 わたしの手でかわいがってあげる。ほら、握って上下に、シコシコ…❤いっぱい声出しちゃっていいからね。,I'll treat you good with my hands. There; I'll hold your dick like this and move up and down...❤ You can make as much noise as you want.
 わたしの胸、けっこう大きいでしょ。挟んであげようか？,My boobs are surprisingly big; aren't they? Should I squeeze you with them?
 ほら、服の隙間からチンコを入れてっと…。\nふふふ、おっぱいの感触たくさん楽しんでね❤,Here; put your dick inside the gap in my clothes... Hehe; please enjoy this sensation.❤
-胸で挟んで、気持ちよくしてあげる。\nこの大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,I'll make you feel good with these boobs. I'll insert your dick inside of them and squeeze it.
-その状態で上下に何度もズリズリ♪ パイズリって気持ちいいのよ。ほら…❤,I'll move it up and down just like that♪ Titjobs feel good; don't they? I'll move it like this...❤
-F級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,Here's a special service for the F-rank cardmaster. I'll put your dick inside of my clothes...
-E級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,Here's a special service for the E-rank cardmaster. I'll put your dick inside of my clothes...
-おっぱいで特別ご奉仕してあげるわね❤{主人公}❤\nチンコを服の中に入れてっと…。,Here's a special service for ❤{主人公}❤. I'll put your dick inside of my clothes...
-おっぱいあったかくて気持ちいい？そのまま力抜いてなさい。\nきっと耐えられなくて、すぐに終わるわ。\nよいしょっ。ズリズリ、ズリズリ…❤,Do my breasts feel that good? Just relax. I'm sure you won't be able to resist this; so this'll be over soon. Squeeze; squeeze...❤
+胸で挟んで、気持ちよくしてあげる。\nこの大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,I'll make you feel good with these boobs. I'll insert your dick between them and massage it.
+その状態で上下に何度もズリズリ♪ パイズリって気持ちいいのよ。ほら…❤,I'll move my boobs up and down just like this♪ Titjobs feel good; don't they? Come on...❤
+F級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,Here's a special service for a special F-rank cardmaster. I'll slip your dick under clothes and...
+E級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,Here's a special service for a special E-rank cardmaster. I'll slip your dick under my clothes and...
+おっぱいで特別ご奉仕してあげるわね❤{主人公}❤\nチンコを服の中に入れてっと…。,Here's a special service for you; {主人公}❤. I'll slip your dick under my clothes and...
+おっぱいあったかくて気持ちいい？そのまま力抜いてなさい。\nきっと耐えられなくて、すぐに終わるわ。\nよいしょっ。ズリズリ、ズリズリ…❤,Does it feel warm between my boobs? Just relax. I'm sure you won't be able to resist this; so this'll be over soon. Squeeze; squeeze...❤
 胸で挟んで、気持ちよくしてあげる。この大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,I'll make you feel good with these breasts. I'll put your dick between my huge breasts and squeeze them.
 あら、我慢できなくて射精させてくださいってお願いしちゃうわけ？\n初心者らしいカッコ悪いおねだりね❤,Oh; you can't endure; so you're begging me to make you ejaculate? So typical for a beginner. What a pathetic request~❤
 どうやって負けたいのかしら❤\n先輩マスターのわたしに向かって、声に出して言ってみなさい❤,So; how do you want to lose?❤ Please face your senior and say it loudly.❤

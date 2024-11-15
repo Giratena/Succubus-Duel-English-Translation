@@ -14,7 +14,7 @@ Place/Morgen,
 ランクについて,About Rank
 ランクポイントが上限に達すると、ギルドで昇格試験を受けられます。試験をクリアすることでランクが上昇します。Aランクを目指してがんばりましょう！,When you reach the maximum amount of rank points for your current rank; you can take a promotion test at the guild. Clearing the test will increase your rank. Do your best to reach A-rank!
 上部メニューボタンを使用すると、ショップの利用やデッキの編集が行えます。ホームボタンを押すことで宿屋に戻ることができ、セーブは宿屋内で行うことができます。,You can use the top menu buttons to access the shop or edit your deck. The home button returns you to the inn; where you can save.
-クエスト：Eランク昇格試験が発生しました,Quest: E-Rank Promotion Exam has occurred (translators note: feeling usure about this translation. Started or Completed?)
+クエスト：Eランク昇格試験が発生しました,Quest: E-Rank Promotion Exam
 クエストについて,About Quests
 マップ画面では一定の条件を満たすとクエストが発生することがあります。画面上部のメニューから旗のマークを選択するとクエストを受けることができます。,Quests can be triggered when certain conditions are met. You can see the currently available quests by selecting the flag icon from the menu at the top of the map screen.
 カードパックがショップに追加されました。,Card packs have been added to the shop.

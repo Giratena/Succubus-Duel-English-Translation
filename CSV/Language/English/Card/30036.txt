@@ -1,4 +1,3 @@
 default
-狩人のフクロウ,獵人的貓頭鷹
-[1].このカードが召喚に成功したとき、デッキからハンタータイプのモンスターをランダムに1枚手札に加える。\n[2].このカードが戦闘によって破壊され墓地に送られたとき、デッキから永続魔法カード1枚を手札に加える。,[1].這張卡通常召喚成功時發動。從牌組隨機將1張獵人種類的怪獸加入手牌。\n[2].當這張卡因戰鬥而被破壞送往墓地時發動。從牌組隨機將１張永續魔法卡加入手牌。
-狩人のために獲物を見つけるよく訓練されたフクロウ。非常に賢い。,獵人會訓練貓頭鷹來捕捉獵物。非常に賢い。
+狩人のフクロウ,Hunter's Owl
+[1].このカードが召喚に成功したとき、デッキからハンタータイプのモンスターをランダムに1枚手札に加える。\n[2].このカードが戦闘によって破壊され墓地に送られたとき、デッキから永続魔法カード1枚を手札に加える。,[1]. When this card is successfully summoned; add one random hunter-type monster from your deck to your hand.\n[2]. When this card is destroyed in battle and sent to the graveyard; add one continuous spell card from your deck to your hand.
