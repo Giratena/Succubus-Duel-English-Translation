@@ -29,10 +29,10 @@ Eランク昇格おめでとうございます！さすがですね。,Congratul
 どうです、指輪の色が変わっているでしょう？\nこれがEランクの証です。,What do you think? See how the color of your ring has changed? This proves that you're now an E-Rank cardmaster.
 Aランクになるとそれは奇麗な赤色になるんですよ。\nあなたの指輪がその色になるのが今から楽しみです。,When you reach A Rank; it will turn a beautiful red. I'm looking forward to seeing you when that time comes!
 へぇー、わたしに何回も負けたのにけっこう言うじゃん❤,Hehe...! You've lost to me several times; yet you still speak so confidently...❤
-ま、気持ちいいことされても癖にならないで最後には勝てたんだから、\n将来性はあるのかな？くすくす❤,
-ううっ…。それは…。,
-こら。あんまり茶化しちゃかわいそうですよ。\n試験に無事合格したんですから今は応援しましょ。,
-ふふ、さすがに試験をすぐクリアしただけはありますね。\nとても頼もしいです。,
+ま、気持ちいいことされても癖にならないで最後には勝てたんだから、\n将来性はあるのかな？くすくす❤,Well; even though you experienced things that felt good; you still didn't get addicted to it and managed to win in the end... perhaps your future has some potential after all? *Giggle*❤
+ううっ…。それは…。,Oogh... That's...
+こら。あんまり茶化しちゃかわいそうですよ。\n試験に無事合格したんですから今は応援しましょ。,Come now. It's not fair to tease him like that. He managed to pass the test safely;⁸ so let's do our best to support him.
+ふふ、さすがに試験をすぐクリアしただけはありますね。\nとても頼もしいです。,Fufu. As I expected; you cleared the test immediately;\nYou're very reliable.
 それでは引き続き大会でのバトル頑張ってください！,
 僕は色の変わったギルドリングをウキウキした心地で眺めながら、宿への帰路についた。,
 ほとんどカードも使えなかった昔を思えば、とても順調だ。これも師匠がしっかり鍛えてくれたからだろう。,
@@ -80,7 +80,7 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 ううっ、あうう・・・❤,
 あはっ、試験中に自滅しちゃうような子はだめだねー。\n復活してもらったのに、まだうっとりした顔しちゃってる❤,
 そんなんじゃ、マスターくんの命令も耳に入らないんじゃない？\n情けない男の子だなー。くすくす❤,
-さらにもう1枚発動！,
+さらにもう1枚発動！,I activate another card!
 {使用カード}の召喚時効果発動！手札を1枚捨てて、大剣の女戦士を特殊召喚！,
 {使用カード}の召喚時効果を発動！手札を1枚捨てて護衛のモンスターを特殊召喚！,
 手札を２枚捨てて{使用カード}の効果発動！魅了を付与させてもらうわね！,
@@ -99,9 +99,9 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 {使用カード}を発動！手札にいるハンタータイプモンスターを特殊召喚！,
 {使用カード}を発動！手札にハンターがいないときデッキからハンタータイプをサーチ！,
 特殊召喚に対して{使用カード}を発動！大ダメージを与えちゃうよ！,
-装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-魔法カードを発動！{使用カード}！,
-トラップカードを発動するね！{使用カード}！,
+装備魔法カード発動！{使用カード}！,Magic equipment card activate! {使用カード}!
+魔法カードを発動！{使用カード}！,Magic card activate! {使用カード}!
+トラップカードを発動するね！{使用カード}！,Trap card activate! {使用カード}!
 カードをセット。,Card set.
 カードを伏せる。,
 わたしからも気持ちいいことしてあげる。{防御カード}を攻撃！,
