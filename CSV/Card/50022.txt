@@ -1,6 +1,6 @@
 default
 @初期設定
-&カード名,Thief's calling card
+&カード名,Thief's Calling Card
 &効果テキスト,[1]. If a monster on the field is destroyed in battle: Add 1 random Rogue-type monster from the Deck into your hand.
 &ハード効果テキスト,
 &イージー効果テキスト,

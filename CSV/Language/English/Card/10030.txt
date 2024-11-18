@@ -1,103 +1,104 @@
-default
-ラヴァガール,
+default,
+ラヴァガール,Lava Girl
 EU30_handJobAnime,
-[1].このカードが炎属性のカードから受ける効果ダメージは半分になる。,
-[2].炎属性カードの効果で効果ダメージを受けたとき発動する。このカードの攻撃力と最大HPを300ポイントアップする。,　マグマで体ができた粘体の少女。あまり足が速くないのでフレイムキャンサーの背中によく乗って移動している。体の表面の温度はそれほど高くなく彼女に全身を抱きしめられると温泉に入ったときのように心地よいのだという。,
-\n　移動が苦手な分同じ場所でじっとしていることも多く、ひまなときは溶岩を糸状に伸ばしてあやとりなどをして過ごしている。その分手先がとても器用であり、粘体の体を使って作り出した無数の手に捕まると、男は巧みな指裁きの前に何もできなくされてしまう。彼女に捕まって巣に持ち替えられてしまえば、延々とひまつぶしの道具としてもてあそばれそこで彼女と共に一生を終えることになるだろう。,
-わたしの手ってたくさんあるんです❤\nこれ、全部自分の思う通りに動かせるんですよ。,
-例えば、あなたの脇をくすぐりながら、\nおちんちんをシコシコ♪ってしてあげたり…\nそんなこともできちゃいます❤,
-やられたいですか？くすぐられながら手コキされると\n頭の中まっしろになっちゃうらしいですよ？\nほら、こしょこしょー❤,
-たくさんある手を使っていいことしてあげますね❤,
-おちんちんを両手でシコシコしながらぁ、\n亀さんを別の手の平でグリグリしてぇ、\nそのうえタマタマも握ってもみもみ❤,
-あは、こんなにあちこちから責められたことありませんか？\n夢心地って感じ？\nイっちゃってもいいですよぉ❤,
-あなたの手足をわたしの分身ハンドで捕まえて、\n隙だらけのおちんちんを両手でしこしこ～❤\nどうです？わたしの手コキ、気持ちいいですか？,
-うふふ❤分身ハンドの拘束はあまり強くないんですけど、\nなぜかみんな振り払えないんです❤\n気持ちよくて逃げたくなくなっちゃうのかなー❤,
-あなたも力抜いちゃっていいんですよ❤\nそのまま捕まっていれば気持ちよくお射精できますからね❤\nしこしこ❤しこしこ❤,
-わたしのたくさんある手で、\nおちんちんをいっぱい弄んじゃいますねー❤,
-タマタマも棒のところもぜんぶ指でくすぐってあげます❤\nたくさんの指にこしょこしょされるのって気持ちいいんですよー❤,
-アツアツおっぱいでサンドイッチしちゃいますね❤,
-だいじょうぶですよー。\nエッチなことするときはちゃんと火傷しない温度に下げますから。\nおっぱいでぬぷぬぷパイズリ、楽しんでくださーい❤,
-パイズリされるの好きですか？\nわたしは、おっぱいでイかせるの大好きです❤,
-おっぱいで挟んで、ぱんぱんぱんって上下に動かせば、\nそれですぐおいしいエナジーが食べられるんですもん❤\n楽ちんだからあなたにもやってあげますね❤えいっ❤,
-溶岩の手で捕まえちゃいました。\n身動きできないあなたをパイズリしちゃいます❤,
-どんくさいわたしでも、\nこうすれば獲物から逃げられないんです。あたまいいでしょー。,
-ほら腕はばんざーいしてましょうね❤\n無防備なおちんちんをおっぱいでずりずり❤ずりずり❤\nおいしいエナジーたくさんくださぁい❤,
-えへへ、炎の力でだいぶ強くなりました。\nこの状態のパイズリに耐えられますかぁ❤,
-おっぱいで軽くこすってあげれば\nどんな男の子もすぐ射精しちゃうと思いますよ❤\nほら、ズリズリ❤ズリズリ❤,
-おっぱいで挟んであげますねー❤えい❤,
-んふふ熱くなくて驚きましたか？\n意外とぬくぬくして気持ちいいんですよ❤\nあったかおっぱいの中に閉じ込めていっぱいズリズリしてあげますね❤,
-あは、わたしにいっぱい気持ちよくしてほしいんですか？\nおちんちんふりふりしながらおねだりして、\nかわいいですね❤くすくす❤,
-炎をいっぱい吸収して、強くなったわたしの攻撃、\nきっと気持ちよすぎてすぐに負けちゃいますよ❤\nね、どうやってイきたいか教えてください。やってあげます❤,
-それじゃわたしのおっぱいと手、どっちでイきたいか言ってください❤\n教えてくれれば、その通りにやってあげますよ❤,
-ほかほかパイズリ,
-ほかほか多腕手コキ,
+[1].このカードが炎属性のカードから受ける効果ダメージは半分になる。,[1]. Effect damage this card takes from cards with the Flame Attribute is halved.
+[2].炎属性カードの効果で効果ダメージを受けたとき発動する。このカードの攻撃力と最大HPを300ポイントアップする。,[2]. When this card takes effect damage from the effect of a Flame Attribute card; increase this card's Attack and Maximum HP by 300 points.
+[3].自分フィールド上に「溶岩地帯」がある場合、自分ターン終了時に発動する。HPを600回復する。,[3]. If "Lava Zone" is on your field at the end of your turn; this card recovers 600 HP.
+マグマで体ができた粘体の少女。あまり足が速くないのでフレイムキャンサーの背中によく乗って移動している。体の表面の温度はそれほど高くなく彼女に全身を抱きしめられると温泉に入ったときのように心地よいのだという。\n\n　移動が苦手な分同じ場所でじっとしていることも多く、ひまなときは溶岩を糸状に伸ばしてあやとりなどをして過ごしている。その分手先がとても器用であり、粘体の体を使って作り出した無数の手に捕まると、男は巧みな指裁きの前に何もできなくされてしまう。彼女に捕まって巣に持ち替えられてしまえば、延々とひまつぶしの道具としてもてあそばれそこで彼女と共に一生を終えることになるだろう。,A type of Slime Girl made up of magma. Since she doesn't move very fast; she often travels by riding on the back of a flame crab. The surface temperature of her body is not high; so being embraced by her is said to feel comfortable; similar to entering a hot spring. Since she is not very good at moving; she often stays in the same location. During her free time; she enjoys using her skilled fingers to stretch the lava from her body into various thread-like shapes. Men caught in these threads will be unable to resist as she uses her skilled hand techniques on them. If she takes him to her nest; he will spend the rest of his life with her as entertainment to pass the time.
+わたしの手ってたくさんあるんです❤\nこれ、全部自分の思う通りに動かせるんですよ。,Look at how many hands I have!❤ I can move them all as I please; too.
+例えば、あなたの脇をくすぐりながら、\nおちんちんをシコシコ♪ってしてあげたり…\nそんなこともできちゃいます❤,For example; I could tickle your sides while jerking your dick up and down at the same time~♪ Even requests such as these are possible with hands like mine.❤
+やられたいですか？くすぐられながら手コキされると\n頭の中まっしろになっちゃうらしいですよ？\nほら、こしょこしょー❤,You wanna try it? I heard that if you give someone a handjob while tickling them; their mind seems to goes blank. Come on; don't be shy.❤
+たくさんある手を使っていいことしてあげますね❤,I can do lots of nice things to you with all these hands I have.❤
+おちんちんを両手でシコシコしながらぁ、\n亀さんを別の手の平でグリグリしてぇ、\nそのうえタマタマも握ってもみもみ❤,I'll use two of my hands to pump your dick up and down; another to rub the tip; and one more to massage your balls.❤
+あは、こんなにあちこちから責められたことありませんか？\n夢心地って感じ？\nイっちゃってもいいですよぉ❤,Aha~ Have you ever had all your erogous zones teased all at the same time like this? Does it feel so good that it's like you're dreaming? You can go ahead and cum if you want to~❤
+あなたの手足をわたしの分身ハンドで捕まえて、\n隙だらけのおちんちんを両手でしこしこ～❤\nどうです？わたしの手コキ、気持ちいいですか？,I can capture your arms and legs with my extra hands; so I can stroke your exposed dick with my own hands just like this~ What do you think? Does my handjob feel good?
+うふふ❤分身ハンドの拘束はあまり強くないんですけど、\nなぜかみんな振り払えないんです❤\n気持ちよくて逃げたくなくなっちゃうのかなー❤,Ufufu.❤My extra hands aren't very strong; but for some reason men just can't seem to shake them off.❤ Maybe it's because when they're feeling good; they don't want to run away~❤
+あなたも力抜いちゃっていいんですよ❤\nそのまま捕まっていれば気持ちよくお射精できますからね❤\nしこしこ❤しこしこ❤,You can go ahead and relax as well.❤ If you keep letting me hold you like this; you'll be able to cum and feel really good; OK? Stroke stroke~❤ Stroke stroke~❤
+わたしのたくさんある手で、\nおちんちんをいっぱい弄んじゃいますねー❤,I'm going to play with your dick lots using my many; many hands; okay?❤
+タマタマも棒のところもぜんぶ指でくすぐってあげます❤\nたくさんの指にこしょこしょされるのって気持ちいいんですよー❤,I'll tickle every part of your dick with my fingers. The tip; the shaft; and even your balls.❤ Having so many digits rubbing you all at once must must feel good~❤
+アツアツおっぱいでサンドイッチしちゃいますね❤,I'll sandwich your dick between my piping hot boobs; OK?❤
+だいじょうぶですよー。\nエッチなことするときはちゃんと火傷しない温度に下げますから。\nおっぱいでぬぷぬぷパイズリ、楽しんでくださーい❤,Don't worry~ When it comes to doing lewd things; my body temperature lowers quite a bit; so please enjoy my wet and slimy booby titfucking to your hearts content!❤
+パイズリされるの好きですか？\nわたしは、おっぱいでイかせるの大好きです❤,Do you like reciving boobjobs? I love making people cum with boobjobs.❤
+おっぱいで挟んで、ぱんぱんぱんって上下に動かせば、\nそれですぐおいしいエナジーが食べられるんですもん❤\n楽ちんだからあなたにもやってあげますね❤えいっ❤,That's because when I bounce my boobs up and down the length of someone's dick; delicious mana immediately comes out for me to eat.❤ It's so easy! Let me show you want I mean; OK?❤ Eei~❤
+溶岩の手で捕まえちゃいました。\n身動きできないあなたをパイズリしちゃいます❤,Trapped you with my lava hands! Now that you're unable to move; I'll start tittyfucking your dick right away~❤
+どんくさいわたしでも、\nこうすれば獲物から逃げられないんです。あたまいいでしょー。,When I do this; no prey can escape; even from a lazy monster like me. Pretty clever right?
+ほら腕はばんざーいしてましょうね❤\n無防備なおちんちんをおっぱいでずりずり❤ずりずり❤\nおいしいエナジーたくさんくださぁい❤,Hora; I'll cross my arms around my chest and slip my tits around your unprotected cock.❤ I'll knead my tits around your cock and give it a nice massage too; so give me all your delicious mana in return~❤
+えへへ、炎の力でだいぶ強くなりました。\nこの状態のパイズリに耐えられますかぁ❤,Ehehe!~ The power of fire has greatly strengthened me. Do you think you'll be able to endure my paizuri with my boobs warm and comfortable like this...?❤
+おっぱいで軽くこすってあげれば\nどんな男の子もすぐ射精しちゃうと思いますよ❤\nほら、ズリズリ❤ズリズリ❤,I think that any boy would end up ejaculating right away with me lightly rubbing them between my tits.❤ Hora; pump pump~❤ Squish squish~❤
+おっぱいで挟んであげますねー❤えい❤,I'm going to put your dick between my boobs now~❤ Eei!❤
+んふふ熱くなくて驚きましたか？\n意外とぬくぬくして気持ちいいんですよ❤\nあったかおっぱいの中に閉じ込めていっぱいズリズリしてあげますね❤,Ehehe. Are you surprised the temperature isn't too hot? You weren't expecting it to feel so nice and comfortable; right?❤ I'll trap your dick between my warm boobs and rub it real good.❤
+あは、わたしにいっぱい気持ちよくしてほしいんですか？\nおちんちんふりふりしながらおねだりして、\nかわいいですね❤くすくす❤,Aha! Do you want me to make you feel good? You're so cute; wagging your penis and begging like that. *Giggle*❤
+炎をいっぱい吸収して、強くなったわたしの攻撃、\nきっと気持ちよすぎてすぐに負けちゃいますよ❤\nね、どうやってイきたいか教えてください。やってあげます❤,My attacks are much stronger now that I absorbed all that fire. I'm sure it'll feel so good you'll end up losing before you know it.❤ Now; tell me how you want to cum. I'll do it for you.❤
+それじゃわたしのおっぱいと手、どっちでイきたいか言ってください❤\n教えてくれれば、その通りにやってあげますよ❤,Well then; my hands; or my tits? Tell me which you prefer to cum with~❤ I'll do whatever you want me to do~❤
+ほかほかパイズリ,Steamy Paizuri
+ほかほか多腕手コキ,Steamy Endless Handjob
 なんでも,You decide
-おっぱいがいいんですか？\nくす、それじゃあったかおっぱいでサンドイッチして、\n気持ちよくしてあげますね～❤,
-たくさんある手でいじめてほしいんですか？\nくす、それじゃおちんちんも、乳首も脇も、\nこの手でいっぱい、こしょこしょしてあげますねー❤,
-んふふっ❤おっぱいにたくさん出しちゃいましたね❤\nぬくぬく暖かくてぽわーって気持ちよくなって、\n全然我慢できなかったでしょう？,
-あは、気持ちよさそうにとろけた顔してます❤\nほかの人を裏切って、パイズリ頼んでよかったですね。くすくす❤,
-くすくす❤あひあひ声をあげてもがきながら、\nすぐに射精しちゃいました❤,
-たくさんある手に同時に襲い掛かられて、\n頭真っ白になっちゃったでしょ？\nもう普通の手コキじゃ満足できないかもしれませんね❤くすくす❤,
-ううっ、がまんできないっ❤,
-あー、自分でおちんちんしこしこしてますね～❤\nわたしの体で、そんなに興奮しちゃったんですか？,
-手で触っちゃうなんてもったいないですよ？\nそのままボーっとしてれば、\nわたしが直接気持ちよくしてあげたのに❤,
-しこしこ、しこしこ❤根元から気持ちよさそうにこすってます❤\n体がむらむら熱くなって、オナニー我慢できなかったんですね❤\nくすくす❤,
-どこに興奮したんですか？マグマでできた大きなおっぱい？\nそれともたくさんある手でしょうか❤,
-こんな風に手を使ってエア手コキとかしてあげたら興奮しますか？\n２本の手はおっぱいを揉んで見せつけて❤\n他の手はエア手コキをしこしこしこ❤,
-うふふ、おちんちん扱くのが早くなっちゃいましたね❤\n分かりやすくってかわいいです❤,
-もし本当にこれだけたくさんの手に絡みつかれたら、\nおちんちん気持ちいいですよ～❤\n先っぽもたまたまも、竿も根元も、ぜーんぶしこしこしこしこ❤,
-あは、想像したら頭の中真っ白になっちゃいますね❤\nそれじゃおっぱいを近づけてあげますから、\nここに出してください❤,
-あなたの熱ーい精液を、わたしに向かって射精❤\nほら、とどめにタマタマを揉んであげますね❤\nむにむにむに❤,
-あひぃ・・・❤,
-あはん、おっぱいが白くなっちゃいました❤\nこのエナジー全部溶かしてあげますね❤,
-ん、エナジーおいしい❤\nあなたのおかげで回復だけじゃなくてパワーアップです♪\nさ、どんどん強くなっていきますよー❤,
-あうう、痛いです～。\n炎を直接ぶつける攻撃じゃないと吸収できないから\nもうボロボロですよー・・・。,
-ねえ、わたしこんなにパワーアップしたんですよ。\nそれなのにとどめを刺しちゃうんなんてもったいなくないですか？,
-炎を吸ってひとまわり大きくなったこのおっぱいとか❤\nたくさん生えて、たくさん動かせるこの手とか❤\n楽しんでからわたしを倒しましょうよ～❤,
-とどめを刺さないでくれるなら、\nおちんちん、溶岩おっぱいで挟んでずりずりずりって、\n快楽で溶かしてあげますよ❤ほらほら～❤,
-え？おっぱいを揺らしても無駄だって？\nそんなこと言わないで、気持ちいいことしましょ～？\nわたしのおっぱいで挟ませてくださーい❤おねがいします～❤,
-ねえ、わたしの体、もっと楽しんでからとどめを刺しませんか？\nほら、谷間を見てください❤\n両腕でむぎゅうって寄せてアピールしちゃいます❤,
-無視してとどめを刺した,
-攻撃をやめてしまった,
-あうう、そんなぁ・・・。,
-あは、見逃してくれるんですか❤やった～❤,
-それじゃあお礼に、わたしの溶岩おっぱいでパイズリしてあげますね❤\n射精したくないなら、我慢してもいいですよ❤\nえいっ❤,
-えへへ～、すごい気持ちいいでしょう？\nどろどろの部分があるからローションみたいに滑りがいいんです❤\nでもちゃんとおっぱいの部分はぷるんぷるんになってますよ❤,
-ほら、弾力がどれぐらいあるか、上下に動かして教えてあげますね～❤\nずり、ずり、ずり♪,
-どうですか～、わたしのおっぱい❤\nマグマでできてるなんて信じられないぐらいに張りがあって、\n普通の女の子おっぱいよりも気持ちいいでしょう？,
-固さは自分の思い通りにできるので、\nわたしのマスターのおっぱいを参考に、\nそれよりちょっと柔らかめにしてあるんです❤,
-ほら、ほら、ほら、ほら❤\nリズムよく跳ねさせれば、気持ちよすぎて\nお兄さんもあっという間に腰砕けですね❤,
-分身ハンドを使って、乳首もついでに弾いてあげます♪\nくすくす❤びくびくしちゃっておもしろい❤\n谷間の中に全部出してください❤ずりずりずり❤,
-はひぃ・・・❤,
-あん❤見てください、おっぱいが真っ白です❤\nあなたのエナジー、とってもおいしいですね❤,
-んふ、吸収したらもっとパワーアップしちゃいました❤\nこれでさらに男の人を気持ちよくできちゃいますよー❤,
-おっぱいに挟まれて逆転負けしちゃいましたね❤\n強いマスターさんなのに、胸に弱いなんてかわいいです❤,
-オナニーで自分からエナジーくれてありがとうございます❤\nわたしお兄さんみたいにすぐ負けてくれる人だーいすきですよ❤,
-あん、パイズリされておちんちん谷間にこんなにお漏らししちゃいました❤\nおいしいエナジーをありがとうございます❤くすくす❤,
-あは、手コキで出しちゃいましたね❤\nわたしの分身ハンドは気持ちよかったですか？くすくす❤,
-フレアの使う女性モンスターに敗れた僕は、エナジーを奪われ膝をついて動けなくなっていた。,
-ううっ…。,
-うふふ❤腰が抜けて立ち上がれないみたいですね❤\nあなたのエナジーおいしかったので、\nもっともらってもいいですか？,
-だいじょうぶ、立てなくてもわたしが支えてあげますよ❤\nほら・・・❤,
-うあっ・・・❤腕がからみついて来てっ❤,
-バンザーイって吊り上げられちゃいましたね❤\nほどよい温度にしてあるので、\n乳首とかお尻とかあったかくて気持ちいいでしょう？,
-でも、そんなところよりも、ここをなでてもらえるのが、\n一番うれしいんですよね❤,
-ぐちゅぐちゅぐちゅ❤しこしこしこ❤\nうふふ❤さっき出したばかりなのに、\nもうこんなに気持ちよさそうに震えてます❤,
-また射精したいですか？\nエナジーを女のモンスターに搾り取ってほしいですか？,
-我慢すればきっと、今日はまだバトルができますけど、\nたくさん出しちゃうと、今日一日もう動けなくなっちゃいますね❤,
-それでもおちんちんからびゅーってしたいですか？\nしこしこしこ❤しこしこしこ❤,
-あは、こするたびにとっても元気に跳ねちゃってます❤\nおちんちん気持ちいいんですね❤\nどうします、射精します？,
-ほら先っぽが膨らんで、イく準備万端です❤\nこの膨らんでるカリのところをごしごしごしってされたら、\n頭まっしろですよね❤,
-出していいですよ❤マスターさん❤\nわたしのおっぱいめがけて、白い精液かけてください❤\nしこしこしこしこ❤,
-うふふ❤たっぷり出しちゃいましたね❤\n二回目なのにすごく濃くて、魔力もおいしいです❤,
-それじゃこの精液も吸収してっと・・・❤,
-えへへ、わたしまた強くなっちゃいました❤\nほらぁ、あなたが出せば出すほど、どんどん強くなって、\n手コキもパイズリももっと気持ちよくなっちゃいますよ❤,
-気持ちよすぎるのがいやなら頑張って逃げてください❤\nまあ逃げたくなんてないと思いますけど❤,
-だってその顔。くすくす❤\nとっても蕩けて、「もっと気持ちよくしてぇ」って表情になってます❤\nおちんちんしこしこ、またしてほしいんですよね❤,
-それじゃ空っぽになるまでたくさん射精しましょうね❤,
-今日はこれでバトルはおしまいです❤\nカードを１枚も使えなくなるぐらい魔力を出して、\nぜんぶわたしに食べさせてください❤,
-しこしこしこ❤しこしこしこ❤\nあはは、また膨らんできましたよ❤,
-こんなに早くイキそうになるなんて、\nわたしの手コキ、好きになっちゃいましたか？,
-わたしはどんどん強くなるのに、\nあなたは逆にどんどん弱くなっちゃいますね❤,
-ほら、ちょっと早くしごいてあげれば、すぐ射精しちゃう❤\nくすくす❤簡単にイってくれる男の子は好きですよ❤\n出して、出して❤,
-こうして僕は気絶するまで精を搾りとられてしまったのだった。,
+おっぱいがいいんですか？\nくす、それじゃあったかおっぱいでサンドイッチして、\n気持ちよくしてあげますね～❤,You want my tits? Kuhu. Well in that case; I'll sandwich your dick between my boobs; and make it feel real good.❤
+たくさんある手でいじめてほしいんですか？\nくす、それじゃおちんちんも、乳首も脇も、\nこの手でいっぱい、こしょこしょしてあげますねー❤,You want me to tease your dick with my many hands? Kuhu. In that case; your dick; your nipples; your armpits... I'll tease and rub every bit of you with my hands~!❤
+んふふっ❤おっぱいにたくさん出しちゃいましたね❤\nぬくぬく暖かくてぽわーって気持ちよくなって、\n全然我慢できなかったでしょう？,Ufufu.❤ You spilled a large amount between my boobs.❤ You couldn't resist my tits at all because of how cozy and warm they'd become; right?❤
+あは、気持ちよさそうにとろけた顔してます❤\nほかの人を裏切って、パイズリ頼んでよかったですね。くすくす❤,Aha; I can tell from your relaxed expression that you're feeling good.❤ You're glad you betrayed the other members in your team for my boobs; right? Teehee~❤
+くすくす❤あひあひ声をあげてもがきながら、\nすぐに射精しちゃいました❤,Kuhu.❤ You came right away while moaning like a girl.❤
+たくさんある手に同時に襲い掛かられて、\n頭真っ白になっちゃったでしょ？\nもう普通の手コキじゃ満足できないかもしれませんね❤くすくす❤,Your mind must have went blank with so many hands attacking your body at the same time; huh? I doubt you'll ever be satisfied by a regular handjob ever again. *Giggle*.
+ううっ、がまんできないっ❤,O-Ooh... I can't hold it in...❤
+あー、自分でおちんちんしこしこしてますね～❤\nわたしの体で、そんなに興奮しちゃったんですか？,Oh no! You started stroking your dick on your own~❤ Did staring at my erotic body make you that horny?
+手で触っちゃうなんてもったいないですよ？\nそのままボーっとしてれば、\nわたしが直接気持ちよくしてあげたのに❤,But it's such a shame to touch yourself; don't you think? If you had kept zoning out; I would have pleasured you directly.
+しこしこ、しこしこ❤根元から気持ちよさそうにこすってます❤\n体がむらむら熱くなって、オナニー我慢できなかったんですね❤\nくすくす❤,The way you stroke and rub your cock looks like it feels really good. I guess your body was so turned on and horny that you couldn't stop yourself from jerking off; huh?
+どこに興奮したんですか？マグマでできた大きなおっぱい？\nそれともたくさんある手でしょうか❤,What got you so horny? Was it my huge magma titties? Or maybe; was it my many hands?❤
+こんな風に手を使ってエア手コキとかしてあげたら興奮しますか？\n２本の手はおっぱいを揉んで見せつけて❤\n他の手はエア手コキをしこしこしこ❤,Would you get aroused if I moved my hand up and down in the air like this? And then; what if I used two more hands to massage my boobs for you like this?❤ All you have to do is watch...❤
+うふふ、おちんちん扱くのが早くなっちゃいましたね❤\n分かりやすくってかわいいです❤,Ufufu. You're stroking your penis even faster now.❤ It's cute how simple-minded you are.❤
+もし本当にこれだけたくさんの手に絡みつかれたら、\nおちんちん気持ちいいですよ～❤\n先っぽもたまたまも、竿も根元も、ぜーんぶしこしこしこしこ❤,If your penis really did fall into my hands; it would feel really good.❤ Your tip; your balls; your aching shaft... They would all end up being stroked and massaged under my expert technique.❤
+あは、想像したら頭の中真っ白になっちゃいますね❤\nそれじゃおっぱいを近づけてあげますから、\nここに出してください❤,You're imagining it; aren't you? You can already feel your mind is going blank~❤ Well then; I'll bring my boobs closer to you; so please let it out right here.❤
+あなたの熱ーい精液を、わたしに向かって射精❤\nほら、とどめにタマタマを揉んであげますね❤\nむにむにむに❤,Cover me with your hot semen.❤ Now; I'm gonna massage your balls to finish you off.❤ Gently coaxing and massaging them so your semen gushes as much as it can.❤
+あひぃ・・・❤,Ahh...❤
+あはん、おっぱいが白くなっちゃいました❤\nこのエナジー全部溶かしてあげますね❤,Ahn; my boobs have been stained white.❤ Now; to convert this all into mana.❤
+ん、エナジーおいしい❤\nあなたのおかげで回復だけじゃなくてパワーアップです♪\nさ、どんどん強くなっていきますよー❤,Mm! What delicious mana!❤ Thanks to you; not only am I feeling better; I think I got a power-up; too~♪ I can feel myself getting stronger and stronger!❤
+あうう、痛いです～。\n炎を直接ぶつける攻撃じゃないと吸収できないから\nもうボロボロですよー・・・。,Aoogh. That hurts~. I can only absorb direct fire-based attacks; so I'm already getting worn out...
+ねえ、わたしこんなにパワーアップしたんですよ。\nそれなのにとどめを刺しちゃうんなんてもったいなくないですか？,Hey; I've already become this strong. Wouldn't it be a waste to get rid of me after everything that's happened?
+炎を吸ってひとまわり大きくなったこのおっぱいとか❤\nたくさん生えて、たくさん動かせるこの手とか❤\n楽しんでからわたしを倒しましょうよ～❤,Like my boobs that have gotten so big because of the fire I've absorbed; or these many hands that can spawn and do anything I want them to...❤ We should have some fun first before you beat me~❤
+とどめを刺さないでくれるなら、\nおちんちん、溶岩おっぱいで挟んでずりずりずりって、\n快楽で溶かしてあげますよ❤ほらほら～❤,If you don't finish me off; I'll take your dick and slip it between my lava tits and give it a warm; melty massage until your semen bubbles up and leaks over~ Hora hora~❤
+え？おっぱいを揺らしても無駄だって？\nそんなこと言わないで、気持ちいいことしましょ～？\nわたしのおっぱいで挟ませてくださーい❤おねがいします～❤,Eh? You say no matter how much I sway my boobs it won't do anything? Don't say that~ I just wanna make you feel good; you know? Come on; let me slip your dick between my tits~❤ Please~❤
+ねえ、わたしの体、もっと楽しんでからとどめを刺しませんか？\nほら、谷間を見てください❤\n両腕でむぎゅうって寄せてアピールしちゃいます❤,Come on. Won't you enjoy my body a little more before finishing me off? Come on; stare at my cleavage~❤ Look how I'm using my arms to squeeze them together just for you. Won't you accept my offer?❤
+無視してとどめを刺した,Ignore her and deal the final blow
+攻撃をやめてしまった,Stop attacking
+あうう、そんなぁ・・・。,Aooh; no way...
+あは、見逃してくれるんですか❤やった～❤,Aha! You're gonna let me go?❤ Hurray~!❤
+それじゃあお礼に、わたしの溶岩おっぱいでパイズリしてあげますね❤\n射精したくないなら、我慢してもいいですよ❤\nえいっ❤,Well; then in return; I'll massage your cock between my nice lava tits~❤ If you don't want to cum; just endure it; I don't mind.❤ Eei~❤
+えへへ～、すごい気持ちいいでしょう？\nどろどろの部分があるからローションみたいに滑りがいいんです❤\nでもちゃんとおっぱいの部分はぷるんぷるんになってますよ❤,Ehehe~ Doesn't it feel amazing?  Some sections of my boobs are slippery like lotion; so I can slide them around easily.❤ But my boobs are also really full and plump; which makes them easy to bounce around your dick; too~❤
+ほら、弾力がどれぐらいあるか、上下に動かして教えてあげますね～❤\nずり、ずり、ずり♪,Hora; let me show you how well they can meld around your cock as I roll my boobs around your dick; OK~? I won't stop massaging my tits around your dick until you're satisfied.♪
+どうですか～、わたしのおっぱい❤\nマグマでできてるなんて信じられないぐらいに張りがあって、\n普通の女の子おっぱいよりも気持ちいいでしょう？,What do you think? You never thought magma boobs would feel so taut and firm; right? Much better than a normal girl's boobs; right?
+固さは自分の思い通りにできるので、\nわたしのマスターのおっぱいを参考に、\nそれよりちょっと柔らかめにしてあるんです❤,I can make them as firm as I want them to be; so I use my cardmaster's boobs as a reference; and make them feel a little softer than that~❤
+ほら、ほら、ほら、ほら❤\nリズムよく跳ねさせれば、気持ちよすぎて\nお兄さんもあっという間に腰砕けですね❤,Hora hora hora~❤ If I bounce them in a steady rhythm; it'll feel so good that even you will end up folding right away; right?❤
+分身ハンドを使って、乳首もついでに弾いてあげます♪\nくすくす❤びくびくしちゃっておもしろい❤\n谷間の中に全部出してください❤ずりずりずり❤,And while you're focusing on that; I'll use my extra hands to tease your nips at the same time~♪ Kuhuhu~❤ The way you're twitching is so entertaining~❤ Pour out everything you can into my cleavage~❤ Rub rub rub~❤
+はひぃ・・・❤,Ahiee...
+あん❤見てください、おっぱいが真っ白です❤\nあなたのエナジー、とってもおいしいですね❤,Ahn~❤ Take a look at how white my boobs are.❤ Your mana is really delicious!❤
+んふ、吸収したらもっとパワーアップしちゃいました❤\nこれでさらに男の人を気持ちよくできちゃいますよー❤,Ufu; when I absorb semen; I can power-up even further.❤ Now I'll be able to pleasure men even more than before~❤
+おっぱいに挟まれて逆転負けしちゃいましたね❤\n強いマスターさんなのに、胸に弱いなんてかわいいです❤,Looks like being between my boobs turned you from wining to losing~❤ It's cute that a strong cardmaster like yourself could have such a big titty fetish.❤
+オナニーで自分からエナジーくれてありがとうございます❤\nわたしお兄さんみたいにすぐ負けてくれる人だーいすきですよ❤,Thank you for the mana you gave me while masturbating!❤ I love humans that lose immediately like yourself~❤
+あん、パイズリされておちんちん谷間にこんなにお漏らししちゃいました❤\nおいしいエナジーをありがとうございます❤くすくす❤,Ahn~ You came really hard with your cock being massaged between my boobies.❤ Thank you for all the delicious energy~❤ Kuhu~❤
+あは、手コキで出しちゃいましたね❤\nわたしの分身ハンドは気持ちよかったですか？くすくす❤,Aha! You ejacualted from my hand job.❤ Did my extra hands feel good? *Giggle*❤
+フレアの使う女性モンスターに敗れた僕は、エナジーを奪われ膝をついて動けなくなっていた。,After being defeated by one of Flare's female monsters; I found myself on my knees and unable to move and with all my energy drained.
+ううっ…。,Oogh...
+うふふ❤腰が抜けて立ち上がれないみたいですね❤\nあなたのエナジーおいしかったので、\nもっともらってもいいですか？,Ufufu.❤ It looks like you can barely stand.❤ Your mana was so delicious; you don't mind if I take a little more do you?
+だいじょうぶ、立てなくてもわたしが支えてあげますよ❤\nほら・・・❤,Don't worry. I'll support your body even when you can't stand.❤ Hora...❤
+うあっ・・・❤腕がからみついて来てっ❤,Uuah...❤ Her hands are wrapping around me...❤
+バンザーイって吊り上げられちゃいましたね❤\nほどよい温度にしてあるので、\n乳首とかお尻とかあったかくて気持ちいいでしょう？,I've hoisted you up with your hands above your head.❤ The temperature is just right; so your nipples and ass must feel nice and warm; right?
+でも、そんなところよりも、ここをなでてもらえるのが、\n一番うれしいんですよね❤,But the one thing that makes me the happiest is that I have free access to stroke this thing right here~❤
+ぐちゅぐちゅぐちゅ❤しこしこしこ❤\nうふふ❤さっき出したばかりなのに、\nもうこんなに気持ちよさそうに震えてます❤,Coochie coochie coo~❤ Stroke stroke stroke~❤ Ufufu!~❤ I only just started; and it looks like you're already trembling from the pleasure.❤
+また射精したいですか？\nエナジーを女のモンスターに搾り取ってほしいですか？,Do you want to cum again? Do you want a female monster to milk the mana out of your dick again?
+我慢すればきっと、今日はまだバトルができますけど、\nたくさん出しちゃうと、今日一日もう動けなくなっちゃいますね❤,I'm sure if you do your best; you'll be able to battle again today; but if you shoot out a lot; then you might not be able to move anymore until tomorrow.❤
+それでもおちんちんからびゅーってしたいですか？\nしこしこしこ❤しこしこしこ❤,But your dick still wants to blow it's load; right? It can barely think of anything but cumming as I stroke and rub it~❤ Pump pump pump~❤
+あは、こするたびにとっても元気に跳ねちゃってます❤\nおちんちん気持ちいいんですね❤\nどうします、射精します？,Aha! It twitches so energetically whenever I rub it.❤ Your dick is feeling really good; huh?❤ What will do you? Are you going to cum?
+ほら先っぽが膨らんで、イく準備万端です❤\nこの膨らんでるカリのところをごしごしごしってされたら、\n頭まっしろですよね❤,Look; the tip of your dick is already swelling; which means it's preparing to blow it's load~❤ If I were to rub the tip of your dick right now; your mind would go blank; you know?❤
+出していいですよ❤マスターさん❤\nわたしのおっぱいめがけて、白い精液かけてください❤\nしこしこしこしこ❤,Go on and cum; Cardmaster~❤ Cover my tits with your white semen~❤ Stroke stroke stroke~❤
+うふふ❤たっぷり出しちゃいましたね❤\n二回目なのにすごく濃くて、魔力もおいしいです❤,Ufufu~❤ You let out a large amount of semen~❤ It's really thick for a second time; and full of delicious magical power; too!❤
+それじゃこの精液も吸収してっと・・・❤,Now; to absorb this semen too and...!❤
+えへへ、わたしまた強くなっちゃいました❤\nほらぁ、あなたが出せば出すほど、どんどん強くなって、\n手コキもパイズリももっと気持ちよくなっちゃいますよ❤,Ehehe. I became even stronger!❤ Hora. The more you ejaculate; the stronger I get; and the better my hands and tits will feel around your dick~❤
+気持ちよすぎるのがいやなら頑張って逃げてください❤\nまあ逃げたくなんてないと思いますけど❤,You'd better do your best to run away if you don't wanna have your mind go blank everytime I touch your dick~❤ Not that you'd ever want to run away in the first place.❤
+だってその顔。くすくす❤\nとっても蕩けて、「もっと気持ちよくしてぇ」って表情になってます❤\nおちんちんしこしこ、またしてほしいんですよね❤,I can tell just by looking at you; kuhuhu.❤ Your drooling; slutty face screams "make me feel good~"❤ I can tell your dick is just aching to be stroked and massaged again.❤
+それじゃ空っぽになるまでたくさん射精しましょうね❤,Now then; let's keep ejaculating until you're all nice and empty; OK?❤
+今日はこれでバトルはおしまいです❤\nカードを１枚も使えなくなるぐらい魔力を出して、\nぜんぶわたしに食べさせてください❤,This is the end of your battling for today; so please shoot out your magical mana until you can't summon even one card. Let me eat it all up❤
+しこしこしこ❤しこしこしこ❤\nあはは、また膨らんできましたよ❤,I'll keep stroking your spent dick and massaging every muscle with my dexterous fingers~❤Your balls; shaft; underside; tip... No place is safe from my loving hands~❤ Aahaha! You're dick is already starting to swell right up again~❤
+こんなに早くイキそうになるなんて、\nわたしの手コキ、好きになっちゃいましたか？,I can't believe your dick is already on the verge of cumming again. Have you fallen in love with my handjob technique?
+わたしはどんどん強くなるのに、\nあなたは逆にどんどん弱くなっちゃいますね❤,Even though I'm getting stronger and stronger; you only seem to be getting weaker and weaker; huh?❤
+ほら、ちょっと早くしごいてあげれば、すぐ射精しちゃう❤\nくすくす❤簡単にイってくれる男の子は好きですよ❤\n出して、出して❤,Hora; I bet if I stroke you a little faster; you'll end up cumming immediately.❤ *Giggle*❤ I love it when boys cum easily.❤ Come on; cum~ Cum~❤
+こうして僕は気絶するまで精を搾りとられてしまったのだった。,And so; semen was milked out of my dick until I passed out.
