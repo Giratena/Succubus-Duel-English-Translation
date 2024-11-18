@@ -7,7 +7,7 @@ This is a translation project for Succubus Duel, a card game featuring many succ
   - Any edits or change in the repo will also be reflected in your game.
   - Push and pull from "Develop" to get updates as they happen.
 # How to put the translation into your game
-- Download the repo as a zip then paste everything into your game folder and you're done!
+- Download the repo as a zip then paste everything into your game folder (where SuccubusDuel.exe is located) and you're done!
 - Alternatively, grab a stable copy from the releases tab!
 
  # How to support:
