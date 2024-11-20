@@ -1,183 +1,183 @@
 default
-闘技場へ行く,
-酒場へ行く(未実装),
-学園へ行く(未実装),
-牢屋へ行く,
-❤行商人の女の子の家,
-メロディに会いに学園へ行く(未実装),
-(特殊)地下通路へ行く,
-見回りの兵士,
-モルゲン,
-Place/Morugen,
-バトル大会について,
-マップ画面ではフィールド上のカードマスターを選びバトルを開始することができます。バトルに勝利することで、賞金や経験値に加え、あなたの指輪にランクポイントがたくわえられます。,
-ランクについて,
-ランクポイントが上限に達すると、ギルドで昇格試験を受けられます。試験をクリアすることでランクが上昇します。Aランクを目指してがんばりましょう！,
-上部メニューボタンを使用すると、ショップの利用やデッキの編集が行えます。ホームボタンを押すことで宿屋に戻ることができ、セーブは宿屋内で行うことができます。,
-クエスト：Eランク昇格試験が発生しました,
-クエストについて,
-マップ画面では一定の条件を満たすとクエストが発生することがあります。画面上部のメニューから旗のマークを選択するとクエストを受けることができます。,
-カードパックがショップに追加されました。,
-カードマスターが新たに登場するようになりました。,
-宿屋で休んだ翌日、僕はギルドに呼び出されていた。,
-お越しいただきありがとうございます、{主人公}さん！昨日は初めてのクエストでのサキュバス討伐、お疲れ様でした！,
-昨日はクエストから帰ってきた直後という事もあって、お伝えしていなかったことがあります。,
-はい。この度ランク昇格に伴い、{主人公}さんは闘技場への入場許可が貰えるようになりました！,
-D級以上のカードマスターの方々はその多くが闘技場に出入りしています。,
-闘技場ではランクポイントも賞金もかなり多くもらえることになっているので、上手く闘技場で勝っていけば、ランクも上げやすくなりますよ！,
-ですが闘技場に出入りするマスターはみな腕に覚えのある人ばかり。例え同じDランクでも、上のランクのマスターに勝てる人だっています。,
-一応お聞きしますが、闘技場への入場を希望いたしますか？,
-承知しました。きっと{主人公}さんなら戦っていけるでしょう。,
-ふふ、頼もしい言葉です。{主人公}さんなら本当に戦い抜けるでしょうね。,
-Dランクになったギルドリングがそのまま参加許可証となるので、今からすぐに闘技場の試合に参加できます。頑張ってくださいね！,
-メニューから闘技場に行けるようになりました。,
-Dランク以降では闘技場で対戦をすることでストーリーが進むようになります。闘技場で一度勝利した相手は、それ以降街でも戦えるようになります（闘技場のマスターと街で戦う場合、敗北シーンはありません）。,
-勝負のあと僕は闘技場のすぐそばにある、大きな図書館に来ていた。,
-聞くところによると、この図書館は闘技場の収益で運営されているそうだ。普通は入館料を取られるが、Ｄランク以上のマスターになると、入館料は無料になるらしい。,
-（サキュバスについての本を読んでおきたいな。\nそれと、サキュバス化した人間を元に戻す方法の本が\nあったりしないだろうか・・・。）,
-当てもなく見て回るが、それらしい本がどこにあるのか分からない。師匠に読み書きこそ教わったが、図書館というものに来るのも初めてのことだった。,
-あれ{主人公}さん、こんなところで会うなんて、\nめずらしいですね。\nお勉強ですか？,
-わたしもそうなんですよ♪\n今日は休日なのですが、昔の戦いの記録などを読みに来たんです。,
-カードが使えない分、\n知識や戦略でみなさんをサポートしたいので、\n休日はよくここに来てるんです。,
-{主人公}さんはどういう本を探しに来たんですか？\nわたし、本はたくさん読んでいるので、\nここの蔵書なら案内することができると思います。,
+闘技場へ行く,Go to the arena
+酒場へ行く(未実装),Go to the tavern (not implemented yet)
+学園へ行く(未実装),Go to the school (not implemented yet)
+牢屋へ行く,Go to the jail
+❤行商人の女の子の家,❤Trader girl's house
+メロディに会いに学園へ行く(未実装),Meet Melody at her school (not implemented yet)
+(特殊)地下通路へ行く,(Special) Go to the underground passage.
+見回りの兵士,Patrolling soldier
+モルゲン,Morgen
+Place/Morgen,
+バトル大会について,About the Tournament
+マップ画面ではフィールド上のカードマスターを選びバトルを開始することができます。バトルに勝利することで、賞金や経験値に加え、あなたの指輪にランクポイントがたくわえられます。,On the map screen; you can select a cardmaster on the field to fight against them. By winning a battle; you will earn prize money; experience points; and rank points.
+ランクについて,About Rank
+ランクポイントが上限に達すると、ギルドで昇格試験を受けられます。試験をクリアすることでランクが上昇します。Aランクを目指してがんばりましょう！,When you reach the maximum amount of rank points for your current rank; you can take a promotion test at the guild. Clearing the test will increase your rank. Do your best to reach A-rank!
+上部メニューボタンを使用すると、ショップの利用やデッキの編集が行えます。ホームボタンを押すことで宿屋に戻ることができ、セーブは宿屋内で行うことができます。,You can use the top menu buttons to access the shop or edit your deck. The home button returns you to the inn; where you can save.
+クエスト：Eランク昇格試験が発生しました,Quest: E-Rank Promotion Exam
+クエストについて,About Quests
+マップ画面では一定の条件を満たすとクエストが発生することがあります。画面上部のメニューから旗のマークを選択するとクエストを受けることができます。,Quests can be triggered when certain conditions are met. You can see the currently available quests by selecting the flag icon from the menu at the top of the map screen.
+カードパックがショップに追加されました。,Card packs have been added to the shop.
+カードマスターが新たに登場するようになりました。,Cardmaster is now available.
+宿屋で休んだ翌日、僕はギルドに呼び出されていた。,The following day; after resting at the inn; I was summoned to the guild.
+お越しいただきありがとうございます、{主人公}さん！昨日は初めてのクエストでのサキュバス討伐、お疲れ様でした！,Thank you for coming; {主人公}! Good job defeating the succubus on your first quest yesterday!
+昨日はクエストから帰ってきた直後という事もあって、お伝えしていなかったことがあります。,Since you just got back from your quest; there is something I've been waiting to tell you.
+はい。この度ランク昇格に伴い、{主人公}さんは闘技場への入場許可が貰えるようになりました！,Since your rank has increased; you will now be allowed to enter the arena!
+D級以上のカードマスターの方々はその多くが闘技場に出入りしています。,Many cardmasters who are D-rank or above frequently use the arena.
+闘技場ではランクポイントも賞金もかなり多くもらえることになっているので、上手く闘技場で勝っていけば、ランクも上げやすくなりますよ！,You can get a lot of rank points and prize money there. If you win your matches in the arena; it will be much easier to raise your rank!
+ですが闘技場に出入りするマスターはみな腕に覚えのある人ばかり。例え同じDランクでも、上のランクのマスターに勝てる人だっています。,However; all the cardmasters who frequent the arena are skilled. There are even some of the D-rank; who can beat higher-ranked cardmasters.
+一応お聞きしますが、闘技場への入場を希望いたしますか？,Just to confirm; would you like to enter the arena?
+承知しました。きっと{主人公}さんなら戦っていけるでしょう。,Yes; sir. I'm sure {主人公} will be able to fight. (note: is cappable enough to fight?)
+ふふ、頼もしい言葉です。{主人公}さんなら本当に戦い抜けるでしょうね。,Hmm, that's good word to hear. I'm sure {主人公} will really be able to fight his way through.
+Dランクになったギルドリングがそのまま参加許可証となるので、今からすぐに闘技場の試合に参加できます。頑張ってくださいね！,Your D-rank guild ring will serve as a permit; so you can start participating in arena matches right away. Good luck!
+メニューから闘技場に行けるようになりました。,You can now access the Arena from the menu.
+Dランク以降では闘技場で対戦をすることでストーリーが進むようになります。闘技場で一度勝利した相手は、それ以降街でも戦えるようになります（闘技場のマスターと街で戦う場合、敗北シーンはありません）。,From D-rank onwards the storyline is progressed by fighting in the arena. Once you have defeated an opponent in the arena; you can fight them in the city as well. (If you fight an arena cardmaster in the city; there is no defeat scene).
+勝負のあと僕は闘技場のすぐそばにある、大きな図書館に来ていた。,After the match; I came to a big library right next to the arena.
+聞くところによると、この図書館は闘技場の収益で運営されているそうだ。普通は入館料を取られるが、Ｄランク以上のマスターになると、入館料は無料になるらしい。,According to what I've heard; the library is funded by the proceeds from the arena. Normally; the library charges an entrance fee; but if you are a D-rank or higher cardmaster; the entrance fee is free.
+（サキュバスについての本を読んでおきたいな。\nそれと、サキュバス化した人間を元に戻す方法の本が\nあったりしないだろうか・・・。）,(I'd like to read a book about succubi. I wonder if there are any books on how to turn a succubus-ified human back to normal...)
+当てもなく見て回るが、それらしい本がどこにあるのか分からない。師匠に読み書きこそ教わったが、図書館というものに来るのも初めてのことだった。,I look around aimlessly; but I don't know where to find any books on that subject. Although my teacher taught me how to read and write; this is the first time I have ever been in a library.
+あれ{主人公}さん、こんなところで会うなんて、\nめずらしいですね。\nお勉強ですか？,Hello {主人公}. It's unusual for us to meet here. Are you studying?
+わたしもそうなんですよ♪\n今日は休日なのですが、昔の戦いの記録などを読みに来たんです。,I'm on holiday today; but I came here to read about old battle records and such.
+カードが使えない分、\n知識や戦略でみなさんをサポートしたいので、\n休日はよくここに来てるんです。,I often come here on my days off. I want to be able to support you all with knowledge and strategies; even though I can't use cards.
+{主人公}さんはどういう本を探しに来たんですか？\nわたし、本はたくさん読んでいるので、\nここの蔵書なら案内することができると思います。,What kind of books are you looking for; {主人公}? I have read a lot of books; so I think I can guide you through the collection here.
 ・・・・♪,
-これはありがたい申し出だ。僕はさっそく受付さんに探している本について伝えた。,
-なるほど。サキュバスについての本を探しているんですね。\nそれならこのあたりはどうでしょうか。,
-そう言って受付さんは僕に一冊の本を手渡した。『サキュバスの生態入門』というタイトルだ。,
-この街にいるエイライラという高名なマスターが書いた本です。\nサキュバスの分類などについて、短くまとまっていて、\nとてもいい本ですよ。,
-他には…。え？サキュバス化した人間を元に戻すための本ですか？\nうーん…。本はたくさん読んでいますが、\n残念ながら知っている本にはないと思います。,
-そういうことを研究している人が以前この街にいた、\nとは聞いたことがありますが、\nまだ成功した人はいないみたいですね。,
+これはありがたい申し出だ。僕はさっそく受付さんに探している本について伝えた。,I quickly accept the generous offer; telling the receptionist about the type of book I was looking for.
+なるほど。サキュバスについての本を探しているんですね。\nそれならこのあたりはどうでしょうか。,I see. So you are looking for a book about succubi? How about this one then?
+そう言って受付さんは僕に一冊の本を手渡した。『サキュバスの生態入門』というタイトルだ。,Saying this; the receptionist handed me a book. It's called ‘An Introduction to Succubus Ecology’.
+この街にいるエイライラという高名なマスターが書いた本です。\nサキュバスの分類などについて、短くまとまっていて、\nとてもいい本ですよ。,It's a book written by a highly respected master in this city named Elaila. It's a very good book; with a short summary of the classification of succubi and so on.
+他には…。え？サキュバス化した人間を元に戻すための本ですか？\nうーん…。本はたくさん読んでいますが、\n残念ながら知っている本にはないと思います。,You're looking for other books? A book on how to restore a succubus-ified human? Hmmm... I've read a lot of books; but unfortunately I don't think it's in any book that I know of.
+そういうことを研究している人が以前この街にいた、\nとは聞いたことがありますが、\nまだ成功した人はいないみたいですね。,I've heard that there used to be people in this city who were researching such things; but nobody seems to have succeeded yet.
 ・・・・。,
-やはり、そう簡単にはいかないのか…。ひとまず僕は受付さんにお礼をいい、受付さんがおすすめしてくれた本を読むことにした。,
-ふむふむ・・・・。,
-本によると、サキュバスには「無能力サキュバス」「下級サキュバス」「中級サキュバス」「上級サキュバス」の４種類がいて、無能力サキュバスはカードが使えないらしい。,
-一般市民がサキュバスになると、この無能力サキュバスになることが多いようだ。逆にカードマスターがサキュバスになると、必ず下級以上のサキュバスになるとも書かれている。,
-「無能力」といっても、カードが使えないだけでエナジードレインや魅了の力は持っているらしい。だいたいDランク相当の強さがあり、特に男性はランクに関係なく注意すべしと書いてあった。,
-・・・僕の妹は、カードが使えない普通の女の子だった。もしサキュバス化されているのなら、無能力サキュバスになっている可能性が一番高いのだろうか。,
-（これは・・・。）,
-本をめくると、そこにはサキュバスの絵姿が描いてあった。これが今のサキュバスたちの主、クイーンサキュバスらしい。,
-かつて王都が侵攻されたとき、Aランクマスターを結集してなんとか撃退したことがあったそうだ。そのときに戦ったマスターの一人がこの絵を残したのだという。,
-説明によると、女王サキュバスは古代に封じられた強力な悪魔で、今の状態はまだ封印が残った状態らしい。封印されていてもなお、きわめて強力だったと書かれている。,
-(このサキュバスを倒すのが、みんなの目標なのか…。\n見るからに色気が漂っていて、強そうなサキュバスだ。),
-(ふぅ・・・。),
-慣れない読書ですっかり疲れてしまった。僕はサキュバスについて知らないことばかりだし、たまに来て少しは勉強をすることにしよう。,
-闘技場横図書館に行けるようになりました。,
-試合が終わると、今日も情報を集めるため、僕は闘技場横の図書館に来ていた。,
-当てもなくサキュバス関連の本を探していると、一冊の薄い本が目に留まる。,
-（「サキュバス化の呪いの研究」・・・？）,
-手に取ってみると、本というより論文を綴じたものだった。専門的な読み物らしく、この間のやさしい本と違い、頭が痛くなるような難解な言葉が並んでいる。,
-（ううっ、がんばって読むか・・・。）,
-ふぅ・・・。疲れた・・・。,
-なんとなく理解したところによると、この論文は人間をサキュバス化させる呪いの術式について研究したものらしい。,
-サキュバスは人間を性的に絶頂させることで魂を無防備にさせ、そこに呪いの術式を刻むのだそうだ。,
-術式には強力な防御機構が備わっており、サキュバス以外のものが術式をいじろうとすると魂ごと自壊するようになっている。,
-魂が壊れたらそのまま命を失ってしまう。そのため通常の手段でサキュバス化を治すことは困難だと書かれていた。,
-（妹を治すことはやっぱり難しいのかな・・・・。）,
-論文の最後には、「もしサキュバスと親和性の高い魔力があり、反発されずに呪いに触れることができれば、呪いの解除は可能なはずである」と書かれている。,
-希望がまるでない、というわけではないようだ。地道に調べて方法を探っていけば、きっと・・・。,
-（疲れたし、今日はもう帰ろう。）,
-僕は宿屋に戻り次第、すぐにベッドに飛び込んだ。頭を使う勉強は試合をするよりも疲れてしまう。,
-それにしても子どものときからちゃんと読み書きを教えてくれた師匠には感謝してもし足りない。,
-幼い僕を育てるだけでも大変だっただろうに、カードの修行をつけて、勉強も教えてくれて・・・。,
-師匠との日々を思い出しているうちに、僕はいつの間にか寝てしまった。,
-もしも妹が生きていて、人間に戻すことができたら一緒に図書館に行こう…。,
-頭が良くて小難しいことが大好きだったから、きっと目を輝かせてくれるだろう。そんなことをぼんやりと夢に見ながら、次の日の朝を迎えたのだった。,
-エイライラ先生の話を聞いた翌日。僕はさっそくギルド図書館に来ていた。,
-（この間見つけた論文は確かこの辺のはずだ…。）,
-(あった！),
-僕は「サキュバス化の呪いの研究」の論文を手に取る。相変わらず言葉づかいが難しくて、何を書いているのか細かい部分は分からない。,
-ただ「もしサキュバスの呪いに反発されずに触れることができれば、呪いの解除は可能である」と書いてあることは間違いなかった。,
-論文の作者を見ると、「ネクロ」という名前が書かれている。この人に会うことができれば、もっと詳しく分かるだろうか。,
-{主人公}さん、こんにちは♪\n今日はどのようなご用でしょうか？,
-え？ネクロという名前の研究者ですか…？\nうーん、どこかで聞いたことがあるような…。,
-そういってしばらく頭をひねったのち、受付さんは何かを思い出したようにポンと手を叩いた。,
-あ！そういえば昔コノハさんとお話したときに、\nその名前を聞いたことがあります。,
-確かコノハさんの昔からの友人だとか。\nコノハさんと並ぶ実力者で、\n当時は若手のエースとして大変期待されていたみたいですよ。,
-現在ネクロさんがどこにいるかは\n残念ながら把握していません…。\nでももしかしたら、コノハさんならご存じかもしれませんね。,
-なるほど、ありがとうございます！,
-受付さんの助言を受けて、僕は師匠に手紙を出すことにした。,
-せっかくの手紙だ。ネクロについて尋ねるだけではなく、僕はこの街での修行の様子や大会で連戦連勝していることも手紙に書いた。,
-師匠は手紙を見て僕の活躍を喜んでくれるだろうか。,
-妹を助ける手段が見つかる日も近いかもしれない。手紙の返事が来るまで、せっせと修行に励んで、少しでも上のランクを目指すことにしよう！,
-僕はサキュバス化治療術を練習するため、ネクロさんのいる牢屋に来ていた。,
-うふふ、楽しい実験の時間ね。\nこうやって研究に没頭できるなら、牢屋も案外悪くないわ。\nってあら・・・？誰かしら？,
-ネクロさんに言われて振り向くと、後ろから誰かがこちらにやってきている。あの緑色の髪と長い耳、エイライラ先生だ。,
-やぁ、はじめまして。ネクロくん。\nわたしはエイライラ。\nモルゲンの学園でサキュバスについて研究しているものだよ。,
-きみの研究の話を聞いて、\nわたしも研究者のはしくれとして、\n大変興味深く思ってね。見学に来たんだ。,
-はわぁ、あっ、えっと・・・。\nその、ありがとうございます。あわわ・・・。,
-ネクロさんはしどろもどろになっている。知らない人が苦手だとは聞いていたが、ここまでわたわたするとは。,
-しかし二人とも学者同士、少しすれば気が合ったようで、熱心に魔術の理論について話し始めた。僕は半分も話についていけない。,
-今の術式には改良の余地がありそうだね。\n例えば、魔力核を抜き出すときのこの術式だが、\n魔族の魔力核の特性を考えるとこうした方が・・・。,
-なるほど。それならここはこうすると、\nより安定して魔力核の捕捉ができるかも・・・。\nほら弟子くん、実際にちょっとやってみて。,
-こうして夜遅くになるまで牢屋越しに術式の研究と、その練習が行われた。,
-はあぁっ・・・！,
-あは、すごいすごい！\nいままでで一番いい感じよ。,
-これなら実際にサキュバス化された人間を治療できるかも。\nああ、早く実験がしたいわ。,
-ふむ。まだ仮説段階だと思っていたけれど、\n思った以上の完成度だね。,
-この調子なら今度の侵攻作戦のときに、\nすぐ実用に移せるかもしれない。,
-術者が限られるのがネックだが…。\nそれでも、サキュバス化しても治療できる可能性があるというのは、\nみなにとって大きな希望になるだろうね。,
-わたしは今から転移陣を使って王都に行かないといけないんだ。\nネクロくん、その前にきみのような研究者と談義できたこと、\n実に有意義な時間だったよ。,
-さて、それではこの辺でおいとまさせてもらおう。\nふたりともありがとう。,
-そういってエイライラ先生は去っていった。今日はもう遅い。僕もこの辺で終わりにして宿屋に戻るとしよう。,
+やはり、そう簡単にはいかないのか…。ひとまず僕は受付さんにお礼をいい、受付さんがおすすめしてくれた本を読むことにした。,As I expected; it couldn't be that easy... I thanked the receptionist and decided to read the book she recommended.
+ふむふむ・・・・。,Hmmm. ・・・・.
+本によると、サキュバスには「無能力サキュバス」「下級サキュバス」「中級サキュバス」「上級サキュバス」の４種類がいて、無能力サキュバスはカードが使えないらしい。,According to the book; there are four types of succubi: impotent succubus; lower level succubus; intermediate succubus and advanced succubus. Impotent succubi cannot use cards.
+一般市民がサキュバスになると、この無能力サキュバスになることが多いようだ。逆にカードマスターがサキュバスになると、必ず下級以上のサキュバスになるとも書かれている。,When an ordinary citizen becomes a succubus; they are likely to become this impotent succubus. Conversely; it also states that when a cardmaster becomes a succubus; they always becomes a succubus of lower grade or higher.
+「無能力」といっても、カードが使えないだけでエナジードレインや魅了の力は持っているらしい。だいたいDランク相当の強さがあり、特に男性はランクに関係なく注意すべしと書いてあった。,Even though they are ‘impotent’; they are said to have the power of energy drain and charm; just not the ability to use cards. It was written that they are usually equivalent to D-rank; and that men in particular should be careful; regardless of rank.
+・・・僕の妹は、カードが使えない普通の女の子だった。もしサキュバス化されているのなら、無能力サキュバスになっている可能性が一番高いのだろうか。,... My sister was a normal girl who couldn't use cards. If she has become a succubus; is it most likely that she is an impotent succubus?
+（これは・・・。）,(This is...)
+本をめくると、そこにはサキュバスの絵姿が描いてあった。これが今のサキュバスたちの主、クイーンサキュバスらしい。,When I turned the book over; there was a painted figure of a succubus. This seems to be the succubus queen; the current leader of the succubi.
+かつて王都が侵攻されたとき、Aランクマスターを結集してなんとか撃退したことがあったそうだ。そのときに戦ったマスターの一人がこの絵を残したのだという。,In the past; when the royal capital was invaded; they managed to repel the invasion by rallying A-rank cardmasters. One of the cardmasters who fought at that time left this picture.
+説明によると、女王サキュバスは古代に封じられた強力な悪魔で、今の状態はまだ封印が残った状態らしい。封印されていてもなお、きわめて強力だったと書かれている。,According to the description; the succubus queen was a powerful demon sealed in ancient times; and she remains in a sealed state. It says that even sealed; she was still extremely powerful.
+(このサキュバスを倒すのが、みんなの目標なのか…。\n見るからに色気が漂っていて、強そうなサキュバスだ。),(Is it everyone's goal to defeat the queen...? She looks like an extremely beautiful and powerful succubus...)
+(ふぅ・・・。),(Phew...)
+慣れない読書ですっかり疲れてしまった。僕はサキュバスについて知らないことばかりだし、たまに来て少しは勉強をすることにしよう。,All that reading has left me completely exhausted; since I'm not used to it. I really don't know anything about succubi. I'll come back here once in a while to learn a bit more.
+闘技場横図書館に行けるようになりました。,You can now go to the library next to the arena.
+試合が終わると、今日も情報を集めるため、僕は闘技場横の図書館に来ていた。,After the match; I went to the library next to the arena to look for information again.
+当てもなくサキュバス関連の本を探していると、一冊の薄い本が目に留まる。,While searching aimlessly for books on succubi; one thin book catches the eye.
+（「サキュバス化の呪いの研究」・・・？）,(‘Study of the Succubusification Curse’ ...?)
+手に取ってみると、本というより論文を綴じたものだった。専門的な読み物らしく、この間のやさしい本と違い、頭が痛くなるような難解な言葉が並んでいる。,When I picked it up; I found that it was not so much a book as a collection of research papers. It seemed to be a technical read; and unlike the easy books I read in the past; it was lined with difficult words that made my head hurt.
+（ううっ、がんばって読むか・・・。）,(Ugh; I'll do my best to read it...)
+ふぅ・・・。疲れた・・・。,Phew... I'm tired...
+なんとなく理解したところによると、この論文は人間をサキュバス化させる呪いの術式について研究したものらしい。,From what I understand; the paper is a study of a curse that turns a human into a succubus.
+サキュバスは人間を性的に絶頂させることで魂を無防備にさせ、そこに呪いの術式を刻むのだそうだ。,Succubi make the soul of a human vulnerable by causing sexual climax in the victim; which allows them to carve a curse formula into it.
+術式には強力な防御機構が備わっており、サキュバス以外のものが術式をいじろうとすると魂ごと自壊するようになっている。,The curse has a strong defence mechanism; so that if anything other than a succubus tries to tamper with it; the soul itself is destroyed.
+魂が壊れたらそのまま命を失ってしまう。そのため通常の手段でサキュバス化を治すことは困難だと書かれていた。,If the soul is destroyed; the person will lose their life as a result. It was therefore written that it is difficult to cure succubusification by normal means.
+（妹を治すことはやっぱり難しいのかな・・・・。）,(Is it really that hard to cure my sister? ・・・・.)
+論文の最後には、「もしサキュバスと親和性の高い魔力があり、反発されずに呪いに触れることができれば、呪いの解除は可能なはずである」と書かれている。,At the end of the paper; it states that ‘if one has a high magical affinity with the succubus and can touch the curse without being repelled; it should be possible to lift the curse’.
+希望がまるでない、というわけではないようだ。地道に調べて方法を探っていけば、きっと・・・。,It seems there is still hope. If I continue my search and find out how to do it; I'm sure I'll be able to cure my sister...
+（疲れたし、今日はもう帰ろう。）,(I'm tired; let's go home for the day.)
+僕は宿屋に戻り次第、すぐにベッドに飛び込んだ。頭を使う勉強は試合をするよりも疲れてしまう。,I jumped into bed as soon as I got back to the inn. Wracking my brain studying is more tiring than fighting in a match.
+それにしても子どものときからちゃんと読み書きを教えてくれた師匠には感謝してもし足りない。,Still; I can't thank my teacher enough for teaching me to read and write properly from childhood.
+幼い僕を育てるだけでも大変だっただろうに、カードの修行をつけて、勉強も教えてくれて・・・。,It must have been hard just to raise me as a young boy; but to train me as a cardmaster and teach me to study on top of that...
+師匠との日々を思い出しているうちに、僕はいつの間にか寝てしまった。,I fell asleep before I knew it; reminiscing about my days with my mentor.
+もしも妹が生きていて、人間に戻すことができたら一緒に図書館に行こう…。,If my sister is alive and I can turn her back into a human; we can go to the library together...
+頭が良くて小難しいことが大好きだったから、きっと目を輝かせてくれるだろう。そんなことをぼんやりと夢に見ながら、次の日の朝を迎えたのだった。,She was smart and loved small details; so I'm sure she would have a twinkle in her eye. I woke up the next morning; remembering vaguely about such a dream.
+エイライラ先生の話を聞いた翌日。僕はさっそくギルド図書館に来ていた。,The day after I heard Elaila's story. I immediately came to the Guild Library.
+（この間見つけた論文は確かこの辺のはずだ…。）,(I'm pretty sure the paper I found the other day was around here...)
+(あった！),(There it is!)
+僕は「サキュバス化の呪いの研究」の論文を手に取る。相変わらず言葉づかいが難しくて、何を書いているのか細かい部分は分からない。,I pick up the paper ‘A Study of the Succubusification Curse’. The wording is as difficult as ever; and I can't make out any of the details of what it says.
+ただ「もしサキュバスの呪いに反発されずに触れることができれば、呪いの解除は可能である」と書いてあることは間違いなかった。,However; there was no doubt that it stated that ‘if the succubus curse could be touched without being repelled; the curse could be lifted’.
+論文の作者を見ると、「ネクロ」という名前が書かれている。この人に会うことができれば、もっと詳しく分かるだろうか。,Looking at the author of the paper; the name ‘Necro’ is mentioned. Would it be possible to meet this person to find out more?
+{主人公}さん、こんにちは♪\n今日はどのようなご用でしょうか？,Hello; {主人公}♪; what can I do for you today?
+え？ネクロという名前の研究者ですか…？\nうーん、どこかで聞いたことがあるような…。,Eh? A researcher named Necro...? Hmmm; I've heard of her somewhere....
+そういってしばらく頭をひねったのち、受付さんは何かを思い出したようにポンと手を叩いた。,After saying that; she tilts her head; thinking for a while. The receptionist then claps her hands as if she has remembered something.
+あ！そういえば昔コノハさんとお話したときに、\nその名前を聞いたことがあります。,Ah! I remember hearing that name when I spoke to Konoha in the past.
+確かコノハさんの昔からの友人だとか。\nコノハさんと並ぶ実力者で、\n当時は若手のエースとして大変期待されていたみたいですよ。,She was an old friend of hers; as I recall. She was a talented person just like Konoha; and at the time; it seems she was very much expected to be an ace of the young generation.
+現在ネクロさんがどこにいるかは\n残念ながら把握していません…。\nでももしかしたら、コノハさんならご存じかもしれませんね。,Unfortunately; I don't know where Necro is currently... But perhaps Konoha might know.
+なるほど、ありがとうございます！,I see. Thank you so much!
+受付さんの助言を受けて、僕は師匠に手紙を出すことにした。,Taking the receptionist's advice to heart; I decided to write to my mentor.
+せっかくの手紙だ。ネクロについて尋ねるだけではなく、僕はこの街での修行の様子や大会で連戦連勝していることも手紙に書いた。,In the letter I asked her about Necro; but also wrote about my training in the city and my winning streak in the tournament.
+師匠は手紙を見て僕の活躍を喜んでくれるだろうか。,Will my mentor be pleased to hear about my success?
+妹を助ける手段が見つかる日も近いかもしれない。手紙の返事が来るまで、せっせと修行に励んで、少しでも上のランクを目指すことにしよう！,The day may soon come when I will find the means to help my sister. Until I receive a reply to my letter; I'll continue to train and hopefully reach a higher rank!
+僕はサキュバス化治療術を練習するため、ネクロさんのいる牢屋に来ていた。,I had come to visit Necro in the prison to practise the succubusification healing technique.
+うふふ、楽しい実験の時間ね。\nこうやって研究に没頭できるなら、牢屋も案外悪くないわ。\nってあら・・・？誰かしら？,Ufufu; it's time for some fun experiments. Prison is not so bad if I can get absorbed in my research like this. Oh...? Who is it?
+ネクロさんに言われて振り向くと、後ろから誰かがこちらにやってきている。あの緑色の髪と長い耳、エイライラ先生だ。,I turn around at Necro's question to see someone coming up behind me. It's Elaila; her green hair and long ears showing. (translator: might need a check on this)
+やぁ、はじめまして。ネクロくん。\nわたしはエイライラ。\nモルゲンの学園でサキュバスについて研究しているものだよ。,Hello. Nice to meet you; Necro. My name is Elaila. I'm studying succubi at the Academy of Morgen.
+きみの研究の話を聞いて、\nわたしも研究者のはしくれとして、\n大変興味深く思ってね。見学に来たんだ。,When I heard about your research; I; as a researcher myself; was very interested. I came to observe.
+はわぁ、あっ、えっと・・・。\nその、ありがとうございます。あわわ・・・。,Hah wow; oh; um... Well; thank you very much. Umm...
+ネクロさんはしどろもどろになっている。知らない人が苦手だとは聞いていたが、ここまでわたわたするとは。,Necro is floundering. I had heard that she was not good with strangers; but I never thought she would be so flustered.
+しかし二人とも学者同士、少しすれば気が合ったようで、熱心に魔術の理論について話し始めた。僕は半分も話についていけない。,But; as both of them are scholars; they quickly seemed to hit it off by talking enthusiastically about magical theories. I couldn't follow half of what they were saying.
+今の術式には改良の余地がありそうだね。\n例えば、魔力核を抜き出すときのこの術式だが、\n魔族の魔力核の特性を考えるとこうした方が・・・。,It seems that there is room for improvement in the current technique. For example; for extracting the magic core. Considering the characteristics of the magic core of the demonic race; it would be better to...
+なるほど。それならここはこうすると、\nより安定して魔力核の捕捉ができるかも・・・。\nほら弟子くん、実際にちょっとやってみて。,I see. Then; if you do it this way; you might be able to capture the magic core in a more stable way... Come on; {主人公}; try it out.
+こうして夜遅くになるまで牢屋越しに術式の研究と、その練習が行われた。,Thus; the technique was studied and practised through the prison cell late into the night.
+はあぁっ・・・！,Hah..!
+あは、すごいすごい！\nいままでで一番いい感じよ。,Haha; that's amazing! That's the best I've ever felt.
+これなら実際にサキュバス化された人間を治療できるかも。\nああ、早く実験がしたいわ。,This could actually cure succubusified humans. Oh; I can't wait to experiment.
+ふむ。まだ仮説段階だと思っていたけれど、\n思った以上の完成度だね。,Hm. I thought it was still in the hypothetical stage; but it's more complete than I thought it would be.
+この調子なら今度の侵攻作戦のときに、\nすぐ実用に移せるかもしれない。,At this rate; it could be put to practical use immediately during the next invasion campaign.
+術者が限られるのがネックだが…。\nそれでも、サキュバス化しても治療できる可能性があるというのは、\nみなにとって大きな希望になるだろうね。,The problem is that the number of practitioners is limited... Still; the possibility of being able to cure succubusification is a great hope for all of us.
+わたしは今から転移陣を使って王都に行かないといけないんだ。\nネクロくん、その前にきみのような研究者と談義できたこと、\n実に有意義な時間だったよ。,I have to leave for the royal capital through the teleportation circle now. Necro; before I go; I'd like to say it was really useful for me to have a discussion with a researcher like you.
+さて、それではこの辺でおいとまさせてもらおう。\nふたりともありがとう。,Now then; I'll leave you to it. Thank you both.
+そういってエイライラ先生は去っていった。今日はもう遅い。僕もこの辺で終わりにして宿屋に戻るとしよう。,With that; Elaila left. It's already late today. I'm going to finish up here and go back to the inn.
 ・・・。,
-ベッドの上に腰かけながら、僕は今日の成果を振り返っていた。,
-サキュバス化の治療術に確かな手ごたえを感じる。これなら、妹を本当の意味で助けられるかもしれない。,
-人間に戻った妹と、また一緒に暮らせるかもしれないのだ。その未来を想像すると楽しみで、思わず口元がゆるんでしまう。,
-僕はその日、遅くまで術の練習をしていた影響もあってか、ぐっすりと泥のように眠った。珍しく昔の夢を見ることもなかった。,
-そうして晴れやかな気持ちで次の朝を迎えたのだった。,
-闘技場での試合のあと、宿屋に戻ると、部屋の中に師匠が来ていた。,
-お、弟子、おかえり。\n試合後で疲れているところ悪いけど、\n今から城の方に行くわよ。,
+ベッドの上に腰かけながら、僕は今日の成果を振り返っていた。,As I sat on my bed; I reflected on my day's achievements.
+サキュバス化の治療術に確かな手ごたえを感じる。これなら、妹を本当の意味で助けられるかもしれない。,I feel a definite sense of control over the succubusification healing technique. This could help my sister in a real way.
+人間に戻った妹と、また一緒に暮らせるかもしれないのだ。その未来を想像すると楽しみで、思わず口元がゆるんでしまう。,I might be able to live with my sister as a human again. Imagining that future is so exciting that I can't help but smile.
+僕はその日、遅くまで術の練習をしていた影響もあってか、ぐっすりと泥のように眠った。珍しく昔の夢を見ることもなかった。,I slept like a brick; probably because I had been practising the healing technique late into the night. Surprisingly; I did not have any dreams about the past.
+そうして晴れやかな気持ちで次の朝を迎えたのだった。,And so I awoke with a clear mind to start the morning.
+闘技場での試合のあと、宿屋に戻ると、部屋の中に師匠が来ていた。,After the arena match; I returned to the inn and found my mentor in the room.
+お、弟子、おかえり。\n試合後で疲れているところ悪いけど、\n今から城の方に行くわよ。,Oh; diciple; welcome back. I'm sorry to tell you; since you're tired after the match; but we're going to the castle now.
 ・・・？,
-リーフ師匠、って言って分かるわよね。\nギルドマスターのリーフ師匠がいまからモルゲンを発って、\n転移陣を使って王都に戻るのよ。,
-わたしは弟子として見送りに行かないといけないわ。\nあなたも孫弟子なんだから、ついてきなさい。,
-なるほど、わかりました。,
-僕は師匠と一緒に城へ向かった。,
-モルゲンには大きな城が建っている。城にはこの地を治める貴族が住んでいるのだという。転移陣はこの城の中にあるそうだ。,
-ん、来たわね。,
-いい機会だから、{主人公}、\nあなたとコノハに転移陣を見せておこうと思ってね。\n二人で見送りにくるように言ったのよ。,
-転移陣は遠く離れた場所を一瞬でつなぐ特別な魔法陣。\n非常に便利なものだけれど、動かすのに莫大な魔力がいるの。\nあれを見なさい。,
-そう言ってリーフさんは部屋に置かれた１つの巨大なクリスタルを指さした。淡く青色に光るそれは、天井につくほど高く、腕を回しても抱えきれないほどの大きさだった。,
-あのクリスタルは王国に２つしかない特別な魔結晶よ。\n１つはここモルゲンに、もう１つは王都に置かれているわ。,
-街で人々が魔力を使うたび、\nあの中にほんのわずかずつ魔力が貯められていく。\nそうやって徴収した魔力がこの転移陣を動かすの。,
-それに加えてCランクマスター20人程度で術式を調整して、\nようやく人を４～５人送ることができるわ。\nね、なかなかに効率が悪いでしょう？,
-だから、この転移陣を使えるのは、その手間に見合った人だけ。\nすなわち、王族とAランクマスターだけに許されているわ。,
-それをわざわざ二人に見せた意味が分かる？,
-あなたたちには見せる価値があると思った。\nつまり、Aランクに上がってこれると思ったってことよ。,
+リーフ師匠、って言って分かるわよね。\nギルドマスターのリーフ師匠がいまからモルゲンを発って、\n転移陣を使って王都に戻るのよ。,Guildmaster Leaf; who I assume you know; is leaving Morgen now; and will return to King's Landing using the teleportation circle.
+わたしは弟子として見送りに行かないといけないわ。\nあなたも孫弟子なんだから、ついてきなさい。,As her disciple; I have to go and see her off. Since you are my disciple; you should follow me.
+なるほど、わかりました。,I understand.
+僕は師匠と一緒に城へ向かった。,I went with my mentor to the castle.
+モルゲンには大きな城が建っている。城にはこの地を治める貴族が住んでいるのだという。転移陣はこの城の中にあるそうだ。,A large castle stands in Morgen. The castle is said to be home to the nobles who rule the area. The teleportation circle is supposed to be located in this castle.
+ん、来たわね。,Hmm; here we are.
+いい機会だから、{主人公}、\nあなたとコノハに転移陣を見せておこうと思ってね。\n二人で見送りにくるように言ったのよ。,This is a good opportunity; {主人公}. I thought I'd show you and Konoha the teleportation circle. This is why I wanted you both to come and see me off.
+転移陣は遠く離れた場所を一瞬でつなぐ特別な魔法陣。\n非常に便利なものだけれど、動かすのに莫大な魔力がいるの。\nあれを見なさい。,The teleportation circle is a special magic circle that connects distant places in an instant. They are very useful; but require a great deal of magic power to work. Look at that.
+そう言ってリーフさんは部屋に置かれた１つの巨大なクリスタルを指さした。淡く青色に光るそれは、天井につくほど高く、腕を回しても抱えきれないほどの大きさだった。,With that; Leaf points to a huge crystal in the room, glowing a pale blue. It's so tall that it reaches the ceiling; and is too big to hold; even if you put your arms around it.
+あのクリスタルは王国に２つしかない特別な魔結晶よ。\n１つはここモルゲンに、もう１つは王都に置かれているわ。,That crystal is one of only two special magic crystals in the kingdom. One is located here in Morgen. The other in the royal capital.
+街で人々が魔力を使うたび、\nあの中にほんのわずかずつ魔力が貯められていく。\nそうやって徴収した魔力がこの転移陣を動かすの。,Every time people use magic in the city; a tiny amount is stored in it. The magic power collected in this way powers the circle.
+それに加えてCランクマスター20人程度で術式を調整して、\nようやく人を４～５人送ることができるわ。\nね、なかなかに効率が悪いでしょう？,Add to that about 20 C-rank masters; adjusting the technique; and you can finally send four or five people. It's quite inefficient; isn't it?
+だから、この転移陣を使えるのは、その手間に見合った人だけ。\nすなわち、王族とAランクマスターだけに許されているわ。,So only those who are worthy of the effort can use this teleportation circle. This means only royalty and A-rank masters are allowed to use it.
+それをわざわざ二人に見せた意味が分かる？,Do you know what it means to go to the trouble of showing that to two people?
+あなたたちには見せる価値があると思った。\nつまり、Aランクに上がってこれると思ったってことよ。,I thought it worthwhile to show you; since I have a feeling you will both become A-rank.
 ・・・！,
-コノハもあなたも、Bランクに甘んじず、切磋琢磨しなさい。\nあなたたちと一緒に転移陣を使える日を待っているわ。,
-それじゃあね。次は魔族領への侵攻作戦で会いましょう。,
-そういうとリーフさんは転移陣の中心へと進んだ。周囲に控えていた魔術師たちが、転移陣に魔力を注ぎ込んでいく。,
-それに呼応するようにクリスタルから魔力がほとばしり始める。はた目から見ても分かるほど、強大な魔力だ。バチバチと光がはじけるような音がし、そして。,
-一瞬の光とともに、リーフさんの姿は消えていた。この瞬間に、王都に移動してしまったのか・・・。なんとすごい魔法だろう。,
-ふぅ、ああいう場所はちょっと緊張するわ。\nそれにしても、いいもの見せてもらったわね。\n転移陣なんてめったに見れるものじゃないわよ。,
-そうなんですか？,
-そうよ。考えてみなさい。\n転移陣って要するに、\nこちらの城へ直行できる抜け道みたいなものでしょう？,
-万が一悪用されれば、城がすぐに落とされてしまうかもしれない。\nだから許可がないと「転移の間」に入ることもできないし、,
-利用するときも、転移元と転移先の両側で、\nお互いにどこにつなぐかを一致させたうえで、\n大量の魔力を込め続けてやっと動かせるようになっているの。,
-なるほど。転移陣というと便利な道具だとしか思わなかったが、同時に悪用されたら非常に危険なものでもあるのか。,
-わたしも動いているのをこの目で見たのは初めてね。\nリーフ師匠ったら「一緒に転移陣を使いましょう」ですって。\nあんなこと言われちゃったら・・・。,
-わたしもうかうかしてられないわ！\nAランク昇格に向けて頑張らないと！,
-もちろんあなたもよ、弟子。\nネクロのところでサキュバス化を治す術を練習しつつ、\n試合、どんどん頑張りなさい！,
-いままで通りであれば、連勝を維持していれば、Aランク昇格もそう遠くはないはずだ。師匠と僕と、二人でＡランクを目指すなら、もしかしたら、闘技場で師匠と戦う、なんてこともあるのだろうか？,
-本気を出した師匠と戦って勝ったことはまだ僕にはない。以前、村でサキュバスについて教えてくれたときも強かったが、あれでも本気を出しているわけではないようだった。,
-いつ師匠と当たったとしても、負けないようにしよう。僕は改めて気を引き締めたのだった。,
-試合が終わり宿に戻ると、メモが置いてあった。師匠の字だ。,
-「今日の試合、お疲れ。そしておめでとう。\nいよいよあなたももうすぐAランクね。」,
-「あなたがAランクに上がる前に、\n一度わたしと本気で手合わせしないかしら。\n師匠としてあなたに最後の稽古をつけてあげる」,
-「Aランクに上がったら、\nもう弟子って立場でもないしね。\nあなたが師匠を超えられたかどうか、実力を見てあげるわ」,
-「場所は、ギルドのそばに広い部屋を借りているから、\nそこでやりましょう。」,
-手紙には簡単な地図と待ち合わせの時間が書かれていた。,
-師匠と同じBランクになって、僕も順調に勝利を重ねてきた。この街に来たばかりの時と比べて、魔力が遥かに強くなったのを感じる。今なら、師匠に勝つこともできるのだろうか。,
-師匠には子供のとき命を助けてもらい、そこからこの年になるまで面倒を見てもらった恩がある。そのうえ毎日稽古もつけてくれて、今の自分があるのは師匠がいたからだ。,
-成長し強くなった姿を見せることが、弟子として、１つの恩返しになるかもしれない。僕は師匠との手合わせに向けて、恥ずかしくない勝負をしよう、と決意を固めたのだった。,
-クエスト「師匠との手合わせ」が追加されました,
-やあ、こんにちは。\n話・・・？\nええと、長くないならいいよ。,
-いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,
-イベントのスキップについて,
-スキップ操作,
-会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,
-会話や演出などは、二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,
-兵士であるわたしたちはカードマスターであることもありますが、\n多くは非カードマスターです。,
-人数で言えば、カードマスターより非カードマスターの方が多いため、\n犯罪なども普通の人間が犯す数の方が多いのです。\nだからこそ非力な我々であっても兵士が務まります。,
-カードマスターや強力な魔物が暴れている場合には、\nギルドに依頼をしてカードマスターを派遣してもらいます。,
-雑務は我々がこなし、\n難易度の高いものだけカードマスターさんにお任せする形ですね。\nマスターのみなさんにはいつも助けられています。,
+コノハもあなたも、Bランクに甘んじず、切磋琢磨しなさい。\nあなたたちと一緒に転移陣を使える日を待っているわ。,You and Konoha should not settle for B-rank; and keep working hard to improve yourselves. I'm waiting for the day when I can use the teleportation circle with you guys. (translate check this)
+それじゃあね。次は魔族領への侵攻作戦で会いましょう。,See you then. The next time we meet will be on the invasion mission to the demon territory.
+そういうとリーフさんは転移陣の中心へと進んだ。周囲に控えていた魔術師たちが、転移陣に魔力を注ぎ込んでいく。,Having said that; Leaf proceeded to the centre of the teleportation circle. The cardmasters who had been waiting around her poured their magical power into the teleportation circle.
+それに呼応するようにクリスタルから魔力がほとばしり始める。はた目から見ても分かるほど、強大な魔力だ。バチバチと光がはじけるような音がし、そして。,In response; magic begins to pour out of the crystal. The magic is so powerful that it can be seen from the outside. There is a sound like a burst of thunder; and then...
+一瞬の光とともに、リーフさんの姿は消えていた。この瞬間に、王都に移動してしまったのか・・・。なんとすごい魔法だろう。,With a flash of light; Leaf disappeared. In an instant; she has been moved to the royal capital... What an amazing piece of magic.
+ふぅ、ああいう場所はちょっと緊張するわ。\nそれにしても、いいもの見せてもらったわね。\n転移陣なんてめったに見れるものじゃないわよ。,Phew; places like that make me a bit nervous. Still; it's a nice thing to see. It's not every day you get to see a teleporation circle.
+そうなんですか？,Really?
+そうよ。考えてみなさい。\n転移陣って要するに、\nこちらの城へ直行できる抜け道みたいなものでしょう？,Yes. Think about it. A teleporation circle is; in essence; like a loophole that leads directly to our castle; isn't it?
+万が一悪用されれば、城がすぐに落とされてしまうかもしれない。\nだから許可がないと「転移の間」に入ることもできないし、,If it were to be abused; the castle could be quickly brought down. So you can't even enter the ‘transition room’ without permission.
+利用するときも、転移元と転移先の両側で、\nお互いにどこにつなぐかを一致させたうえで、\n大量の魔力を込め続けてやっと動かせるようになっているの。,When using it; both the source and destination sides have to agree on when to connect to each other; and then they have to keep putting large amounts of magic power into it.
+なるほど。転移陣というと便利な道具だとしか思わなかったが、同時に悪用されたら非常に危険なものでもあるのか。,I see. I only thought of the teleportation circle as a useful tool; but at the same time it can be very dangerous if misused.
+わたしも動いているのをこの目で見たのは初めてね。\nリーフ師匠ったら「一緒に転移陣を使いましょう」ですって。\nあんなこと言われちゃったら・・・。,It's the first time I've seen it in action. Leaf said; ‘let's use the teleportation circle together’. If she said that to me... (translator: not quite sure what to with this phrase)
+わたしもうかうかしてられないわ！\nAランク昇格に向けて頑張らないと！,I can't afford to sit on my hands! I have to work hard to get promoted to A-rank!
+もちろんあなたもよ、弟子。\nネクロのところでサキュバス化を治す術を練習しつつ、\n試合、どんどん頑張りなさい！,Of course; my disciple. Practice the succubusification healing at Necro's place; and keep up the good work with the matches!
+いままで通りであれば、連勝を維持していれば、Aランク昇格もそう遠くはないはずだ。師匠と僕と、二人でＡランクを目指すなら、もしかしたら、闘技場で師匠と戦う、なんてこともあるのだろうか？,If I continue as before and maintain my winning streak; promotion to A-rank shouldn't be too far away. If both my mentor and I aim for A-rank; does that mean there is a chance that I'll have to fight her in the arena?
+本気を出した師匠と戦って勝ったことはまだ僕にはない。以前、村でサキュバスについて教えてくれたときも強かったが、あれでも本気を出しているわけではないようだった。,I have yet to win a serious fight againt my mentor. She was strong when she taught me about succubi in the village before; but even then she didn't seem to be serious.
+いつ師匠と当たったとしても、負けないようにしよう。僕は改めて気を引き締めたのだった。,Whenever I face my mentor; I won't be defeated. I have once again tightened my resolve.
+試合が終わり宿に戻ると、メモが置いてあった。師匠の字だ。,Even if I face my mentor at some point; I will not lose. My resolve strengthened anew.
+「今日の試合、お疲れ。そしておめでとう。\nいよいよあなたももうすぐAランクね。」,"Well done on today's match. And congratulations. Finally; you've almost reached A-rank."
+「あなたがAランクに上がる前に、\n一度わたしと本気で手合わせしないかしら。\n師匠としてあなたに最後の稽古をつけてあげる」,"Before you move up to A-rank; I would like you to have a serious match with me once. As your teacher; I will give you one last lesson."
+「Aランクに上がったら、\nもう弟子って立場でもないしね。\nあなたが師匠を超えられたかどうか、実力を見てあげるわ」,"Once you've risen to A-rank; you're no longer in the position of being a disciple. I will see how good you are; and whether or not you have surpassed me."
+「場所は、ギルドのそばに広い部屋を借りているから、\nそこでやりましょう。」,"I've rented a large room by the guild; where we can have our match."
+手紙には簡単な地図と待ち合わせの時間が書かれていた。,The letter contained a simple map and a meeting time.
+師匠と同じBランクになって、僕も順調に勝利を重ねてきた。この街に来たばかりの時と比べて、魔力が遥かに強くなったのを感じる。今なら、師匠に勝つこともできるのだろうか。,I've reached the same rank as my mentor; and I've been winning steadily; too. Compared to when I first came to this city; I feel that my magical power has become far stronger. I wonder if I can beat her now.
+師匠には子供のとき命を助けてもらい、そこからこの年になるまで面倒を見てもらった恩がある。そのうえ毎日稽古もつけてくれて、今の自分があるのは師匠がいたからだ。,I owe my mentor for saving my life when I was a child; and taking care of me until now. She also gave me training every day; and I am the person I am today because of her.
+成長し強くなった姿を見せることが、弟子として、１つの恩返しになるかもしれない。僕は師匠との手合わせに向けて、恥ずかしくない勝負をしよう、と決意を固めたのだった。,As her disciple; it might be one way of returning the kindness by showing that I have grown up and become stronger. I made up my mind that I would not be afraid to compete with my mentor.
+クエスト「師匠との手合わせ」が追加されました,The quest ‘Fight with Mentor’ has been added. (translator: the quest name I am uncertain about)
+やあ、こんにちは。\n話・・・？\nええと、長くないならいいよ。,Hi there. Talk...? Um; okay; if it's not too long.
+いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,No; I'm impatient; and I don't like to listen to other people's stories. I want to skip the whole thing.
+イベントのスキップについて,About skipping events
+スキップ操作,Skip event
+会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,Conversations & performances can be skipped by pressing the right mouse button. Skipping is stopped; when releasing the button. (translator: this line needs to be looked at.)
+会話や演出などは、二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,Conversations and performances can be skipped by touching the screen with two fingers. Skipping is stopped when the fingers are released.
+兵士であるわたしたちはカードマスターであることもありますが、\n多くは非カードマスターです。,As soldiers; some of us may be cardmasters; but many of us are not.
+人数で言えば、カードマスターより非カードマスターの方が多いため、\n犯罪なども普通の人間が犯す数の方が多いのです。\nだからこそ非力な我々であっても兵士が務まります。,In terms of numbers; there are more non-cardmasters than cardmasters; and therefore more crimes are committed by ordinary people. That is why even we; who are not cardmasters; can serve as soldiers.
+カードマスターや強力な魔物が暴れている場合には、\nギルドに依頼をしてカードマスターを派遣してもらいます。,If a cardmaster or powerful demon is running amok; request the guild to dispatch a cardmaster.
+雑務は我々がこなし、\n難易度の高いものだけカードマスターさんにお任せする形ですね。\nマスターのみなさんにはいつも助けられています。,We do the miscellaneous tasks and leave only the more difficult ones to the cardmasters. They always help us.

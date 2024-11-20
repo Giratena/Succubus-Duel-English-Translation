@@ -7,12 +7,12 @@ This is a translation project for Succubus Duel, a card game featuring many succ
   - Any edits or change in the repo will also be reflected in your game.
   - Push and pull from "Develop" to get updates as they happen.
 # How to put the translation into your game
-- Download the repo as a zip then paste everything into your game folder and you're done!
+- Download the repo as a zip then paste everything into your game folder (where SuccubusDuel.exe is located) and you're done!
 - Alternatively, grab a stable copy from the releases tab!
 
  # How to support:
  - Support my work on Patreon! https://www.patreon.com/Giratena
- - Join the Translation Server discord for wholesome translation help and updates! https://discord.gg/rxsQSPZ
+ - Join the Translation Server discord for wholesome translation help and updates! https://discord.gg/fYPg7KX
 
 # Special Translation information
 ## General
@@ -21,20 +21,21 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 - Any "," must be replaced with ";". This is because the scripts are comma-delimited CSVs. They will render as "," in game.
 - Don't use "…". Use "..."!
 ### Japanese SFX
-Japanese words often have lots of sfx. The Japanese language is great with sfx but not so much for English! So you'll want to substitute with an adjective fulled English description instead if nesscisary.
+Japanese words often have lots of sfx. The Japanese language is great with sfx but not so much for English! So you'll want to substitute with an adjective English description instead if necessary. If sfx is used, be sure to wrap them in "*". EG: "*Suck, slurp*"
 
 DO:
 > "ほら、さわさわ❤さわさわ・・・❤" -\> "See how I'm gently brushing my fingers over your nipples?\~❤"
 
 DON'T: 
 > "ほら、さわさわ❤さわさわ・・・❤" -\> "Look; brush~❤ brush...❤"
-### Japanese laughter
+### Japanese laughter/Other Terms
 Retain any laughter as follows while preserving the nuanced Japanese:
 > You can add an "!" or "~" after it if it feels appropriate!
 - うふふ -> Ufufu
 - くすくす -> "\*Giggle\*", "Hehe", "Teehee", "Kuhuhu", or "\*snicker\*"
 - あは -> Aha
 - あはは -> Ahaha
+- エナジー -> Mana
 
 ## Card terminology
 - The elements a card can be (EG: Water, Fire Dark etc) is called "Attribute"
