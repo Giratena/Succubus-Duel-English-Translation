@@ -32,124 +32,124 @@ OPイベントをスキップしますか？,Would you like to skip the opening 
 闘技場の勝利報酬を得た！,
 ###I haven't read the story that carefully, so the Elulu part might need a do-over when the story parts before it have been done.
 やっほー、{主人公} 。元気にしてた？,Yah-hoo; {主人公}. How have you been?
-エルルさんが僕に話しかけてきた。彼女も試合の申し込みに来ていたらしい。,Elulu came up to me at the arena. It seems like she's here for a match too.
-サキュバスが復活してしまうことについて、エイライラさんに話を通し、原因を探ってくれたのはエルルさんだった。あのあときちんと話もできていなかったし心配をかけていたかもしれない。,She was the one who introduced me to Eilaila and helped me find the cause for the succubus revival. I haven't had a chance to talk to her after that; so she must have been worried about me.
+エルルさんが僕に話しかけてきた。彼女も試合の申し込みに来ていたらしい。,Elulu approached me at the arena. It seemed like she's here for a match too.
+サキュバスが復活してしまうことについて、エイライラさんに話を通し、原因を探ってくれたのはエルルさんだった。あのあときちんと話もできていなかったし心配をかけていたかもしれない。,Thinking back on it; she was the one who introduced me to Eilaila and helped me find the cause for the succubus revival. We haven't had a chance to talk to her after that; so she must have been worried about me.
 僕はこれまでのできごとや新たに分かったことを彼女に話した。,I filled her in about what I've been up to and the information I've found.
-え、半魔族化した魔力を逆に利用して、サキュバスを治療・・・？\n魔族化しているならサキュバスの呪いに触れられる・・・？,Eh? It might be possible to cure succubi by reversing the flow of the succubus mana...? Succubus transformation happens because of the succubus' curse...?
-・・・。聞いたこともない仮説ね。でもありえない話でもなさそう。\nサキュバス化の治療はまだ誰も成し遂げていない偉業だし、\nもし実用化できれば、勲章ものの功績になるんじゃない？,I haven't heard of such hypothesis; but it could be possible. No one has succeeded in curing succubus transformation yet; so it would be a huge achievement if it was found possible.
-ふふ、それにしてもずいぶん明るい表情に戻ったわね。\nあなた、出会ったときからどこか思いつめた顔をしてたし。\n他人事とはいえ、なんだかとてもほっとしちゃった。,Ehehe. Anyhow; your face is looking much brighter than before. You've had this look like something heavy is burdening you ever since we met. Even though it's not my business; I feel relieved.
-妹さんを助けられるかもしれない希望が見えて、本当によかったわね。,I'm glad you've found a possible way to cure your little sister.
+え、半魔族化した魔力を逆に利用して、サキュバスを治療・・・？\n魔族化しているならサキュバスの呪いに触れられる・・・？,Eh? There's a chance to cure succubi by reversing the flow of the succubus mana...? Succubus transformation happens because of the succubus' curse...?
+・・・。聞いたこともない仮説ね。でもありえない話でもなさそう。\nサキュバス化の治療はまだ誰も成し遂げていない偉業だし、\nもし実用化できれば、勲章ものの功績になるんじゃない？,I haven't heard of such method; but it could be possible. No one has succeeded in curing succubus transformation; so it would be a huge achievement if it was found to be possible.
+ふふ、それにしてもずいぶん明るい表情に戻ったわね。\nあなた、出会ったときからどこか思いつめた顔をしてたし。\n他人事とはいえ、なんだかとてもほっとしちゃった。,Ehehe. Anyhow; your complexion looks much brighter to before. You've had this look as if you have a heavy burden on your shoulders ever since I met you. I know it's none of my business; but I feel happy for you.
+妹さんを助けられるかもしれない希望が見えて、本当によかったわね。,I'm glad there's a chance to cure your little sister.
 ・・・♪,...♪
-それに聞いたわよ。さっそくBランクで1勝を上げたそうね。\n今日の試合も、たぶん楽勝でしょうし、\nこれはほんとにAランク昇格が見えてきたかも・・・。,Oh; and I've heard the news. You've already secured your first win as B-rank. Your today's match should be a easy win too; so it might not take long before you make it to A-rank...
+それに聞いたわよ。さっそくBランクで1勝を上げたそうね。\n今日の試合も、たぶん楽勝でしょうし、\nこれはほんとにAランク昇格が見えてきたかも・・・。,Oh; and I've heard the news. You've already secured your first win as a B-rank. Today's match should rack easy win for you too; so it might not take long before you make it to A-rank...
 ・・・？,...?
 楽勝？,Easy win?
-ああ、今日のあなたの試合相手なんだけど、\nどうやらリュカ商会のお嬢様らしいのよ。,Yes; apparently; your opponent today is the young lady of the Lucas Trading Company.
-彼女は上級召喚もできないぐらいの魔力しかなくて、\n実力もDランクぐらいなんだけど、\nギルドの大スポンサーだからって名誉Bランクをもらってるの。,Her mana capacity isn't large enough to use advanced summons and her cardmaster skills are on par of D-rank. She has been only given the rank of honorable B-rank because she's a big sponsor to the guild.
-名誉Bランクってのは、\n寄付金とか研究とか、\nバトル以外の功績で認められたときにもらえる特別なランクね。,Honorable B-rank is a special rank; which can be earned through merits outside of battles; like donations and research.
-名誉Bランクでも普通のBランクと同じように闘技場へ\n挑戦できるんだけど、出場しても負けて恥をかくだけでしょ？\n普通は試合に出たりしないの。,They can participate in arena matches just like the regular B-ranks; but normally they don't do that because they would only lose and embarrass themselves.
-でも、今日はなぜかその名誉Bランクのお嬢様が\n「無敗のルーキー」への挑戦を望んでいるらしいのよ。\nあちこちで噂になってるわ。,But it seems that this honorable B-rank young lady specifically request a match against the "undefeated rookie;" or that's what the rumors say.
-ま、あなたからすれば、\n弱い相手が出てくれてラッキーってところよね。,Well; when looked at your point of view; you're lucky to be matched against such a weak opponent.
-わたしとしても、お金でBランクになったような人に\n大きな顔してほしくないし、\nあなたには相手をこてんぱんに負かしてほしいわ。,I don't like people who bought their way into B-rank acting like big shots; so you have my permission to rough her up.
-わたしの試合はあなたより後だし、楽しみに観戦してるわね。\nそれじゃ、バイバイ♪,My match is after yours; so I'll be watching from the audience. Well then; bye bye♪
-エルルさんが話していた噂が本当なら、今日はだいぶ楽ができるかもしれない。,If what Elulu said is true; my match today should be easy.
-とはいえ試合は試合だ。油断せずに気を引き締めて行こう。,Nevertheless; a match is a match; so I shouldn't let my guard down.
-控室で試合の準備をしていると、誰かがドアをノックしてきた。,While I was preparing for the match in the waiting room; I heard someone knock on the door.
+ああ、今日のあなたの試合相手なんだけど、\nどうやらリュカ商会のお嬢様らしいのよ。,Yes; your today's opponent is the young lady of the Lucas Trading Company.
+彼女は上級召喚もできないぐらいの魔力しかなくて、\n実力もDランクぐらいなんだけど、\nギルドの大スポンサーだからって名誉Bランクをもらってるの。,She lacks the mana capacity to use advanced summons and her cardmaster skills are on par of D-rank. She has been given the title of honourable B-rank only because she's a big sponsor to the guild.
+名誉Bランクってのは、\n寄付金とか研究とか、\nバトル以外の功績で認められたときにもらえる特別なランクね。,Honourable B-rank is a special rank that is given for merits outside of battles; like donations and research.
+名誉Bランクでも普通のBランクと同じように闘技場へ\n挑戦できるんだけど、出場しても負けて恥をかくだけでしょ？\n普通は試合に出たりしないの。,People with that can register for arena matches just like the regular B-ranks; but normally they don't do that because they would only lose and embarrass themselves.
+でも、今日はなぜかその名誉Bランクのお嬢様が\n「無敗のルーキー」への挑戦を望んでいるらしいのよ。\nあちこちで噂になってるわ。,But it seems that this young lady with the honourable B-rank specifically requested to be matched against the "undefeated rookie;" or that's what the rumors say.
+ま、あなたからすれば、\n弱い相手が出てくれてラッキーってところよね。,Well; from your point of view; it's lucky that you get matched against such a weak opponent.
+わたしとしても、お金でBランクになったような人に\n大きな顔してほしくないし、\nあなたには相手をこてんぱんに負かしてほしいわ。,I don't like people buying their way into B-rank and acting like big shots because of it; so you have my permission to rough her up.
+わたしの試合はあなたより後だし、楽しみに観戦してるわね。\nそれじゃ、バイバイ♪,My duel is after yours; so I'll be watching your match. Bye bye♪
+エルルさんが話していた噂が本当なら、今日はだいぶ楽ができるかもしれない。,If what Elulu said is true; then my today's match should be easy.
+とはいえ試合は試合だ。油断せずに気を引き締めて行こう。,Nevertheless; a match is a match. I shouldn't let my guard down because my opponent is weak.
+控室で試合の準備をしていると、誰かがドアをノックしてきた。,While I was preparing for my match in the waiting room; someone knocked on the door.
 失礼します。わたくし、今日のあなた様の対戦相手、\nリュカ・シャルロットのメイドでございます。,Excuse me; Mr. {主人公}; I'm a maid serving Mistress Charlotte Lucas; who happens to be your today's opponent.
-お嬢様があなた様に試合前のご挨拶をなさりたいとのことで、\n申し訳ございませんが、\nドアを開けていただけませんでしょうか。,The mistress would like to exchange greetings with you before the match. Could you let us inside?
+お嬢様があなた様に試合前のご挨拶をなさりたいとのことで、\n申し訳ございませんが、\nドアを開けていただけませんでしょうか。,The mistress would like to exchange a few greetings with you before the match. Could you let us inside?
 ・・・・。,...
-対戦相手が挨拶に来た、というのであれば、ドアを開けないのは失礼にあたるだろう。,It would be rude of me not to open the door when my opponent is here to give her greetings.
+対戦相手が挨拶に来た、というのであれば、ドアを開けないのは失礼にあたるだろう。,It would be rude of me not to let them in if they're here to greet me.
 僕は控室のドアを開けて、彼女を迎え入れた。,I opened the door and let them inside.
-入るわね。\nふーん、ここが一般選手の控室。\nやっぱりVIPの部屋とは違うのね。,Coming in! Hmm? So this is what the commoner waiting room looks like. It's completely different from the ones for VIPs.
-あら、ベッドがついているの。\n一般人は自分の部屋じゃなくてここで寝たりするのかしら？\n変なの♪,Oh? There's even a bed. Do you actually sleep here instead of your own room? You commoners are so weird♪
+入るわね。\nふーん、ここが一般選手の控室。\nやっぱりVIPの部屋とは違うのね。,Coming in! Hmm? So this is what the waiting rooms for the commoners look like. It's completely different from the VIP ones.
+あら、ベッドがついているの。\n一般人は自分の部屋じゃなくてここで寝たりするのかしら？\n変なの♪,Oh? There's even a bed. Do you actually sleep here instead of your own rooms? You commoners are so weird♪
 メイドを伴った一人の少女、おそらく今日の対戦相手であろう彼女は、ずかずかと部屋の中に入ってくると、控室のベッドにどかっと腰を下ろした。,A girl; who I assumed to be my opponent; rudely made her into the room and sat down on the bed.
-挨拶をしに来たというには、横柄な態度だ。僕はいぶかしげに彼女の様子を見ていると、お付きのメイドも部屋に入り、僕に話しかけてきた。,She acted awfully arrogant for having come to greet me. While I was watching her with caution; the maid accompanying her also made her way in to speak with me.
+挨拶をしに来たというには、横柄な態度だ。僕はいぶかしげに彼女の様子を見ていると、お付きのメイドも部屋に入り、僕に話しかけてきた。,She was acting awfully arrogant for having to come greet me. While I watched her with caution; her accompanying maid also made her way into the room to speak with me.
 どうもはじめまして。{主人公}様。\nこのたびはお嬢様との試合、\nよろしくお願いいたします。,Nice to meet you; Mr. {主人公}. I wish you a good match with the mistress today.
 わたくしどもリュカ商会は国内随一の大商会。\nカードパックなども商っておりますので、「リュカ」の名を\n{主人公}様もお聞きになったことがあるのではないでしょうか。,We belong to the Lucas Trading Company; one of the the leading trading companies in the country. We deal in card packs among other things; so it's likely you've heard of us before.
 これはお嬢様からのお近づきのしるしです。\nどうぞお開けになってください。,This is a token of acquittance from the mistress. You may open it.
-そういうとメイドは僕にカードパックを差し出した。表面にハートマークがあしらわれた、白色の見たことがないパックだ。,With those words; the maid handed me a card pack. It had a pure white wrapper and a red heart mark decorating the front. I hadn't seen a pack like this before.
+そういうとメイドは僕にカードパックを差し出した。表面にハートマークがあしらわれた、白色の見たことがないパックだ。,With those words; the maid handed me a card pack. It had a pure white wrapper with only a red heart mark decorating the front. I hadn't seen a pack like this before.
 パックを開けてみると聞いたこともないようなカードが中に入っていた。「性癖浸食」に「おっぱいマゾ」・・・！？なんだこのカードたちは。,Opening it; I found really strange cards... "Fetish Corruption"... "Boob Masochist"... What the heck are these?!
-ふーん、男が開けるとそういう感じのカードになるんだ。\n・・・。にしても、「貢ぐ」とか「おっぱいマゾ」とか、\nヘンタイ丸出しって感じで、きもちわるーい❤,Hmm? So this is what comes out of the pack when a man opens it... There's stuff like Tribute and Boob Masochist... Aren't they all completely perverted? How gross.❤
-いつの間にかそばに来ていたシャルロットが、後ろから僕のカードを覗き込み、ケタケタと小馬鹿にしたように笑っている。,I suddenly found Charlotte behind me; taking a peek at my cards and giggling.
-ふふ、そのカードパック、変わってるでしょ？\nちなみに女が開けると、サキュバスのカードが出てくるのよ。,Ahaha. It was a strange card pack; wasn't it? By the way; when a girl opens one; they get succubus cards.
-1年ぐらい前からかな、\nたまーにサキュバスのカードが流通しているのを見かけるようになって\nそれで四方手を尽くして調査したら、そのパックが見つかったの。,It's been around a year now since succubus cards could be rarely found circulating the market. When we extensively tracked tracked for their source; we came across those card packs.
-サキュバスのカードって強いカードが多いし、\nうちの商会で独占販売すれば、爆益間違いなし♪\nねえ、あなたもそう思わない？,Most succubus cards are really strong; so our company could rack in massive probits if we could monopolize their sales. Don't you think the same?
-ただね。一部のカードマスターはこだわりが強いみたいで、\nサキュバスのカードを使いたがらないのよね。\nムサシとかシルヴィアとか実力派で人気がある選手ほどそう。,However; some cardmasters are really picky their cards and refuse to use succubi. Many strong and popular ones like Musashi; Silvia are really adamant about that.
-それじゃうちとしては困るわけ。\nだから今日は商品の宣伝のためにあなたに勝負を挑むことにしたの❤,But that's bad for our business... Which is why I challenged you to a match as a way to exhibit our goods.❤
-無敗のルーキーが、\nサキュバスカードを大量に使用した名誉Bランクに敗北❤\nそれも手も足も出ずに、ぼろ負け❤とってもいい宣伝になるわ。,"The undefeated rookie was completely helpless against a honorable B-Rank cardmaster who used a bunch of succubus cards.❤" Those kinds of headlines would make great advertisement.
-そこまで言うと、お嬢様は僕を後ろから突き飛ばし、メイドに目配せをした。メイドは突き飛ばされた僕を受け止め、そのまま僕を上から押さえつけて、ベッドに押し倒してくる。,Charlotte briefly exchanged a glance with her maid as she said that; and then she pushed me from behind. I was about to crash into her maid; but she skilfully caught me and pushed me down onto the bed.
-いきなりの行動に面食らった僕は仰向けにベッドに寝かされてしまう。もがいて抵抗するが、このメイド、力が強い！簡単には振り払えず、上に覆いかぶさられてしまった！,I was confused by the sudden development of ending up on the bed with the maid on top of me. I tried to push her off but she turned out to be surprisingly strong; so I could barely move her.
-無駄な抵抗はおやめください。\n大丈夫、そこまでひどいことはしませんわ。\nむしろ・・・。,Mr. {主人公}; please don't resist. It's alright. I won't do anything bad. Rather...
-甘い快楽を少々与えてさしあげるだけです❤\nさっきからわたしとお嬢様の胸、気になっていたでしょう？\nほら、抵抗せずに身を任せてください・・・。,I will only sweetly pleasure you with my body for a moment.❤ You've been taking glances at the mistress' and my breasts; haven't you? There's no need resist it. Please simply relax...
-メイドは僕の両手を押さえつけながら、胴体を密着させて、胸をむぎゅりむぎゅりと擦り付けてきた。,The maid held down my hands and pressed down her body against mine while rubbing her breasts on my chest.
-体を上下に細かくゆすり、甘い感触を何度も体に撫でつけてくる。弾力があるのに蕩けるようにやわらかい。こんな状況だというのに、あまりの気持ちよさに思わず力が抜けてしまう。,I was overcome with sweet pleasure as she gently moved her body up and down on me. Her breasts were both flexible and mind-meltingly soft; so I couldn't help my body relaxing at their sensation despite now not being the time or place for this.
-そのうえさっきまでお嬢様が座っていた場所だからか、ベッドからも甘い匂いがして・・・。ああ、ダメだ、何も考えられなくなりそうだ。,And to top it off; the spot I was lying on smelled terribly sweet scent; most likely because it had been the place where Charlotte had sat on... Aah... I can't... I'm losing my ability to think...
-ふと横に目をやると、お嬢様が僕のデッキに手を伸ばして、何かいじろうとしている。早く振り払ってやめさせないと。僕は・・・。,When I happened to look behind the maid; I saw Charlotte doing something suspicious with my deck. I needed to quickly take it back; so I...
+ふーん、男が開けるとそういう感じのカードになるんだ。\n・・・。にしても、「貢ぐ」とか「おっぱいマゾ」とか、\nヘンタイ丸出しって感じで、きもちわるーい❤,Hmm? So this is what comes out of the packs when a man opens them... Tribute... Boob Masochist... Aren't all the cards completely perverted? How gross.❤
+いつの間にかそばに来ていたシャルロットが、後ろから僕のカードを覗き込み、ケタケタと小馬鹿にしたように笑っている。,Charlotte was suddenly behind me; peeking at the cards and giggling.
+ふふ、そのカードパック、変わってるでしょ？\nちなみに女が開けると、サキュバスのカードが出てくるのよ。,Ahaha. It was a pretty strange card pack; right? By the way; when girls open them; they get succubus cards.
+1年ぐらい前からかな、\nたまーにサキュバスのカードが流通しているのを見かけるようになって\nそれで四方手を尽くして調査したら、そのパックが見つかったの。,It's been around a year since we started finding succubus cards circulating the market every now and then. And after extensive search for their source; we came across those card packs.
+サキュバスのカードって強いカードが多いし、\nうちの商会で独占販売すれば、爆益間違いなし♪\nねえ、あなたもそう思わない？,Most succubus cards are really strong; so if our company could monopolize their sales; we could make massive profits. Don't you agree?
+ただね。一部のカードマスターはこだわりが強いみたいで、\nサキュバスのカードを使いたがらないのよね。\nムサシとかシルヴィアとか実力派で人気がある選手ほどそう。,However; some cardmasters are really picky about the cards they put in their decks and refuse to use succubi. Most strong and popular ones like Musashi; Silvia are really adamant about that.
+それじゃうちとしては困るわけ。\nだから今日は商品の宣伝のためにあなたに勝負を挑むことにしたの❤,But that's bad for our business... Which is why I requested a match with you as a way to exhibit our goods.❤
+無敗のルーキーが、\nサキュバスカードを大量に使用した名誉Bランクに敗北❤\nそれも手も足も出ずに、ぼろ負け❤とってもいい宣伝になるわ。,"The undefeated rookie was left completely helpless the succubus cards of a honourable B-rank cardmaster.❤" Those kinds of headlines would make great advertisement.
+そこまで言うと、お嬢様は僕を後ろから突き飛ばし、メイドに目配せをした。メイドは突き飛ばされた僕を受け止め、そのまま僕を上から押さえつけて、ベッドに押し倒してくる。,Charlotte exchanged a glance with her maid as she said that; and then she pushed me from behind. I was about to crash into her maid; but she skillfully caught me and pushed me down onto the bed.
+いきなりの行動に面食らった僕は仰向けにベッドに寝かされてしまう。もがいて抵抗するが、このメイド、力が強い！簡単には振り払えず、上に覆いかぶさられてしまった！,With the maid suddenly on top of me on the bed; I was left confused. I tried to push her off but she turned out to be surprisingly strong. I could barely move her.
+無駄な抵抗はおやめください。\n大丈夫、そこまでひどいことはしませんわ。\nむしろ・・・。,Mr. {主人公}; it's alright. There's no need to  resist. I won't do anything bad. Rather...
+甘い快楽を少々与えてさしあげるだけです❤\nさっきからわたしとお嬢様の胸、気になっていたでしょう？\nほら、抵抗せずに身を任せてください・・・。,I'll only sweetly pleasure you with my body for a moment.❤ You've been taking glances at the mistress' and my breasts; haven't you? You may simply relax and enjoy.
+メイドは僕の両手を押さえつけながら、胴体を密着させて、胸をむぎゅりむぎゅりと擦り付けてきた。,The maid pinned down my hands and pressed down her body against mine; rubbing her breasts on my chest.
+体を上下に細かくゆすり、甘い感触を何度も体に撫でつけてくる。弾力があるのに蕩けるようにやわらかい。こんな状況だというのに、あまりの気持ちよさに思わず力が抜けてしまう。,I was overcome with sweet pleasure as she gently moved her body up and down against me. Her breasts were so springy and soft that I couldn't help relaxing; even when this was not the time or place for it.
+そのうえさっきまでお嬢様が座っていた場所だからか、ベッドからも甘い匂いがして・・・。ああ、ダメだ、何も考えられなくなりそうだ。,And to top it off; the spot I lied in smelled terribly sweet scent; most likely because it was the place where Charlotte had sat on... Aah... I can't... I'm losing my ability to think...
+ふと横に目をやると、お嬢様が僕のデッキに手を伸ばして、何かいじろうとしている。早く振り払ってやめさせないと。僕は・・・。,While feeling bliss; I happened to look behind the maid and saw Charlotte doing something with my deck. I needed to quickly take it back; so I...
 全力で振り払い、自分のデッキに手を伸ばした,I pushed off the maid and took back my deck
 メイドを振り払うことができなかった,I failed to escape from the maid
 くっ、まだ抵抗しますか。,Ugh... Do you still continue to resist?
-メイドに再度拘束される前に、僕は自分のデッキに素早く手を伸ばし、お嬢様からデッキを取り戻した。,Before the maid could catch me again; I quickly took my deck from Charlotte.
-そしてそのまま素早くカードをかまえた。単純な力でなら押さえつけられるかもしれないが、カードがあれば負けることはない！,And then; I held up my cards. They might be able to overpower me in terms of raw strength; but I won't lose as long as I have my cards!
-Bランク相手に正面からやり合うのは分が悪いですね。\nそれに騒ぎになってしまいます。,Facing a B-Rank cardmaster head-on would be disadvantageous for us. It seems we've also caused a bit of an uproar as well.
-まあいいわ。\nあなたのデッキに細工するのはうまくいかなかったけれど、\nそれはあくまで安全策。,Fine; we'll leave you alone with this. I couldn't tamper with your deck; but that was only a safety measure.
-あなたのことはちゃんと試合で倒してあげる。\nわたしのサキュバスカードデッキを使ってね❤,I'll properly defeat you in our match with my succubus card deck.❤
+メイドに再度拘束される前に、僕は自分のデッキに素早く手を伸ばし、お嬢様からデッキを取り戻した。,Before the maid could catch me again; I quickly grabbed my deck from Charlotte.
+そしてそのまま素早くカードをかまえた。単純な力でなら押さえつけられるかもしれないが、カードがあれば負けることはない！,And then; I held up my cards. They might be able to overpower me in terms of raw strength; but I won't lose as long as I can use my cards!
+Bランク相手に正面からやり合うのは分が悪いですね。\nそれに騒ぎになってしまいます。,Facing a B-Rank cardmaster head-on would put us at an disadvantage. We seem to have caused a minor uproar as well.
+まあいいわ。\nあなたのデッキに細工するのはうまくいかなかったけれど、\nそれはあくまで安全策。,Fine; that's enough for now. I couldn't mess with your deck; but that was only a safety measure.
+あなたのことはちゃんと試合で倒してあげる。\nわたしのサキュバスカードデッキを使ってね❤,I'll defeat you prim and proper in our match with my succubus deck.❤
 それじゃ、楽しみにしてるわ。無敗のルーキーさん❤\nくすくす❤,Look forward to it; Undefeated Rookie.❤ Ahaha.❤
-お嬢様は僕の股間を一瞥すると、くすくす笑いながら部屋を立ち去った。さっきメイドに押し倒された影響で、勃起してしまっていたらしい。,After taking a look at my groin; Charlotte left the room while giggling. It was only then when I realized had an erection because of her had maid laid on top of me.
-メイドも彼女のあとに付き従ったが、部屋から出る直前に僕の方に振り向くと・・・。,The maid followed after Charlotte; but when she was at the door; she turned around and...
-残念でしたわ。\n気持ちいいこと、いっぱいしてさしあげたかったのに・・・。\nまたいずれ会いましょう？ちゅっ❤,It was regrettable that I couldn't pleasure you... I hope we can meet again under better circumstances. Smooch❤
-そう言って、僕に向かって投げキスをしてから扉を閉めて立ち去ったのだった。,The maid blew a kiss at me along those words before leaving and closing the door behind her.
-(こうやって言っておけば、\n少しは欲情を掻き立てられるでしょう。投げキス程度で\nどれほど効果があるかは分かりませんが。ふふ・・・❤),(That should induce at least slight arousal in him. However; I'm not sure how effective blown kisses are on him. Ehehe...❤)
-うう、とんだ邪魔が入ってしまった。試合開始時間はもうすぐだ。念のためデッキに細工されていないか確認してから急いで向かわないと。,I could have never expected that kind of storm. There was only a little bit of time left before the match; so I made sure to check nothing was wrong with my deck before leaving the waiting room.
+お嬢様は僕の股間を一瞥すると、くすくす笑いながら部屋を立ち去った。さっきメイドに押し倒された影響で、勃起してしまっていたらしい。,After taking a look at my groin and giggling; Charlotte left the room with those words. It was only then when I realized that I was having an erection because of her maid having laid on top of me.
+メイドも彼女のあとに付き従ったが、部屋から出る直前に僕の方に振り向くと・・・。,The maid followed after her mistress; but as she reached the door; she turned around and...
+残念でしたわ。\n気持ちいいこと、いっぱいしてさしあげたかったのに・・・。\nまたいずれ会いましょう？ちゅっ❤,Mr. {主人公}; it was regrettable that I couldn't pleasure you... I hope we can meet again under better circumstances. Smooch❤
+そう言って、僕に向かって投げキスをしてから扉を閉めて立ち去ったのだった。,With those words; the maid blew a kiss at me before closing the door behind her.
+(こうやって言っておけば、\n少しは欲情を掻き立てられるでしょう。投げキス程度で\nどれほど効果があるかは分かりませんが。ふふ・・・❤),(That should induce at least slight arousal in him. Although; I'm not sure how effective blown kisses are on him. Ehehe...❤)
+うう、とんだ邪魔が入ってしまった。試合開始時間はもうすぐだ。念のためデッキに細工されていないか確認してから急いで向かわないと。,Uuh... I would have never expected such a storm before my match. There was only a little bit of time left before its start; so I made sure to check nothing was wrong with my deck before leaving the waiting room.
 （ううっ、だめだ・・・。力が入らない・・・❤）,(Uuuh... It's no use... I can't muster my strength...❤)
-何度もこすりつけられるメイドの爆乳を前に、僕は腕に込めていた力を抜いてしまった。メイドは抵抗が弱まったのを感じたからか、僕の顔を見てにやっと微笑む。,With the maid rubbing her massive breasts on me; all the strength escaped from my arms. She must have noticed my resistance getting weaker as she started looking at my face with a smile.
+何度もこすりつけられるメイドの爆乳を前に、僕は腕に込めていた力を抜いてしまった。メイドは抵抗が弱まったのを感じたからか、僕の顔を見てにやっと微笑む。,With the maid rubbing her massive breasts on me; I lost all the strength in arms. She must have noticed how my resistance was weakening as she watched my face with a smile.
 ふふ・・・❤それでいいんですよ、{主人公}様❤,Ehehe...❤ Yes; please stay still just like that; Mr. {主人公}.❤
-では、このまま胸を下の方におろしていきますね❤\nお腹に当たっている、このかたぁいものを、\nわたしの胸でほぐしてさしあげます❤,Now; I'll slowly move my breasts lower.❤ I'll use them to knead the hard thing that's poking against my stomach.❤
+では、このまま胸を下の方におろしていきますね❤\nお腹に当たっている、このかたぁいものを、\nわたしの胸でほぐしてさしあげます❤,I'll slowly start moving my breasts down from your chest.❤ I'll use them to knead the hard thing poking against my stomach.❤
 あっ、ああっ・・・❤,Ah... Aaah...❤
-体の上をおっぱいがゆっくりと滑っていく。むにゅりとした感触がみぞおち、へそと撫でていくにつれて、ぞわぞわとした快感が体に走る。そして・・・。,The maid began slowly moving her breasts toward my lower body. Tingles of pleasure surged through me as their soft sensation slid down my stomach; finally arriving at...
-ぱっふん❤おチンポ、捕まえちゃいました❤,There we go.❤ I've got your penis between my breasts.❤
+体の上をおっぱいがゆっくりと滑っていく。むにゅりとした感触がみぞおち、へそと撫でていくにつれて、ぞわぞわとした快感が体に走る。そして・・・。,The maid began slowly moving her breasts from my chest to my lower body. I felt tingles of pleasure as their softness moved across my stomach before finally arriving at...
+ぱっふん❤おチンポ、捕まえちゃいました❤,There we go.❤ I have your penis between my breasts now.❤
 ほら、動かしてさしあげますね❤,And next; I'll start moving.❤
 あひぃっ、あっ、あううぅ・・・❤,Aah... Ah... Aaaah...❤
-気持ちいいでしょう？\nわたくし、体術とご奉仕には自信がありますの❤,This feels good; doesn't it? I take pride in my service techniques.❤
-硬派な殿方であっても、\n商会の利益のために、その固い考え方をほぐすのが、\nメイドたるものの役目❤,You see; it's part of my duties as a maid to soften the thoughts of hard-headed gentlemen for the profits of our company.❤
-誠心誠意ご奉仕ししてさしあげれば、\nどんな交渉にも不可能はありませんわ。あなたもこの快感を受ければ\n何でもうんと言ってくださるのではないですか？無敗のルーキー様❤,Once I've wholeheartedly serviced our business partner; there isn't any kind of negotiation that can't be won. I'm sure you; too; will come to agree to anything when you've experienced this pleasure; Mr. Undefeated Rookie.❤
+気持ちいいでしょう？\nわたくし、体術とご奉仕には自信がありますの❤,It feels good when I do this; doesn't it? I take pride in my skills in the art of service.❤
+硬派な殿方であっても、\n商会の利益のために、その固い考え方をほぐすのが、\nメイドたるものの役目❤,You see; my duties as a maid include softening the minds of hard-headed gentlemen for the profits of our company.❤
+誠心誠意ご奉仕ししてさしあげれば、\nどんな交渉にも不可能はありませんわ。あなたもこの快感を受ければ\n何でもうんと言ってくださるのではないですか？無敗のルーキー様❤,Once I've wholeheartedly service our business partners; there's no negotiation that can't be won. I'm sure you; too; will come to agree to anything I say once you've experienced the pleasure I have to offer; Mr. Undefeated Rookie.❤
 うっ、そ、そんなことはっ、僕はむりやり・・・❤,Uuh... No... I won't falter...❤
-くすくす❤そうですか❤\nお嫌でしたらいつでもどきますので、お申し付けください❤\nまあ、そうはいっても・・・❤,Ehehe.❤ Is that so?❤ If you don't like what I'm doing; you may ask me to stop at any time. Although...❤
-わたくしの胸の間でガチガチになっているこれは、\n大変わたくしのご奉仕を喜んでいるようですけれど…❤\nほら、擦るたびに、こんなに震えて喜んでる❤,Your penis seems to be in love with my breast service.❤ Just look; it's happily twitching every time I move up and down.❤
+くすくす❤そうですか❤\nお嫌でしたらいつでもどきますので、お申し付けください❤\nまあ、そうはいっても・・・❤,Ehehe.❤ Is that so?❤ If you dislike what I'm doing; you may ask me to stop at any time. Although...❤
+わたくしの胸の間でガチガチになっているこれは、\n大変わたくしのご奉仕を喜んでいるようですけれど…❤\nほら、擦るたびに、こんなに震えて喜んでる❤,It seems your penis is in love with my breast service.❤ Just look how it's happily twitching every time I move my breasts up and down.❤
 うっ、ううっ・・・❤,Uuuh...❤
-さてと、そっちは順調そうね。\nわたしの方の仕込みは終わったから、\nあとは任せたわ。,Alright; everything seems to be going along nicely on your end. I'm done; so take care of the rest.
+さてと、そっちは順調そうね。\nわたしの方の仕込みは終わったから、\nあとは任せたわ。,Alright; I'm done. Everything seems to be going nicely on your end too; so I'll leave the rest to you.
 試合が始まる寸前までもてなしてあげなさい。\nそうすればデッキをいじる時間もないでしょう。,Make sure to service him until the start of the match. That way; he won't have any time to make changes to his deck.
 かしこまりました。お嬢様。\nでは、このまま胸でのご奉仕を続けます❤,As you wish; Mistress. I will continue to service him with my breasts.❤
-ほら、{主人公}様❤両側から優しくおチンポに押し付けながら、\n上下にずりずり❤ずりずり❤\n気持ちいいパイズリですよ❤,Now then; Mr. {主人公}.❤ I will gently press my breasts together and move them up and down on your penis in an amazing boobjob❤
-あらあら、わたくしとお嬢様が話している間に、\nこんなにおチンポぱんぱんになって、\n今にもイキそうですわね❤でも申し訳ございませんが・・・。,Oh my! Your penis swelled up so much while I was speaking with the mistress. It is about to blow any moment now.❤ However; I regret to inform you that...
+ほら、{主人公}様❤両側から優しくおチンポに押し付けながら、\n上下にずりずり❤ずりずり❤\n気持ちいいパイズリですよ❤,Now then; Mr. {主人公}.❤ I will gently squish your penis between my breasts and move them up and down in an amazing boobjob❤
+あらあら、わたくしとお嬢様が話している間に、\nこんなにおチンポぱんぱんになって、\n今にもイキそうですわね❤でも申し訳ございませんが・・・。,Oh my! I didn't even notice how much your penis swelled up while I spoke with the mistress. It looks as if it's about to blow any moment now.❤ However; I regret to inform you that...
 あっ、なんで、止めっ・・・❤,Ah... Why did you stop...❤
-わたくしはお嬢様の試合前のただの前座ですから❤\nあなた様を焦らして時間を奪うのがわたくしの仕事です。\nぴゅっぴゅっまでは仕事に入っておりません❤,This is only warm-up before your match with the mistress.❤ My work is tease you and take away your time. Making you ejaculate isn't included in that.❤  
-ほら、また動かしますね❤\nおっぱいをおチンポに隙間なく押し付けて、\nずりずり❤たぷたぷ❤,Now then; I'll start moving again.❤ I'll tightly press my breasts on your penis without leaving a single air gap... And stroke it.❤
+わたくしはお嬢様の試合前のただの前座ですから❤\nあなた様を焦らして時間を奪うのがわたくしの仕事です。\nぴゅっぴゅっまでは仕事に入っておりません❤,This is only a warm-up for your match with the mistress.❤ My task is to sexually tease you and take away your time. Ejaculating isn't included in that.❤  
+ほら、また動かしますね❤\nおっぱいをおチンポに隙間なく押し付けて、\nずりずり❤たぷたぷ❤,Now then; I'll start moving again.❤ I'll press my breasts on your penis so tightly that there's not even a single gap of air... And then stroke it.❤
 はひぃ・・・❤,Aaah...❤
-イキそうだけれどイけない状況…。\nこの状況を続けてあげれば男の方は思考力がゼロになって、\n逃げることも何もできないでしょう？,You got close to orgasm but couldn't reach it... When a man is repeatedly brought to that state; he will completely lose his ability to think; and then he won't be able to escape or do anything at all.
-試合まであと15分ほど。\n10回は寸止めできるでしょうか。\nこの反応を見る限り、もっとイケちゃいますか？,There's about 15 minutes until the start of the match. I believe I'll be able to edge you about 10 times in that time... Or based on your reactions; perhaps we can go for even more?
-ほら、こうやって激しくして・・・❤\nずりずりずり❤たぱん、たぱん、たぱん❤,I'll move at an intense pace and smack my breasts on your hips like this...❤
+イキそうだけれどイけない状況…。\nこの状況を続けてあげれば男の方は思考力がゼロになって、\n逃げることも何もできないでしょう？,When men are repeatedly brought to the edge of orgasm but not allowed to reach it... They completely lose their ability to think; and then they can't escape from me; or do anything at all in fact.
+試合まであと15分ほど。\n10回は寸止めできるでしょうか。\nこの反応を見る限り、もっとイケちゃいますか？,There's 15 minutes until the start of your match. I believe I can edge you 10 times in that time... Or based on your reactions; perhaps we can go for even more?
+ほら、こうやって激しくして・・・❤\nずりずりずり❤たぱん、たぱん、たぱん❤,Now; I'll move my breasts at an intense pace and smack them on your hips...❤
 あっ、あっ、ああっ、で、出るっ・・・❤,Ah! Ah! Aah...❤ I'm cumming...❤
 はい、ストップ❤,And; stop.❤
 あっ、あああっ・・・❤❤\nううっ、うっ・・・❤やめないでぇ❤,Ah... Aaah...❤ Uuuh...❤ Don't stop...❤
-くすくす❤おちんちん切ないですか？\nおっぱいの中にいっぱいびゅーって出したいですものね❤,Ehehe.❤ Is your penis aching unbearably badly? You want to blow your load in my breasts; don't you?
-わたくしのような侍女に手玉に取られて、\nおっぱいで何度もイかせかけられて・・・❤\nそれなのに怒ったり振り払うこともできなくて・・・。,A mere attendant is toying with you and repeatedly edging you with her breasts... And yet; you aren't able to push her off. You aren't even getting angry.❤
-射精を寸前で取り上げられたときにする男の子のなさけなぁい顔、\nわたくし大好きなんです❤\n無敗のルーキー様のとろけ顔も、もっともっと見せてください❤,You know; I love the pathetic face boys make when their orgasm is taken away at the last moment.❤ Please show me more of your helpless expression; Mr. Undefeated Rookie.❤
-何度も、何度も、おっぱいゆさゆさしてあげますからね・・・❤\n自分から腰を揺らしてもいいですよ。\nそれも計算に入れたうえで、何度も寸止め❤してあげますから❤,I'll keep moving and squeezing my breasts until the time is up... ❤ But you can also thrust your hips if you want to.❤ I can keep edging you even if you do so.❤
+くすくす❤おちんちん切ないですか？\nおっぱいの中にいっぱいびゅーって出したいですものね❤,Ehehe.❤ Is this leaving your penis aching unbearably badly? It makes you want to blow your load in my breasts; doesn't it?
+わたくしのような侍女に手玉に取られて、\nおっぱいで何度もイかせかけられて・・・❤\nそれなのに怒ったり振り払うこともできなくて・・・。,Even when an attendant like me is toying with your penis and edging it... You aren't able to push me off. You aren't even getting angry over it.❤
+射精を寸前で取り上げられたときにする男の子のなさけなぁい顔、\nわたくし大好きなんです❤\n無敗のルーキー様のとろけ顔も、もっともっと見せてください❤,You know; I love watching the pathetic face boys make when their orgasm is taken away right on the brink of reaching it.❤ So; please continue showing me more of your helpless expressions; Mr. Undefeated Rookie.❤
+何度も、何度も、おっぱいゆさゆさしてあげますからね・・・❤\n自分から腰を揺らしてもいいですよ。\nそれも計算に入れたうえで、何度も寸止め❤してあげますから❤,I'll keep moving and squeezing my breasts on your penis until the start of your match... ❤ However; you can also thrust it between them if you wish to do so.❤ I can keep edging you even if you do so.❤
 あっ、ああっ・・・❤❤\nだめ、イカせてぇ❤,Ah... Aah...❤ No... Please let me cum...❤
 その後、試合開始寸前になるまで僕は延々と寸止めを繰り返された。,After that; the maid continued edging me over and over until I needed to leave for my match.
-試合のはじまる２分前、僕を解放したメイドは、胸の谷間をハンカチでぬぐっている。一滴も精液は出ていないが、我慢汁ですでにベトベトだ。,2 minutes before the start of the match; she released me and started wiping her cleavage with a handkerchief. Although I hadn't ejaculated; her breasts were completely covered in my precum.
-性懲りもなくそんな彼女の谷間に見とれている僕を見てメイドはにこりと微笑んだ。そして耳元でこう言った。,Noticing how I couldn't help but mindlessly stare at her breasts; she gave me a smile and brought her lips to my ear.
-ふふ、この調子なら小細工などせずとも、お嬢様のお胸だけで\n{主人公}様にも勝てたかもしれませんね❤,Ehehe. Mr. {主人公}; given your current state; I'm sure you would lose to the mistress' breasts even without us resorting to such trickery.
-このチョロくてかわいらしいおチンポ、\nたっぷりお嬢様にも可愛がってもらってください❤,Please go out there and have my mistress make a mess of this cute; pushover penis of yours.❤
+試合のはじまる２分前、僕を解放したメイドは、胸の谷間をハンカチでぬぐっている。一滴も精液は出ていないが、我慢汁ですでにベトベトだ。,Once there was only 2 minutes left before its start; I was finally released. She pulled her breasts away from my penis and began wiping her cleavage with a handkerchief. Even though; I hadn't ejaculated; her breasts were completely covered in my precum.
+性懲りもなくそんな彼女の谷間に見とれている僕を見てメイドはにこりと微笑んだ。そして耳元でこう言った。,I couldn't help staring at their charming sight. Noticing my gaze; the maid smiled and brought her lips to my ear.
+ふふ、この調子なら小細工などせずとも、お嬢様のお胸だけで\n{主人公}様にも勝てたかもしれませんね❤,Ehehe. Mr. {主人公}; given the current state you've falling in; I'm sure you would have lost to the mistress' breasts even without us resorting to such trickery.
+このチョロくてかわいらしいおチンポ、\nたっぷりお嬢様にも可愛がってもらってください❤,So; please go out there and have my mistress make a mess of your cute; pushover penis.❤
 それとこれをお飲みください・・・❤,Oh; but before that; please drink this.❤
-そう言って口移しで何か飲ませてくる。繰り返し与えられた快感ですっかり蕩けてしまっていた僕は、何の抵抗もなく、メイドさんに飲まされるがままになってしまう。,After those words; the maid fed me something mouth-to-mouth. My mind was in such a daze after the repeated edgings that I ended up obediently drinking the liquid.
+そう言って口移しで何か飲ませてくる。繰り返し与えられた快感ですっかり蕩けてしまっていた僕は、何の抵抗もなく、メイドさんに飲まされるがままになってしまう。,After those words; the maid fed something to me mouth-to-mouth. The repeated edgings had left my mind in such a daze that I ended up obediently gulping down the liquid.
 んっ、ちゅっ、んふっ・・・❤\nごくごく飲めて、いい子ですね❤,Mmmh... Mwuah...❤ Yes; you drank it all. Good boy.❤
-それは簡易的な回復薬です。\nあまりすぐ射精されてしまっては、お嬢様のカードの宣伝になりませんから。\nただし、回復するだけではありません。副作用として・・・❤,That was a simple recovery medicine. After all; the mistress wouldn't have time to showcase her cards if you ended up ejaculating too quickly. However; it doesn't just heal you. There are also some effects...❤
+それは簡易的な回復薬です。\nあまりすぐ射精されてしまっては、お嬢様のカードの宣伝になりませんから。\nただし、回復するだけではありません。副作用として・・・❤,That was a simple recovery medicine. The mistress wouldn't have a chance to showcase the succubus cards if you ended up ejaculating too quickly; after all. However; in addition to healing you; there are also some effects...❤
 あっ、ううっ❤❤体が熱い・・・❤,Ah... Uuuh...❤ I feel hot...❤
-じんわりと、発情し、そのうえ飲んですぐに見た相手のことを\n好きになってしまいます❤,It will gradually make you feel aroused; and on top of that; you'll fall in love with the first person you see.❤
-ね？わたくしのこと、いままでよりもっとかわいく見えるでしょう？\n効果はあまり持続しませんが、試合まで持てばそれで十分❤,Well? You're finding me much cuter than before; aren't you? The effect doesn't last long; but we just need it to last through the match.❤
-ほら、好きなわたしからのお願いです❤\n善戦して、それからみっともなーく、負けてください❤\nお・ね・が・い❤くすくす❤,Now then; the girl who you love has a request for you.❤ Please put up a good fight at the start; and then miserably lose halfway through.❤ Can you do that for your beloved girl?❤ Ehehe.❤
-目の前のメイドさんがとても可愛く見えて仕方がない。さっきまでしてくれたパイズリの快感も合わせて、僕の脳内に彼女のことがべったりとこびりついてしまう。,The maid suddenly appeared irresistibly cute in my eyes. Combining that with the lingering pleasure of her boobjob; I couldn't help but fall head over heels for her.
-あうう、彼女のためにも、試合で負けないと・・・❤ああっ、何を考えてしまっているのだろう・・・❤,Auuuh...❤ I must lose the match for her...❤ Aah... What am I thinking...❤
+じんわりと、発情し、そのうえ飲んですぐに見た相手のことを\n好きになってしまいます❤,It will also induce arousal; and on top of that; make you fall in love with the first person you see.❤
+ね？わたくしのこと、いままでよりもっとかわいく見えるでしょう？\n効果はあまり持続しませんが、試合まで持てばそれで十分❤,Well? Am I starting to look unbearably cute in yours eyes? The effect isn't long lived; but it will last through your match.❤
+ほら、好きなわたしからのお願いです❤\n善戦して、それからみっともなーく、負けてください❤\nお・ね・が・い❤くすくす❤,Now; the girl who you have fallen for has a request for you.❤ Please put up a good fight with my mistress at the start; but then miserably lose to her halfway through the match.❤ Can you do that for your beloved girl?❤ Ehehe.❤
+目の前のメイドさんがとても可愛く見えて仕方がない。さっきまでしてくれたパイズリの快感も合わせて、僕の脳内に彼女のことがべったりとこびりついてしまう。,The maid started suddenly appearing irresistibly cute to me. I couldn't help falling head over heels for her when that's how she looked to me; combining with the lingering pleasures of the boobjobs she gave me.
+あうう、彼女のためにも、試合で負けないと・・・❤ああっ、何を考えてしまっているのだろう・・・❤,Auuuh...❤ I must lose the match for Miss Maid...❤ Aah... What am I thinking...❤
 さあやってきました。大注目のこの試合！\n無敗のルーキーの入場です！,
 噂になっているのでご存じの方も多いでしょうが、\n今日はいつもと一味違う試合になっております。なんと、\n名誉Bランクが無敗のルーキーに挑戦状を叩きつけてきたのです！,
 お相手はあのリュカ大商会のご令嬢！お金の力で得たＢランクで、\n実戦記録もクエストの成果もほとんどなし！\nそれが何を思ったか、いきなり無敗のルーキーに挑戦です！,
@@ -197,15 +197,15 @@ Bランク相手に正面からやり合うのは分が悪いですね。\nそ�
 わたしのターンね。ドロー♪,
 
 （はぁ、はぁ、このまま行けば勝てるかもしれない・・・。）,(Haah... Haah... I think I can win if I can keep this up...)
-（ううっ、集中しないといけないのに・・・。\nさっきの様子が頭に浮かんできてぇ・・・❤）,(Uuuh... But Charlotte's maid won't leave my mind even when I try to focus on the match...❤)
-頭の中に試合前にささやかれたメイドさんの声がこだましてくる・・・❤,The words the maid whispered to me before the match kept echoing in my head.
-ふと前を見ると観客席にさっきのメイドさんがいた。こちらを見るとにこっとほほえんでくる。そしてゆっくりと口を動かして、僕に向けて口パクで何か話しかけてきた。,While trying to concentrate; I happened to spot the maid in question in the audience. She smiled when our eyes met; and then she began to slowly move her hips; mouthing something to me.
+（ううっ、集中しないといけないのに・・・。\nさっきの様子が頭に浮かんできてぇ・・・❤）,(Uuuh... But Miss Maid won't leave my mind even when I try to focus on the match...❤)
+頭の中に試合前にささやかれたメイドさんの声がこだましてくる・・・❤,The words the maid whispered in my ear before the match still kept echoing in my head.
+ふと前を見ると観客席にさっきのメイドさんがいた。こちらを見るとにこっとほほえんでくる。そしてゆっくりと口を動かして、僕に向けて口パクで何か話しかけてきた。,While trying to concentrate; I happened to spot her in the audience. She smiled when our eyes met; and then she began to slowly move her lips; mouthing something to me.
 （わたしのこと好きになりましたよね❤\nわたしのために、負けてください❤\nお・ね・が・い❤）,(You love me; don't you?❤ Then; please do as I say and lose the match.❤ I'm begging you.❤)
 最後まで言い終わると、僕に向かって投げキスをしてきた。,After finishing the message; the maid blew a kiss at me.
 （あううう、かわいいよぉ・・・❤）,(Auuuh... She's so cute...❤)
 
 ふと前を見ると観客席にさっきのメイドさんがいた。こちらを見るとにこっとほほえんでくる。,While trying to concentrate on the match; I happened to spot Charlotte's maid in the audience. She smiled when our eyes met.
-そしてゆっくりと口を動かし、僕に向けて口パクで何か話しかけてきた。,Then she began to slowly move her hips; mouthing something to me.
+そしてゆっくりと口を動かし、僕に向けて口パクで何か話しかけてきた。,Then; she began to slowly move her lips; mouthing something to me.
 （さっきは気持ちよかったですよね❤\nほら、わたしのハグの感触、お・も・い・だ・し・て❤\nんっちゅ❤）,(The way I embraced you before felt good; didn't it?❤ Please recall the sensation of my sweet hug.❤ Smooch.❤)
 最後まで言い終わると、僕に向かって投げキスをしてきた。僕は・・・。,After finishing the message; the maid blew a kiss at me. To that; I...
 彼女に見とれてしまった,Ended up charmed by the sight.
@@ -538,7 +538,7 @@ Bランク相手に正面からやり合うのは分が悪いですね。\nそ�
 ううっ、あうぅ、メイドさん、好きぃ・・・❤,Uuuh... Aah... Miss Maid... I love you...❤
 完全にうちのメイドにお熱みたいね❤\n実はあの子結構な実力者なのよ。\nカードマスターランクも確かBはあったはず。,Looks like you've become completely crazy for her.❤ Did you know; she's actually quite formidable woman. I think her cardmaster rank was B.
 ま、カードも使わず魔力も飛ばさない誘惑でイったのなら、\nマスターとしての実力は関係ないわね。\nアンタはただあの子の見た目のかわいさに負けたのよ。ぷっ、くすくす❤,But it's not like her strength as a cardmaster even mattered here when she got you to cum with a simple temptation without the use of cards or magic. You just straight up lost your head over her cute looks.❤ Pfft. Ahahaha.❤
-おっと、余計なおしゃべりをして司会にでも聞かれたら面倒か。\n一言もしゃべれないぐらい、サキュバスたちで\nアンタのこと搾り取ってあげる❤,Oh, and I wouldn't want you complicating the matters by telling anyone what we did to you before the match right now; so I'm going to have my succubi drain you to the point that you can't speak.
+おっと、余計なおしゃべりをして司会にでも聞かれたら面倒か。\n一言もしゃべれないぐらい、サキュバスたちで\nアンタのこと搾り取ってあげる❤,Oh; and I wouldn't want you complicating the matters by telling anyone what we did to you before the match right now; so I'm going to have my succubi drain you to the point that you can't speak.
 せいぜい良いデモンストレーションになりなさい❤\nいけ、サキュバスたち！,It'll also work as a perfect exhibition stage for our succubus cards.❤ Now go; my succubi!
 あはぁん❤逃げられないあなたをいっぱい気持ちよくしてあげるわね❤,Ahaah~❤ We'll blow your mind with pleasure now that you're powerless to move.❤
 きゃはは、うりうり～❤おっぱい攻撃～❤\n戦えなくなった男の子をいじめるの、たのしい～❤,Kyahaha! Take my boob attack!❤ It's so much fun to toy with boys who can't fight back!❤
@@ -561,14 +561,14 @@ Bランク相手に正面からやり合うのは分が悪いですね。\nそ�
 あら、ごめんなさい❤\nあの時はこんな風に魔力は込めなかったんですよね❤\nうっりしてしまいました❤くすくす❤,Oh; I'm terribly sorry.❤ When I blew kisses to you during the match; I didn't apply any mana to my lips; did I?❤ I accidentally did so just now.❤ Ehehe.❤
 さて、{主人公}様。\nどうやらもう歩けなくなってしまわれたようですし、\n商会のお部屋で休んでいかれませんか？場所はすぐそこですので。,Mr. {主人公}; since it seems like you have trouble walking on your own right now; would you like to take a moment of rest in one of the rooms of our company? It's right over there.
 どうぞこちらです❤うふふふ❤,Please allow me to help you inside.❤ Ehehehe.❤
-僕はボーっとする意識のまま、メイドさんに手を引かれて商会の奥にある小部屋へと連れていかれた。,While I was spacing out; the maid helped me up. Then, she took my hand and began pulling me to the Lucas Trading Company. We passed by the entrance and headed for a small room at the back.
+僕はボーっとする意識のまま、メイドさんに手を引かれて商会の奥にある小部屋へと連れていかれた。,While I was spacing out; the maid helped me up. Then; she took my hand and began pulling me to the Lucas Trading Company. We passed by the entrance and headed for a small room at the back.
 彼女に手を握られているだけで、頭の中が気持ちよくなり、にこにことしている彼女のことを見ていると、たまらなく幸せになってしまう。,Just having her hold my hand and smile at me filled my mind with indescribable bliss.
 うふふふ❤ようこそいらっしゃいました。\nここはリュカ商会の特別接待室です❤,Ehehe.❤ Welcome to the special entertainment room of the Lucas Trading Company.❤
 「接待」と言って、何をするかわかりますか？,Can you guess why it's called the special entertainment room?
 そう言いながらメイドさんは少しだけ前かがみになって胸を強調してみせる。僕はその姿勢に操られるように、視線を谷間に吸い寄せられてしまう。,As the maid asked that; she leaned forward slightly; emphasizing her breasts with her action. I couldn't help my eyes getting drawn to her chest.
 くす❤そう、その通りです❤\n{主人公}様が熱心に見られているここなどを使って、\n殿方を気持ちよくおもてなしするんですよ❤,Ehehe.❤ Yes; as you might have guessed; this is a room where I use my breasts and body to entertain gentlemen.❤
 わたくしは商会付きの特別メイド。有望な殿方をたらし込み\n商会の利益になるよう虜にするのがお仕事なのです❤,I hold the position of the special maid of the Lucas Trading Company. My duties include seducing promising gentlemen and turning them into my captives for the profit of our company.❤
-お給金も、それはもうたくさんいただいております❤\nまじめにクエストをこなすのなんて、\nバカらしくなってしまうほどに。,I'm also handsomely rewarded for my work.❤ In fact, I'm paid so well that completing requests as a cardmaster would be a waste of time in comparison.
+お給金も、それはもうたくさんいただいております❤\nまじめにクエストをこなすのなんて、\nバカらしくなってしまうほどに。,I'm also handsomely rewarded for my work.❤ In fact; I'm paid so well that completing requests as a cardmaster would be a waste of time in comparison.
 {主人公}様も、サキュバスカードに攻められながら、\nお嬢さまを追い詰めた有望なマスターです❤\nぜひぜひこちらの手元に置かせていただきたいと思いまして。,As for why I've brought you here; Mr. {主人公}; you are a promising cardmaster who managed to corner the mistress despite her using a deck filled with succubus cards.❤ We would love to have someone as capable as you close at hand.
 だから、ね❤{主人公}さま❤\nわたしの虜になって、リュカ商会のコマになってくださいね❤\nおねがいです❤,Which is why...❤ Please fall into my captive and become a pawn for the Lucas Trading Company.❤ I beg of you.❤
 はう、あうう、それはぁ・・・・❤,Ah... Uuuh... That's...❤
