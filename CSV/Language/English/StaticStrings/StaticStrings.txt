@@ -128,6 +128,7 @@ Claw,
 戦士,Warrior
 ハンター,Hunter
 悪魔,Demon
+スライス,Slime
 通常魔法,Spell
 永続魔法,Continuous Spell
 罠,Trap
