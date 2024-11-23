@@ -1,143 +1,323 @@
 default
-Title,
-SouthVillage,
-MorugenEntrance,
-Morugen,
-MorugenUnderground,
-MorugenInn,
-Colosseum,
-Tavern,
-ColosseumVIPRoom,
-WestTown,
-CollegeArchive,
-MorugenPrison,
-Sexy01,
-Kiss01,
-PaizuriEffect,
-Pafupafu,
-FootJob,
-HeelJob,
-Blowjob,
-Blowjob2,
-Bite01,
-Bind,
-Heart2,
-SwordEffect01,
-Strike01,
-Poison,
-SummonEffect,
-BlackHole,
-Music,
-Breath,
-SexySmoke,
-KissMultiple,
-Gaze,
-SpiderWeb,
-Heart,
-Bomb01,
-Chrono,
-ArrawRain,
-HeartStamp,
-PowerUpEffect,
-PowerDownEffect,
-Circle,
-MagicAttack,
-ImpactAttack01,
-Claw,
-召喚,Summon
-特殊召喚,Special Summon
-攻撃,Attack
-発動,Activate
-防御,Defend
-セット,Set
-オナニー,Masturbate
-おねだり,Beg
-デッキ,Deck
-墓地,Graveyard
-カード生成,Card Generation
-キャンセル,Cancel
-バトル終了！,Battle End!
-プレイヤーの勝利！！,Player Wins!!
-相手プレイヤーの勝利！！,Opponent Player Wins!!
-手札上限枚数をオーバーしています。,The maximum number of cards in hand has been exceeded.
-カードの効果を発動しますか？,Would you like to activate this card's effect?
-効果発動,Activation Effect
-カードを連鎖発動しますか？,Do you want to chain activate this card?
-カードの生成回数は残り{x}回です。,The number of times this card can be generated is {x}.
-{A}が状態異常のせいで勝手に攻撃をしてしまう！,{A} attacks on its own due to an abnormal state!
-{A}が間に立って{B}を守っている！,{A} stands in to protect {B}!
-相手に自分のモンスターゾーンが１か所占領された！,Your opponent has captured one of your monster zones!
-{A}のコントロールが変更されたがフィールドがいっぱいのため破壊された！,{A}'s control changed, but was destroyed because the field was full!
-{A}のコントロールが奪われた！,{A}'s control was taken away!
-{A}と{B}のコントロールが入れ替わった！,The control of {A} and {B} switched!
-{x}Gを失いました,Lost {x}G.
-{x}Gを手に入れました,Obtained {x}G.
-主人公の攻撃力が{x}ポイントダウンしました,The main character's power decreased by {x} points.
-経験値{x}ポイントを手に入れました,Obtained {x} experience points.
-経験値{x}ポイントを失いました,Lost {x} experience points.
-ランクポイント{x}を手に入れました,Obtained {x} rank points.
-ランクポイント{x}を失いました,Lost {x} rank points.
-{A}を手に入れました,Obtained {A}.
-{A}を1枚奪われました,Lost 1 {A}.
-レベルが{主人公レベル}になりました\n攻撃力{x}アップ！\nHP{y}アップ！,Level increased to {主人公レベル}!\nAttack power up {x}!\nHP up {y}!
-レベルが{主人公レベル}になりました\n攻撃力{x}ダウン、\nHP{y}ダウン,Level decreased to {主人公レベル}!\nAttack power down {x}!\nHP down {y}!
-主人公は{A}に対して{x}%弱くなった,Player is now {x}% weaker to {A}.
-主人公は{A}に対して{x}%強くなった,Player is now {x}% more resistant to {A}.
-文字数が多すぎます({x}文字以内),Not enough characters (must be at most {x} characters)
-文字数が少なすぎます({x}文字以上),Character limit reached (must be at least {x} characters)
-決定,Confirm
-選択できるカードがありません,There are no cards that can be selected.
-必要な数の選択できるカードがありません,You do not have enough cards that can be selected.
-カードを選択してください。,Please select a card.
-コインの結果は表,The coin result is heads.
-コインの結果は裏,The coin result is tails.
-はい,Yes
-いいえ,No
-開く,Open
-次へ,To Next
-戻る,Back
-保存,Set
-昇順,Ascending
-降順,Decending
-新しいデッキ,New Deck
-下級モンスター:,Lesser Monsters: 
-上級モンスター:,Advanced Monsters: 
-モンスター,Monster
-魔法:,Spells: 
-罠:,Traps: 
-残数なし,No cards left
-編集上限,Edit Limit exceeded
-編集する,Edit Deck
-破棄,Discard
-編集内容が保存されていません。,Your edits to this card deck have not been saved.
-使用できないデッキを装備しています。,You are equipping a deck that cannot be used.
-絞り込み,Optimize
-並び替え,Reorganize
-保存しました。,Save Complete
-タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. /nThe deck you are currently using has a border around it.
-デッキ名を編集します。,Change the deck name.
-闇属性,Darkness
-水属性,Water
-風属性,Wind
-火属性,Fire
-炎属性,Fire
-地属性,Earth
-光属性,Light
-ローグ,Rogue
-魔術師,Spellcaster
-戦士,Warrior
-ハンター,Hunter
-悪魔,Demon
-通常魔法,Spell
-永続魔法,Continuous Spell
-罠,Trap
-永続罠,Continuous Trap
-装備,Equipment
-ド口ー,Draw
-//These strings don't appear to work:
-一覧,Preview
-枚数:,Cards:
-閉じる,Close
-攻,Atk
-名前,Name
-効果,Effect
+//場所
+&&場所タイトル,Title,
+&&場所南の村,SouthVillage,
+&&場所モルゲン入口,MorugenEntrance,
+&&場所モルゲン,Morugen
+&&場所モルゲン地下,MorugenUnderground
+&&場所宿屋,MorugenInn,
+&&場所闘技場,Colosseum
+&&場所酒場,Tavern
+&&場所闘技場VIPルーム,ColosseumVIPRoom
+&&場所西の村,WestTown
+&&場所学園書庫,CollegeArchive
+&&場所牢屋,MorugenPrison
+
+//BGM
+&&タイトルBGM,Title_Concert March “Union Hearts”.mp3
+&&師匠の家BGM,Ch1_tauenokisetsu_Amach.ogg
+&&南の村BGM,Town01_akinomorinodoubutsutachi.mp3
+&&道BGM,New Step.mp3
+&&敗北BGM,Defeated_sougennotsuki_amatya.mp3
+&&ゲームオーバーBGM,gameover.mp3
+&&モルゲン入口BGM,PerituneMaterial_RetroRoman_Koharu_loop.mp3
+&&モルゲンBGM,Town02_DS-123o.ogg
+&&宿屋BGM,harurest.mp3
+&&闘技場BGM,Title_Concert March “Union Hearts”.mp3
+&&闘技場受付BGM,ryuukihei.mp3
+&&戦闘BGM,BattleBGM.mp3
+&&不穏BGM,Horror-ginen_loop.ogg
+&&秘密に触れるBGM,HiddenText_nc221852.mp3
+&&寂しい過去BGM,Yufrika_Rest-in-Peace.mp3
+&&酒場BGM,nc103191.mp3
+&&牢屋BGM,nemurenuyorunomelancholy.mp3
+&&西の村BGM,Garetoko_MysteryIsland.mp3
+&&優しい君へBGM,nc222655.mp3
+&&危機BGM,DFM3_BGM09_SENCE09.ogg
+&&モルゲン地下BGM,sunaarashi.mp3
+&&平穏BGM,Sougetsuan_home.mp3
+&&クリアBGM,Clear_light_sougetsu.mp3
+&&襲来BGM,Amachya_shinkou.mp3
+
+//SE
+&&行為SE,nyurrupon01.ogg
+&&行為はげしめSE,nukiSasi.ogg
+&&手コキSE,nyurrupon01.ogg
+&&おっぱいSE,Oppai01.mp3
+&&パイズリSE,Paizuri_piero1.ogg
+&&ノックSE,DoorKnock04_Onjin.mp3,
+&&ドア閉まるSE,DoorClose_Onjin.mp3
+&&ドアSE,Door_Onjin.mp3
+&&歓声SE,Cheers_nc265017.ogg
+&&足音SE,Footsteps02-1L.ogg
+&&振り払いSE,EscapeSound_GamePunch21.ogg
+&&締め付けSE,Bind_OnJin.mp3
+&&注ぐSE,WaterPour_OnJin.mp3
+&&ペンSE,Onjin_pen.mp3
+&&入手SE,Coins (14).ogg
+&&攻撃SE,HitSound_Attack1_default.ogg
+&&斬るSE,Shakin_nc211137.mp3
+&&突き飛ばしSE,HitSound_Attack1_default.ogg
+&&怪しい光SE,kin_Onjin.mp3
+&&パイズリSE,Paizuri_piero1.ogg
+&&キスSE,Kiss_nc45215.mp3
+&&尻尾搾精SE,Paizuri_piero1.ogg
+&&転移陣SE,Onjin_warp.mp3
+&&効果発動SE,UseSound_Buff 6.ogg
+&&素早い動きSE,swoosh_01.wav
+&&風切り音SE,swoosh_01.wav
+&&きしむ扉SE,Onjin_BigDoorClose.ogg
+&&ページをめくるSE,Onjin_BookPage.mp3
+&&本を閉じるSE,Onjin_BookClose.mp3
+&&ガチャリSE,Onjin_trunk.mp3
+&&指パッチンSE,Onjin_FingerClap.mp3
+&&組み伏せるSE,Onjin_FallDown10.mp3
+&&ドタドタ走るSE,Onjin_DoorDon.mp3
+&&服を脱がすSE,Onjin_TakeOff.ogg
+&&火球SE,Fire bolt 1.ogg
+&&重いものを引きずるSE,Onjin_MovingCart.ogg
+&&ディープキスSE,nc45216.mp3
+&&ドレインSE,Lose-sound-10.ogg
+&&ジッパーを下すSE,nc210755.mp3
+&&倒れるSE,
+&&重いドアSE,
+&&走るSE,
+&&回復魔法SE,Buff 3.ogg
+&&砕けるSE,Onjin_Break.mp3
+&&武器を構えるSE,
+&&文字1SE,TypeSound_Click14.wav
+&&文字2SE,
+&&文字3SE,
+&&文字4SE,
+&&ドローSE,DrawSound_Body Armor 7.ogg
+&&エラーSE,Buzzer01-2.ogg
+&&セットSE,SetSound_Click sounds 40.ogg
+
+//背景
+&&タイトル背景,dlfanfanokyu03n.jpg
+&&タイトル背景ロゴあり,dlfanfanokyu03n2.png
+&&グレー背景,nc210528.png
+&&師匠家背景,ElfHouse.jpg
+&&南の村背景,nexfan_01_1920.1080.jpg
+&&丘背景,Oka.jpg
+&&丘夕方背景,Oka-a.jpg
+&&丘夜背景,Oka-b.jpg
+&&ギルド背景,dlfanfantasy01.jpg
+&&モルゲン入口背景,dlfanfanmachi01.jpg
+&&モルゲン背景,dlfanfanzen.jpg
+&&モルゲン街路背景,dlfanfanmachi02.jpg
+&&西の村背景,nexfan_03_800.600.jpg
+&&教会背景,S_Charch_A.jpg
+&&闘技場背景,esfan_009_800.600.jpg
+&&闘技場受付背景,esfan_010_800.600.jpg
+&&闘技場脇背景,esfan_013_800.600.jpg
+&&闘技場控室背景,Colosseum_Bedroombg009a.jpg
+&&宿屋朝背景,dlfanfantasy03.jpg
+&&宿屋夕方背景,dlfanfantasy03y.jpg
+&&宿屋夜背景,dlfanfantasy03n.jpg
+&&街背景,dlfanfanmachi02.jpg
+&&街夕方背景,dlfanfanmachi02y.jpg
+&&街夜背景,dlfanfanmachi02n.jpg
+&&路地裏背景,Sasabune_77419482.jpg
+&&道場背景,House.jpg
+&&師匠約束場所背景,Sasabune_77419482.jpg
+&&古い家背景,Sasabune_79297698_0.jpg
+&&酒場背景,dlfanfansakaba.jpg
+&&酒場裏背景,Akini_tavernback95040918.jpg
+&&森背景,6sbtcscd.jpg
+&&学園背景,ACschool007_800600.jpg
+&&図書館背景,Akini_95066345.jpg
+&&エイライラ研究室,Akini_98827284.jpg
+&&牢屋背景,Akini_95084923.jpg
+&&魔王城背景,Akini_95299187_2.jpg
+&&廃坑背景,Teddy_AbandonedMine.png
+&&ネクロ研究室背景,Akini_97993496.jpg
+&&黒背景,black.jpg
+&&ギルド図書館背景,dlfan_library.jpg
+&&転移の間背景,Akini_88034722.jpg
+&&転移の間ピンク背景,Akini_88034722 pink.jpg
+&&手合わせ部屋夕方背景,Sunset_room.png
+&&ギルド地下通路背景,Akini_99209529.jpg,
+&&洞窟背景,kadofan_003_1920.1080.jpg
+&&ギルド奥背景,bg_020_guild_800600.jpg
+&&ギルドマスター部屋背景,bg_021_guildroom_800600.jpg
+&&神殿背景,bg_018_chapel_a.jpg
+&&蜘蛛繭背景,SpiderWeb2.png
+&&豪華な寝室背景,Akini_95717850.jpg
+&&工房背景,blackSmithRoom.png
+&&商会背景,kadofan_004_800.600.jpg
+&&普通の寝室背景,bg013a.jpg
+&&教室背景,ACschool001_19201080.jpg
+
+//アイコン
+&&ショップアイコン,UI_Icon_ShoppingBag.png
+&&デッキ編集アイコン,UI_Icon_Inbox.png
+&&再戦アイコン,UI_Icon_Versus.png
+&&情報収集アイコン,UI_Icon_MultiPlayer.png
+&&宿屋アイコン,UI_Icon_Home.png,,
+&&クエストアイコン,UI_Icon_Flag.png
+&&場所移動アイコン,UI_Icon_ArrowRight.png
+&&閉じるアイコン,nc156719.png
+&&UI右矢印,UI_Icon_RightArrow.png
+&&UI左矢印,UI_Icon_LeftArrow.png
+&&UIスキップ右矢印,UI_Icon_Skip.png
+&&UIスキップ左矢印,UI_Icon_SkipBack.png
+&&ボタン背景青,UI_Button_Blue.png
+&&ボタン背景赤,UI_Button_Red.png
+&&ボタン背景緑,UI_Button_Green.png
+&&ボタン背景黄,UI_Button_Yellow.png
+&&ボタン背景灰,UI_Button_Grey.png
+&&選択肢背景,select_button_hover.png
+
+//エフェクト
+&&セクシーエフェクト,Sexy01
+&&セクシーエフェクト2,Sexy02
+&&手コキエフェクト,Sexy01
+&&尻コキエフェクト,Sexy01
+&&膝コキエフェクト,Sexy01
+&&キスエフェクト,Kiss01
+&&パイズリエフェクト,PaizuriEffect
+&&ぱふぱふエフェクト,Pafupafu
+&&おっぱいエフェクト,Sexy01
+&&足コキエフェクト,FootJob
+&&ヒールコキエフェクト,HeelJob
+&&フェラエフェクト,Blowjob
+&&乱れフェラエフェクト,Blowjob2
+&&舐めエフェクト,Blowjob
+&&噛みつきエフェクト,Bite01
+&&尻尾コキエフェクト,Bind
+&&尻尾搾精エフェクト,Heart2
+&&ふとももコキエフェクト,Sexy01
+&&パンチラエフェクト,Sexy01
+&&騎乗位エフェクト,Sexy01
+&&斬るエフェクト,SwordEffect01
+&&突き飛ばしエフェクト,Strike01
+&&毒エフェクト,Poison
+&&召喚エフェクト,SummonEffect
+&&裏切りエフェクト,BlackHole
+&&音楽エフェクト,Music
+&&息エフェクト,Breath
+&&フェロモンエフェクト,SexySmoke
+&&乱れキスエフェクト,KissMultiple
+&&にらみつけエフェクト,Gaze
+&&網エフェクト,SpiderWeb
+&&縛りエフェクト,Bind
+&&ハートエフェクト,Heart
+&&爆破エフェクト,Bomb01
+&&時計エフェクト,Chrono
+&&矢の雨エフェクト,ArrawRain
+&&パワーアップエフェクト,PowerUpEffect
+&&パワーダウンエフェクト,PowerDownEffect
+&&シンプル魔法エフェクト,Circle
+&&魔法攻撃エフェクト,MagicAttack
+&&叩きつぶしエフェクト,ImpactAttack01
+&&ひっかきエフェクト,Claw
+//後編で使用するので使用不可
+&&ハートスタンプエフェクト,HeartStamp
+
+//画像
+&&精液画像,Semen.png
+&&顔候補1画像,nc80246.png
+&&顔候補2画像,yh001.png
+&&顔候補3画像,yh015.png
+&&顔候補4画像,yh148.png
+&&顔候補5画像,party1_kenshi.png
+&&女の子1立ち絵,mikaduki (3).png
+&&女の子2立ち絵,mikaduki (4).png
+&&女の子3立ち絵,mikaduki (6).png
+&&女の子4立ち絵,mikaduki (7).png
+&&女の子5立ち絵,nc133136.png
+&&女の子6立ち絵,nc216598.png
+&&女の子7立ち絵,nc216599.png
+&&女の子8立ち絵,nc223842.png
+&&女の子9立ち絵,nc223921.png
+&&少女1立ち絵,mikaduki (5).png
+&&少女2立ち絵,mikaduki (16).png
+&&本を読む女性立ち絵,mikaduki1518392363 (16).png
+&&ふんわりスカート女性立ち絵,mikaduki1518392363 (14).png
+
+&&ポニテ男立ち絵,mikaduki (13).png
+&&老人立ち絵,mikaduki (14).png
+&&若い男立ち絵,mikaduki (9).png
+&&屈強な男立ち絵,
+
+//システムメッセージ
+&&召喚ボタン,Summon,
+&&攻撃ボタン,Attack,
+&&発動ボタン,Activate,
+&&防御ボタン,Defend
+&&セットボタン,Set,
+&&オナニーボタン,Masturbation,
+&&おねだりボタン,Beg,
+&&デッキボタン,Deck,
+&&墓地ボタン,Graveyard
+&&カード生成ボタン,Card Generation
+&&キャンセルボタン,Cancel
+
+&&デッキ編集イエス,はい
+&&デッキ編集ノー,いいえ
+&&デッキ編集キャンセル,キャンセル
+&&デッキ編集開く,開く
+&&デッキ編集閉じる,閉じる
+&&デッキ編集次へ,次へ
+&&デッキ編集戻る,戻る
+&&デッキ編集セーブ,保存
+&&デッキ編集昇順,昇順
+&&デッキ編集降順,降順
+&&デッキ編集デフォルト名,新しいデッキ
+&&デッキ編集下級モンスター,下級モンスター:
+&&デッキ編集上級モンスター,上級モンスター:
+&&デッキ編集モンスター,モンスター:
+&&デッキ編集魔法,魔法:
+&&デッキ編集罠,罠:
+&&デッキ編集残数なし,残数なし
+&&デッキ編集編集上限,編集上限
+&&デッキ編集編集ボタン,編集する
+&&デッキ編集破棄,破棄
+&&デッキ編集確認,編集内容が保存されていません。
+&&デッキ編集警告,使用できないデッキを装備しています。
+&&デッキ編集絞り込み,絞り込み
+&&デッキ編集並び替え,並び替え
+&&デッキ編集保存成功,保存しました。
+&&デッキ編集選択チュートリアル,タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。
+&&デッキ編集名前変更チュートリアル,デッキ名を編集します。
+
+&&バトル終了メッセージ,バトル終了！
+&&勝利メッセージ,プレイヤーの勝利！！
+&&敗北メッセージ,相手プレイヤーの勝利！！
+&&手札溢れメッセージ,手札上限枚数をオーバーしています。
+&&発動確認メッセージ,カードの効果を発動しますか？
+&&発動確認メッセージイエス,効果発動
+&&発動確認メッセージノー,キャンセル
+&&連鎖発動確認メッセージ,カードを連鎖発動しますか？
+&&カード生成回数メッセージ,カードの生成回数は残り{x}回です。
+&&強制攻撃メッセージ,{A}が状態異常のせいで勝手に攻撃をしてしまう！
+&&身代わりメッセージ,{A}が間に立って{B}を守っている！
+&&ゾーン占領メッセージ,相手に自分のモンスターゾーンが１か所占領された！
+&&コントロール溢れメッセージ,{A}のコントロールが変更されたがフィールドがいっぱいのため破壊された！
+&&コントロール奪取メッセージ,{A}のコントロールが奪われた！
+&&コントロールスワップメッセージ,{A}と{B}のコントロールが入れ替わった！
+
+&&LoseMoneyMessage,{x}Gを失いました
+&&GetMoneyMessage,{x}Gを手に入れました
+&&AddPlayerAtkMessage.主人公の攻撃力が{x}ポイントアップしました
+&&LosePlayerAtkMessage,主人公の攻撃力が{x}ポイントダウンしました
+&&AddEXPMessage,経験値{x}ポイントを手に入れました
+&&LoseEXPMessage,経験値{x}ポイントを失いました
+&&AddRankPointMessage,ランクポイント{x}を手に入れました
+&&LoseRankPointMessage,ランクポイント{x}を失いました
+&&AddCardMessage,{A}を手に入れました
+&&RobCardMessage,{A}を1枚奪われました
+&&LevelUpMessage,レベルが{主人公レベル}になりました\n攻撃力{x}アップ！\nHP{y}アップ！
+&&LevelDownMessage,レベルが{主人公レベル}になりました\n攻撃力{x}ダウン、\nHP{y}ダウン
+&&AddWeakMessage,主人公は{A}に対して{x}%弱くなった
+&&AddResistMessage,主人公は{A}に対して{x}%強くなった
+&&InputTextOverMessage,文字数が多すぎます({x}文字以内)
+&&InputTextShortageMessage,文字数が少なすぎます({x}文字以上)
+&&InputTextOKButton,決定
+&&SelectCardNothingMessage,選択できるカードがありません
+&&SelectCardShortageMessage,必要な数の選択できるカードがありません
+&&SelectCardMessage,カードを選択してください。
+&&CoinMessage1,コインの結果は表
+&&CoinMessage2,コインの結果は裏
+
