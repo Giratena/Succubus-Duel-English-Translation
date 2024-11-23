@@ -1,3 +1,3 @@
 default
 鏡の盾,Mirror Shield
-[1].相手モンスターの攻撃宣言時に手札を１枚捨てて発動できる。その攻撃を無効にし、相手フィールド上のすべてのモンスターに攻撃モンスターの攻撃力分のダメージを与える。,[1]. When an opponent's monster declares an attack; you may discard 1 card from your hand to negate that attack and inflict damage to all opposing monsters equal to the attacking monster's ATK.
+[1].相手キャラクターの攻撃宣言時に手札を１枚捨てて発動できる。その攻撃を無効にし、相手フィールド上のすべてのモンスターに攻撃キャラクターの攻撃力分のダメージを与える。,[1]. When an opponent declares an attack; you may discard 1 card from your hand to negate that attack and inflict damage to all opposing monsters equal to the attacker's ATK., Not sure if this was an actual mechanical change or just clarification in the japanese text, but you can negate the enemy master's attacks with this too.

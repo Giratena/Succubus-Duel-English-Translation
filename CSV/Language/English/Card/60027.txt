@@ -1,3 +1,4 @@
 default
 琥珀のナイフ,Amber Knife
-手札の「ジェム」カードを１枚捨ててフィールド上のモンスターに装備可能。\n[1].装備モンスターの攻撃力は墓地の「ジェム」カードの数×100ポイントアップする(最大1500ポイント)。,[1]. Discard 1 "Gem" card from your hand; you may equip this card to a monster on the field.\n[1]. Increase the ATK of the equipped monster by 100 x X (Max 1500). (X = The number of "Gem" cards in your Graveyard.)
+手札を１枚捨ててフィールド上のモンスターに装備する。\n[1].装備モンスターの攻撃力は墓地の「ジェム」カードの数×100ポイントアップする(最大1000ポイント)。,[1]. Discard 1 card from your hand; you may equip this card to a monster on the field.\n[1]. Increase the ATK of the equipped monster by 100 x X (Max 1000). (X = The number of "Gem" cards in your Graveyard.)
+

@@ -1,3 +1,4 @@
 default
 仕込まれた毒爆弾,Primed Poison Bomb
-[1].相手モンスターがローグタイプの自分モンスターに攻撃してきたとき発動できる。すべての相手モンスターに、「付与されている毒の効果量の倍の数値」の効果ダメージを与える。この効果で相手を破壊した場合、破壊した枚数と同じだけカードをドローする。,[1]. When an opponent's monster attacks your Rogue Type monster; inflict effect damage equal to double the amount of Poison status effects on all opponent's monsters. If this card destroys any monsters with its effect; draw X cards (X = the number of cards destroyed).
+[1].相手モンスターがローグタイプの自分モンスターに攻撃してきたとき発動できる。すべての相手モンスターに、「付与されている毒の効果量の3倍の数値」の効果ダメージを与える。この効果で相手を破壊した場合、破壊した枚数と同じだけカードをドローする。,[1]. When an opponent's monster attacks your Rogue Type monster; inflict effect damage equal to triple the amount of Poison status effects on all opponent's monsters. If this card destroys any monsters with its effect; draw X cards (X = the number of cards destroyed).
+
