@@ -1,13 +1,14 @@
 # Succubus-Duel-English-Translation
 This is a translation project for Succubus Duel, a card game featuring many succubi and temptations...
 [You can buy and support the game here!](https://www.dlsite.com/maniax/work/=/product_id/RJ01149693.html)
+(Current Percentage of Game Translated: 30% complete)
 
 # How to contribute/test the translation
 - Clone the Repo and then copy your game files into the repo and you're done!
   - Any edits or change in the repo will also be reflected in your game.
   - Push and pull from "Develop" to get updates as they happen.
 # How to put the translation into your game
-- Download the repo as a zip then paste everything into your game folder and you're done!
+- Download the repo as a zip then paste everything into your game folder (where SuccubusDuel.exe is located) and you're done!
 - Alternatively, grab a stable copy from the releases tab!
 
  # How to support:
