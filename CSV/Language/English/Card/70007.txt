@@ -1,46 +1,46 @@
 default,
 試験官,Examiner
 EP07_PaizuriAnime,
-ギルドに所属する中堅マスター。ハンタータイプのカードをメインに使用し、戦士やフクロウのカードをサポートに用いる。\n常日頃から谷間を露出させた格好で出歩いており、人に見られるのがわりと好きな性格。男の子が彼女の胸に見とれていたりすると、両手で寄せ上げてサービスポーズを見せつけたりしてくるので、性癖がゆがむ男の子が後を絶たない。\nランクはC級だが、試験のために実力を抑えている。,A mid-level cardmaster who works at the guild. She mainly uses soldier and owl cards that are built around supporting her hunter type cards. She enjoys being watched by others; always walking around in outfits that expose her ample cleavage. When boys stare at her tits; she teasingly pushes them together with her hands into a service pose; which drive many young boys mad. Despite being ranked C-class; she holds back her true strength for exams.
+ギルドに所属する中堅マスター。ハンタータイプのカードをメインに使用し、戦士やフクロウのカードをサポートに用いる。\n常日頃から谷間を露出させた格好で出歩いており、人に見られるのがわりと好きな性格。男の子が彼女の胸に見とれていたりすると、両手で寄せ上げてサービスポーズを見せつけたりしてくるので、性癖がゆがむ男の子が後を絶たない。\nランクはC級だが、試験のために実力を抑えている。,A mid-level cardmaster who works at the guild. She mainly uses soldier- and owl-type cards that are built around supporting her hunter-type cards. She enjoys being watched by others; always walking around in outfits that expose her ample cleavage. When boys stare at her tits; she teasingly pushes them together with her hands into a service pose; which drive many young boys mad. Despite being ranked C-class; she holds back her true strength for exams.
 導入イベントをスキップしますか？,Do you want to skip the opening event?
 はい,Yes
 いいえ,No
 いくつかのバトルを経て、ランクポイントが十分にたまった僕はギルドの建物を訪れていた。,After several battles; I had accumulated enough rank points and visited the guild building.
 あら、また会いましたね、新人マスターさん。ギルドへようこそ。大会での戦いは順調ですか？,Ah; it's the new cardmaster. We meet again! Welcome to the guild. How are the battles in the tournament going?
 ランクポイントがたまりました！,I've accumulated some rank points!
-おお、本当ですか！,Ooh; is that so!
+おお、本当ですか！,Ooh; is that so?
 すばらしいです！まだ大会も始まったばかりだというのに、良いすべり出しですね！,That's wonderful to hear! The tournament has only just begun; and yet you're already off to a good start!
-それではギルドリングをこちらにお渡しください。ポイントを確認させていただきます。,Now then. Please hand me your guild ring. I shall confirm the number points you've collected.
+それではギルドリングをこちらにお渡しください。ポイントを確認させていただきます。,Now then, please hand me your guild ring. I shall confirm the number of points you've collected.
 ありがとうございます。確かに指輪には必要量のランクポイントが貯まっていますね。,Thank you. You certainly have the required rank points stored in your ring.
-これであなたはFランクからEランクに昇格できるわけですが…。,With this; you can be promoted from F rank to E rank...
+これであなたはFランクからEランクに昇格できるわけですが…。,With this; you can be promoted from F-rank to E-rank...
 ランク昇格の際には、１つ試験をこなしてもらわないといけません。,However; I must add in order to qualify for  a rank promotion; you must also pass a test.
-試験の内容はランクごとに異なります。Eランクの昇格試験は、ギルド職員との戦闘試験です。,The content of the test varies by rank. The E-rank promotion test is a battle test with guild staff.
+試験の内容はランクごとに異なります。Eランクの昇格試験は、ギルド職員との戦闘試験です。,The content of the test varies by rank. The E-rank promotion test is a test battle with guild staff.
 担当職員を呼んできますので、少々お待ちください。,I'll call the staff member responsible for this; so please wait a moment.
 やっほー！わたしがEランクの昇格試験を担当する試験官だよ。よろしくね！,Hi there! I'll be your examiner for the E-rank promotion test. It's nice to meet you!
-ギルドに入りたてのあなたに、Fランクに見合った戦闘力があるかどうか、試させてもらうよ。,Considering you've joined the guild; I'll test whether you have the combat power befitting an F rank.
+ギルドに入りたてのあなたに、Fランクに見合った戦闘力があるかどうか、試させてもらうよ。,Considering you've joined the guild; I'll test whether you have the combat power befitting an F-rank.
 剣士とハンターを組み合わせたわたしのデッキにうまく対処できるかな？さあ、バトルを始めよう！,Do you think you have what it takes to deal with my swordswoman and hunter deck? If you're ready; let's start the battle!
 お、また来たね。ランク昇格試験、もう一回受ける？,Oh; you've come again. Are you here to take the rank examination test again?
 わたしのデッキは、1体1体の戦闘力はそこまでないけど盤面にカードを多く出すから、魔法の全体攻撃とかを使うと戦いやすいと思うよ。,The cards in my deck don't have much power; but I can use them to easily populate my field; so magic cards that are good at hitting many cards at once might give you an advantage.
 いてて、これはお見事。\n新人マスターくん、なかなか強いねぇ。,Ouch! Nicely done. You’re quite strong for a rookie cardmaster; aren't you?
-うん、これだけの実力があれば十分だよ。\nあなたは試験に合格。これからEランクだね！,Mhm. You've passed with flying colours. You're now an E Rank cardmaster!
-Eランク昇格おめでとうございます！さすがですね。,Congratulations on your E Rank promotion! I had no doubts about you.
+うん、これだけの実力があれば十分だよ。\nあなたは試験に合格。これからEランクだね！,Mhm. You've passed with flying colours. You're now an E-rank cardmaster!
+Eランク昇格おめでとうございます！さすがですね。,Congratulations on your E-rank promotion! I had no doubts about you.
 それではギルドリングに特殊な装置で魔力を込めます。\nちょっと待っていてくださいね。,Now; I'll imbue your Guild Ring with magic using a special device. Please wait a moment.
 戻ってきた受付さんにギルドリングを返してもらうと、指輪にはめられた宝石の色が濃い緑色に変化していた。,When the receptionist returned your Guild Ring; the gem set in the ring changed to a deep green color.
-どうです、指輪の色が変わっているでしょう？\nこれがEランクの証です。,What do you think? See how the color of your ring has changed? This proves that you're now an E-Rank cardmaster.
-Aランクになるとそれは奇麗な赤色になるんですよ。\nあなたの指輪がその色になるのが今から楽しみです。,When you reach A Rank; it will turn a beautiful red. I'm looking forward to seeing you when that time comes!
+どうです、指輪の色が変わっているでしょう？\nこれがEランクの証です。,What do you think? See how the color of your ring has changed? This proves that you're now an E-rank cardmaster.
+Aランクになるとそれは奇麗な赤色になるんですよ。\nあなたの指輪がその色になるのが今から楽しみです。,When you reach A-rank; it will turn a beautiful red. I'm looking forward to seeing you when that time comes!
 ありがとうございます！,Thank you very much!
 楽勝ですよ! すぐになります!,Easy peasy! I'll be there before you know it!
 へぇー、わたしに何回も負けたのにけっこう言うじゃん❤,Hehe...! You've lost to me several times; yet you still speak so confidently...❤
-ま、気持ちいいことされても癖にならないで最後には勝てたんだから、\n将来性はあるのかな？くすくす❤,Well; even though you experienced things that felt good; you still didn't get addicted to it and managed to win in the end... perhaps your future has some potential after all? *Giggle*❤
+ま、気持ちいいことされても癖にならないで最後には勝てたんだから、\n将来性はあるのかな？くすくす❤,Well; even though you experienced things that felt good; you still didn't get addicted to it and managed to win in the end... Perhaps your future has some potential after all? *Giggle*❤
 ううっ…。それは…。,Oogh... That's...
 こら。あんまり茶化しちゃかわいそうですよ。\n試験に無事合格したんですから今は応援しましょ。,Come now. It's not fair to tease him like that. He managed to pass the test safely; so let's do our best to support him.
-ふふ、さすがに試験をすぐクリアしただけはありますね。\nとても頼もしいです。,Fufu. Well; you did clear the test immediately as I expected; I'm glad to know that we can rely on you.
+ふふ、さすがに試験をすぐクリアしただけはありますね。\nとても頼もしいです。,Fufu. Well; you did clear the test immediately as I expected. I'm glad to know that we can rely on you.
 それでは引き続き大会でのバトル頑張ってください！,Well then; please keep up the good work in the tournement!
 僕は色の変わったギルドリングをウキウキした心地で眺めながら、宿への帰路についた。,As I gazed eagerly at the newly colored guild ring; I made my way back to the inn.
 ほとんどカードも使えなかった昔を思えば、とても順調だ。これも師匠がしっかり鍛えてくれたからだろう。,Considering in the past there were times when I could barely use any cards; things are going quite smoothly now. It's probably because my mentor trained me well.
 試験官とのバトルを終えたからか、体はすっかり疲れていた。僕はこの先のことをうつらうつらと思いながら、眠りについたのだった。,Probably due to the battle with the examiner; my body was completely exhausted. I fell asleep; drowsily thinking about what lay ahead.
 …………。,...
-…。この景色。いつも見る夢か…。,...This scene. It's the same dreamI have every every time...
+…。この景色。いつも見る夢か…。,...This scene. It's the same dream I have every time...
 うう、怖いよぉ、お兄ちゃん…。\nおとうさんたちは？外はどうなっているの？,Ogh; I'm scared Big Brother... What about Dad and the others? What's happening outside?
 今日はお祭りだったはずなのに…。ううっ…。ひぐっ…。,Today was supposed to be the festival... Ooh... Sob...
 ここに隠れてろって言われたけど、おとうさんたちが心配だよ。\nどうしよう、お兄ちゃん…。,They told us to hide here; but I'm worried about Dad and the others. What should we do...?
@@ -49,15 +49,15 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 ま、見つけちゃえばすぐ分かることだし、さっさと探しちゃいましょ。うふふ❤,Well; once we find them it'll be obvious. Let's hurry up and hunt them down! *Giggle*❤
 サキュバスだ…。このままじゃ食べられちゃう…。,Succubi... If we stay here; we'll be eaten...
 狭い戸棚に二人で隠れながら、息をひそめてサキュバスたちの様子をうかがう。,We hid in the cramped cupboard together; holding our breath and watching the succubi.
-必死に冷静を装いながらも、妹の横で僕の手は震えていた。手にはお父さんから託された1枚のカードがあった。,I tried desperately to maintain my calm demeanor; but my hands were shaking beside my sister. In my hand; a single card our father entrusted to me.
-今日は僕の洗礼式の日。そのお祝いにお父さんにもらった「ブラックナイト」のカード。,Today's was day of my initiation ceremony; and to comemorate the occasion; my father gave me the "Black Knight" card.
+必死に冷静を装いながらも、妹の横で僕の手は震えていた。手にはお父さんから託された1枚のカードがあった。,I tried desperately to maintain my calm demeanor; but my hands were shaking beside my sister. In my hand; I clutched a single card our father entrusted to me.
+今日は僕の洗礼式の日。そのお祝いにお父さんにもらった「ブラックナイト」のカード。,Today was the day of my initiation ceremony; and to comemorate the occasion; my father gave me the "Black Knight" card.
 もしこのカードを使うことができたら、あの魔族たちも倒すことができるかもしれない。けれど、まだカードの使い方もちゃんと分からない僕には、ブラックナイトを召喚できる自信はなかった。,If I could use this card; I might have a chance at defeating those demons. But I didn't yet fully understand how to use cards properly; and I wasn't confident I could summon the Black Knight either.
 妹のためにも、行かなくちゃいけない。でも…。,For my sisters sake; I have to go and do it; but...
 お兄ちゃん…。手ふるえてる…。,Hey; Big Brother... Your hands are shaking...
 このままじゃ二人とも食べられちゃうよね…。\nそれぐらいなら、うん…。,I-If this keeps up; we'll both get eaten; right...? In that case; I...
 わたしがお兄ちゃんを守る。,I'll protect you; Big Brother.
 そう言うや否や、妹は戸棚から外へと飛び出していった。そしてわざとらしい演技でサキュバスたちに向かって叫んだ。,No sooner had she said that; than my sister darted out from the cupboard; screaming in an exaggerated manner towards the succubi.
-きゃあ！サキュバスがいる！\nわたしが１人のときに来るなんて、こわいよぉ！,Kyaah! Succubi are here! How scary of them to come when I'm all alone and by myself!
+きゃあ！サキュバスがいる！\nわたしが１人のときに来るなんて、こわいよぉ！,Kyaah! Succubi are here! How scary of them to come when I'm all by myself!
 あら、自分から出てきてくれるなんて。探す手間が省けたわ❤,Oh my; how convenient of you to come out on your own. Saves us the trouble of searching~❤
 男の子じゃなくて女の子１人でしたか。残念。,And it's not a boy; but a single girl instead? Ah; that's a shame.
 男はみんなその場で搾り尽くしていいって言われてるんですけど、\n女の子なら女王様のところに連れていかないといけないですね。,We were told that all men are to be drained on the spot; but if it's a girl; then she has to be taken to the queen.
@@ -68,10 +68,10 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 僕は誰もいなくなった家で、戸棚の奥に隠れ続けて、そのまま夜を過ごした。怖さで震え、兄として妹を助けられなかったことの悔しさにしばらく泣いていたんじゃないかと思う。,I hid in the back of the cupboard and spent the night there; trembling with fear. I cried for a while; perhaps out of frustration for not being able to protect my sister as a brother should.
 ……それからどれだけ時間が経ったのか。何日か後、戸棚の中で弱り切っていた僕を、ギルドからサキュバス討伐に派遣されたコノハ師匠が助けてくれた。,I don't know how much time passed after that. A few days later; Master Konoha; who had been sent by the guild to hunt succubi; found and rescued me from the back of the cupboard; where I had grown weak.
 師匠が抱きとめてくれたとき、僕はすでに気を失っていたという。,By the time Master Konoha took me into her arms; I had already lost conciousness.
-何度も何度も夢に見る、自分の情けない過去。兄としてあまりに無力だった苦い記憶。,I have had been haunted with repeated dreams about my past. The bitter memory of being a powerless; helpless older brother.
-でも今は違う。無力なんかじゃない。だからこそ僕は、必ず…。,But now things are different. I am not powerless anymore. That's why I must...
+何度も何度も夢に見る、自分の情けない過去。兄としてあまりに無力だった苦い記憶。,I have been haunted with repeated dreams about my past. The bitter memory of being a powerless; helpless older brother.
+でも今は違う。無力なんかじゃない。だからこそ僕は、必ず…。,But now things are different. I'm not powerless anymore. That's why I must...
 朝、目を覚ますと手には汗がびっしょりついていた。,When I woke up in the morning; my hands were drenched in sweat.
-村が襲われたのはもう何年も昔の話だ。時間の経過を考えれば、妹は無事ではないかもしれない。サキュバスにエナジーを吸い尽くされたか、あるいはサキュバス化させられて、既に人間ではなくなっているのかも…。,It has already been many years since the village was attacked. Considering how much time had passed; my sister likely isn't safe. She might have been drained of her energy by succubi; or maybe they even turned her into a succubus herself; no longer human...
+村が襲われたのはもう何年も昔の話だ。時間の経過を考えれば、妹は無事ではないかもしれない。サキュバスにエナジーを吸い尽くされたか、あるいはサキュバス化させられて、既に人間ではなくなっているのかも…。,It has already been many years since the village was attacked. Considering how much time has passed; my sister likely isn't safe. She might have been drained of her energy by succubi; or maybe they even turned her into a succubus herself; no longer human...
 それでもきっと僕は、Aランクになって妹を助けに行く。それがどれだけわずかな可能性であったとしても…。僕は決意を新たにしたのだった。,Still; I will become an A-rank and rescue my sister. No matter how unlikely it may be... I rallyed my thoughts and stood determined.
 あなたのターンからだね！どんなカードで攻めてくるか、楽しみ！,It's your turn to start; isn't it? Looking forward to seeing what cards you'll attack with!
 わたしのターンからだね！まずはどうしよっかなー。,Looks like it's my turn! I wonder what I should do first...?
@@ -81,25 +81,25 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 {使用カード}を召喚するよ！,Summoning; {使用カード}!
 ううっ、あうう・・・❤,Uogh... Ahh...❤
 あはっ、試験中に自滅しちゃうような子はだめだねー。\n復活してもらったのに、まだうっとりした顔しちゃってる❤,Aha! You know; it's not good for you kids to be self-destructing like this...❤ Even though you've just been summoned; you still have a dazed expression.❤
-そんなんじゃ、マスターくんの命令も耳に入らないんじゃない？\n情けない男の子だなー。くすくす❤,In that state; are you even able to hear your Master's orders anymore? What a pathetic boy... *Giggle*❤
+そんなんじゃ、マスターくんの命令も耳に入らないんじゃない？\n情けない男の子だなー。くすくす❤,In that state; are you even able to hear your master's orders anymore? What a pathetic boy... *Giggle*❤
 さらにもう1枚発動！,I activate another card!
 {使用カード}の召喚時効果発動！手札を1枚捨てて、大剣の女戦士を特殊召喚！,I activate {使用カード}'s summon effect! I discard 1 card from my hand and special summon Greatsword Warrior!
 {使用カード}の召喚時効果を発動！手札を1枚捨てて護衛のモンスターを特殊召喚！,I activate {使用カード}'s summon effect! I discard 1 card from my hand and special summon a soldier monster!
-手札を２枚捨てて{使用カード}の効果発動！魅了を付与させてもらうわね！,I discard 2 cards from my hand and activate {使用カード}'s effect and I'll cast Charm!
-魔法の弓矢でくらくらさせてあげる。手札を２枚捨てて{使用カード}の効果を発動！,I'll make your head spin with my Magical Arrows! I discard 2 cards from your hand and activate {使用カード}'s effect!
-召喚に成功したとき{使用カード}の効果発動！デッキからハンタータイプのモンスターをサーチ！,After a successful summon; I can activate {使用カード}'s effect and search my deck for a Hunter-Type monster!
+手札を２枚捨てて{使用カード}の効果発動！魅了を付与させてもらうわね！,I discard 2 cards from my hand and activate {使用カード}'s effect and cast Charm!
+魔法の弓矢でくらくらさせてあげる。手札を２枚捨てて{使用カード}の効果を発動！,I'll make your head spin with my Magical Arrows! I discard 2 cards from my hand and activate {使用カード}'s effect!
+召喚に成功したとき{使用カード}の効果発動！デッキからハンタータイプのモンスターをサーチ！,After a successful summon; I can activate {使用カード}'s effect and search my deck for a hunter-type monster!
 仲間を呼ぶよ！{使用カード}の召喚時効果を発動！,Calling all allies! I activate {使用カード}'s summon effect!
 墓地に送られたとき{使用カード}の効果発動！デッキから永続魔法をサーチ！,When {使用カード} is sent to the graveyard; I can activate it's effect and search my deck for a continuous magic spell card!
 {使用カード}の効果を発動！デッキから永続魔法を手札に加えるよ！,I activate {使用カード}'s effect and add a continuous magic spell card from the deck to my hand!
 手札を2枚捨て永続魔法カード発動！{使用カード}！,Magic card activate! {使用カード}! I discard 2 cards from my hand and add activate a permenant magic card!
-相手モンスター1体を選び、その種族に対してハンターが与えるダメージを倍増させるよ。,I choose 1 of my opponent's monsters and double the damage that Hunters deal to that type.
-さらに望むならデッキからハンターモンスター1体を特殊召喚できる！,Additionally; I can also special summon 1 Hunter monster from my deck!
-あなたのモンスター1体を選び、その種族に対してハンタータイプの与えるダメージが倍になるよ！,I can choose 1 of your monsters and double the damage that my Hunter-types deal to that type!
-{使用カード}を発動！ハンターモンスター1体を効果の対象に選択できなくする！,I activate {使用カード} and make 1 Hunter monster immune to effects!
+相手モンスター1体を選び、その種族に対してハンターが与えるダメージを倍増させるよ。,I choose 1 of my opponent's monsters and double the damage that hunters deal to that type.
+さらに望むならデッキからハンターモンスター1体を特殊召喚できる！,Additionally; I can also special summon 1 hunter monster from my deck!
+あなたのモンスター1体を選び、その種族に対してハンタータイプの与えるダメージが倍になるよ！,I can choose 1 of your monsters and double the damage that my hunter-types deal to that type!
+{使用カード}を発動！ハンターモンスター1体を効果の対象に選択できなくする！,I activate {使用カード} and make 1 hunter immune to effects!
 {使用カード}を発動！これでこの子は効果の対象に選択できない！,I activate {使用カード}'s effect! This will make this monster immune to effects!
-ハンタータイプが攻撃されたとき、{使用カード}を発動！戦闘前に1000ダメージだよ！,When a Hunter-type is attacked; I can activate {使用カード}'s effect to inflict 1000 damage on the attacking monster before battle!
-{使用カード}を発動！手札にいるハンタータイプモンスターを特殊召喚！,I activate {使用カード} and special summon a Hunter-type monster from your hand!
-{使用カード}を発動！手札にハンターがいないときデッキからハンタータイプをサーチ！,I activate {使用カード}! If there are no Hunters in my  hand; I can search my deck for a Hunter-type!
+ハンタータイプが攻撃されたとき、{使用カード}を発動！戦闘前に1000ダメージだよ！,When a hunter-type is attacked; I can activate {使用カード}'s effect to inflict 1000 damage on the attacking monster before battle!
+{使用カード}を発動！手札にいるハンタータイプモンスターを特殊召喚！,I activate {使用カード} and special summon a hunter-type monster from your hand!
+{使用カード}を発動！手札にハンターがいないときデッキからハンタータイプをサーチ！,I activate {使用カード}! If there are no hunters in my hand; I can search my deck for a hunter-type monster!
 特殊召喚に対して{使用カード}を発動！大ダメージを与えちゃうよ！,I activate {使用カード} in response to a special summon and inflict massive damage!
 装備魔法カード発動！{使用カード}！,Magic equipment card activate! {使用カード}!
 魔法カードを発動！{使用カード}！,Magic card activate! {使用カード}!
@@ -107,11 +107,11 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 カードをセット。,Card set.
 カードを伏せる。,Setting this card face down.
 わたしからも気持ちいいことしてあげる。{防御カード}を攻撃！,I'll make make sure you feel good as well. I attack {防御カード}!
-わたしだって攻撃するよ。{防御カード}を攻撃！,I can attack too!  I attack {防御カード}!
+わたしだって攻撃するよ。{防御カード}を攻撃！,I can attack; too!  I attack {防御カード}!
 行くよ！{使用カード}で{防御カード}を攻撃！,Let's go! {使用カード}; attack {防御カード}!
 どう？快楽攻撃されて心は乱れてない？,What do you think? You won't get distracted by these pleasure attacks; will you?
 昔はもっと剣と剣のぶつかり合いって感じだったんだけどね、\nここ最近はこういうエッチな攻撃に耐えられないと\n男のカードマスターはだいぶ厳しいよ。,Duels used to be about the clashing of swords... but if male cardmasters can't withstand these types of attacks; then they are going to have a "hard" time.
-試験官としてあなたの精神力試させてもらうね！,As your examinater; I will test your mental fortitude!
+試験官としてあなたの精神力試させてもらうね！,As your examiner; I will test your mental fortitude!
 うーん、なにもできない！ターンエンド。,Oof. Looks like I can't do anything! End turn.
 この手札じゃ、むりー。なにもできない。ターンエンド。,This hand is no good... I can't do much. End turn.
 ターン終了だよ。,My turn is over!
@@ -119,8 +119,8 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 これで終わりかな。ターンエンド。,End turn.
 む、攻撃させてくれないの？厄介なカードだなぁ。,Hm. I can't attack you? That's a troublesome card...
 手でシコシコしてあげるね。ほらじっとしてて、\nシコシコ❤シコシコ❤,I'll jerk you off with my hand; OK? Come on; just stay still and let me pump your dick with my gloved hand.❤
-手でされるのは好き？\nほら、手のひらでおちんちん捕まえて…。,Do you like it when someone does it with their hand? Look; I've caught your cock in the palm of my hand...
-しこしこしこ～。ふふ、このリズム気持ちいいでしょ❤\n出したいときに出していいからね。,Pump pump~ Pump pump~ Fufu. This rhythm feels good doesn't it?❤ Go ahead and cum whenever you want.
+手でされるのは好き？\nほら、手のひらでおちんちん捕まえて…。,Do you like it when someone does it like this? Look; I've caught your cock in the palm of my hand...
+しこしこしこ～。ふふ、このリズム気持ちいいでしょ❤\n出したいときに出していいからね。,Pump pump~ Pump pump~ Fufu. This rhythm feels good; doesn't it?❤ Go ahead and cum whenever you want.
 手コキしながら亀頭もいじめてあげるね❤,While I stroke your dick with my hand; I'll also tease the head of your penis.❤
 竿をしこしこしながら～、こうやって手のひらを\nぎゅっと先っちょに押し当てて、うりうり♪うりうり♪,While stroking your shaft nice and steady like this... I'll press my palm tightly against the tip and... Rub rub rub~♪ Rub rub rub~♪
 あはは、すごい反応。同時に責められるのたまらないでしょ？\nガマンなんてしないで出しちゃえ❤出しちゃえ❤,Aha! What a telling reaction. You can't stand your dick being attacked in two places at once; right? Don't hold back. Cum already~❤ Cum~❤
