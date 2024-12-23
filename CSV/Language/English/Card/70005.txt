@@ -1,8 +1,8 @@
 default
 タイガ,Taiga
-Fランクの獣人の少年。獣タイプのモンスターを中心にしたデッキを使用する。まだカードを使い始めたばかりで、あまり強いモンスターを扱うことができない。Cランクの姉にカードの使い方を教わって、日々修行中である。,A young foxkin F-rank cardmaster who's deck specializes in beast-type monsters. He's just starting out with card battles and can't handle stronger monsters very well. His sister who is a C-rank card master; teaches him how to use cards and trains with her every day.
+Fランクの獣人の少年。獣タイプのモンスターを中心にしたデッキを使用する。まだカードを使い始めたばかりで、あまり強いモンスターを扱うことができない。Cランクの姉にカードの使い方を教わって、日々修行中である。,A young foxkin F-rank cardmaster who's deck specializes in beast-type monsters. He's just starting out with card battles and can't handle stronger monsters very well. His sister; who is a C-rank card master; teaches him how to use cards and trains with him every day.
 わわ、兄ちゃん、もしかして無敗のルーキーか？\nすげぇ、こんなところで会えるなんてびっくりだぜ。,Whoa; aren't you the undefeated rookie? That's awesome! I'm surprised to see you here.
-ボクはタイガ。ギルドに入って3ヵ月のF級カードマスターだ！,My name is Taiga. I'm an F-rank cardmaster; and I've been in the guild for three months!
+ボクはタイガ。ギルドに入って3ヵ月のF級カードマスターだ！,My name's Taiga. I'm an F-rank cardmaster; and I've been in the guild for three months!
 ボクの姉ちゃんはC級のカードマスターなんだぜ。\n姉ちゃんに追いつくためにもこの大会で絶対に勝ちまくる！,My sister is a C-rank cardmaster. I'm going to win this tournament and catch up with her!
 てなわけで、勝負しようぜ！,So get ready to battle! I'm gonna go all out!
 よお、兄ちゃん。その指輪をしているってことはカードマスターだな！,Hey. You're wearing one of those rings; which means you're a cardmaster!
@@ -13,18 +13,18 @@ Fランクの獣人の少年。獣タイプのモンスターを中心にした�
 少しは強くなったか？まあ今回もボクの勝ちだろうけどな！,You're a bit stronger now? Well; I'm sure I'll win again this time!
 兄ちゃん強いけどな、今度はボクが絶対に勝つ！さあバトルしようぜ！,You're strong; but this time I'll definitely win! Come on; let's fight!
 強えぇ…。くっ、くそぉ…。次は負けないぜ！,So strong... Damn... I won't lose next time!
-よっしゃ、ボクの勝ちだ！兄ちゃん、バトルありがとな！,Yes; I've won! Thanks for the fight!
+よっしゃ、ボクの勝ちだ！兄ちゃん、バトルありがとな！,Yes! I've won! Thanks for the fight!
 兄ちゃんのターンからだな！さあバトルスタートだ！,It's your turn to start! Come on; let's go!
 さあ、バトル開始だ！,Come on; let the fight begin!
 ドローするぜ。,I'm gonna draw.
 ドロー！,Draw!
 1,
-へへん、{使用カード}を上級召喚だ！,Heheh; {使用カード} is an advanced summon!
+へへん、{使用カード}を上級召喚だ！,Heheh; {使用カード} is an advanced monster!
 {使用カード}を召喚だ。,Summon {使用カード}.
 さらにもう1枚発動だ！,I activate another one as well!
-{使用カード}の効果発動！手札からレベル３以下のモンスター１体を特殊召喚する！,I activate {使用カード}'s effect! I can now Special Summon a Level 3 or lower monster from my hand!
+{使用カード}の効果発動！手札からレベル３以下のモンスター１体を特殊召喚する！,I activate {使用カード}'s effect! I can now Special Summon a level 3 or lower monster from my hand!
 魔法カード発動！{使用カード}！デッキから地属性のカードを加えるぜ.,Magic card activate! {使用カード}! I add a monster card to my hand from my deck.
-手札にモンスターを呼ぶぜ。{使用カード}発動！,I'm gonna add a monster card to my hand. {使用カード} activation!
+手札にモンスターを呼ぶぜ。{使用カード}発動！,I'm gonna add a monster card to my hand. {使用カード}; activate!
 魔法カード発動！{使用カード}！HPを強化だ！,Magic card activated! {使用カード}! Increase HP!
 体力を上げて頑丈にするぜ。{使用カード}を発動！,I'm gonna boost the sturdyness of my target. Activate {使用カード}!
 切り札のカードだ！{使用カード}を発動！獣モンスターを永続的にパワーアップ！,This is my trump card! Activate {使用カード}! It will permanently power up my beast monsters!
