@@ -34,7 +34,7 @@ Fランクの獣人の少年。獣タイプのモンスターを中心にした�
 トラップカードを発動！{使用カード}！,Activate trap card! {使用カード}!
 カードをセットするぜ。,Let's set some cards.
 カードを伏せるぜ。,I'm gonna place my cards.
-ボクの攻撃！{防御カード}を攻撃！,My turn to attack! Go; {防御カード}!
+ボクの攻撃！{防御カード}を攻撃！,My turn to attack! I'll fight {防御カード}!
 バトルだ！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
 うそだろ、この手札じゃなにもできない…。ターンエンドだ…。,No way; I can't do anything with this hand... I'm ending my turn...
 くっ、打つ手なしか…。ターンエンド。,End turn.
