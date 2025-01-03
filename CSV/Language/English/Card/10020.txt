@@ -1,6 +1,9 @@
-default
-サキュバススナイパー,
-わたしの目を見なさい。魅了してあげる❤,
+default,
+サキュバススナイパー,Succubus Sniper
+鋭い視線で男を釘付けにする狩人のサキュバス。矢に魅了の魔力を込めて飛ばすことができるほか、魔眼の使い手であり男と至近距離で見つめ合うことで、相手に強い恍惚感を与えることができる。,A succubus hunter who can imoblize men with her piercing gaze. In addition to her ability to fire charm magic infused arrows; she can also make her male enemies feel immense sexual pleasure by staring into their eyes with her hypnotic gaze.
+[1].このカードが召喚に成功したとき手札を1枚捨てて発動できる。「{%%10018}1体を自分フィールド上に特殊召喚する。,"[1]. When this card is successfully summoned; you may discard 1 card from your hand and Special Summon 1 ""{%%10018}"" onto your side of the field. "
+[2].1ターンに1度、相手フィールド上のモンスター1体を選択し、手札を２枚捨てて発動できる。そのモンスターに「魅了」を付与する。,"[2]. Once per turn; you may discard 2 cards from your hand to inflict ""Charm"" on a monster on your opponent's field."
+わたしの目を見なさい。魅了してあげる❤,Stare into my eyes. Fall under my spell.❤
 頭がぼーっとして、エッチなことしか考えられないでしょ？そのままじっとしてなさい。ふふふ❤,
 服越しで悪いけど、胸で気持ちよくしてあげる。チンポを谷間に挟んでっと…。,
 ズリズリされてどれだけ持つのかしら。さっさと谷間に白旗あげちゃいなさい。くすくす❤,
