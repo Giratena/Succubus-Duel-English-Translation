@@ -5,6 +5,13 @@ Save/
 MonoBleedingEdge/
 SuccubusDuel_Data/
 Translation Releases/
-CSV\Language\繫体中文
-CSV/Language/繫体中文/
 Export/
+CSV/
+Mod/
+.vscode/
+
+CSV/Language/繫体中文/
+# Allow CSV/Language/ and its subfolder English to be tracked
+!CSV/Language/
+!CSV/Language/English/
+
