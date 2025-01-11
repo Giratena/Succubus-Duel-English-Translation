@@ -1,0 +1,3 @@
+default
+呑み込む大蛇,Swallowing Serpent
+相手モンスターを戦闘で破壊し墓地へ送るたびに、攻撃力が500ポイントアップする。,When this card destroys an opponent's monster by battle and sends it to the Graveyard; increase this card's attack power by 500 points.

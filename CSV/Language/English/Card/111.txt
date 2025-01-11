@@ -1,0 +1,3 @@
+default
+召雷術師,Thunder Magician Summoner
+[1].このカードがフィールド上に存在する限り、光属性の魔法カードでダメージを受けた相手モンスターは「麻痺」状態を付与される。\n[2].１ターンに１度、相手モンスターの攻撃宣言時に、手札の「雷」カードまたは「ライトニング」カードを捨てて発動できる。その攻撃を無効にし、相手フィールド上のすべてのモンスターに500ポイントダメージを与える。,[1]. As long as this card is on the field; monsters damaged by Light Attribute Spell Cards are inflicted with [Paralysis].\n[2]. Once per turn; when an opponent's monster declares an attack: You can discard one [Thunder] or [Lightning] card from your hand to negate that attack and inflict 500 points of damage to all monsters on the opponent's field.

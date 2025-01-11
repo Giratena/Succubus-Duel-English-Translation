@@ -1,0 +1,3 @@
+default
+ロック,Lock
+相手フィールド上の永続魔法カード１枚を選択して発動する。そのカードに「ロック」(効果が発動できない,4ターン)を付与する。, [1]. Select 1 Continuous Spell Card on your opponent's field: That card receives [Lock (4 turns)]. ([Lock] = Inflicted card cannot activate any effects)

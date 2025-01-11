@@ -1,0 +1,3 @@
+default
+カースメイカー,Curse Maker
+[1].1ターンに１度、自分の墓地の闇属性モンスター１枚をランダムに取り除いて発動できる。相手フィールド上のすべてのモンスターの最大HPを300ポイントダウンする。\n[2].このカードの攻撃宣言時に発動する。攻撃対象のキャラクターの最大HPを300ポイントダウンする。,[1]. Once per turn; you may banish 1 random Dark Attribute monster from your graveyard. If you do so; reduce the Max HP of all monsters on your opponent's side of the field by 300 points.\n[2]. When this card attacks; the defending monster has their Max HP reduced by 300 points.

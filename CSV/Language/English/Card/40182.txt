@@ -1,0 +1,3 @@
+default
+サードショット,Third Shot
+相手フィールド上のモンスター１体を選択して発動する。そのモンスターに2000ポイントのダメージを与える。,[1]. Select 1 monster on your opponent's field and inflict 2000 damage on it.

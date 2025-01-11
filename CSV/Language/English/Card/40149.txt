@@ -1,0 +1,3 @@
+default
+プロミネンスビーム,Prominence Beam
+[1].自分フィールド上に炎属性モンスターが存在するとき、相手モンスター1体を選択して発動できる。そのモンスターに自分フィールド上の炎属性モンスターの攻撃力を合計した分のダメージを与える。その後、自分フィールド上の炎属性モンスターはそれぞれ自身の攻撃力分のダメージを受ける。,[1]. If you control a Fire Attribute monster; select 1 opponent's monster to activate this card. Inflict damage to that monster equal to the combined attack power of all Fire Attribute monsters you control; then each Fire Attribute monster on your field takes damage equal to its attack power.

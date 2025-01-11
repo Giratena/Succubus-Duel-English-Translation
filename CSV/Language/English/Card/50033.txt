@@ -1,0 +1,3 @@
+default
+巨人襲来,Titan Invasion
+[1].レベル７以上のモンスターの通常召喚に成功したとき発動できる。相手の魔法トラップカードをランダムに2枚まで破壊する。,[1]. If you Normal Summon a Level 7 or higher monster: Destroy up to 2 random Spell/Trap Cards your opponent controls.

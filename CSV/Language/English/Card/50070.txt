@@ -1,0 +1,3 @@
+default
+大噴火,Volcanic Eruption
+[1].相手ターン終了時、自分の手札からレベル5以上のモンスターを捨てて発動できる。捨てたモンスターの攻撃力分のダメージをフィールド上のすべてのモンスターに与える。,[1]. At the end of your opponent's turn; you may discard 1 Level 5 or higher monster from your hand to inflict damage equal to its ATK to all monsters on the field.

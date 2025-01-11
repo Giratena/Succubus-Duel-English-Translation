@@ -1,0 +1,3 @@
+default
+停泊,Docking
+[1].フィールド上の「航海」カードを選択して発動する。そのカードを破壊し、LPを2000回復し、デッキからカードを1枚ドローする。,[1]. Select a "Navigation" card on the field. Destroy it; recover 2000 LP; and draw 1 card from your Deck.

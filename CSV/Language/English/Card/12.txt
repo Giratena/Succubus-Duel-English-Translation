@@ -1,0 +1,4 @@
+default
+デーモンスレイヤー,Demon Slayer
+[1].このカードが悪魔タイプのモンスターまたは「サキュバス」モンスターへ与える戦闘ダメージは倍になる。\n[2].悪魔タイプのモンスターまたは「サキュバス」モンスターを戦闘で破壊し墓地へ送った時に発動する。カードを２枚ドローする。,[1]. This card deals double combat damage to Demon and "Succubus" Type monsters.\n[2]. When this card destroys a Demon or "Succubus" Type monster by battle: Draw 2 cards.  
+

@@ -1,0 +1,3 @@
+default
+植物学者セージ,Botanist Sage
+[1].このカードが場に出たとき発動する。デッキから「樹」カードをランダムに２枚まで手札に加える。\n[2].1ターンに1度、自分の「樹」カードが破壊されたとき発動する。その破壊されたカードの同名カードを生成し、自分の手札に加える。,[1]. When this card is Summoned: Add up to 2 random "Tree" cards from your deck to your hand.\n[2]. Once per turn when a [Tree] card you control is destroyed: Add 1 card with the same name as that card to your hand.

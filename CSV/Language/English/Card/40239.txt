@@ -1,0 +1,3 @@
+default
+空中要塞都市,Aerial Fortress City
+自分フィールド上に同名カードが存在しない場合、手札を１枚捨てLPを3000払って発動可能。\n[1].相手が魔法カードを発動したとき発動する。自分フィールド上のランダムな風属性モンスターに「次受ける戦闘ダメージ・効果ダメージを半分にする」(1ターン)を付与する。\n[2].自分ターン開始時に発動する。自分フィールド上のランダムな風属性モンスター１体のHPを300ポイント回復する。,If there is no card with this card's name on your field; you may discard 1 card from your hand and pay 3000 LP to activate this card.\n[1]. When an opponent activates a Spell Card; grant [Halve the next battle/effect damage received (for 1 turn)] to a random Wind Attribute monster on your field.\n[2]. At the start of your turn; recover 300 HP for a random Wind Attribute monster on your field.

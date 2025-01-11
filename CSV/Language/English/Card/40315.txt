@@ -1,0 +1,3 @@
+default
+渇望,Sexual Thirst
+[1].このターンダメージを受けていない相手キャラクターが存在する場合、ターン終了時に発動する。それらのキャラクターに「渇望(次受ける快楽ダメージが倍になる)」を付与する。,[1]. If any opposing character has not received damage at the end of your turn; inflict [Yearning] on those characters. ([Sexual Thirst] = doubles the next pleasure damage received)

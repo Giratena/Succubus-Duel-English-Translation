@@ -1,0 +1,3 @@
+default
+聖なるともしび,Sacred Light
+LPを500払い発動する。\n[1].このカードがフィールド上にある限り、闇属性モンスターのHPは300ポイントダウン。光属性モンスターのHPは300ポイントアップ。,Pay 500 LP to activate.\n[1]. While this card is on the field: Dark Attribute monsters lose 300 HP and Light Attribute monsters gain 300 HP.

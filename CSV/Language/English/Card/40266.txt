@@ -1,0 +1,3 @@
+default
+クロス・ピアッシング,Cross Piercing
+[1].フィールド上のキャラクター１体を選択して発動する。そのキャラクターに「装備カードを２枚以上装備している場合、このカードは「貫通」を持つ」を付与する。,[1]. Select 1 character on the field. If that character is equipped with 2 or more equipment cards; grant [Pierce] to this card.

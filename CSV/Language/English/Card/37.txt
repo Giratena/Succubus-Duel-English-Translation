@@ -1,0 +1,4 @@
+default
+鍵の番人,Keyholder Guardian
+[1].このカードが通常召喚に成功したとき発動する。相手フィールド上のすべてのカードに「ロック」(2ターン)を付与する。「ロック」状態のカードは効果を発動することができない（ただしすでに発動している効果は無効にならない）。\n[2].１ターンに１度、このカード以外のカードが「ロック」を付与した時発動する。その「ロック」を解除し、カードを２枚ドローする。,[1]. When this card is Normal Summoned: All cards your opponent controls gain [Lock (2 Turns)]. Cards with [Lock] cannot activate their effects (passive effects aren't negated).\n[2]. Once per turn when a card gains [Lock] by another card's effect: That card loses [Lock] and you draw 2 cards.
+あらゆるものの「鍵」を司る能力を持つ戦士。,A warrior with the power to control all things key-related.

@@ -1,0 +1,18 @@
+default
+モルゲン宿屋,
+Place/MorugenInn,
+デッキ編集,Deck Edit
+タイトルに戻る,Back to title
+ロード,Load
+セーブ,Save
+イベント回想,Event Viewer
+回想バトル,Battle Viewer
+図鑑,Encyclopedia
+アニメ回想,Animation Viewer
+特殊オプション,Special Options
+プレイヤー情報,Player Infomation
+仮想バトル,Virtual Battle
+街へ戻る,Return to the City
+テスト,
+テスト2,
+テスト3,

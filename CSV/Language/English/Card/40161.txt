@@ -1,0 +1,3 @@
+default
+炎への祈り,Prayer to Flame
+[1].LPを1000払い、自分フィールド上の炎属性モンスター１体を選択して発動する。そのモンスターに「再生」(400)を付与する。,[1]. Pay 1000 LP; select 1 Fire Attribute monster on your field. Grant [Regeneration (400)] to that monster.

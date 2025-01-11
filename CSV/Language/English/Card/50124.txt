@@ -1,0 +1,3 @@
+default
+援護射撃,Supporting Fire
+[1].相手モンスターと戦闘を行う攻撃宣言時に、戦闘に参加してないハンタータイプの自分モンスター１体を選択して発動できる。その相手モンスターに選択したモンスターの攻撃力×２のダメージを与える。,[1]. When you declare an attack against an opponent's monster; select one Hunter Type monster you control that is not engaged in battle. Inflict damage to that opponent's monster equal to twice the ATK of the selected monster.

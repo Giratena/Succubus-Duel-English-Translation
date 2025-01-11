@@ -1,0 +1,3 @@
+default
+不死鳥の帰還,Phoenix's Resurgence
+[1].相手フィールドに魔法トラップカードが存在するとき、手札を１枚捨てて発動できる。自分の墓地から「スザク」を１体特殊召喚し、相手の魔法トラップカードをランダムに１枚破壊する。,[1]. If your opponent controls a Spell/Trap Card: You can discard 1 card from your hand; Special Summon 1 "{%%43}" from your Graveyard and destroy 1 random Spell/Trap Card your opponent controls.

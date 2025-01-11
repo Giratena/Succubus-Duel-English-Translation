@@ -1,0 +1,3 @@
+default
+勇者の剣,Hero's Sword
+自分フィールド上の「勇者」モンスターに装備可能。\n[1].１ターンに１度発動できる。自分フィールド上のすべてのモンスターの攻撃力をターン終了時まで1000ポイントアップする。\n[2].１ターンに1度、相手カードの効果が発動したときに発動できる。その効果を無効にする。,[1]. Can be equipped to a "Hero" monster you control. Once per turn; increase the ATK of all monsters you control by 1000 points until the end of the turn.\n[2]. Once per turn; when an opponent's card effect is activated; negate that effect.

@@ -1,0 +1,3 @@
+default
+ゴブリンシャーマン,Goblin Sharman
+[1].1ターンに1度、フィールド上のモンスター1体を選択して発動できる。そのモンスターの攻撃力を300ポイントダウンさせる。,[1]. Once per turn; you may choose one monster on the field. Reduce that monster's attack power by 300.

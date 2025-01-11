@@ -1,0 +1,3 @@
+default
+土砂崩れ,Landslide
+[1].相手モンスターが場に出たとき発動できる。自分のデッキの上からカードを5枚墓地へ送り、その中にある地属性モンスターカードの枚数×400ポイントのダメージをそのモンスターに与える。,[1]. When an opponent's monster is summoned; send the top 5 cards of your Deck to the Graveyard; then inflict damage to that monster equal to 400 x X (X = The number of Earth Attribute Monster Cards sent to the Graveyard by this effect).

@@ -1,0 +1,3 @@
+default
+機械製造工場,Machinery Manufacturing Plant
+[1].自分フィールド上にモンスターが存在しない場合、１ターンに１度、手札のレベル４以下機械タイプモンスター１体を選択して発動できる。そのカードを特殊召喚し、このカードのチャージを+1する。\n[2].このカードにチャージが貯まっている場合、モンスターが通常召喚されたとき発動する。そのモンスターに「毒(チャージ×100)」を付与する。,[1]. If no monsters are present on your field; once per turn you may select 1 Machine Type monster Level 4 or lower from your hand. Special Summon that card and increase this card's Charge by +1.\n[2]. When a monster is Normal Summoned while this card has stored Charges; grant [Poison (Charge x 100)] to that monster.

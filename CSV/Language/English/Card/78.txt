@@ -1,0 +1,3 @@
+default
+サムライ,Samurai
+[1].このカードが直前の自分ターンに攻撃宣言をしていない場合、１ターンに１度、相手モンスターが場に出たとき発動できる。そのモンスターに1000ポイントのダメージを与える。,[1]. If this card did not attack last turn and an opponent's monster enters the field; deal 1000 points of damage to that monster (once per turn).

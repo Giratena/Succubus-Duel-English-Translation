@@ -1,0 +1,3 @@
+default
+砲撃手,Cannoner
+[1].手札の魔法カードを１枚捨てて発動できる。相手の魔法・罠カードをランダムに１枚破壊する。,[1]. You can discard one Spell Card from your hand; Destroy 1 random Magic/Trap Card your opponent controls.

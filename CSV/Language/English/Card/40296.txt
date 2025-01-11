@@ -1,0 +1,3 @@
+default
+暗黒騎士の猛追,Dark Knight's Pursuit
+LPを1000払って発動可能。\n[1].自分の「{%%1}」が相手モンスターに攻撃宣言を行ったとき発動する。デッキの一番上のカードを墓地へ送り、そのカードがモンスターカードだった場合、ブラックナイトの攻撃宣言回数を+1し、攻撃力を500ポイントアップする。,Pay 1000 LP.\n[1]. If a "{%%1}" you control declares an attack on a monster your opponent controls: Send the top card of your deck to the Graveyard. If that card is a Monster Card: That "{%%1}"'s attack hits one more time for this combat and it gains 500 ATK.

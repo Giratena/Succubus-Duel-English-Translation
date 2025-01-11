@@ -1,0 +1,3 @@
+default
+無尽の矢,Endless Arrows
+[1].手札を１枚捨てて発動できる。自分フィールド上のハンタータイプのモンスターの数×２枚の「ショット」を生成し、手札に加える。,[1]. Discard 1 card from your hand. Generate 2 x X {%%40072} and add them to your hand. (X = The number of Hunter Type monsters you control).

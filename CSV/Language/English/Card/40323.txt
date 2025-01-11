@@ -1,0 +1,3 @@
+default
+暴騰！,Soaring Prices!
+[1].自分フィールド上に表側表示で存在する「{%%40323}」を１枚選択して発動する。そのカードのチャージを+6する。,[1]. Select 1 "{%%40323}" face-up on your field; increase its charge by +6.

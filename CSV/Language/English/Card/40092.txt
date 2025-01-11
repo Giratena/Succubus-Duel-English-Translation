@@ -1,0 +1,3 @@
+default
+バーサークオーラ,Berserker Aura
+LPを1000払って発動可能。\n[1].自分のモンスターが攻撃宣言をしたときLPを200払って発動する。そのモンスターに100ポイントのダメージを与え、ターン終了時まで攻撃力を400ポイントアップする。,Pay 1000 LP to activate.\n[1]. If your monster declares an attack: Pay 200 LP; Deal 100 damage to that monster and it gains 400 ATK until the end of the turn.

@@ -1,0 +1,3 @@
+default
+サイクロプス,Cyclops
+人間の2倍程度の大きさがある一つ目の巨人。頑丈な肉体から繰り出されるこん棒は岩をも砕く。,A one-eyed giant twice the size of a human; wields a club that can shatter rocks with its robust physique.

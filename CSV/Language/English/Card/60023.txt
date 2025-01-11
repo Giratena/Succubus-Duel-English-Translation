@@ -1,0 +1,4 @@
+default
+チャームペンダント,Charm Pendant
+自分フィールド上に「サキュバス」モンスターがいる場合、相手キャラクターに装備可能。\n[1].装備キャラクターはこのカードを装備している限り「魅了(永続)」状態になる。\n[2].自分ターン終了時に発動する。装備キャラクターの最大HPを200ポイントダウンする。\n[3].このカードを装備したキャラクターが、オナニーなどで自滅して墓地へ送られたときに発動する。このカードを自分の手札に戻し、さらにすべての自分キャラクターの攻撃力を500ポイントアップする。,If a "Succubus" Type monster is on your field; you may equip this card to an opponent's character.\n[1]. While this card is equipped; the equipped character gains [Charmed (Permanent)].\n[2]. Activate at the end of your turn; decrease the maximum HP of the equipped character by 200 points. \n[3]. When an equipped character is sent to the Graveyard by their own actions such as masturbation or begging; return this card to its owner's hand and all monsters on your field gain 500 ATK.
+（イージー以下の場合、発動後３ターン目の自分ターン終了時に自壊する）,(If playing at Easy level or below; banish this card at the end of the third turn after activation following its owner's turn.)

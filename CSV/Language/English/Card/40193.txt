@@ -1,0 +1,3 @@
+default
+正々堂々,Fair and Square
+[1].このカードがフィールド上に存在する限り、カードの効果および状態異常による戦闘ダメージの増減を無効にする。このカードは発動後６ターン目のターン終了時に自壊する。,[1]. As long as this card remains on the field; negate any increase or decrease in battle damage caused by card effects or status conditions. banish this card at the end of the 6th turn after it was activated.

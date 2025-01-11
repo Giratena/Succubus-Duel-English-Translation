@@ -1,0 +1,3 @@
+default
+エルドラドの黄金樹,Golden Tree of El Dorado
+LPを500払い、手札の地属性カードを１枚捨てて発動可能。このカード名の[1]の効果は１ターンに１度しか発動できない。\n[1].表側表示のこのカードが破壊されたとき発動する。破壊したプレイヤーはカードを２枚ドローする。\n[2].自分ターン終了時に発動する。カードを１枚ドローする。,Pay 500LP and discard a card. You can only activate the first effect of "Golden Tree of El Dorado" once per turn.\n[1]. If this card is destroyed while face-up: The player who destroyed it draws 2 cards.\n[2]. At the end of your turn: Draw 1 card.

@@ -1,0 +1,3 @@
+default
+武装放棄,Abandon Weapons
+LP500支払って発動する。フィールド上の表側表示の装備カードをすべて破壊する。,Pay 500LP; Destroy all face-up Equipment cards on the field.

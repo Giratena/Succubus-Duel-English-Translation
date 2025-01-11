@@ -1,0 +1,3 @@
+default
+濃縮フェロモンブレス,Concentrated Pheromone Breath
+自分のLPが2000ポイント以下の場合、手札をすべて捨てて発動可能。\n[1].相手ターン終了時に発動する。相手の墓地に存在する「{%%40264}」の枚数×500ポイントのダメージを相手プレイヤーに与え、このカードは自壊する。,If your LP is 2000 or below; you may discard your entire hand.\n[1]. Activate at the end of your opponent's turn; inflict 500 x X damage to your opponent (X = The number of 「{%%40264}」 in the opponent's Graveyard). Then; banish this card.

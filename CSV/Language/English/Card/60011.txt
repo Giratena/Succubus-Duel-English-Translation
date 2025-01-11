@@ -1,0 +1,3 @@
+default
+雷神の大槌,Thor's Hammer
+手札から「雷」カードまたは「ライトニング」カードを２枚捨てて、光属性戦士タイプモンスターに装備可能。\n[1].装備モンスターの攻撃力を800ポイントアップする\n[2].装備モンスターの攻撃宣言時に発動する。相手フィールド上のすべてのモンスターに500ポイントダメージを与える。,Discard 2 "Thunder" or "Lightning" cards from your hand to activate. Can only be equipped to a Light Attribute Warrior Type monster.\n[1]. The equipped monster gains 800 ATK.\n[2]. When the equipped monster declares an attack: Deal 500 damage to all monsters your opponent controls.

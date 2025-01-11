@@ -1,0 +1,3 @@
+default
+傀儡術師,Puppeteer
+[1].自分の装備カードが墓地へ送られたとき発動できる。その装備カードをゲームから取り除き、このカードをモンスター扱い(レベル4,[1]. When an Equip Card you own is sent to the Graveyard; banish that Equip Card and Special Summon this card as a Monster (Level 4; ATK 500; HP 2200) on your field.

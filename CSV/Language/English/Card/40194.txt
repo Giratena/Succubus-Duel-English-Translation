@@ -1,0 +1,3 @@
+default
+烈火一閃,Blazing Slash
+[1].LPを1000払い、自分フィールド上の効果を持たないレベル6戦士タイプモンスター１体を選択して発動する。そのキャラクターの攻撃力分のダメージを相手フィールド上のすべてのモンスターに与え、さらに相手モンスターが装備している装備カードをすべて破壊する。,[1]. Pay 1000 LP and activate by selecting 1 Level 6 Warrior Type monster on your field without effects. Inflict damage equal to its ATK to all monsters on your opponent's field.\nAdditionally; destroy all equipment cards equipped to your opponent's monsters.

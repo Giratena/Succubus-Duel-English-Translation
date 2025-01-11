@@ -1,0 +1,3 @@
+default
+ナイトの進軍,Knight's March
+[1].自分ターン開始時に、自分フィールド上のモンスター1体をコストにして発動できる。デッキから「{%%47}」または「{%%5}」１体を選択し、自分フィールド上に特殊召喚する。その後、デッキからカードを１枚ドローする。,[1]. At the start of your turn; you may Special Summon 1 "{%%47}" or "{%%5}" from your Deck by tributing 1 monster on your field. Then; draw 1 card from your Deck.

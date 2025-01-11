@@ -1,0 +1,3 @@
+default
+たくらみ,Scheme
+このカード名のカードは１ターンに１枚しか発動できない。\n[1].自分プレイヤーに、「相手ターン中に自分フィールド上のトラップカードが破壊された場合、カードを１枚ドローする」（4ターン）を付与する。,You may only use one card with this name per turn.\n[1]. Grant [Detection (4 turns)] to yourself. ([Detection] = Draw 1 card if a Trap Card on your field is destroyed during your opponent's turn).

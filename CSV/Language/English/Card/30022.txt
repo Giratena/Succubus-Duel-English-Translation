@@ -1,0 +1,3 @@
+default
+かまいたち,Kamaitachi
+このカードが場に出たとき、相手のランダムなモンスター1体に墓地の風属性のカード×50ポイントダメージを与える。,[1]. When this card enters the field, inflict 50 points of damage to a random monster on your opponent's field equal to the number of wind-type cards in your Graveyard.

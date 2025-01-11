@@ -1,0 +1,3 @@
+default
+ミスリーディング,Misleading
+[1].相手が自分フィールド上のカード1枚のみを対象にして効果を発動したときに発動できる。その効果対象を相手フィールド上の別のカード１枚に変更する。,[1]. If an opponent targets only 1 card on your field with a card effect; you may change the target to another card on your opponent's field.

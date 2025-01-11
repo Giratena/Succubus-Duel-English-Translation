@@ -1,0 +1,3 @@
+default
+弔いの火,Mourning Flames
+[1].自分フィールド上に炎属性モンスターが存在する場合、相手が魔法トラップカードを発動したとき発動できる。相手の墓地のモンスターカードを3枚まで選択してゲームから取り除く。,[1]. If there is a Fire Attribute monster on your field when your opponent activates a Spell/Trap Card; you may banish up to 3 monster cards from your opponent's Graveyard.

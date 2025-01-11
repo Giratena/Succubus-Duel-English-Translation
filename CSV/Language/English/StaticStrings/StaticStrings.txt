@@ -1,0 +1,143 @@
+default
+Title,
+SouthVillage,
+MorugenEntrance,
+Morugen,
+MorugenUnderground,
+MorugenInn,
+Colosseum,
+Tavern,
+ColosseumVIPRoom,
+WestTown,
+CollegeArchive,
+MorugenPrison,
+Sexy01,
+Kiss01,
+PaizuriEffect,
+Pafupafu,
+FootJob,
+HeelJob,
+Blowjob,
+Blowjob2,
+Bite01,
+Bind,
+Heart2,
+SwordEffect01,
+Strike01,
+Poison,
+SummonEffect,
+BlackHole,
+Music,
+Breath,
+SexySmoke,
+KissMultiple,
+Gaze,
+SpiderWeb,
+Heart,
+Bomb01,
+Chrono,
+ArrawRain,
+HeartStamp,
+PowerUpEffect,
+PowerDownEffect,
+Circle,
+MagicAttack,
+ImpactAttack01,
+Claw,
+召喚,Summon
+特殊召喚,Special Summon
+攻撃,Attack
+発動,Activate
+防御,Defend
+セット,Set
+オナニー,Masturbate
+おねだり,Beg
+デッキ,Deck
+墓地,Graveyard
+カード生成,Card Generation
+キャンセル,Cancel
+バトル終了！,Battle End!
+プレイヤーの勝利！！,Player Wins!!
+相手プレイヤーの勝利！！,Opponent Player Wins!!
+手札上限枚数をオーバーしています。,The maximum number of cards in hand has been exceeded.
+カードの効果を発動しますか？,Would you like to activate this card's effect?
+効果発動,Activation Effect
+カードを連鎖発動しますか？,Do you want to chain activate this card?
+カードの生成回数は残り{x}回です。,The number of times this card can be generated is {x}.
+{A}が状態異常のせいで勝手に攻撃をしてしまう！,{A} attacks on its own due to an abnormal state!
+{A}が間に立って{B}を守っている！,{A} stands in to protect {B}!
+相手に自分のモンスターゾーンが１か所占領された！,Your opponent has captured one of your monster zones!
+{A}のコントロールが変更されたがフィールドがいっぱいのため破壊された！,{A}'s control changed, but was destroyed because the field was full!
+{A}のコントロールが奪われた！,{A}'s control was taken away!
+{A}と{B}のコントロールが入れ替わった！,The control of {A} and {B} switched!
+{x}Gを失いました,Lost {x}G.
+{x}Gを手に入れました,Obtained {x}G.
+主人公の攻撃力が{x}ポイントダウンしました,The main character's power decreased by {x} points.
+経験値{x}ポイントを手に入れました,Obtained {x} experience points.
+経験値{x}ポイントを失いました,Lost {x} experience points.
+ランクポイント{x}を手に入れました,Obtained {x} rank points.
+ランクポイント{x}を失いました,Lost {x} rank points.
+{A}を手に入れました,Obtained {A}.
+{A}を1枚奪われました,Lost 1 {A}.
+レベルが{主人公レベル}になりました\n攻撃力{x}アップ！\nHP{y}アップ！,Level increased to {主人公レベル}!\nAttack power up {x}!\nHP up {y}!
+レベルが{主人公レベル}になりました\n攻撃力{x}ダウン、\nHP{y}ダウン,Level decreased to {主人公レベル}!\nAttack power down {x}!\nHP down {y}!
+主人公は{A}に対して{x}%弱くなった,Player is now {x}% weaker to {A}.
+主人公は{A}に対して{x}%強くなった,Player is now {x}% more resistant to {A}.
+文字数が多すぎます({x}文字以内),Not enough characters (must be at most {x} characters)
+文字数が少なすぎます({x}文字以上),Character limit reached (must be at least {x} characters)
+決定,Confirm
+選択できるカードがありません,There are no cards that can be selected.
+必要な数の選択できるカードがありません,You do not have enough cards that can be selected.
+カードを選択してください。,Please select a card.
+コインの結果は表,The coin result is heads.
+コインの結果は裏,The coin result is tails.
+はい,Yes
+いいえ,No
+開く,Open
+次へ,To Next
+戻る,Back
+保存,Set
+昇順,Ascending
+降順,Decending
+新しいデッキ,New Deck
+下級モンスター:,Lesser Monsters: 
+上級モンスター:,Advanced Monsters: 
+モンスター,Monster
+魔法:,Spells: 
+罠:,Traps: 
+残数なし,No cards left
+編集上限,Edit Limit exceeded
+編集する,Edit Deck
+破棄,Discard
+編集内容が保存されていません。,Your edits to this card deck have not been saved.
+使用できないデッキを装備しています。,You are equipping a deck that cannot be used.
+絞り込み,Optimize
+並び替え,Reorganize
+保存しました。,Save Complete
+タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. /nThe deck you are currently using has a border around it.
+デッキ名を編集します。,Change the deck name.
+闇属性,Darkness
+水属性,Water
+風属性,Wind
+火属性,Fire
+炎属性,Fire
+地属性,Earth
+光属性,Light
+ローグ,Rogue
+魔術師,Spellcaster
+戦士,Warrior
+ハンター,Hunter
+悪魔,Demon
+スライス,Slime
+通常魔法,Spell
+永続魔法,Continuous Spell
+罠,Trap
+装備,Equipment
+ド口ー,Draw
+//These strings don't appear to work:
+一覧,Preview
+枚数:,Cards:
+閉じる,Close
+攻,Atk
+名前,Name
+効果,Effect

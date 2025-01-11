@@ -1,0 +1,3 @@
+default
+一休み,Deep Breath
+[1].お互いのプレイヤーのHPを1500ポイント回復する。,[1]. Both players recover 1500 HP.

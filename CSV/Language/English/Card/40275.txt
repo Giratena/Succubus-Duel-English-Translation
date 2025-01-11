@@ -1,0 +1,4 @@
+default
+神隠し,Spirited Away
+[1].相手フィールド上の「ショタ」キャラクター1体を選択して発動する。それがモンスターだった場合、そのカードを破壊しゲームから取り除く。それがプレイヤーだった場合、拘束攻撃を行う。,[1]. Select 1 [Shota] character on your opponent's field. If it is a monster; destroy that card and banish it from the game. If it is a player; perform a Restrained Attack.
+

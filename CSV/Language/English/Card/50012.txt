@@ -1,0 +1,4 @@
+default
+拘束する粘液,Restraining Mucus
+「ぬるぬる」状態の相手キャラクターの攻撃宣言時に発動できる。その攻撃を無効にし、1000ポイントのダメージを与える。,[1]. If an opponent's character inflicted with [Slippery] declares an attack; negate that attack and that character receives 1000 points of damage.
+体にまとわりつかせたスライムを操り、偽りの女体で攻撃者を絡めとる。全身をスライムに包まれる快楽は、はかり知れない。,By manipulating the slime to coil around their body; the attacker is tricked by imitations of various female's body parts. The pleasure of being entirely enveloped by this slime is incomprehensible. 

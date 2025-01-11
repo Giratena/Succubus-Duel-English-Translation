@@ -1,0 +1,3 @@
+default
+かみつき花,Biting Flower
+森に行くと生えている花。服にかみついてきて破かれることがある。,A flower that can be found when entering a forest. It can latch onto and potentially rip clothing.

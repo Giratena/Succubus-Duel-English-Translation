@@ -1,0 +1,3 @@
+default
+渾身の一撃,All-Out Strike
+[1].自分フィールドおよび墓地にモンスターが存在しない場合、プレイヤーの攻撃宣言時に発動できる。このターンの間、プレイヤーが相手に与える戦闘ダメージは倍になる。,[1]. If there are no monsters on your field and in your Graveyard when you declare an attack; double the battle damage dealt to your opponent for this turn.

@@ -1,0 +1,3 @@
+default
+妖精の幻惑,Fairy Illusion
+相手モンスターが自分の「フェアリー」モンスターへ攻撃宣言を行ったときに手札を１枚捨てて発動できる。すべての相手キャラクターに「このターン攻撃不能」と「ミニマム」を付与する。,When an opponent's monster declares an attack on your "Fairy" Type monster; you may discard 1 card from your hand to grant [Cannot Attack (1 turn)] and [Minimum] to all opponent's characters.

@@ -1,0 +1,3 @@
+default
+混沌のサイコロ,Dice of Chaos
+[1].サイコロを１回振る。フィールド上のすべてのモンスターのレベルを、出た目と同じにする。,[1]. Roll a die; change the Levels of all monsters on the field to match the result.

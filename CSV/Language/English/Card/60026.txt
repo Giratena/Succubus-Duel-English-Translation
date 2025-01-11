@@ -1,0 +1,3 @@
+default
+ピンクパフューム,Pink Perfume
+墓地の「ウィスプ」カードを２枚取り除いて自分キャラクターに装備可能。\n[1].装備者の攻撃力を500ポイントアップする。\n[2].戦闘時に「魅了」と「発情(200,Banish 2 "Wisp" cards from your Graveyard to equip this card.\n[1]. Increase the ATK of the equipped character by 500 points.\n[2]. When battling; apply [Charm] and [Arousal (200; 10 Turns)] to the opponent.

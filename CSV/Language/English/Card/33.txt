@@ -1,0 +1,4 @@
+default
+アクアガーディアン,Aqua Guardian
+自分の手札が墓地へ送られたとき発動する。このカードのHPを800ポイントアップする（複数枚同時に捨てられても1回と数える）。,When a card is discarded from your hand: This card gains 800 HP (Triggers once even if multiple cards are discarded).
+水中神殿を守る鉄壁の戦士。古代の技術で作られた鎧は、水をエネルギーに変え、どこまでも強くなる。,水中神殿を守る鉄壁の戦士。古代の技術で作られた鎧は、水をエネルギーに変え、どこまでも強くなる。

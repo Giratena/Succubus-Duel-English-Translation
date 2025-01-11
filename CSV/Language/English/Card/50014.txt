@@ -1,0 +1,3 @@
+default
+ポイズンボトル,Poison Bottle
+モンスターが特殊召喚に成功したとき発動できる。相手フィールド上のすべてのモンスターに毒（500,If a monster is Special Summoned: All monsters your opponent controls gain [Poison (500)] for 3 turns.

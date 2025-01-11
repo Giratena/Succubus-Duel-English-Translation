@@ -1,0 +1,3 @@
+default
+投げ網トラップ,Cast Net Trap
+[1].相手フィールド上にモンスターがすでに存在している場合に、相手がモンスターを通常召喚したとき発動できる。相手フィールド上のすべてのモンスターに「拘束」を付与する。,[1]. If there are already monsters on your opponent's field when they Normal Summon a monster; apply [Restraint] to all monsters on their field.

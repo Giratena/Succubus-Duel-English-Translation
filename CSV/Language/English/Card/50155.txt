@@ -1,0 +1,3 @@
+default
+山賊王の号令,Bandit King's Command
+[1].自分の手札に「{%%55}」が存在する場合、自分ターン開始時に発動できる。デッキから「{%%27}」を２体自分フィールド上に特殊召喚し、自分プレイヤーに「「バンディット」モンスターの攻撃力は500ポイントアップする」(1ターン)を付与する。,[1]. When "{%%55}" is in your hand: At the start of your turn; you may Special Summon 2 "{%%27}" from your Deck to your field and grant yourself [Bandit attack power +500 (1 turn)].

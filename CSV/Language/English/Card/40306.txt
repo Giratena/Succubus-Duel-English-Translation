@@ -1,0 +1,3 @@
+default
+星の導き,Starlight Guidance
+このカード名のカードは１ターンに１度しか発動できない。\n[1].自分フィールド上に闇属性カードしか存在しない場合、手札を１枚捨てて発動できる。デッキから光属性カードを２枚まで手札に加える。,You may only use one card with this name per turn.\n[1]. If there are only Dark Attribute cards on your field; you may discard 1 card from your hand. Add up to 2 Light Attribute cards from your Deck to your hand.

@@ -1,0 +1,3 @@
+default
+効率的組み立て,Efficient Assembly
+[1].自分の手札・墓地・デッキにモンスターカードが存在しない場合、ターン開始時に発動する。デッキからトラップカードをランダムに１枚手札に加える。,[1]. If there are no monsters in your hand/Graveyard/deck at the start of your turn: Add 1 random Trap Card from your deck to your hand.

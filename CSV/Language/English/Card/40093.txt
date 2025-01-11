@@ -1,0 +1,3 @@
+default
+あふれ出る生命力,Overflowing Life Force
+フィールド上の「成長」状態のモンスター1体を選択して発動する。そのモンスターのHPを最大まで回復し、ターン終了時まで攻撃力を500ポイントアップさせる。,Target 1 monster with [Growth]; That monster fully recovers and it gains 500 ATK until the end of the turn.

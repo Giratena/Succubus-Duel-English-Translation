@@ -1,0 +1,3 @@
+default
+ブラックスミス,Blacksmith
+[1].1ターンに1度、このカード以外のモンスター1体を選択して発動できる。そのモンスターの攻撃力を300ポイントアップさせる。,[1]. Once per turn: You can target another monster; That monster gains 300 ATK.

@@ -1,0 +1,46 @@
+default,
+プラント,Clover
+山奥の村から今回の大会に参加した新人のカードマスター。村にはほとんどカードマスターがいなかったため、あまり実戦の経験がない。虫タイプと植物タイプのモンスターを好んで使う。,A new cardmaster from a village deep in the mountains who is now participating in the tournament. Since there aren't many cardmasters in her village; she doesn't have much experience in competitive battles. She prefers to use insect- and plant-type monsters.
+おや、あなたもカードマスターですか？,Oh! Are you a cardmaster; too?
+わたしはプラント。F級カードマスターです。,I'm Clover. I'm an F-rank cardmaster.
+今回は多くのカードマスターと手合わせできるチャンスと聞いてやってきました。,I came to this event after I heard it was a good opportunity to meet many other cardmasters.
+では、さっそく手合わせお願いいたします！,So then; please battle me right away!
+またお会いしましたね。,Hey; we meet again!
+この間は負けましたが、今度は負けませんからね。さあバトルしましょう！,I may have lost last time; but this time will be different; OK? Let's battle!
+この間はわたしの勝ちでした。今回も勝っちゃいますよ！,I won our battle last time. I'm going to win this time too!
+強いですね…。ううっ、次は負けませんよ。,Man; you're strong...
+ふふ、わたしの勝ちです。バトルありがとうございました！,Teehee! Looks like I win. Thank you for battling me!
+あなたのターンからですね。お手柔らかにお願いします。,It's your turn first. Please be gentle!
+お手柔らかにお願いしますね。,Go easy on me; OK?
+わたしのターンですね、ドローします。,It's my turn now. I'm going to draw a card.
+{使用カード}を上級召喚します。,Advance summoning {使用カード}!
+{使用カード}を召喚です。,Summon; {使用カード}.
+ううっ、あうう・・・❤,Oogh; ooh...❤
+あれあれ、蘇ってきたのに、まだ調子が悪そうですね。\nもしかして負けたときの快感が忘れられないのかな？,Oh oh? You look like you're in pretty bad shape for someone who's just been revived. Maybe it's because you couldn't forget how good losing felt?
+くすくす❤あまり意味のない蘇生になっちゃいましたね。\n蘇らせる相手はもう少し選んだ方がいいと思いますよ。,Teehee.❤ I guess there wasn't really much use in reviving again huh?  I think you should be a little more careful about who you choose to resurrect.
+さらにもう1枚発動します.,I have one more thing to activate.
+魔法カード発動！{使用カード}！風の刃で効果ダメージを与えます.,Magic card activate! {使用カード}! Deal damage using blades of wind!
+風で切り裂きましょう。{使用カード}発動！,Let the wind cut you down! {使用カード} activate!
+魔法カード発動！{使用カード}！攻撃力をアップさせます！,Magic card activate! {使用カード}! I'm going to increase the attack power of my monsters!
+味方のモンスターを強化します。{使用カード}を発動！,I'm going to strengthen my monsters. Activate {使用カード}!
+{使用カード}を発動！攻撃力をアップさせます！,{使用カード} activate! Increase monster attack power!
+{使用カード}で味方の攻撃力を高めます！,I'm going to increase the power of my allies with the card {使用カード}!
+{使用カード}を発動！味方全体の攻撃力アップさせます！,{使用カード} activate! Increase the attack power of all ally monsters!
+味方のモンスターを強化します！{使用カード}を発動！,I'm going to strengthen my monsters! {使用カード} activate!
+{使用カード}を発動！デッキから虫タイプのモンスターを2枚手札に加えます！,{使用カード} activate! I'm going to add 2 insect-type monsters from the deck into my hand!
+{使用カード}を発動です！植物がいるので虫モンスターを2枚手札に加えます。,{使用カード} activates! Since I have a plant; I can add two insect monsters to my hand.
+{使用カード}を発動！デッキから虫タイプのモンスターを1枚手札に加えます！,{使用カード} activate! I add one insect-type monster from the deck to my hand!
+{使用カード}を発動です！デッキから虫モンスターを手札に加えます。,{使用カード} activates! I add an insect monster from the deck into my hand.
+装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
+魔法カードを発動します！{使用カード}！,Activating magic card! {使用カード}!
+トラップカードを発動します！{使用カード}！,Trap card activate! {使用カード}!
+カードをセットです。,Card set.
+カードを伏せます。,I'll place this card face down.
+わたしも戦闘に加わります！{防御カード}を攻撃！,I will join the fight; too! Attack {防御カード}!
+バトルです！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
+うっ、なにもできませんね。ターンエンドです。,Ugh; I guess I can't do anything. End turn.
+この手札では…。ターンエンドです。,No cards to play... End turn.
+ターン終了です。,My turn is over.
+ターンエンドします。,I'm ending my turn.
+わたしのターンはおわりです。,My turn is over.
+く、攻撃が防がれましたか。,Ah! My attack was blocked?

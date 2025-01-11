@@ -1,0 +1,3 @@
+default
+シルバーガントレット,Silver Gauntlet
+装備しているモンスターは攻撃力が200ポイント増加する。また戦闘で受けるダメージが常に100ポイント減少する。,[1]. Increase the attack power of the equipped monster by 200.\n[2]. Damage received in battle is reduced by 100 points.

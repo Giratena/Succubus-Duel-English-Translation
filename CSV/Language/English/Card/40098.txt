@@ -1,0 +1,3 @@
+default
+隠し刃,Concealed Blade
+攻撃力が元々の攻撃力より低下したモンスター1体を選択して発動する。そのモンスターにターン終了時まで「与える戦闘ダメージが倍になる」を付与する。,Target 1 monster that has a lower ATK than its original ATK; That monster gains [Double Battle Damage (1 turn)].

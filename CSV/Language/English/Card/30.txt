@@ -1,0 +1,4 @@
+default
+海将グード,Admiral Goode
+このカード名の効果は１ターンに１度しか発動できない。\n[1].自分の墓地に水属性カードが４枚以上ある場合、このカードが場に出たとき手札を１枚捨てて発動できる。デッキから水属性カードをランダムに2枚手札に加える。,You can only activate the first effect of "Admiral Goode" once per turn.\n[1].When this card is Summoned while there are 4 or more Water Attribute cards in your Graveyard: You can discard 1 card; Add 2 random Water Attribute cards from your deck to your hand.
+海底都市を守る深海の将軍。彼の指揮ひとつで、多数の兵が果敢に戦う。,海底都市を守る深海の将軍。彼の指揮ひとつで、多数の兵が果敢に戦う。

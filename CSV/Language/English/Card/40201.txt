@@ -1,0 +1,5 @@
+default
+雷雲生成,Thundercloud Summon
+自分フィールド上に「雷」モンスターまたは「ライトニング」モンスターが存在する場合にのみ[1][2]の効果を発動できる。\n[1].相手ターン開始時に発動する。「{%%40011}」を1枚生成して手札に加える。\n[2].１ターンに１度、「雷」カードまたは「ライトニング」カードの効果ダメージで相手のカードを破壊したときに発動する。「{%%40011}」を1枚生成して手札に加える。,If there is a "Thunder" or "Lightning" monster on your field; you may use [1][2].\n\n
+[1]. When your opponent's turn starts; add one [{%%40011}] to your hand.
+[2]. Once per turn; when an opponent's card is destroyed by the effect damage of a "Thunder" or "Lightning" card; add one [{%%40011}] to your hand.

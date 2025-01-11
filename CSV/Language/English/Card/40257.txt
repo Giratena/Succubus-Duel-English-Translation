@@ -1,0 +1,3 @@
+default
+深海都市,Deep Sea City
+同名カードが自分フィールド上に存在しないとき、LPを2000払ってこのカードを発動できる。\n[1].このカードが存在する限り、フィールド上のカードはすべて水属性になる。またお互いに手札の水属性モンスターを通常召喚するときに必要な召喚コストが１減少する。\n[2].ターン終了時に発動する。すべてのレベル３以下モンスターに1000ポイントのダメージを与える。,If there are no cards with this name on your field; you may pay 2000 LP to activate this card.\n[1]. As long as this card exists on the field; all cards become Water Attribute. Also; both players may reduce the summoning cost by 1 for Normal Summoning Water Attribute monsters from their hands.\n[2]. Activate at the end of a turn; inflict 1000 damage to all Level 3 or lower monsters.
