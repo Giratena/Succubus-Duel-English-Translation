@@ -1,3 +1,0 @@
-default
-狩人のローブ,Hunter's Robe
-装備したモンスターは最大HPが300ポイントアップする。ハンタータイプのモンスターが装備した場合、さらに攻撃力を300ポイントアップする。,Can only be equipped to a monster. The equipped monsters gains 300 MAX HP. If the equipped monster is Hunter Type: The equipped monster gains 300 ATK.

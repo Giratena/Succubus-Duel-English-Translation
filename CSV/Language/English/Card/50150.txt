@@ -1,3 +1,0 @@
-default
-愛欲のオーラ,Lustful Aura
-クールタイム10\n[1].自分プレイヤーのLPが3000ポイント以下の場合、相手の直接攻撃宣言時に、手札を全て捨てて発動できる。自分プレイヤーに「愛欲のオーラ」（３ターン）を付与する。,Cooldown 10\n[1]. If your LP is 3000 or less: When an opponent declares a direct attack; you may discard your entire hand to grant yourself [Lustful Aura (3 turns)].

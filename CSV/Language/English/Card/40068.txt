@@ -1,3 +1,0 @@
-default
-外洋航海,Ocean Voyage
-LPを2000払ってこのカードを発動できる。\n[1].1ターンに1度、手札の水属性カード1枚を捨てて発動できる。デッキからカードを1枚ドローする。,Pay 2000LP to activate this card.\n[1]. Once per turn: You can discard 1 Water Attribute card from your hand; Draw 1 card.

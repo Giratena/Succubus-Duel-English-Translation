@@ -1,3 +1,0 @@
-default
-ロックオン,Lock On
-フィールド上のモンスター1体を選択して発動する。３ターンの間、そのモンスターが受ける効果ダメージは倍になる。,Target 1 monster; That monster receives doubled effect damage for 3 turns.

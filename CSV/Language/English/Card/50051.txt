@@ -1,3 +1,0 @@
-default
-藪の中の蛇,Snake in the Grass
-このカード名のカードは１ターンに１枚しか発動できない。\n[1].相手キャラクターが直接攻撃を宣言したとき、手札を１枚捨てて発動できる。その攻撃を無効にし、自分のデッキからレベル４以下爬虫類タイプモンスター１体をランダムに特殊召喚する（デッキ内に該当するモンスターが存在しない場合、このカードは発動できない）。,[1]. When an opponent's character declares a direct attack; you may discard 1 card to negate that attack and Special Summon 1 Level 4 or lower Reptile Type monster from your Deck at random. (If there are no applicable monsters in your Deck; this card may not be activated).

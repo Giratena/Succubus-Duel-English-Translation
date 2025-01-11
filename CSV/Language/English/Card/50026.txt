@@ -1,3 +1,0 @@
-default
-影への同化,Assimilation into Shadow
-[1].自分が闇属性・ローグタイプのモンスターを場に出したとき発動できる。そのモンスターに「直接攻撃可能」(1ターン)と「ステルス」を付与する。,[1]. If you summon a Dark Attribute Rogue Type monster: That monster gains [Direct Attack (1 turn)] and [Stealth].

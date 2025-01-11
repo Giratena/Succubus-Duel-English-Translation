@@ -1,3 +1,0 @@
-default
-浸潤,Infiltration
-[1].墓地の水属性カード１枚を取り除いて発動する。相手の手札のカードをすべて水属性にする。,[1]. Banish one Water Attribute card from the Graveyard: Change all cards in your opponent's hand to Water Attribute.

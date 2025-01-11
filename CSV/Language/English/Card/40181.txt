@@ -1,3 +1,0 @@
-default
-セカンドショット,Second Shot
-相手フィールド上のモンスター１体を選択して発動する。そのモンスターに800ポイントのダメージを与える。その後、自分のデッキに「{%%40182}」を１枚加える。,[1]. Select 1 monster on your opponent's field and inflict 800 damage on it. Then add 1 "{%%40182}" from your Deck to your hand.

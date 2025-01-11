@@ -1,3 +1,0 @@
-default
-ルナビーム,Lunar Beam
-クールタイム6\n[1].自分フィールド上に闇属性カードしか存在しない場合、手札から光属性カード１枚を捨てて発動できる。相手フィールド上のすべてのモンスターに1800ポイントダメージを与え、さらに自分フィールド上のすべてのモンスターのHPを1000ポイント回復する。,Cooldown 6\n[1]. If only Dark Attribute cards are present on your field; you may discard 1 Light Attribute card from your hand to inflict 1800 points of damage to all monsters on your opponent's field; and heal all monsters on your field by 1000 points.

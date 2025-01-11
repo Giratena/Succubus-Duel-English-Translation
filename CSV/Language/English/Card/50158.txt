@@ -1,3 +1,0 @@
-default
-金の卵,Golden Egg
-[1].このカードがカードの効果で破壊され墓地へ送られたとき発動する。カードを２枚ドローする。[2].自分ターン開始時に発動できる。「{%%40328}」を１枚生成して自分の手札に加える。,[1]. When this card is destroyed by a card effect and sent to the Graveyard; draw 2 cards. [2]. At the start of your turn; you may add 1 "{%%40328}" to your hand.

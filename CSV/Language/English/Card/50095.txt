@@ -1,3 +1,0 @@
-default
-練習かかし,Training Scarecrow
-[1].自分フィールド上にハンタータイプモンスターがいる場合、自分ターン開始時に発動する。自分フィールド上のすべてのハンタータイプモンスターの攻撃力を200ポイントアップする。,[1]. If you control a Hunter Type monster; at the start of your turn; increase the ATK of all Hunter Type monsters on your field by 200 points.

@@ -1,3 +1,0 @@
-default
-ショット,Arrow Shot
-フィールド上のモンスター1体に100ポイントのダメージを与える。このカードはハンタータイプの効果以外で手札コストとして捨てることはできない。,Target 1 monster; Deal 100 damage to that monster.\nThis card can only be used as a discard cost for the effect of a Hunter Type monster.

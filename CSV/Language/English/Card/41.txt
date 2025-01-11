@@ -1,3 +1,0 @@
-default
-ニンジャ,Ninja
-[1].このカードは相手の効果の対象に選択できない（ランダム効果や全体効果は受ける）。\n[2].1ターンに１度、墓地からランダムにローグタイプのモンスター2体を取り除いて発動できる。このターンの間、このカードは相手プレイヤーに直接攻撃できる。,[1]. This card cannot be targeted by cards your opponent controls (can still be affected by random or field wide effects).\n[2]. Once per turn: You can banish 2 random Rogue Type monsters from your Graveyard; This card can attack your opponent directly until the end of the turn.

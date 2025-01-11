@@ -1,3 +1,0 @@
-default
-幸運のコイン,Lucky Coin
-自分プレイヤーに装備可能\n[1].1ターンに１度発動できる。コイントスを行う。表が出たらカードを１枚ドローする。;PLayer Equip Only.\n[1]. Once per turn; conduct a coin toss. If heads; draw 1 card.

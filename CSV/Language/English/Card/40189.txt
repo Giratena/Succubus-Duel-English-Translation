@@ -1,3 +1,0 @@
-default
-盾の充填,Shield Restoration
-このカードを場に出した時、デッキから「{%%10069}」を1枚手札に加える。\n[1].このカードがフィールド上に存在する限り、自分フィールド上の守備モンスターが受ける戦闘ダメージ・効果ダメージは100ポイント減少する。\n[2].このカードが場に出て4ターン以上経過している場合、相手の直接攻撃宣言時に発動できる。手札から「{%%10069}」を特殊召喚し、このカードは自壊する。,When this card is played; add 1 "{%%10069}" from your Deck to your hand.\n[1]. While this card remains on the field; reduce battle and effect damage to Defense Position monsters you control by 100 points.\n[2]. If this card has been on the field for 4 or more turns; you may activate it during an opponent's direct attack declaration. Special Summon 1 "{%%10069}" from your hand and banish this card.

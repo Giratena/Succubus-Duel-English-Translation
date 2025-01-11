@@ -1,3 +1,0 @@
-default
-炎を光に,Flames to Light
-炎属性の魔法カードが発動したときに発動できる。このターンの間、自分フィールド上のすべてのモンスターは炎属性のカードの効果ダメージを受けず、逆に受けるダメージと同じだけHPを回復する。,If a Fire Attribute Spell Card is activated: for the rest of this turn; All monsters you control do not take damage from Fire Attribute cards and instead recover HP equal to the damage that would have been taken until the end of the turn.

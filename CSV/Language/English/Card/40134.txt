@@ -1,3 +1,0 @@
-default
-解毒の対価,Detox Compensation
-[1].「毒」状態の相手キャラクター１体を選択して発動する。そのキャラクターの「毒」を解除し、自分はデッキからローグタイプのレベル４以下モンスターをランダムに１枚手札に加える。,[1]. Select 1 opponent's character with [Poison]: Remove that status and add 1 Level 4 or lower Rogue Type monster from your Deck to your hand at random.

@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名, Crane - Knight of Salvation
-&効果テキスト,[1]. As long as this card is on your field; reduce battle and effect damage to your Light Attribute monsters by 200 points.\n[2]. When a monster's HP is recovered: Increase the attack power and maximum HP of all your Light Attribute monsters on the field by 300 points.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

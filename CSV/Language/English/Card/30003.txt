@@ -1,3 +1,0 @@
-default
-ゴブリン,Goblin
-武器をふりまわしてくる小柄な魔物。攻撃力が高いのであなどると痛い目を見る。,A small demon that wields a weapon. Its high attack power can cause a lot of pain if underestimated.

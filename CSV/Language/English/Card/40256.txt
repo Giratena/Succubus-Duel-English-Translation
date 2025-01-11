@@ -1,3 +1,0 @@
-default
-太陽信仰,Sun Worship
-手札から光属性と炎属性のカードを1枚ずつ捨てて発動する。\n[1].自分ターン終了時に発動する。自分フィールド上のすべてのモンスターのHPを1000ポイント回復し、「再生」(100)を付与する。\n[2]. When a Level 6 or higher monster (Light or Fire Attribute) is destroyed and sent to the Graveyard; you may pay 1000 LP. Special Summon that monster from the Graveyard; then banish this card.

@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Attributeal Harmony
-&効果テキスト,[1]. This card can only be activated when there is at least 1 card of each of the following Attribute in your Graveyard (Fire, Water, Earth and Wind).\nTarget character gains 1000 ATK and MAX HP.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

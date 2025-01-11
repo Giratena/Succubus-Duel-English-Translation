@@ -1,3 +1,0 @@
-default
-隷属の首枷,Shackles of Servitude
-[1].このカードが自分フィールド上に存在する限り、自分モンスターは効果の発動と反撃ができない。\n[2]自分ターン終了時に発動する。自分プレイヤーは3000ポイントダメージを受ける。,[1]. As long as this card is on your field; your monsters may not activate effects or counterattack.\n[2]. Activate at the end of your turn; you take 3000 points of damage.

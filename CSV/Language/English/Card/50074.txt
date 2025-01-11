@@ -1,3 +1,0 @@
-default
-溶鉱炉,Melting Furnace
-[1].自分フィールド上に炎属性モンスターが存在する場合、ターン開始時に墓地の地属性カードをランダムに１枚取り除いて発動できる。デッキから装備魔法カードをランダムに１枚手札に加える。,[1]. If you control a Fire Attribute monster at the start of your turn; you may banish 1 random Earth Attribute card from your Graveyard. Then add 1 Equip Spell Card from your deck to your hand randomly.

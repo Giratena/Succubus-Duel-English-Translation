@@ -1,3 +1,0 @@
-default
-タル爆弾,Barrel Bomb
-LPを500払って発動可能。\n[1].炎属性カードが効果を発動したときに発動する。このカードを破壊し、フィールド上のすべてのモンスターに1000ポイントのダメージを与える。,Pay 500 LP to activate this card.\n[1]. When a Fire Attribute card activates its effect; destroy this card and inflict 1000 points of damage to all monsters on the field.

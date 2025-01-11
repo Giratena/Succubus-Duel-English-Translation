@@ -1,3 +1,0 @@
-default
-鉄を拒む根,Iron-Repelling Roots
-自分の植物タイプキャラクターが相手の攻撃対象になったとき、自分の墓地の地属性カード2枚を取り除いて発動できる。攻撃してきた相手の攻撃力を半分にする。,When your Plant Type character becomes the target of an opponent's attack; you may banish 2 Earth Attribute cards from your Graveyard to halve the attacking opponent's ATK.

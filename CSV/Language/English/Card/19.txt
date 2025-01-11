@@ -1,3 +1,0 @@
-default
-ビーストシャーマン,Beast Shaman
-このカードが通常召喚に成功したとき、自分フィールド上のモンスター1体を選択して発動できる。そのモンスターに成長（自分のターン終了ごとに、HPを200ポイントアップ）を付与する。,When this card is Normal Summoned: Target 1 monster you control; That monster gains [Growth] (This monster gains 200 MAX HP at the end of your turn).

@@ -1,3 +1,0 @@
-default
-アースエナジー,Earth Energy
-[1].フィールド上のモンスター１体を選択し、墓地の地属性カード７枚を取り除いて発動する。そのモンスターの攻撃力をターン終了時まで最大HP分だけアップする。,[1]. Target 1 monster and Banish 7 Earth Attribute cards from your Graveyard: That monster gains X ATK until the end of this turn. (X = That monster's MAX HP).

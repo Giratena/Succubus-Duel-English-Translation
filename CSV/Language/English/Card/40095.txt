@@ -1,3 +1,0 @@
-default
-アローレイン,Arrow Rain
-相手フィールド上のすべてのモンスターに自分フィールド上のハンタータイプモンスターの枚数×400ポイントのダメージを与える。,[1]. Deal 400 x X damage to all monsters your opponent controls (X = Number of Hunter Type monsters you control).

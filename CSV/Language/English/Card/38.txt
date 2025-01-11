@@ -1,3 +1,0 @@
-default
-物資調達員,Supply Tradesman
-[1].このカードが通常召喚に成功したとき発動する。「{%%40079}」を１枚手札に加える。\n[2].自分フィールド上のモンスターが相手モンスターを戦闘で破壊したとき発動する。「{%%40079}」を１枚手札に加える。,[1]. When this card is Normal Summoned: Add 1 {%%40079} to your hand.\n[2]. When a monster you control destroys a monster by battle: Add 1 {%%40079} to your hand.

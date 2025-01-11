@@ -1,3 +1,0 @@
-default
-濃厚ミルク,Rich Milk
-[1].「ミルク」モンスターが場に出たときまたは相手モンスターを破壊したときに発動する。チャージを+1する。\n[2].相手キャラクター１体を選択し、チャージを１つ消費して発動できる。そのモンスターに「おっぱいに弱い」と「ぬるぬる」を付与する。,[1]. When a "Milk" monster is Summoned or destroys an opponent's monster; increase this card's charge by +1.\n[2]. Select 1 opponent's character; you may expend 1 charge to grant [Breast Fetish] and [Slippery] to that monster.

@@ -1,3 +1,0 @@
-default
-強固な防御態勢,Stalwart Defense
-[1].相手ターン開始時に、自分フィールド上の守備状態の戦士タイプモンスター1体を選択して発動できる。そのモンスターに「挑発」を付与し、そのモンスターが受ける戦闘ダメージをターン終了時まで半分にする。,[1]. At the start of your opponent's turn; you may select 1 Warrior Type monster in Defense Position on your field; grant it [Taunt]; and decrease battle damage it receives this turn by 50%.

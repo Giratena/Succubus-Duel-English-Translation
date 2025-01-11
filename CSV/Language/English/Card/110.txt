@@ -1,3 +1,0 @@
-default
-ラビットランサー,Rabbit Lancer
-[1].このカードが場に出たとき、相手フィールド上の守備状態のモンスター１体を選択して発動できる。そのモンスターに1000ポイントのダメージを与える。,[1]. When this card is Summoned: Select one monster in Defense Position on the opponent's field; inflict 1000 points of damage to that monster.

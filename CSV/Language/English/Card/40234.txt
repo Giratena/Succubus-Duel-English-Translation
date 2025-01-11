@@ -1,3 +1,0 @@
-default
-猫ゴーレム,Cat Golem
-[1].自分ターン終了時に発動する。チャージを+1する。\n[2].このカードにチャージが貯まっている場合、このカードが破壊され墓地へ送られたとき発動する。自分フィールド上の最も攻撃力が低いキャラクターの攻撃力をチャージ×200ポイントアップする。,[1]. Activate at the end of your turn; increase this card's charge by +1.\n[2]. When this card with accumulated charges is destroyed and sent to the Graveyard; increase the ATK of your character with the lowest attack power by 200 x X (X = The number of charges on this card).

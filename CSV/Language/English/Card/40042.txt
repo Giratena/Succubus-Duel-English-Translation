@@ -1,3 +1,0 @@
-default
-闇の契約書,Darkness Contract
-クールタイム6\n[1].自分の墓地に闇属性の同名モンスターが３体以上存在する場合に発動できる。自分の墓地からその同名モンスターを１体選択し、自分フィールド上に特殊召喚する。,Cooldown 6\n[1]. Can be activated when there are 3 or more monsters with the same name in your Graveyard. Select 1 of those same-named monsters from your Graveyard and Special Summon it to the field.

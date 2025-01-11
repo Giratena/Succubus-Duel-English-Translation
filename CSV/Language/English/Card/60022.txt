@@ -1,3 +1,0 @@
-default
-至高のジュエルネックレス,Supreme Jewel Necklace
-このカードの同名カードが自分フィールド上に存在しないとき、フィールド上のレベル7以上モンスターに装備可能。\n[1].自分の墓地に「ジェム」カードが3種類以上存在する場合、装備モンスターの攻撃力と最大HPは、自分の墓地の「ジェム」カードの枚数×100ポイントアップする。\n[2].自分の墓地に5種類以上の「ジェム」カードが存在する場合、自分ターン終了時に発動する。装備モンスターのHPを1000ポイント回復し、攻撃力を300ポイントアップする。,Only one card with this name can be equipped at a time.\nYou may equip this card to a Level 7 or higher monster.\n[1]. If there are three or more different "Gem" cards in your Graveyard; increase the equipped monster's ATK and maximum HP by 100 x X (X = The number of "Gem" cards in your Graveyard).\n[2]. When there are five or more different "Gem" cards in your Graveyard: At the end of your turn; restore 1000 HP to the equipped monster and increase its ATK by 300 points.

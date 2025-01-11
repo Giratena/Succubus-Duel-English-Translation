@@ -1,3 +1,0 @@
-default
-パリィ,Parry
-[1].装備カードを装備した自分キャラクターが攻撃対象に選択されたとき発動できる。その攻撃を無効にし、攻撃モンスターに自身の攻撃力分のダメージを与え、さらに「反撃不能」(２ターン)を付与する。,[1]. When a character equipped with an equipment card is selected as the attack target; you may negate that attack and inflict damage to the attacking monster equal to this card's ATK; then apply [Cannot Counterattack (2 Turns)] to that monster.

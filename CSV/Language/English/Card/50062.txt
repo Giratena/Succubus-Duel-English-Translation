@@ -1,3 +1,0 @@
-default
-捕縛,Capture Bind
-クールタイム6\n[1].相手モンスターがフィールド上で効果を発動したときに発動できる。その効果を無効にし、そのモンスターに「拘束」を付与する。,Cooldown 6\n[1]. If an opponent's monster activates its effect on the field; negate that effect and grant [Restraint] to that monster.

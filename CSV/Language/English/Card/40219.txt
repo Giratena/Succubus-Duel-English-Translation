@@ -1,3 +1,0 @@
-default
-猪突猛進,Reckless Charge
-[1].フィールド上の地属性モンスター1体を選択して発動する。そのモンスターの攻撃力はターン終了時まで1000ポイントアップし、受けるダメージが倍になる。,[1]. Select 1 Earth Attribute monster on the field; that monster's ATK increases by 1000 points and it receives double damage until the end of the turn.

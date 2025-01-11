@@ -1,3 +1,0 @@
-default
-カタストロフィ,Catastrophe
-[1].自分の墓地に「メテオ」が３枚以上ある場合に、それらをすべて取り除きLPを半分払って発動できる。フィールド上の魔法トラップカードをすべて破壊し、フィールド上のすべてのモンスターに5000ポイントのダメージを与える。,[1]. If there are 3 or more [Meteor] cards in your Graveyard; you may banish them and pay half your LP to activate. Destroy all Spell/Trap cards on the field; inflict 5000 damage to all monsters on the field.

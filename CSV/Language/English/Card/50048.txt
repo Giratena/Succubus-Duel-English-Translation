@@ -1,4 +1,0 @@
-default
-びっくりミミック,Startling Mimic
-[1].相手がモンスターを召喚したときまたは攻撃宣言時に発動できる。そのモンスターに「魅了」を付与し、このカード(攻撃力500,[1]. When your opponent Summons a monster or declares an attack; you may grant [Charm] to that monster and Special Summon this card (ATK 500; HP 1800) as a Monster to your Monster Zone. This card is also treated as a Trap Card once Special Summoned.\n[2]. When this card is destroyed by effect damage and sent to the Graveyard; add 1 random Trap Card from your Deck to your hand.
-[3].自分の墓地にモンスターカードが一枚も存在せず、かつ自分の墓地に「ミミック」カードが３枚以上存在する場合、このカードが受ける戦闘ダメージは半分になる。,[3]. If there are no Monster Cards in your Graveyard and there are three or more "Mimic" cards in your Graveyard; the battle damage this card receives is reduced by 50%.

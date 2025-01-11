@@ -1,3 +1,0 @@
-default
-ポイズンクロー,Poison Claw
-ローグタイプのみ装備可能。\n[1].攻撃力を200ポイントアップ。戦闘時に相手に「毒」(300)を与える。,Can only be equipped to Rogue Type monsters.\n[1].The equipped monster gains 100 ATK and monsters it fights gain [Poison(300)].

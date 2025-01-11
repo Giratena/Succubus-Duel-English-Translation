@@ -1,3 +1,0 @@
-default
-爆発カボチャ,Exploding Pumpkin
-[1].このカードが破壊され墓地へ送られたとき発動する。フィールド上のすべてのモンスターに1000ポイントダメージを与える。,[1]. When this card is destroyed and sent to the Graveyard: Deal 1000 points of damage to all monsters on the field.

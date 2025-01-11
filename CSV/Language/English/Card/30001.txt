@@ -1,3 +1,0 @@
-default
-ジャイアントバット,Giant Bat
-このカードの通常召喚に成功したとき発動できる。手札からレベル３以下のモンスター１体を特殊召喚する。,[1]. When this card is Normal Summoned; You may Special Summon one Level 3 or lower monster from your hand.

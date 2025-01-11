@@ -1,4 +1,0 @@
-default
-ハーレムカウンター,Harem Counter
-[1].自分フィールド上に女性モンスターが２体以上存在する場合、相手の攻撃宣言時に発動できる。そのモンスターに自分フィールド上のモンスターの数×800ポイントのダメージを与える。,[1]. If you have 2 or more female monsters on your field: When an opponent's monster declares an attack; inflict 800 x X damage to that monster (X = the number of monsters on your field).
-このカードの効果で相手モンスターを破壊した場合、墓地からレベル４以下のモンスター１体をランダムに特殊召喚する。,If this card's effect destroys an opponent's monster; Special Summon 1 Level 4 or lower monster at random from your Graveyard.

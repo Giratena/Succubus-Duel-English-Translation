@@ -1,3 +1,0 @@
-default
-フレイム,Flame
-[1].400LPを払い、フィールド上のモンスター１体を選択して発動する。そのモンスターに900ポイントダメージを与える。,[1]. Pay 400LP and target 1 monster; Deal 900 damage to that monster.

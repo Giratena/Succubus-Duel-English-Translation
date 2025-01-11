@@ -1,3 +1,0 @@
-default
-灼熱強化,Inferno Intensification
-LPを1000払い、フィールド上のモンスター1体を選択して発動する。そのモンスターに800ポイントダメージを与え、攻撃力を800ポイントアップさせる。,Pay 1000 LP and target 1 monster; Deal 800 damage to that monster and it gains 800 ATK.

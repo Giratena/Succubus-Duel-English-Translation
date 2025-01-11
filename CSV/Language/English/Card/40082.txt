@@ -1,3 +1,0 @@
-default
-ひらめきと代償,Bolt of Brilliance
-このカード名のカードは1ターンに１枚しか発動できない。\n[1].LPを2000払って発動する。デッキから魔法カードをランダムに2枚まで手札に加える。このターンの終了時、自分の手札をすべて捨て、捨てた枚数×500ポイントだけプレイヤーの最大HPがダウンする。,You can only activate 1 "Bolt of Brilliance" per turn.\n[1]. Pay 2000 LP; Add up to 2 random Spell Cards from your Deck to your hand. At the end of this turn: Discard your entire hand then you lose 500 x X MAX HP (X = Number of cards discarded by this effect).	

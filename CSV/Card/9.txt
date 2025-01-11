@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Wood Archer
-&効果テキスト,
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,An archer who's confident in his bow arm. He never fails to take down a game in his hunts.
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

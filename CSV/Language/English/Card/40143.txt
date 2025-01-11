@@ -1,3 +1,0 @@
-default
-突風,Gust
-[1].自分フィールド上にモンスターが存在しないとき、LPを500払い手札の風属性レベル４以下モンスター１体を選択して発動する。そのモンスターを特殊召喚し、相手の手札のカードをランダムに２枚まで風属性に変化させる。\n[2].このカードが風属性カードの効果で手札から捨てられたとき発動する。デッキから風属性モンスターをランダムに１枚手札に加える。,[1]. When there are no monsters on your field; pay 500 LP and select a Wind Attribute monster of Level 4 or lower from your hand to activate this card. Special summon that monster and change up to 2 random cards in your opponent's hand into the Wind Attribute.\n[2]. When this card is discarded from your hand due to the effect of a Wind Attribute card; add 1 random Wind Attribute monster from your Deck to your hand.

@@ -1,3 +1,0 @@
-default
-桜花の舞,Cherry Blossom Dance
-クールタイム4\n[1].自分フィールド上の「サムライ」モンスターまたは「侍」モンスター１体を選択して発動する。そのモンスターの攻撃力分のダメージを相手フィールド上のすべてのモンスターに与え、そのモンスターに「攻撃不能」(1ターン)を付与する。,Cooldown 4\n[1]. Select 1 "Samurai" monster on your field; inflict damage equal to its ATK to all opponent's monsters and grant [Cannot Attack (1 turn)] to that monster.

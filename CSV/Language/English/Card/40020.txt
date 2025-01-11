@@ -1,4 +1,0 @@
-default
-力のジェムLv1,Power Gem Lv1
-[1].キャラクター１体を選択して発動する。そのキャラクターの攻撃力を200ポイントアップさせる。,[1]. Target a character ; That character gains 200 ATK.
-

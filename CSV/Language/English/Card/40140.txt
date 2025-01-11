@@ -1,3 +1,0 @@
-default
-暗殺,Assassination
-このカード名のカードは１ターンに１枚しか発動できない。\n[1].自分フィールド上に「暗殺者」モンスターが存在し、相手の手札が自分よりも多い場合に発動できる。相手の手札をランダムに１枚捨てる。そのカードがモンスターカードだった場合、自分フィールド上のすべての「暗殺者」モンスターの攻撃力をターン終了時まで500ポイントアップする。,You may only activate 1 card with this name per turn.\n[1]. If you control an 'Assassin' monster and your opponent has more cards in their hand than you; make them discard 1 random card. If the discarded card is a Monster Card; increase the attack power of all 'Assassin' monsters you control by 500 points until the end of the turn.

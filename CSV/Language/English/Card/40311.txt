@@ -1,3 +1,0 @@
-default
-正義の心,Heart of Justice
-クールタイム20\n[1].自分プレイヤーのHPが2000ポイント以下の場合、発動できる。自分プレイヤーのLPを3000ポイント回復し、性的な状態異常をすべて解除する。ターン終了時まで自分プレイヤーの攻撃力を1000ポイントアップする。,Cooldown 20\n[1]. If your HP is 2000 points or less; recover 3000 LP and remove all Sexual Status abnormalities. Also; Increase your attack power by 1000 points until the end of the turn.

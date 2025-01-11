@@ -1,3 +1,0 @@
-default
-とりつかれる妄想,Intrusive Fantasies
-[1].相手プレイヤーが「おっぱいに弱い」状態になったとき発動できる。相手プレイヤーに「妄想」(6ターン)を植え付け、カードの状態を正しく把握できなくする。,[1]. If your opponent has [Breast Fetish]; inflict [Delusion (6 turns)] on your opponent. ([Delusion] = unable to check the status of cards.)

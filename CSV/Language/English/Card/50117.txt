@@ -1,3 +1,0 @@
-default
-魔術の継承,Magic Inheritance
-[1].自分フィールド上にレベル３以下の魔術師タイプモンスターが存在する場合、自分フィールド上のレベル７以上の魔術師タイプモンスターが破壊され墓地へ送られたとき発動できる。その破壊されたモンスターの攻撃力分だけ自分フィールド上のすべてのレベル３以下魔術師タイプのモンスターの攻撃力をアップする。,[1]. If a Level 7 or higher Spellcaster Type monster on your field is destroyed and sent to the Graveyard when there is a Level 3 or lower Spellcaster Type monster on your field; increase the ATK of all Level 3 or lower Spellcaster Type monsters on your field by the attack of the destroyed monster.

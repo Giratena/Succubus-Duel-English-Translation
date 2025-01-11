@@ -1,3 +1,0 @@
-default
-竜巻斬り,Tornado Slash
-[1].「{%%60001}」を自分フィールド上のモンスターが装備している場合に発動できる。相手フィールド上のランダムな魔法トラップカードを1枚破壊し、カードを1枚ドローする。,[1]. If a monster on your field is equipped with "{%%60001}"; you may destroy 1 random Magic/Trap card on your opponent's field and draw 1 card.

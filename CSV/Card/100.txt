@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Punisher
-&効果テキスト,[1]. Increase this card's attack power by 50 x X (X = the number of cards in your Deck).\n[2]. When this card's HP is recovered: Add one [{%%40230}] to your Deck.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

@@ -1,3 +1,0 @@
-default
-荒野の狩人,Wilderness Hunter
-[1].自分の魔法トラップカードゾーンにカードが存在しない場合、このカードが与えるダメージは1.5倍になる。,[1]. This card deals 1.5x more damage if there are no magic trap cards set on your side of the field.

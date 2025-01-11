@@ -1,3 +1,0 @@
-default
-癒しの樹,Healing Tree
-[1].自分のターン終了時に発動する。自分フィールド上のすべてのモンスターのHPを400回復させる。,[1]. At the end of your turn: All monsters you control recover 400 HP.

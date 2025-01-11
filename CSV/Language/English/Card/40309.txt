@@ -1,3 +1,0 @@
-default
-ソウルジェム,Soul Gem
-[1].フィールド上のモンスターが召喚コストとして墓地へ送られたとき発動する。このカードのチャージをそのモンスターの数だけ+１する。\n[2].このカードにチャージが貯まっている場合、１ターンに１度発動できる。フィールド上のすべてのモンスターの最大HPを、チャージ×300ポイントダウンさせる。,[1]. When a monster on the field is sent to the Graveyard as a Summon cost; increase this card's charge by +1 for each of those monsters.\n[2]. If this card has charges; you may activate once per turn: Decrease all monsters' maximum HP on the field by 300 x X (X = Number of charges on this card).

@@ -1,3 +1,0 @@
-default
-名刀ほむら,Famed Pyra Blade
-「サムライ」または「ニンジャ」モンスターに装備可能。\n[1].装備モンスターは炎属性になり、攻撃力が600ポイントアップする。\n[2].相手モンスターが特殊召喚されたとき発動する。そのモンスターに500ポイントのダメージを与える。この効果は１度だけしか発動できない。,[1]. "Samurai" or "Ninja" use only.\nWhen equipped; this card becomes Fire Attribute and the equipped monster gains 600 ATK.\n[2]. When an opponent's monster is Special Summoned; inflict 500 damage to that monster. This effect may only be used once.

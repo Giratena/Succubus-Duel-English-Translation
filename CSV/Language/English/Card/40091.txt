@@ -1,3 +1,0 @@
-default
-守護のトーテム,Totem of Undying
-[1].１ターンに１度、フィールド上の地属性モンスター1体を選択し、LPを500払って発動できる。そのモンスターに「このターンの間、戦闘ダメージ無効」を付与する。,[1]. Once per turn: Target 1 Earth Attribute monster and pay 500 LP; That monster gains [Battle Damage Immunity (1 turn)].

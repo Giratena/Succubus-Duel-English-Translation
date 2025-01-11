@@ -1,4 +1,0 @@
-default
-終わらぬ悪夢,Neverending Nightmare
-[1].自分フィールド上の「サキュバス」モンスターが破壊されたとき発動できる。デッキからレベル４以下のサキュバスモンスター１体を特殊召喚する。,[1]. When a "Succubus" Type monster on your field is destroyed; Special Summon 1 Level 4 or lower Succubus Type monster from your Deck.
-[2].このカードが墓地に存在し、自分フィールド上の「サキュバス」モンスターが相手モンスターを破壊した時発動する。このカードを墓地から手札に加える。,[2]. When this card is in your Graveyard and a "Succubus" Type monster on your field destroys an opponent's monster; add this card from the Graveyard to your hand.

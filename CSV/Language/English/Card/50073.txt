@@ -1,3 +1,0 @@
-default
-龍の威圧,Dragon's Roar
-[1].自分フィールド上にレベル5以上のドラゴンタイプモンスターが存在する場合、相手が魔法・トラップカードを発動したとき発動できる。そのカードの効果を無効にし、破壊する。,[1]. If you control a Level 5 or higher Dragon Type monster; when your opponent activates a Spell/Trap Card; negate its effect and destroy it.

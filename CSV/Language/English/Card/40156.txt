@@ -1,3 +1,0 @@
-default
-軍隊,Military Forces
-このカード名のカードは１ターンに１枚しか発動できない。\n[1].手札を3枚捨てて発動する。デッキから戦士タイプのモンスターをランダムに3枚手札に加える（デッキに該当カードが３枚未満しか存在しない場合、このカードは発動できない）,You may only activate 1 card with this card's name per turn.\n[1]. Discard 3 cards to activate; add 3 Warrior Type monsters from your Deck to your hand at random. (If there are less than 3 appropriate cards in your Deck, this effect may not be activated).

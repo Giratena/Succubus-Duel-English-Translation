@@ -1,3 +1,0 @@
-default
-ポセイドンナイト,Poseidon Knight
-[1].水属性の魔法・トラップカードが発動した時発動する。このカードの攻撃力と最大HPを100ポイントアップする。,[1]. When a Water Attribute Spell/Trap Card is activated: This card gains 100 ATK and MAX HP.

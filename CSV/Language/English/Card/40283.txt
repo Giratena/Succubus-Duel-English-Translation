@@ -1,3 +1,0 @@
-default
-岩石ナックル,Rock Knuckle
-[1].自分フィールド上の地属性モンスター1体を選択して発動する。そのモンスターの攻撃力をターン終了時まで500ポイントアップし、「受ける戦闘ダメージが半分になる」(1ターン)を付与する。,[1]. Target 1 Earth Attribute monster you control; That monster gains 500 ATK and [Received Battle Damage is halved (1 turn)].

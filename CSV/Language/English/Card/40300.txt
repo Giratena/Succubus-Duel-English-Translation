@@ -1,3 +1,0 @@
-default
-純粋強化,Pure Enhancement
-[1].自分フィールド上の効果を持たないモンスターは攻撃力と最大HPが400ポイントずつアップする。,[1]. Monsters on your field without effects gain 400 ATK and 400 max HP.

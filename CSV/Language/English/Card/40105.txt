@@ -1,3 +1,0 @@
-default
-山賊基地,Bandit Hideout
-[1].自分フィールド上にモンスターカードが存在しない場合、１ターンに１度発動できる。デッキから「バンディット」モンスター１体をランダムに手札に加える。手札に加えた「バンディット」モンスターが効果を持たないモンスターだった場合、自分フィールド上に特殊召喚する。,[1]. If there are no monsters on your side of the field; you may activate this card once per turn. Randomly add 1 "Bandit" monster from your Deck to your hand. If the "Bandit" monster added to your hand has no effects; Special Summon it to your field.

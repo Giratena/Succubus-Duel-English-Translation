@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Fear at Night
-&効果テキスト,Pay 1000 LP to activate. Add 1 random Dark Attribute Level 5 or higher monster from the deck to your hand.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

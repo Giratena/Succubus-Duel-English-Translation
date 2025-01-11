@@ -1,3 +1,0 @@
-default
-シャーマンの儀式,Shaman's Ritual
-[1].自分フィールド上の「シャーマン」モンスター1体をコストにして発動できる。デッキからそのモンスターと同じ属性でレベルが1つ高いモンスター1体をランダムに特殊召喚する。,[1]. You may activate this card by using 1 "Shaman" monster on your field as a cost. Randomly Special Summon 1 monster from your Deck with the same Attribute and 1 Level higher than that monster.

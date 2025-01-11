@@ -1,3 +1,0 @@
-default
-罠の再利用,Trap Reuse
-[1].自分フィールド上のトラップカードが破壊されたときに発動できる。墓地のトラップカードをランダムに3枚まで手札に加える。ただしこの効果で「罠の再利用」を手札に加えることはできない。,\n[1]. When a Trap Card on your field is destroyed; you may add up to 3 random Trap Cards from your Graveyard to your hand, except for "Trap Reuse".

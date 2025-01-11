@@ -1,3 +1,0 @@
-default
-暴落,Sudden Crash
-[1].フィールド上に攻撃力2000以上のモンスターが２体以上存在する場合に、LPを1000払って発動できる。お互いのフィールド上のすべてのモンスターの攻撃力を100にする。,[1]. If there are 2 or more monsters with an ATK of 2000 or higher on the field; you may pay 1000 LP and set the ATK of all monsters on both fields to 100.

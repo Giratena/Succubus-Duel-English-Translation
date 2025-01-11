@@ -1,3 +1,0 @@
-default
-雑念の除去,Sage Time
-[1].１ターンに１度、手札の闇属性カード１枚を捨てて発動できる。そのカードの同名カードをすべてデッキから墓地へ送り、送った枚数×1000LP回復する。\n[2].このカードが自分のカードの効果で破壊されたとき発動する。自分のLPを2000回復し、さらに自分プレイヤーが相手から付与された状態異常をすべて解除する。,[1]. Once per turn: You can discard 1 Dark Attribute card from your hand; Send all cards with the same name as that card from your deck to the Graveyard; then you recover 1000 x X LP (X = Number of cards sent to the Graveyard by this effect).\n[2]. If this card is destroyed by the effect of a card you control: You recover 2000 LP and you lose all status condition caused by a card your opponent controls.

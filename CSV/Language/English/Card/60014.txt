@@ -1,3 +1,0 @@
-default
-迅速の剣,Brave Sword
-手札を２枚捨て、モンスターに装備可能。\n[1].装備モンスターの攻撃回数を+1する。\n[2].装備モンスターは受けるダメージが1.5倍になる。,Discard 2 cards to activate. Can be equipped to any monster.\n[1]. The equipped monster's attack hits one more time.\n[2]. The equipped monster takes 1.5 times more damage.

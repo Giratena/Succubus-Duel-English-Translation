@@ -1,3 +1,0 @@
-default
-道術師シンイー,Taoist - Xinyi
-[1].１ターンに１度、「樹」カードが発動した時、LPを1000払って発動できる。デッキからレベル４以下の地属性モンスター１体を特殊召喚する。\n[2].自分フィールド上の「樹」カード１枚を選択して発動できる。そのカードを破壊し、自分フィールド上のすべてのモンスターに「成長」(200)を付与する。,[1]. Once per turn when a "Tree" card is activated: You can pay 1000 LP; Special Summon 1 level 4 or lower Earth Attribute monster from your deck.\n[2]. You can target 1 "Tree" card you control; Destroy that card and all monsters you control gain [Growth (200)].

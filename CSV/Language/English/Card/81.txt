@@ -1,3 +1,0 @@
-default
-キョンシーボーイ,Jiangshi Boy
-[1].このカードがデッキから直接墓地へ送られたとき発動する。このカードを墓地から特殊召喚する。\n[2].戦闘時に「ゾンビ」を付与する。,[1]. When this card is sent directly from the Deck to the Graveyard: Special Summon this card from the Graveyard.\n[2]. During battle; inflicts [Zombie].

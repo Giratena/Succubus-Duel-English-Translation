@@ -1,3 +1,0 @@
-default
-威嚇,Intimidation
-相手の攻撃宣言時に発動できる。その攻撃を無効にする。,[1]. If an opponent declares an attack; negate that attack.

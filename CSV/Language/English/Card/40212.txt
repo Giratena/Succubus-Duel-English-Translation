@@ -1,3 +1,0 @@
-default
-復活の呪文書,Spellbook of Resurrection
-[1].自分フィールド上の魔術師タイプのモンスター2体をコストにして発動できる。それらのレベルを合計し、自分の墓地からその合計以下のレベルのモンスター１体を選択する。そのモンスターを墓地から特殊召喚する。,[1]. You may activate this card by banishing 2 Spellcaster Type monsters from your field as cost. Select 1 monster in your Graveyard with a Level equal to or less than the total Levels of the banished monsters. Special Summon it.

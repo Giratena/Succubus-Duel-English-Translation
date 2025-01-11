@@ -1,3 +1,0 @@
-default
-ギャンブルカジノ,Casino House
-このカード名のカードが自分フィールド上に存在しない場合、LPを1000払って発動可能。\n[1].コイントスが行われその結果が表のとき発動する。チャージを+1する。\n[2].１ターンに１度、チャージを3つ消費して発動できる。デッキからレベル４以下の「バニー」モンスター１体をランダムに特殊召喚する。,[1]. If no cards with this card's name are on your field you may pay 1000 LP: When a coin toss is conducted and the result is heads; gain +1 charge.\n[2]. Once per turn; you may spend 3 charges; Special Summon a random Level 4 or lower "Bunny" monster from your Deck.

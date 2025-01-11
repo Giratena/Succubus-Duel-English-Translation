@@ -1,3 +1,0 @@
-default
-ドールサモン,Doll Summon
-このカード名のカードは１ターンに１枚しか発動できない。\n[1].ライフポイントを1500払って発動する。デッキからレベル４以下の「ドール」モンスターまたは「人形」モンスター１体をランダムに特殊召喚する。,[1]. You may only activate one card with this name per turn.\n Pay 1500 Life Points; Special Summon 1 Level 4 or lower [Doll] or [Puppet] monster from your Deck at random.

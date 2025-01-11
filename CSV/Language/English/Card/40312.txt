@@ -1,3 +1,0 @@
-default
-愛の掌握,Love's Grasp
-[1].このカードがフィールド上に存在する限り、自分フィールド上のサキュバスモンスターは最大HPが500ポイントアップする。\n[2].相手モンスターが自分カードの効果でHPを回復した時、発動する。そのモンスターに「愛の奴隷」を付与する。,[1]. As long as this card remains on the field; all Succubus Type monsters on your field gain 500 max HP.\n[2]. When an opponent's monster recovers HP due to the effect of one of your cards; inflict [Love Slave] on that monster.

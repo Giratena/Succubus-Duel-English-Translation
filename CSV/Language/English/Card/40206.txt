@@ -1,3 +1,0 @@
-default
-手札補充,Hand Replenishment
-クールタイム10\n[1].デッキからカードを2枚ドローする。その後自分プレイヤーに「クールタイムカード使用不可(4ターン)」を付与する。,Cooldown 10\n[1]. Draw 2 cards from your Deck; then grant [Cannot Use Cooldown Cards (4 turns)] to yourself.

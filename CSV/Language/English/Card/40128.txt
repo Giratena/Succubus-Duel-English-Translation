@@ -1,3 +1,0 @@
-default
-等価交換,Equivalent Exchange
-LPを500払って発動する。お互いのプレイヤーに「等価交換（自分ターン終了時に手札をランダムに１枚捨て、その後１枚ドローする。この効果が4回発動したあとこの状態を解除する）」を付与する。,Pay 500 LP: Grant [Equivalent Exchange (4 turns)] to both players. ([Equivalent Exchange] = At the end of turn; discard 1 random card from your hand and then draw 1 card.)

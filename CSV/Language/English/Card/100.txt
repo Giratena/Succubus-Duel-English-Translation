@@ -1,3 +1,0 @@
-default
-パニッシャー,Punisher
-[1].このカードの攻撃力は自分のデッキの枚数×50ポイントアップする。\n[2].このカードのHPが回復したとき発動する。自分のデッキに「{%%40230}」を１枚加える。,[1]. Increase this card's attack power by 50 x X (X = the number of cards in your Deck).\n[2]. When this card's HP is recovered: Add one [{%%40230}] to your Deck.

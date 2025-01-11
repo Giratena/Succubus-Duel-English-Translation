@@ -1,3 +1,0 @@
-default
-原始的な呪術,Primitive Sorcery
-[1].自分フィールド上に「シャーマン」モンスターが存在する場合に発動できる。相手フィールド上のすべてのモンスターに「毒」(400)を付与する。,[1]. If there is a [Shaman] monster on your field; grant [Poison (400)] to all monsters on your opponent's field.

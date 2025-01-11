@@ -1,3 +1,0 @@
-default
-鉄兵士,Iron Soldier
-そこそこの実力を持つ一般兵士。装備の手入れは欠かさない。,A warrior of average fighting ability. He never skips out on keeping his equipment maintained.

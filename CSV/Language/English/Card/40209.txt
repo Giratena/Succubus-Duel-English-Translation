@@ -1,3 +1,0 @@
-default
-極大魔法,Maximum Magic
-[1].自分フィールド上の魔法使いタイプレベル7以上モンスターを選択し、墓地から地属性・水属性・火属性・風属性・光属性・闇属性のカードを１枚ずつ取り除いて発動できる。相手フィールド上のカードをすべて破壊し、選択したモンスターの攻撃力を破壊した枚数×1000ポイントアップする。,[1]. Select 1 Level 7 or higher Spellcaster Type monster on your field; banish 1 Earth Attribute; Water Attribute; Fire Attribute; Wind Attribute; Light Attribute; and Dark Attribute card from your Graveyard. Destroy all cards on your opponent's field; and increase a selected monster's ATK by 1000 x X (X = the number of cards destroyed).

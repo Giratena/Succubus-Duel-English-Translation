@@ -1,3 +1,0 @@
-default
-太陽の詩人,Poet of the Sun
-[1].１ターンに5度まで、自分キャラクターのHPが回復した時発動する。すべての自分キャラクターの最大HPを200ポイントアップする。\n[2].自分ターン終了時に発動する。デッキから「詩人」モンスターをランダムに１枚手札に加える。,[1] 5 times per turn when a character you control recovers HP: All characters you control gain 200 MAX HP.\n[2] At the end of your turn: Add 1 random "Poet" monster from your deck to your hand.

@@ -1,3 +1,0 @@
-default
-そよ風の呪文書,Fresh Wind Spellbook
-クールタイム4\n[1]自分フィールド上に魔法使いタイプのモンスターがいるときに発動できる。デッキから風属性の魔法カードをランダムに1枚手札に加える。このターン自分が風属性カードの効果を4回以上発動している場合、1枚ではなく2枚手札に加える。,Cooldown 4\n[1]. If you control a Spellcaster Type monster: Add 1 random Wind Attribute Spell Card from your deck to your hand. If you have activated Wind Attribute card effects 4 or more times this turn; add 2 cards instead of 1.

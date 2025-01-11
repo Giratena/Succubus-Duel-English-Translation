@@ -1,3 +1,0 @@
-default
-砂上の楼閣,Castle Built on Sand
-[1].このカードが破壊されたとき発動する。相手の魔法トラップカードをランダムに１枚破壊する。,[1]. If this card is destroyed: Destroy a random Magic/Trap Card your opponent controls.

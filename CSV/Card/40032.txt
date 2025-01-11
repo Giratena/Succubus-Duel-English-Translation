@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Flame Whip
-&効果テキスト,[1]. Discard a card from your hand and deal 1000 points of damage to all monsters on your opponent's side of the field.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

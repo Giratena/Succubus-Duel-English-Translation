@@ -1,3 +1,0 @@
-default
-一冬の思い出,Winter Memories
-[1].自分フィールド上の水属性カードが破壊され墓地へ送られたとき発動できる。自分プレイヤーのLPを相手フィールド上の凍結状態のキャラクター×1200ポイント回復する。,[1]. When a Water Attribute card on your field is destroyed and sent to the Graveyard; recover X x 1200 LP. (X = The number of characters with [Freeze] on your opponent's field.)

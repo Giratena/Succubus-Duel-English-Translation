@@ -1,3 +1,0 @@
-default
-抑圧,Oppression
-[1].同名カードが自分フィールド上に存在しないとき、LPを1000払ってこのカードを発動できる。\n[2].このカードがフィールド上に存在する限り、相手フィールド上のモンスターのレベルは常に1低下する。またお互いにレベル1モンスターは効果を発動できなくなる。,[1]. If there are no cards with the same name on your field; you may pay 1000 LP to activate this card.\n[2]. As long as this card is on the field; decrease all monsters' levels by 1 on your opponent's field. Both players cannot activate effects of Level 1 monsters.

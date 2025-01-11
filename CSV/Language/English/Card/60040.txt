@@ -1,3 +1,0 @@
-default
-淫魔のパンツ,Succubus Panties
-自分キャラクターに装備可能。\n[1].装備モンスターは攻撃力が1000ポイントダウンし、「パンツに弱い」（永続）状態になる。\n[2].このカードが手札に存在する場合、自分ターン終了時に発動する。自分フィール上のランダムなキャラクターにこのカードを装備する。,May be equipped to a character you control; decrease the ATK of the equipped card by 1000 points and apply [Panty Fetish (Permanent)].\n[2]. If this card is in your hand; at the end of your turn; equip it to a random character on your field.

@@ -1,3 +1,0 @@
-default
-リーフカッター,Leaf Cutter
-クールタイム4\n[1].自分フィールド上に「樹」カードがある場合、魔法トラップカード1枚を選択して発動できる。そのカードを破壊する。,Cooldown 4\n[1]. If you control a "Tree" card: Target 1 Spell/Trap Card; Destroy that card.

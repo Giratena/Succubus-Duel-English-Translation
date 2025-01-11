@@ -1,3 +1,0 @@
-default
-生命保証,Life Insurance
-場のモンスター１体を選択して発動する。そのモンスターに「このカードが戦闘で破壊されたとき、そのターンの終了時にカードを２枚ドローする」という効果を付与する。,Target a monster; That monster gains "If this card is destroyed in combat: Draw 2 cards at the end of your turn."

@@ -1,3 +1,0 @@
-default
-死者の慟哭,Wail of the Dead
-[1].自分のLPが2000以下で、かつ自分フィールド上にモンスターが存在しない場合に、手札をすべて捨てLPを残り100になるように支払い発動する。自分の墓地から攻撃力が高い順に闇属性モンスターを可能な限り特殊召喚する（攻撃力が同じ場合、その中からランダムに特殊召喚する）（LPが100以下の場合、このカードは発動できない）,[1]. If this card is activated: Target 1 monster in your Graveyard and Special Summon it. If you do; banish it when it leaves the field.

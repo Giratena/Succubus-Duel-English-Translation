@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Quick
-&効果テキスト,[1]. If there are no monsters in your field and Graveyard: Discard 1 card; You gain an additional player attack this turn.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

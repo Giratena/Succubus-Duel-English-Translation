@@ -1,3 +1,0 @@
-default
-栄養肥料,Nutrient Fertilizer
-[1].１ターンに５度まで、このカード名のカード以外によって、自分フィールド上のモンスターに「成長」が付与されたとき発動する。そのモンスターに「成長」(100)を付与する。,[1]. When a monster on your field is granted [Growth] by a card other than this card; grant that monster [Growth (100)]. (Activates up to 5 times per turn.)

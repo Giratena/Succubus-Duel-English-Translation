@@ -1,3 +1,0 @@
-default
-守りのジェムLv2,Guardian Gem Lv2
-このカードは自分の墓地にこのカード名のカード以外の「ジェム」カードが存在する場合にのみ発動できる。\n[1].キャラクター１体を対象にして発動する。その最大HPを500ポイントアップし、「戦闘ダメージ無効」(1ターン)を付与する。,You may only activate this card if there are other "Gem" cards in your Graveyard (excluding those with this card name).\n[1]. Target 1 character; increase their maximum HP by 500 points and grant [Battle Damage Nullification (1 turn)].

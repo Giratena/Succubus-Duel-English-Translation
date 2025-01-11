@@ -1,4 +1,0 @@
-default
-ミミック,Mimic
-[1].相手の攻撃宣言時に発動できる。その攻撃を無効にし、このカード(攻撃力500,[1]. If an opponent declares an attack; negate the attack and Special Summon this card (ATK 500; HP 1700) as a monster to your Monster Zone. Then; inflict 500 damage to that attacking monster.\n[2]. Inflicts [Footjob Fetish] on opponents during battle.
-[3].このカードがモンスターとして存在している場合、１ターンに１度、墓地のトラップカードを1枚取り除いて発動できる。このカードを自分の手札に戻す。,[3]. If this card exists as a monster;once per turn you may banish 1 Trap Card from your Graveyard to return this card to your hand.
