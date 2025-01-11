@@ -1,8 +1,8 @@
 # Succubus-Duel-English-Translation
 This is a translation project for Succubus Duel, a card game featuring many succubi and temptations...
 [You can buy and support the game here!](https://www.dlsite.com/maniax/work/=/product_id/RJ01149693.html)
-(Current Percentage of Game Translated: 30% complete)
-- See [Milesones](https://github.com/Giratena/Succubus-Duel-English-Translation/milestones) for translation Progress
+
+- See [Milesones](https://github.com/Giratena/Succubus-Duel-English-Translation/milestones) for translation Progress (Current Percentage of Game Translated: 30% complete)
 - Log any bugs or typos, or see what needs to be translated in [Issues](https://github.com/Giratena/Succubus-Duel-English-Translation/issues)
 
 # How to contribute/test the translation
