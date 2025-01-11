@@ -1,3 +1,0 @@
-default
-スザク,Suzaku
-[1].1ターンに1度、墓地の炎属性カード2枚をランダムに取り除いて発動できる。このカードのHPを最大まで回復する。その後、自身の最大HPを300ポイントダウンさせる。\n[2].このカードが効果ダメージを受けたとき発動する。このカードの攻撃力を300ポイントアップする。,[1]. Once per turn: You can Banish 2 Fire Attribute cards from your Graveyard; This cards recovers all its HP; then this card gains 300 MAX HP.\n[2]. When this card takes effect damage: This card gains 300 ATK.

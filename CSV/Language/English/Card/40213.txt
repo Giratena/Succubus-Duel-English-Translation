@@ -1,4 +1,0 @@
-default
-バブルガムコフィン,Bubblegum Coffin
-[1].自分ターン開始時に発動する。相手プレイヤーの理性に10ポイントのダメージを与え、相手のデッキの一番上のカードを2枚墓地へ送る。,[1]. When your turn begins; inflict 10 points of damage to your opponent player's sanity; and send the top 2 cards of your opponent's Deck to the Graveyard.
-(ハード以上の難易度の場合、2枚ではなく4枚墓地へ送る),(If the difficulty is Hard or above; instead send 4 cards from the top of your opponent's Deck to their Graveyard).

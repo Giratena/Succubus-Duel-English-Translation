@@ -1,3 +1,0 @@
-default
-不等価交換,Unequal Exchange
-[1].自分フィールド上の最もレベルが高いモンスター1体とそのモンスターよりレベルが低い相手フィールド上で最もレベルが低いモンスター１体を破壊する。（同じレベルのモンスターが複数いる場合、ランダムに選ばれる）,[1]. Destroy the monster with the highest Level on your field and one monster with a lower Level than that monster on your opponent's field. (If multiple monsters have the same lowest Level; one is chosen at random.)

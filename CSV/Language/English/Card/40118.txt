@@ -1,3 +1,0 @@
-default
-命のろうそく,Life Candle
-[1].１ターンに１度、墓地のカードをランダムに２枚取り除いて発動できる。このカードのチャージを+1する。\n[2].お互いのターン終了時に発動する。ターンプレイヤーの最大HPをチャージ×200ポイントダウンさせる。,[1]. Once per turn; banish 2 random cards from your Graveyard: Give this card +1 charge.\n[2]. At the end of each player's turn; reduce the turn player's maximum HP by 200 x X (X = this card's current charge).

@@ -1,3 +1,0 @@
-default
-カウンターチャーム,Counter Charm
-相手キャラクターの攻撃宣言時に発動できる。そのキャラクターに「魅了」を付与する。,[1]. If an opponent's character declares an attack; inflict [Charm] on that character.

@@ -1,3 +1,0 @@
-default
-フレイムショット,Flame Shot
-LPを500払って発動可能。\n[1].このカードが存在する限り、自分フィールド上の「{%%40072}」は炎属性になり、相手に与える効果ダメージが400ポイントアップする。,Pay 500 LP to activate.\n[1]. [{%%40072}] you activate become Fire Attribute and they deal 400 more damage to your opponent's monsters.

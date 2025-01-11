@@ -1,3 +1,0 @@
-default
-短絡感電,Short Circuit Shock
-[1].自分の光属性モンスターが相手モンスターを戦闘で破壊したとき発動する。相手フィールド上のランダムなモンスターに500ポイントの効果ダメージを与える。,[1]. When your Light Attribute monster destroys an opponent's monster by battle; inflict 500 effect damage to a random monster on your opponent's field.

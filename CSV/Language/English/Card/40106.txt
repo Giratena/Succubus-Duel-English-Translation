@@ -1,3 +1,0 @@
-default
-見張り台,Lookout
-[1].相手モンスターが場に出たとき発動する。そのモンスターに100ポイントのダメージを与える。,[1]. If your opponent Summons a monster: Deal 100 damage to that monster.

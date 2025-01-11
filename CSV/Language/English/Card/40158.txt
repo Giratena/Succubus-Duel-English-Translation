@@ -1,3 +1,0 @@
-default
-沼地の小屋,Swampland Cabin
-[1].自分フィールド上に「毒」状態のモンスターがいる場合、自分ターン終了時に発動する。自分フィールド上のすべての「毒」状態モンスターのHPを800ポイント回復する。,[1]. If a monster with [Poison] is present on your field; restore 800 HP to all monsters with [Poison] on your field at the end of your turn.

@@ -1,3 +1,0 @@
-default
-スパイダーエッグ,Spider Egg
-自分フィールド上の「アラクネ」モンスターが破壊され墓地へ送られたとき、LPを800払って発動可能。\n[1].自分ターン終了時に発動する。破壊されたモンスターと同じモンスター1体を生成して特殊召喚する。その後、このカードは自壊する。,[1]. When an "Arachne" monster on your field is destroyed and sent to the Graveyard; you may pay 800 LP. At the end of your turn; Special Summon 1 monster with the same name as the destroyed monster. Then; this card destroys itself.

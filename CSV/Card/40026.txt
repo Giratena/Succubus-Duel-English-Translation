@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Enhanced Draw
-&効果テキスト,[1]. If there are no monsters on your field at the beginning of your next turn: Draw 2 cards. (This card can only be activated when you have 5 or less cards in your hand.)
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

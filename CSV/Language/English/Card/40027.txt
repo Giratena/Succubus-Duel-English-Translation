@@ -1,3 +1,0 @@
-default
-ライフチェンジ,Life Change
-[1].フィールド上のモンスター2体を選択して発動する。そのモンスターのHPを互いに入れ替える（最大HPも交換される）。,[1]. Target 2 monsters; Swap the HP and MAX HP of these two monsters.

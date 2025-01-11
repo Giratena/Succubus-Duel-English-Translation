@@ -1,3 +1,0 @@
-default
-トラバサミ,Steel Trap
-相手モンスターの通常召喚成功時に発動できる。そのモンスターに1000ポイントのダメージを与え、ターン終了時まで攻撃不能にする。,If your opponent Normal Summons a monster: Deal 1000 damage to that monster and it cannot attack this turn.

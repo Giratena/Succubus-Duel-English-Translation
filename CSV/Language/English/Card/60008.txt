@@ -1,3 +1,0 @@
-default
-発掘シャベル,Excavation Shovel
-自分キャラクターに装備可能。装備者が戦闘で相手モンスターを破壊したとき、デッキからランダムに「ジェム」カードを1枚手札に加える。,Can only be equipped to a character you control. If the equipped character destroys a monster your opponent controls by battle: Add a random "Gem" card from your deck to your hand.

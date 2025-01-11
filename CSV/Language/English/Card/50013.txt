@@ -1,3 +1,0 @@
-default
-加速する頭脳,Brain Blast
-[1].自分のデッキ・手札・墓地にモンスターカードが１枚も存在しない場合、自分ターン開始時に発動できる。カードを３枚ドローする。,[1]. If there are no Monster cards in your Deck; hand; or Graveyard at the start of your turn; draw 3 cards.

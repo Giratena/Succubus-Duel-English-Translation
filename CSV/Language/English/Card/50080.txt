@@ -1,3 +1,0 @@
-default
-一掃,Sweep Clean
-[1].相手モンスターの攻撃宣言時に発動できる。相手フィールド上のHP500以下のモンスターをすべて相手の手札に戻す。,[1]. If an opponent's monster declares an attack; return all monsters with 500 or less HP on your opponent's field to their hand.

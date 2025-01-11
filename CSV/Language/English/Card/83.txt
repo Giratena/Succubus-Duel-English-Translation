@@ -1,3 +1,0 @@
-default
-森の小人,Forest Gnome
-[1].１ターンに１度、自分フィールド上に「成長」状態のモンスターがいる場合に発動できる。自分のLPを「成長」状態のモンスターの数×500ポイント回復し、デッキからカードを１枚ドローする。,[1]. Once per turn; when you control a monster in [Growth] status: Recover your LP by 500 x X (X = the number of monsters with [Growth] status) and draw one card from your Deck.

@@ -1,3 +1,0 @@
-default
-十文字斬り,Cross Cut
-このカードは自分の手札・フィールド・墓地にモンスターが１枚も存在せず、自分プレイヤーが装備カードを2枚以上装備している場合にのみ発動できる。\n[1].相手フィールド上のモンスター１体を選択して発動する。そのモンスターに自分プレイヤーの攻撃力分のダメージを２回与える。この効果で相手モンスターを破壊した場合、カードを１枚ドローする。,This card may only be activated if there are no monsters on your hand; field; or Graveyard; and you have 2 or more equipment cards equipped.\n[1]. Select 1 monster on your opponent's field and inflict damage to that monster equal to the ATK of the player x 2. If that monster is destroyed by this effect; draw 1 card.

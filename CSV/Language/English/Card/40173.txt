@@ -1,3 +1,0 @@
-default
-紫鉱床,Purple Ore Vein
-LPを500払って発動可能。\n[1].１ターンに１度、発動できる。「{%%40022}」を生成して手札に加える。自分フィールド上に「ドワーフ」モンスターが存在する場合、１枚ではなく２枚加える。,Pay 500 LP to activate.\n[1]. Once per turn; you may generate [{%%40022}] and add it to your hand. If you control a "Dwarf" Type monster on your field; add 2 copies of [{%%40022}] instead of 1.

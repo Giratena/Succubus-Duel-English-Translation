@@ -1,3 +1,0 @@
-default
-ホーリーランス,Holy Lance
-光属性モンスターに装備可能。\n[1].装備モンスターのHPが回復した時発動する。装備モンスターの攻撃力を200ポイントアップし、「貫通」(１ターン)を付与する。,[1]. Light Attribute monster only.\n[1]. When the HP of the equipped monster is restored; increase the ATK of that monster by 200 points and grant [Pierce (1 Turn)].

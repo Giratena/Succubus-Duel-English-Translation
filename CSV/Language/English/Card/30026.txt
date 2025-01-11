@@ -1,3 +1,0 @@
-default
-ツチヘビ,Ground snake
-大変ふとましい蛇。食べるととてもおいしいので食用として重宝されている。,A very plump snake. It is delicious to eat; so it is highly valued as food.

@@ -1,3 +1,0 @@
-default
-力のジェムLv2,Power Gem Lv2
-このカードは自分の墓地に「力のジェムLv2」以外の「ジェム」カードが存在する場合にのみ発動できる。\n[1].キャラクター１体を対象にして発動する。その攻撃力を600ポイントアップさせる。,This card can only be activated if there is a "Gem" card other than "Power Gem Lv2" in your Graveyard.\n[1]. Target 1 character; That character gains 600 ATK.

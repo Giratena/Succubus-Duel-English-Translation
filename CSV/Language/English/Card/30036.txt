@@ -1,3 +1,0 @@
-default
-狩人のフクロウ,Hunter's Owl
-[1].このカードが召喚に成功したとき、デッキからハンタータイプのモンスターをランダムに1枚手札に加える。\n[2].このカードが戦闘によって破壊され墓地に送られたとき、デッキから永続魔法カード1枚を手札に加える。,[1]. When this card is successfully summoned; add one random hunter-type monster from your deck to your hand.\n[2]. When this card is destroyed in battle and sent to the graveyard; add one continuous spell card from your deck to your hand.

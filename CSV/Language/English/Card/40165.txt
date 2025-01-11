@@ -1,3 +1,0 @@
-default
-生命の共鳴魔術,Life Resonance Magic
-[1].自分フィールド上に地属性モンスターが３体以上存在する場合に、500LP払って発動できる。自分フィールド上のすべてのモンスターに成長(300)を付与し、HPを1000ポイント回復する。,[1]. If there are 3 or more Earth Attribute monsters on your field; you may pay 500 LP to activate this effect. Grant [Growth (300)] to all monsters on your field and recover 1000 HP.

@@ -1,3 +1,0 @@
-default
-キューピッドショット,Cupid Shot
-[1].相手キャラクター１体を選択して発動できる。そのモンスターのHPを500ポイント回復し、「愛の奴隷」を2回付与する。,[1]. Select 1 opponent's character; recover that monster's HP by 500 points and inflict [Love Slave] on it twice.

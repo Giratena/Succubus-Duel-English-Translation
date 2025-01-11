@@ -1,3 +1,0 @@
-default
-妖怪変化,Yokai Transformation
-手札を1枚捨てて発動可能。\n[1].このカードがフィールド上に表側表示で存在する限り、自分フィールド上のモンスターが場に出てからの経過ターン数は常に+2される。\n[2].このカードは発動後3回目の自分ターン終了時に自壊する。,Discard 1 card from your hand to activate this card.\n[1]. As long as this card is face-up on the field; increase the elapsed turn count of monsters on your field by +2.\n[2]. banish this card at the end of your 3rd turn after activation.

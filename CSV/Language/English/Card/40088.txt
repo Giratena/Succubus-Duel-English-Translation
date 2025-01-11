@@ -1,3 +1,0 @@
-default
-打ち直し,Redo
-このカード名のカードは１ターンに1枚しか発動できない。\n[1].自分の墓地から地属性カードを4枚取り除いて発動する。デッキからカードを2枚ドローする。,You can only activate 1 "Redo" per turn.\n[1]. Banish 4 Earth Attribute cards from your Graveyard: Draw 2 cards.

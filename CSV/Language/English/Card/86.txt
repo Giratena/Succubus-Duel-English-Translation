@@ -1,3 +1,0 @@
-default
-発掘ドワーフ,Excavation Dwarf
-[1].このカードが場に出た時発動する。「{%%50015}」を２枚生成して手札に加える。,[1]. When this card is summoned: Generate 2 [{%%50015}] cards and add them to your hand.

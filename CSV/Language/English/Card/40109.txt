@@ -1,3 +1,0 @@
-default
-カーニバル,Carnival
-[1].自分の墓地に上級モンスターがいない場合にのみ、墓地のレベル３以下のモンスター2枚を取り除いて発動できる。手札からレベル３以下のモンスターを可能な限りランダムに特殊召喚する。,[1]. If there are no high-level monsters in your Graveyard; banish 2 Level 3 or lower monsters from your Graveyard to activate. Special Summon as many Level 3 or lower monsters from your hand as possible at random.

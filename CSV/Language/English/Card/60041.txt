@@ -1,3 +1,0 @@
-default
-電気を食うネズミ,Electricity-Eating Mouse
-自分キャラクターに装備可能。\n[1].装備キャラクターは光属性カードの効果によって受けるダメージが1/5になる。,[1]. May be equipped to a character you control; damage taken by the equipped character from Light Attribute card effects is reduced by 80%.

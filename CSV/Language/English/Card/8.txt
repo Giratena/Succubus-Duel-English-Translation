@@ -1,3 +1,0 @@
-default
-ツヴァイク,Zweig
-あまたの戦場を渡り歩いたといわれる、熟練の戦士。その戦闘力は非常に高い。,A skilled warrior who was gone through many battles. His fighting strength is exceedingly high.

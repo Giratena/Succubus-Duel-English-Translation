@@ -1,3 +1,0 @@
-default
-製材加工,Lumber Processing
-このカード名のカードは１ターンに1枚しか発動できない。\n[1].自分の手札から「樹」カードを１枚捨てて発動できる。カードを２枚ドローする。,You may only use one card with this name per turn.\n[1]. Discard 1 "Tree" card from your hand; draw 2 cards.

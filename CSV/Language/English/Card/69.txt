@@ -1,3 +1,0 @@
-default
-キングドワーフ,King Dwarf
-[1].このカードが通常召喚に成功したとき発動する。墓地に「ジェム」魔法カードが３種類以上あるとき、自身の攻撃力を500ポイントアップする。5種類以上あるときカードを２枚ドローする。７種類以上あるとき相手の魔法トラップカードをすべて破壊する。\n[2].自分が「ジェム」魔法カードを発動したとき発動する。自分フィールド上のすべての「ドワーフ」モンスターの最大HPと攻撃力を300ポイントアップする。,[1]. When this card is successfully Normal Summoned; if there are three or more "Gem" Spell Cards in the Graveyard; increase this card's attack power by 500 points. If five or more; draw two cards. If seven or more; destroy all of the opponent's Magic and Trap cards.\n[2]. When you activate a "Gem" Spell Card: Increase the maximum HP and attack power of all "Dwarf" monsters on your field by 300 points.

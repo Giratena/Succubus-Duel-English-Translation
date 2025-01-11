@@ -1,3 +1,0 @@
-default
-大ナタぶるい,Giant Machete Wielder
-1ターンに1度手札を2枚捨てて発動できる。相手フィールド上のすべてのモンスターにこのモンスターの攻撃力分のダメージを与える。,Once per turn: You can discard 2 cards from your hand; Deal damage to all monsters your opponent controls equal to this card's ATK.

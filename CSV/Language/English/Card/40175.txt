@@ -1,3 +1,0 @@
-default
-隔壁展開,Isolation Barrier
-[1].自分フィールド上に「{%%10069}」が存在する場合にのみ発動できる。自分フィールド上のすべてのモンスターを「守備状態」にし、最大HPを1000ポイントアップする。さらに「次受ける戦闘ダメージ・効果ダメージを０にする」を付与する。,[1]. You may only activate this card if you control [{%%10069}]. Change all monsters you control to Defense Position and increase their maximum HP by 1000 points. Additionally; grant [Next received battle or effect damage becomes 0].

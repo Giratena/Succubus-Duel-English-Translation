@@ -1,3 +1,0 @@
-default
-呪いの人形,Cursed Doll
-[1].相手ターン終了時に発動する。相手プレイヤーに1000ポイントのダメージを与える。,[1]. Activate at the end of your opponent's turn; inflict 1000 points of damage to your opponent.

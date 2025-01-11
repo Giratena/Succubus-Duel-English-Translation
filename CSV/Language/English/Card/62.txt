@@ -1,3 +1,0 @@
-default
-ノッカー,Knocker
-[1].このカードが守備状態のモンスターに与える戦闘ダメージは800ポイントアップする。,[1]. The battle damage this card deals to a defending monster is increased by 800 points.

@@ -1,3 +1,0 @@
-default
-弱体化,Weaken
-フィールド上のモンスター1体を選択して発動する。そのモンスターの攻撃力を半分にする。,Target 1 monster; That monster's ATK becomes half its current ATK.

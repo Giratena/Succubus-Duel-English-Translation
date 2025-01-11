@@ -1,3 +1,0 @@
-default
-暗殺者クリフ,Cliff - The Assassin
-[1].このカードが通常召喚に成功した時発動する。相手の手札をランダムに1枚捨てる。そのカードがモンスターカードだった場合、このカードの攻撃力を500ポイントアップする。,[1]. When this card is successfully Normal Summoned: Discard one random card from your opponent's hand. If the discarded card was a monster card; increase this card's attack power by 500 points.

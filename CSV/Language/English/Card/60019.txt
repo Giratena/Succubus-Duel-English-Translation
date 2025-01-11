@@ -1,3 +1,0 @@
-default
-とげこんぼう,Spiked Club
-「バンディット」モンスターに装備可能\n[1].攻撃力を600ポイントアップする。,[1]. May be equipped to a Bandit Type monster; Increase the equipped monster's Attack by 600 points.

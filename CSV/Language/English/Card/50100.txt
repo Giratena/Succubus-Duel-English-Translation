@@ -1,3 +1,0 @@
-default
-攻撃目標,Target Designation
-[1].相手モンスターが場に出たとき発動できる。そのモンスターに「このカードが戦闘で破壊されたとき相手は２枚ドローする」を付与する。,[1]. When an opponent's monster is summoned; grant that monster [Opponent draws 2 cards when this card is destroyed by battle].

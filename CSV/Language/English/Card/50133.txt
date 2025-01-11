@@ -1,3 +1,0 @@
-default
-過積載,Overload
-[1].装備カードを装備した相手モンスターの攻撃宣言時に発動できる。そのモンスターに、装備しているカードの数×1000ポイントのダメージを与える。,[1]. If an opponent's monster equipped with Equipment Cards declares an attack; inflict damage to that monster equal to 1000 x X (X = the number of Equipment Cards attached).

@@ -1,3 +1,0 @@
-default
-永遠の循環,Eternal Cycle
-[1].自分の墓地の永続魔法カード１枚を取り除いて発動する。デッキからランダムな永続魔法カードを１枚手札に加える。,[1]. Banish 1 Continuous Spell Card from your Graveyard; add 1 random Continuous Spell Card from your Deck to your hand.

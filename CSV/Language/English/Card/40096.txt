@@ -1,3 +1,0 @@
-default
-茨の壁,Wall of Thorns
-手札を1枚捨てて発動する。\n[1].自分フィールド上に植物タイプのモンスターが存在する場合、相手モンスターが場に出たとき発動する。そのモンスターに「ターン終了時まで攻撃不能」を付与する。,Discard one card from your hand to activate.\n[1]. When an opponent's monster is Summoned while you control a Plant Type monster on the field: Apply [Cannot Attack (Until the end of this turn)] to that monster.

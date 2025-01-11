@@ -1,3 +1,0 @@
-default
-青天の霹靂,Bolt from the Blue
-[1].自分フィールド上にカードが存在せず、手札がこのカードのみの時発動できる。デッキからレベル7以上の光属性モンスターをランダムに１体特殊召喚する。,[1]. If you have no cards on your field and this card is the only card in your hand; Special Summon 1 random Level 7 or higher Light Attribute monster from your Deck.

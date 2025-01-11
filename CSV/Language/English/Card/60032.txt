@@ -1,5 +1,0 @@
-default
-魅惑のピンクリップ,Fascination Pink Lipstick
-LPを1000払って「サキュバス」モンスターに装備可能。[1].装備モンスターの攻撃力を300ポイントアップする。[2].装備モンスターは戦闘時、相手に「魅了」を付与する。,[1]. Pay 1000 LP to equip this card to a [Succubus] monster. Increase the ATK of the equipped monster by 300 points.
-\n[2]. Applies [Charm] to the opponent during battle.
-[3].このカードを装備したモンスターがフィールドを離れたことで、このカードが墓地へ送られたとき発動する。このカードを手札に加える。,[3]. When this card is sent to the Graveyard because the equipped monster left the field; add this card to your hand.

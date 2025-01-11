@@ -1,4 +1,0 @@
-default
-イカサマドロー,Swindlers Draw
-このカード名のカードは１ターンに２枚までしか発動できない。\n[1].コイントスを行う。結果が表だった場合、デッキからカードを2枚ドローする。ただし相手プレイヤーが「おっぱいに弱い」場合、コイントスの結果に関わらずドローできる。,You may only activate up to two cards with this card's name per turn.\n[1]. Conduct a coin toss. If the result is heads; draw 2 cards from your Deck. If the opponent player is inflicted with [Breast Fetish]; draw 2 cards regardless of the coin toss result.
-（ハード以上の場合、２枚ではなく３枚ドローする）,(If hard mode; draw 3 cards instead of 2.)

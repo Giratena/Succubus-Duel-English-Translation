@@ -1,4 +1,0 @@
-default
-致命的な連撃,Deadly Barrage
-手札を1枚捨てて発動できる。\n[1].このカードがフィールド上に存在する限り、ローグタイプのモンスターが「毒」状態のモンスターに攻撃するとき、攻撃回数が１増加する。,Discard 1 card from your hand to activate this card.\n[1]. While this card is on the field; Rogue Type monsters gain an additional attack against monsters with [Poison].
-

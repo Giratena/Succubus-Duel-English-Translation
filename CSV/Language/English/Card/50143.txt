@@ -1,3 +1,0 @@
-default
-タイムイーター,Time Eater
-[1].相手が相手ターン中に10枚以上カードを発動したとき発動できる。相手に「効果発動不能」(1ターン)「攻撃宣言不能」(1ターン)「召喚不能」(1ターン)を付与する。\n[2].このカードが相手の効果で破壊され墓地へ送られたとき発動する。相手に「攻撃宣言不能」(1ターン)を付与する。,[1]. If your opponent activates 10 or more cards during their turn; grant [Effect Ban  (1 turn)]; [Attack Declaration Ban (1 turn)]; and [Summoning Prohibited (1 turn)] to your opponent.\n[2]. When this card is destroyed by an opponent's effect and sent to the Graveyard; grant [Attack Declaration Ban (1 turn)] to your opponent.

@@ -1,3 +1,0 @@
-default
-下級サキュバス,Lesser succubus
-「ぬるぬる」状態の敵と戦闘をしたとき、倍の戦闘ダメージを与える。,When fighting an enemy with [Lotion]; deal double the combat damage.

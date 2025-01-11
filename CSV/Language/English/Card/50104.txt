@@ -1,3 +1,0 @@
-default
-爆発地雷,Explosive Landmine
-[1].自分フィールド上のモンスターが攻撃対象に選択されたとき発動できる。攻撃モンスターと攻撃対象に選択されたモンスターそれぞれに1500ポイントのダメージを与える。,[1]. If a monster on your field is selected as an attack target; inflict 1500 damage to both the attacking monster and the targeted monster.

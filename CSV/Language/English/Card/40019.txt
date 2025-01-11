@@ -1,3 +1,0 @@
-default
-水の守り,Water Barrier
-次の自分ターン開始時まで、このカードを使用したプレイヤーが受ける戦闘ダメージは半分になる。,Halve the combat damage you take until your next turn.

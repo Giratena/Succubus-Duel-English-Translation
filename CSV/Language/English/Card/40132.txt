@@ -1,3 +1,0 @@
-default
-孤高の精神,Lonesome Spirit
-[1].自分フィールド上のモンスター１体を選択して発動する。そのモンスターに「ターン終了時に自分フィールド上に自身以外のカードが存在しない場合、自分の攻撃力を400ポイントアップする」を付与する。,[1]. Select 1 monster on your field: It gains "This card gains 400 ATK at the end of the turn if no other cards are on your side of the field".

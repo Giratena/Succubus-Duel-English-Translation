@@ -1,3 +1,0 @@
-default
-森戦士の兜,Forest Solider Helmet
-地属性モンスターに装備可能\n[1].装備モンスターが相手モンスターを戦闘で破壊したとき発動する。装備モンスターに「成長(300)」を付与する。\n,Can only be equipped to Earth Attribute monsters.\n[1]. If the equipped monster destroys a monster your opponent controls by battle: The equipped monster gains [Growth (300)].

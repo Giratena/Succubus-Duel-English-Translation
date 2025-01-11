@@ -1,3 +1,0 @@
-default
-金卵のニワトリ,Golden Egg Hen
-[1].自分ターン開始時に発動する。「{%%50158}」を１枚生成して自分の手札に加える。,[1]. At the start of your turn; generate 1 "{%%50158}" and add it to your hand.

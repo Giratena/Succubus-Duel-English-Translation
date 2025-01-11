@@ -1,3 +1,0 @@
-default
-寄生するキノコ,Parasitic Mushroom
-[1].自分フィールド上のモンスター１体を選択して発動する。そのモンスターに「成長(300)」と「衰弱」を付与する。,[1]. Select 1 monster on your field; grant it [Growth (300)] and [Weakening].

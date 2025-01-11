@@ -1,3 +1,0 @@
-default
-略奪,Pillage
-このカード名のカードは１ターンに1枚しか発動できない。\n[1].自分フィールド上にローグタイプのモンスターがいる場合に発動できる。相手プレイヤーの最大HPを500ポイントダウンさせ、自分プレイヤーのHPを500ポイント回復する。,You may only activate 1 card with this card's name per turn.\n[1]. If you control a Rogue Type monster: Reduce your opponent player's maximum HP by 500 points and restore your own player's HP by 500 points.

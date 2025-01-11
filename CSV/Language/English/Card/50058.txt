@@ -1,3 +1,0 @@
-default
-加速のルーン,Acceleration Rune
-[1].１ターンに１度、風属性カードの効果が発動したとき300LP払って発動する。デッキからカードを１枚ドローする。この効果を３回発動したとき、このカードは自壊する。,[1]. Once per turn when a Wind Attribute card's effect is activated; pay 300 LP to draw 1 card from your Deck. After activating this effect 3 times; this card destroys itself.

@@ -1,3 +1,0 @@
-default
-戦意高揚,Fighting Spirit
-自分フィールド上のすべてのモンスターの攻撃力を２００ポイントアップさせる。,All monsters you control gain 200 ATK.

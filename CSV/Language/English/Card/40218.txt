@@ -1,3 +1,0 @@
-default
-あまねき守護,Widespread Guardian
-[1].墓地の地属性カードをランダムに１枚取り除き、LPを500払って発動する。お互いのすべてのキャラクターに「次受ける戦闘ダメージを0にする」を付与する。,[1]. Banish 1 random Earth Attribute card from your Graveyard; pay 500 LP. Grant [Next Battle Damage Received Becomes 0] to all characters on both sides.

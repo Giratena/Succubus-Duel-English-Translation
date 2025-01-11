@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Elf Holy Swordsman
-&効果テキスト,[1]. When this card is in your hand and you control no monsters; if an opponent Special Summons a monster: You can pay 2000 LP to activate this effect. Special Summon this card from your hand and deal 1500 points of damage to the opponent's Special Summoned monster.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

@@ -1,3 +1,0 @@
-default
-どくどくハートキッス,Poisonous Heart Kiss
-自分のLPが半分以下のとき、発動可能。[1].自分ターン開始時に発動する。相手の防御状態でないすべてのキャラクターに「キス中毒」「同士討ち」(永続)を付与し、このカードは自壊する、,Play if your LP is less than half. [1]. Activate at the start of your turn. Grant [Kiss Addiction] and [Betrayal (Permanent)] to all opponent's characters not in Defense Position. Then; banish this card this card.

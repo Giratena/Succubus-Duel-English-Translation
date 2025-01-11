@@ -1,3 +1,0 @@
-default
-エルフの二刀流剣士,Dual-Wielding Swordsman Elf
-[1].このカードの攻撃回数は自身が装備している装備カードの数だけ増加する。\n[2].このカードは反撃できない。,[1]. The number of attacks this card can make during each Battle Phase is increased by X (X = the number of Equipment Cards attached to this card).\n[2]. This card cannot counterattack.

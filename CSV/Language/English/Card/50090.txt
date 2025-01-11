@@ -1,3 +1,0 @@
-default
-発掘,Excavation
-[1].1ターンに1度、自分が地属性モンスターを場に出したとき、LPをこのカードのチャージ数×800払って発動できる。デッキから地属性魔法カードをランダムに１枚手札に加える。その後、このカードにチャージを+1する。,[1]. Once per turn; when you Summon an Earth Attribute monster; pay LP equal to this card's Charge x 800. Add 1 random Earth Attribute Spell Card from your Deck to your hand; then increase this card's Charge by +1.

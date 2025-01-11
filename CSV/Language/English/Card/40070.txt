@@ -1,3 +1,0 @@
-default
-霊樹のしずく,Dew of the Spirit Tree
-キャラクター1体を選択して発動する。そのHPを300ポイント回復し、そのキャラクターに付与された状態異常をすべて解除する（装備カードの効果によるものは除く）。,Target 1 character; That character recovers 300 HP and loses all status abnormalities (except those caused by Equipment Card effects).

@@ -1,3 +1,0 @@
-default
-乱麻断ち,Order's Restrain
-[1].自分フィールド上に「サムライ」モンスターがいる場合に発動できる。相手フィールド上の魔法トラップカードをランダムに1枚破壊する。破壊したカードがトラップカードだった場合、自分フィールド上のすべての「サムライ」モンスターの攻撃力を300ポイントアップする。,[1]. If you have a "Samurai" monster on your field; randomly destroy 1 Magic or Trap card on your opponent's field. If the destroyed card was a Trap; increase the ATK of all "Samurai" monsters on your field by 300 points.

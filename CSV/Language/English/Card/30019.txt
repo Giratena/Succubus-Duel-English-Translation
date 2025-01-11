@@ -1,3 +1,0 @@
-default
-大ネズミ,Giant Rat
-このカードが戦闘で相手モンスターを破壊したとき、自分フィールド上に自身のコピーを1体特殊召喚する。,[1]. When this card destroys an opponent's monster guring battle; special summon 1 copy of this card onto your side of the field.

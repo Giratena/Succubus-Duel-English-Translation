@@ -1,4 +1,0 @@
-default
-クイーンズオーラ,Queen's Aura
-クールタイム4\n[1].自分ターン開始時に1000LP払って発動できる。すべての相手キャラクターに「魅了」を付与する。,Cooldown 4\n[1]. At the start of your turn; you may pay 1000 LP to inflict [Charm] on all opponent characters.
-[2].このカードがフィールド上に存在する限り、自分の悪魔タイプモンスターの攻撃力を400ポイントアップする。,[2]. As long as this card remains on the field; increase your Demon Type monsters' attack power by 400 points.

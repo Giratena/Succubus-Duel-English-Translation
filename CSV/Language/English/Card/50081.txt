@@ -1,3 +1,0 @@
-default
-しびれ吹き矢,Paralyzing Dart
-[1].相手モンスターが自分のハンタータイプモンスターに攻撃宣言をしたとき発動できる。その攻撃を無効にし、攻撃モンスターに500ポイントダメージを与え「麻痺」を付与する。,[1]. If an opponent's monster declares an attack on a Hunter Type monster you control; negate the attack and inflict 500 damage and [Paralysis] on the attacking monster.

@@ -1,3 +1,0 @@
-default
-HP増強ポーション,Strong HP Potion
-フィールド上のモンスター１体の最大HPを1000ポイントアップさせる。,Target a monster; That monsters gains 1000 MAX HP.

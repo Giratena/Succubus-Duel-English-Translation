@@ -1,5 +1,0 @@
-default
-スロー,Slow
-[1].相手は「クールタイム」のあるカードを使う場合、発動コストが500LPかかる。,[1]. If an opponent uses a card with a Cooldown; the activation cost is 500 LP.
-
-

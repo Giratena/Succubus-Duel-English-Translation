@@ -1,3 +1,0 @@
-default
-種まき,Sow and Reap
-[1].このカードを発動した次の自分ターン終了時に発動する。デッキから地属性カードを２枚手札に加え、自分プレイヤーのHPを1000ポイント回復する。その後このカードは自壊する。,[1]. At the end of your next turn after this card is activated; add 2 Earth Attribute cards from your Deck to your hand and recover 1000 LP. Then; banish this card.

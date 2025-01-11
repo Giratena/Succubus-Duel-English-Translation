@@ -1,3 +1,0 @@
-default
-海の狩人,Sea Hunter
-[1].１ターンに３度まで、相手フィールド上のモンスターを選択し、手札を１枚捨てて発動できる。そのモンスターに400ポイントのダメージを与える。\n[2].このカードが相手モンスターを破壊したとき発動する。LPを800回復する。,[1]. Up to three times per turn; select one monster on the opponent's field and discard one card from your hand to activate this effect: Deal 400 points of damage to that monster.\n[2]. When this card destroys an opponent's monster: Recover 800 LP.

@@ -1,3 +1,0 @@
-default
-輪廻転生,Reincarnation
-[1].LPを1000払い、フィールド上のモンスター１体を選択して発動できる。そのモンスターに1500ポイントのダメージを与える。この効果でそのモンスターが破壊された場合、そのモンスターと同じモンスターを持ち主のフィールド上に特殊召喚する。,[1]. Pay 1000 LP and select 1 monster on the field. Inflict 1500 damage to it. If that monster is destroyed by this effect; Special Summon a monster with the same name from its owner's Deck to their field.

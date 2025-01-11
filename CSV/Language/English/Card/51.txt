@@ -1,3 +1,0 @@
-default
-双槍のディグ,Twin Lance Dig
-[1].このカードが場に出たとき発動する。デッキから装備カードをランダムに1枚手札に加える。自分の墓地に装備カードが３種類以上あるなら、１枚ではなく２枚まで手札に加える。,[1]. When this card is Summoned: Add 1 random Equipment Card from your Deck to your hand. If there are 3 or more different Equipment Cards in your Graveyard; add up to 2 cards to your hand instead.

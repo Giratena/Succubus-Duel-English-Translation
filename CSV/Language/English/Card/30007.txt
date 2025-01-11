@@ -1,4 +1,0 @@
-default
-コカトリス,Cockatrice
-攻撃時、相手を「石化」状態にする（石化：５ターン持続。石化したモンスターは攻撃も防御もできない）,[1]. When this card attacks; inflict [Petrification (5)] on the opponent's monster (Petrification: Lasts for 5 turns. A petrified monster cannot attack or defend).
-尻尾が蛇になっている巨大な鳥。その息は生き物の体を石に変えてしまう。,A gigantic bird with a serpent for a tail; whose breath can turn living creatures to stone.

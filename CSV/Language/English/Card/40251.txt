@@ -1,3 +1,0 @@
-default
-天からの火,Rain of Fire
-[1].手札から光属性カード１枚と炎属性カード２枚を捨てて発動できる。相手フィールド上のすべてのモンスターに3000ポイントダメージを与える。,[1]. Discard 1 Light Attribute card and 2 Fire Attribute cards from your hand; inflict 3000 damage to all monsters on your opponent's field.

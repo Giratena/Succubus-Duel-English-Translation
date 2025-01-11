@@ -1,3 +1,0 @@
-default
-深海降下,Deep Sea Descent
-[1].自分フィールド上に水属性モンスターが存在する場合、相手がモンスターを場に出したとき発動できる。そのモンスターを水属性に変え、攻撃力を自分フィールド上の水属性モンスターのレベルの合計×100ポイントダウンさせる。さらにレベルを3ダウンさせる。,[1]. If a Water Attribute monster is on your field when an opponent summons a monster; the summoned monster becomes Water Attribute; its level is decreased by 3; and ATK is decreased by 100 x X (X = The total Level of all Water Attribute monsters you control).

@@ -1,3 +1,0 @@
-default
-狡猾な悪魔,Crafty Devil
-このカードが場に出たとき、カードを1枚ドローする。,[1]. When this card enters the field; draw a card.

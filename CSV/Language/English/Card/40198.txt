@@ -1,3 +1,0 @@
-default
-流水斬,Flowing Water Slash
-[1].LPを1000払い、自分フィールド上の効果を持たないレベル6戦士タイプモンスター１体を選択して発動する。そのキャラクターの攻撃力分のダメージを相手フィールド上のすべてのモンスターに与え、さらに相手フィールド上のトラップカードをすべて破壊する。,[1]. Pay 1000 LP; select 1 Level 6 Warrior Type monster on your field without effects. Inflict damage equal to this card's ATK to all monsters on your opponent's field; additionally, destroy all Trap Cards on your opponent's field.

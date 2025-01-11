@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Soul Resonance
-&効果テキスト,Select a monster that there is more than one of on the field. Increase the attack power of all monsters with that name by 500 points.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

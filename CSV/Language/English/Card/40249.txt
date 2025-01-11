@@ -1,3 +1,0 @@
-default
-灼熱の槍,Scorching Spear
-[1].手札のレベル5~6の炎属性モンスター１体を選択し、LPを1500払い、自分フィールド上のモンスター１体をコストにして発動する。選択したモンスターを手札から特殊召喚し、フィールド上のすべてのモンスター(自身含む)に召喚したモンスターの攻撃力分のダメージを与える。,[1]. Select 1 Level 5-6 Fire Attribute monster from your hand; pay 1500 LP and tribute 1 monster on your field to Special Summon the selected monster. Then; inflict damage equal to the summoned monster's ATK to all monsters on the field (including this card).

@@ -1,3 +1,0 @@
-default
-爆破,Blast
-フィールド上のすべてのモンスターに400ポイントダメージを与える。,Deal 400 damage to all monsters.

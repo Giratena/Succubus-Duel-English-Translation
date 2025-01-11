@@ -1,3 +1,0 @@
-default
-武芸百般,Martial Arts
-このカード名のカードは１ターンに１度しか発動できない。\n[1].自分の墓地に装備カードが３種類以上存在し、自分の墓地にモンスターカードが１枚も存在しない場合に発動できる。カードを１枚ドローする。そのカードが装備カードだった場合、自分プレイヤーに「攻撃宣言回数+1」を付与する。,[1]. If there are 3 or more different equipment cards in your Graveyard and no monster cards; draw 1 card. If that card is an equipment card; grant [Additional Attack +1] to yourself.

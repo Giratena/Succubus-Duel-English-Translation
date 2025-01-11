@@ -1,3 +1,0 @@
-default
-秘境探検家,Uncharted Explorer
-[1].相手フィールド上にレベル5以上のモンスターしか存在しない場合、このカードは相手プレイヤーに直接攻撃できる。\n[2]相手フィールド上の魔法トラップゾーンにカードが３枚以上裏向きで伏せられている場合、このカードが通常召喚に成功した時発動する。カードを2枚ドローする。,[1]. While your opponent only controls level 5 or higher monsters: This card can attack your opponent directly.\n[2]. When this card is Normal Summoned when your opponent controls 3 or more Set cards: Draw 2 cards.

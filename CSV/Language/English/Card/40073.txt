@@ -1,3 +1,0 @@
-default
-トリプルショット,Triple Shot
-自分フィールド上にハンタータイプのモンスターがいる場合に発動できる。手札に「{%%40072}」を3枚加える。,If you control a Hunter Type monster: Add 3 [{%%40072}] to your hand.

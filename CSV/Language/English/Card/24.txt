@@ -1,3 +1,0 @@
-default
-戦う農夫,Fighting Farmer
-農作業で鍛えたその屈強な肉体はあなどれない。,His strong body that has been trained through years of farming should not be underestimated.

@@ -1,3 +1,0 @@
-default
-時間の逆行,Time Reversal
-[1].相手が魔法カードを発動した時、手札のトラップカード１枚を捨てて発動できる。その魔法カードの効果を無効にし、相手のデッキに戻す。,[1]. If an opponent activates a Spell Card; you may discard 1 Trap Card from your hand. Negate the effect of that Spell Card and return it to the opponent's Deck.

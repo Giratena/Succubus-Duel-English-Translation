@@ -1,3 +1,0 @@
-default
-暗殺者ロウガ,Rouga - The Assassin
-[1].このカードが相手モンスターを破壊したときに発動する。相手の手札をランダムに１枚墓地へ送る。そのカードがモンスターカードだった場合、このカードの攻撃力を300ポイントアップする。,[1]. When this card destroys an opponent's monster: Send one random card from your opponent's hand to the Graveyard. If the sent card was a monster card; increase this card's attack power by 300 points.

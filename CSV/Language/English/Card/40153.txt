@@ -1,3 +1,0 @@
-default
-乾坤一擲,All-or-Nothing
-[1].LPを1000払い、自分フィールド上の装備カード1枚を選択して発動する。その装備カードを破壊し、相手フィールド上の魔法トラップカードをすべて破壊する。,[1]. Pay 1000 LP and select 1 Equipment card on your field to activate. Destroy that Equipment card; then destroy all Spell/Trap cards on your opponent's field.

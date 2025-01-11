@@ -1,3 +1,0 @@
-default
-洗脳テンプリップ,Lip Temptation Brainwashing
-自分プレイヤーのLPが3000以下の場合発動可能。[1].相手の攻撃宣言時に発動する。攻撃キャラクターに「魅了」と「同士討ち」を付与する。攻撃を受けたキャラクターが「リップ」カードを装備していた場合、さらに「キス中毒」(永続)を付与する。\n[2].発動後２回目の相手ターン終了時に発動する。このカードは自壊する。[1]. If your LP is 3000 or less;  Activate when an opponent declares an attack. Grant [Charm] and [Betrayal] to the attacking character. If the attacked character has a [Lip] card equipped; additionally inflict [Kiss Addiction (Permanent)].\n[2]. At the end of your opponent's second turn after this card was activated; banish this card.

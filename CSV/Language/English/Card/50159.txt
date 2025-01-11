@@ -1,3 +1,0 @@
-default
-鳥かごの罠,Birdcage Trap
-[1].風属性モンスターが効果を発動したとき発動できる。その効果を無効にし、「拘束」状態を付与する。,[1]. If a Wind Attribute monster activates its effect; negate that effect and apply [Restraint] to that monster.

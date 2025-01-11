@@ -1,3 +1,0 @@
-default
-パーティータイム,Party Time
-[1].自分フィールド上にレベル３以下のモンスターが３体存在する場合にLPを半分払って発動できる。自分フィールド上のレベル３以下のモンスターはターン終了時まで攻撃力が400ポイントアップし、相手プレイヤーに直接攻撃できる。,[1]. If there are three Level 3 or lower monsters on your field; pay half your LP to activate. All Level 3 or lower monsters you control gain 400 attack points until the end of the turn and may directly attack your opponent's player.

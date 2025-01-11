@@ -1,3 +1,0 @@
-default
-パイレーツ,Pirates
-[1].このカードが手札から捨てられたとき発動する。デッキからカードを1枚ドローする。\n[2].このカードが通常召喚に成功したとき手札を1枚捨てて発動できる。デッキから永続魔法カードをランダムに1枚手札に加える。,[1]. When this card is discarded from your hand: Draw 1 card.\n[2]. When this card is Normal Summoned: You can discard 1 card from your hand; Add 1 random Continuous Spell Card from your deck to your hand.

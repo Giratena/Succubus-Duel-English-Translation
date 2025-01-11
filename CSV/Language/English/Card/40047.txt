@@ -1,3 +1,0 @@
-default
-虫のさざめき,Insect Sound
-デッキから昆虫タイプのモンスターをランダムに1体手札に加える。自分フィールド上に植物タイプのモンスターがいるなら、さらにもう1枚手札に加える。,Add a random Insect-type monster from the Deck to your hand. If there is a Plant-type monster on your field; add another Insect-type monster to your hand.

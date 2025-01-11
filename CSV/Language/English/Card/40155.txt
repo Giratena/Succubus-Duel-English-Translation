@@ -1,3 +1,0 @@
-default
-硬化,Hardening
-[1].墓地の地属性カード１枚をランダムに取り除き、自分フィールド上の地属性モンスター１体を選択して発動する。そのモンスターの最大HPを1500ポイントアップする。,[1]. Banish 1 Earth Attribute card from your Graveyard at random; select 1 Earth Attribute monster on your field to activate this effect. Increase that monster's max HP by 1500 points.

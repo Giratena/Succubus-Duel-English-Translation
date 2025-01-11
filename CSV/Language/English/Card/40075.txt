@@ -1,3 +1,0 @@
-default
-矢弾補充,Tactical Reload
-LPを1000払って発動可能。\n[1].自分ターンの開始時ごとに「{%%40072}」を生成して1枚手札に加える。\n[2].１ターンに１度、自分がハンタータイプのモンスターを場に出したとき発動する。「{%%40072}」を生成して1枚手札に加える。,Pay 1000 LP to activate.\n[1]. At the start of your turn: Add 1 [{%%40072}] to your hand.\n[2]. Once per turn if you Summon a Hunter Type monster: Add 1 [{%%40072}] to your hand.

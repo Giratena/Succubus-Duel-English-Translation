@@ -1,3 +1,0 @@
-default
-シンプルパワー,Basic Strength
-[1].LPを500払い、自分フィールド上の効果を持たないモンスター１体を選択して発動できる。そのモンスターの攻撃力を600ポイントアップする。,[1]. Pay 500 LP; select one monster on your field without any effects: Increase that monster's attack power by 600 points.

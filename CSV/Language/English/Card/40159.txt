@@ -1,3 +1,0 @@
-default
-防護柵,Safety Fence
-[1].このカードが自分フィールド上に存在する限り、自分モンスターが受ける戦闘ダメージは100ポイント減少する（ただし０にはならず最低100ダメージ）。,[1]. As long as this card remains on your field; reduce battle damage to your monsters by 100 points. (Damage cannot be reduced below 100).

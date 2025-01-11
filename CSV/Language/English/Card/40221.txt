@@ -1,3 +1,0 @@
-default
-光力保存容器,Photon Energy Container
-LPを800払って発動可能。\n[1].光属性魔法カードが墓地へ送られたとき発動する。チャージを+1する。\n[2].自分の手札からチャージ以下のレベルの光属性モンスター１体を選択して発動できる。そのカードを特殊召喚する。その後このカードは自壊する。,[1]. When a Light Attribute Spell Card is sent to the Graveyard; increase Charge by +1.\n[2]. You may select 1 Light Attribute monster from your hand with a Level equal to or less than this card's Charge. Special Summon that card. Then banish this card.

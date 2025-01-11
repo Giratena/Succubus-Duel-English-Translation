@@ -1,3 +1,0 @@
-default
-トライデント,Trident
-「ポセイドン」モンスターに装備可能。\n[1].装備モンスターの攻撃力は300ポイントアップする。\n[2].１ターンに１度、相手モンスター１体を選択し、手札を１枚捨てて発動できる。そのモンスターに装備モンスターの攻撃力の半分のダメージを与える。捨てたカードが水属性だった場合、カードを１枚ドローする。,[1]. "Poseidon" use only. Increase the ATK of the equipped monster by 300 points.\n[2]. Once per turn; select one opponent's monster and discard one card to activate: Inflict damage to that monster equal to half the ATK of this equipped monster. If the discarded card was Water Attribute; draw 1 card.

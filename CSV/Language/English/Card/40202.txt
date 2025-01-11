@@ -1,3 +1,0 @@
-default
-ラストピース,Last Piece
-LPを1000払って発動できる。\n[1].自分フィールド上にカードが６枚存在する場合、自分ターン終了時に発動する。このカードを破壊し、デッキからモンスターカード１枚を選択して手札に加える。,[1]. Pay 1000 LP; and if there are 6 cards on your field including this card at the end of your turn; destroy this card and add 1 Monster Card from your Deck to your hand.

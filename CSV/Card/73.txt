@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Draconic Shaman
-&効果テキスト,[1]. When this card is Summoned; change all monsters on your field to Dragon Type.\n[2]. As long as this card remains on the field; increase the battle damage dealt by Dragon Type monsters on your field by 200 points.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

@@ -1,3 +1,0 @@
-default
-ストーンウォール,Stonewall
-相手の攻撃宣言時、手札から地属性カード1枚を捨てて発動する。自分フィールド上のすべてのモンスターに、「次受ける戦闘ダメージは０になる」を付与する。,[1]. If a character your opponent controls declares an attack: You can discard 1 Earth Attribute card from your hand; All monsters you control gain "All Combat Damage received next fight becomes 0".

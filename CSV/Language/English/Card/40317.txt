@@ -1,3 +1,0 @@
-default
-ぱふぱふ知能低下,Puff-Puff Stupification
-[1].相手プレイヤーに500ポイントダメージを与え、「知能低下」(カードを正確に認識できなくなる,6ターン)を付与する。,[1]. Inflict 500 points of damage to your opponent and inflict [Stupification (6 turns)] on them. ([Brain Drain] = unable to recognize cards correctly.)

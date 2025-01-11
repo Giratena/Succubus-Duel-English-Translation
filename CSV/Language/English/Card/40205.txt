@@ -1,3 +1,0 @@
-default
-トリプルパンチ,Triple Punch
-[1].自分フィールド上の攻撃力500以下のモンスター１体を選択して発動する。そのモンスターに「モンスターとの戦闘時、攻撃回数+2」(1ターン)を付与する。,[1]. Select 1 monster on your field with ATK of 500 or less and grant that monster [Additional Attacks +2 (monster combat only; 1 turn)].

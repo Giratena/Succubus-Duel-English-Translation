@@ -1,3 +1,0 @@
-default
-従僕少年,Servant Boy
-特性：「挑発」\nこのカード名の効果は１ターンに1度までしか発動できない。\n[1].手札にこのカードが存在し、自分フィールド上にレベル5以上のモンスターが存在する場合に発動できる。このカードを自分フィールド上に特殊召喚する。,Special Status: [Taunt]\nThis card name's effect can only be activated once per turn.\n[1]. When this card is in your hand and you control a Level 5 or higher monster on your field: You can Special Summon this card to your field.

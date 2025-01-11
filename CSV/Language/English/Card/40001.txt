@@ -1,3 +1,0 @@
-default
-パワーライズ,Power Rise
-フィールド上のモンスター１体の攻撃力を300ポイントアップさせる。,Target a monster; That monster gains 300 ATK.

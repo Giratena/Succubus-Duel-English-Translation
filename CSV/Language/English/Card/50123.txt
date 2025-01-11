@@ -1,4 +1,0 @@
-default
-影隠れ,Phantom Hide
-LPを1000払い、相手の直接攻撃宣言時に発動できる。\n[1].自分フィールド上に闇属性モンスターがいる限り、自分プレイヤーは相手の直接攻撃によるダメージを受けない。\n[2].発動後2回目の自分ターン終了時に発動する。このカードは自壊する。,[1]. If an opponent declares a direct attack; pay 1000 LP to activate: As long as there is a Dark Attribute monster on your field; you may not receive damage from an opponent's direct attacks.\n[2]. At the end of your 2nd turn after this card's activation; banish this card.
-（イージー以下の場合、１回目の自分ターン終了時に自壊する）,(If the difficulty is Easy or lower; banish this card at the end of your 1st turn.)

@@ -1,3 +1,0 @@
-default
-世界樹,World Tree
-自分フィールド上の「成長」状態のモンスター３体をコストにして発動可能。\n[1].このカードが自分フィールド上に存在する限り、自分の地属性モンスターの最大HPは2000ポイントアップする。,You may activate this card by tributing 3 monsters with [Growth] on your field.\n[1]. As long as this card remains on the field; increase the maximum HP of all your Earth Attribute monsters by 2000 points.

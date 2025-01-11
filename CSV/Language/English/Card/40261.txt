@@ -1,3 +1,0 @@
-default
-面舵一杯！,To Starboard!
-[1].LPを800ポイント払って発動する。デッキから「航海」カードをランダムに１枚手札に加える。自分フィールド上に「{%%64}」が存在する場合、さらに自分フィールド上のすべての水属性モンスターの攻撃力を300ポイントアップする。,[1]. Pay 800 LP; add 1 random [Navigation] card from your Deck to your hand. If 「{%%64}」 is on your field; all Water Attribute monsters you control gain 300 ATK.

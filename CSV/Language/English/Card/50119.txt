@@ -1,3 +1,0 @@
-default
-吸水装置,Water Absorption Apparatus
-[1].自分の水属性カードが墓地へ送られたとき発動できる。そのカードを手札に加える。,[1]. When a Water Attribute card is sent to your Graveyard; you may add that card to your hand.

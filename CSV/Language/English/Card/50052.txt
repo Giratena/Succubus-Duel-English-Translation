@@ -1,3 +1,0 @@
-default
-大あくび,Big Yawn
-相手が「攻撃を無効にする」カードを発動したときに発動できる。そのカードの効果を無効にし破壊する。その後、相手プレイヤーに「攻撃不能」(２ターン)を付与し、カードを１枚ドローする。,[1]. If an opponent activates a card that negates an attack; negate the effects of that card and destroy it. Then; grant [Cannot Attack (2 turns)] to your opponent and draw 1 card.

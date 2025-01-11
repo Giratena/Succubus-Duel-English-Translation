@@ -1,3 +1,0 @@
-default
-炎葬,Fire Burial
-[1].フィールド上の炎属性モンスターが破壊され墓地へ送られたときLPを300払って発動する。フィールド上のすべてのモンスターにそのモンスターの攻撃力の半分のダメージを与える。その後、そのモンスターを墓地から取り除く。\n[2].自分ターン終了時に発動する。自分フィールド上のすべてのモンスターに300ポイントダメージを与える。,[1]. If a Fire Attribute monster on the field is destroyed and sent to the Graveyard: Deal damage equal to half of that monster's ATK to all monsters. Then banish that monster from its owner's Graveyard.\n[2]. At the end of the turn: Deal 300 damage to all monsters you control.
