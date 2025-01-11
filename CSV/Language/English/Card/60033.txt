@@ -1,0 +1,4 @@
+default
+吸精のパープルリップ,Draining Purple Lipstick
+LPを1000払って「サキュバス」モンスターに装備可能。[1].装備モンスターの攻撃力を300ポイントアップする。[2].装備モンスターが相手モンスターを破壊したとき発動する。装備モンスターの攻撃力と最大HPを破壊した相手モンスターのレベル×100ポイントアップする。,[1]. Pay 1000 LP to equip this card to a [Succubus] monster. Increase the ATK of the equipped monster by 300 points.\n[2]. When the equipped monster destroys an opponent's monster; increase the ATK and maximum HP of the equipped monster by destroyed opponent's monster Level × 100 points.
+[3].このカードを装備したモンスターがフィールドを離れたことで、このカードが墓地へ送られたとき発動する。このカードを手札に加える。,[3]. When this card is sent to the Graveyard because the equipped monster left the field; add this card to your hand.

@@ -1,0 +1,3 @@
+default
+岩石の鎧,Rock Armor
+[1].フィールド上の地属性モンスターに「鉄壁」(防御状態で受けるダメージがさらに半分になる、6ターン)を付与する。,[1]. Grant [Iron Wall (6 Turns)] to all Earth Attribute monsters on the field. ([Iron Wall] = Damage received in defense position is halved)

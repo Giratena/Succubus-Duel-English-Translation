@@ -1,0 +1,3 @@
+default
+チャージシフト,Charge Shift
+[1].フィールド上のカード２枚を選択して発動する。それらのカードの「チャージ」を入れ替える。,[1]. Select 2 cards on the field. Swap their Charge counts.

@@ -1,0 +1,4 @@
+default
+カード封印,Card Seal
+同名カードが自分フィールド上に存在しない場合、LPを1000払って発動可能。\n[1].相手モンスターが破壊し墓地へ送ったとき発動する。そのモンスターを自分の手札に加える。\n[2],Only one card with this name can exist on your field. Pay 1000 LP to activate.\n[1]. When an opponent's monster is destroyed and sent to the Graveyard; add that monster to your hand.\n[2]
+（ハード以上の場合、１枚ではなく２枚ドローする）,Draw 2 cards instead of 1 if the condition the difficulty is card or above.

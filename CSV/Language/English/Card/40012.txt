@@ -1,0 +1,3 @@
+default
+メテオ,Meteor
+手札を１枚捨てて発動する。フィールド上のすべてのモンスターに1500ポイントダメージを与える。,Discard 1 card; Deal 1500 damage to all monsters.

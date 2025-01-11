@@ -1,0 +1,3 @@
+default
+悪夢の浸食,Nightmare Corrosion
+クールタイム6\n[1].モンスターが存在しない相手モンスターゾーンが存在する場合、LPを2000払い、手札の「サキュバス」モンスター１体を捨てて発動できる。モンスターが存在しない相手モンスターゾーン１か所を自分のものにする。,Cooldown 6\n[1]. If there is an empty opponent's Monster Zone; pay 2000 LP and discard one "Succubus" monster from your hand to take control of that zone.

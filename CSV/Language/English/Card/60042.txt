@@ -1,0 +1,3 @@
+default
+タートルアーマー,Turtle Armor
+水属性モンスターに装備可能。\n[1].装備モンスターの最大HPを300ポイントアップする。\n[2].自分ターン終了時に発動する。装備モンスターを守備状態にする。,\n[1]. Increase the maximum HP of this card by 300 points.\n[2]. When your turn ends; change this equipped monster to Defense Position.

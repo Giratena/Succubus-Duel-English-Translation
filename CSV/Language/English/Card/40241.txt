@@ -1,0 +1,3 @@
+default
+氷の翼,Ice Wing
+[1].自分フィールド上の「凍結」状態のモンスター１体を選択して発動する。そのモンスターの「凍結」状態を解除し、「直接攻撃可能」(1ターン)を付与する。,[1]. Select 1 monster on your field with [Freeze]. Release it from that status and grant it [Direct Attack (1 turn)].

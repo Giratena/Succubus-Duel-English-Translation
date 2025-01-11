@@ -1,0 +1,3 @@
+default
+共鳴回復,Resonance Recovery
+[1].「共鳴回復」以外の効果で、自分キャラクターのHPが回復したときに発動する。自分フィールド上のランダムなモンスター１体のHPを300ポイント回復する。この効果は１ターンに５回まで発動する。,[1]. Up to five times per turn; if you recover HP by another card's effect: You can make a random monster you control recovers 300 HP.

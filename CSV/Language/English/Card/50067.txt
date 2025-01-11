@@ -1,0 +1,3 @@
+default
+大渦,Great Whirlpool
+[1].相手がモンスターを特殊召喚した時、手札を１枚捨てて発動できる。そのモンスターに500ポイントのダメージを与え、「攻撃不能(1ターン)」を付与する。,[1]. When an opponent Special Summons a monster; you may discard 1 card to inflict 500 points of damage to that monster and grant [Cannot Attack (1 turn)].

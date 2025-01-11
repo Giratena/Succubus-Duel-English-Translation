@@ -1,0 +1,3 @@
+default
+ソードブレイク,Breaking Sword
+[1].自分フィールド上に戦士タイプのモンスターが存在する場合、相手フィールド上の装備カードを装備したモンスター１体を選択して発動する。そのモンスターに800ポイントのダメージを与え、さらにそのモンスターが装備しているカードをランダムに１枚破壊する。,[1]. If there is a Warrior-Type monster on your field; select an opposing monster that is equipped with a card. That monster receives 800 damage and destroy one if it's equipped cards.

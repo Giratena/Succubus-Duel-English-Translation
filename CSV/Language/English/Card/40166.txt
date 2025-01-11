@@ -1,0 +1,3 @@
+default
+ネクロヒール,Necro Heal
+墓地からモンスターが特殊召喚されたとき発動する。自分のLPを800ポイント回復する。,[1]. When a monster is Special Summoned from the Graveyard; recover 800 LP.

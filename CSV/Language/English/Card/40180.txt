@@ -1,0 +1,3 @@
+default
+ファーストショット,First Shot
+相手フィールド上のモンスター１体を選択して発動する。そのモンスターに300ポイントのダメージを与える。その後、自分のデッキに「{%%40181}」を１枚加える。,[1]. Select 1 monster on your opponent's field. Inflict 300 damage to it then add 1 "{%%40181}" from your Deck to your hand.

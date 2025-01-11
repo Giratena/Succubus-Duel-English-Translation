@@ -1,0 +1,3 @@
+default
+空中射撃,Aerial Barrage
+自分フィールド上にハンタータイプのモンスターがいるとき、相手がモンスターの特殊召喚に成功した場合に発動できる。そのモンスターに1500ポイントのダメージを与える。,[1]. If you control a Hunter Type monster and your opponent Special Summons a monster: Deal 1500 damage to that monster.

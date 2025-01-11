@@ -1,0 +1,3 @@
+default
+よわよわ胞子,Weakening Spores
+[1].相手フィールド上の全てのモンスターの攻撃力を自分フィールド上の「キノコ」モンスターのレベルの合計×10ポイントダウンさせる。相手フィールド上にモンスターがいない場合、相手プレイヤーの攻撃力を同数ダウンさせる。,[1]. Reduce the attack power of all monsters on your opponent's field by 10 x X (X = Total sum of the levels of all "Mushroom" monsters on your field).\nIf there are no monsters on your opponent's field; reduce the opposing player's attack power by an equivalent amount.

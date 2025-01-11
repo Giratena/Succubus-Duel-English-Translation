@@ -1,0 +1,3 @@
+default
+ひゃっきにゃこう,Night Parade of One Hundred Cats
+[1].１ターンに１度、自分の墓地の「猫」モンスターを選択して発動できる。そのモンスターを特殊召喚し、「攻撃不能」(1ターン)を付与する。\n[2].自分ターン終了時に発動する。このカードは自壊する。,[1]. Once per turn; select a [Cat] monster in your Graveyard. Special Summon that monster and grant [Cannot Attack (1 turn)].\n[2]. Activate at the end of your turn; banish this card.

@@ -1,0 +1,3 @@
+default
+月光照射,Moonlight Illumination
+[1].自分フィールド上に闇属性カードしか存在しない場合、自分フィールド上の闇属性モンスター１体を選択し、手札の光属性モンスター１体を捨てて発動できる。そのモンスターの攻撃力を捨てたモンスターの攻撃力分アップする。,[1]. If only Dark Attribute cards are on your field; select 1 Dark Attribute monster and discard 1 Light Attribute monster from your hand. Increase the selected monster's ATK by the discarded monster's ATK.

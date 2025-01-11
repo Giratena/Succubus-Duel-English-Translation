@@ -1,0 +1,3 @@
+default
+アンチチャームシールド,Anti-Charm Shield
+[1].自分キャラクターが「魅了」を付与されたとき発動できる。すべての自分キャラクターの「魅了」を解除し、HPを800ポイント回復する。,[1]. When a character on your side is inflicted with [Charm]; all your characters recover from [Charm] and have their HP restored by 800.

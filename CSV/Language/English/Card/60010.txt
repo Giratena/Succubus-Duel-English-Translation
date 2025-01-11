@@ -1,0 +1,3 @@
+default
+夜叉の面,Yaksha Mask
+炎属性モンスターに装備可能。装備モンスターの攻撃力は600ポイントアップする。\n[1].自分ターン終了時に発動する。装備モンスターは300ポイントのダメージを受ける。,Can only be equipped to Fire Attribute monsters. The equipped monster gains 600 ATK.\n[1]. At the end of your turn: Deal 300 damage to the equipped monster.

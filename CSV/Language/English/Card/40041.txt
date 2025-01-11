@@ -1,0 +1,4 @@
+default
+生命の果実,Fruit of Life
+自分フィールド上のモンスター1体に「成長」（自分ターン終了時ごとにHPを200ポイントアップ）を付与する。,Target 1 monster you control; That monster gains [Growth] (This monster gains 200 MAX HP at the end of your turn).
+

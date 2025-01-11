@@ -1,0 +1,3 @@
+default
+影になる,Shadowification
+[1].自分フィールド上のランダムな闇属性モンスター1体に、「隠密」(4ターン)を付与する。,[1]. 1 random Dark Attribute monster you control gains [Stealth (4 turns)].

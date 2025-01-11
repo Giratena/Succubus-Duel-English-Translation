@@ -1,0 +1,2 @@
+default
+老人NPC,老人NPC

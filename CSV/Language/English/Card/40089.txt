@@ -1,0 +1,3 @@
+default
+溶岩地帯,Lava Zone
+LPを300払って発動する。\n[1].1ターンに1度、自分ターン終了時に発動する。フィールド上のすべてのモンスターに100ポイントのダメージを与える。,Pay 300 LP to activate.\n[1]. At the end of your turn: Deal 100 damage to all monsters.

@@ -1,0 +1,3 @@
+default
+精兵招集,Elite Troop Request
+このカード名のカードは１ターンに１枚しか発動できない。\n[1].手札を1枚捨てて発動する。デッキからレベル４以下の効果を持たない戦士タイプモンスター１体をランダムに特殊召喚する。このモンスターはターン終了時まで上級召喚のコストにすることはできない。,You may only use 1 card with this card's name per turn.\n[1]. Discard 1 card from your hand and randomly Special Summon 1 Level 4 or lower Normal Warrior Type monster from your Deck. This monster may not be used as a cost for a Tribute Summon until the end of the turn.

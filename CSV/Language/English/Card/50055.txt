@@ -1,0 +1,3 @@
+default
+毒矢,Poison Arrow
+[1].自分フィールド上にハンタータイプのモンスターが存在する場合に、相手がモンスターを召喚したとき発動できる。そのモンスターに毒(800)を付与する。,[1]. If there is a Hunter Type monster on your field when your opponent Summons a monster; inflict [Poison (800)] on that monster.

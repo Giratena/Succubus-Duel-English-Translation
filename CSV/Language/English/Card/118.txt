@@ -1,0 +1,3 @@
+default
+少年ドルイド,Young Druid
+[1].自分モンスターが「成長」状態を付与されたとき、フィールド上の表側表示魔法・トラップカード１枚を選択して発動できる。そのカードを破壊し、このカードの攻撃力を500ポイントアップする。,[1]. When a monster you control gains [Growth]: Target 1 face-up Magic/Trap Card on the field; Destroy that card and this cards gains 500 ATK.

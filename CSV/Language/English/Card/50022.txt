@@ -1,0 +1,3 @@
+default
+盗賊の印,Thief's Calling Card
+[1].フィールド上のモンスターが戦闘で破壊されたときに発動できる。デッキからローグタイプのモンスターをランダムに1枚手札に加える。,[1]. If a monster is destroyed by battle: Add 1 random Rogue Type monster from your Deck to your hand.

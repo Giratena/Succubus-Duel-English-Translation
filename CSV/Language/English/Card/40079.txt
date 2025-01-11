@@ -1,0 +1,3 @@
+default
+ミニポーション,Mini Potion
+フィールド上のキャラクター1体を選択して発動する。そのHPを800ポイント回復させる。,Target 1 character; That character recovers 800 HP.

@@ -1,0 +1,3 @@
+default
+分身の術,Art of Duplication
+[1].自分フィールド上の「ニンジャ」モンスターが相手モンスターを破壊したとき、手札を１枚捨てて発動できる。その「ニンジャ」モンスターのコピーを自分フィールド上に特殊召喚する。,[1]. When a "Ninja" monster you control destroys an opponent's monster; discard 1 card to Special Summon a copy of that "Ninja" monster to your field.

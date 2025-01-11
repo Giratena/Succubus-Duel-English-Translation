@@ -1,0 +1,3 @@
+default
+水使いの腕輪,Water Bender's Bracelet
+マスターに装備できる。このカードを装備している限り、自分フィールド上の水属性モンスターの最大HPは200ポイントアップする。,Player use only.\n[1]. Increase the maximum HP of Water Attribute monsters on your field by 200 points.

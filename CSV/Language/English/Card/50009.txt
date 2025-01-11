@@ -1,0 +1,3 @@
+default
+防壁突破,Barricade Breakthrough
+[1].自分キャラクターの攻撃宣言時に相手が罠カードを使用した場合、手札を1枚捨てて発動できる。そのトラップカードの効果を無効にし破壊する。,[1]. If your opponent activates a Trap Card when your character declares an attack: Discard 1 card; Negate the Trap Card's effect and destroy it.

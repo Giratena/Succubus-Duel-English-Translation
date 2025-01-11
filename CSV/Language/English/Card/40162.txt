@@ -1,0 +1,3 @@
+default
+的中,Sure Strike
+[1].LPを1000払い、自分フィールド上のハンタータイプモンスター１体を選択して発動する。そのモンスターの攻撃力分のダメージを相手フィールド上のランダムなモンスター１体に与える。この効果で相手モンスターを破壊した場合、効果発動時に選択したモンスターの攻撃力を300ポイントアップする。,[1]. Pay 1000 LP and select 1 Hunter Type monster on your field. Inflict damage equal to that monster's ATK to a random opponent's monster. If an opponent's monster is destroyed by this effect; increase the selected Hunter Type monster's ATK by 300 points.

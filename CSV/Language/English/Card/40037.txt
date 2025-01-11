@@ -1,0 +1,3 @@
+default
+エレメントの調和,Attributeal Harmony
+[1].自分の墓地に火属性、水属性、地属性、風属性のカードがそれぞれ1枚以上あるとき発動できる。キャラクター1体のHPと攻撃力を1000ポイントアップする。,[1]. If there is at least 1 card of each of the following Attribute in your Graveyard (Fire, Water, Earth and Wind): Target 1 character; Target character gains 1000 ATK and MAX HP.

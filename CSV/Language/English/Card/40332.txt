@@ -1,0 +1,3 @@
+default
+忍法 鬼神化,Ninjutsu - Demonization
+[1].「ニンジャ」モンスター１体を選択し、手札の「ニンジャ」モンスターをすべて捨てて発動できる。このターンの間、選択したモンスターは攻撃力が500ポイントアップし、このカードの発動時に捨てたカードの数だけ攻撃回数が増加する。,[1]. Select 1 "Ninja" monster and discard all "Ninja" monsters from your hand to activate. This turn; the selected monster gains 500 ATK and may attack an additional X times (X = The number of cards discarded).

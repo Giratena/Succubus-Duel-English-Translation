@@ -1,0 +1,3 @@
+default
+化粧品箱,Cosmetic Box
+[1].自分のデッキから「リップ」装備カードを１枚手札に加える。自分の墓地に「リップ」装備カードが３枚以上ある場合、さらに「{%%10095}」を１枚手札に加える。,[1]. Add 1 [Lip] equipment card from your Deck to your hand; if there are 3 or more [Lip] equipment cards in your Graveyard, additionally add 1 [{%%10095}] to your hand.

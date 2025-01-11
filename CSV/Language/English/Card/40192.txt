@@ -1,0 +1,3 @@
+default
+喝,Taunt
+[1].相手フィールド上のすべての守備状態のモンスターの守備状態を解除し、それらのモンスターに「このターン受ける戦闘ダメージが1.5倍になる」を付与する。,[1]. Change all monsters in Defense Position on your opponent's field to Attack Position and inflict them with [Received Battle Damage x 1.5 (this turn)].

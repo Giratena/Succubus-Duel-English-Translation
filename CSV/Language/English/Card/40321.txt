@@ -1,0 +1,4 @@
+default
+悦楽のハーレム,Pleasure Harem
+LPを3000払って発動可能。このカード名のカードは自分フィールド上に１枚しか存在できない。\n[1].自分フィールド上に同名カードが存在しない手札のレベル４以下モンスター１体を選択し、LPを500払って発動できる。そのモンスターを手札から特殊召喚する。この効果は１ターンに２度まで発動できる。,[1]. Pay 500 LP. You may Special Summon 1 Level 4 or lower monster from your hand that does not share a name with a card on your field. This effect may be used up to twice per turn.
+[2].自分フィールド上にモンスターが存在しない場合、ターン開始時に発動する。レベル４以下の悪魔タイプ女性モンスターをデッキからランダムに１枚手札に加える。\n[3].自分フィールド上の悪魔タイプ女性モンスターの攻撃力は自分モンスターの数×100ポイントアップする。,[2]. If there are no monsters on your field; activate at the start of your turn: Add 1 random Level 4 or lower Demon Type female monster from your Deck to your hand.\n[3]. Increase the ATK of each Demon Type female monster on your field by X x 100 points (X = The number of monsters you control).

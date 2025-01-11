@@ -1,0 +1,3 @@
+default
+豪華な宝箱,Gorgeous Treasure Chest
+[1].このカードの発動時、このカードに「ロック(6ターン)」を付与する。\n[2].このカードの「ロック」状態が解除されたとき発動する。自分のデッキからレアリティがSRのカードを１枚選択して手札に加える。その後このカードは自壊する。,[1]. When this card is activated; grant [Lock (6 turns)] to this card.\n[2]. When the [Lock] status on this card is released; select 1 SR Rarity or higher card from your Deck and add it to your hand. Then; banish this card.

@@ -1,0 +1,3 @@
+default
+シールドブレイク,Shield Break
+フィールド上の守備モンスター1体を選択して発動する。そのモンスターに1500ポイントダメージを与える。,Target a defense position monster; Deal 1500 damage to that monster.

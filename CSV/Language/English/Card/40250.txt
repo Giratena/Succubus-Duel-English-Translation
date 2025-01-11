@@ -1,0 +1,3 @@
+default
+南海の楽園,Southern Paradise
+手札から水属性カード１枚を捨てて発動可能。\n[1].このカードがフィールド上に存在する限り、自分フィールド上の「マーメイド」モンスターの攻撃力は300ポイントアップする。\n[2].元々の攻撃力より攻撃力が低いモンスターが墓地へ送られたとき発動する。そのカードをゲームから取り除き、自分のLPを800ポイント回復する。\n[3].このカードが手札から捨てられたとき発動する。デッキから「マーメイド」カードをランダムに１枚手札に加える。,[1]. If this card is on the field; increase the attack power of all "Mermaid" monsters you control by 300 points.\n[2]. When a monster with lower than its original attack power is sent to the Graveyard; banish that card and recover 800 LP for yourself.\n[3]. When this card is discarded from your hand; add 1 random "Mermaid" card from your Deck to your hand.

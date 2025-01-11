@@ -1,0 +1,3 @@
+default
+祈り,Prayer
+このカード名のカードは１ターンに１枚しか発動できない。\n[1].LPを1500払って発動する。デッキからレベル4以下の天使タイプモンスター1体をランダムに特殊召喚する。,Card's with this name can only be activated once per turn.\n[1]. Pay 1500 LP: Special Summon one random Level 4 or lower Angel Type monster from your Deck.

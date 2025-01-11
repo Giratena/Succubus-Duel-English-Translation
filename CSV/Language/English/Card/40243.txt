@@ -1,0 +1,3 @@
+default
+連続ヒット,Consecutive Hits
+[1].同じ相手モンスターが連続して戦闘ダメージ・効果ダメージを受ける場合、そのたびに受けるダメージが100ポイントアップする。異なる相手モンスターがダメージを受けたときその増加は解除される。,[1]. If a monster your opponent monster takes damage: Increase that damage by 100 for every time it took damage previously. This effect is reset if a different monster your opponent controls takes damage.

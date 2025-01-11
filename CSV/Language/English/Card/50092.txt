@@ -1,0 +1,3 @@
+default
+クリティカルスラッシュ,Critical Slash
+[1].自分のローグタイプモンスターの攻撃宣言時に発動できる。そのモンスターの攻撃力をターン終了時まで500ポイントアップし、さらに「貫通」(1ターン)を付与する。,[1]. When your Rogue Type monster declares an attack; increase its ATK by 500 until the end of the turn; and grant [Piercing (1 turn)].

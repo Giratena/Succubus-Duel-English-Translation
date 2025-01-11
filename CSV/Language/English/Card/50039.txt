@@ -1,0 +1,3 @@
+default
+万雷,Thundercloud
+[1].光属性の魔法カードが発動された時に発動できる。自分の墓地に「{%%40011}」があるなら、それを最大で自分の手札が5枚になるまで手札に加える。,[1]. If a Light Attribute Spell Card is activated: Add as many "{%%40011}" from your Graveyard to your hand as possible until you have 5 cards in your hand.

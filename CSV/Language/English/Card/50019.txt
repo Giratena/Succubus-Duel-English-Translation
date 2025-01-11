@@ -1,0 +1,3 @@
+default
+待ち伏せ,Ambush
+[1].自分のハンタータイプのキャラクターが相手の攻撃対象になったとき発動できる。攻撃してきた相手に1000ポイントのダメージを与える。,[1].If a Hunter Type character you control is attacked: Deal 1000 damage to the attacker.

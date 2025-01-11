@@ -1,0 +1,3 @@
+default
+光を剣に,Sword of Light
+LPを1000払って発動可能。\n[1].自分フィールド上のモンスターがHPを回復したとき、その攻撃力を100ポイントアップする。,Pay 1000 LP to activate.\n[1]. If a monster you control recovers HP: That monster gains 100 ATK.

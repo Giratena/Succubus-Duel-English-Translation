@@ -1,0 +1,3 @@
+default
+毒の沼,Poison Swamp
+相手ターン終了時に発動する。フィールド上のすべてのモンスターに「毒(200)」を付与する。, [1]. At the end of your opponent's turn; inflict all monsters on the field with [Poison (200)].

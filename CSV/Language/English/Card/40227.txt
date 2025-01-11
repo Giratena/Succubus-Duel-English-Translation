@@ -1,0 +1,3 @@
+default
+VIPルームサービス,VIP Room Service
+[1].自分フィールド上に「バニー」モンスターが２体以上存在し「{%%40226}」にチャージが3つ以上ある場合に発動できる。「{%%40226}」のチャージを3つ消費し、相手プレイヤーに「バニー」モンスターの数×500ポイントのダメージを与え、「おっぱいに弱い」と「メロメロ」を付与する。,[1]. If you have 2 or more "Bunny" monsters on your field and there are 3 or more charges on [{%%40226}]; spend 3 charges from [{%%40226}] to deal 500 x X damage to your opponent (X = number of "Bunny" monsters on your field). Then; inflict [Breast Fetish] and [Lovey Dovey] on your opponent.

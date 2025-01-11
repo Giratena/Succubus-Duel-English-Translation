@@ -1,0 +1,3 @@
+default
+とおせんぼ,Blockade
+[1].自分のデッキに地属性カードが３枚以上ある場合、相手キャラクターの攻撃宣言時に発動できる。デッキから地属性カードをランダムに３枚墓地へ送り、その攻撃を無効にする。,[1]. If your Deck contains 3 or more Earth Attribute cards when an opponent's character declares an attack; you may send 3 random Earth Attribute cards from your Deck to the Graveyard and negate that attack.

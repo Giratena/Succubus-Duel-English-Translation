@@ -1,0 +1,3 @@
+default
+深海樹,Deepsea Tree
+手札の地属性カードと水属性カードを捨てて発動可能。\n[1].自分が手札を捨てたとき発動する。自分フィールド上のすべてのモンスターの最大HPを200ポイントアップする。捨てたカードが地属性カードだった場合、さらに200ポイントアップする。,[1]. Discard 1 Earth Attribute and 1 Water Attribute card from your hand. When you do; increase the maximum HP of all monsters on your field by 200 points. If the discarded card was an Earth Attribute; increase it by another 200 points.

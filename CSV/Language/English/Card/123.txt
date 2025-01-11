@@ -1,0 +1,3 @@
+default
+砂の魔術師,Sand Magician
+[1].１ターンに２度まで、自分の地属性魔法トラップカードを１枚選択して発動する。そのカードを破壊し、デッキから地属性カードをランダムに１枚手札に加える（デッキ内に該当カードがないとき発動できない）,[1]. Twice per turn: Target 1 Earth Attribute Magic/Trap Card you control; Destroy that card and add 1 random Earth Attribute card from your deck to your hand.

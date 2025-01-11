@@ -1,0 +1,3 @@
+default
+連鎖破壊,Chain Destruction
+このカード名のカードは１ターンに１枚しか発動できない。\n[1].このターン相手のデッキから墓地へ送られたカードの枚数と同じ枚数だけ相手のデッキからカードを墓地へ送る。,Only one card with this name may be activated per turn.\n[1]. Send X number of cards from your opponent's Deck to the Graveyard (X = the number of cards sent from the opponent's Deck to their Graveyard this turn).

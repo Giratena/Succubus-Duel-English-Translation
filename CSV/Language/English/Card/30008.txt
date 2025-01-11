@@ -1,0 +1,3 @@
+default
+ミニドラゴン,Mini Dragon
+体は小さいがあなどることはできない火力を持つ。,Possesses considerable firepower despite its small size; 

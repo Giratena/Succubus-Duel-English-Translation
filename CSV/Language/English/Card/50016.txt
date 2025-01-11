@@ -1,0 +1,3 @@
+default
+連鎖感電,Chain Electrocution
+光属性の魔法カードが発動されたときに発動できる。相手フィールド上のすべてのモンスターに600ポイントのダメージを与える。,[1]. If a Light Attribute Spell Card is activated: Deal 600 damage to all monsters you opponent controls.

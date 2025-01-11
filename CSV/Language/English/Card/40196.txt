@@ -1,0 +1,3 @@
+default
+充満するフェロモンガス,Pervading Pheromone Gas
+このカード名のカードは自分フィールド上に１枚しか存在できない。\n[1].相手プレイヤーが魔法カードを発動したとき発動する。相手プレイヤーに「ムラムラ(100,10ターン)」を付与する。\n[2].自分が「ウィスプ」モンスターを場に出したとき発動する。相手のデッキに「{%%40264}」を１枚加える。,Only one card with this name may exist on your field.\n[1]. If an opponent activates a Spell Card; grant [Aroused (100; 10 turns)] to that player.\n[2]. When you summon a "Wisp" monster; add one [{%%40264}] to your opponent's Deck.

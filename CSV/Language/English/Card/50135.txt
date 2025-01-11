@@ -1,0 +1,3 @@
+default
+恍惚毒のトラバサミ,Aphrodisiac Lubricated Trap
+[1].相手モンスターが通常召喚に成功したとき発動できる。そのモンスターに500ポイントダメージを与え、「魅了」と「発情(300)」を付与する。,[1]. If an opponent's monster is successfully Normal Summoned; inflict 500 points of damage to that monster and apply [Charm] and [Arousal (300)].

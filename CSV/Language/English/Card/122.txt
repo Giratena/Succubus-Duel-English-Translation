@@ -1,0 +1,3 @@
+default
+森の薬草師,Forest Herbalist
+[1].１ターンに2度まで、「樹」カードが発動した時発動する。「{%%40079}」を生成して手札に加える。\n[2].このカードが手札に存在し、自分フィールド上に表側表示の「樹」魔法が３枚以上存在する場合に発動できる。このカードを手札から特殊召喚する。,[1]. Twice per turn when a "Tree" card is activated: Add 1 [{%%40079}] to your hand.\n[2]. When this card is in your hand and you control 3 or more face-up "Tree" Spell Cards: Special Summon this card.

@@ -1,0 +1,3 @@
+default
+稲妻ダッシュ,Lightning Dash
+[1].手札から「ライトニング」または「落雷」を捨てて発動する。手札の最もレベルが低い光属性モンスター1体を自分フィールド上に特殊召喚し、相手フィールド上のすべてのモンスターに「麻痺」を付与する。,[1]. Discard "Lightning" or "Thunderbolt" from your hand: Special Summon the lowest Level Light Attribute monster from your hand to your field and inflict [Paralysis] on all monsters on the opponent's field.

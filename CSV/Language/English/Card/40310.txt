@@ -1,0 +1,3 @@
+default
+航海日誌,Logbook
+[1].自分の手札の水属性カードが墓地へ送られたとき発動する。このカードのチャージを、捨てられた枚数だけ＋する。\n[2].このカードにチャージが貯まっている場合、自分ターン終了時に発動する。自分のLPをチャージ数×100ポイント回復する。,[1]. When a Water Attribute card from your hand is sent to the Graveyard; increase this card's charge by +X (X = number of discarded cards).\n[2]. If this card has any charges; at the end of your turn, recover 100 x Y LP (Y = number of charges on this card).

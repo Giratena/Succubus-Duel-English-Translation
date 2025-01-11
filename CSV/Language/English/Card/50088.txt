@@ -1,0 +1,3 @@
+default
+頼りない貯金,Unreliable Savings
+[1].ターン終了時に発動する。自分プレイヤーのLPが2000より多いなら、チャージを+5する。自分プレイヤーのLPが2000ポイント以下ならこのカードは自壊する。\n[2].チャージが１つ以上貯まっているこのカードが破壊されたとき発動する。チャージ×20ポイントのライフを回復する。,[1]. If your LP is greater than 2000 at the end of a turn; increase this card's Charge by +5; if your LP is 2000 or less; banish this card.\n[2]. When this card with one or more Charges is destroyed; recover 20 x X LP. (X = The number of Charges on this card)

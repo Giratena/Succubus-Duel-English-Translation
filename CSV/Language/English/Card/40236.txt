@@ -1,0 +1,3 @@
+default
+焼却指令,Incineration Command
+[1].手札からレベル７以上炎属性モンスター１体を捨てて発動する。相手フィールド上の魔法・トラップカードをランダムに２枚破壊する。,[1]. Discard 1 Level 7 or higher Fire Attribute monster from your hand and destroy 2 random Spell/Trap cards on your opponent's field.

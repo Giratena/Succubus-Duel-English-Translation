@@ -1,0 +1,3 @@
+default
+断罪の一振り,Sword of Judgement
+[1].自分フィールド上の光属性モンスター１体と相手フィールド上のモンスター１体を選択して発動する。選択した自分モンスターの攻撃力が元々の攻撃力よりアップしている数値だけ、相手モンスターに効果ダメージを与える。,[1]. Select 1 Light Attribute monster on your field and 1 monster on your opponent's field; inflict damage to the selected opponent's monster equal to the ATK of your selected monster.

@@ -1,0 +1,3 @@
+default
+急降下襲撃,Swooping Assault
+[1].相手が直接攻撃を宣言したとき、手札のレベル5以下風属性モンスター1体を選択して発動できる。その攻撃を無効にし、手札から選択したモンスター1体を特殊召喚する。,[1]. If an opponent declares a direct attack; you may select 1 Level 5 or lower Wind Attribute monster from your hand and negate that attack; then Special Summon the selected monster to your field.

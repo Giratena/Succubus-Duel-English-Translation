@@ -1,0 +1,3 @@
+default
+いたずらな妖精,Mischievous Fairy
+[1].相手デッキのランダムなモンスター１体のレベルを１上げ、自分デッキのランダムなモンスター１体のレベルを１下げる。,[1]. Increase the level of 1 random monster in your opponent's Deck by 1. Decrease the level of 1 random monster in your Deck by 1.

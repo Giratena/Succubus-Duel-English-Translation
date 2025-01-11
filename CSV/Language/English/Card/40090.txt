@@ -1,0 +1,3 @@
+default
+媚薬キャンディ,Aphrodisiac Candy
+相手プレイヤーに300ダメージを与え、さらに「発情」(200,10ターン)を付与する。,Inflict 300 damage to the opposing player. Additionally, apply [Aroused (200, 10 Turns)].

@@ -1,0 +1,3 @@
+default
+立ちすくみ,Petrifying Presence
+[1].自分がレベル７以上のモンスターを通常召喚したとき発動する。相手のすべてのレベル４以下モンスターに「麻痺」を付与する。[2].自分フィールド上にレベル７以上のモンスターがいる場合、１ターンに１度、相手がレベル４以下のモンスターを場に出したとき発動する。そのモンスターに「攻撃不能」(1ターン)を付与する。,[1]. When you Normal Summon a Level 7 or higher monster; apply [Paralysis] to all your opponent's Level 4 or lower monsters.\n[2]. Once per turn; if there is a Level 7 or higher monster on your field, when an opponent summons a Level 4 or lower monster; apply [Cannot Attack (1 Turn)] to that monster.

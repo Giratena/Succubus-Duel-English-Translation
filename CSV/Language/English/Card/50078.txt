@@ -1,0 +1,3 @@
+default
+リザレクション,Resurrection
+[1].自分フィールド上のモンスターが戦闘で破壊されたとき、手札から光属性カードを２枚捨てて発動できる。自分の墓地のモンスターを１体選択し、そのモンスターを特殊召喚する。,[1]. When a monster on your field is destroyed by battle; you may discard 2 Light Attribute cards from your hand. Select 1 monster in your Graveyard and Special Summon it.
