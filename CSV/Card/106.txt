@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Ice Fang Ninja
-&効果テキスト,This card name's [1] effect can only be activated once per turn.\n[1]. When this card is in your hand: Select one "Ninja" monster on your field; return that monster to your hand and Special Summon this card.\n[2]. When this card is Special Summoned: Inflict 300 points of damage to a random opponent's monster and inflict [Freeze] on it.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

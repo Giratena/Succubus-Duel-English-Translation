@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Wind Lancer
-&効果テキスト,[1]. If you have activated the effects of Wind Attribute cards 4 or more times this turn; reduce the summoning cost of this card by 1.\n[2]. When this card destroys an opponent's monster by battle: You can select one enemy Magic/Trap Card; return that card to the opponent's hand.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

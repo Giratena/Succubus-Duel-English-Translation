@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Sand Magician
-&効果テキスト,[1]. Twice per turn; select one Earth Attribute Magic/Trap Card you control to activate: Destroy that card and add one random Earth Attribute card from your Deck to your hand.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

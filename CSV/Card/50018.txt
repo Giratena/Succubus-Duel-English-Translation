@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Decisive Slash
-&効果テキスト,[1]. If you Normal Summon a Warrior Type monster: Discard 1 card; Deal damage equal to the summoned monster's attack to all your opponent's monsters.\nThe summoned monster gains X ATK (X = the number of monsters destroyed by this effect x 400).
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

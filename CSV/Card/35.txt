@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Fire Kitsune Priest
-&効果テキスト,[1]. Effect damage on this card is halved. \n[2]. Up to 3 times per turn upon taking effect damage; draw 1 card from your deck and increase this monster's Atk by 300.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

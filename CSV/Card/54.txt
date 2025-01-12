@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Gale Shaman
-&効果テキスト,The effects of cards with this card's name can only be activated once per turn.\n[1]. When the effects of Wind Attribute cards have activated 3 or more times this turn: Special Summon one random Level 4 or lower Wind Attribute monster from the Deck.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

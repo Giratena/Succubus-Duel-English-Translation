@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Poseidon Knight
-&効果テキスト,[1]. When a Water Attribute spell or trap card is activated: increase this card's ATK and Max HP by 100.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

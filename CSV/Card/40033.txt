@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Arms Forge
-&効果テキスト,[1]. Select a character on the field. Increase that character's attack power by 400 x X (X = the number of cards equipped).
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,
