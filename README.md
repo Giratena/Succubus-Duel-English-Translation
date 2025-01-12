@@ -42,14 +42,6 @@ Retain any laughter as follows while preserving the nuanced Japanese:
 - あはは -> Ahaha
 - エナジー -> Mana
 
-## Card terminology
-- The elements a card can be (EG: Water, Fire Dark etc) is called "Attribute"
-- The type of card (EG: Rouge, Warrior, Hunter etc) is called "Type".
-- Attributes and Types are always capitalized. EG: "Hunter Type" or "Fire Attribute".
-- Removing a card from the game is called "banishing" a card.
-- The discard pile is called the "Graveyard". This word should be capitalized.
-- Statuses are labeled as [Status Name (X)] where X is the effect number if any.
-
 ## Translating Enemy Cards:
 Some cards don't have all the text available to translate (such as card descriptions) but they can be translated through the following:
 1. Open CSV/place/MorugenInn.txt
@@ -57,9 +49,3 @@ Some cards don't have all the text available to translate (such as card descript
 3. When you visit the Inn in the game, the card description text will copy to your clipboard.
 4. Paste the clipboard text in the the "\<Card id>".txt
 5. The text can now be translated!
-
-## Card description formating
--  Effects are marked as [X]. where X is the effect number
--  Effects that depend on the number must be described as X, and then defining what X is equal to.
-   - EG: "[1]. Select a character on the field. Increase that character's attack power by 400 x X (X = the number of cards equipped)."
-- If a trap/ability card has an activation condition, the description must with "If..."If a character or equipment card has an activation condition, the description must start with "When..."
