@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Pirates
-&効果テキスト,[1]. When this card is discarded from your hand: Draw one card.\n[2]. When this card is successfully Summoned: You can discard 1 card to activate this effect; Add one random Continuous Spell Card from your Deck to your hand.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

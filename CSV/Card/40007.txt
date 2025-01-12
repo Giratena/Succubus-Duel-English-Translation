@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Protection Shield
-&効果テキスト,Target monster gains "All Combat Damage received next fight becomes 0".
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Stone Shield Dwarf
-&効果テキスト,Special Status: [Taunt]\n[1]. When you activate a [Gem] Spell Card: Increase this card's maximum HP by 200 points.\n[2]. When this card is destroyed by battle: Add one [Gem] card from your Deck to your hand.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

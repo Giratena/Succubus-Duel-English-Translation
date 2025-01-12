@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Cliff - The Assassin
-&効果テキスト,[1]. When this card is successfully Normal Summoned: Discard one random card from your opponent's hand. If the discarded card was a monster card; increase this card's attack power by 500 points.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

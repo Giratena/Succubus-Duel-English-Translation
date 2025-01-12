@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Pink Perfume
-&効果テキスト,Play after removing 1 copy of "Peach Wisp" from your graveyard.\n[1].\n[1]. As long as this card exists, female monsters on your field have their attack power increased by 300 points and are granted "Charm" during battle. \n[2]. On the second turn after activation; this card destroys itself.
-&ハード効果テキスト,[3]. When a Dark Attribute monster is Special Summoned to your field; the opposing player gains [Rut (100; 10 turns)].
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

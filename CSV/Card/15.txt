@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Black Cat Magician
-&効果テキスト,Pay 800LP (once per turn): Add one random Spell Card from the deck to your hand (cannot be used if there are no Spell Cards in the deck).
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

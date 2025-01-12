@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Super Fighting Soldier - Benki
-&効果テキスト,[1]. When this card attacks; magic trap cards on the opponent's field cannot be activated.\n[2]. Destroy a card equipped to this monster and increase this card's attack power by 700 points.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

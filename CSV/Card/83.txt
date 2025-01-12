@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Forest Gnome
-&効果テキスト,[1]. Once per turn; when you control a monster in [Growth] status: Recover your LP by 500 x X (X = the number of monsters with [Growth] status) and draw one card from your Deck.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

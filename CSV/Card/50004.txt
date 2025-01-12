@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Steel Trap
-&効果テキスト,If your opponent Normal Summons a monster: Deal 1000 damage to that monster, and it cannot attack this turn.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

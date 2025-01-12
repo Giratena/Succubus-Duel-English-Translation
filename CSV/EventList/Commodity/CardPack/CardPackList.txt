@@ -1,9 +1,0 @@
-default
-CardPack1,Shop/Commodity/CardPack1,CardPack,
-CardPack2,Shop/Commodity/CardPack2,CardPack,$$スライム戦勝利,==,1,||,ランク,>=,1
-CardPack3,Shop/Commodity/CardPack3,CardPack,ランク,>=,1
-CardPack4,Shop/Commodity/CardPack4,CardPack,ランク,>=,2
-CardPack8,Shop/Commodity/CardPack8,CardPack,ランク,>=,2,&&,$$パトラ戦勝利,>=,1
-CardPack5,Shop/Commodity/CardPack5,CardPack,ランク,>=,3
-CardPack6,Shop/Commodity/CardPack6,CardPack,ランク,>=,4
-CardPack7,Shop/Commodity/CardPack7,CardPack,ランク,>=,4,&&,$$ネクロクエストクリア,==,1
