@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Adamantine Gem
-&効果テキスト,[1]. Select a character on the field and increase their maximum HP by 400 x X (X =  the number of "Gem" cards in your Graveyard). Then; banish up to 3 random "Gem" cards from your Graveyard.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Stubborn Dwarf
-&効果テキスト,
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,A dwarf posessing a sturdy body with high defense. Breaking through his protection isn't easy; but his slow movements make him a poor attacker.
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

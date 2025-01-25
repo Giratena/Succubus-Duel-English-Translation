@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Admiral Goode
-&効果テキスト,You can only activate the first effect of "Admiral Goode" once per turn.\n[1].If there are at least 4 Water Attribute cards in your Graveyard when this card is Summoned: you can discard 1 card to activate this effect; Add 2 random Water Attribute cards from your deck to your hand.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,海底都市を守る深海の将軍。彼の指揮ひとつで、多数の兵が果敢に戦う。
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

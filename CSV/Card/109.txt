@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Winged Magician
-&効果テキスト,[1]. When this card is Summoned: Select one Wind Attribute monster in your hand; decrease that monster's level by one.\n[2]. As long as this card is on your field; Level 3 or lower Wind Attribute monsters can attack the opposing player directly.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

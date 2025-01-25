@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Ice Bender
-&効果テキスト,[1]. While this card is on the field; opposing monsters damaged by Water Attribute Spell Cards are also inflicted with [Freeze].
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

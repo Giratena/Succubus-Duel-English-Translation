@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Poison Fang Ninja
-&効果テキスト,Effect [1] can only be activated once per turn.\n[1]. If this card is in your hand; you may return 1 "Ninja" monster from your field to your hand. If you do so; special summon this card. \n[2]. When this card is special summoned; deal 300 points of damage to a random monster on your opponent's side of the field and it gains [Poison (200)].
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

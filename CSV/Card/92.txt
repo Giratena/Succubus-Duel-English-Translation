@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Dual-Wielding Swordsman Elf 
-&効果テキスト,[1]. The number of attacks this card can make during each Battle Phase is increased by X (X = the number of Equipment Cards attached to this card).\n[2]. This card cannot counterattack.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

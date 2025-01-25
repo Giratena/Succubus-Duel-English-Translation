@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Sacred Knight
-&効果テキスト,[1]. Once per turn; when an opponent activates a card effect: Banish up to three cards with the same Attribute as that card from your opponent's Graveyard at random.\n[2]. Increase this card's attack power by 100 x X (X = the number of cards your opponent has banished.).
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,
