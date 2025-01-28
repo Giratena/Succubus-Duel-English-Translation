@@ -3,10 +3,10 @@ default
 主人公の師匠。Bランクの実力派。主に戦士系のカードを使うがそれ以外の魔獣モンスターも巧みに操る。,The protagonist's master. A skilled B-rank card master who primarily uses warrior-type cards but is also adept at controlling other beast monsters as well.
 主人公の見た目を選択してください。,Please select the appearance of the main character.
 主人公の見た目が決定されました。この内容はいつでもオプションで変更できます。,The player's appearance has been set. You can change this at any time in the options.
-僕はこの村でカードの修行をしていた。,For many years; I've been in this village training in the art of cards.
-師匠のもと、毎日バトルに明け暮れる日々...,Under the guidance of my master; I've been battling day after day...
-これまで大変な思いは何回もしたけれど、,I've undergone countless ordeals under her tutelage...
-今日はついに、町へ行くための試験の日だった！,But today is finally the day I can take the exam that will let me visit other cities!
+僕はこの村でカードの修行をしていた。,For many years; you've been in this village training in the art of cards.
+師匠のもと、毎日バトルに明け暮れる日々...,Under the guidance of your master; you've been battling day after day...
+これまで大変な思いは何回もしたけれど、,You've undergone countless ordeals under her tutelage...
+今日はついに、町へ行くための試験の日だった！,But today is finally the day you can take the exam that will let you visit other cities!
 よおし、それじゃどれぐらいうまくカードが使えるようになったか、見てあげる。,Alright! Very well then. Let's see just how well you've learned to use your cards.
 わたしのこの練習デッキに勝てれば、町に行ってもオッケー。弱いままで外に出たら、モンスターに襲われるかもしれないからね。,You might get attacked by monsters upon leaving this village if you aren't strong enough. But if you can beat my practice deck; then I don't have any problems letting you go to the big city! 
 わたしに勝てるぐらいの実力を見せてみて。いくよ！,Show me what you can do by beating me. Here we go!
@@ -47,4 +47,4 @@ default
 ターン終了よ。, I end my turn.
 ターンエンド。,End turn.
 わたしのターンはおしまい。ターンエンド。,End turn.
-攻撃を無効にするトラップね。うまく使えているじゃない。,A trap that negates attacks huh? Aren't you using your cards well!
+攻撃を無効にするトラップね。うまく使えているじゃない。,A trap that negates attacks; huh? Aren't you using your cards well!
