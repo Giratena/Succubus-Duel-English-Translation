@@ -69,7 +69,7 @@ Kiss01,
 わたしのそばに来てください。足を怪我してしまったんです。おねがいします・・・。,Please come to me. I hurt my leg. Pleaseee...
 なぜだろう、嫌な予感がする。見た目はただの小さな女の子のはずなのに・・・。,I wasn't sure why; but I had a bad feeling about this girl. She looked like your average; cute girl but...
 んー・・・。何か怪しまれるようなところあったかなぁ・・・。あ、もしかして、,Hnnn...Why are you so suspicious... Ah; could it be..
-魔力が漏れているのがバレちゃいました？くすくす❤,You can feel my magic aura around me? Tehehe~❤ 
+魔力が漏れているのがバレちゃいました？くすくす❤,You can sense my magic aura? Tehehe~❤ 
 気づかずに来てくれれば、唇でちゅってしてあげたのに・・・❤ほら、こんな風に。,If you had only come over here; I would have smooched your lips.❤ Hora; just like this...
 そう言うと少女は唇に指をあて、ちゅっと弾いて見せた。,The small girl placed a finger on her lips before flinging them my way.   
 ・・・・・・!,......!?
@@ -78,7 +78,7 @@ Kiss01,
 わたしがここにいる理由なんて気にしてもしょうがないですよ。だって……。,No need to worry about why I'm here; though. After all... 
 今からあなたたちはわたしに食べられちゃうんだから❤,I'm going to be gobbling you two up; here and now~❤
 まずはそこの、カードマスターのお兄さんからです。,Starting with you; Mr. Cardmaster.
-この足でぬちゅぬちゅしごいて、きもちよーく何回もイかせてあげますね❤,I'll stroke and pump you with my slimy feet until you cum again and again~❤      
+この足でぬちゅぬちゅしごいて、きもちよーく何回もイかせてあげますね❤,I'll stroke and pump your dick with my slimy feet until you cum again and again~❤      
 うふふ、わたしのターンからですね❤,Ufufu; looks like it's my turn now.❤
 お兄さん、キスでもうメロメロですか？わざわざモンスター出さなくても勝てちゃいそうです❤,Are you already head over heels for me just from a kiss; mister? It looks like I might win even without summoning any monsters~❤
 頭の中ピンク色になっているうちに、きもちよく、終わらせてあげます❤ほら・・・。,I'll make sure you finish off nicely while your mind is all pink and fuzzy~❤ Hora…
@@ -111,7 +111,7 @@ Kiss01,
 {使用カード}を使って回復です！,I'll use {使用カード} to recover HP!
 スライムでからめとってあげますね。{使用カード}発動！,I'll entangle you with my Slime. {使用カード} activate!
 ふふ、トラップカードを発動します。{使用カード}！,Fufu; I'll activate a trap card: {使用カード}!
-装備魔法カード発動！{使用カード}！スライムちゃんをパワーアップします。,I activate my equipment magic card: {使用カード}! This will power up my Slime creatures.
+装備魔法カード発動！{使用カード}！スライムちゃんをパワーアップします。,I activate my equipment magic card: {使用カード}! This powers up my Slime creatures.
 装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
 魔法カードを発動します！{使用カード}！,I'll activate my spell card! {使用カード}!
 トラップカードを発動します！{使用カード}！,I'll activate my trap card! {使用カード}!
