@@ -1,3 +1,3 @@
 default
 蟻戦士,Ant Warrior
-強い力を持つ蟻の戦士。体の細い部分がもろくなっており打たれ弱いが、その分高い攻撃力を持つ。,Possesses formidable strength; however, the slimmer parts of its body are fragile, making it susceptible to hits. In return, this card has high attack power.
+強い力を持つ蟻の戦士。体の細い部分がもろくなっており打たれ弱いが、その分高い攻撃力を持つ。,Possesses formidable strength; however, the slimmer parts of its body are fragile; making it susceptible to hits. In return, this card has high attack power.
