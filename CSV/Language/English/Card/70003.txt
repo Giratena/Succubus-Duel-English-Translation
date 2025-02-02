@@ -18,9 +18,9 @@ Kiss01,
 短い間ですが、よろしくお願いします。,It might only be for a short time, but I'll be counting on you.
 一緒に来てくださいますか！ありがとうございます。,So; you'll come with me! Thanks a bunch.
 短い間ですが、よろしくお願いしますね！,Then for the time being; I look forward to working with you!
-こうして旅商人に馬車に乗せてもらって5日が経った。,5 days passed since the travelling merchant gave you a ride.
-道中、何体か魔物が出たけれど・・・,While the two of you did come across a few monsters...
-たいして強くはない個体で、僕は難なくそれらを退けていた。,They were weak enough that you were able to easily fight them off.
+こうして旅商人に馬車に乗せてもらって5日が経った。,5 days passed since the travelling merchant gave me a ride.
+道中、何体か魔物が出たけれど・・・,While we did come across a few monsters...
+たいして強くはない個体で、僕は難なくそれらを退けていた。,They were weak enough that I was able to easily fight them off.
 はぁ、はぁ・・・・。倒したのか・・・？,Hahhh; hahhh... I won?
 僕の最後の一撃を受けて、サキュバスは光の粒になって消えていった。これで退治できたのだろうか…？,The succubus turned into particles of light and disappeared after receiving your final blow. You wonder if your attack was enough to defeat her...?
 ううっ・・・。,Uuugh...
@@ -32,11 +32,11 @@ Kiss01,
 ・・・・。,...
 守護者のお弟子さん、あなたのおかげで助かりました。,Disciple of the Guardian; you saved me. Thank you; truly.
 いまは急いでモルゲンを目指しましょう。また魔物に襲われたらたまりません！,Now; let's hurry toward Morgen. We can't afford to be attacked by monsters again!
-こうして僕らはモルゲンに向かって急いで馬車を走らせ、その日のうちに街へ着いたのだった。,And so; the two of you hurriedly drove the carriage towards Morgen and managed to reach the town by the end of the day.
-街の外で見かけたサキュバスについては、モルゲンの門番に報告しておいた。魔族領から遠いこの地でサキュバスが出ることは珍しく、彼は非常に驚いているようだった。,You reported the succubus you encountered outside of town to the watchman of Morgen. Succubi appearing this far from the demon's domain is rare; and he seemed very surprised.
-まさか最初の依頼からこんなことになるとは…。初めてのサキュバスとの戦いで疲れた僕は、宿屋に入るなりベッドに倒れこんでしまった。,You never expected this to happen from the very first request... Tired from your first battle with a succubus, you collapsed on your bed as soon as you entered the inn. 
-師匠が会えと言っていた、ギルドのリーフさんに会うのは、また明日にしよう…。,You should meet the person named Leif your master mentioned at the guild tomorrow...
-商人から護衛の報酬を得た！,You received a reward for escorting the merchant!
+こうして僕らはモルゲンに向かって急いで馬車を走らせ、その日のうちに街へ着いたのだった。,And so; we hurriedly drove the carriage towards Morgen and managed to reach the town by the end of the day.
+街の外で見かけたサキュバスについては、モルゲンの門番に報告しておいた。魔族領から遠いこの地でサキュバスが出ることは珍しく、彼は非常に驚いているようだった。,I reported the succubus you encountered outside of town to the watchman of Morgen. Succubi appearing this far from the demon's domain is rare; and he seemed very surprised.
+まさか最初の依頼からこんなことになるとは…。初めてのサキュバスとの戦いで疲れた僕は、宿屋に入るなりベッドに倒れこんでしまった。,I never expected this to happen from the very first request... Tired from my first battle with a succubus, I collapsed on my bed as soon as I entered the inn. 
+師匠が会えと言っていた、ギルドのリーフさんに会うのは、また明日にしよう…。,I should meet the person named Leif my master mentioned at the guild tomorrow...
+商人から護衛の報酬を得た！,I received a reward for escorting the merchant!
 いやあ、おかげさんで順調ですねぇ。その若さでたいしたもんです。,Man; things are going great thanks to you. You're amazing for how young you are.
 あと何時間かでモルゲンの街につきますよ。,We'll reach Morgen in a few more hours.
 ほら、そこの街道を右に行くと…。うん…？,Huh; look over there. To the right of that road... Hm?
@@ -49,10 +49,10 @@ Kiss01,
 うふ、そばに来てくれてありがとうございます。,Ufufu; thank you for coming closer.
 実はわたし、さっきからずーっとおなかがすいていて…。,You see; I've been really hungry for a while now...
 お兄さんたちの精気、わけてほしいんです❤,So I want you guys to share your mana with me~❤
-彼女はそういうと、突然背伸びをして僕の頭に顔を近づけてきた。,The brunette suddenly stood up to her full height and brought her face close to your head.
+彼女はそういうと、突然背伸びをして僕の頭に顔を近づけてきた。,The brunette suddenly stood up to her full height and brought her face close to mine.
 ちゅっ❤,*Smoochhh~❤*
 っ・・・・・❤,Mmm......❤*
-くす❤もしかしてキスされるの初めてですか？,Tehe.❤ Was that your first kiss?
+くす❤もしかしてキスされるの初めてですか？,Teehee.❤ Was that your first kiss?
 こんなちっちゃな子にファーストキス奪われて、唇と唇が触れただけでとろーんてなっちゃって…❤,Melting away from a young girl lightly pressing her lips against you like that...❤
 かわいいですね❤お兄さん❤,Oh my; what a strapping young man~❤ You're just too cute~❤
 お、おいどうなっているんだ。女の子から悪魔の羽・・・！？,H-Hey; what's going on. Wings sprouted from that girl's back...!?
@@ -64,10 +64,10 @@ Kiss01,
 あやしい・・・・・・。,How strange...   
 こんな道の真ん中でどうしたんだい？,Why are you standing in the middle of the road like that?
 ちょっと今降りるから待ってなよ。,I'm coming to ya; so wait a sec.
-商人が馬車から降りようとする。僕は彼を引き留め、小さな女の子に対して警戒の目を向けた。,You gave a hard stare at the young girl; and reached a hand out to stop the merchant as he tried to get out of his carriage. 
+商人が馬車から降りようとする。僕は彼を引き留め、小さな女の子に対して警戒の目を向けた。,I gave a hard stare at the young girl; and reached a hand out to stop the merchant as he tried to get out of his carriage. 
 あれ、どうしてそんなに怖い顔をしているんですか？,Hmmm; why are you making such a scary face?
 わたしのそばに来てください。足を怪我してしまったんです。おねがいします・・・。,Please come to me. I hurt my leg. Pleaseee...
-なぜだろう、嫌な予感がする。見た目はただの小さな女の子のはずなのに・・・。,You weren't sure why; but you had a bad feeling about this girl. She looked like your average; cute girl but...
+なぜだろう、嫌な予感がする。見た目はただの小さな女の子のはずなのに・・・。,I wasn't sure why; but I had a bad feeling about this girl. She looked like your average; cute girl but...
 んー・・・。何か怪しまれるようなところあったかなぁ・・・。あ、もしかして、,Hnnn... Why are you so suspicious... Ah; could it be..
 魔力が漏れているのがバレちゃいました？くすくす❤,You can feel my magic aura around me? Tehehe~❤ 
 気づかずに来てくれれば、唇でちゅってしてあげたのに・・・❤ほら、こんな風に。,If you had only come over here; I would have smooched your lips.❤ Hora; just like this...
@@ -249,7 +249,7 @@ Kiss01,
 わたしの勝ちですね❤オナニーしながらのキス、気持ちよかったですか？,Looks like I've won; huh? Did it feel good jerking off to my kisses?
 足が精液でどろどろ❤みっともなくおねだりして負けて恥ずかしいですね。ふふふ♪,Your feet are drenched in semen~ Such a pathetic loser begging and losing so pitifully. Fufufu.♪
 キス、気持ちよかったですか？わたしの勝ちですね❤,Did you enjoy the kiss? Looks like this is my victory then~❤
-スライム使いのサキュバスは、主人公が動けなくなったのを見ると、そばにいた商人に手下のスライムたちを差し向けた。,The slime controlling succubus; upon seeing you immobilized; sent her slime minions towards the nearby merchant.
+スライム使いのサキュバスは、主人公が動けなくなったのを見ると、そばにいた商人に手下のスライムたちを差し向けた。,The slime controlling succubus; upon seeing me immobilized; sent her slime minions towards the nearby merchant.
 サキュバスの魔力を受けていつの間にか魅了されていた商人は、逃げることもできずすぐにスライムたちに捕まり、全身を彼女たちに包み込まれていった。,The merchant; having succumbed to the succubus's magic; found himself too captivated to escape. He was quickly captured by the slimes as they started engulfing his body in slime.
 スライム越しにくぐもった嬌声が聞こえ始める。彼もまた身動きができなくなるまで搾り取られてしまうのだろう。,Muffled moans began to emanate through the slime. He; too; would undoubtedly be drained until he could no longer move.
 僕はその様子を、快感にしびれぼんやりとした頭の中で、ただ見ていることしかできなかった。He could only watch the scene in a daze; his mind numb with pleasure.
@@ -287,6 +287,6 @@ Kiss01,
 はい、おしまい❤ごちそうさまでした。,Yes; that’s it.❤ Thank you for the meal.
 結構おいしかったし、どこかに連れ帰ってもよかったんですけど、ここは人間の国ですしね。,It was quite delicious. I would even consider taking you somewhere; but this is the human country.
 さて、なくなりかけてたエナジーも補給できたし、さっさと隠れましょう。任務、任務っと・・・。,Now that I've replenished my dwindling mana; it's time to quickly hide. The mission... I mustn't forget the mission...
-こうして主人公は、最初の戦闘でスライム使いの淫魔に負け、命が干からびるまで精を吸い取られた。,And so; you lost in his first battle against the slime-using succubus; your life force sucked out until you dried up.
-妹を探すはずだった冒険は、自分よりもずっと年下の少女にあっけなく踏みにじられてその幕を閉じ、,The adventure you started to find your sister ended abruptly under the feet of a girl much younger than yourself.
-その後、彼の行方を知るものは誰もいなかったという。,And after that; no one knew what happened to you.
+こうして主人公は、最初の戦闘でスライム使いの淫魔に負け、命が干からびるまで精を吸い取られた。,And so; the protagonist lost in his first battle against the slime-using succubus; his life force sucked out until he dried up.
+妹を探すはずだった冒険は、自分よりもずっと年下の少女にあっけなく踏みにじられてその幕を閉じ、,The adventure he started to find his sister ended abruptly under the feet of a girl much younger than himsself.
+その後、彼の行方を知るものは誰もいなかったという。,And after that; no one knew what happened to him.
