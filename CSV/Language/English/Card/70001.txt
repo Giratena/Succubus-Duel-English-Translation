@@ -47,4 +47,4 @@ default
 ターン終了よ。, I end my turn.
 ターンエンド。,End turn.
 わたしのターンはおしまい。ターンエンド。,End turn.
-攻撃を無効にするトラップね。うまく使えているじゃない。,A trap that negates attacks huh? Aren't you using your cards well!
+攻撃を無効にするトラップね。うまく使えているじゃない。,A trap that negates attacks; huh? Aren't you using your cards well!
