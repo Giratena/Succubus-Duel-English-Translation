@@ -1,6 +1,6 @@
 default
 煙の魔女,Smoke Witch
-[1].このカードは自分フィールド上に「ウィスプ」モンスターが存在する限り、攻撃対象に選択できない。\n[2].1ターンに1度発動できる。「{%%10014}」を生成して自分フィールド上に特殊召喚する。,[1].このカードは自分フィールド上に「ウィスプ」モンスターが存在する限り、攻撃対象に選択できない。\n[2].1ターンに1度発動できる。「{%%10014}」を生成して自分フィールド上に特殊召喚する。
-[3].自分ターン終了時に発動する。自分のHPを自分フィールド上の「ウィスプ」モンスターの数×500ポイント回復する。,[3].自分ターン終了時に発動する。自分のHPを自分フィールド上の「ウィスプ」モンスターの数×500ポイント回復する。
-煙を自在に操る魔女。彼女の煙には濃厚なフェロモンがふくまれており、その煙に包まれた男性は彼女の虜になってしまう。パフパフやふとももでの愛撫が得意。,煙を自在に操る魔女。彼女の煙には濃厚なフェロモンがふくまれており、その煙に包まれた男性は彼女の虜になってしまう。パフパフやふとももでの愛撫が得意。
-このカードは「弱点付与」を持つ。,このカードは「弱点付与」を持つ。
+[1].このカードは自分フィールド上に「ウィスプ」モンスターが存在する限り、攻撃対象に選択できない。\n[2].1ターンに1度発動できる。「{%%10014}」を生成して自分フィールド上に特殊召喚する。,[1].This card cannot be selected as an attack target as long as there is a “Wisp” monster on your field. /n[2].You can activate this card once per turn. Create “{%%10014}” and Special Summon it to your field.
+[3].自分ターン終了時に発動する。自分のHPを自分フィールド上の「ウィスプ」モンスターの数×500ポイント回復する。,[3]. Activate at the end of your turn. Recover 500 points of your HP x the number of “Wisp” on your field.
+A witch able to manipulate smoke at will. Her smoke is filled with thick pheromones, and men who are enveloped in her smoke are captivated by her. She is skilled at both Puff-Puff and caressing her opponents with her thighs.
+このカードは「弱点付与」を持つ。,This card has [Grant Weakness].

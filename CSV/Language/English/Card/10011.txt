@@ -1,5 +1,4 @@
 default
 ウィッチガール,Witch Girl
-このカードは反撃されない。戦闘で破壊され墓地に送られたとき、デッキから闇属性のモンスターをランダムに1枚手札に加える。,このカードは反撃されない。戦闘で破壊され墓地に送られたとき、デッキから闇属性のモンスターをランダムに1枚手札に加える。
-魔法を使っていたずらするのが大好きな魔法使いの少女。靴についている星マークは魔法学校でもらった勲章であり、彼女の自慢。,魔法を使っていたずらするのが大好きな魔法使いの少女。靴についている星マークは魔法学校でもらった勲章であり、彼女の自慢。
-
+このカードは反撃されない。戦闘で破壊され墓地に送られたとき、デッキから闇属性のモンスターをランダムに1枚手札に加える。,This card cannot be counterattacked. When destroyed by battle and sent to the Graveyard, add a random Dark-attribute monster from the Deck to your hand.
+魔法を使っていたずらするのが大好きな魔法使いの少女。靴についている星マークは魔法学校でもらった勲章であり、彼女の自慢。,A wizard girl who loves to play tricks with her magic. The star on her shoe is a medal she received at school, a feat she is very proud of.
