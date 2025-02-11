@@ -3,7 +3,7 @@ default
 　主人公の師匠。Bランクの実力派。主に戦士系のカードを使い、特にサムライモンスターを好んで使う。\n　孤児になった主人公を拾い、小さいころから育ててきた。拾ったときは自身もまだ10代で、子供の育て方などまったく分からない中、まっすぐに育つように努力してきた。カードの使い方だけではなく、文字の読み書きなども教え、主人公にとっては師匠であると同時に年の離れた姉のような存在である。\n　全体的に運動神経がよく、性的なことも上手い。また魔力の扱いが卓越しているので彼女の魅了魔法を受けると実力のあるカードマスターであっても一瞬で思考能力を奪われ、恍惚感に茫然とすることしかできなくなるという。,The protagonist's master. B Rank. Mainly uses warrior cards; but has a particular fondness for samurai monsters.\n\nShe found the protagonist since he was an orphan; and raised him since he was a child. Although she had no idea how to raise a child at the time; she worked hard to ensure he was raised properly. She didn't just teach him how to use cards; but also told him how to read and write; and acted as both an older sister figure as well as his master.\n\nOverall; she has good reflexes; and is skilled in many sexual arts. Her mastery of magic is so exceptional that even a skilled card master who falls under her spell will be instantly deprived of their ability to think and left in a state of pleasurable trance.
 きゃあ！あいたた・・・。,Kyah！Yeowch...
 たはぁー。強くなったわねぇ。練習デッキとはいえ、負けちゃった。,That hurt! You've become much stronger; I can see. Even with that practice deck; you still managed to defeat me.
-しっかり修行の成果が出ているじゃない。\nオッケー、オッケー♪\nこれなら街まで安全に行けるわ。,A fine result from all that studious training no doubt. Now then~♪ You should have no trouble being safe going into town like this.
+しっかり修行の成果が出ているじゃない。\nオッケー、オッケー♪\nこれなら街まで安全に行けるわ。,A fine result from all that studious training no doubt! Now then~♪ You should have no trouble being safe going into town like this.
 でも知っての通り、王都の向こう側は魔族の領地。\n強い魔物がうようよいるから、まだ行っちゃダメよ。,But as you know; next to the Royal Capital lies the monster grounds. It's crawling with strong monsters; so you mustn't go there.
 そうね、とりあえずの目標は\nギルドに入ってAランクのカードマスターになること。\n魔族領に入るのはそれからにしなさい。,That said. For now; your goal should be to join the guild and become an A-rank cardmaster. Only after reaching that point should you consider entering the monster's domain.
 あなたは亡くなったお父さんのように、\n強いマスターを目指している、そうでしょ？\nそれに…。,You want to be a strong cardmaster just like your father; am I right? And not only that...
@@ -12,14 +12,14 @@ default
 心配だろうけれど、\n急いで無理をしても結果は伴わないわ。\n安全に少しづつ強くなりなさい。分かった？,I know you're worried... But mindlessly rushing around won't bring you results. Stay safe; and slowly hone your abilities little by little. Understood?
 わかりました。師匠！,Understood; Master!
 ・・・・。,...
-いい返事ね。よろしい。,Good answer. Very well then.
+いい返事ね。よろしい。,A good answer! Very well then.
 今、魔族領を支配しているのは\n「サキュバス」と呼ばれる魔物たちよ。\n彼女たちは男を快楽でたぶらかすのに長けているの。,Right now; the monsters controlling the monster domain are called "Succubus". Though they mainly specialize in seducing men with pleasure; they're very good at it. 
 当然、彼女たちが使うカードも\n男性を骨抜きにする、ふしだらなカードばかり。\nまだあなたには荷が重いから…。,And naturally; they use lewd cards that are focused around making men helpless as well. It'll be a lot for you to handle as you are now...
-む…。納得いってなさそうな顔ね。,Hm... Judging by the confused look on your face; you don't seem convinced.
+む…。納得いってなさそうな顔ね。,Hm... Judging by the confused look on your face; you aren't aware of the dangers out there.
 今、魔族領を支配しているのは「サキュバス」と呼ばれる魔物たちよ。\n彼女たちは男を快楽でたぶらかすのに長けているの。,Right now; those currently ruling the demon territory are called "Succubus". Though they mainly specialize in seducing men with pleasure; they're very good at it. 
-当然、彼女たちが使うカードも\n男性を骨抜きにする、ふしだらなカードばかり。\n武闘派の訓練ばかりしてきたあなたに、そんな攻撃耐えられるかしら？,And naturally; they use lewd cards focused around making men helpless as well. For someone who has only been trained in martial arts like yourself; do you think you'll be able to withstand their attacks?
-男をたぶらかす……？,Seducing men...?
-ふふ。そっか、あなた童貞だものね。\nそういうこと全然知らないんだ。,Fufu. That's right. You're a virgin; aren't you? Then you wouldn't know anything about it.
+当然、彼女たちが使うカードも\n男性を骨抜きにする、ふしだらなカードばかり。\n武闘派の訓練ばかりしてきたあなたに、そんな攻撃耐えられるかしら？,As you'd expect; they use lewd cards focused around making men helpless as well. Do you think someone like yourself who has only been trained in martial arts will be able to withstand their attacks?
+男をたぶらかす……？,Wait. Did you say; seducing men...?
+ふふ。そっか、あなた童貞だものね。\nそういうこと全然知らないんだ。,Fufu. That's right. You're a virgin aren't you? Then you wouldn't know anything about it.
 いいわ。教えてあげる。デッキを用意しなさい。\n今から実践で女モンスターと戦うってことがどういうことか、\n見せてあげるわ。,Very well. I'll teach you. Ready your deck! Let's have a practice match fighting female monsters; and I'll show you!
 きゃあ！,Kyah!
 あいたたた・・・。\nすごいわ。まさか負けるだなんて思わなかった。\nあなたには才能があるとは思ってたけど、想像以上ね。,That hurt even more than the last duel... Impressive~. I wasn't expecting to lose at all there. I always knew you had talent; but that was something else!
@@ -29,9 +29,9 @@ default
 あなたなら最終的には魔族たちに打ち勝つこともできるかもしれない。\nとはいえ、急がば回れなのは本当よ。,You might eventually be able to defeat the monsters; but remember; it's unwise to rush into things absentmindedly.
 下級サキュバスならまだしも中級以上のサキュバスともなれば、\n実力はわたし以上。\nわたしにギリギリ勝てる程度では、きっと厳しいと思うの。,While I'm stronger than lower-class succubi; I don't compare to high- or even middle-class succubi. If you struggle against me; you'll be in for a rough time.
 あうううっ・・・・。,Aaaahhh...
-くすくす❤みっともない姿ね。,Kuhuhu-❤ That's quite the look you've got there.
-どう？カードの快楽攻撃が、どれほどのものか実感できたかしら。,What do you think? Now do you understand just how pleasurable a card's attacks can be?
-って、あなたはカードの攻撃を受けるまえに、\nひとりでシコシコ始めちゃったからなにも分からないか。くすくす❤,Though; considering you started playing with yourself before you even got attacked... maybe you don't. Kuhuhu-❤
+くすくす❤みっともない姿ね。,Kuhuhu-❤ That's not a very distinguished look for you.
+どう？カードの快楽攻撃が、どれほどのものか実感できたかしら。,Well? What do you think? Do you understand cards and pleasure work in battle now? 
+って、あなたはカードの攻撃を受けるまえに、\nひとりでシコシコ始めちゃったからなにも分からないか。くすくす❤,Though; considering you started playing with yourself before you even got attacked...maybe you don't. Kuhuhu-❤
 女の子の色香に負けちゃうような実力じゃあ、\n魔族領に入ることは難しい……、,It will be difficult for you to enter into monster territory if you aren't good enough to overcome a woman's sex appeal...
 これで分かったように、\n並大抵の実力じゃ、魔族領に入ることは難しいわ。,So as you can see; entering into monster territory with average skills will prove difficult.
 下級サキュバスならまだしも\n中級以上のサキュバスだとわたしよりも強いのよ。\nきっと童貞の男の子なんか瞬殺されちゃうでしょうね。,While I'm stronger than lower-class succubi; I don't compare to high or even middle-class succubi. I'm sure a virgin boy like yourself would be defeated out there in an instant.
@@ -87,19 +87,19 @@ default
 あは❤なになに？ほんとに師匠のわたしでオナニーしちゃうわけ？,Aha!❤ What do you think you're doing? Are you actually trying to masturbate to me?
 くすくす❤節操なさすぎでしょ。\nエロ攻撃されたからって理性が飛んじゃうなんて、\nかわいいところあるのね❤,Kuhuhu.❤ You're too green for your own good. The way your willpower crumbles just from being sexually attacked is cute.❤,
 それで、どこをオカズにオナニーしているのかな？弟子？,So then my student; what do you want to masturbate to?
-例えばおっぱいは、なかなか自信あるのよ❤\n服の上からでもわかるぐらい大きいでしょ。,For example, I'm pretty confident about my boobs.❤ They're so big that you can see them through my clothing.
-こうやって手で揺らしてあげれば、ふふ、なかなかにエッチよね❤,And if I cup them with my hands and sway them like this... Fufu, it's quite hot; isn't it?❤
+例えばおっぱいは、なかなか自信あるのよ❤\n服の上からでもわかるぐらい大きいでしょ。,For example; I know my boobs are amazing.❤ They're so big that you can see them over my clothing.
+こうやって手で揺らしてあげれば、ふふ、なかなかにエッチよね❤,And if I cup them with my hands and sway them like this...Fufu; it's quite hot isn't it?❤
 はあっ、はあぅっ・・・❤,Haah; ooogh...❤
 あはは❤興奮しているの丸わかり。\nそんなんじゃとてもじゃないけど\n魔族領なんかに行かせるわけにはいかないわ。,Haha!❤ You're so obviously aroused. There's no way I can let you go to the demon territory like this.
-女型の魔物や、魔族のカードマスターに誘惑されて、\nすぐに餌食になっちゃうのがオチだもの。\nそんなのいやよね？,If you get tempted by female monsters or demon cardmasters; you'll end up as their prey in no time. You don't want that; do you?
-だから、一発抜いて、また修行しましょ。\n今回の試合はこれで終わりということで。,So; why don't you rub one out and we can continue your training another day. We'll call this the end of the duel for now.
+女型の魔物や、魔族のカードマスターに誘惑されて、\nすぐに餌食になっちゃうのがオチだもの。\nそんなのいやよね？,If you get tempted by female monsters or demon card masters; you'll end up as their prey in no time. You don't want that; do you?
+だから、一発抜いて、また修行しましょ。\n今回の試合はこれで終わりということで。,So; why don't you rub one out and we can continue your training another day. We can duel again another day.
 ああっ、もう・・・❤,Ahhh, I can't take it anymore...❤
-ふふ。そっちの方ももう限界みたいね。,Fufu. It seems that part of you has reached its limit too; hasn't it?❤"
+ふふ。そっちの方ももう限界みたいね。,Fufu. So that part of you has reached its limit too; has it?❤
 いいわよ。早く出しなさい。,It's alright. Go on and release it all quickly.
-気持ちよくなるところ見ててあげる❤\nついでにほら、チャームの魔法もかけてっと❤,I'll watch you make yourself feel good~❤ And while we're at it; I'll cast a charm spell on you too~❤"
+気持ちよくなるところ見ててあげる❤\nついでにほら、チャームの魔法もかけてっと❤,I'll watch you make yourself feel good~❤ And while we're at it; I'll cast a charm spell on you too~❤
 はひぃっ・・・❤❤,Ahiee...❤❤
-イっちゃえ。馬鹿弟子❤,Go on and cum; my foolish student.❤
-あは❤たくさん出てる。自分でしごくのそんなに気持ちよかったんだ。,Hehe~ So much is coming out. So jerking yourself off felt that good; huh?
+イっちゃえ。馬鹿弟子❤,Go on and cum. My foolish student.❤
+あは❤たくさん出てる。自分でしごくのそんなに気持ちよかったんだ。,Hehe~ So much is coming out. So jerking yourself off felt that good huh?
 それじゃあ試合終了ね。明日から修行また頑張るのよ。,Now then; that's it for today's session. We'll continue training hard again starting tomorrow; alright?
 あら❤\n敵のマスターの前にやってきて、しこしこ始めちゃうなんて、\nずいぶんと変態なのね❤,Oh my.❤ You came right to the enemy cardmaster and started jerking off… You're quite the pervert; aren't you?
 あなたのマスターはわたしじゃないのよ？\n分かってる？くすくす❤,I'm not your master. You know that; don't you? Kuhuhu-❤;"
