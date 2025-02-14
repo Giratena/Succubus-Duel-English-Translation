@@ -1,179 +1,182 @@
 default
-シスター,
-あら、はじめまして。わたし、この街の神殿でシスターをやっているものです。,
-あなたもカードマスターなんですね。普段の戦いでお怪我などはされていませんか？,
-わたくしどもの教義では、魔力に富んだ女性こそ戦うべきだと説いております。男性の方には争いではなく癒しと快楽を与えるべきだとも。,
-ましてサキュバスとの戦いとなれば、男性を駆り出すなんて愚かです。すべて女性にゆだねてしまうのが、より賢い選択と言えるでしょう。,
-え？自分はそうは思わない？男だって戦える？あら、そうですか。それなら…。,
-あなたにも教えの素晴らしさを体感していただけるよう、ぜひ一戦お願いいたしますわ。快楽で戦いへの意志を溶かしてさしあげます❤,
-また会いましたね。この間は負けてしまいましたが、今度はそうは行きませんよ。,
-わたしのカードたちの力で、あなたに教えの素晴らしさをきちんとお伝えいたします。,
-それではバトルを始めましょう。快楽で蕩けさせてあげますね❤,
-うふふ❤またわたしたちの教義を体験したくなったのですか？,
-それでは前回同様、気持ちいい敗北を教えてさしあげますね。たくさん気持ちよく癒されてください❤,
-ううっ、お強いんですね。まだまだわたしの修行が足りないようです。,
-いつかあなたにも教えの意味が伝えられるように、もっと精進せねば…。それではまたいつか再戦お願いいたします。,
-うふふ、わたしの勝ちです。男の人が戦いには不向きだということがよくわかったでしょう？,
-まだ入信への決心はつかなかったみたいですが、どうせこの快楽を忘れることはできません。,
-ランクアップなど目指さなくていいですよ。ずっと気持ちいいことをして過ごしましょう？それでは対戦ありがとうございました。,
-あなたのターンからですね。いいバトルにしましょう。,
-わたしのターンからですね。,
-ドローします。,
-わたしのターン、ドロー。,
-{使用カード}を上級召喚いたします。,
-{使用カード}を召喚します！,
-ううっ、あうう・・・❤,
-うふふ❤一度女神さまの教えを味わったその体では、\nもはや戦う意思を保てぬようですね❤,
-何度肉体を再付与されようと意味のないことです❤\n魂に染みついた愛はぬぐえないのですから。\nさあ、またあなたに愛を体験させ、すぐに昇天させてさしあげますね❤,
-さらにもう1枚発動！,
-ターン終了時に{使用カード}の効果発動！味方全員を回復させます。,
-ターン終了時に{使用カード}の効果発動！味方全員のHPを300ポイント回復です。,
-召喚時に{使用カード}の効果発動！処刑人モンスターに「再生」を付与！,
-召喚に成功したとき、{使用カード}の効果発動！処刑人モンスターに永続的な回復効果を付与！,
-敵モンスターを墓地へ送ったとき{使用カード}の効果発動！処刑人モンスターに「再生」を付与！,
-{使用カード}の効果を発動！処刑人モンスターたちに再生能力を付与です！,
-雷撃よ、敵を打ち倒せ。{使用カード}を発動！,
-{使用カード}を発動します！相手モンスター全体に500ダメージです！,
-永続魔法{使用カード}を発動！ターン終了時ごとに味方を回復します。,
-永続魔法{使用カード}を発動！味方全員を毎ターン回復します！,
-ライフを1000払い、永続魔法カード"{使用カード}"発動！,
-ライフを1000払い、永続魔法"{使用カード}"発動！自分のモンスターは回復のたびに攻撃力がアップします！,
-ライフを1500払い、{使用カード}を発動！デッキから天使モンスターを特殊召喚！,
-わたしのライフをコストに{使用カード}を発動！デッキから天使モンスターを特殊召喚！,
-敵の呪文から味方を守る盾となれ。{使用カード}を発動！このターンの間、効果ダメージを半減させます！,
-無駄です！「{使用カード}」を発動！このターンの間、炎属性の効果ダメージを回復に変換します！,
-装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-魔法カードを発動！{使用カード}！,
-トラップカードを発動します！{使用カード}！,
+シスター,Sister
+あら、はじめまして。わたし、この街の神殿でシスターをやっているものです。,Oh; good to meet you. I’m a Sister of this town's church.
+あなたもカードマスターなんですね。普段の戦いでお怪我などはされていませんか？,It seems that you’re also a cardmaster. Have you been hurt on your recent battles?
+わたくしどもの教義では、魔力に富んだ女性こそ戦うべきだと説いております。男性の方には争いではなく癒しと快楽を与えるべきだとも。,Our faith teaches us about how battles should be left to women with higher mana. It also teaches us that men should not be fighting; and instead be given pleasure and comfort.
+ましてサキュバスとの戦いとなれば、男性を駆り出すなんて愚かです。すべて女性にゆだねてしまうのが、より賢い選択と言えるでしょう。,Not to mention that sending men to fight succubi itself is a foolish idea. It’d be much wiser to leave that to women.
+え？自分はそうは思わない？男だって戦える？あら、そうですか。それなら…。,Oh; you don’t think so? You think that men can also fight succubi? I see; then in that case...
+あなたにも教えの素晴らしさを体感していただけるよう、ぜひ一戦お願いいたしますわ。快楽で戦いへの意志を溶かしてさしあげます❤,I’d be grateful if you’d agree to a battle with me; so that you can also experience the wonders of our faith. I’ll melt your fighting spirit with pleasure～❤
+また会いましたね。この間は負けてしまいましたが、今度はそうは行きませんよ。,We meet again. I might’ve lost last time; but it won’t be the same as last time.
+わたしのカードたちの力で、あなたに教えの素晴らしさをきちんとお伝えいたします。,With the power of my cards; I’ll make you understand the wonders of our faith.
+それではバトルを始めましょう。快楽で蕩けさせてあげますね❤,Let’s begin our battle. I’ll melt you with pleasure～❤
+うふふ❤またわたしたちの教義を体験したくなったのですか？,Fufu～❤ You want to experience the wonders of our faith again; is it?
+それでは前回同様、気持ちいい敗北を教えてさしあげますね。たくさん気持ちよく癒されてください❤,Then I’ll teach you the sweet pleasure of defeat just like last time.\nRelax and enjoy it～❤
+ううっ、お強いんですね。まだまだわたしの修行が足りないようです。,Ugh; you’re strong. It seems that I still lack training.
+いつかあなたにも教えの意味が伝えられるように、もっと精進せねば…。それではまたいつか再戦お願いいたします。,I must devote myself even more so that one day you’ll come to understand our faith... Well then; I hope we can have another battle someday.
+うふふ、わたしの勝ちです。男の人が戦いには不向きだということがよくわかったでしょう？,Fufu; it’s my win. Have you finally understood why men are unfit for battle?
+まだ入信への決心はつかなかったみたいですが、どうせこの快楽を忘れることはできません。,It seems that you’re still hesitant about joining our faith; but you wouldn’t be able to forget about how good it felt either way.
+ランクアップなど目指さなくていいですよ。ずっと気持ちいいことをして過ごしましょう？それでは対戦ありがとうございました。,You don’t have to aim for promotions and such things. Why not just keep feeling good instead? And thank you for the battle.
+あなたのターンからですね。いいバトルにしましょう。,It’s your turn. Let’s have a good battle.
+わたしのターンからですね。,It’s my turn.
+ドローします。,Draw.
+わたしのターン、ドロー。,It’s my turn; draw.
+{使用カード}を上級召喚いたします。,Summon {使用カード}!
+{使用カード}を召喚します！,Summon {使用カード}!
+ううっ、あうう・・・❤,Hauuu...❤
+うふふ❤一度女神さまの教えを味わったその体では、\nもはや戦う意思を保てぬようですね❤,Fufu～❤ You quickly lose your fighting spirit now that your body have tasted the teachings of our Goddess～❤
+何度肉体を再付与されようと意味のないことです❤\n魂に染みついた愛はぬぐえないのですから。\nさあ、またあなたに愛を体験させ、すぐに昇天させてさしあげますね❤,Once it has been engrained on your soul; you cannot remove it anymore. It’s no use no matter how many times you come back～❤ Come; I’ll let you experience my love and make you ascend once again～❤
+さらにもう1枚発動！,And activate 1 more card!
+ターン終了時に{使用カード}の効果発動！味方全員を回復させます。,When the turn ends; activate {使用カード}’s effect! Heal all allies.
+ターン終了時に{使用カード}の効果発動！味方全員のHPを300ポイント回復です。,When the turn ends; activate {使用カード}’s effect! Heal all allies for 300 HP.
+ターン終了時に{使用カード}の効果発動！味方全員のHPを200ポイント回復です。,When the turn ends; activate {使用カード}’s effect! Heal all allies for 200 HP.
+召喚時に{使用カード}の効果発動！処刑人モンスターに「再生」を付与！,When summoned; activate {使用カード}’s effect! Grant all Executioner monster [Regeneration]!
+召喚に成功したとき、{使用カード}の効果発動！処刑人モンスターに永続的な回復効果を付与！,When successfully summoned; activate {使用カード}’s effect! Grant all Executioner monster a permanent healing effect!
+敵モンスターを墓地へ送ったとき{使用カード}の効果発動！処刑人モンスターに「再生」を付与！,When an opponent monster is sent to the graveyard; activate {使用カード}’s effect! Grant all Executioner monster [Regeneration]!
+{使用カード}の効果を発動！処刑人モンスターたちに再生能力を付与です！,Activate {使用カード}’s effect! Grant all Executioner monster the ability to regenerate!
+雷撃よ、敵を打ち倒せ。{使用カード}を発動！,Lightning; strike down my enemies. Activate {使用カード}!
+{使用カード}を発動します！相手モンスター全体に500ダメージです！,Activate {使用カード}! Deal 500 damage to all enemy monsters!
+永続魔法{使用カード}を発動！ターン終了時ごとに味方を回復します。,Activate continuous spell; {使用カード}! Heal all ally monsters when the turn ends.
+永続魔法{使用カード}を発動！味方全員を毎ターン回復します！,Activate continuous spell; {使用カード}! Heal all ally monsters every turn!
+ライフを1000払い、永続魔法カード"{使用カード}"発動！,Pay 1000 LP to activate the continuous spell; {使用カード}!
+ライフを1000払い、永続魔法"{使用カード}"発動！自分のモンスターは回復のたびに攻撃力がアップします！,Pay 1000 LP to activate the continuous spell; {使用カード}! When my allied monsters are healed; increase their attack power!
+ライフを1500払い、{使用カード}を発動！デッキから天使モンスターを特殊召喚！,Pay 1500 LP to activate the spell; {使用カード}! Special summon an angel monster from the deck!
+わたしのライフをコストに{使用カード}を発動！デッキから天使モンスターを特殊召喚！,Sacrifice LP to activate the spell; {使用カード}! Special summon an angel monster from the deck!
+敵の呪文から味方を守る盾となれ。{使用カード}を発動！このターンの間、効果ダメージを半減させます！,Become a shield to protect my allies from enemy spells! Activate {使用カード}! For this turn; damage taken is reduced by half!
+無駄です！「{使用カード}」を発動！このターンの間、炎属性の効果ダメージを回復に変換します！,It’s useless; activate [{使用カード}]! For this turn; turn damage from Fire Attribute card effects into healing!
+装備魔法カード発動！{使用カード}！,Activate magical equipment card; {使用カード}!
+魔法カードを発動！{使用カード}！,Activate spell card; {使用カード}!
+トラップカードを発動します！{使用カード}！,Activate trap card; {使用カード}!
 カードをセット。,Card set.
 カードを伏せます。,I'll place this card face down.
-わたしと楽しいことしましょ？{防御カード}を攻撃！,
-気持ちよくしてあげますね。{防御カード}を攻撃！,
-{使用カード}で{防御カード}を攻撃します！,
-うう、なにもできませんね…。ターンエンドです。,
-このターンは身動きが取れません…。ターンエンド。,End turn.
-ターン終了です。, My turn is over.,
-わたしのターンはおわりです。ターンエンド,
-こんなところですね。ターンエンド。,End turn.
-むぅ、攻撃を妨害されるとは…。,
-服の上からでも分かるぐらい大きな胸が自慢なんです。\n戦った相手からは、とてもやわらかいと評判なんですよ❤,
-あなたのこともたっぷりこの胸で癒してさしあげますね❤\nさあ、骨抜きになってくださいな❤,
-わたしたちの教義では、\n相手のことを癒すことを最も善いこととしています。,
-あなたにもパイズリで奉仕してさしあげます。\n存分に体をリラックスさせてください❤うふふ❤,
-わたしの胸、とても大きいでしょう？この大きな胸で、\n男の人の大事な部分を挟んであげたいんですが、いかがですか❤,
-ふふ、強くは拒否しないんですね。やっぱり男の方の理性って弱い…❤,
-わずかな抵抗も、こうやってぎゅっとペニスを包み込んでしまえば、\n腰から蕩けてしまいますね❤\nうふふ、そのまま快楽でふにゃふにゃになっていてください❤,
-わたしの胸、とても大きいでしょう？\nこの大きな胸の谷間で、\n男の人の大事な部分、挟まれたくはないでしょうか。,
-わずかに抵抗はしていても、こうやってぎゅっとしてしまえば、\nふふ、腰が抜けてしまいますね❤\nそのままマスターのことなど忘れて快楽に溺れてください❤,
-さあ、どうぞ❤顔をたっぷりおっぱいで挟んであげます。,
-柔らかい感触と甘いおっぱいの匂いをたくさん楽しんでくださいね？\nぱふ❤ぱふ❤,
-抵抗などせずに快楽を味わってください。\nほら、胸でお顔を挟んで、ぱふぱふ❤ぱふぱふ❤,
-体から簡単に力が抜けてしまいますね。\nそのまま楽にしてれば、気持ちいい敗北が待っていますよ。うふふ❤,
-毎日いろいろなことを考えて、いつも心はくたくたでしょう？\nわたしの胸で顔を優しく挟んで、その疲れを癒してさしあげます。,
-次どのカードを出すべきかなんて、考えなくていいんです。\n難しいことは忘れて、心をからっぽにしてください。ぱふぱふ❤ぱふぱふ❤,
-主従関係なんてどうでもいいと思いません？\n皆ただ神に仕えるだけです。マスターとの関係など\nかりそめの契約にすぎません。,
-だからほら、おっぱいに甘えててもいいんですよ。\nマスターのことを忘れられるように\nたくさんぱふぱふしてあげますね❤ぱふぱふ❤ぱふぱふ❤,
-うふふ❤快楽を願うのですか。\n教えの通り、女性に自ら身をささげるなんて、立派な心がけですね❤,
-もちろんいいですよ❤\nさあ、わたしの愛を受け取ってください❤\nどのようにしてほしいか言えば、それも叶えてあげましょう❤,
-癒しのパイズリ,
-癒しのぱふぱふ,
+わたしと楽しいことしましょ？{防御カード}を攻撃！,Let’s feel good together. Attacking {防御カード}!
+気持ちよくしてあげますね。{防御カード}を攻撃！,I’ll make you feel good. Attacking {防御カード}!
+{使用カード}で{防御カード}を攻撃します！,{使用カード}; attack {防御カード}!
+うう、なにもできませんね…。ターンエンドです。,Ugh; I can’t do anything... Turn end.
+このターンは身動きが取れません…。ターンエンド。,I can’t make an action this turn... Turn end.
+ターン終了です。,Turn finished.
+わたしのターンはおわりです。ターンエンド,My turn’s over. Turn end.
+こんなところですね。ターンエンド。,That should be enough. Turn end.
+むぅ、攻撃を妨害されるとは…。,Aww; my attack’s blocked...
+服の上からでも分かるぐらい大きな胸が自慢なんです。\n戦った相手からは、とてもやわらかいと評判なんですよ❤,I’m sure you know how big my boobs are even through my outfit. I’m quite proud of them; my opponents always tells me how soft they are～❤
+あなたのこともたっぷりこの胸で癒してさしあげますね❤\nさあ、骨抜きになってくださいな❤,I shall soothe you too with my boobs～ Now; please let me weaken you～❤
+わたしたちの教義では、\n相手のことを癒すことを最も善いこととしています。,In our faith; comforting someone is considered to be the greatest deed you can do.
+あなたにもパイズリで奉仕してさしあげます。\n存分に体をリラックスさせてください❤うふふ❤,I’ll offer a boobjob even for you. Now; please relax yourself and enjoy it～❤ Ufufu～❤
+わたしの胸、とても大きいでしょう？この大きな胸で、\n男の人の大事な部分を挟んであげたいんですが、いかがですか❤,My boobs are really huge; aren’t they? Wouldn’t you like it if your precious parts are sandwiched between them?❤
+ふふ、強くは拒否しないんですね。やっぱり男の方の理性って弱い…❤,Fufu; so you’re not against it. Men really are weak-willed...❤
+わずかな抵抗も、こうやってぎゅっとペニスを包み込んでしまえば、\n腰から蕩けてしまいますね❤\nうふふ、そのまま快楽でふにゃふにゃになっていてください❤,Even if you try to resist; your hips will simply melt down in pleasure when I wrap your penis tightly like this～❤ Ufufu; please keep enjoying it like this until you’re all exhausted～❤
+わたしの胸、とても大きいでしょう？\nこの大きな胸の谷間で、\n男の人の大事な部分、挟まれたくはないでしょうか。,My boobs are really huge; aren’t they? Wouldn’t you like it if your precious parts are sandwiched between them?❤
+わずかに抵抗はしていても、こうやってぎゅっとしてしまえば、\nふふ、腰が抜けてしまいますね❤\nそのままマスターのことなど忘れて快楽に溺れてください❤,Even if you try to resist; your hips will simply melt down in pleasure when I wrap your penis tightly like this～❤ Forget all about your master and drown in pleasure～❤
+さあ、どうぞ❤顔をたっぷりおっぱいで挟んであげます。,Now; here you go～❤ I’ll sandwich your face plenty with my boobs.
+柔らかい感触と甘いおっぱいの匂いをたくさん楽しんでくださいね？\nぱふ❤ぱふ❤,Please enjoy the softness and sweet scent of my boobs～ Puff; puff～❤
+抵抗などせずに快楽を味わってください。\nほら、胸でお顔を挟んで、ぱふぱふ❤ぱふぱふ❤,Please don’t resist and enjoy them. Here; I’ll sandwich your face with my boobs～ Puff; puff～❤ Puff; puff～❤
+体から簡単に力が抜けてしまいますね。\nそのまま楽にしてれば、気持ちいい敗北が待っていますよ。うふふ❤,Your body loses strength so easily. A blissful defeat awaits you if you keep enjoying this. Fufu～❤
+毎日いろいろなことを考えて、いつも心はくたくたでしょう？\nわたしの胸で顔を優しく挟んで、その疲れを癒してさしあげます。,Deep down; having to think of so many things every day must’ve been exhausting. Let me heal all of your exhaustion away with my boobs gently sandwiched on your face.
+次どのカードを出すべきかなんて、考えなくていいんです。\n難しいことは忘れて、心をからっぽにしてください。ぱふぱふ❤ぱふぱふ❤,You don’t have to think about what card you’re going to use next. Forget about difficult things and empty your mind. Puff; puff～❤ Puff; puff～❤
+主従関係なんてどうでもいいと思いません？\n皆ただ神に仕えるだけです。マスターとの関係など\nかりそめの契約にすぎません。,Don’t you think your master-subordinate contract is insignificant? Everyone serves the Lord in the end after all. Your contract is simply trivial in comparison.
+だからほら、おっぱいに甘えててもいいんですよ。\nマスターのことを忘れられるように\nたくさんぱふぱふしてあげますね❤ぱふぱふ❤ぱふぱふ❤,That’s why; you can keep getting pampered by my boobs. I’ll give you even more boobs so that you’ll forget about your master～❤ Puff; puff～❤ Puff; puff～❤
+うふふ❤快楽を願うのですか。\n教えの通り、女性に自ら身をささげるなんて、立派な心がけですね❤,Fufu～❤ You wish for happiness; is it? What commendful devotion it is to submit yourself to a women; as our faith teaches～❤
+もちろんいいですよ❤\nさあ、わたしの愛を受け取ってください❤\nどのようにしてほしいか言えば、それも叶えてあげましょう❤,I’ll happily oblige～❤ Now; please accept my love～❤ Tell me how you wish to receive my love and I shall grant it～❤
+癒しのパイズリ,Comforting Boobjob
+癒しのぱふぱふ,Comforting Puff Puff
 なんでも,You decide
-わたしの胸で癒してほしいのですね❤\nさあ、どうぞ❤谷間の中に招き入れてたっぷり愛を教えてあげましょう❤,
-わたしの胸であやされながら愛を囁いてほしいのですね❤\nたくさん顔を挟んで、ぱふぱふと、気持ちよくしてあげましょう❤,
-うふふ❤性器を優しくこすられて、\nとても気持ちよさそうに果ててしまいました❤,
-男性が戦う愚かしさ、しっかり分かっていただけたようですね❤\n恍惚としたその顔、素敵ですよ❤,
-くす❤上手に甘えることができましたね❤\nあなたの「戦うための力」をこんなにたくさん捨てられて、\nとても偉いですよ❤,
-さあ、残りも全部出し切りましょうね❤\n空っぽになるまでぎゅっと抱きしめてあげます❤\nうふふ❤,
-あっ、ああっ・・・。,
-あら、またわたしでオナニーですか？本当に"自己犠牲"がお好きなのですね。,
-隠さなくてもいいんです。手を見れば何をしているのかすぐに分かりますよ。そんなに一生懸命シコシコしちゃってみっともない❤,
-あらあら、前回も敗北して今回も敗北してしまうんですね。,
-それも今回は自分からオナニーしてしまうだなんて。くすくす。修行を積むどころから前よりも弱くなってしまったようです❤,
-うふふ。わたしの前でうずくまって、どうされました？もしかして体調が悪いのですか？それとも…。,
-性欲に負けて自ら扱きはじめてしまったのでしょうか？くすくす❤,
-隠さなくてもいいんです。手を見ればどちらかすぐに分かりますよ。そんなに一生懸命シコシコしちゃってみっともない❤,
-自ら敗北を認めたあなたのために、祈ってさしあげましょう。両手を胸の前で組んで、そのままぎゅーっとおっぱいに押し付けて…❤,
-わたしの手をよく見てください。おっぱいを見ちゃだめですよ…❤手を見るんです…❤,
-あううっ…❤,
-くすくす❤ダメだって言っているのに、目がおっぱいに釘付けですね。手を押し付けて軽くひしゃげさせただけなのに、そんなに興奮しちゃうんですか？,
-せっかくなら祈りの手ではなく、あなたの顔やペニスを挟んでさしあげたかったんですけれど。まあ、オナニーで満足している弱々ペニスなのですから、別にいいですよね❤,
-パイズリやぱふぱふでたっぷり気持ちよくしてあげるまでもなく、自分から負けちゃう雑魚チンポ❤くすくす、恥ずかしいですね❤,
-あらあら、こんなこと言われて興奮しちゃうんですか？シコシコが早くなっています。一心不乱にシコシコ❤シコシコ❤そんなにしごいたらすぐに負けちゃいます❤,
-では、どうぞ。見下ろされながら、わたしにエナジーを捧げてください❤あなたに信仰が、恍惚と共に芽生えますように。,
-あっ、ああっ…❤,
-くすくす。今回もたくさん出しましたね。マスターとしての務めより、わたしたちへの供物を優先できて、偉いですよ❤,
-次会う時も、ぜひこのオナニーの快感を思い出してくださいね。きっと素晴らしい一戦がまたできるでしょう。うふふ❤,
-くすくす。たくさん出しましたね。ずいぶんと満足そうな蕩け顔です❤信仰のよさが少しは分かっていただけたでしょうか。,
-隠さなくてもいいんです。手を見ればどちらかすぐに分かりますから。そんなに一生懸命シコシコしちゃって…。みっともない❤,
-いいですよ。我慢は必要ありません。見下ろされながら、わたしにエナジーを捧げてください❤あなたに信仰が、恍惚と共に芽生えますように。,
-わたしたちに屈すれば、幸福が訪れますよ？他の方もぜひいらっしゃってください。信仰の門は誰にでも開かれていますから。うふふ❤,
-あらあら、弱いモンスターさんでも釣れたらと思っていたのですが、まさかマスターさん自らオナニーしに来るだなんて❤,
-使い魔が弱いのも納得ですね。おちんちんをもっと鍛えたほうがよいのではないかしら。くすくす❤,
-うふふ。あなたもわたしの前でシコシコ始めてしまうんですか？信仰に興味を持つ方が増えてくださってうれしい限りです❤,
-性欲に負けたみじめなあなたのことも、神はお許しになられます。,
-自ら敗北を認めたあなたのために、一緒に祈ってさしあげましょう。これが見たいからあなたも負けを選んだのですよね。ほら、両手を胸の前で組んで、そのままぎゅーっとおっぱいに押し付けます…❤,
-くすくす❤ダメだって言っているのに、あなたも目がおっぱいに釘付けですね。手を押し付けて軽くひしゃげさせただけですよ？それなのに、そんなに興奮しちゃうんですか？,
-じっと待っていれば、わたしやわたしのしもべに気持ちいいおっぱい攻撃してもらえたかもしれないのに、あと少しが待てなくて、自分からシコシコ❤シコシコ❤,
-パイズリやぱふぱふでたっぷり気持ちよくしてあげるまでもなく、自分から負けちゃう雑魚チンポ❤恥ずかしいですね❤くすくす❤,
-あらあら、こんなこと言われてあなたも興奮しちゃうんですか？シコシコが早くなっています。一心不乱にシコシコシコ❤そんなにしごいたらすぐに終わりが来ちゃいますね❤,
-このまま戦線が崩壊するまで、みなさん貢ぎに来ませんか？神へ供物をささげに来るのはとっても素晴らしい行いですよ。,
-信仰の門は誰にでも開かれています。さあ、わたしのそばに来て、この人のように幸せになりましょう？うふふ❤,
-オナニーで敗北してしまうなんて、同じランクのマスターとして恥ずかしいです❤もう1ランク下に降りたほうがいいかもしれませんね。くすくす❤,
-オナニーで敗北してしまうなんて、わたしより上位ランクのマスターとして恥ずかしい負け方ですね❤もう1ランク下に降りたほうがいいのかもしれませんよ？くすくす❤,
-うふふ。ぱふぱふされただけでお漏らししてしまいましたね❤わたしの胸の感触、気持ちよかったですか？,
-んっ❤谷間にどぷどぷ出ています❤おっぱいなんかに負けちゃうんですから、やはり男の人には戦いは向いてないんですね。くすくす❤,
-勝負に負け動けなくなった僕は、シスターの前で膝をついていた。,
-よくわかりましたか？男の人は快楽には勝てないように出来ているのです。,
-どれだけ戦いへの信念があったとしても、柔らかい胸で包んであげるだけで、たちまちに戦意を失ってしまうかわいらしい存在…❤それが男です。,
-まあ、あなたの場合はおっぱいを使うまでもなく、勝手に自滅して射精してしまいましたが。くすくす❤,
-あなたもわたしの胸に顔を埋めてあげたら、手で扱くまでもなく射精してしまいましたね。自分の無力さをひしひしと感じるでしょう？,
-あなたもわたしの胸でパイズリをされて、すぐに果ててしまいましたね。自分の無力さをひしひしと感じるでしょう？,
-さて、このあとはどうしましょうか…。そうですね。神殿に連れ帰って、そこで少し教誨をいたしましょう。,
-大丈夫、怖いことはしません。ただ気持ちいいことをするだけです❤,
-そう言うとシスターはモンスターに僕を担がせて、神殿まで運んでいった。エナジーを奪われて体に力が入らない僕は抵抗もできず、街の人の視線に恥ずかしい思いをしながら、神殿内の一室に運び込まれた。,
-さて、今からするのは大事な教誨です❤わたしの体を通してあなたの体に教えの素晴らしさを伝えてさしあげましょう。,
-大丈夫。怖くないですよ。カードバトル後の残虐な行為は街の法で禁じられています。わたしがするのは残虐さとは真逆の行為です…❤,
-さあ、天国を味わってください❤,
-はひぃっ、あっ、ああっ…❤,
-うふふ❤まだ顔をおっぱいで挟んであげただけ、それなのにとても可愛い声を出しますね❤,
-さきほどもわたしの胸に見とれてオナニーして負けてしまったんですものね。おっぱい好きなんでしょう？くすくす❤,
-さきほどもぱふぱふだけでイかされたようなあなたですからね…❤この感触たまりませんか？さっきの射精の気持ちよさ、思い出してしまいますね。くすくす❤,
-移動の間、少しずつ収まっていた勃起も、あっという間に元に戻ってしまいました。わたしのふとももに固いのが当たっていますよ。,
-あら？さっきと同じどころか、さらに固く大きくなっているみたい…❤女に上に乗られて弄ばれているのに…。くすくす❤そういう性癖みたいですね❤,
-知ってます？女に上に乗られて喜ぶ人のことをマゾって言うんですよ❤わたしたちの教えにとってマゾの人はとても相性がいいんです…❤,
-だって、そうでしょう？マゾの人はこうやって上から無理やりおっぱいを押しつけてあげるだけで、簡単にメロメロになってしまいますから…❤,
-はひぃっ…❤あっ、あっぁ…❤気持ちいいぃ❤,
-うふふ❤天国のようですか？女の胸に溺れるのは気持ちいいですよねえ❤,
-"男が戦う必要はない、すべてを女に委ねるべきだ"、その教えの素晴らしさが深く身に染みてくるでしょう？特に、マゾなあなたには。くすくす❤,
-上に乗られてぱふぱふされているだけなのに、心はどろどろ❤気持ちよくて気持ちよくて頭の中が溶けそう❤,
-女に屈服したいんですよね❤あなたの本性がそれを望んでいるんですよね❤ほら、おちんちんの方にもしっかり快楽を与えてあげます。体を上下に動かしてっと…❤,
-あふぁ❤なにこれぇ、あへぇ…❤,
-ふふふ❤あなたのおちんちん、どこかに挿れてしまいました。ぎゅって包み込まれて気持ちいいですか？,
-エッチの経験が少ないあなたには今何されているかよく分からないでしょう？太ももでしごいているのか、それともわたしのナカに入れられているのか…❤,
-もしかして童貞卒業かもしれませんね。ほら、おっぱいに埋もれながらたくさん妄想していいですよ…❤くすくす❤,
-きもちいいよぉ…❤あったかくてぇ…❤あうう、もうだめぇ…❤,
-はいはい。どうぞ負けちゃってください❤射精と同時に、女の子に負ける気持ちよさをたくさん体にしみこませてくださいね❤,
-わたしの体温に包まれながら、わたしに深く深く屈服するんです。とっても気持ちいいですよ❤ほら、腰を上下に激しくぐちゅぐちゅ動かします❤,
-あうっ…❤あっ…❤ああっ…❤で、出るぅ…❤,
-んふふ、熱いのがドクンドクンって…。こぼれちゃいそうです❤,
-どうでしたか？女に負けて幸せになれましたか❤くすくす❤,
-さてと、それじゃ解放してあげますね。あんまりエナジーをいただいてはかわいそうですから。,
-あっ…❤ううっ…❤おわりっ…？も、もっとぉ…❤,
-くすくす❤うわごとでおねだりしちゃってますね❤そんなによかったのですか？,
-もちろん、"かわいそう"というのはあなたたちの価値観から考えた評価です。わたしたちの教えに基づけばこれ以上の性交も、"かわいそう"ではありません。,
-カードマスターから戦う力である魔力を奪っても、それはむしろ"素晴らしいこと"。なぜなら男の人を戦いから遠ざけ、守ってあげているのですから。,
-さて、どうしますか？あなたはわたしたちの教えに帰依しますか？もし帰依するのであれば、このまま続きをいたしましょう。,
-さっきから切なげに震えているあなたのペニスは、もう答えが決まっているようですけれど。くすくす❤,
-冒険をあきらめますか？,
-彼女に負けたあと、彼女の提案を断ることができなかった僕は、彼女に更なる行為を望んでしまった。その結果、翌朝になるまで延々と彼女に"愛"を与えられ、すっかり彼女から離れられない体になってしまった。,
-少しでも長く彼女と触れあいたい…。一時でも離れていると、心が満たされない…。それほどに彼女に依存してしまった僕は、もう戦いの道を選ぶことができなかった。,
-ただ彼女に会うために神殿への寄付金を稼ぎ、時間を浪費していくだけの日々。,
-うふふ、わたしに包まれるの、幸せですか…❤,
-あなたが貯めた魔力とお金は、ちゃんとわたしたちの役に立ってますよ。こうして愛を感じるために、よく頑張っていますね❤,
-あなたがするべきことは戦いではなく、勤労と奉仕です。それがあなたに幸福をもたらすのです。,
-わたしと初めて出会ったときのギラギラとした目、戦いへの意志…、全部なくなってしまいましたね❤今では蕩けた表情でかわいい声をあげている❤,
-悲しいですか？むしろうれしいですよね。あなたはそう、救われたのです❤,
-さあ今日もたくさん愛を与えてあげましょう❤愛をその身に受けて、たくさんの感謝を抱きなさい。くすくす❤,
-はひぃっ…❤シスター様ぁ…❤❤,
-妹のために強くなるという目的も忘れ、ただただシスターに甘えるだけで時間が過ぎていく…。この退廃から抜け出すことはもうないのだろう。,
-こうして僕の物語はむなしくその幕を閉じたのだった。,
+わたしの胸で癒してほしいのですね❤\nさあ、どうぞ❤谷間の中に招き入れてたっぷり愛を教えてあげましょう❤,So; you wish to be comforted by my boobs～❤ Then; go ahead～❤ I welcome you inside of my boobs～❤ I’ll teach you all about love～❤
+わたしの胸であやされながら愛を囁いてほしいのですね❤\nたくさん顔を挟んで、ぱふぱふと、気持ちよくしてあげましょう❤,So; you wish to be comforted by my boobs while having me whisper to you～❤ I’ll make sure to press my boobs on your face plenty～❤
+うふふ❤性器を優しくこすられて、\nとても気持ちよさそうに果ててしまいました❤,Fufu～❤ Seems that you’re very satisfied from my gentle rubbing～❤
+男性が戦う愚かしさ、しっかり分かっていただけたようですね❤\n恍惚としたその顔、素敵ですよ❤,I’m sure you’ve now realized how foolish it is for a man to be fighting.❤ Those blissful expressions you make are very wonderful～❤
+くす❤上手に甘えることができましたね❤\nあなたの「戦うための力」をこんなにたくさん捨てられて、\nとても偉いですよ❤,*giggle*～❤ Looks like I’ve pampered you very well～❤ What a good boy you are; throwing away all of your power away～❤
+さあ、残りも全部出し切りましょうね❤\n空っぽになるまでぎゅっと抱きしめてあげます❤\nうふふ❤,Now then; shoot out everything you have left～❤ I’ll hold you tight until you’re completely empty～❤ Ufufu～❤
+あっ、ああっ・・・。,Ahh; ahh...
+あら、またわたしでオナニーですか？本当に"自己犠牲"がお好きなのですね。,Oh; you’re masturbating to me again? You really do love throwing the battle.
+隠さなくてもいいんです。手を見れば何をしているのかすぐに分かりますよ。そんなに一生懸命シコシコしちゃってみっともない❤,You don’t have to hide what you’re doing; I figured it out immediately when I see your hands. Jerking off your dick that desperately; how unbecoming of you～❤
+あらあら、前回も敗北して今回も敗北してしまうんですね。,Ara; ara. You lost last time; and now you’ve lost again.
+それも今回は自分からオナニーしてしまうだなんて。くすくす。修行を積むどころから前よりも弱くなってしまったようです❤,This time; you even lost by masturbating on your own. Hehe; it seems that you’re even weaker than last time instead of getting stronger～❤
+うふふ。わたしの前でうずくまって、どうされました？もしかして体調が悪いのですか？それとも…。,Ufufu; why are you crouching in front of me? Are you feeling unwell? Or perhaps...
+性欲に負けて自ら扱きはじめてしまったのでしょうか？くすくす❤,You lost yourself to desire and started pleasuring yourself? *giggle*～❤
+隠さなくてもいいんです。手を見ればどちらかすぐに分かりますよ。そんなに一生懸命シコシコしちゃってみっともない❤,You don’t have to hide what you’re doing; I  figured it out immediately when I see your hands. Jerking off your dick that desperately; how unbecoming of you～❤
+自ら敗北を認めたあなたのために、祈ってさしあげましょう。両手を胸の前で組んで、そのままぎゅーっとおっぱいに押し付けて…❤,I’ll offer a prayer for you; who have admitted defeat. I’ll hold my boobs with both my hands and press them both tightly like this...❤
+わたしの手をよく見てください。おっぱいを見ちゃだめですよ…❤手を見るんです…❤,Please look at my hands; not at my boobs...❤ At my hands...❤
+あううっ…❤,Auughh...❤
+くすくす❤ダメだって言っているのに、目がおっぱいに釘付けですね。手を押し付けて軽くひしゃげさせただけなのに、そんなに興奮しちゃうんですか？,*giggle*～❤ You still couldn’t take your eyes off of my boobs despite me saying not to. Did you really get this horny just from me pressing my breasts a little?
+せっかくなら祈りの手ではなく、あなたの顔やペニスを挟んでさしあげたかったんですけれど。まあ、オナニーで満足している弱々ペニスなのですから、別にいいですよね❤,I would’ve loved to sandwich either your face or your dick instead of just doing this with my hands; but it’s a weak penis that gets satisfied from masturbating on your own; so I’m sure you wouldn’t mind～❤
+パイズリやぱふぱふでたっぷり気持ちよくしてあげるまでもなく、自分から負けちゃう雑魚チンポ❤くすくす、恥ずかしいですね❤,Heh; what an embarrassing dick～❤ I didn’t even need to use my boobs for this feeble dick to lose on its own～❤
+あらあら、こんなこと言われて興奮しちゃうんですか？シコシコが早くなっています。一心不乱にシコシコ❤シコシコ❤そんなにしごいたらすぐに負けちゃいます❤,Ara; ara. I said all that and you’re getting turned on?\nIt’s going so fast now～❤ You’re so focused on jerking it～❤ Fap; fap～❤\nYou’re going to lose soon if you keep jerking it this fast～❤
+では、どうぞ。見下ろされながら、わたしにエナジーを捧げてください❤あなたに信仰が、恍惚と共に芽生えますように。,Go ahead; offer your mana to me as I look down on you～❤ May your faith begins to bloom as you find yourself in ecstasy.
+あっ、ああっ…❤,Ahh; ahh...❤
+くすくす。今回もたくさん出しましたね。マスターとしての務めより、わたしたちへの供物を優先できて、偉いですよ❤,Heh; you came so much even this time. What a good boy; prioritizing giving us offerings over your duties as a cardmaster～❤
+次会う時も、ぜひこのオナニーの快感を思い出してくださいね。きっと素晴らしい一戦がまたできるでしょう。うふふ❤,Next time we meet; please remember how pleasurable that masturbation was. I’m sure that we’ll have yet another wonderful fight. Ufufu～❤
+くすくす。たくさん出しましたね。ずいぶんと満足そうな蕩け顔です❤信仰のよさが少しは分かっていただけたでしょうか。,Heh; you came so much. You have such a satisfied and blissful expression～❤\nI wonder if you’ve come to understand our faith a little better?
+隠さなくてもいいんです。手を見ればどちらかすぐに分かりますから。そんなに一生懸命シコシコしちゃって…。みっともない❤,You don’t have to hide what you’re doing; I figured it out immediately when I see your hands. Jerking off that desperately... how unbecoming of you～❤
+いいですよ。我慢は必要ありません。見下ろされながら、わたしにエナジーを捧げてください❤あなたに信仰が、恍惚と共に芽生えますように。,It’s fine; you don’t have to hold back.\nOffer me your mana as I look down on you～❤\nMay your faith begins to bloom as you find yourself in ecstasy.
+わたしたちに屈すれば、幸福が訪れますよ？他の方もぜひいらっしゃってください。信仰の門は誰にでも開かれていますから。うふふ❤,See? Did you not find yourself with happiness when you submit yourself?\nOthers are also welcome to join.\nThe doors to our faith are open to everyone; after all. Ufufu～❤
+あらあら、弱いモンスターさんでも釣れたらと思っていたのですが、まさかマスターさん自らオナニーしに来るだなんて❤,Ara; ara～ I thought I’d only catch weak monsters; but to think that even the Cardmaster would also come jerking off on his own～❤
+使い魔が弱いのも納得ですね。おちんちんをもっと鍛えたほうがよいのではないかしら。くすくす❤,No wonder your subordinates are that weak. Shouldn’t you be training your dick more? *giggle*～❤
+うふふ。あなたもわたしの前でシコシコ始めてしまうんですか？信仰に興味を持つ方が増えてくださってうれしい限りです❤,Ufufu; are you also going to start masturbating in front of me? I’m grateful that more people are interested in our faith～❤
+性欲に負けたみじめなあなたのことも、神はお許しになられます。,The Lord will forgive even you; who gave in to your desires.
+自ら敗北を認めたあなたのために、一緒に祈ってさしあげましょう。これが見たいからあなたも負けを選んだのですよね。ほら、両手を胸の前で組んで、そのままぎゅーっとおっぱいに押し付けます…❤,Let us pray together for you; who have admitted defeat. You also chose defeat because of these; right? Here; I’ll hold my boobs with both my hands and press both of them tightly like this...❤
+くすくす❤ダメだって言っているのに、あなたも目がおっぱいに釘付けですね。手を押し付けて軽くひしゃげさせただけですよ？それなのに、そんなに興奮しちゃうんですか？,*giggle*～❤  You still couldn’t take your eyes off of my boobs. You do realize I’ve only pressed my boobs with my hands a little? And yet; you’re already this horny?
+じっと待っていれば、わたしやわたしのしもべに気持ちいいおっぱい攻撃してもらえたかもしれないのに、あと少しが待てなくて、自分からシコシコ❤シコシコ❤,If you had waited a little longer; you could’ve gotten attacked either by my boobs or my subordinates’～❤ But you couldn’t wait any longer and started jerking off on your own～❤
+パイズリやぱふぱふでたっぷり気持ちよくしてあげるまでもなく、自分から負けちゃう雑魚チンポ❤恥ずかしいですね❤くすくす❤,Heh; what an embarrassing dick～❤ I didn’t even need to use my boobs for this feeble dick to lose on its own～❤ *giggle*～❤
+あらあら、こんなこと言われてあなたも興奮しちゃうんですか？シコシコが早くなっています。一心不乱にシコシコシコ❤そんなにしごいたらすぐに終わりが来ちゃいますね❤,Ara; ara. I said all that and you’re also getting turned on? It’s going so fast now～❤ You’re so focused on jerking it～❤ Fap; fap～❤ You’re going to lose soon if you jerk it this fast～❤
+このまま戦線が崩壊するまで、みなさん貢ぎに来ませんか？神へ供物をささげに来るのはとっても素晴らしい行いですよ。,Why not keep offering tributes until your formation falls apart? Offering tributes to the Lord is a very wonderful deed; indeed.
+信仰の門は誰にでも開かれています。さあ、わたしのそばに来て、この人のように幸せになりましょう？うふふ❤,The doors to our faith are open to everyone. Now; come by my side and you too shall find happiness; just like this person did. Ufufu ❤
+オナニーで敗北してしまうなんて、同じランクのマスターとして恥ずかしいです❤もう1ランク下に降りたほうがいいかもしれませんね。くすくす❤,Losing by masturbating to a cardmaster of the same rank is a pretty embarrassing way to lose～❤ Maybe you should’ve been 1 rank lower? *giggle*～❤
+オナニーで敗北してしまうなんて、わたしより上位ランクのマスターとして恥ずかしい負け方ですね❤もう1ランク下に降りたほうがいいのかもしれませんよ？くすくす❤,Losing by masturbating on your own is a pretty embarrassing way to lose; especially since you’re higher rank than me～❤ Maybe you should’ve been 1 rank lower? *giggle*～❤
+うふふ。ぱふぱふされただけでお漏らししてしまいましたね❤わたしの胸の感触、気持ちよかったですか？,Ufufu. I’m just pressing my boobs on your face and you’re already wetting yourself～❤ Did you really enjoy my boobs that much?
+んっ❤谷間にどぷどぷ出ています❤おっぱいなんかに負けちゃうんですから、やはり男の人には戦いは向いてないんですね。くすくす❤,Mmm～❤ It’s leaking all on my boobs～❤ Men really are not fit for battles when they lose to something like boobs. *giggle*～❤
+勝負に負け動けなくなった僕は、シスターの前で膝をついていた。,Having lost the fight and no longer able to move; I kneeled down in front of her.
+よくわかりましたか？男の人は快楽には勝てないように出来ているのです。,Have you finally understood? Men by its very nature cannot win against pleasure.
+どれだけ戦いへの信念があったとしても、柔らかい胸で包んであげるだけで、たちまちに戦意を失ってしまうかわいらしい存在…❤それが男です。,No matter how much they believe they can fight it; men are such creatures that loses their fighting spirit once they’re enveloped by these soft boobs...❤ That’s the true nature of men.
+まあ、あなたの場合はおっぱいを使うまでもなく、勝手に自滅して射精してしまいましたが。くすくす❤,Well; in your case; I didn’t even need to use my boobs on you.\nYou threw the match and came all on your own. *giggle*～❤
+あなたもわたしの胸に顔を埋めてあげたら、手で扱くまでもなく射精してしまいましたね。自分の無力さをひしひしと感じるでしょう？,Once your face got buried in my boobs; I didn’t even need to use my hands for you to ejaculate. Surely you’re deeply aware of how powerless you are?
+あなたもわたしの胸でパイズリをされて、すぐに果ててしまいましたね。自分の無力さをひしひしと感じるでしょう？,You even came right away when I gave you a boobjob. Surely you’re deeply aware of how powerless you are?
+さて、このあとはどうしましょうか…。そうですね。神殿に連れ帰って、そこで少し教誨をいたしましょう。,Now; what to do next...\nMaybe; I’ll take you back to the church and give you a little guidance.
+大丈夫、怖いことはしません。ただ気持ちいいことをするだけです❤,Do not be scared; I’m not going to do anything to hurt you.\nIn fact; I’m only going to do pleasurable things to you❤
+そう言うとシスターはモンスターに僕を担がせて、神殿まで運んでいった。エナジーを奪われて体に力が入らない僕は抵抗もできず、街の人の視線に恥ずかしい思いをしながら、神殿内の一室に運び込まれた。,As the nun said those words; her monster carried me on her shoulders to the church. With my mana stolen and unable to resist; I was carried to a room inside of the church; all the while feeling embarassed by the stares of people in the city.
+さて、今からするのは大事な教誨です❤わたしの体を通してあなたの体に教えの素晴らしさを伝えてさしあげましょう。,Alright; now let’s begin our all-important guidance～❤\nI’ll teach your body the wonders of our faith through my own body.
+大丈夫。怖くないですよ。カードバトル後の残虐な行為は街の法で禁じられています。わたしがするのは残虐さとは真逆の行為です…❤,Acts of cruelty after a card battle is forbidden by law so there’s nothing to be scared about.\nIn fact; what I will be doing to you is the exact opposite...❤
+さあ、天国を味わってください❤,Let us begin; I’ll let you taste heaven～❤
+はひぃっ、あっ、ああっ…❤,Hahiee; ahhh...❤
+うふふ❤まだ顔をおっぱいで挟んであげただけ、それなのにとても可愛い声を出しますね❤,Ufufu～❤ I’m just putting your face between my boobs and you’re already letting out such cute moans.❤
+さきほどもわたしの胸に見とれてオナニーして負けてしまったんですものね。おっぱい好きなんでしょう？くすくす❤,Even earlier; you lost by jerking yourself off to my boobs.\nYou really love boobs; don’t you? *giggle*～❤
+さきほどもぱふぱふだけでイかされたようなあなたですからね…❤この感触たまりませんか？さっきの射精の気持ちよさ、思い出してしまいますね。くすくす❤,Even earlier; you came from having boobs pressed on your face...❤ Irresistable; isn’t it? You can’t help but remember how pleasurable it was. *giggle*～❤
+移動の間、少しずつ収まっていた勃起も、あっという間に元に戻ってしまいました。わたしのふとももに固いのが当たっていますよ。,You were getting softer back then but you immediately got hard again when I did that to you. I could even feel something hard hitting my thighs.
+あら？さっきと同じどころか、さらに固く大きくなっているみたい…❤女に上に乗られて弄ばれているのに…。くすくす❤そういう性癖みたいですね❤,Oh? You’re actually even harder now than earlier...❤ Even though a women is riding and playing with you... *giggle*～❤ So you’re into that～?❤
+知ってます？女に上に乗られて喜ぶ人のことをマゾって言うんですよ❤わたしたちの教えにとってマゾの人はとても相性がいいんです…❤,Did you know? Men who likes being mounted by a women like this are called “Masochists”～❤ And masochists are perfect for our faith...❤
+だって、そうでしょう？マゾの人はこうやって上から無理やりおっぱいを押しつけてあげるだけで、簡単にメロメロになってしまいますから…❤,But that should be obvious; no? After all; masochists easily gets infatuated when someone gets on top of them like this and one-sidedly pushes their boobs on them...❤
+はひぃっ…❤あっ、あっぁ…❤気持ちいいぃ❤,Hahiee...❤ Ahh; ahh...❤ So good～❤
+うふふ❤天国のようですか？女の胸に溺れるのは気持ちいいですよねえ❤,Fufu～❤ Heavenly; isn’t it? Drowning in a girl’s boobs feels good; doesn’t it～?❤
+"男が戦う必要はない、すべてを女に委ねるべきだ"、その教えの素晴らしさが深く身に染みてくるでしょう？特に、マゾなあなたには。くすくす❤,“Men does not need to fight and entrust everything to women instead.”; that wonderful doctrine resonates with you deep inside of your body; no?\nEspecially when you; yourself; are a masochist. *giggle*～❤
+上に乗られてぱふぱふされているだけなのに、心はどろどろ❤気持ちよくて気持ちよくて頭の中が溶けそう❤,Your heart’s turning into a mush despite having a woman mounted on top of you and pressing her boobs～❤ You’ll keep feeling pleasure and pleasure; until you find yourself in bliss～❤
+女に屈服したいんですよね❤あなたの本性がそれを望んでいるんですよね❤ほら、おちんちんの方にもしっかり快楽を与えてあげます。体を上下に動かしてっと…❤,I know that you want to submit yourself to a women～❤ Deep down; that is what you truly desire～❤ Here; I’ll also pleasure your dick by moving my body up and down...❤
+あふぁ❤なにこれぇ、あへぇ…❤,Awhh～❤ What is this; ahiee...❤
+ふふふ❤あなたのおちんちん、どこかに挿れてしまいました。ぎゅって包み込まれて気持ちいいですか？,Fufu～❤ I wonder where your dick went into. Does it feel good when I squeeze it tightly?
+エッチの経験が少ないあなたには今何されているかよく分からないでしょう？太ももでしごいているのか、それともわたしのナカに入れられているのか…❤,I wonder if someone without any sexual experience like you would figure it out～? Whether you’re being rubbed by my thighs; or whether you’re actually inside of me...❤
+もしかして童貞卒業かもしれませんね。ほら、おっぱいに埋もれながらたくさん妄想していいですよ…❤くすくす❤,Maybe you’re actually losing your virginity right now? Come on; imagine it as you get buried by my boobs～❤ *giggle*～❤
+きもちいいよぉ…❤あったかくてぇ…❤あうう、もうだめぇ…❤,It feels too good...❤ So warm...❤ Ahhhh; no more...❤
+はいはい。どうぞ負けちゃってください❤射精と同時に、女の子に負ける気持ちよさをたくさん体にしみこませてくださいね❤,Alright; alright. Go ahead and lose～❤ Soak in the pleasure of losing to a woman as you cum～❤
+わたしの体温に包まれながら、わたしに深く深く屈服するんです。とっても気持ちいいですよ❤ほら、腰を上下に激しくぐちゅぐちゅ動かします❤,You’ll find yourself submitting to me deep inside of your body as you are embraced by my warmth. It’ll feel really good～❤ Here; I’ll move my hips even faster～❤
+あうっ…❤あっ…❤ああっ…❤で、出るぅ…❤,Hauu...❤ Ahh...❤ Aahhh...❤ C-Cumming...❤
+んふふ、熱いのがドクンドクンって…。こぼれちゃいそうです❤,Fufu; so hot and slimy... It’s even spilling out of me～❤
+どうでしたか？女に負けて幸せになれましたか❤くすくす❤,So; how was it? Did you find yourself happy losing to a woman?❤ *giggle*～❤
+さてと、それじゃ解放してあげますね。あんまりエナジーをいただいてはかわいそうですから。,Well then; it’s time for me to release you. It’d be “bad” if I were to take your mana any further than this.
+あっ…❤ううっ…❤おわりっ…？も、もっとぉ…❤,Ahh...❤ Uuuu...❤ Over...? I-I want more...❤
+くすくす❤うわごとでおねだりしちゃってますね❤そんなによかったのですか？,*giggle*～❤ Even in your delirious state; you’re still begging for more～❤ Did it really feel that good?
+もちろん、"かわいそう"というのはあなたたちの価値観から考えた評価です。わたしたちの教えに基づけばこれ以上の性交も、"かわいそう"ではありません。,Naturally when I said “bad”; that’s based upon your own values. According to our beliefs; it would actually be “good” to have even more sexual activities.
+カードマスターから戦う力である魔力を奪っても、それはむしろ"素晴らしいこと"。なぜなら男の人を戦いから遠ざけ、守ってあげているのですから。,Our faith believes that sexual activities taking away mana from cardmasters are actually “a wonderful thing”. That is because it’ll keep men further away from being able to fight; and thus protecting them at the same time.
+さて、どうしますか？あなたはわたしたちの教えに帰依しますか？もし帰依するのであれば、このまま続きをいたしましょう。,So; which will it be? Will you become a convert?\nIf you choose to become one; then I shall continue to pleasure you.
+さっきから切なげに震えているあなたのペニスは、もう答えが決まっているようですけれど。くすくす❤,But I think I know what your answer would be since your dick has been shivering all this time. *giggle*～❤
+冒険をあきらめますか？,Give up on your adventure?
+あきらめる,Give up.
+あきらめない,Don’t give up.
+彼女に負けたあと、彼女の提案を断ることができなかった僕は、彼女に更なる行為を望んでしまった。その結果、翌朝になるまで延々と彼女に"愛"を与えられ、すっかり彼女から離れられない体になってしまった。,After losing to her; I couldn’t resist her offer and wanted to be pleasured by her even more. I kept receiving her “love” even after morning came and as a result; I couldn’t imagine being without her anymore.
+少しでも長く彼女と触れあいたい…。一時でも離れていると、心が満たされない…。それほどに彼女に依存してしまった僕は、もう戦いの道を選ぶことができなかった。,I want to stay with her for even a little longer...\nI feel so hollow when I’m separated from her for even an hour...\nI’ve become so reliant on her that I couldn’t continue fighting anymore.
+ただ彼女に会うために神殿への寄付金を稼ぎ、時間を浪費していくだけの日々。,In order to meet with her; my days are spent making donations to the church and idly passing time .
+うふふ、わたしに包まれるの、幸せですか…❤,Ufufu; aren’t you happy to finally be embraced by me...?❤
+あなたが貯めた魔力とお金は、ちゃんとわたしたちの役に立ってますよ。こうして愛を感じるために、よく頑張っていますね❤,The mana and money you’ve saved up has been very useful for us.\nYou’ve worked very hard to be able to feel our love like this～❤
+あなたがするべきことは戦いではなく、勤労と奉仕です。それがあなたに幸福をもたらすのです。,What you should be doing is not to fight; but to work earnestly and to selflessly devote yourself instead. That is what will truly bring you happiness.
+わたしと初めて出会ったときのギラギラとした目、戦いへの意志…、全部なくなってしまいましたね❤今では蕩けた表情でかわいい声をあげている❤,When we first met; you had an unwavering eye filled with strong determination... and now it’s all gone～❤ Instead; you’re making cute sounds with that blissful expression～❤
+悲しいですか？むしろうれしいですよね。あなたはそう、救われたのです❤,Are you feeling regret? Far from it; aren’t you actually happy?\nYou have found salvation; after all～❤
+さあ今日もたくさん愛を与えてあげましょう❤愛をその身に受けて、たくさんの感謝を抱きなさい。くすくす❤,I’ll be giving you lots of love now～❤\nDo not forget to be grateful when you receive “love”. *giggle*～❤
+はひぃっ…❤シスター様ぁ…❤❤,Hahieee...❤ Yes; Sister...❤❤
+妹のために強くなるという目的も忘れ、ただただシスターに甘えるだけで時間が過ぎていく…。この退廃から抜け出すことはもうないのだろう。,I’ve forgotten about becoming stronger to find my sister and spent my days being pampered by Sister instead... There is probably no escaping this indulgence anymore.
+こうして僕の物語はむなしくその幕を閉じたのだった。,And thus the curtain closes on my story.
