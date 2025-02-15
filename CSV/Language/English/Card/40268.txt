@@ -1,2 +1,3 @@
 default
 鍛冶師の金床,Smithing Master's Anvil
+[1].自分フィールド上の「スミス」モンスターが効果を発動したとき発動する。その効果対象のモンスターの攻撃力を500ポイントアップする。\n,[1]. When a “Smith” monster on your field activates their effect; increase the attack power of the targeted monster by 500 points.

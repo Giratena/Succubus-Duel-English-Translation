@@ -132,6 +132,7 @@ Claw,
 通常魔法,Spell
 永続魔法,Continuous Spell
 罠,Trap
+永続罠,Continuous Trap
 装備,Equipment
 ド口ー,Draw
 //These strings don't appear to work:
