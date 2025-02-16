@@ -5,10 +5,10 @@ default
 主人公の見た目が決定されました。この内容はいつでもオプションで変更できます。,The player's appearance has been set. You can change this at any time in the options.
 僕はこの村でカードの修行をしていた。,For many years; I've been in this village training in the art of cards.
 師匠のもと、毎日バトルに明け暮れる日々...,Under the guidance of my master; I've been battling day after day...
-これまで大変な思いは何回もしたけれど、,I've undergone countless ordeals under her tutelage...
+これまで大変な思いは何回もしたけれど、,I've undergone countless ordeals under her tutelage.
 今日はついに、町へ行くための試験の日だった！,But today is finally the day I can take the exam that will let me visit other cities!
-よおし、それじゃどれぐらいうまくカードが使えるようになったか、見てあげる。,Alright! Very well then. Let's see just how well you've learned to use your cards.
-わたしのこの練習デッキに勝てれば、町に行ってもオッケー。弱いままで外に出たら、モンスターに襲われるかもしれないからね。,You might get attacked by monsters upon leaving this village if you aren't strong enough. But if you can beat my practice deck; then I don't have any problems letting you go to the big city! 
+よおし、それじゃどれぐらいうまくカードが使えるようになったか、見てあげる。,Alright! Are you ready? Let's see how well you've learned to use your cards.
+わたしのこの練習デッキに勝てれば、町に行ってもオッケー。弱いままで外に出たら、モンスターに襲われるかもしれないからね。,If you aren't strong enough; you might get attacked by monsters when you leave the village. But if you can beat my practice deck; then I won't have any problems letting you go to the big city! 
 わたしに勝てるぐらいの実力を見せてみて。いくよ！,Show me what you can do by beating me. Here we go!
 負けないぞ！,I won't lose!
 絶対勝ってやる！,I'll win no matter what!
@@ -34,7 +34,7 @@ default
 しびれなさい！{使用カード}発動！,Become numb! {使用カード} activate! 
 もう一発いくわ。{使用カード}発動！,Let's do that again! {使用カード} activate!  
 魔法カード発動！{使用カード}！デッキから地属性のモンスターをランダムに手札に加えるわ。,I activate the spell card {使用カード}! It randomly adds one Earth Attribute monster from my deck to my hand.
-毒をくらいなさい。魔法カード発動！{使用カード}!,Succumb to poison! {使用カード} activate!    
+毒をくらいなさい。魔法カード発動！{使用カード}！,Succumb to poison! {使用カード} activate!    
 魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
 トラップカード発動！{使用カード}！,Trap card activate! {使用カード}!
 チュートリアル４：魔法,Tutorial 4: Spell Cards
@@ -47,4 +47,4 @@ default
 ターン終了よ。, I end my turn.
 ターンエンド。,End turn.
 わたしのターンはおしまい。ターンエンド。,End turn.
-攻撃を無効にするトラップね。うまく使えているじゃない。,A trap that negates attacks huh? Aren't you using your cards well!
+攻撃を無効にするトラップね。うまく使えているじゃない。,A trap that negates attacks; huh? Aren't you using your cards well!

@@ -4,9 +4,9 @@ default
 リーフさんという方に会いに来ました。,I came to see someone called Leaf.
 ああ。あなたがコノハさんのお弟子さんですね。,Ah. You're Konoha's student; aren't you?
 あいにくギルドマスターのリーフは外出中ですが、\n言伝を受けております。,Unfortunately; Guild Master Leaf is out; but she has received word of your coming.
-「南の村の守護者コノハが、\n若いけれど優秀な弟子をギルドに向かわせる」\nとのことでしたが…。,She recieved a message saying, "Konoha; the protector of the southern village; will be sending a young but talented apprentice to the guild;".
-ふふ、確かになかなかの魔力ですね。\nあなたの才能がこれから伸びていくのが楽しみです。,Fufu; you certainly have some impressive magical power.\nI look forward to seeing your talent develop even further.
-さて、手紙の内容によれば、\nギルドへの登録を希望されているんですよね？,Now; according to the contents of the letter;\n you wish to register with the guild; right?
+「南の村の守護者コノハが、\n若いけれど優秀な弟子をギルドに向かわせる」\nとのことでしたが…。,She recieved a message saying; "Konoha; the protector of the southern village; will be sending a young but talented apprentice to the guild;".
+ふふ、確かになかなかの魔力ですね。\nあなたの才能がこれから伸びていくのが楽しみです。,Fufu; you certainly have some impressive magical power. I look forward to seeing your talent develop even further.
+さて、手紙の内容によれば、\nギルドへの登録を希望されているんですよね？,Now; according to the contents of the letter; you wish to register with the guild; right?
 今回は守護者資格のあるカードマスターからの推薦ですので、\n入会審査はなしで大丈夫です。,Since you have a recommendation from a cardmaster who has guardian qualifications; there is no need for an entrance examination.
 さっそく書類に必要事項をお書きください。,Please fill out the necessary information on this form.
 書き終わりましたか？ありがとうございます。,Are you done? Thank you!

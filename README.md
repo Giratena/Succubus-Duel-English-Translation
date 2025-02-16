@@ -20,6 +20,9 @@ This is a translation project for Succubus Duel, a card game featuring many succ
  - Support my work on Patreon! https://www.patreon.com/Giratena
  - Join the Translation Server discord for wholesome translation help and updates! https://discord.gg/fYPg7KX
 
+# Full Save with all Player Cards Unlocked:
+- You can get a full save with all the player cards unlocked [here](https://github.com/user-attachments/files/17883068/save0.txt)
+
 # Special Translation information
 ## General
 ### Punctuation

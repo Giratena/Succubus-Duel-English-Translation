@@ -1,209 +1,209 @@
-default
+default,
 キノコレディ,Mushroom Lady
-[1].このカードがフィールド上に存在する限り、攻撃力が低下している相手モンスターは反撃できない。\n[2].相手モンスターの攻撃力が低下している場合、追加攻撃を行う。,
-キノコで体ができたモンスター娘。豊満な胸で相手を抱き寄せている隙に、上から胞子をふりかけ、その力を奪う。胸の谷間からは獲物を逃がさないために蕩けるような甘い匂いがするのだという。,
+[1].このカードがフィールド上に存在する限り、攻撃力が低下している相手モンスターは反撃できない。\n[2].相手モンスターの攻撃力が低下している場合、追加攻撃を行う。,[1]. As long as this card remains on the field; opponent monsters with reduced ATK cannot counterattack.\n[2]. If an opponent's monster has reduced ATK; this card performs an additional attack during combat.
+キノコで体ができたモンスター娘。豊満な胸で相手を抱き寄せている隙に、上から胞子をふりかけ、その力を奪う。胸の谷間からは獲物を逃がさないために蕩けるような甘い匂いがするのだという。,A mushroom-bodied monster girl. She ensnares foes with her voluptuous breasts; showering them with spores from above to drain their strength while they're distracted. It is said a decadently sweet aroma wafts from between her breasts; ensuring no prey escapes her grasp.
 EU32_pafupafuAnime,
-うふふ❤もう力が入らないんですよね？それじゃあとどめをさしてあげます❤,
-わたしのおっぱいに埋もれて、幸せに負けちゃってください❤,
-はい、終わりですね❤ぱふぱふ❤ぱふぱふ❤むぎゅー❤,
-あら、逃げ出せるだなんて、びっくりです。,
-でも、そんなふにゃふにゃの体でどうするんですか？わたしにイかせてもらったほうが、いいと思いますよ。ふふふ❤,
-あん、残念、逃げ出してしまいました。,
-わたしの幸せハグで射精すればよかったのに。絶対そっちのほうが気持ちよかったと思いますよ？くすくす❤,
-もうすぐイキそうなんですか？いいですよ❤出してください❤,
-ぱふぱふされるたびに腰がガクガクしちゃってますね❤うふふ❤,
-体中が気持ちよすぎて、何も考えられないでしょ❤,
-あん、おちんちんが今にも射精しそう❤ほらほら、ぱふぱふ❤ぱふぱふ❤,
-逃げなくていいんです❤イっちゃってください❤,
-そろそろ限界みたい❤幸せに果てさせてあげますね❤,
-おっぱいの中で幸せそうな顔❤頭真っ白で負けちゃいそうですか❤,
-我慢できないんですよね？もう射精しちゃうんですよね？,
-あは、抵抗やめちゃいました❤素直でいい子ですよ❤,
-ぱふぱふされて力が出ませんか？くすくす❤,
-わたしのおっぱいに自分から甘えちゃってますね❤かわいい❤,
-逃げるのをあきらめて、ぱふぱふされるがまま❤いい子❤いい子❤,
-ぱふぱふ❤ぱふぱふ❤たくさんしてあげますよ❤,
-おっぱいで顔をつぶされるの、完全に癖になっちゃいましたね❤,
-無理やりおっぱいに顔をおしつけられて、メロメロになっちゃったんですか？よわーい❤,
-うふふ❤おっぱいにおぼれるの気持ちいいですねー❤,
-全然暴れなくなっちゃった❤敵の女の子のおっぱいに完全屈服ですね❤,
-おっぱいに顔を押し付けて、むぎゅむぎゅー❤,
-ほおら、ぱふぱふ❤ぱふぱふ❤,
-おっぱいで顔をつぶしてあげますね❤たっぷりメロメロになってください❤,
-もう負けちゃいましょう？わたしのおっぱいには勝てないんです❤,
-抵抗しないで❤ぱふぱふでいっぱい気持ちよくなって❤,
-夢心地ですよね❤ぱふぱふ❤むぎゅむぎゅ❤,
-おっぱいの甘い匂いで脳みそトリップさせてあげます❤,
-谷間で深呼吸して…❤ほら、すぅー❤,
-戦いはもう終わりです❤わたしのおっぱいに負けちゃいましょう❤,
-どうせわたしよりも弱い力しかないんです。あなたが負けても大丈夫ですよ❤,
-ぱふぱふ❤ぱふぱふ❤おちんちん、我慢できますか？くすくす❤,
-はーい、こっちへおいでー❤\nお胸でお顔を挟んであげますねー❤,
-いやなこと全部忘れて、\nたっぷりわたしのおっぱいにおぼれてください。\nうふふ❤,
-ほらぁ、おねえさんの胸のところで、\nお顔をぱっふん❤捕まえちゃいましたぁ❤,
-やわらかいおっぱいに包まれて\nもう戦う気力なんてわかないですよねぇ❤\nいいんですよぉ❤ほら、ぱふぱふ❤ぱふぱふ❤,
-戦うのなんてやめておっぱいで気持ちよくなりましょう？,
-このおっぱいに飛び込んできていいんですよ。\nあなたの頭をたくさんぱふぱふ❤してあげますからねぇ❤,
-あなたのこと抱きしめちゃいます❤\nほら、ぎゅー❤\nおっぱいに顔を埋めて気持ちいいですかー？,
-あはは、おっぱいの中でふがふが言っちゃって、かわいい❤\nなに言っているのか聞こえませんよ❤,
-でも、おちんちんこんなにおっきくなっちゃっているし、\n嫌じゃないんですよね❤\n甘えるだけ甘えていいですよ❤うふふ❤,
-わたしのおっぱい大きいでしょう？これで今から挟んであげますね❤,
-戦う気満々の男の人でも、\nおっぱいにおちんちんを甘えさせてあげれば、すぐ素直になっちゃいます❤\nあなたみたいに力が抜けかかっている人ならなおさら簡単❤,
-ほら、ずりずり❤ずりずり❤\n気持ちよくて逃げられないんですよね？くすくす❤,
-わたしのおっぱい、とっても柔らかいんです。\n揉めば指が沈むし、おちんちんを挟めば逃げ場なく包み込んじゃいます❤,
-聞くだけでもう気持ちよさそうでしょう？\nパイズリしてあげますからたくさん楽しんじゃってくださいね❤,
-おっぱいを使っておちんちんに気持ちいいことしてあげます。,
-力が抜けてふにゃふにゃになっちゃったあなたを、\n腰ごと抱きかかえて、むぎゅむぎゅー❤,
-あは、腰をガクガクさせちゃってよっぽど気持ちいいんですね。\nそのまま蕩けて、イクまでじっとしていてくださいね❤くすくす❤,
-うふふ❤もうあんまり力が入らないみたいですねぇ。\n胞子に力を吸われて、体がふらふらしちゃうんですか？,
-ほら、もっといっぱい胞子をつけてあげますね。\nおっぱいで挟んで、ずりずり❤ずりずり❤幸せになっちゃってください❤,
-戦う気満々の男の人でも、\nおっぱいにおちんちんを甘えさせてあげれば、すぐ素直になっちゃいます❤\nほら、ずりずり❤ずりずり❤気持ちいいですねー❤,
-こうやってあなたの腰を抱きかかえて、むぎゅむぎゅー❤,
-あは、腰をガクガクさせちゃってよっぽど気持ちいいんですね。\nそのまま蕩けて、イクまでじっとしていてくださいね❤\nくすくす❤,
-わたしのおっぱいで戦う力を奪ってあげます❤,
-腰を持ち上げて、おちんちんをおっぱいで挟んでっと…❤\nうふふ、気持ちよくて声もれちゃいますか？,
-このまま何回もずりずりして、\n胞子をたくさん体につけてあげますからね❤\nくすくす❤,
-ふふ❤わたしに気持ちよくしてほしいのですか？,
-他の仲間を放っておいて、悪い子ですね。\n何をしてほしいか教えてください❤してあげますよ❤,
-とろふわパイズリ,
-抱きしめぱふぱふ,
+うふふ❤もう力が入らないんですよね？それじゃあとどめをさしてあげます❤,Fufu.❤ You can't muster any strength anymore; can you? Well then; I'll finish you off.❤
+わたしのおっぱいに埋もれて、幸せに負けちゃってください❤,Bury yourself in my tits and surrender to bliss~❤ Let overwhelming happiness claim you~❤
+はい、終わりですね❤ぱふぱふ❤ぱふぱふ❤むぎゅー❤,There~ All finished~❤ Puff-Puff~❤ Puff-Puff~❤ Squish~❤
+あら、逃げ出せるだなんて、びっくりです。,Oh? I'm shocked you were able to escape.
+でも、そんなふにゃふにゃの体でどうするんですか？わたしにイかせてもらったほうが、いいと思いますよ。ふふふ❤,But what can that limp; weak body of yours do? I think you'd be better off letting me make you cum. Fufufu~❤
+あん、残念、逃げ出してしまいました。,Ahn~ How disappointing. You managed to escape.
+わたしの幸せハグで射精すればよかったのに。絶対そっちのほうが気持ちよかったと思いますよ？くすくす❤,You should've just cum from my blissful embrace; you know? I bet it would've felt way better. *Giggle*❤
+もうすぐイキそうなんですか？いいですよ❤出してください❤,Are you about to cum already? Go ahead; let it all out.❤
+ぱふぱふされるたびに腰がガクガクしちゃってますね❤うふふ❤,Your hips buck every time my breasts press against your face; don't they? *Giggle*~❤
+体中が気持ちよすぎて、何も考えられないでしょ❤,Your entire body's drowning in pleasure. You can't think of a single thing; can you?❤
+あん、おちんちんが今にも射精しそう❤ほらほら、ぱふぱふ❤ぱふぱふ❤,Ahhn~ Your cock's throbbing on the edge of release.❤ Come on; come on~ Puff-Puff; Puff-Puff~❤
+逃げなくていいんです❤イっちゃってください❤,No need to struggle.❤ Just let it all out; okay?❤
+そろそろ限界みたい❤幸せに果てさせてあげますね❤,You're reaching your limit; aren't you? Let me give you a blissful climax.❤
+おっぱいの中で幸せそうな顔❤頭真っ白で負けちゃいそうですか❤,You look so blissful buried between my tits. Is your mind going blank and getting ready to surrender?❤
+我慢できないんですよね？もう射精しちゃうんですよね？,You can't hold back anymore; can you? You're about to cum; aren't you?❤
+あは、抵抗やめちゃいました❤素直でいい子ですよ❤,Aha~ You've stopped struggling. Good; obedient boy.❤
+ぱふぱふされて力が出ませんか？くすくす❤,Is pressing my breasts against your face draining your strength? *Giggle*❤
+わたしのおっぱいに自分から甘えちゃってますね❤かわいい❤,Snuggling up to my breasts all on your own? How adorable.❤
+逃げるのをあきらめて、ぱふぱふされるがまま❤いい子❤いい子❤,You're giving up on escape and letting me smother you with a Puff-Puff. Good boy~ Good boy~❤
+ぱふぱふ❤ぱふぱふ❤たくさんしてあげますよ❤,Puff-Puff~❤ Puff-Puff~❤ I'll smother you with my breasts as much as you want.❤
+おっぱいで顔をつぶされるの、完全に癖になっちゃいましたね❤,You’ve grown completely addicted to having your face smothered by my tits; haven’t you?❤
+無理やりおっぱいに顔をおしつけられて、メロメロになっちゃったんですか？よわーい❤,Is having your face forced into my breasts making you fall in love with me? So weak!~❤
+うふふ❤おっぱいにおぼれるの気持ちいいですねー❤,*Giggle*❤ Drowning in my tits feels divine; doesn’t it?❤
+全然暴れなくなっちゃった❤敵の女の子のおっぱいに完全屈服ですね❤,You’ve stopped struggling entirely.❤ You've completely surrendered to an enemy girl’s tits; haven't you?❤
+おっぱいに顔を押し付けて、むぎゅむぎゅー❤,I'll hug you tight and press your face deeper into my tits~❤
+ほおら、ぱふぱふ❤ぱふぱふ❤,Hora~❤ Puff-Puff; Puff-Puff.❤ My tits are smothering your face; rhythmically squishing against you.❤
+おっぱいで顔をつぶしてあげますね❤たっぷりメロメロになってください❤,Let me crush your face with my tits; okay?❤ Let their softness drown you until you're completely love-struck.❤
+もう負けちゃいましょう？わたしのおっぱいには勝てないんです❤,Why not surrender already? You can't win against these tits of mine.❤
+抵抗しないで❤ぱふぱふでいっぱい気持ちよくなって❤,Stop struggling~❤ Let the sensation of my Puff-Puff melt you into pure bliss.❤
+夢心地ですよね❤ぱふぱふ❤むぎゅむぎゅ❤,It feels like you're in a dream; doesn’t it?❤ Puff-Puff; squish-squish~❤
+おっぱいの甘い匂いで脳みそトリップさせてあげます❤,The sweet scent of my tits will send your brain on a euphoric trip.❤
+谷間で深呼吸して…❤ほら、すぅー❤,Inhale the scent of my cleavage…❤ Hora~ Deep breath in…❤
+戦いはもう終わりです❤わたしのおっぱいに負けちゃいましょう❤,The battle's over.❤ Just lose yourself to my tits already.❤
+どうせわたしよりも弱い力しかないんです。あなたが負けても大丈夫ですよ❤,You were never strong enough to beat me anyway. Losing to me is perfectly fine.❤
+ぱふぱふ❤ぱふぱふ❤おちんちん、我慢できますか？くすくす❤,Puff-Puff~❤ Puff-Puff~❤ Can your dick handle this? *Giggle*❤
+はーい、こっちへおいでー❤\nお胸でお顔を挟んであげますねー❤,Heeey~ Come over here; will you?❤ Let me smother your face between these soft tits of mine.❤
+いやなこと全部忘れて、\nたっぷりわたしのおっぱいにおぼれてください。\nうふふ❤,Forget all your troubles; and sink deep into the warmth of my breasts.❤ Ufufu~❤
+ほらぁ、おねえさんの胸のところで、\nお顔をぱっふん❤捕まえちゃいましたぁ❤,Horaaa~ Squish your face tight against my tits.❤ Puff-Puff!❤
+やわらかいおっぱいに包まれて\nもう戦う気力なんてわかないですよねぇ❤\nいいんですよぉ❤ほら、ぱふぱふ❤ぱふぱふ❤,Wrapped in these pillowy tits; all your fighting spirit just melts away; right?❤ That's fine~ Hora; let me smother you more. Puff-Puff~❤ Puff-Puff~❤
+戦うのなんてやめておっぱいで気持ちよくなりましょう？,Why fight when you could feel good instead? Let my tits drown you in pleasure.❤
+このおっぱいに飛び込んできていいんですよ。\nあなたの頭をたくさんぱふぱふ❤してあげますからねぇ❤,I don't mind if you dive into my tits.❤ I'll give your head a nice; long Puff-Puff massage.❤
+あなたのこと抱きしめちゃいます❤\nほら、ぎゅー❤\nおっぱいに顔を埋めて気持ちいいですかー？,I'm gonna hug you tight; okay?❤ Hora~ Squeeze!❤ Burying your face in my tits feels amazing; doesn't it?❤
+あはは、おっぱいの中でふがふが言っちゃって、かわいい❤\nなに言っているのか聞こえませんよ❤,Ahaha~ Your muffled moans between my tits is just too cute.❤ I can barely hear a thing you're saying.❤
+でも、おちんちんこんなにおっきくなっちゃっているし、\n嫌じゃないんですよね❤\n甘えるだけ甘えていいですよ❤うふふ❤,But look at how hard your cock is~ You don't mind this; do you?❤ Go ahead and play with my tits much as you want. Ufufu.❤
+わたしのおっぱい大きいでしょう？これで今から挟んであげますね❤,My tits are huge; aren't they?❤ Let me sandwich your needy cock between them right now.❤
+戦う気満々の男の人でも、\nおっぱいにおちんちんを甘えさせてあげれば、すぐ素直になっちゃいます❤\nあなたみたいに力が抜けかかっている人ならなおさら簡単❤,Even battle-hardened men turn docile once I let their cocks nestle between my tits.❤ Someone like you who's busy enjoying himself will be done for in seconds.❤
+ほら、ずりずり❤ずりずり❤\n気持ちよくて逃げられないんですよね？くすくす❤,Hora; rub-rub~❤ Rub-rub~❤ It feels so good you can't escape; right? *Giggle*❤
+わたしのおっぱい、とっても柔らかいんです。\n揉めば指が沈むし、おちんちんを挟めば逃げ場なく包み込んじゃいます❤,My tits are very soft; you know. Squeeze them and your fingers will sink right in. Once I trap your cock between them; there's no escape~❤
+聞くだけでもう気持ちよさそうでしょう？\nパイズリしてあげますからたくさん楽しんじゃってくださいね❤,Just hearing about it makes you hard; doesn't it? I'll give you a titty-fuck so good you wont be able think of anything else. Enjoy every second; okay?❤
+おっぱいを使っておちんちんに気持ちいいことしてあげます。,I'm going to smother your dick between my tits and make you feel amazing.
+力が抜けてふにゃふにゃになっちゃったあなたを、\n腰ごと抱きかかえて、むぎゅむぎゅー❤,You've gone all limp; so I'll scoop you up by your hips and smoosh you against me in a tight; smothering embrace~❤
+あは、腰をガクガクさせちゃってよっぽど気持ちいいんですね。\nそのまま蕩けて、イクまでじっとしていてくださいね❤くすくす❤,Aha~ Your hips are trembling like crazy. You must be feeling good. Stay just like that until you cum; okay? *Giggle*❤
+うふふ❤もうあんまり力が入らないみたいですねぇ。\n胞子に力を吸われて、体がふらふらしちゃうんですか？,Ufufu~ You can't even hold yourself up anymore; can you? Did my spores drain all your strength and leave your body weak and shaky?❤
+ほら、もっといっぱい胞子をつけてあげますね。\nおっぱいで挟んで、ずりずり❤ずりずり❤幸せになっちゃってください❤,Here; let me coat you with even more spores. I'll sandwich your cock between my tits and grind them against you; rubbing; teasing... Let bliss overwhelm you~❤
+戦う気満々の男の人でも、\nおっぱいにおちんちんを甘えさせてあげれば、すぐ素直になっちゃいます❤\nほら、ずりずり❤ずりずり❤気持ちいいですねー❤,Even battle-hardened men turn obedient once I pamper their cocks with my tits. Hora~ Feel them sliding up and down your shaft; grinding; squeezing... Doesn't it feel divine?❤
+こうやってあなたの腰を抱きかかえて、むぎゅむぎゅー❤,I'll treat you to my squishy embrace by wrapping my arms around your waist like this.❤
+あは、腰をガクガクさせちゃってよっぽど気持ちいいんですね。\nそのまま蕩けて、イクまでじっとしていてくださいね❤\nくすくす❤,Aha~ Your hips are trembling so cutely. That must mean it feels amazing; right? Just melt into pleasure and stay still until you cum; okay? *Giggle*❤
+わたしのおっぱいで戦う力を奪ってあげます❤,I'll sap all your fighting spirit with these soft; pillowy breasts of mine.❤
+腰を持ち上げて、おちんちんをおっぱいで挟んでっと…❤\nうふふ、気持ちよくて声もれちゃいますか？,Lifting your hips up... sandwiching your cock between my tits…❤ Ufufu~ Does it feel so good that you can't hold back your moans?
+このまま何回もずりずりして、\n胞子をたくさん体につけてあげますからね❤\nくすくす❤,By grinding against each other like this over and over; I'll coat your body with my aphrodisiac spores. *Giggle*❤
+ふふ❤わたしに気持ちよくしてほしいのですか？,Fufu~❤ You want me to make you feel good; don't you?
+他の仲間を放っておいて、悪い子ですね。\n何をしてほしいか教えてください❤してあげますよ❤,Leaving your companions behind to play with me? How naughty. Tell me what depraved things you want me to do~❤ I'll be happy to oblige.❤
+とろふわパイズリ,Melty-Soft Paizuri
+抱きしめぱふぱふ,Hugging Puff-Puff
 なんでも,You decide
-おっぱいで挟んでほしいんですか？\nうふふ❤甘えん坊のおちんちんですね❤,
-おっぱいに顔を埋めたいんですか？\nくすくす❤ぎゅってしながら甘やかしてあげますね❤,
-あん❤谷間がどろどろ❤\nずりずりされて気持ちよく出しちゃいましたね❤\nうふふ❤,
-んふふ❤びくんびくんってしちゃってる❤\nおっぱいに顔を挟まれただけで、\nびゅくびゅく出しちゃいましたね❤,
-仲間を裏切っておっぱいに甘えるのは気持ちよかったですか？\nくす❤へんたいさん❤,
-あらら？おちんちんを握ってどうしちゃったんですか？,
-うぅぅ・・・。,
-うふふ、わたしのおっぱいに見惚れて我慢できませんでしたか？\n戦闘中なのにいけない子ですね❤,
-それじゃあ、ご要望どおり、\nあなたのエナジーを搾り取ってあげます❤\nこうやって両手でおっぱいを持ち上げて・・・❤,
-むにむに❤むにゅむにゅ❤\nわたしの手のなかで形を変えるやわらかぁーいおっぱい❤\n見てたらシコシコ止まらなくなっちゃいますね❤,
-指で押すとどれだけやわらかいかよぉくわかるでしょう？\nここにおちんちんを挟んだら、\n先っぽから根元まで全部包まれるんですよ・・・❤,
-余すことなくおっぱいに捕まえられて、\nそのままずりずり❤ぱふぱふ❤\nふふ、たまらないですよね。,
-うぁ、ううっ・・・❤,
-あは、おっぱいのこと以外考えられなくなっちゃいましたか？,
-それじゃあ、命令です。\nわたしがおっぱいに指を沈める度に、\n一回しこしこしてくださいね。,
-むにゅむにゅ❤しこしこ❤,
-はうぅ・・・、きもちぃぃ・・・❤,
-気持ちいいですね❤\nやわらかに形を変えるおっぱいを見ながら、しこしこオナニー❤,
-ほら、もう一度。\nむにゅむにゅ❤しこしこ❤,
-あっ、ああっ、もうっ・・・❤,
-くすくす❤もうイっちゃいそうですか？\nおっぱいでオナニーしていたら全然我慢できませんでしたね。,
-最後におもいっきりおっぱいを抱きしめてあげます。\n自分のおちんちんが抱きしめられるところを想像して、\nイっちゃってください❤,
-いきますよぉーーー❤,
-むぎゅーーーーーー❤❤❤,
-あひぃっ・・・❤すごいよぉ・・・❤,
-うふふ❤ おっぱいがまっしろ❤,
-おっぱいを見ながらシコシコ自滅オナニー最高でしたか？\nあなたがくれたエナジーありがたく吸収させてもらいます❤,
-あら❤あなたもおっぱい見ながらオナニー始めちゃったんですか❤,
-そうですよね、他の仲間だけ\nわたしのおっぱいを堪能できるのはずるいですもんね。,
-自分も気持ちよくなりたい…❤\nサキュバスとの戦いでそう考えたらもう終わりです❤\nおちんちんシコシコすること以外頭からなくなっちゃいます❤,
-ほら、ご要望どおり、\nあなたのエナジーも搾り取ってあげますね❤\n両手でおっぱいを持ち上げて・・・❤,
-むにむに❤むにゅむにゅ❤\nわたしの手のなかで形を変えるやわらかぁーいおっぱい❤\n見てたらシコシコとっても気持ちよくなっちゃいます❤,
-あぁ、おっぱいぃ・・・❤,
-あは、あなたも立派なおっぱい中毒です❤,
-それじゃあ命令です。\nわたしがおっぱいに指を沈める度に、一回しこしこしてくださいね。,
-気持ちいいですね❤\nやわらかに形を変えるおっぱいを見ながらしこしこオナニー❤,
-あなたも全然我慢できないんでしょう？\nおちんちんがひくひく震えちゃってます❤,
-最後におもいっきりおっぱいを抱きしめますので\n自分のおちんちんが抱きしめられるところを想像してイっちゃってください❤,
-おっぱい、おっぱいぃぃ❤❤❤,
-うぅ、まずいですね,
-わたしを倒す前にわたしのおっぱいをもっと味わってみませんか？,
-見てください、わたしの指がこんなに沈み込むぐらい柔らかいおっぱいですよ？,
-倒すのを少し待ってくれたら、この柔らかなおっぱいでお顔を包み込んであげますよ❤,
-ですからじっとしといてくださいね❤,
-攻撃する,
-攻撃しない,
-おっぱい気持ちいいのに.......,
-うふふ❤攻撃できないみたいですね❤,
-それでは、お顔をおっぱいで抱きしめてあげますね❤,
-はいむぎゅーーー❤,
-うむぅうううっーーーーーー❤❤❤,
-柔らかおっぱいにお顔包まれて気持ちいいですねｰー❤,
-おっぱいを両手で抱きしめてぇ❤,
-ぱふぱふ❤ぱふぱふ❤,
-うぁへぇぇえ❤❤❤,
-おっぱいに包まれてお顔は見えませんが蕩けている顔している事は分かりますよ。,
-少し休憩しましょうか、おっぱいの隙間を少し開けてあげますから深呼吸してくださいね。,
-はーい❤吸ってーー❤,
-んんーー❤❤❤,
-あらら、おっぱいの谷間に溜まったあまぁーい❤フェロモン吸い込んじゃいましたね❤,
-ではまだ深呼吸続けましょうか❤,
-吸ってーー❤,
-吸ってーーー❤,
-もーーーーっと、吸ってーー❤,
-あへぁ・・・❤,
-くすくす❤触れられていないのにフェロモンだけで漏らしてしまいましたね。,
-いただいたエナジーのおかげで体力も回復です❤さあ、次にお顔を挟まれたい方は誰ですか？うふふ❤,
-うふふ、ダメじゃないですか、自分からしごいて負けちゃうだなんて…❤\nわたしのおっぱい、あなたのエナジーで\nこんなにドロドロになっちゃいました❤,
-パイズリされて我慢できませんでしたね❤おっぱいに腰砕けにされるの、いかがでしたか❤うふふふ❤,
-ぱふぱふされて情けなくおもらし❤こんな刺激でイっちゃうなんて、おちんちんの栓が緩すぎなんじゃないですか？くすくす❤,
-サキュバスの少女が使う女性モンスターに敗れた僕は、エナジーを奪われた影響で立てなくなり、森の地面に倒れ込んでいた。,
-くぅ・・・。,
-うふふ、簡単にわたしのおっぱいに屈しちゃいましたね❤,
-やわらかいおっぱいを見ながらオナニー、気持ちよかったですか❤,
-気持ちいいに決まっていますよね、あなたのオナニーしている顔、\nすごく惚けていましたよ❤,
-やわらかおっぱいにおちんちんぱふぱふされて気持ちよさそうでしたね❤,
-あなたの我慢の限界の時にぎゅーーー❤っておっぱいでおちんちんを潰してあげたら、どぴゅどぴゅーーって噴水みたいに精液噴き出しちゃいましたね❤,
-やわらかおっぱいにお顔を挟み込まれるのはいかがでしたか❤,
-はちみつとミルクをまぜた頭が蕩けるおっぱいの匂いを体に染み込ませて垂れ流す射精は忘れられませんよね❤,
-うう・・・❤,
-少しエナジーはいただきましたけれど、\nこれだけではぜんぜん足りません❤,
-ですからもっとあなたのエナジー、頂いていいですか？,
-そ、それは、だ、・・・・。,
-ん？何か言いました？,
-あうう、おっぱいぃ・・・❤,
-あは、ちょっと胸を強調してあげれば、\n簡単に脳みそトロトロになっちゃいますね❤,
-いいんですよ。\nサキュバスの使うモンスターに負けるって、そういうことですから。,
-人間が使うモンスターより、男から奪うエナジーが大きい・・・。\nそのうえイったあとの魅了の強さも段違いなんです❤,
-そのまま頭の中トロトロにしちゃっていて下さい❤\n一生おっぱいのことしか考えられなくなるぐらい\n気持ちよくしてあげますからね❤,
-キノコレディは地面に倒れている僕を抱え上げて、その豊満でやわらかいおっぱいの間に包み込むように抱きしめた。,
-はーい、桃源郷にようこそ❤,
-やわかなおっぱいに包まれてエナジーおもらししましょうね❤,
-あぁこの匂い・・・❤,
-そうです❤あなたがだーい好きなおっぱいの匂いですよー❤,
-おっぱいの間に溜まったあまぁーいフェロモン、\n体いっぱいに吸い込みましょうか❤,
-はい、吸ってーーー❤,
-うはぁ❤❤❤,
-甘い匂いに脳が犯されて・・・。\nふふ❤肺から体中が全部熱くなっちゃいますね❤\nって、あら・・・？,
-くすくす❤\nおっぱいフェロモンを吸い込んだだけで精液出ちゃったんですか？,
-おちんちん触れられていないのに匂いだけでおもらしするなんて…❤\n恥ずかしい負け方ですね❤\n向こうで戦っているあなたの仲間に顔向けできなくなっちゃいますよ？,
-まあ、わたしのマスターが加勢に行きましたので、\nどうせあちらのマスターもすぐに負けてしまうでしょうけど。,
-う、ううっ、エルルさん…。助けなきゃ…❤くうう…❤,
-あら、まだ理性が残っているんですか。\n意外と頑張るんですね❤,
-でも、手には全然力が入っていません。\nこの胸の中から逃げ出したくないって、\n心の奥底では望んでしまっているんです。だから、ほら・・・❤,
-あまい、あまーい快楽に、脳みその芯まで溺れてしまいましょう？\nぱふぱふ❤ぱふぱふ❤,
-うむぅううう❤❤❤,
-うふふ❤しあわせそうな声❤\nおっぱいにあなたの声の振動が伝わってきます。,
-さっきはフェロモンを吸うだけで射精しちゃったぐらいですからね。\nこんな風におっぱいで顔をかわいがられたら、\n頭の中とろけてしまうでしょう？,
-おちんちんも射精したばかりなのにすっかりガチガチ❤\n無意識かもしれませんが、ヘコヘコ、ヘコヘコ、\nわたしの体に擦りつけちゃっています❤,
-わかってますか？\nあなたが動かさないといけないのは仲間を助けるための足ですよ。\nおちんちんじゃありませんよ？くすくす❤,
-あう、あへぇ、あっ、ああっ❤❤❤,
-そんなこと言われても、止まらないんですよね❤\n腰を振るたびにビリビリって快感が体中を走って、頭の中は\nおっぱいのやわらかさと匂いでいっぱいで、もう天国ですもんね❤,
-さあ、さあ、それじゃあエナジーを出してしまいましょう？\nあちらで戦っている仲間のことなんて忘れて、\n気持ちいいお貢ぎ射精をするんです❤,
-悪い魔物にエナジー出して、おちんちんからびゅっ、びゅーっておもらし❤\nきっと事態はもっと悪くなってしまうと思いますけど、別にいいですよね❤,
-だって、おちんちんは死んじゃうぐらいに気持ちいいんですもん❤\n男の子にはそれが一番大事でしょう？,
-ほら、イく瞬間におっぱいでぎゅーって抱きしめてあげます❤\nあなたもそれに合わせて深く腰を振るんですよ？\nさん、はい・・・。ぎゅーーーーーー❤,
-あひぃいっ・・・❤❤❤,
-どうでした？強く抱きしめられながらの射精・・・❤\n全身が溶けるみたいに気持ちよかったでしょう？,
-それにしても、あなたの精液はとてもおいしいですね。\nおっぱいでふにゃふにゃになって、こんなに弱いのに、エナジーは上質❤\nなんて素晴らしいのでしょうか。,
-そうだ。わたしのマスターに頼んで、\nあなたを隠れ家に運んでもらいましょう。\nそこでたまに召喚してもらってあなたの精をもらえばいいですね❤,
-あなたも干からびるよりはわたしの苗床になりたいですよね？\nほら、そう思うなら、ぎゅっとわたしに抱き着いてください。,
-エナジーを奪われて歩けないでしょうから、\n抱きかかえるところまではやってあげます。よいしょっと・・・❤,
-はうぅ・・・❤❤❤おっぱいきもちいいよぉ・・・❤,
-あは、抱き上げた瞬間にわたしの体にすがっちゃいましたね。\nおっぱいから少し離れていただけなのに、そんなに恋しかったですか？,
-かわいい❤かわいい❤\nふふふ、それじゃあ最後に一度だけ射精して\nそれから隠れ家に運んであげます。,
-おっぱいに夢中で気づいていないでしょうけど、\n向こうの戦いはもう終わったみたいですし、\nちょうどいいタイミングですね❤,
-ほら、ぱふぱふ❤ぱふぱふ❤,
-あへぁ❤❤❤あうう・・・❤,
-我慢はどうせできないでしょう？\n向こうからマスターたちが戻ってくるほんの数十秒、\nそれだけあればあなたを射精させるのに十分です❤,
-ほら、ほら、ほら・・・❤\nおっぱい気持ちいいですよね。ぱふぱふされて体中とろけちゃいますよね❤,
-これでぱふぱふで射精するの何回目ですか？\n何回されても慣れるどころかどんどん気持ちよくなっちゃいますね❤\nおっぱいやわらかくて甘い匂いがして最高ですよね❤,
-仲間がやられちゃった横で、敵モンスターの虜になって、\nほら、瞬殺射精❤おっぱいに負けて、\nエナジー思いっきり出しちゃってください❤,
-はひぃっ・・・❤❤❤,
-ふふ、気絶して動かなくなってしまいました。\nわたしのお腹がすっかりどろどろです・・・❤,
-こうして僕は、気絶するまで搾られたあと、サキュバスたちの隠れ家に運ばれてしまった。,
-地下室のような場所に入れられ、時折召喚されるキノコレディのおもちゃにされる日々。人間としての尊厳などかけらもない生活だが、僕は与えられる強い快楽の虜になってしまい、抵抗する気力を失ってしまっていた。,
-今日もまたキノコレディに抱きしめられながら、甘えさせられ、エナジーを搾り取られている。彼女に奪われた魔力はサキュバスたちが人間を侵略するために使われているのだろうか。,
-薄暗い地下室の中では外がどうなっているかなど知る手段はない。もはや考えることも放棄して、僕はキノコレディの胸の中でただただ精を漏らし、その一生を終えるのだった。,
-妹を探すはずだった冒険は、モンスターの手によってあっけなくくじかれ、主人公の物語はそこで幕を閉じたのだった。,
+おっぱいで挟んでほしいんですか？\nうふふ❤甘えん坊のおちんちんですね❤,So you want me to squeeze your dick between my breasts...? *Giggle*❤ What a needy little dick you have...❤
+おっぱいに顔を埋めたいんですか？\nくすくす❤ぎゅってしながら甘やかしてあげますね❤,So you want to bury your face in my breasts? *Giggle*❤ I'll squeeze you tight and pamper you thoroughly.❤
+あん❤谷間がどろどろ❤\nずりずりされて気持ちよく出しちゃいましたね❤\nうふふ❤,Ahhn!❤ My cleavage is dripping wet.❤ Did having your dick rubbed feel so good you couldn't resist cumming? Ufufu~❤
+んふふ❤びくんびくんってしちゃってる❤\nおっぱいに顔を挟まれただけで、\nびゅくびゅく出しちゃいましたね❤,Ufufu~❤ Look at you twitching and throbbing!❤ It seems even just having your face smothered between my tits causes you to spurt helplessly.❤
+仲間を裏切っておっぱいに甘えるのは気持ちよかったですか？\nくす❤へんたいさん❤,Did betraying your allies to indulge in my breasts feel that amazing? *Giggle*❤ You pervert.❤
+あらら？おちんちんを握ってどうしちゃったんですか？,Oh my! Grabbing your own cock like that... What's gotten into you?❤
+うぅぅ・・・。,Ogh...
+うふふ、わたしのおっぱいに見惚れて我慢できませんでしたか？\n戦闘中なのにいけない子ですね❤,*Giggle*❤ Were you so mesmerized by my breasts that you couldn't stop yourself? Even thought we're in a fight; you're still a naughty boy~❤
+それじゃあ、ご要望どおり、\nあなたのエナジーを搾り取ってあげます❤\nこうやって両手でおっぱいを持ち上げて・・・❤,In that case; as you wish; I'd be happy to drain your mana. Now watch as I lift my breasts with both hands just like this...❤
+むにむに❤むにゅむにゅ❤\nわたしの手のなかで形を変えるやわらかぁーいおっぱい❤\n見てたらシコシコ止まらなくなっちゃいますね❤,Massaging my huge tits... Rolling them in my hands... See how my soft tits change shape? You can't stop stroking your cock as you watch them~❤
+指で押すとどれだけやわらかいかよぉくわかるでしょう？\nここにおちんちんを挟んだら、\n先っぽから根元まで全部包まれるんですよ・・・❤,When I press them with my fingers; you can see just how soft they are; right? If I were to nestle your cock in between… it would be completely enveloped from tip to base.❤
+余すことなくおっぱいに捕まえられて、\nそのままずりずり❤ぱふぱふ❤\nふふ、たまらないですよね。,Engulfed entirely by my breasts and then.. pumping… plapping... smothering... Fufu. You can't take it anymore; can you?❤
+うぁ、ううっ・・・❤,Agh; ooh...❤
+あは、おっぱいのこと以外考えられなくなっちゃいましたか？,Aha~ Did you lose the ability to think about anything other than my tits?
+それじゃあ、命令です。\nわたしがおっぱいに指を沈める度に、\n一回しこしこしてくださいね。,Well then; here are your orders. Each time I sink my fingers into my breasts; pump your cock.
+むにゅむにゅ❤しこしこ❤,Squish squish~❤ Stroke stroke~❤
+はうぅ・・・、きもちぃぃ・・・❤,Hngh… It feeels too good…❤
+気持ちいいですね❤\nやわらかに形を変えるおっぱいを見ながら、しこしこオナニー❤,It feels amazing; doesn't it? Watching my soft tits change shape while you jerk off to them?❤
+ほら、もう一度。\nむにゅむにゅ❤しこしこ❤,Come on. Again. Squish squish~❤ Stroke stroke~❤
+あっ、ああっ、もうっ・・・❤,Ah… Aaah… I c-can't take it anymore…❤
+くすくす❤もうイっちゃいそうですか？\nおっぱいでオナニーしていたら全然我慢できませんでしたね。,*Giggle*❤ Are you already about to cum? Because you were masturbating to my breasts; there's no way you can hold back your urges now; huh?
+最後におもいっきりおっぱいを抱きしめてあげます。\n自分のおちんちんが抱きしめられるところを想像して、\nイっちゃってください❤,I'll finish you off by giving you my breasts a big hug . Imagine your dick being enveloped between them... and cum~❤
+いきますよぉーーー❤,Here I go~❤
+むぎゅーーーーーー❤❤❤,Squeeze~~~❤❤❤
+あひぃっ・・・❤すごいよぉ・・・❤,Aaah!?❤ O-Oh no it's so good!! Ahhh~❤
+うふふ❤ おっぱいがまっしろ❤,Ufufu~❤ My breasts are completely white~❤
+おっぱいを見ながらシコシコ自滅オナニー最高でしたか？\nあなたがくれたエナジーありがたく吸収させてもらいます❤,Did you enjoy jerking yourself off to the sight of my boobs until you finally caved? Thank you for the mana you provided me. I'll gladly absorb it~❤
+あら❤あなたもおっぱい見ながらオナニー始めちゃったんですか❤,Oh my.❤ Did you start jerking off while staring at my tits; too?❤ 
+そうですよね、他の仲間だけ\nわたしのおっぱいを堪能できるのはずるいですもんね。,Of course! It wouldn't be fair if only your comrades could savor my breasts; right?
+自分も気持ちよくなりたい…❤\nサキュバスとの戦いでそう考えたらもう終わりです❤\nおちんちんシコシコすること以外頭からなくなっちゃいます❤,I bet you want to feel good; too...❤ But the moment you think that in a battle with a succubus; it's over. Eventually the only thing you'll be able to think about is stroking that cock of yours.❤
+ほら、ご要望どおり、\nあなたのエナジーも搾り取ってあげますね❤\n両手でおっぱいを持ち上げて・・・❤,Hora~ As you wish. I'll drain every last drop of your energy.❤ By lifting my breasts with both hands…❤
+むにむに❤むにゅむにゅ❤\nわたしの手のなかで形を変えるやわらかぁーいおっぱい❤\n見てたらシコシコとっても気持ちよくなっちゃいます❤,Massaging my huge tits... rolling them in my hands... See how my soft tits change shape? You can't stop stroking your cock as you watch them~❤
+あぁ、おっぱいぃ・・・❤,Aaaah~ B-boobs…❤
+あは、あなたも立派なおっぱい中毒です❤,Aha! You've become a full-blown tit addict; haven't you?❤
+それじゃあ命令です。\nわたしがおっぱいに指を沈める度に、一回しこしこしてくださいね。,Now for your orders. Every time I sink my fingers into these tits; you pump your cock once. Got it?
+気持ちいいですね❤\nやわらかに形を変えるおっぱいを見ながらしこしこオナニー❤,Feels good; right?❤ Jerking off while watching these pillowy tits shift under my touch.❤
+あなたも全然我慢できないんでしょう？\nおちんちんがひくひく震えちゃってます❤,You can't hold back at all; can you? Your dick's twitching like crazy~❤
+最後におもいっきりおっぱいを抱きしめますので\n自分のおちんちんが抱きしめられるところを想像してイっちゃってください❤,I'm going to smash these tits together hard now. Imagine them squeezing your cock as you blow your load; okay?❤
+おっぱい、おっぱいぃぃ❤❤❤,Boobs... B-boobssss~❤❤❤
+うぅ、まずいですね,Ooh. You're a sly one; aren't you?
+わたしを倒す前にわたしのおっぱいをもっと味わってみませんか？,But wouldn't you want to savor my tits a bit more before defeating me?
+見てください、わたしの指がこんなに沈み込むぐらい柔らかいおっぱいですよ？,Look at this. My boobs are so soft that my fingers sink right in.
+倒すのを少し待ってくれたら、この柔らかなおっぱいでお顔を包み込んであげますよ❤,If you wait just a moment before attacking; I'll smother your face between these soft tits of mine.❤
+ですからじっとしといてくださいね❤,So just stay still; okay?❤
+攻撃する,Attack
+攻撃しない,Her boobs... So big and soft...
+おっぱい気持ちいいのに.......,But my tits would have felt so good...
+うふふ❤攻撃できないみたいですね❤,Ufufu~ Looks like you can't bring yourself to attack~❤
+それでは、お顔をおっぱいで抱きしめてあげますね❤,Well then; let me wrap your face between my tits.
+はいむぎゅーーー❤,And... squeeze!~ ❤
+うむぅうううっーーーーーー❤❤❤,Mmmoghh~~~❤ ❤ ❤
+柔らかおっぱいにお顔包まれて気持ちいいですねｰー❤,It feels good to have your face between my soft tits; doesn't it?~ ❤
+おっぱいを両手で抱きしめてぇ❤,Now I'll hold my tits with both hands and...~
+ぱふぱふ❤ぱふぱふ❤,Puff-Puff~ ❤ Puff-Puff~ ❤
+うぁへぇぇえ❤❤❤,Uaah.. Ahh... Mmmpphh!~❤ ❤ ❤
+おっぱいに包まれてお顔は見えませんが蕩けている顔している事は分かりますよ。,Even though I can't see your face buried in my tits; I know your mind is melting with pleasure.
+少し休憩しましょうか、おっぱいの隙間を少し開けてあげますから深呼吸してくださいね。,Shall we take a small break? I'll open my cleavage a bit so you can take a deep breath.
+はーい❤吸ってーー❤,Alright~ Breathe in~ ❤
+んんーー❤❤❤,Haah~❤ ❤ ❤
+あらら、おっぱいの谷間に溜まったあまぁーい❤フェロモン吸い込んじゃいましたね❤,Oh dear; you inhaled the pheromones created by my sweet; sweaty breasts~❤
+ではまだ深呼吸続けましょうか❤,In that case; maybe you should try taking another deep breath?~❤
+吸ってーー❤,Breathe in~~ ❤
+吸ってーーー❤,Breathe in more~~❤
+もーーーーっと、吸ってーー❤,Breathe it all in~~ ❤
+あへぁ・・・❤,Ahhh...~❤
+くすくす❤触れられていないのにフェロモンだけで漏らしてしまいましたね。,*Giggle* Even though you were never being touched; your dick couldn't help spilling it's load because of my pheromones; huh?
+いただいたエナジーのおかげで体力も回復です❤さあ、次にお顔を挟まれたい方は誰ですか？うふふ❤,I've made a full recovery thanks to the energy you gave me.❤ So; who wants to have their face smooshed between my tits next? Ufufu~ ❤
+うふふ、ダメじゃないですか、自分からしごいて負けちゃうだなんて…❤\nわたしのおっぱい、あなたのエナジーで\nこんなにドロドロになっちゃいました❤,Ufufu. Don't you think it's wrong to lose from jerking off to my tits?❤ My breasts have become all sticky with your mana~❤
+パイズリされて我慢できませんでしたね❤おっぱいに腰砕けにされるの、いかがでしたか❤うふふふ❤,Your dick just couldn't resist ejaculating between my tits; huh? How did it feel to have your hips give out beneath my breasts? Ufufufu~❤
+ぱふぱふされて情けなくおもらし❤こんな刺激でイっちゃうなんて、おちんちんの栓が緩すぎなんじゃないですか？くすくす❤,You soaked yourself in such a disgraceful way after being smothered by my breasts~❤ The stopper on your cock must be awfully loose to cum from that kind of stimulation. *Giggle*~ ❤
+サキュバスの少女が使う女性モンスターに敗れた僕は、エナジーを奪われた影響で立てなくなり、森の地面に倒れ込んでいた。,Defeated by a female monster used by a succubus girl, I had my energy drained and couldn't stand, collapsing onto the forest floor.
+くぅ・・・。,Nnngh…
+うふふ、簡単にわたしのおっぱいに屈しちゃいましたね❤,*Giggle*~ You gave in so easily to my big; soft tits.❤
+やわらかいおっぱいを見ながらオナニー、気持ちよかったですか❤,Did it feel good masturbating while staring at my soft boobs?❤
+気持ちいいに決まっていますよね、あなたのオナニーしている顔、\nすごく惚けていましたよ❤,Of course it felt good. You looked completly enthralled while jerking off.❤
+やわらかおっぱいにおちんちんぱふぱふされて気持ちよさそうでしたね❤,Fluffing up your cock between my soft tits felt amazing; didn't it?❤
+あなたの我慢の限界の時にぎゅーーー❤っておっぱいでおちんちんを潰してあげたら、どぴゅどぴゅーーって噴水みたいに精液噴き出しちゃいましたね❤,And when you couldn't take it anymore; I gave your dick a big squeeze~~❤ between my boobs; and your cum squirted out like a fountain.❤
+やわらかおっぱいにお顔を挟み込まれるのはいかがでしたか❤,Did you enjoy your face being smothered between my soft breasts?❤
+はちみつとミルクをまぜた頭が蕩けるおっぱいの匂いを体に染み込ませて垂れ流す射精は忘れられませんよね❤,You won't forget what it's like to spill your seed while bathing in the scent of my tits; as your mind overflows with milk and honey.❤
+うう・・・❤,Oogh…❤
+少しエナジーはいただきましたけれど、\nこれだけではぜんぜん足りません❤,I took a bit of energy; but that's nowhere near enough.❤
+ですからもっとあなたのエナジー、頂いていいですか？,So I must ask; may I take more of your energy?
+そ、それは、だ、・・・・。,Th-that's... N... No...
+ん？何か言いました？,Hm? Did you say something?
+あうう、おっぱいぃ・・・❤,Aaah... Such big boobs...❤
+あは、ちょっと胸を強調してあげれば、\n簡単に脳みそトロトロになっちゃいますね❤,Ahaha; just emphasizing my chest a little makes that brain of yours turn to mush.❤
+いいんですよ。\nサキュバスの使うモンスターに負けるって、そういうことですから。,It's fine though. Losing to a monster used by a succubus means this sort of thing happens.
+人間が使うモンスターより、男から奪うエナジーが大きい・・・。\nそのうえイったあとの魅了の強さも段違いなんです❤,Compared to the energy a monster takes from a human; the energy I extract from a man is far greater... And on top of that; the feeling of attraction they feel after they cum is incomparable.❤
+そのまま頭の中トロトロにしちゃっていて下さい❤\n一生おっぱいのことしか考えられなくなるぐらい\n気持ちよくしてあげますからね❤,Let your brain turn into mush for me. I'll keep making you feel good until you can only think about my tits for the rest of your life.❤
+キノコレディは地面に倒れている僕を抱え上げて、その豊満でやわらかいおっぱいの間に包み込むように抱きしめた。,The Mushroom Lady picked up my fallen body from the ground and hugged me tightly; trapping me between her lush; soft breasts.
+はーい、桃源郷にようこそ❤,Now; welcome to Eden~❤
+やわかなおっぱいに包まれてエナジーおもらししましょうね❤,Let's make sure all your mana leaks out while you're nice and snug between my soft tits; ok?❤
+あぁこの匂い・・・❤,Ahh... T-This scent... N-no...❤
+そうです❤あなたがだーい好きなおっぱいの匂いですよー❤,That's right~❤ You love the scent of my boobs~❤
+おっぱいの間に溜まったあまぁーいフェロモン、\n体いっぱいに吸い込みましょうか❤,Now; lets make sure your body drowns in all those sweet pheromones amassed between my tits; ok?
+はい、吸ってーーー❤,Ready? Breathe in~❤
+うはぁ❤❤❤,Uaah~~❤❤❤
+甘い匂いに脳が犯されて・・・。\nふふ❤肺から体中が全部熱くなっちゃいますね❤\nって、あら・・・？,The feeling of my sweet scent permeating your mind... Fufu~❤ Your entire body is becoming hot and bothered; isn't it?❤
+くすくす❤\nおっぱいフェロモンを吸い込んだだけで精液出ちゃったんですか？,...Oh? *Giggle*❤ Did you just cum from inhaling my breast pheromones?
+おちんちん触れられていないのに匂いだけでおもらしするなんて…❤\n恥ずかしい負け方ですね❤\n向こうで戦っているあなたの仲間に顔向けできなくなっちゃいますよ？,Despite the fact your cock was never touched; to soak yourself from the smell of my tits alone...❤ What an embarrassing way to lose.❤ What would your allies fighting over there say if they found out?❤
+まあ、わたしのマスターが加勢に行きましたので、\nどうせあちらのマスターもすぐに負けてしまうでしょうけど。,In anycase my master went to lend a hand; so their cardmaster will likely lose soon enough.
+う、ううっ、エルルさん…。助けなきゃ…❤くうう…❤,No... E-Eruru... I have to help...❤ Ohhh...❤
+あら、まだ理性が残っているんですか。\n意外と頑張るんですね❤,Oh? Do you still have some sembleance of reason left? You're holding on surprisingly well; aren't you?❤
+でも、手には全然力が入っていません。\nこの胸の中から逃げ出したくないって、\n心の奥底では望んでしまっているんです。だから、ほら・・・❤,But your hands can barely push me away. Deep down you don't want to escape from my breasts; do you? And if that's the case...❤
+あまい、あまーい快楽に、脳みその芯まで溺れてしまいましょう？\nぱふぱふ❤ぱふぱふ❤,Let's immerse your mind entirely; and sink it into the depths of my sweet; sweet pleasure~ Puff-Puff~❤ Puff-Puff~❤
+うむぅううう❤❤❤,Mmmmphh~~~❤❤❤
+うふふ❤しあわせそうな声❤\nおっぱいにあなたの声の振動が伝わってきます。,Ufufu~❤ What a happy voice~❤ I can feel the vibrations of your moans through my tits.
+さっきはフェロモンを吸うだけで射精しちゃったぐらいですからね。\nこんな風におっぱいで顔をかわいがられたら、\n頭の中とろけてしまうでしょう？,Earlier you came just from breathing in my pheromones; so if I pamper your face with my breasts like this; your brain would completely melt; wouldn't it?
+おちんちんも射精したばかりなのにすっかりガチガチ❤\n無意識かもしれませんが、ヘコヘコ、ヘコヘコ、\nわたしの体に擦りつけちゃっています❤,Despite the fact you only just ejacualted; your cock is rock hard. You might not even realize it; but you're desperately rubbing yourself against me... humping and grinding against my body...
+わかってますか？\nあなたが動かさないといけないのは仲間を助けるための足ですよ。\nおちんちんじゃありませんよ？くすくす❤,The part of your body you need to move to help your friends is your legs; not your cock! You do realise that; don't you? *Giggle*❤
+あう、あへぇ、あっ、ああっ❤❤❤,Ah... A-ah...! Ahh; ohh...❤❤❤
+そんなこと言われても、止まらないんですよね❤\n腰を振るたびにビリビリって快感が体中を走って、頭の中は\nおっぱいのやわらかさと匂いでいっぱいで、もう天国ですもんね❤,But no matter what I say; you just won't stop; will you?❤ Every thrust sends shivers of pleasure throughout your body; and your mind is filled with the softness and scent of my boobs... It must feel like you're in heaven already.❤
+さあ、さあ、それじゃあエナジーを出してしまいましょう？\nあちらで戦っている仲間のことなんて忘れて、\n気持ちいいお貢ぎ射精をするんです❤,Now then; why don't you release all that mana? Forget about those friends of yours fighting over there; and treat me to your cum with a sweet ejaculation~
+悪い魔物にエナジー出して、おちんちんからびゅっ、びゅーっておもらし❤\nきっと事態はもっと悪くなってしまうと思いますけど、別にいいですよね❤,Release your energy on the nasty monster; and squirt from your cock with a "splurt; splurt"~❤ I think things will get much worse, but that's fine, isn't it~?❤
+だって、おちんちんは死んじゃうぐらいに気持ちいいんですもん❤\n男の子にはそれが一番大事でしょう？,After all; with your dick feeling so good you might just pass out~❤ Isn't that what boys want the most in life?
+ほら、イく瞬間におっぱいでぎゅーって抱きしめてあげます❤\nあなたもそれに合わせて深く腰を振るんですよ？\nさん、はい・・・。ぎゅーーーーーー❤,Come on. The moment you cum; I'll squish your dick tight between my breasts. And then you'll thrust your hips deep into my body at the same time; okay? 3...2...1... Squeezeeeeee~❤
+あひぃいっ・・・❤❤❤,Ahieee....❤❤❤
+どうでした？強く抱きしめられながらの射精・・・❤\n全身が溶けるみたいに気持ちよかったでしょう？,How was that? Ejaculating while being held tightly... It felt so good; it was like your whole body melted away; right?
+それにしても、あなたの精液はとてもおいしいですね。\nおっぱいでふにゃふにゃになって、こんなに弱いのに、エナジーは上質❤\nなんて素晴らしいのでしょうか。,By the way; your semen is delicious~ Despite being this weak and turning into mush from my boobs; your mana is splendid!❤ It's really quite something~
+そうだ。わたしのマスターに頼んで、\nあなたを隠れ家に運んでもらいましょう。\nそこでたまに召喚してもらってあなたの精をもらえばいいですね❤,Ah yes. I'll ask my master to take you our hiding place; and she could summon me now and again to drain your semen~❤
+あなたも干からびるよりはわたしの苗床になりたいですよね？\nほら、そう思うなら、ぎゅっとわたしに抱き着いてください。,You'd rather be my seedbed than wither away and die; wouldn't you? Come on; give me a big hug if you agree~
+エナジーを奪われて歩けないでしょうから、\n抱きかかえるところまではやってあげます。よいしょっと・・・❤,Since you can't walk after having all your energy drained; I'll help you out and carry you. Heave ho~❤
+はうぅ・・・❤❤❤おっぱいきもちいいよぉ・・・❤,Aoohhh...❤❤❤ B-Boobies feel so goodd...❤
+あは、抱き上げた瞬間にわたしの体にすがっちゃいましたね。\nおっぱいから少し離れていただけなのに、そんなに恋しかったですか？,Aha! You tightly clung to my body the moment I picked you up; and you weren't even away from my tits for that long either. Did you really miss them that much?
+かわいい❤かわいい❤\nふふふ、それじゃあ最後に一度だけ射精して\nそれから隠れ家に運んであげます。,Oh; that's so gosh darn cute!!❤ Ufufu. Now then. After you ejaculate one last time; I'll take you to our hideout.  
+おっぱいに夢中で気づいていないでしょうけど、\n向こうの戦いはもう終わったみたいですし、\nちょうどいいタイミングですね❤,You were probably too fixated on my boobs to notice; but it looks like the battle over there has ended just in time~❤
+ほら、ぱふぱふ❤ぱふぱふ❤,Hora~ Puff-Puff~❤ Puff-Puff~❤
+あへぁ❤❤❤あうう・・・❤,Ahhh~❤❤❤ Aooh...❤
+我慢はどうせできないでしょう？\n向こうからマスターたちが戻ってくるほんの数十秒、\nそれだけあればあなたを射精させるのに十分です❤,You can't bring yourself to resist; can you? My master will be back any second second; but that's more than enough time to make you cum.❤
+ほら、ほら、ほら・・・❤\nおっぱい気持ちいいですよね。ぱふぱふされて体中とろけちゃいますよね❤,Squish... squish... squish...❤ My boobs feels amazing; don't they? When you feel my breasts pressing against your face; your entire body melts~❤
+これでぱふぱふで射精するの何回目ですか？\n何回されても慣れるどころかどんどん気持ちよくなっちゃいますね❤\nおっぱいやわらかくて甘い匂いがして最高ですよね❤,How many times has my "Puff-Puff" made you come now? It doesn't matter how many times it happens; because everytime you cum; it just keeps feeling better and better~❤ My breasts are so soft and they smell so sweet... They're the best; aren't they?❤"
+仲間がやられちゃった横で、敵モンスターの虜になって、\nほら、瞬殺射精❤おっぱいに負けて、\nエナジー思いっきり出しちゃってください❤,Who would have thought you'd become an enemy monster's captiuve while your friend was being taken out. Look at how easy you ejaculate~❤ Submit to my breasts and shoot out your mana with all your might~❤
+はひぃっ・・・❤❤❤,Mmmmphh~❤❤❤
+ふふ、気絶して動かなくなってしまいました。\nわたしのお腹がすっかりどろどろです・・・❤,Fufu. You stopped moving and passed out. My stomach is completely sloshed; too...❤
+こうして僕は、気絶するまで搾られたあと、サキュバスたちの隠れ家に運ばれてしまった。,And so; I was wrung until I passed out; and then carried to the succubus' hideout.
+地下室のような場所に入れられ、時折召喚されるキノコレディのおもちゃにされる日々。人間としての尊厳などかけらもない生活だが、僕は与えられる強い快楽の虜になってしまい、抵抗する気力を失ってしまっていた。,After being taken to a basement-like area; I lived a my life as the toy of the occasionally-summoned Mushroom Lady. Entirely captivated by her sweet; iressistable pleasures; resisting was completely out of the question.
+今日もまたキノコレディに抱きしめられながら、甘えさせられ、エナジーを搾り取られている。彼女に奪われた魔力はサキュバスたちが人間を侵略するために使われているのだろうか。,Today, I am being pampered and squeezed for energy while being hugged by the Mushroom Lady again. I wonder if the magic power she has stolen from me is being used by the succubus to invade human lands.
+薄暗い地下室の中では外がどうなっているかなど知る手段はない。もはや考えることも放棄して、僕はキノコレディの胸の中でただただ精を漏らし、その一生を終えるのだった。,In the dimly lit basement; there was no way to know what was happening outside. So I gave up thinking about it; and lived the rest of my life simply leaking my essence into the Mushroom Lady's breasts.
+妹を探すはずだった冒険は、モンスターの手によってあっけなくくじかれ、主人公の物語はそこで幕を閉じたのだった。,And so; my adventure to find my sister was quickly foiled at the hands of a monster.
