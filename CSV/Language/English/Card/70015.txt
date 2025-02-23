@@ -1,8 +1,8 @@
 default
 ドワン,Dwan
-曲がったことは嫌いな心根のまっすぐなマスター。高い突貫力を誇るがあまり持久力がない。Row28:Card Text: 曲がったことは嫌いな心根のまっすぐなマスター。高い突貫力を誇るがあまり持久力がない。, //Translation goes here
-よお、闘技場ぶりだな。\n今日は街で修行のバトルか？,Hey; long time no see in the arena. \nYou're in town for a training battle today?
-それなら俺とやろうぜ！\n俺のドリルデッキでお前の守りを貫いてやるよ！,Then let's have a match! \nI'll penetrate your defenses with my drill deck!
+曲がったことは嫌いな心根のまっすぐなマスター。高い突貫力を誇るがあまり持久力がない。,A straightforward cardmaster who hates underhanded tactics. He favors fast attacks; but he doesn't have much endurance. 
+よお、闘技場ぶりだな。\n今日は街で修行のバトルか？,Hey; it's been awhile since I saw you at the arena! \nAre you out battle training in town today?
+それなら俺とやろうぜ！\n俺のドリルデッキでお前の守りを貫いてやるよ！,If so; then let's have a match! \nI'll pierce your defenses with my drill deck!
 よお、また会ったな、ルーキー！\n前は負けて悔しい思いをしたが、今日は勝ってやるぜ！,Hey; good to see you again; rookie! \n I was disappointed to lose before; but I'm going to win today!
 俺のドリルデッキの突貫力はDランク随一だぜ。\n今日こそ勝利をつかんでみせる！,My drill deck has the best penetration in D rank. \nI'm going to win today!
 よお、また会ったな、ルーキー！\n前は俺の勝ちだったし、今日も勝たせてもらうぜ！,Hey; good to see you again; rookie! \nI won before and I'm going to win again today!
