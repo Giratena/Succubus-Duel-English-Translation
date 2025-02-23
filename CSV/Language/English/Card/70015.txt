@@ -1,5 +1,6 @@
 default
 ドワン,Dwan
+曲がったことは嫌いな心根のまっすぐなマスター。高い突貫力を誇るがあまり持久力がない。Row28:Card Text: 曲がったことは嫌いな心根のまっすぐなマスター。高い突貫力を誇るがあまり持久力がない。, //Translation goes here
 よお、闘技場ぶりだな。\n今日は街で修行のバトルか？,Hey; long time no see in the arena. \nYou're in town for a training battle today?
 それなら俺とやろうぜ！\n俺のドリルデッキでお前の守りを貫いてやるよ！,Then let's have a match! \nI'll penetrate your defenses with my drill deck!
 よお、また会ったな、ルーキー！\n前は負けて悔しい思いをしたが、今日は勝ってやるぜ！,Hey; good to see you again; rookie! \n I was disappointed to lose before; but I'm going to win today!
