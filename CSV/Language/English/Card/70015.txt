@@ -1,19 +1,19 @@
 default
 ドワン,Dwan
-曲がったことは嫌いな心根のまっすぐなマスター。高い突貫力を誇るがあまり持久力がない。,A straightforward cardmaster who hates underhanded tactics. He favors fast attacks; but he doesn't have much endurance. 
-よお、闘技場ぶりだな。\n今日は街で修行のバトルか？,Hey; it's been a while since I saw you at the arena! Are you out battle training in town today?
+曲がったことは嫌いな心根のまっすぐなマスター。高い突貫力を誇るがあまり持久力がない。,A straightforward cardmaster who hates underhanded tactics. He favors fast attacks; but he can't keep them up for long. 
+よお、闘技場ぶりだな。\n今日は街で修行のバトルか？,Hey; it's been a while since I saw you at the arena! Are you out training in town today?
 それなら俺とやろうぜ！\n俺のドリルデッキでお前の守りを貫いてやるよ！,If so; then let's have a match! I'll pierce your defenses with my drill deck!
-よお、また会ったな、ルーキー！\n前は負けて悔しい思いをしたが、今日は勝ってやるぜ！,Hey; good to see you again; rookie! I was disappointed to lose before; but I'm going to win today!
+よお、また会ったな、ルーキー！\n前は負けて悔しい思いをしたが、今日は勝ってやるぜ！,Hey; good to see you again; rookie! I was pretty bummed to lose before; but I'm going to win today!
 俺のドリルデッキの突貫力はDランク随一だぜ。\n今日こそ勝利をつかんでみせる！,My drill deck has the best penetration in D-rank. I'm going to win today!
-よお、また会ったな、ルーキー！\n前は俺の勝ちだったし、今日も勝たせてもらうぜ！,Hey; good to see you again; rookie! I won before and I'm going to win again today!
-俺のドリルデッキの突貫力はDランク随一だぜ。\nお前の守りも軽く貫いてやらぁ！,My drill deck has the best penetration power in D-rank. I'm going to pierce your defenses as well!
-くっ、相変わらずやるじゃねえか。\nだけど次は俺が勝つぜ！\nまたやろうな！,Damn; you're still on top of your game; aren't you? I'll beat you next time; let's do it again!
-へへん、見たか！これが俺の実力だ！\n楽しいバトルだったぜ、次もまたやろうな！,Heh; you see? That's what I'm capable of! I had a fun battle; let's do it again next time!
+よお、また会ったな、ルーキー！\n前は俺の勝ちだったし、今日も勝たせてもらうぜ！,Hey; good to see you again; rookie! I won before; and I'm going to win again today!
+俺のドリルデッキの突貫力はDランク随一だぜ。\nお前の守りも軽く貫いてやらぁ！,My drill deck has the best penetration power in D-rank; and I'm gonna pierce your defenses as well!
+くっ、相変わらずやるじゃねえか。\nだけど次は俺が勝つぜ！\nまたやろうな！,Damn; you're still on top of your game; aren't you? I'll beat you next time; though! Let's do it again sometime!
+へへん、見たか！これが俺の実力だ！\n楽しいバトルだったぜ、次もまたやろうな！,Heh; you see? That's what I'm capable of! That was fun! Let's do it again next time!
 挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You have not reached the required rank points for the challenge (current rank points:{ランクポイント})
-俺はドワン！おまえが話題の新人か。\n戦えるのを楽しみにしてたぜ！,I'm Dwan! You're the newcomer everyone's been talking about. I've been looking forward to fighting with you! 
+俺はドワン！おまえが話題の新人か。\n戦えるのを楽しみにしてたぜ！,I'm Dwan! You're the newcomer everyone's been talking about; right? I've been looking forward to fighting with you! 
 今日は低ランクの男同士だからなのか、\n実況もつかない不人気試合みてえだが、\n俺たちは楽しくやろうぜ！,There's not much of a crowd today. Maybe because it's a match between low-ranked guys. Well whatever! That just means we can battle without distractions!
 バトルってのは突貫力が一番最強だ！\n盾ごと貫く俺の攻撃力を見せてやろう！,I'll prove my strength by piercing straight through your defenses!
-ぐっ、サキュバス相手に強いだけじゃねえんだな。\nたいしたもんだ！次も頑張りな！,Gosh; you're not just strong against succubus; are you? Good match; and good luck next time! 
+ぐっ、サキュバス相手に強いだけじゃねえんだな。\nたいしたもんだ！次も頑張りな！,Gosh; you're not just strong against succubi; are you? Good match; and good luck next time! 
 闘技場の勝利報酬を得た！,The winner of the arena was rewarded for his victory! 
 おまえのターンからだ！いいバトルをしようぜ！,It's your turn! Let's have a good battle!
 俺のターンからだ。さあ、行くぞ！,It's my turn to start. Here we go! 
@@ -26,7 +26,7 @@ default
 相手モンスターを戦闘で破壊したとき{使用カード}の効果を発動！自身のコピーを場に生み出す！,When an opponent's monster is destroyed by battle; activate the effect of {使用カード}! It creates a copy of itself directly on the field! 
 相手フィールド上にモンスターが1体のみ存在するとき、{使用カード}の効果を発動！攻撃力を400アップする！,When there is only one monster on the opponent's field; activate the effect of {使用カード}! Increase Attack Power by 400! 
 相手モンスターを破壊したとき、{使用カード}の効果発動！カードを１枚ドローするぞ。,When an opponent's monster is destroyed; activate the effect of {使用カード}! Draw a card! 
-食らえ貫通ダメージだ！\n相手モンスターのHPを超えた分のダメージを\n相手プレイヤーに与えるぜ！,Take that; it's piercing damage! The excess damage after destroying your monster is dealt to your HP! 
+食らえ貫通ダメージだ！\n相手モンスターのHPを超えた分のダメージを\n相手プレイヤーに与えるぜ！,Take that! It's piercing damage! Any extra damage after destroying your monster is dealt to your HP! 
 相手モンスターを戦闘で破壊したとき効果を発動！俺のライフを2000回復する！,Activate this effect when an opponent's monster is destroyed in battle! Restore my life by 2000 points! 
 戦闘で破壊されたとき、効果を発動！\nデッキからHPが1000以下の地属性モンスターを呼ぶぞ！,When destroyed in battle; my monster's effect is activated! I'll call an Earth Attribute monster with 1000 or less HP from my Deck directly onto the field! 
 高攻撃力のモンスターはHPが低いことが多いが、\nそこを魔法で補うのが戦術ってもんだ。\n{使用カード}を発動！,High-attack monsters often have low HP; but tactics can compensate for that. Activate the magic card {使用カード}!
@@ -45,7 +45,7 @@ default
 カードを伏せる。,I place this face down. 
 俺の攻撃！{防御カード}を攻撃！,My attack! Attack {防御カード}.
 バトルだ！{使用カード}で{防御カード}を攻撃！,{使用カード}; battle! Attack his {防御カード}!
-ちっ、打つ手なしか。ターンエンドだ…。,Damn; no way to play. Turn end... 
+ちっ、打つ手なしか。ターンエンドだ…。,Damn; nothing to play. Turn end... 
 何もできんな。ターンエンド。,I can't do anything. Turn end.
 ターンを終了するぞ。,I'm going to end my turn. 
 ターンエンドだ。,Turn End. 
