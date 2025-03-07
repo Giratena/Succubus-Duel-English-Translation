@@ -1,3 +1,3 @@
 default
 闇のマジックサークル,Dark Magic Circle
-[1].自分が闇属性モンスターを場に出したとき発動する。、チャージを+1する。\n[2].チャージが５つ以上貯まっているとき発動できる。レベル５以上の闇属性モンスター1体をランダムにデッキから特殊召喚する。そのあとこのカードは自壊する。,[1]. When you put a Dark Attribute monster on your side of the field; add 1 charge to this card.\n[2]. If this card has 5 or more charges; special summon one random dark Attribute monster of cost 5 or higher from your deck; then banish this card.
+[1].自分が闇属性モンスターを場に出したとき発動する。、チャージを+1する。\n[2].チャージが５つ以上貯まっているとき発動できる。レベル５以上の闇属性モンスター1体をランダムにデッキから特殊召喚する。そのあとこのカードは自壊する。,[1]. When you put a Dark Attribute monster on your side of the field; add 1 charge to this card.\n[2]. If this card has 5 or more charges; special summon one random Dark Attribute monster of cost 5 or higher from your Deck; then banish this card.

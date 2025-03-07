@@ -6,12 +6,18 @@ MonoBleedingEdge/
 SuccubusDuel_Data/
 Translation Releases/
 Export/
-CSV/
 Mod/
 .vscode/
+CSV/Card/
 
 CSV/Language/繫体中文/
 # Allow CSV/Language/ and its subfolder English to be tracked
 !CSV/Language/
 !CSV/Language/English/
-
+CSV/Event/
+CSV/EventList/
+CSV/Other/
+CSV/Shop/
+CSV/Place/
+CSV/StaticCards/StaticCards.txt
+CSV/StaticStrings/StaticStrings.txt
