@@ -1,6 +1,7 @@
 default,
 キノコレディ,Mushroom Lady
 [1].このカードがフィールド上に存在する限り、攻撃力が低下している相手モンスターは反撃できない。\n[2].相手モンスターの攻撃力が低下している場合、追加攻撃を行う。,[1]. As long as this card remains on the field; opponent monsters with reduced ATK cannot counterattack.\n[2]. If an opponent's monster has reduced ATK; this card performs an additional attack during combat.
+[3].ターン終了時に発動する。自分フィールド上のすべての「キノコ」モンスターの最大HPを、墓地の地属性カードの数×10ポイントアップする。,[3]. Activates at the end of the turn. Increase the maximum HP of all "Mushroom" monsters on your field by 10 points for each Earth attribute card in your graveyard.
 キノコで体ができたモンスター娘。豊満な胸で相手を抱き寄せている隙に、上から胞子をふりかけ、その力を奪う。胸の谷間からは獲物を逃がさないために蕩けるような甘い匂いがするのだという。,A mushroom-bodied monster girl. She ensnares foes with her voluptuous breasts; showering them with spores from above to drain their strength while they're distracted. It is said a decadently sweet aroma wafts from between her breasts; ensuring no prey escapes her grasp.
 EU32_pafupafuAnime,
 うふふ❤もう力が入らないんですよね？それじゃあとどめをさしてあげます❤,Fufu.❤ You can't muster any strength anymore; can you? Well then; I'll finish you off.❤
