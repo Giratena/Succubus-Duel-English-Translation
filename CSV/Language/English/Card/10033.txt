@@ -1,6 +1,7 @@
 default,
 ミニキノコズ,Mini Mushrooms
-[1].このカードが場に出たとき発動する。「よわよわ胞子」を１枚手札に加える。\n[2].自分よりも攻撃力が低い相手と戦闘を行う場合、このカードの攻撃回数は+２される。,"[1]. When this card is played;  add 1 ""Sappy Strength Spores"" card to your hand.\n[2].This card's attack power doubles during combat if their foe has an attack power lower than theirs."
+[1].このカードが場に出たとき発動する。「よわよわ胞子」を１枚手札に加える。\n[2].自分よりも攻撃力が低い相手と戦闘を行う場合、このカードの攻撃回数は+２される。,[1]. When this card is played;  add 1 "Sappy Strength Spores" card to your hand.\n[2].This card's attack power doubles during combat if their foe has an attack power lower than theirs.
+[3].このカードが墓地に送られたとき発動する。デッキから植物タイプモンスター１体をランダムに手札に加える。,[3]. Activate this effect when this card is sent to the graveyard. Add 1 random Plant-Type monster from your Deck to your hand.
 あまり強くないキノコのモンスター。意外と性的な知識があり、かわいらしく誘惑してみせれば自分よりも力の強い相手に勝てることを知っている。\n　自分よりも大人な相手を足腰立たないほどに気持ちよくし、快感で崩れ落ちたところを３人がかりで責めたててくる。弱いからといって油断すればあっというまに快楽で頭を真っ白にされてしまうだろう。,A not-so-strong group of mushroom monsters. Despite their appearances; they possess a surprising amount of intimate knowledge and know of ways to defeat stronger opponents by seducing them in a cute manner. They specialise in giving waist-melting pleasure to more combat-experienced foes; and then attacking them from three ways at once. Don't underestimate them just because they're weak; or you'll quickly find yourself overwhelmed with bliss.
 ひ弱なおにいさんは、\n三人がかりでぺろぺろされて逃げられるかなぁ❤\nほら、んれろっ❤れるぅ❤,Weakling! Do you think you can escape when the three of us are licking you all over?❤ Look; slurp suck...❤
 あはは、気持ちよさそうな顔ー❤\nおちんちんもう負けちゃう？\nんちゅ❤じゅぷぅ❤れろぉ～❤,Ahaha! You look like you're really enjoying this~ Is your dick losing the fight already? Mwah~❤ Slurp~❤ Lick...
