@@ -1,6 +1,7 @@
 default
 キノコガール,Mushroom Girl
 EU31_paizuriAnime,
+[1].このカードが場に出たとき発動する。「よわよわ胞子」を１枚手札に加える。,[1]. When this card enters the field; search your deck for "Weakening Spores" and add it to your hand.
 [1].このカードが場に出たとき発動する。「よわよわ胞子」を１枚手札に加える。\n[2].攻撃力がダウンした相手モンスターが破壊されたとき発動する。「<color=#fd7e00><u><link="10031">Mushroom Girl</link></u></color>」を1体特殊召喚し、その攻撃力を破壊されたモンスターの元々の攻撃力の半分だけアップする。,
 [1].このカードが場に出たとき発動する。「よわよわ胞子」を１枚手札に加える。\n([2].戦闘時に相手に「衰弱」(毎ターン終了時に攻撃力を50ポイントダウン,4ターン)を付与する。),[1]. When this card enters the field; search your deck for "Weakening Spores" and add it to your hand.\n([2]. When this card enters combat; inflicts [weakness] on foe ([Weakness] = Attack power is reduced by 50 points for 4 turns.))
 [2].攻撃力がダウンした相手モンスターが破壊されたとき発動する。「<color=#fd7e00><u><link="10031">Mushroom Girl</link></u></color>」を1体特殊召喚し、その攻撃力を破壊されたモンスターの元々の攻撃力の半分だけアップする。,
