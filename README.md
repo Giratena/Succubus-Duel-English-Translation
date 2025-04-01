@@ -11,8 +11,9 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 - Clone the Repo and then copy your game files into the repo and you're done!
   - Any edits or change in the repo will also be reflected in your game.
   - Push and pull from "Develop" to get updates as they happen.
+    
 # How to put the translation into your game
-- Download the repo as a zip then paste everything into your game folder (where SuccubusDuel.exe is located) and you're done!
+- Download the repo as a zip then paste everything into your game folder (where SuccubusDuel.exe is located) and you're done! (Note you can switch languages in game)
 - Alternatively, grab a stable copy from the releases tab!
 - For patching the Android version of the game, please see the following [guide](https://github.com/Giratena/Succubus-Duel-English-Translation/wiki/Translating-the-Android-Version-of-the-Game)
 
