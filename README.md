@@ -53,3 +53,4 @@ Some cards don't have all the text available to translate (such as card descript
 3. When you visit the Inn in the game, the card description text will copy to your clipboard.
 4. Paste the clipboard text in the the "\<Card id>".txt
 5. The text can now be translated!
+> Note: Some text references other cards. In this case you must replace them with their card number eg. {%%10028}. Some effect descriptions that are wrapped in () must also be removed beforehand.
