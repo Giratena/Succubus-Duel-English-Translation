@@ -11,8 +11,9 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 - Clone the Repo and then copy your game files into the repo and you're done!
   - Any edits or change in the repo will also be reflected in your game.
   - Push and pull from "Develop" to get updates as they happen.
+    
 # How to put the translation into your game
-- Download the repo as a zip then paste everything into your game folder (where SuccubusDuel.exe is located) and you're done!
+- Download the repo as a zip then paste everything into your game folder (where SuccubusDuel.exe is located) and you're done! (Note you can switch languages in game)
 - Alternatively, grab a stable copy from the releases tab!
 - For patching the Android version of the game, please see the following [guide](https://github.com/Giratena/Succubus-Duel-English-Translation/wiki/Translating-the-Android-Version-of-the-Game)
 
@@ -53,3 +54,4 @@ Some cards don't have all the text available to translate (such as card descript
 3. When you visit the Inn in the game, the card description text will copy to your clipboard.
 4. Paste the clipboard text in the the "\<Card id>".txt
 5. The text can now be translated!
+> Note: Some text references other cards. In this case you must replace them with their card number eg. {%%10028}. Some effect descriptions that are wrapped in () must also be removed beforehand.
