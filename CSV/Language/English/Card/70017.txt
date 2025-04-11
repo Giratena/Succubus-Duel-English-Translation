@@ -1,5 +1,5 @@
 default
-キャミー,
+キャミー,Cammy
 F17_paizuriAnime,
 F17_bustShowAnime,
 Sexy01,
