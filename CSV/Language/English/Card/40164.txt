@@ -1,6 +1,8 @@
 default
 ぱふぱふ入場門,Puff-Puff Toll Gate
 心のきれいな人だけが通れる門。あなたの心はどうかしら？,Only those with pure hearts may pass through this gate. What lies within your heart; I wonder?
+このカード名のカードは自分フィールド上に１枚しか表側表示で存在できない。,Only one copy of this card may exist face-up on your field at a time.
+[1].１ターンに２度まで、女性キャラクターに対する相手の攻撃宣言時に発動する。コイントスを行う。表が出た場合、その攻撃を無効にし、500ポイントダメージを与え、「おっぱいに弱い」を付与する。 [1]. Activate this card up to twice per turn when your opponent declares an attack on a female character. Flip a coin. If heads, negate that attack, inflict 500 points of damage, and grant inflict target with "Breast Fetish."
 ざんねん、あなたはここを通れないわ❤\nおっぱいの門があなたの行く手を阻んじゃうの❤,What a shame; I'm afraid  you can't pass.❤\nThe gate of our breasts have blocked your path~❤
 ぱっふん❤むにむに、むにゅうぅ～❤\n顔を二人でサンドイッチ❤\nおっぱいで押しつぶされても武器を持っていられますか？あはぁーん❤,Puff-puff~❤ Squish; squish; squeeze~❤ We'll sandwich your face between the two of us.❤ Can you keep holding your weapon even when you're being crushed between our breasts? Ahnn~❤
 あなたもぱふぱふゲートでとうせんぼです❤\nむにゅう❤,Looks like you can't make it past our Puff-Puff gate either~❤ Squeeze~❤
