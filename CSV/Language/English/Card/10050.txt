@@ -2,6 +2,9 @@ default
 酔いどれバニー,Drunk Bunnygirl
 カジノで働くバニーガール。お酒が大好きでいつも持ち歩いている。お客さんにお酒をすすめるときは口移しや谷間に注いで飲ませ、そのついでにチップをねだっては酒代に当てている。快感と酔いで脳が正常な判断能力を失い、大量のチップを彼女に貢いでしまうのだという。,A bunny girl who works at a casino. She loves alcohol and always carries a bottle with her. When she offers a drink to one of her customers; she pours it into her mouth or cleavage; and offers it to her them from there. As she does; she asks for tips and uses them to pay for her drinks. They say that the pleasure and intoxication from drinking this way makes men lose their proper judgment; leading them to lavish her with massive tips.
 EU50_pafupafuAnime,
+[1]１ターンに１度発動できる。コイントスを行い、その結果が表の場合、相手プレイヤーにこのカードの攻撃力の半分のダメージと「魔法カード使用不能(2ターン)」を付与する。裏の場合、相手はカードを２枚ドローする。\n[2].自分フィールド上に「{%%40226}」が存在しない場合、このカードが破壊され墓地へ送られたとき発動する。デッキから「{%%40226}」を１枚手札に加える。,[1]. Once per turn; conduct a coin toss. If it results in heads; deal damage to your opponent equal to half this card's attack points and inflict "Cannot Use Spell Cards (2 Turns)" on them. If it results in tails; your opponent draws two cards.\n[2]. If "{%%40226}" is not present on your field; activate this effect when this card is destroyed and sent to the graveyard. Add one "{%%40226}" from your deck to your hand.
+[3].コイントスで表が出たとき発動する。自分フィールド上のすべての「バニー」モンスターの攻撃力を100ポイントアップする。,[3]. Activate this effect when any coin toss results in heads. Increase the attack points of all "Bunny" monsters on your field by 100 points.
+胸での攻撃時、「おっぱいに弱い」を付与する。,Breast type attacks inflict "Breast Fetish" on foe.
 はーい、お客さんにドリンクのサービスよ❤\nコップじゃなくて直接飲ませてあげる❤,Alright; time to serve our customer some drinks!❤ Instead of a glass; though; I'll let them drink right off of me~❤
 おっぱいでお顔をぱっふん❤\nふふ、むにゅむにゅってされて気持ちいい？,I'll press your face to my boobs~❤ Hehe; doesn't it feel nice having them squish against you?
 でも早く逃げないと口の中にむりやりお酒を流し込まれちゃうわね❤\nほら・・・❤,But if you don't get away quick; I'll force the drink into your mouth~❤ Look...❤
