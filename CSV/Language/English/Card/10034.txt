@@ -206,3 +206,5 @@ EU34_triple,
 しかし、そんな無理な散財が続くはずもなく、あっという間に僕の所持金は底をついてしまった。魔力を頻繁に彼女たちにささげているせいで、バトルの成績も段々と悪くなっていった。,However; such reckless spending couldn't continue for long; and soon my funds were completely depleted. Because I frequently dedicated my magic to them; my battle performance gradually worsened as well.
 危険な仕事や怪しい契約に手を出して何とか金を手に入れているが、果たしてこの生活をいつまで維持することができるのだろうか。,Engaging in dangerous jobs and suspicious contracts to somehow get by with some money... I wonder just how long I can keep up this lifestyle.
 こうして小さな妖精たちの虜となった僕は、昇格の道を手放し、その場暮らしの生活へと転落した。僕の冒険はフェアリーたちの貢ぎ奴隷としてその幕を閉じたのだった。,Thus; captivated by the little fairies; I gave up my path to promotion and fell into a life of transience. My adventure ended as a tribute slave to the faeries.
+冷静にフェアリーを引きはがした,Calmly peel the fairy off
+抵抗できなかった,Don't resist
