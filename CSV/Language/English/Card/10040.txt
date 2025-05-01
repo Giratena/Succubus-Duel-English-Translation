@@ -1,6 +1,9 @@
 default
 まねき猫,Beckoning Cat
 幸運を呼ぶと言われている猫の妖怪。優しい性格でたとえ敵相手だったとしても傷つけることを好ましく思っていない。そのため肉弾戦は苦手だが、性的な攻撃だと相手が喜んでくれるので、嬉々として行う。背丈の割に大きめな胸を活かしたパイズリが得意で、とろけた男性の顔を見るのが大好きである。,
+特性：「挑発」\n[1].このカードが４ターン以上フィールド上に存在していた場合、以下の効果を持つ。\n・自分ターン終了時に発動する。自分のデッキから獣タイプレベル４以下モンスターをランダムに１体特殊召喚する。\n[2].相手がモンスターを特殊召喚したときに発動する。そのモンスターに誘惑を行い、コントロールを奪う。この効果は１度しか発動できない。,
+[3].このカードが破壊されたとき発動する。デッキから「猫」モンスターを１体手札に加える。,
+戦闘時に「おっぱいに弱い」を付与する。このカードが「おっぱいに弱い」相手から受ける戦闘ダメージが半分になる。,
 EU40_paizuriAnime,
 にゃーん❤こっちを見るにゃ❤,
 お兄ちゃん❤わたしお兄ちゃんと戦いたくないにゃーん❤\nこっちに来てくれたら、このおっぱいで\nいっぱい気持ちいいことしてあげるにゃん❤,
@@ -25,7 +28,7 @@ EU40_paizuriAnime,
 にゃん❤にゃん❤\nわたしのおっぱいまで来てほしいにゃん❤,Meow❤ Meow❤\nYou wanna come and see my boobs-meow?❤,
 おっぱい大好きなお兄ちゃんは、\nこんな風におっぱいで手招きされたら、\nきっと逆らえないにゃ❤,Big boob loving young man;\nthere is no way you can resist when my boobs beckon you in this way-meow~❤,
 おちんちんこの中に入れて、\nきっとたくさん幸せになるにゃん❤\nおいでおいで❤にゃあーん❤,Once your penis is between them;\nI promise you'll feel super happy and blissful❤\nCome come~❤ Meow~❤,
-にゃあん❤お兄ちゃん、こっち来てにゃあ❤\nそうそう、このおっぱいの間にゃ❤,Nyaan~❤Oh young man; come right this way-meow❤\nThat's it; right between my boobies~❤,
+にゃあん❤お兄ちゃん、こっち来てにゃあ❤\nそうそう、このおっぱいの間にゃ❤,Nyaan~❤ Oh young man; come right this way-meow❤\nThat's it; right between my boobies~❤,
 ここに指でも入れたら気持ちいいにゃあ❤\n指じゃなくて他のところを入れてもいいにゃ❤\nたとえば・・・。,Even putting a finger between them feels purrfect❤\nAnd putting your finger between them isn't the only thing you can do either~❤\nFor example...,
 お兄ちゃんのおっきくなったおちんちん❤\nずぷって中に入れてほしいにゃあ❤\n早く来てにゃあん❤,...you have a wonderful stiff dick too~❤\nI want you to squish it deep between them~❤\nHurry hurry- Ahn~❤,
 お兄ちゃんを簡単に幸せにできるやり方があるのにゃあ❤\nえい❤,And the easiest way to make you happy is like this-meow~❤\nEei❤,
