@@ -1,5 +1,6 @@
 default
 ミニマムマジック,Minimum Magic
-ほら、わたしの揺れる胸を見なさい❤\nそう、いい子ね❤, Hora~ Look at my swaying chest; that's a good boy.
-「ミニマムマジック」は詠唱に時間がかかる術なの。\nその間に動かれたら不発になっちゃうんだけど、\nこうやって胸を揺らしていれば数秒はクギ付けにできちゃう❤ "Minimum Magic" is a spell that takes time to chant. If you move during it; the spell will fail...\nBut swaying my chest like this can keep you distracted for a few seconds~❤
-くす❤詠唱完了よ❤えい！, Ufufu~❤ Incantation complete!❤ Eei!
+[1].自分フィールド上の「フェアリー」モンスター１体と相手フィールド上の「おっぱいに弱い」キャラクター1体を選択して発動する。その相手キャラクターを小人化し、自分モンスターで拘束攻撃を行う。,[1]. Select 1 "Fairy" monster on your field and 1 card on your opponent's field with "Breast Fetish" to activate this card. Shrink the opponent and perform a binding attack with your monster.
+ほら、わたしの揺れる胸を見なさい❤\nそう、いい子ね❤,Hora~ Look at my swaying chest; that's a good boy.
+「ミニマムマジック」は詠唱に時間がかかる術なの。\nその間に動かれたら不発になっちゃうんだけど、\nこうやって胸を揺らしていれば数秒はクギ付けにできちゃう❤ ,"Minimum Magic" is a spell that takes time to chant. If you move during it; the spell will fail... But swaying my chest like this can keep you distracted for a few seconds~❤
+くす❤詠唱完了よ❤えい！,Ufufu~❤ Incantation complete!❤ Eei!
