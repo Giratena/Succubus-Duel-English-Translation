@@ -1,376 +1,391 @@
 default
-フラワー,
+フラワー,Mycella
 F11_bustShowAnime,
 F11_paizuriWing,
-村娘に化けていた下級サキュバス。キノコのカードを好んで使う。純真そうな見た目でありながら、相手の能力を下げて無力化し一方的にいたぶるのが好きというサディスティックな一面を持つ。胸が体格の割に大きく、パイズリが得意。
-下級サキュバスとして一見平凡な能力に見えるが魔力を隠すのが得意であり、たいていのカードマスターには見抜かれない擬装ができる。エルルは魔力観察については上位ランクのマスター並みの実力があるため、今回は擬装がバレてしまった。もし何も気が付かなければ、完全に油断したところをいつの間にかキノコの力で弱体化させられて、一方的に精を搾り取られてしまっていただろう。,
-村娘に化けていた下級サキュバス。キノコのカードを好んで使う。純真そうな見た目でありながら、相手の能力を下げて無力化し一方的にいたぶるのが好きというサディスティックな一面を持つ。胸が体格の割に大きく、パイズリが得意。\n下級サキュバスとして一見平凡な能力に見えるが魔力を隠すのが得意であり、たいていのカードマスターには見抜かれない擬装ができる。エルルは魔力観察については上位ランクのマスター並みの実力があるため、今回は擬装がバレてしまった。もし何も気が付かなければ、完全に油断したところをいつの間にかキノコの力で弱体化させられて、一方的に精を搾り取られてしまっていただろう。,
-導入イベントをスキップしますか？,
-OPイベントをスキップしますか？,
-ランクポイントが貯まった僕は、ランクアップのために再びギルドの建物を訪れていた。,
-新人マスターさん、ギルドへようこそ！\nお元気そうですね。,
-もうランクアップ試験ですか？\nこの短い期間で、さすがです！,
-EランクからDランクに昇格するためには、\nクエストを１つクリアしてもらうのが条件です。,
-ちょうどあなた宛てに依頼が届いているので、\n今回はそれをこなしてもらうことにしましょう。,
-クエストの内容は\n「街付近に現れたサキュバスの調査」です。,
-はい。あなたが街の近くで出会ったというサキュバスですね。\n衛兵へ報告いただきありがとうございました。\nそのときの報告がギルドにも上がってきています。,
-情報を見る限り下級のサキュバスのようですが…。\n普段この辺りにサキュバスは現れませんし、出現したのがたとえ下級サキュバスであったとしても注意すべき事態であるとギルドは考えます。,
-そこで、目撃者であるあなたに、\nこの件のくわしい調査をお願いしたいわけです。,
-とはいえ新人マスターさんはまだ調査などは不慣れでしょうから、\n今回はパートナーをつけさせてもらいますね。,
-そう言うと受付のお姉さんは、部屋の奥の方を見て手招きをした。,
-こんにちは。わたしはエルル。\nDランクのカードマスターよ。はじめまして。,
-あなたは、まだこの街に来たばかりでしょう？\nカードも初心者なんだっけ？,
-ふむふむ。なるほど。修行は長くやってきたけど、\n実戦経験はあまりない感じなのね。\nわかったわ。,
-まあ、FランクからDランクに\nあっという間に上がってきているんだし、実力は間違いなさそうね。\n期待してるわ。,
-それで、わたしは魔力の痕跡を調査したり\n偵察任務を行うのが専門分野なの。,
-今回のクエストでは、君が戦ったっていうサキュバスのことを\nわたしの能力で調べようってわけ。わかった？,
-こんにちは。わたしはエルル。\nDランクのカードマスターよ。って、あら…。,
-あなた、わたしと何回か戦ったことがあるわね。\n覚えている？ほら…❤,
-エルルはにやにやした顔で、手でわっかを作り、からかうように上下に動かして見せつけてきた。,
-うふふ。わたしの手コキでイかされちゃってた子が、\nもうＤランクに挑戦かぁ…。\nずいぶんと頑張ったじゃない♪,
-そうだ。頑張ったあなたに、\nあとで気持ちいい"ご・ほ・う・び"あげよっか？\nくすくす❤,
-あううっ・・・・❤,
-あは、顔を真っ赤にしちゃってかわいいー♪\n人前でこういうことされたら恥ずかしいわよね。ごめんごめん♪,
-エルルはにやにやした顔で、胸を寄せ上げると、からかうように上下に動かして見せつけてきた。,
-うふふ。わたしのしもべに負けて、\nパイズリで何回もイかされちゃってた子が、\nもうＤランクに挑戦かぁ…。ずいぶんと頑張ったじゃない♪,
-頑張ったあなたには、\nあとで気持ちいい"ごほうび"あげよっか？\nキャロルとわたしでダブルパイズリとか…❤くすくす❤,
-あは、想像しちゃったんだ❤\n前かがみになっちゃってかわいいー♪,
-って、人前でこういうことされたら恥ずかしいわよね。ごめんごめん♪,
-あは、バトルのときのこと思い出しちゃった？\n前かがみになっちゃってかわいいー♪,
-まだまだエッチなバトルには慣れてない感じね。\nでも、もうDランクに挑戦なんてすごいじゃない。,
-まあ、手札運が悪かったとはいえ、\nわたしに勝ったぐらいだもんね。\n今回の任務でも頼りにしてるわ。,
-うふふ。わたしの手コキで気持ちよくなって、\nそのすきにモンスターにやられちゃった子が、\nもうＤランクに挑戦かぁ…。ずいぶんと頑張ったじゃない♪,
-それで、クエストについてだけどね、\nわたしって戦闘以外でも偵察とか調査が得意なの。\n魔力の痕跡を探って、敵の居場所を突き止めたりできるのよ。,
-君が戦ったっていうサキュバスのことを、\nその力で調べようってわけ。わかった？,
-エルルさん、ご説明ありがとうございます。,
-今回のクエストの目的はサキュバスの痕跡調査です。\n退治が目的ではありません。ないとは思いますが、万が一ほかのサキュバスに遭遇しても素早く撤退するよう心がけてください。,
-それでは、はじめてのクエスト頑張ってきてくださいね！,
-そういうわけで僕はエルルさんと一緒に、以前サキュバスに襲われた場所へと向かったのだった。,
-ふーん。そのサキュバスはどんな見た目で、\nどんなカードを使ってきたの？,
-僕は、サキュバスは小柄な少女の姿をしていたこと、スライム系のカードを使ってきたことなどを説明した。また戦いの様子も思い出せる限りエルルに話した。エルルさんはそれを聞いてしきりにうなずいている。,
-なるほどねー。ってことは…。,
-たぶんこれがそのときの魔力の跡かな。,
-そう言ってエルルさんは地面の一か所を指さしてみせた。僕はその場所を目を凝らして見てみたが何も見えない。ただの地面だ。,
-んふふ。そんな簡単にわかるものなのかって？\nなにせわたし天才だからさー。ランクこそDだけど、\n調査の実力だけで言えばBランクぐらいの能力があるのよ。,
-ただ…。うーん、少し気になる部分もあるし、\nもうちょっと詳しく見たほうがいいかもね。カードを使うわよ。,
-わたしたちを対象にカードを発動、「アナライズ」！,
-エルルさんがカードを発動させると、目がほんのり熱を帯びてくるのを感じる。すると、さっきまで見えなかった魔力の痕跡がはっきりと視界に浮かび上がってきた。,
-ふふ、便利な魔法でしょ？そこの岩についた青色の魔力が見えるかしら。\n道端にこんなに濃く魔力が付くことは普通ないから、\nあなたが戦闘したときの跡で間違いないと思うわ。,
-サキュバス特有の邪気も感じるし、\n水属性の魔力だってのも一致しているわね。,
-問題は、こっちの青い跡。\n同じサキュバスの魔力だと思うんだけど…、\nそれにしてはこれ、かなり新しいの。,
-うん。跡がついたのは半日前ってところかな…？\n明らかにあなたとの戦闘より後に付着しているわ。,
-サキュバスは退治されたはずだよね。\nなのに、なんで新しい跡がついているんだろう？おかしくない？,
-・・・・。,
-まあなんにせよ、跡をたどってみよっか。\n半日前ならそう遠くには行っていないはずだし、\nもしかしたらサキュバスの隠れ家とかがわかるかも。,
-うーん、だいぶ森の中まで来ちゃったね。\n魔力跡も濃くなってきたし、\nたぶんそろそろ見つかると思うんだけど…。,
-ん、あれは…。,
-森でキノコを採っている女の子の姿が目に入った。服装を見る限り、近くの村の住人だろうか。,
-向こうもこちらに気づいたらしく、にこにこしながらこちらを見て手を振っている。彼女にサキュバスについて話を聞いてみるのもいいかもしれない。,
-あのすみません、この辺で怪しい姿を…。,
-待って。あの子の体をよく見て。,
-そう言ってエルルさんは急に僕を制止した。,
-あの子、サキュバスの魔力が服についている。\n青色で、それもかなり新しいやつ。,
-言われてみれば、服や手の一部に青い光が見える。「アナライズ」の効果がかかっていなければわからなかっただろう。,
-どうしたんですか？こんな森の中に…。\n見た感じ、この辺の村の人じゃなさそうですけど。,
-って、あらあら、カードに手を構えちゃって。\nそんなに警戒されていたら、こんな小芝居意味ないですよね。,
-そうです。わたしサキュバスでーす❤\nこんにちはー❤,
-目の前のサキュバスが羽をあらわにし、僕たちにあからさまに魔力をぶつけてきた。まさかこんな街の近くにまたサキュバスがいるだなんて！,
-ギルドで言われたように急いで逃げるべきか…。でもこんなに接近していたらそう簡単には逃げられない…。,
-そんなことを考えて、目の前のサキュバスの動きに神経をとがらせていたその瞬間、不意に背後の木の上から別の影が飛び降りてきた！,
-きゃあ！,
-あは、背中が隙だらけですよ❤\nおっきいおっぱいのあなたの体、\nわたしのスライムでぐちゅぐちゅにしちゃいます❤,
-くう、離れろっ！このっ！,
-エルルは体にまとわりついてきたスライムサキュバスをなんとか振り払った！しかし、状況はかなりまずい。完全に挟み撃ちだ！,
-こうなったら覚悟を決めるわよ！\nわたしがこっちを相手するから\nあなたはそっちのサキュバスをお願い！,
-きゃはは❤いいねいいね、熱い展開じゃん❤\nそれじゃその子の言う通り、わたしがあなたの相手してあげるね❤\n男の子がサキュバス相手にどれぐらい戦えるのかなー❤,
-わたしのおっぱい見てるだけで\n戦意喪失しちゃったりしないかなー❤\nたのしみー❤,
-へえー、生意気なこと言うじゃん❤\nそんなこと言われたらちょっとムカついちゃうなー。,
-だから、ほら、チラ❤,
-あは、今見たよね谷間❤\n楽勝とか言った相手の谷間に視線を吸い寄せられちゃうんだー❤\nかっこわるーい❤,
-ほらほらもっと見てぇ❤\nおっぱいに釘付けになってぇ❤,
-あううっ…❤,
-くすくす❤頭の中ぼんやりしているうちに、\nパイズリとかぱふぱふで、たっぷり搾り取ってあげるね❤,
-はぁ、はぁ、なんとか倒したぞ…。,
-サキュバスはとどめをさされると光の粒になり消えていった。僕は急いで背後を振り返る。エルルさんがまだ戦っているはずだ…！,
-くっ、サキュバスはやっぱり強い…！,
-援護します！,
-僕は敵のスライムサキュバスめがけて魔法カードで攻撃をしかけた！,
-きゃあ！うそ、フラワーちゃん負けちゃったの！,
-わたしのモンスターたち、チャンスよ！\n相手プレイヤーにダイレクトアタック！,
-あうう、復活してすぐじゃなければ…。,
-エルルの指示でモンスターたちがとどめをさす。エルルに倒されたサキュバスは、その場で霧のように消えてしまった。,
-はぁ、ふう…。なんとかなったわね…。そっちは大丈夫？,
-へえ、きみなかなかすごいのね。\n男なのにサキュバス相手に１対１で勝てるなんて、かなりのものよ。,
-わたしの相手の子は、\nなんだか本調子じゃないって感じだったし、\nそのおかげでなんとか戦えたわ。,
-なんにせよ、早くギルドに戻りましょう。\nまた別のサキュバスがいたりしたら危険だわ。,
-こうして僕たちは窮地を潜り抜け急いでギルドへと戻ったのだった。,
-お二人ともお疲れさまでした。調査はいかがでしたか？,
-何か、サキュバスたちの手がかりなど掴めそうでしたでしょうか,
-え？サキュバスに襲われた？それも二体！？,
-目を丸くしている受付さんに、僕たちは森の中で起きたできごとを詳しく説明した。,
-倒したはずのスライムサキュバスが生きていたこと、別のサキュバスが森の中にいてそのサキュバスに挟み撃ちにされたこと。,
-受付さんは僕たちの話をとても信じられないという様子で聞いていた。EランクとDランクの二人で２体のサキュバスに勝つなんて普通ありえないことらしい。,
-なるほど…。\nにわかには信じられませんが、だいたいの事情はわかりました。,
-魔族領から遠く離れたこの地に\n複数体のサキュバスがいるのはとても稀なことです。\nなぜサキュバスがこの街に…。,
-それに倒されたサキュバスが復活するだなんて…。\nうーん、これはしっかりとした調査が必要ですね。,
-いずれにしても、今回はお疲れさまでした。\nクエストは無事達成です。\nランクの昇格を行いますので指輪をこちらへお渡しください。,
-ランクがDランクにアップした！,
-ランクアップおめでとう。\n大変な任務になっちゃったわね。,
-それにしてもなんでサキュバスたちがモルゲンの近くにいたのかしら。\n国境からここまで侵入するのだってそう簡単じゃないと思うのだけど。,
-確かに、いまは１０年に１度の大会で\nカードマスターが国中から集まっているわね。,
-カードマスターのエナジーは\nサキュバスにとってとてもおいしいらしいから、\nそれを狙っているってのはあるのかも。,
-まあ逆に言えば戦力が集結している状況なわけで、\n高ランクマスターもぞろぞろいる。\nこんなときにこの辺を襲おうだなんてサキュバスも無謀よね。,
-その可能性は十分にあるわね。\n下級のサキュバス２体がたまたま迷い込んだだけかもしれない。,
-サキュバスの特性によっては人間に化けるのがうまかったり、\n隠密性に優れてたりするから\nたまに国境内に侵入されることもあるの。,
-あのスライムサキュバスなんて、どこの隙間にでも入り込めそうだし、\n隠れて侵入するのにはうってつけかもね。,
-え！？もしかしてあなた、実は超VIPだったりするの？\n王族だったりとか？,
-別にちがう…？ふふ、じゃあそれは自意識過剰よ。,
-確かにあなたの腕には目を見張るものがあるけれど、\nサキュバスたちがあなたのことを知っているはずもないし、\nあなたが標的ってのは考えづらいと思うわ。,
-もしも王族とかだったなら、\n人質にしたり洗脳するために襲撃をしかけるかもしれないけれど、\nモルゲンにそんな人が来ているって話は聞かないし…。うーむ。,
-まあなんにしても今後の調査次第よね。\n他に潜んでいるサキュバスがいるかもしれないけれど、\nとりあえずわたしたちはこのまま大会を頑張っていくしかないわ。,
-あなたにランクで追いつかれちゃったし、\nわたしも頑張らないと！それじゃあね。,
-僕はエルルさんと別れ、宿屋へと戻った。初めてのクエストで体はもうクタクタだ。,
-サキュバスたちの姿が見え始め、少し不穏な気配も感じるが、僕はただランクをあげることに集中しよう。師匠に言われた目標のAランクまであと３ランクだ！,
-あなたのターンからだね！くすくす❤おっぱいに見とれてて大丈夫？,
-ほら、また見ていいよ❤戦う前からおっぱいにメロメロになっちゃえ❤,
-わたしのターンからだね！わたしのキノコモンスターたちは強いよー？,
-あなたの力を胞子で弱らせてすぐに一方的なバトルにしてあげる❤ま、そもそも…。,
-谷間チラ見せでおっぱいに釘付けになっちゃう男なんて、楽勝かもね❤くすくす❤,
-あなたのターンからだね！わたしがいっぱい気持ちよくして吸い殺してあげる❤,
-吸い殺すとか言われて怖い？だいじょうぶだよー❤気持ちよくなっているうちにあっという間に終わるからね。くすくす❤,
-あなたの力を胞子で弱らせてすぐに一方的なバトルにしてあげる❤くすくす❤,
-ドロー！,
-わたしのターン、ドロー。,
+村娘に化けていた下級サキュバス。キノコのカードを好んで使う。純真そうな見た目でありながら、相手の能力を下げて無力化し一方的にいたぶるのが好きというサディスティックな一面を持つ。胸が体格の割に大きく、パイズリが得意。,Mycella. A lower-class succubus disguised as a village girl. Prefers to use mushroom cards. She looks innocent; but holds a sadistic side that enjoys lowering her opponent’s abilities and bullying them one-sidedly. She has quite big breasts and is skilled at giving titjobs.
+下級サキュバスとして一見平凡な能力に見えるが魔力を隠すのが得意であり、たいていのカードマスターには見抜かれない擬装ができる。エルルは魔力観察については上位ランクのマスター並みの実力があるため、今回は擬装がバレてしまった。もし何も気が付かなければ、完全に油断したところをいつの間にかキノコの力で弱体化させられて、一方的に精を搾り取られてしまっていただろう。,Although her abilities might seem average for a lower-class succubus; she’s skilled at hiding her own magical power so that your average cardmasters cannot see it. She was exposed by Eruru because she had magic observation skills on par with a high-ranked cardmaster. If she hadn’t been exposed; she would’ve weakened her foes while they were unaware and drained their energy one-sidedly.
+村娘に化けていた下級サキュバス。キノコのカードを好んで使う。純真そうな見た目でありながら、相手の能力を下げて無力化し一方的にいたぶるのが好きというサディスティックな一面を持つ。胸が体格の割に大きく、パイズリが得意。\n下級サキュバスとして一見平凡な能力に見えるが魔力を隠すのが得意であり、たいていのカードマスターには見抜かれない擬装ができる。エルルは魔力観察については上位ランクのマスター並みの実力があるため、今回は擬装がバレてしまった。もし何も気が付かなければ、完全に油断したところをいつの間にかキノコの力で弱体化させられて、一方的に精を搾り取られてしまっていただろう。,A lower-class succubus disguised as a village girl. Prefers to use mushroom cards. She looks innocent; but has a sadistic side that enjoys lowering her opponent’s abilities so can bully them without letting them fight back. She also has quite large breasts and is skilled in the art of paizuri. Although her abilities might seem average for a lower-class succubus; she’s skilled at disguising her succubus aura to the point it can't be detected by lower ranked cardmasters. She was exposed by Eruru due to her high-ranked cardmaster magic observation skills. If she hadn’t been exposed; she would’ve weakened her and the protagonist while they were unaware and drained them with no hope of resistance.
+導入イベントをスキップしますか？,Do you want to skip the introduction?
+はい,Yes
+いいえ,No
+OPイベントをスキップしますか？,Do you want to skip the opening event?
+ランクポイントが貯まった僕は、ランクアップのために再びギルドの建物を訪れていた。,I had finally gathered enough rank points and; once again; I went to the guild.
+新人マスターさん、ギルドへようこそ！\nお元気そうですね。,Welcome to the guild; Newbie! You seem lively today!
+もうランクアップ試験ですか？\nこの短い期間で、さすがです！,You want to take the rank-up exam? It hasn’t even been that long since your last one. Impressive!
+Dランクの昇格に来ました。,I came to be promoted to D-rank.
+EランクからDランクに昇格するためには、\nクエストを１つクリアしてもらうのが条件です。,The requirement to increase your rank from E-rank to D-rank is to clear 1 quest.
+ちょうどあなた宛てに依頼が届いているので、\n今回はそれをこなしてもらうことにしましょう。,It just so happens that a quest has just arrived asking for you; so this time we’ll have you handle it.
+クエストの内容は\n「街付近に現れたサキュバスの調査」です。,The details of the quest are “to investigate the succubus appearance of a succubus near town.”
+そのサキュバスって…。,Succubus? Could it be......
+はい。あなたが街の近くで出会ったというサキュバスですね。\n衛兵へ報告いただきありがとうございました。\nそのときの報告がギルドにも上がってきています。,Correct; it’s about the succubus you encountered near the town. We’re thankful that you reported it to the guards; and that report was sent to the guild.
+情報を見る限り下級のサキュバスのようですが…。\n普段この辺りにサキュバスは現れませんし、出現したのがたとえ下級サキュバスであったとしても注意すべき事態であるとギルドは考えます。,Based on that information; it seems to be a lower-class succubus... Succubi don’t normally appear around the town; which is why the guild considers this a matter of high importance; even if it only involves a lower-class succubus.
+そこで、目撃者であるあなたに、\nこの件のくわしい調査をお願いしたいわけです。,And that’s why we are asking you; a first-hand eyewitness familiar with the case in question; to investigate about the succubus' appearance.
+なるほど。,Understood.
+とはいえ新人マスターさんはまだ調査などは不慣れでしょうから、\n今回はパートナーをつけさせてもらいますね。,That being said; a newbie cardmaster might not be familiar with how to do investigations. That’s why we brought you a partner to help.
+そう言うと受付のお姉さんは、部屋の奥の方を見て手招きをした。,As the receptionist lady says that; she gave a signal to someone inside the room.
+こんにちは。わたしはエルル。\nDランクのカードマスターよ。はじめまして。,Hello; I’m Eruru. A D-rank cardmaster. Good to meet you.
+あなたは、まだこの街に来たばかりでしょう？\nカードも初心者なんだっけ？,Didn’t you just come to this town recently? And you’re a newbie cardmaster too?
+ふむふむ。なるほど。修行は長くやってきたけど、\n実戦経験はあまりない感じなのね。\nわかったわ。,Hmm; I see. You’ve been training for a long time, but you don’t have much actual combat experience.
+まあ、FランクからDランクに\nあっという間に上がってきているんだし、実力は間違いなさそうね。\n期待してるわ。,Well; if you got from F-rank to D-rank in such a short time then I’m sure you’ve got the strength to back it up. I’m expecting a lot from you.
+それで、わたしは魔力の痕跡を調査したり\n偵察任務を行うのが専門分野なの。,You see; I specialize in investigating traces of magical power and carrying out reconnaissance missions.
+今回のクエストでは、君が戦ったっていうサキュバスのことを\nわたしの能力で調べようってわけ。わかった？,For this quest; I’ll be using my abilities to investigate more about that succubus you fought. Got it?
+こんにちは。わたしはエルル。\nDランクのカードマスターよ。って、あら…。,Hello; I’m Eruru. A D-rank cardmaster. Good to meet... wait...
+あなた、わたしと何回か戦ったことがあるわね。\n覚えている？ほら…❤,We’ve fought multiple times before; right? Do you remember me? Hora...❤
+エルルはにやにやした顔で、手でわっかを作り、からかうように上下に動かして見せつけてきた。,Eruru has a big grin on her face as she makes a ring with her hand and teased me by moving it up and down.
+うふふ。わたしの手コキでイかされちゃってた子が、\nもうＤランクに挑戦かぁ…。\nずいぶんと頑張ったじゃない♪,Ufufu; the kid who came from my handjob is now about to try getting D-rank... You must’ve worked so hard～♪
+そうだ。頑張ったあなたに、\nあとで気持ちいい"ご・ほ・う・び"あげよっか？\nくすくす❤,Right; since you’ve worked so hard; how about I give you a pleasurable “reward” after this? Teehee～
+あううっ・・・・❤,Ahh...
+あは、顔を真っ赤にしちゃってかわいいー♪\n人前でこういうことされたら恥ずかしいわよね。ごめんごめん♪,Aha; it’s so cute how your face is all beet red～♪ Sorry; saying that in front of everyone must’ve been really embarassing♪
+エルルはにやにやした顔で、胸を寄せ上げると、からかうように上下に動かして見せつけてきた。,Eruru has a big grin on her face as she pushed her breasts together and teased me by moving them up and down.
+うふふ。わたしのしもべに負けて、\nパイズリで何回もイかされちゃってた子が、\nもうＤランクに挑戦かぁ…。ずいぶんと頑張ったじゃない♪,Ufufu; the kid who lost to my subordinate and came multiple times from a titjob is now trying to get D-rank... You must’ve worked so hard～♪
+頑張ったあなたには、\nあとで気持ちいい"ごほうび"あげよっか？\nキャロルとわたしでダブルパイズリとか…❤くすくす❤,For such a hard working kid; how about a pleasurable “reward” afterwards? Me and Carol will give you a double titjob...
+あは、想像しちゃったんだ❤\n前かがみになっちゃってかわいいー♪,Aha; you’re imagining it～❤ You're so cute when you're lost in thought～♪
+って、人前でこういうことされたら恥ずかしいわよね。ごめんごめん♪,...Ah; it must be embarasing being teased in public over something like this. Sorry about that～♪
+あは、バトルのときのこと思い出しちゃった？\n前かがみになっちゃってかわいいー♪,Aha; are you remembering all the times we fought? You're so cute when you're lost in thought～♪
+まだまだエッチなバトルには慣れてない感じね。\nでも、もうDランクに挑戦なんてすごいじゃない。,Seems you’re still not used to lewd battles by now. And yet; you’re already taking on the D-rank exam. That’s pretty impressive.
+まあ、手札運が悪かったとはいえ、\nわたしに勝ったぐらいだもんね。\n今回の任務でも頼りにしてるわ。,Well; you still beat me even though you had terrible luck with your hands. I’ll be counting on you for this mission.
+うふふ。わたしの手コキで気持ちよくなって、\nそのすきにモンスターにやられちゃった子が、\nもうＤランクに挑戦かぁ…。ずいぶんと頑張ったじゃない♪,Ufufu; the kid who got pleasured by my handjob and let my monsters do whatever they want is now trying to get D-rank... You must’ve worked so hard～♪
+それで、クエストについてだけどね、\nわたしって戦闘以外でも偵察とか調査が得意なの。\n魔力の痕跡を探って、敵の居場所を突き止めたりできるのよ。,So about the quest; I specialize in investigating traces of magical energy and carrying out reconnaissance missions. I can search for traces of magical energy and identify the location of the enemy.
+君が戦ったっていうサキュバスのことを、\nその力で調べようってわけ。わかった？,I’ll use that ability to investigate more about the succubus that you fought. Got it?
+エルルさん、ご説明ありがとうございます。,Thank you for your explanation; Eruru.
+今回のクエストの目的はサキュバスの痕跡調査です。\n退治が目的ではありません。ないとは思いますが、万が一ほかのサキュバスに遭遇しても素早く撤退するよう心がけてください。,The goal of this quest is to investigate; not to exterminate. I don’t think this would happen; but in the unlikely event that you do encounter a succubus; please retreat immediately.
+それでは、はじめてのクエスト頑張ってきてくださいね！,Well then; good luck on your very first quest!
+そういうわけで僕はエルルさんと一緒に、以前サキュバスに襲われた場所へと向かったのだった。,And thus; me and Eruru headed to the location where I was attacked by a succubus.
+ここでサキュバスに会いました。,I met the succubus over here.
+ふーん。そのサキュバスはどんな見た目で、\nどんなカードを使ってきたの？,Hmm; what did that succubus look like at that time; and what kind of cards did she use?
+僕は、サキュバスは小柄な少女の姿をしていたこと、スライム系のカードを使ってきたことなどを説明した。また戦いの様子も思い出せる限りエルルに話した。エルルさんはそれを聞いてしきりにうなずいている。,You explained to her that the succubus took the form of a girl with a small stature and used slime-type cards. You also told her as much as you can remember about your fight with the succubus. Eruru listened to the story and nodded multiple times.
+なるほどねー。ってことは…。,I see. Then in that case...
+たぶんこれがそのときの魔力の跡かな。,These are probably the traces of magic energy from then.
+そう言ってエルルさんは地面の一か所を指さしてみせた。僕はその場所を目を凝らして見てみたが何も見えない。ただの地面だ。,As Eruru says that; she pointed at a location on the ground. I tried to take a hard look at that place; but I couldn't see anything else besides the ground.
+んふふ。そんな簡単にわかるものなのかって？\nなにせわたし天才だからさー。ランクこそDだけど、\n調査の実力だけで言えばBランクぐらいの能力があるのよ。,Hehe; how could I easily find it? Well; I’m a genius after all.I might be a D-rank; but I’d be around B-rank if my investigation skills were to be ranked.
+ただ…。うーん、少し気になる部分もあるし、\nもうちょっと詳しく見たほうがいいかもね。カードを使うわよ。,It’s just that... Hmm; something still feels a little off. It might be worthwhile to look into it further. I’m going to use my card.
+わたしたちを対象にカードを発動、「アナライズ」！,I activate the card “Analyze” on us!
+エルルさんがカードを発動させると、目がほんのり熱を帯びてくるのを感じる。すると、さっきまで見えなかった魔力の痕跡がはっきりと視界に浮かび上がってきた。,When Eruru used her card; I could feel a faint heat in my eyes; and the traces of magical energy that weren't visible to me earlier gradually came into view.
+ふふ、便利な魔法でしょ？そこの岩についた青色の魔力が見えるかしら。\n道端にこんなに濃く魔力が付くことは普通ないから、\nあなたが戦闘したときの跡で間違いないと思うわ。,Fufu. Useful spell; ain't it? Do you see that blue-colored magic energy on that rock over there? A strong trace like that on the side of the road isn’t normal at all. It was definitely left behind during your fight.
+サキュバス特有の邪気も感じるし、\n水属性の魔力だってのも一致しているわね。,I can even feel an aura typical of a succubus; and it being water-attribute also matches your story.
+問題は、こっちの青い跡。\n同じサキュバスの魔力だと思うんだけど…、\nそれにしてはこれ、かなり新しいの。,The problem is these blue traces; though. I think they’re traces of magical energy from the same succubus... but they seem pretty new.
+新しい？,They’re new?
+うん。跡がついたのは半日前ってところかな…？\n明らかにあなたとの戦闘より後に付着しているわ。,Yep. These energy traces are probably left from half a day ago...? I’m confident that these are from after your fight.
+サキュバスは退治されたはずだよね。\nなのに、なんで新しい跡がついているんだろう？おかしくない？,The succubus was supposed to be eliminated; so why are there still newer traces of magical energy? Isn’t that weird?
+・・・・。,.....
+まあなんにせよ、跡をたどってみよっか。\n半日前ならそう遠くには行っていないはずだし、\nもしかしたらサキュバスの隠れ家とかがわかるかも。,In any case; let’s follow the trail they left behind. They’re from half a day ago; so they couldn’t have gone far. Perhaps we’ll even find something like their hideout.
+うーん、だいぶ森の中まで来ちゃったね。\n魔力跡も濃くなってきたし、\nたぶんそろそろ見つかると思うんだけど…。,Hmm; we've ventured quite deep into the forest; haven't we? The traces of magical energy are getting stronger too; so I think we'll probably find them soon...
+ん、あれは…。,Hey; isn’t that...
+森でキノコを採っている女の子の姿が目に入った。服装を見る限り、近くの村の住人だろうか。,I spotted a girl picking mushrooms in the forest. From her clothes; she’s probably a villager from a nearby town.
+向こうもこちらに気づいたらしく、にこにこしながらこちらを見て手を振っている。彼女にサキュバスについて話を聞いてみるのもいいかもしれない。,It seems she’s spotted us; smiling and waving our way. Maybe we can ask her if she’s seen any succubi around.
+あのすみません、この辺で怪しい姿を…。,Sorry to bother you; but have you seen anyone suspici-
+待って。あの子の体をよく見て。,Hold on a second. Look at her body more closely.
+そう言ってエルルさんは急に僕を制止した。,Eruru held her arm in front of me; stopping me in my tracks.
+あの子、サキュバスの魔力が服についている。\n青色で、それもかなり新しいやつ。,That girl; there's succubus magic clinging to her clothes. It's blue; and quite fresh as well.
+言われてみれば、服や手の一部に青い光が見える。「アナライズ」の効果がかかっていなければわからなかっただろう。,Now that she mentioned it; I could see blue light on parts of her clothes and hands. I probably wouldn't have noticed without the "Analyze" effect active.
+どうしたんですか？こんな森の中に…。\n見た感じ、この辺の村の人じゃなさそうですけど。,What's the matter? Why are you in these woods...? Judging by your appearance; you don't seem to be from any of the villages around her-
+って、あらあら、カードに手を構えちゃって。\nそんなに警戒されていたら、こんな小芝居意味ないですよね。,Oh~ Ara; ara. You’re already in a stance to use your cards. If you’re already that cautious; then I guess I don’t need to continue this act anymore.
+そうです。わたしサキュバスでーす❤\nこんにちはー❤,As you guessed; I’m a succubus~❤ Good to meet you!~❤
+目の前のサキュバスが羽をあらわにし、僕たちにあからさまに魔力をぶつけてきた。まさかこんな街の近くにまたサキュバスがいるだなんて！,Suddenly; the succubus before our eyes revealed her wings; unleashing her magical power directly at us. To think there would be another succubus so close to the city!
+ギルドで言われたように急いで逃げるべきか…。でもこんなに接近していたらそう簡単には逃げられない…。,Should we do what the guild said and quickly run away...? But she's already right in front of us. We might not be able to get away easily...
+そんなことを考えて、目の前のサキュバスの動きに神経をとがらせていたその瞬間、不意に背後の木の上から別の影が飛び降りてきた！,I was thinking hard; focusing my nerves on the movements of the succubus in front of me. But at that very moment; another shadow suddenly jumped down from a tree behind us!
+きゃあ！,Aaaah!!
+あは、背中が隙だらけですよ❤\nおっきいおっぱいのあなたの体、\nわたしのスライムでぐちゅぐちゅにしちゃいます❤,Aha; you left yourself wide open~❤ Those huge boobs of yours won't stand a chance all sticky and wet with my slime~❤
+くう、離れろっ！このっ！,Ugh; let go of me!
+エルルは体にまとわりついてきたスライムサキュバスをなんとか振り払った！しかし、状況はかなりまずい。完全に挟み撃ちだ！,Eruru managed to shake off the slime coiling around her body; but the situation had taken a turn for the worse— we were being flanked on both sides!
+こうなったら覚悟を決めるわよ！\nわたしがこっちを相手するから\nあなたはそっちのサキュバスをお願い！,If it's come to this; I'm not going to pull any punches! Leave this one to me. You deal with the other one!
+わかりました！,Got it!
+こんな相手楽勝です！,Someone like her will be a piece of cake!
+きゃはは❤いいねいいね、熱い展開じゃん❤\nそれじゃその子の言う通り、わたしがあなたの相手してあげるね❤\n男の子がサキュバス相手にどれぐらい戦えるのかなー❤,Kyahaha～❤ Good; good～❤ Things are getting heated now～❤ Well then; as that girl said; I’ll be your opponent～❤ I wonder how long a boy like you will last with a succubus as your opponent～❤
+わたしのおっぱい見てるだけで\n戦意喪失しちゃったりしないかなー❤\nたのしみー❤,I wonder if you’ll lose your fighting spirit from looking at my breasts alone～❤ I can’t wait～❤
+へえー、生意気なこと言うじゃん❤\nそんなこと言われたらちょっとムカついちゃうなー。,Ohh; aren't you a cheeky one~❤ You're starting to get on my nerves already~
+だから、ほら、チラ❤,But I've got just the thing for cheeky boys like you~❤ Check this out~❤
+あは、今見たよね谷間❤\n楽勝とか言った相手の谷間に視線を吸い寄せられちゃうんだー❤\nかっこわるーい❤,Aha～❤ You just snuck a peek; didn’t you?❤ You talk about how easy this is; and yet your eyes went right to your opponent's cleavage...❤ That’s so lame～❤
+ほらほらもっと見てぇ❤\nおっぱいに釘付けになってぇ❤,Hora hora~❤ Just keep staring~❤ Don’t take your eyes off of my breasts~❤
+あううっ…❤,Auuu...❤
+くすくす❤頭の中ぼんやりしているうちに、\nパイズリとかぱふぱふで、たっぷり搾り取ってあげるね❤,Teehee~❤ I'll thoroughly drain you dry using my Paizuri and Puff-Puff skills while your mind is all hazy and fuzzy~❤
+はぁ、はぁ、なんとか倒したぞ…。,Haah; somehow I managed to beat her...
+サキュバスはとどめをさされると光の粒になり消えていった。僕は急いで背後を振り返る。エルルさんがまだ戦っているはずだ…！,The slain succubus shattered into a burst of light. I turned back and rushed to Eruru. She should still be fighting that succubus...!
+くっ、サキュバスはやっぱり強い…！,Kuh; she really is strong...!
+援護します！,I’ll back you up!
+僕は敵のスライムサキュバスめがけて魔法カードで攻撃をしかけた！,You aimed at the enemy slime succubus with your spell cards and launched an attack!
+きゃあ！うそ、フラワーちゃん負けちゃったの！,Kyaa! Unbelievable; how could Flower lose!?
+わたしのモンスターたち、チャンスよ！\n相手プレイヤーにダイレクトアタック！,Now’s our chance! My monsters; do a direct attack on the opponent!
+あうう、復活してすぐじゃなければ…。,Augh; if only it wasn’t right after I got resurrected...
+エルルの指示でモンスターたちがとどめをさす。エルルに倒されたサキュバスは、その場で霧のように消えてしまった。,The monsters ordered by Eruru landed the finishing blow. The defeated succubus vanished into mist.
+はぁ、ふう…。なんとかなったわね…。そっちは大丈夫？,Phew... Somehow we managed to scrape by...Are you alright?
+無事倒せました．,I managed to beat her.
+へえ、きみなかなかすごいのね。\n男なのにサキュバス相手に１対１で勝てるなんて、かなりのものよ。,Wow; that’s pretty impressive of you. A male winning against a succubus one-on-one is quite a feat.
+わたしの相手の子は、\nなんだか本調子じゃないって感じだったし、\nそのおかげでなんとか戦えたわ。,I was only able to manage fighting against my opponent because she didn’t seem to be at full strength.
+なんにせよ、早くギルドに戻りましょう。\nまた別のサキュバスがいたりしたら危険だわ。,In any case; we should return to the guild quickly. There might still be another succubus; so staying here any longer would be dangerous.
+こうして僕たちは窮地を潜り抜け急いでギルドへと戻ったのだった。,Thus we made our way through the danger and hurried back to the guild.
+お二人ともお疲れさまでした。調査はいかがでしたか？,Welcome back you two. How did the investigation turn out?
+何か、サキュバスたちの手がかりなど掴めそうでしたでしょうか,Were you able to obtain clues about the succubus?
+え？サキュバスに襲われた？それも二体！？,What? Succubi appeared during your investigation? And there were two of them!?
+目を丸くしている受付さんに、僕たちは森の中で起きたできごとを詳しく説明した。,The guild receptionist was taken aback as we explained what happened inside of the forest in detail.
+倒したはずのスライムサキュバスが生きていたこと、別のサキュバスが森の中にいてそのサキュバスに挟み撃ちにされたこと。,About how the slain slime succubus was still alive and about how you were ambushed by another succubus inside of the forest.
+受付さんは僕たちの話をとても信じられないという様子で聞いていた。EランクとDランクの二人で２体のサキュバスに勝つなんて普通ありえないことらしい。,The guild receptionist seemed to be in disbelief as she listened to our explanations. Normally; an E-rank and D-rank winning against two succubi would be impossible.
+なるほど…。\nにわかには信じられませんが、だいたいの事情はわかりました。,I see... As unbelievable as it sounds; I have a rough idea of the whole situation now.
+魔族領から遠く離れたこの地に\n複数体のサキュバスがいるのはとても稀なことです。\nなぜサキュバスがこの街に…。,It’s quite rare to find multiple succubi in a place so distant from demon territory. And why near this town; too?...
+それに倒されたサキュバスが復活するだなんて…。\nうーん、これはしっかりとした調査が必要ですね。,And a slain succubus being resurrected... Hmm; this must be investigated even further.
+いずれにしても、今回はお疲れさまでした。\nクエストは無事達成です。\nランクの昇格を行いますので指輪をこちらへお渡しください。,At any rate; good work you two. You’ve both completed the quest safely. Your rank will be promoted, so please hold out your ring.
+ランクがDランクにアップした！,Ranked up to D-rank!
+ランクアップおめでとう。\n大変な任務になっちゃったわね。,Congratulations on your rank-up. The mission turned out to be tougher than I thought.
+それにしてもなんでサキュバスたちがモルゲンの近くにいたのかしら。\n国境からここまで侵入するのだってそう簡単じゃないと思うのだけど。,Still; I wonder why those succubi were so close to Morgen. I don’t think it’d be that easy to infiltrate this city all the way from the border.
+カードマスターがこの街に集まっているから…？,Because cardmasters are gathered in town...?
+ただの偶然…？,Just a coincidence...?
+僕がこの街にいるから…？,Because I’m in this town...?
+確かに、いまは１０年に１度の大会で\nカードマスターが国中から集まっているわね。,If I remember correctly; this is the year we're holding a huge tournament; gathering cardmasters from all over the country. It only happens once every ten years.
+カードマスターのエナジーは\nサキュバスにとってとてもおいしいらしいから、\nそれを狙っているってのはあるのかも。,For a succubus; the energy of cardmasters is a delicacy. That might be what they’re aiming for.
+まあ逆に言えば戦力が集結している状況なわけで、\n高ランクマスターもぞろぞろいる。\nこんなときにこの辺を襲おうだなんてサキュバスも無謀よね。,On the other hand; it’s also a situation where military strength is concentrated and many high-ranked cardmasters are gathered. It’d be reckless for a succubus to attack at a time like that.
+その可能性は十分にあるわね。\n下級のサキュバス２体がたまたま迷い込んだだけかもしれない。,It’s possible that the two low-class succubi might also have just strayed that close to the city.
+サキュバスの特性によっては人間に化けるのがうまかったり、\n隠密性に優れてたりするから\nたまに国境内に侵入されることもあるの。,Depending on the succubus' traits; they can be adept at stealth and disguising themselves as humans; which allows them to sneak inside the borders of countries.
+あのスライムサキュバスなんて、どこの隙間にでも入り込めそうだし、\n隠れて侵入するのにはうってつけかもね。,That slime succubus; who can enter any opening; would be perfect for sneaking in.
+え！？もしかしてあなた、実は超VIPだったりするの？\n王族だったりとか？,HUH!? Are you some kinda Super-VIP? Like from a royal lineage?
+別にちがう…？ふふ、じゃあそれは自意識過剰よ。,I got it wrong...? Fufu; then you’re thinking too highly of yourself.
+確かにあなたの腕には目を見張るものがあるけれど、\nサキュバスたちがあなたのことを知っているはずもないし、\nあなたが標的ってのは考えづらいと思うわ。,Well; you’re pretty amazing with your skills; but there’s no way they’d know about that; and it’s pretty hard to imagine that you’d be their target.
+もしも王族とかだったなら、\n人質にしたり洗脳するために襲撃をしかけるかもしれないけれど、\nモルゲンにそんな人が来ているって話は聞かないし…。うーむ。,If you were royalty; then they could launch a surprise attack and take you hostage to brainwash you; but I haven’t heard of such a royal coming to Morgen... Hmm...
+まあなんにしても今後の調査次第よね。\n他に潜んでいるサキュバスがいるかもしれないけれど、\nとりあえずわたしたちはこのまま大会を頑張っていくしかないわ。,In either case; it’ll depend on how the investigations turn out later. There might still be other succubi lurking; but for now we should focus on the tournament and do our best there.
+あなたにランクで追いつかれちゃったし、\nわたしも頑張らないと！それじゃあね。,You caught up with my rank; so I’ll have to work even harder from now on! Well; I’ll be going now.
+僕はエルルさんと別れ、宿屋へと戻った。初めてのクエストで体はもうクタクタだ。,I parted ways with Eruru and returned back to my room at the inn. I’m exhausted from my first quest.
+サキュバスたちの姿が見え始め、少し不穏な気配も感じるが、僕はただランクをあげることに集中しよう。師匠に言われた目標のAランクまであと３ランクだ！,I feel a bit uneasy after seeing succubi start to appear; but I have to focus on ranking up first. The A-rank my master told me to aim is still three ranks away!
+あなたのターンからだね！くすくす❤おっぱいに見とれてて大丈夫？,It’s your turn! Teehee～❤ Are you sure you’ll be ok fighting with my boobs constantly in your field of view?
+ほら、また見ていいよ❤戦う前からおっぱいにメロメロになっちゃえ❤,Hora~ You can stare at them again if you like~❤ Go on and fall in love with my boobs before we start fighting~❤
+わたしのターンからだね！わたしのキノコモンスターたちは強いよー？,It’s my turn! My mushroom monsters are strong; you know!
+あなたの力を胞子で弱らせてすぐに一方的なバトルにしてあげる❤ま、そもそも…。,Their spores will make you go weak and turn this into a one-sided battle!❤ Well; to start with...
+谷間チラ見せでおっぱいに釘付けになっちゃう男なんて、楽勝かもね❤くすくす❤,It’s probably going to be an easy win since you couldn’t even take your eyes off my chest when I showed it off～❤ Teehee～❤
+あなたのターンからだね！わたしがいっぱい気持ちよくして吸い殺してあげる❤,It's your turn! I’ll make you feel so good and drain you completely dry～❤
+吸い殺すとか言われて怖い？だいじょうぶだよー❤気持ちよくなっているうちにあっという間に終わるからね。くすくす❤,Did you get scared when I said I’ll drain you dry? Don’t worry～❤ It’ll feel so good when you meet your end. Teehee～❤
+あなたの力を胞子で弱らせてすぐに一方的なバトルにしてあげる❤くすくす❤,Their spores will make you go weak and turn this into a one-sided battle～❤ Teehee～❤ 
+ドロー！,Draw!
+わたしのターン、ドロー。,It’s my turn. Draw.
 モンスターをコストに{使用カード}を上級召喚！,I advance summon {使用カード} using this monster!
 {使用カード}を召喚！,Summon {使用カード}!
-ううっ、あうう・・・❤,
-くすくす❤一回自滅しちゃった子をよみがえらせても\n意味ないみたいだね❤\nわたしたちに夢中で気持ちよさそうな顔～❤,
-サキュバスに負けちゃった気持ちよさが忘れられないみたい❤\nねー、マスターくんもこんな風になりたいよね。\n自分から負けちゃえば？ほら、谷間をチラ❤,
-うぐ・・・❤,
-あは、効いてる❤効いてる❤\n人間の男の子、ちょろくておもしろーい❤きゃはは♪,
-さらにもう1枚発動！,
-場に出たとき{使用カード}の効果発動！「よわよわ胞子」を１枚手札に加えるね！,
-{使用カード}が場に出たとき効果発動！「よわよわ胞子」を手札に加えるよー！,
-ターン終了時に{使用カード}の効果発動！自分フィールド上の植物モンスターのHPを強化するよ！,
-ターン終了時に{使用カード}の効果発動！植物モンスターのHPをパワーアップ！,
-攻撃宣言時に{使用カード}の効果発動！自分より相手が弱いとき、攻撃回数を増やしちゃうよ！,
-ぼこぼこにいじめちゃえ❤{使用カード}の効果発動！自分より相手が弱いとき、攻撃回数をアップ！,
-墓地へ送られたとき{使用カード}の効果発動！デッキから植物タイプモンスターをサーチ！,
-墓地へ送られたとき{使用カード}の効果発動！デッキから植物タイプモンスターを手札に加えるね！,
-{使用カード}の効果発動！デッキからランダムに５枚カードを墓地へ送るよ！,
-召喚時に{使用カード}の効果発動！自分のデッキから墓地へ５枚のカードを送るね！,
-破壊されたとき{使用カード}の効果発動！墓地のレベル４以下の植物モンスター１体を手札に加えるよ。,
-デッキから直接墓地へ送られたとき{使用カード}の効果発動！自分フィールドに復活！,
-{使用カード}がデッキから墓地に行ったとき効果発動！墓地から復活するよ！,
-キノコちゃんたちを守るために、手札を1枚捨てて永続魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-植物モンスターが自分の場にいるなら、あなたのモンスターは召喚してもすぐには攻撃できなくなるよ。,
-足止めして弱らせちゃうね。手札を1枚捨てて永続魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-{使用カード}を発動！デッキからランダムに３枚墓地へ送るね！,
-{使用カード}を発動！デッキのカードを墓地へ３枚送るねー。,
-{使用カード}を発動！自分の場にほかのモンスターがいないとき地属性の下級モンスターを復活できるよ。,
-{使用カード}を発動！自分の場にほかのモンスターがいないとき地属性モンスターを墓地から復活！,
-{使用カード}を発動！キノコモンスターのレベル×{$downValue}ポイント相手の攻撃力をダウンさせるよー。,
-{使用カード}を発動！キノコモンスターのレベル×{$downValue}ポイントだけ相手の力をダウン！,
-植物モンスターが攻撃されたとき、墓地の地属性カード２枚をコストにカードを発動！相手の攻撃力を半分にするよ！,
-レベル４以下の植物モンスターが墓地へ送られたとき、{使用カード}を発動！手札を１枚捨ててそのカードを復活！,
-装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-魔法カードを発動！{使用カード}！,
-トラップカードを発動するね！{使用カード}！,
+ううっ、あうう・・・❤,Uahhh...❤
+くすくす❤一回自滅しちゃった子をよみがえらせても\n意味ないみたいだね❤\nわたしたちに夢中で気持ちよさそうな顔～❤,Teehee～❤ Looks like there’s no point in resurrecting someone who has already sabotaged himself once～❤ He’s already obsessed with being pleasured by us～❤
+サキュバスに負けちゃった気持ちよさが忘れられないみたい❤\nねー、マスターくんもこんな風になりたいよね。\n自分から負けちゃえば？ほら、谷間をチラ❤,Looks like you couldn’t forget the pleasure of losing to a succubus～❤ Hey～ Mr. Cardmaster wants to be like him too; right? Why don’t you lose yourself to the pleasure? Here; I’ll let you have a peek～❤
+うぐ・・・❤,Ugh...❤
+あは、効いてる❤効いてる❤\n人間の男の子、ちょろくておもしろーい❤きゃはは♪,Ehe; it’s working～❤ Human boys are such pushovers～❤ It’s hillarious! Kyahaha～♪
+さらにもう1枚発動！,And activate one more time!
+場に出たとき{使用カード}の効果発動！「よわよわ胞子」を１枚手札に加えるね！,I activate {使用カード}’s effect when it enters the field! Add 1 "Weakening Spores" to my hand!
+{使用カード}が場に出たとき効果発動！「よわよわ胞子」を手札に加えるよー！,I activate {使用カード}’s effect when it enters the field! Add "Weakening Spores" to my hand!
+ターン終了時に{使用カード}の効果発動！自分フィールド上の植物モンスターのHPを強化するよ！,When the turn ends; I can activate {使用カード}’s effect! Increase the HP of all plant monsters on my field!
+ターン終了時に{使用カード}の効果発動！植物モンスターのHPをパワーアップ！,When the turn ends; activate {使用カード}’s effect! HP Up for all plant monsters on my field!
+攻撃宣言時に{使用カード}の効果発動！自分より相手が弱いとき、攻撃回数を増やしちゃうよ！,When an attack is declared; I activate {使用カード}’s effect! If the opponent has less attack power; increase the number of attacks!
+ぼこぼこにいじめちゃえ❤{使用カード}の効果発動！自分より相手が弱いとき、攻撃回数をアップ！,Beat them up～❤ Activate {使用カード}’s effect! If the opponent has less attack power; the number of attacks increases!
+墓地へ送られたとき{使用カード}の効果発動！デッキから植物タイプモンスターをサーチ！,When a card enters the graveyard; I activate {使用カード}’s effect! Search my deck for a plant-type monster!
+墓地へ送られたとき{使用カード}の効果発動！デッキから植物タイプモンスターを手札に加えるね！,When a card enters the graveyard; activate {使用カード}’s effect! Add a plant-type monster from the deck to my hand!
+{使用カード}の効果発動！デッキからランダムに５枚カードを墓地へ送るよ！,I activate {使用カード}’s effect! Send 5 random cards from the deck into the graveyard!
+召喚時に{使用カード}の効果発動！自分のデッキから墓地へ５枚のカードを送るね！,When summoned; activate {使用カード}’s effect! Send 5 random cards from the deck into the graveyard!
+破壊されたとき{使用カード}の効果発動！墓地のレベル４以下の植物モンスター１体を手札に加えるよ。,When destroyed; activate {使用カード}’s effect! Add a level 4 or lower plant monster from the graveyard to my hand!
+デッキから直接墓地へ送られたとき{使用カード}の効果発動！自分フィールドに復活！,When this card enters the graveyard directly from the deck; I activate {使用カード}’s effect! Resurrect it on my field!
+{使用カード}がデッキから墓地に行ったとき効果発動！墓地から復活するよ！,When this card goes from the deck into the graveyard; I activate {使用カード}’s effect! Resurrect it from the graveyard!
+キノコちゃんたちを守るために、手札を1枚捨てて永続魔法カード発動！{使用カード}！,In order to protect the mushroom girls; discard 1 card from my hand to activate the continuous spell card; {使用カード}!
+植物モンスターが自分の場にいるなら、あなたのモンスターは召喚してもすぐには攻撃できなくなるよ。,As long as there’s a plant monster on my field; your monsters cannot attack immediately when they’re summoned to the field.
+足止めして弱らせちゃうね。手札を1枚捨てて永続魔法カード発動！{使用カード}！,This’ll hinder your movement and weaken you. Discard 1 card from my hand to activate the continuous spell card; {使用カード}!
+{使用カード}を発動！デッキからランダムに３枚墓地へ送るね！,I activate {使用カード}! I send 3 random cards from the deck into the graveyard!
+{使用カード}を発動！デッキのカードを墓地へ３枚送るねー。,I activate {使用カード}! I send 3 random cards from the deck into the graveyard.
+{使用カード}を発動！自分の場にほかのモンスターがいないとき地属性の下級モンスターを復活できるよ。,I activate {使用カード}! When there are no monsters on my field; I can resurrect a lower-class earth-attribute card.
+{使用カード}を発動！自分の場にほかのモンスターがいないとき地属性モンスターを墓地から復活！,I activate {使用カード}! When there are no monsters on my field; I can resurrect a lower-class earth-attribute card!
+{使用カード}を発動！キノコモンスターのレベル×{$downValue}ポイント相手の攻撃力をダウンさせるよー。,I activate {使用カード}’s effect; and lower the opponent’s attack power by all my mushroom monster levels x {$downValue}!
+{使用カード}を発動！キノコモンスターのレベル×{$downValue}ポイントだけ相手の力をダウン！,I activate {使用カード}’s effect! Lower the opponent’s attack power by all my mushroom monsters levels x {$downValue}!
+植物モンスターが攻撃されたとき、墓地の地属性カード２枚をコストにカードを発動！相手の攻撃力を半分にするよ！,When a plant monster is attacked; I can use 2 earth attribute cards from the graveyard as tribute to activate this effect! The opponent’s attack power is halved!
+レベル４以下の植物モンスターが墓地へ送られたとき、{使用カード}を発動！手札を１枚捨ててそのカードを復活！,When you send a level 4 or lower plant monster to the graveyard; I can activate {使用カード}’s effect! Discard 1 card from my hand and resurrect it onto the field!
+装備魔法カード発動！{使用カード}！,I activate magic equipment card! {使用カード}!
+魔法カードを発動！{使用カード}！,I activate spell card! {使用カード}!
+トラップカードを発動するね！{使用カード}！,I activate trap card! {使用カード}!
 カードをセット。,Card set.
-カードを伏せるね。,
-いいことしてあげるねー❤{防御カード}を攻撃！,
-気持ちよくしてあげる❤{防御カード}を攻撃！,
-行くよ！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
-むむむ、なにもできないなー。ターンエンド。,End turn.
-手札がきびしいなー。ターンエンド。,End turn.
-ターン終了。,
-わたしのターンはおしまい。ターンエンド,
-これでおしまい。ターンエンド。,End turn.
-えー、気持ちよくなろうよぉ❤もったいなーい❤,
-きみの上にまたがってー、スカートの中におちんちんをごしょうたーい❤,
-ほらほら、パンツをたくさんこすりつけちゃうよ？おちんちんすぐに負けたくなっちゃうでしょ？くすくす❤,
-スカートの中に興味ある？ほら、ぴらってめくって見せたりしてぇー❤,
-あはは、反応かわいいー❤目が釘付けじゃん❤命がかかった戦いの最中なのにパンツなんかに見とれちゃうんだ❤,
-ほら、こっちおいで～❤おちんちん、ここにたくさんこすりつけていいよ❤パンツに向かって腰ふりへこへこしてぇ、気持ちよくなろ？くすくす❤,
-騎乗位みたいに上にまたがって搾り取ってあげる❤ほら、上に乗っちゃうよ？,
-あは、押し倒されているのに抵抗よわーい♪サキュバスに気持ちいいことされるって思ったら体動かなくなっちゃったのかなぁ❤,
-挿入はしないで腰をこすりつけるだけでイかせてあげる❤童貞のまま射精して、死んじゃえ❤死んじゃえ❤くすくす❤,
-ほらほら、上にまたがって素股でいじめてあげる❤こうやって腰をくねらせてっと…❤,
-あは、仲間のマスターが後ろで戦っているのに、おちんちんガチガチにされちゃうねー❤やってるのはただのエッチのまねごと❤こんなので勃起しちゃうんだー❤,
-童貞くんにはわたしの腰の動き、気持ちよすぎるもんねー❤ちょうど来てほしいところに刺激が来て、おちんちんとろけちゃいそうだもんね❤くすくす❤,
-いいよぉ、そのまま夢心地のまま、仲間のマスターも裏切って、気持ちいいお射精しちゃおうね。きゃはは❤,
-あは、あっという間におちんちんガチガチにされちゃったねー❤サキュバス相手にエッチのまねごと❤こんなので勃起しちゃうんだー❤,
-本番なんてしなくてもおちんちんこすってあげれば楽勝みたい❤ほおら、あなたのマスターのことなんて、わたしのテクニックで忘れさせてあげる❤くすくす❤,
-おっぱいで挟んであげるね❤好きでしょ？パイズリ❤,
-ほら、挟まれたとたん、おちんちんすっごく喜んでるじゃん❤悪いサキュバス相手なのにおっぱい１つでガチガチになっちゃうんだもん❤ちょろいなー❤,
-でも、わたしちょろいの大好きだよ❤ちょろマゾおちんちん、たくさんズリズリしてあげるからぁ、さっさとイっちゃってねー❤,
-村娘に化けて男の人から精を吸ってたんだけどね、やっぱり胸がおっきいから、ここで吸ってあげると喜ぶ人が多いんだぁ❤,
-みんなね、こんな風に挟んじゃえば、あへぇ❤ってすぐにバカみたいな声しかあげられなくなるの。あなたも顔がとろけてきてるね❤くすくす❤,
-ねえ、後ろで戦っている仲間の女の子が気になる？でも、こっちに集中した方がいいよ。,
-ほら、わたしのおっぱいに集中して？服の上からでもわかる大きなおっぱい❤これを今からサービスでぇ…❤,
-がっつり谷間見せつけちゃう❤あは、目が釘付けー♪かわいいじゃん❤マスターくんはこのおっぱいでパイズリしてあげたらどんな声で鳴くのかなぁ❤くすくす❤,
-ねえ見て見て？服の上からでもわかる大きなおっぱい❤これを今からサービスでぇ…❤,
-がっつり谷間見せつけちゃう❤あは、目が釘付けー♪キミはこのおっぱいでパイズリしてあげたらどんな声で鳴くのかなぁ❤楽しみー❤,
-パイズリで気持ちよくイかせてあげるね❤,
-わたしのパイズリってさー、叩きつけるみたいにやるから、普通より激しいらしいんだよね。でもおっぱいがとってもやわらかいからこれですっごく気持ちいいの❤,
-マスターくんもこすられるたびに喘ぎ声出ちゃってる❤くすくす❤仲間の女の子に届くぐらい大きな喘ぎ声出しちゃって恥ずかしいー❤,
-パイズリで気持ちよくイかせてあげるね❤よいっしょっと…❤,
-キミは何回耐えられるかなぁ❤仲間に届くぐらい大きな喘ぎ声出しちゃっていいよー❤ほらほらほらぁ❤,
-くすくす❤おねがいきもちよくしてくださいって\nサキュバスに言っちゃうんだ❤\nわたしなんて楽勝なんじゃなかったの？,
-谷間をちょっと見せられただけで頭の中がクラクラ❤\nエッチなことしか考えられなくさせられちゃったね❤,
-男の子ってやっぱり弱い❤\nほらほらぁ、なにしてほしいか言っていいよー❤\nあっちの仲間にも聞こえるように大きな声でおねだりしようねー。くすくす❤,
-くすくす❤おねがいきもちよくしてくださいって\nサキュバスに言っちゃうんだ❤\nいいのかなー、そんなこと頼んで❤,
-向こうではあなたの仲間が一生懸命戦ってるのに、\nおちんちん我慢できなくなっちゃって、みっともなくおねだり❤\nあの女の子がかわいそー❤,
-ほら、何をしてほしいか言ってごらん❤\nあの女の子がしてくれないようなこと、たくさんしてあげるよ❤,
-マスターくんが頑張って戦ってるのに、\n命令を聞かないで敵に向かっておねだり❤\nすっごくカッコ悪いね❤,
-ほら、何をしてほしいか教えてよ❤\n他の仲間がうらやましくなっちゃうぐらい、\nいっぱい気持ちよくしてあげる❤,
-サキュバスパイズリ,
-サキュバスグラインド,
-なんでも,You decide
-へぇー、おっぱいでしてほしいんだ❤\nやっぱり谷間ちらっと見せたのが効いちゃったの？\nほら❤,
-あなたが見惚れたこのおっぱいで挟んであげるね❤\nバカな男の子のエナジー、ぜーんぶ吸い取ってあげる❤,
-ふぅーん、おっぱいでしてほしいんだ❤\nサキュバスのおっぱいは気持ちいいよぉ❤\nたくさんズリズリしてエナジー吸いつくしてあげる❤,
-あは、わたしに上からまたがってほしいの？\nいいよ、上で腰を振って、あなたのことアンアン喘がせてあげる❤,
-あん❤おっぱいがあなたの精液でいっぱい❤\nわたしのパイズリは気持ちよかった？マスターくんが\n吸い殺されるかもしれないのに、たっぷり楽しんじゃったね❤,
-ふふ、エナジーもおいしい～❤\nこれで体力全回復❤他の男の子もみんなわたしがイかせてあげる❤,
-あん❤どぴゅどぴゅうってたくさん出てる❤\nわたしとのエッチ気持ちよかった？\nま、ナカには入ってないんだけど❤,
-おねだりして勝手に負けちゃうような人、\nエッチのまねで十分だよね❤\nんふふ、エナジーおいしい～❤,
-{使用カード}を守備。,I put {使用カード} in defense position.,
-むむむ、思ったよりやるなぁ。男の子なのに…。,
-後ろで仲間が戦っているから負ける訳にはいかない？あはは、かっこいいセリフだけど…。,
-おちんちん、こんなにおっきくしてたら説得力ないなー、えいっ❤,
-ほら、簡単に捕まえられちゃった❤勃起しているから動きがちぐはぐ♪ズボンの中パンパンだと動きづらいもんね。,
-パイズリしてほしいからおっきくしてたんでしょ❤うりうりー❤,
-ううっ…❤そんなこと…❤,
-腰から溶けちゃいそうなぐらい気持ちいいでしょ？このままじっとしてて❤そうすれば望んだ通り、とっても気持ち良いパイズリをしてあげるからね❤,
-そんなー、人間の男に負けるなんて・・・。,
-力が抜けちゃったね？なら、はじめるよー❤,
-うはぁっ…❤❤,
-なさけない声、出ちゃったねー❤仲間がいるのに欲望に負けて受けるパイズリは気持ちいいー？,
-聞くまでもないかー❤こーんなに大きな喘ぎ声、でちゃってるもんねー❤,
-あうっ…❤あっ❤きもち、よすぎて…❤,
-あはは、もうおっぱいにメロメロだね❤せっかく頑張ってわたしを追い詰めたのに、ざんねんでしたー❤,
-でもしょうがないよね❤男の子はおっきいおっぱいが大好きだもんね❤パイズリされたいよーって思うのが普通だもん♪,
-仲間の女の子が戦ってるのに欲望に負けちゃった❤わかるように大きな喘ぎ声、聞かせてあげたらー？,
-ちょっと！なにやってるのよ！早く抜け出しなさ・・・きゃあ！,
-隙ありです❤,
-ほら、仲間の女の子がピンチだよ？助けてあげなくていいのかなー？,
-喘ぐばっかりで返事もできない❤なさけなーい❤これからもっと激しくしちゃうけどいつまで我慢できるかな❤,
-あうっ❤これっ❤これっ、だめっ❤,
-くすくす❤ダメなんて言ってるくせに腰が浮いてるよー❤ガチガチのおちんちん、もっと気持ち良くして欲しいんだよね？,
-気持ちよくしてもらえるなら、後ろで戦ってる仲間のことなんてどうでもいいだ。マスターくん、さいてー❤そんな裏切りおちんちんに…。,
-おもいっきりズリズリしてあげる❤ほら❤パンッ❤パンッ❤って、おっぱいを叩きつけるようなパイズリ❤,
-凄くおっきな喘ぎ声がでちゃってるね❤マスターくん、仲間の女の子になさけなーい声を聞かれながら、イっちゃえっ❤,
-あっ、あああっ…❤,
-わー❤すごい量の射精。全然止まる気配がないよ。エナジーたっぷりの精液、たくさんでてるね♪,
-パイズリに負けちゃう裏切り射精。そんなに気持ち良かった？これで私の勝ち❤,
-最後の最後で誘惑に負けちゃうマスターくんのお陰だよ。ざんねんでした❤,
-マスターとの絆があれば誘惑に負けることはない？あはは、かっこいいセリフだけど…。,
-ほら、簡単に捕まえちゃった❤パイズリしてほしいからおっきくしてたんでしょ❤,
-えー、じゃあなんでおっきくなってるのかなー❤こうやって挟んでるだけで、おちんちんガチガチになってるのに❤本当は期待してるんでしょ？ほら、おっぱいでぎゅ～❤,
-このままじっとしてて❤そうすれば望んだ通り、とっても気持ち良いパイズリをしてあげるから❤,
-そんなー、私のおっぱいから逃れるなんて・・・。,
-なさけない声、出ちゃったねー❤欲望に負けて受けるパイズリは気持ちいいー？,
-マスターとの絆があれば誘惑に負けない、なんて嘘ばっかり❤本当はパイズリされたかったって認めたら？,
-喘ぐばっかりで返事もできないね❤なさけなーい❤これからもっと激しくしちゃうけどいつまで我慢できるかな❤,
-あーあ❤何度も頷いちゃってなさけなーい❤マスターとの絆なんてやっぱり嘘だったんだ❤,
-なら、おもいっきりズリズリしてあげる❤ほら❤パンッ❤パンッ❤って、おっぱいを叩きつけるようなパイズリ❤,
-凄くおっきな喘ぎ声がでちゃってるね❤マスターくんとの絆なんて捨てて、イっちゃえっ❤,
-キミのお陰で傷も治ったし、仕切り直しだね❤次は誰の精液を貰っちゃおうかなー♪,
-マスターとの絆があれば誘惑に負けることはない？あはは、さっき負けちゃった人も同じこと言ってたけど…。,
-キミもおちんちん、こんなにおっきくしてたら説得力ないなー、えいっ❤,
-ほら、簡単に捕まえちゃった❤パイズリしてほしいからおっきくしてたんでしょ❤それとも仲間がパイズリされてるのを見て羨ましくなっちゃった？,
-えー、じゃあなんでおっきくなってるのかなー❤こうやって挟んでるだけで、おちんちんガチガチになってるのに❤キミも本当は期待してるんでしょ？ほら、おっぱいでぎゅ～❤,
-このままじっとしてて❤そうすればさっきの人と同じように、とっても気持ち良いパイズリをしてあげるから❤,
-気持ちよさそーな声、出ちゃったねー❤やっぱり羨ましかったんだ❤どーお？わたしのパイズリは気持ちいいー？,
-あはは、もうおっぱいにメロメロだね❤キミもせっかく頑張ってわたしを追い詰めたのに、ざんねんでしたー❤,
-マスターとの絆があれば誘惑に負けない、なんてやっぱり嘘なんだよ❤パイズリされたいって素直に言ったら？,
-喘ぐばっかりで返事もできないんだ❤なさけないねー❤これからもっと激しくしちゃうけどいつまで我慢できるかな❤,
-あーあ❤何度も頷いちゃって❤素直になれてえらいねー。マスターとの絆なんて嘘だって証明できたね❤,
-ほら、おもいっきりズリズリしてあげる❤パンッ❤パンッ❤って、おっぱいを叩きつけるようなパイズリだよ❤,
-凄くおっきな喘ぎ声がでちゃってるね❤マスターくんのことなんて忘れて、イっちゃえっ❤,
-わー❤キミもすごい量。全然止まる気配がないよ。エナジーたっぷりの精液、たくさんでてるね♪,
-キミのお陰でまた傷も治ったし、まだまだ戦えそう❤次は誰の精液を貰っちゃおうかなー♪,
-ううっ・・・。,
-あは❤わたしの大きいおっぱい見てたら我慢できなくなっちゃった？,
-我慢なんてする必要ないんだよー？おっぱい見ながら好きなだけシコシコしていいの❤ ほら、片手だけじゃなくて両手でおちんちん握って、シコシコ❤シコシコ❤,
-あ、ああっ…❤,
-本当に始めちゃった❤なさけなーい❤ちょろすぎー❤後ろで仲間が戦ってるのにいいのかなー？おーい、そっちのマスターさん聞こえるー？くすくす❤,
-へ！？あんた、ちょっとなにやってるのよ！サキュバス相手に死ぬ気なの！？,
-あの子もああ言ってるよ？それでも止められないんだ❤,
-サキュバス相手に自滅オナニー。自分だけじゃなくて仲間のことも危険にさらしちゃう裏切りシコシコ❤気持ちいいもんねー❤,
-人間の男ってほんとおもしろい❤ほらぁ、もっと止められなくしてあげる❤,
-はあ、はぁっ…❤うぅ…❤,
-わたしの胸の谷間❤チョロマゾマスターくんには刺激が強すぎるかなー❤,
-あは、手のしごく速さあがってるー❤いいよー、その調子でシコシコしようね❤後ろの仲間にぐちゅぐちゅ音が聞こえるくらい激しくして❤,
-だめっ、早く正気に戻って！その手を止めるのよ！くっ！,
-あらら、よそ見しているからスライムちゃんの攻撃をくらっちゃった。お仲間のマスターさん、かわいそー❤,
-くすくす❤それでも手止まらないんだ。おっぱい見ながらシコシコ気持ちいい❤夢中になりすぎて仲間の声も聞こえてない❤,
-特別サービスだよ❤谷間に集中して、じっと見つめて❤ほらほらほら❤,
-あっ❤あっ❤もう…❤,
-あはは、よわよわおちんちん気持ちいいね❤早くシコシコしないと谷間が見えなくなっちゃうぞー❤,
-って、もうどうせ射精しちゃうか❤ほら、谷間にだしていいよー❤マスターくんのエナジー、わたしのおっぱいに捧げちゃお❤,
-ほら❤谷間をゆさゆさゆさ❤ちゃ～んと谷間を狙って❤精液、だして❤,
-はひぃっ…❤,
-あはは❤すごい量❤後ろで仲間が戦ってるのに、裏切りオナニー❤気持ち良かった？マスターくん❤,
-谷間を見せてるだけなのに、勝手にシコシコしてエナジーを捧げてくれるなんて、本当にチョロい❤,
-我慢なんてする必要ないんだよー？おっぱい見ながら好きなだけシコシコしていいよ❤,
-本当に始めちゃった❤なさけなーい❤ちょろすぎー❤,
-うううっ…。,
-でも、わたしはちょろいの大好きだからー、サービスしてあげるね❤,
-ほらぁ。わたしの胸の谷間❤たくさん見ながらシコシコしていいよ❤,
-手のしごく速さあがってるー❤いいよー、その調子でシコシコしようね❤,
-おっぱい見ながらシコシコ気持ちいいねー❤ほらほら、もっと見て❤,
-特別サービスだよ❤谷間に集中して、じっと見つめて❤,
-ちょろマゾおちんちん気持ちいいね❤ほらほら、もっと早くシコシコしないと谷間が見えなくなっちゃうぞー❤,
-もうでちゃう？なら谷間にだしていいよー❤キミのエナジー、わたしのおっぱいに捧げちゃお❤,
-ほら❤ほらほら❤ちゃ～んと谷間を狙って❤精液、だして❤,
-あはは❤すごい量❤谷間を見せてるだけなのに、勝手にシコシコしてエナジーを捧げてくれるなんて、本当にちょろい❤,
-くすくす❤他の人もシコシコしたくなったらいつでもしていいからね。その時は谷間、みせてあげる❤,
-あはは❤キミもわたしの大きいおっぱい見てたら我慢できなくなっちゃった？,
-我慢なんてする必要ないんだよー？キミも仲間みたいにおっぱい見ながら好きなだけシコシコしていいよ❤,
-あはは❤キミもすごい量❤谷間を見せてるだけなのに、勝手にシコシコしてエナジーを捧げてくれるなんて、本当にちょろい❤,
-あーあ、仲間のマスターもいるのにオナニーで自爆しちゃった❤人間の男っておちんちんに素直すぎでしょ。バカみたいだね❤くすくす❤,
-あは、パンツですりすりしているだけなのに、もうイっちゃったんだー❤サキュバスにこんな恥ずかしい形で負けるなんてみじめー❤くすくす❤,
-んふふ❤おっぱいにたくさん出てる。パイズリに全然我慢できなかったねー。くすくす❤,
-キノコ使いのサキュバスは、主人公が動けなくなったのを見ると、スライム使いのサキュバスと戦うエルルに手下のキノコ娘たちを差し向けた。,
-ふたりのサキュバスに挟み撃ちをされてしまったエルルに成すすべはなく、あっという間に組み伏せられてしまう。,
-必死の抵抗を試みるエルルだったが、スライム使いのサキュバスに唇を奪われ、おとなしくなってしまった。彼女がどうなってしまうのか。僕にはわからない。,
-僕はエルルが連れ去られていく様子を、快感にしびれぼんやりとした頭の中で、ただ見ていることしかできなかった。,
-そんな・・・。エルルさん・・・。,
-くすくす❤マスターくんがわたしに負けたせいで仲間の女の子も捕まっちゃったね❤,
-あの子がどうなるのか気になるの？自分でオナニーして負けちゃったくせに❤いまさらカッコつけても遅いんじゃないのかなー❤,
-あの子がどうなるのか気になるの？おっぱいに負けてどぴゅどぴゅしちゃったくせに、いまさら仲間のことを気にしても遅いんじゃないかなー❤,
-あの子がどうなるのか気になるの？パンツ擦られて射精しちゃう、よわマゾのくせに❤いまさらカッコつけても遅いんじゃないのかなー❤,
-どうせマスターくんは今からわたしに吸い殺されちゃうんだから。考えたってムダ❤,
-ほら、まずはおちんちんをおっぱいで挟んじゃいまーす❤ぎゅ～っ❤,
-ああ・・・❤やわらか・・・❤,
-あーあ、マスターくんの顔とろけちゃった❤ちょっとパイズリされただけでとろけっちゃうよわよわおちんちんで、よくサキュバスと戦おうと思ったね？,
-仲間の女の子を捕まえたわるーいサキュバス相手なのに、あん❤あん❤って喘ぐことしかできずに、腰がびくびくしちゃってる。もっとパイズリされたいんだよね？なさけなーい❤,
-わたし、あの子にごめんなさいした方がいいと思うな。そう思わない？ねぇ❤ねぇねぇ❤,
-あうっ❤ううっ・・・❤,
-ボクのちょろマゾおちんちんのせいですって❤ごめんなさいって❤ほーら、早くあの子に謝って❤,
-はううっ❤、ごめっ❤エルルさっ❤ごめんなさい・・・❤,
-あはは、マスターくん。泣きそうな顔になってる❤いまさら罪悪感でも感じてるのかな？もう手遅れなのに。,
-精液ってねぇ、心の中がぐちゃぐちゃの時の方がおいしいんだよ？いまのマスターくんの精液はとってもおいしそう❤,
-罪悪感があってもさぁ、おちんちんおっぱいでズリズリされたら、気持ちよくて気持ちよくてどうにもならないんだよね❤,
-わたしのおっぱい❤とっても柔らかいもんね❤この前挟んであげた村の男の人もすぐにあへぇ❤ってなさけなーい喘ぎ声あげちゃったけど、マスターくんも同じ❤,
-頑張って修行してきたのに普通の人と変わらないんだよ？くすくす❤今までの努力、みーんな無駄だったのかもねー❤,
-む、むだじゃっ・・・❤あっ❤うひあっ、やめっ❤,
-違うっていうなら早く反撃してみせてよ❤ほらほら❤はーやーくー❤はーやーくぅ❤,
-いつまでもわたしにパイズリされてないで❤おちんちんの先っぽ、いっぱいズリズリされてないでさぁ❤,
-あっ、あひぃっ❤あぐぅ、ううっ・・・❤,
-あはは❤自分から腰、へこへこしちゃってる❤これが反撃なの？もっと気持ちよくしてーって、言ってるだけじゃないのかな❤,
-だって・・・❤うっ❤ううっ❤きもち、よすぎてぇ・・・❤,
-あーあ、完全に顔がとろけちゃった❤おっぱいに降伏❤仲間も裏切って、マスターとしての頑張りも捨てて、へこへこパイズリおねだり❤,
-もう限界だね❤ちょっとパイズリしてあげただけなのに、ちょろマゾおちんちんがビクビクしてる❤射精１０秒前って感じ？,
-わたしってとってもやさしいからさー、きもちよーく射精できるるように思いっきりぎゅ～ってしてあげるね❤,
-マスターくんも自分で腰、突き上げて・・・おっぱいの中に全部だして❤ほら、イケ❤マーゾ❤,
-あへぇ❤❤あっ、でる、あああっ・・・❤,
-あひいっ、とま、とまらな、あへぇあっ・・・❤,
-これで打ち止めかな？おっぱいの中、べとべとになっちゃった❤んー❤魔力の質もいいし、仲間を裏切った罪悪感でいい味してる❤,
-このまま吸い殺しちゃおうと思ったけど、これならお持ち帰りしてもいいかも。マスターくんの泣きそうな顔、面白かったし❤,
-よいしょっと。そうだ❤帰ったらあの子の前でしてみようかな❤とっても楽しそう、あはは❤,
-こうして主人公は、探索中に遭遇したキノコ使いの淫魔に負け、エルルと共に連れ去られてしまった。,
-ギルドが異変に気付いた時には遅く、主人公たちの足取りは完全に途絶えてしまっていた。,
-その後、彼らの姿を見た者はいない。主人公の妹を探す冒険はこうして終わりを迎えたのだった。,
+カードを伏せるね。,Card placed face-down.
+いいことしてあげるねー❤{防御カード}を攻撃！,I'll show you a world of pleasure~❤ I attack {防御カード}!
+気持ちよくしてあげる❤{防御カード}を攻撃！,I’ll make you feel good～❤ Attack {防御カード}!
+行くよ！{使用カード}で{防御カード}を攻撃！,Forward! Attack {防御カード}; {使用カード}!
+むむむ、なにもできないなー。ターンエンド。,Mmm; I can’t do anything. End turn.
+手札がきびしいなー。ターンエンド。,My hand isn’t looking good. End turn.
+ターン終了。,Turn end.
+わたしのターンはおしまい。ターンエンド,My turn is over. Turn end.
+これでおしまい。ターンエンド。,I’m done. Turn end.
+えー、気持ちよくなろうよぉ❤もったいなーい❤,Ehh～ Let’s just feel good together～❤ What a waste～❤
+きみの上にまたがってー、スカートの中におちんちんをごしょうたーい❤,I’ll ride on top of you and invite your dick inside my skirt～❤
+ほらほら、パンツをたくさんこすりつけちゃうよ？おちんちんすぐに負けたくなっちゃうでしょ？くすくす❤,Hora; hora～❤ My panties are going to rub your dick a lot～❤ Your dick’s gonna lose immediately; huh? Teehee～❤
+スカートの中に興味ある？ほら、ぴらってめくって見せたりしてぇー❤,Are you interested in what's under my skirt? Look; I might just flip it up and give you a little peek~❤
+あはは、反応かわいいー❤目が釘付けじゃん❤命がかかった戦いの最中なのにパンツなんかに見とれちゃうんだ❤,Ahaha; your reactions are so cute~❤ You can’t take your eyes off of them~❤ Even in the middle of a life-or-death battle; you're getting distracted by some girl's panties~❤
+ほら、こっちおいで～❤おちんちん、ここにたくさんこすりつけていいよ❤パンツに向かって腰ふりへこへこしてぇ、気持ちよくなろ？くすくす❤,Look; come over here and you can rub your dick all over my panties as much as you want~❤ Thrust your hips back and forth and it'll feel really good~ Teehee~❤
+騎乗位みたいに上にまたがって搾り取ってあげる❤ほら、上に乗っちゃうよ？,I'll straddle your hips and milk you cock dry~❤ Look; you're not even stopping me~
+あは、押し倒されているのに抵抗よわーい♪サキュバスに気持ちいいことされるって思ったら体動かなくなっちゃったのかなぁ❤,Ehe～❤ Even though I’m pushing you down; you’re barely resisting it~♪ Maybe it's because you’re thinking of how good it'll feel to be pleasured by a succubus?~❤
+挿入はしないで腰をこすりつけるだけでイかせてあげる❤童貞のまま射精して、死んじゃえ❤死んじゃえ❤くすくす❤,But I'm not going to insert your dick into my honey pot. I'll just make you cum by grinding my hips against you~❤ You're gonna pass away ejaculating while still being a virgin~ Die~❤ Die!~❤ Teehee~❤
+ほらほら、上にまたがって素股でいじめてあげる❤こうやって腰をくねらせてっと…❤,Hora; hora～❤ I’ll ride you and tease your dick between my thighs~❤ I'll move them just like this...❤
+あは、仲間のマスターが後ろで戦っているのに、おちんちんガチガチにされちゃうねー❤やってるのはただのエッチのまねごと❤こんなので勃起しちゃうんだー❤,Aha; even though your friend is fighting behind us; your cock has become rock hard.❤ I'm only imitating the movements of having sex; and yet you're getting an erection~❤
+童貞くんにはわたしの腰の動き、気持ちよすぎるもんねー❤ちょうど来てほしいところに刺激が来て、おちんちんとろけちゃいそうだもんね❤くすくす❤,I bet just moving my thighs alone is already too stimulating for a virgin like you~❤ I bet it’s hitting all the spots you wanted and melting your dick away~❤ Teehee~❤
+いいよぉ、そのまま夢心地のまま、仲間のマスターも裏切って、気持ちいいお射精しちゃおうね。きゃはは❤,Fine by me. Just stay in ecstasy like that～❤ Betray your friends and feel good shooting it all out. Kyahaha～❤
+あは、あっという間におちんちんガチガチにされちゃったねー❤サキュバス相手にエッチのまねごと❤こんなので勃起しちゃうんだー❤,Ehe～❤ Before I realized it; your dick was already this hard～❤ What we’re doing is just pretend sex～❤ And yet you’re already so hard~❤
+本番なんてしなくてもおちんちんこすってあげれば楽勝みたい❤ほおら、あなたのマスターのことなんて、わたしのテクニックで忘れさせてあげる❤くすくす❤,Looks like your dick’s getting satisfied so easily that I don't even have to insert it into my honey pot~❤ Here; I’ll use my skills to make you forget about your master~❤ Teehee~❤
+おっぱいで挟んであげるね❤好きでしょ？パイズリ❤,I’ll squeeze you between my boobs～❤ You love titjobs; right?❤
+ほら、挟まれたとたん、おちんちんすっごく喜んでるじゃん❤悪いサキュバス相手なのにおっぱい１つでガチガチになっちゃうんだもん❤ちょろいなー❤,Look; the moment I squeezed your cock between them; it started twitching with excitement~❤ Even though I'm a wicked succubus; just one pump of your cock between my breasts is enough to make you rock hard~❤ What a pushover~❤
+でも、わたしちょろいの大好きだよ❤ちょろマゾおちんちん、たくさんズリズリしてあげるからぁ、さっさとイっちゃってねー❤,But I do love pushovers~❤ I’ll give this pushover masochistic dick lots of squeezing; so hurry up and cum already~❤
+村娘に化けて男の人から精を吸ってたんだけどね、やっぱり胸がおっきいから、ここで吸ってあげると喜ぶ人が多いんだぁ❤,Back when I was disguised as a village girl and fed on men; lots of them were unable to resist the allure of my lovely breasts~❤
+みんなね、こんな風に挟んじゃえば、あへぇ❤ってすぐにバカみたいな声しかあげられなくなるの。あなたも顔がとろけてきてるね❤くすくす❤,When I squeezed their dicks like this; everyone immediately went “A-Ahhh~❤” and could only make stupid moans. Your face is also melting just like theirs too~❤ Teehee~❤
+ねえ、後ろで戦っている仲間の女の子が気になる？でも、こっちに集中した方がいいよ。,Hey; aren’t you interested in that girl fighting behind you? But it’d be better if you focus on these.
+ほら、わたしのおっぱいに集中して？服の上からでもわかる大きなおっぱい❤これを今からサービスでぇ…❤,Here. How about focusing on my breasts? I bet you can tell how large these are even through my clothes～❤ I’ll service you with these...❤
+がっつり谷間見せつけちゃう❤あは、目が釘付けー♪かわいいじゃん❤マスターくんはこのおっぱいでパイズリしてあげたらどんな声で鳴くのかなぁ❤くすくす❤,I’m showing off my cleavage～❤ Ehe; your eyes are completely glued to it～♪ So cute～❤ I wonder what kind of moans you’ll make when I give you a titjob with these boobs～❤ Teehee～❤
+ねえ見て見て？服の上からでもわかる大きなおっぱい❤これを今からサービスでぇ…❤,Hey; are looking at my breasts? I’m sure you can tell how big they are; even through my clothes~❤ Maybe I can do a little something for you...❤
+がっつり谷間見せつけちゃう❤あは、目が釘付けー♪キミはこのおっぱいでパイズリしてあげたらどんな声で鳴くのかなぁ❤楽しみー❤,Check it~ You can clearly see my deep cleavage in full view now~❤ Ehe; your eyes are completely glued~♪ I wonder what kind of moans you’ll make when my breasts are wrapped around your dick?~❤ I can’t wait to find out~❤
+パイズリで気持ちよくイかせてあげるね❤,I’ll please you with my boobs and make you cum～❤
+わたしのパイズリってさー、叩きつけるみたいにやるから、普通より激しいらしいんだよね。でもおっぱいがとってもやわらかいからこれですっごく気持ちいいの❤,Titty-fucking is apparently more intense than normal when I slam my tits down like this. But since my breasts are so incredibly soft; it just feels really really good~❤
+マスターくんもこすられるたびに喘ぎ声出ちゃってる❤くすくす❤仲間の女の子に届くぐらい大きな喘ぎ声出しちゃって恥ずかしいー❤,You’re letting out a moan everytime I rub～❤ Teehee～❤ Moaning so loudly that your friend can even hear it. So embarassing～❤
+パイズリで気持ちよくイかせてあげるね❤よいっしょっと…❤,I’ll make you feel good between my breasts~❤ Here I go...❤
+キミは何回耐えられるかなぁ❤仲間に届くぐらい大きな喘ぎ声出しちゃっていいよー❤ほらほらほらぁ❤,I wonder how many pumps your cock can endure?~❤ I'm sure it'll be fine even if you moan so loud that your friend hears it~❤ Hora; hora～❤
+くすくす❤おねがいきもちよくしてくださいって\nサキュバスに言っちゃうんだ❤\nわたしなんて楽勝なんじゃなかったの？,Teehee～❤ You’re begging for a succubus to pleasure you～❤ Didn’t you say that I’m going to be a piece of cake?
+谷間をちょっと見せられただけで頭の中がクラクラ❤\nエッチなことしか考えられなくさせられちゃったね❤,Just showing a little cleavage is enough to overwhelm your head～❤ And now you can only think about naughty things～❤
+男の子ってやっぱり弱い❤\nほらほらぁ、なにしてほしいか言っていいよー❤\nあっちの仲間にも聞こえるように大きな声でおねだりしようねー。くすくす❤,Boys really are weaklings～❤ Hora; hora～❤ Tell me what you desire～❤ And beg for it loudly so that your friend over there can hear it; too～❤ Teehee～❤
+くすくす❤おねがいきもちよくしてくださいって\nサキュバスに言っちゃうんだ❤\nいいのかなー、そんなこと頼んで❤,Teehee～❤ You’re begging for a succubus to pleasure you～❤ Is it really fine to make such a request?❤
+向こうではあなたの仲間が一生懸命戦ってるのに、\nおちんちん我慢できなくなっちゃって、みっともなくおねだり❤\nあの女の子がかわいそー❤,Even though your ally is fighting desperately over there; your dick couldn’t hold out any longer. I0t ended up begging pathetically～❤ I’m starting to feel bad for that girl now～❤
+ほら、何をしてほしいか言ってごらん❤\nあの女の子がしてくれないようなこと、たくさんしてあげるよ❤,Come on; tell me what you desire～❤ I’ll do things even that girl wouldn’t do for you～❤
+マスターくんが頑張って戦ってるのに、\n命令を聞かないで敵に向かっておねだり❤\nすっごくカッコ悪いね❤,Even though your master is doing his best; you’re not listening to his commands and are begging the enemy instead～❤ So lame～❤
+ほら、何をしてほしいか教えてよ❤\n他の仲間がうらやましくなっちゃうぐらい、\nいっぱい気持ちよくしてあげる❤,Come on; tell me what you desire～❤ I’ll make you feel so good that your allies will be jealous～❤
+サキュバスパイズリ,Succubus Titjob
+サキュバスグラインド,Succubus Grind
+なんでも,Let Her Decide
+へぇー、おっぱいでしてほしいんだ❤\nやっぱり谷間ちらっと見せたのが効いちゃったの？\nほら❤,Ohh; you want my boobs?❤ I guess showing my cleavage was effective. Hora; hora～❤
+あなたが見惚れたこのおっぱいで挟んであげるね❤\nバカな男の子のエナジー、ぜーんぶ吸い取ってあげる❤,I’ll squeeze you with these breasts you were captivated by～❤ I’m gonna suck all the energy out from you; foolish boy～❤
+ふぅーん、おっぱいでしてほしいんだ❤\nサキュバスのおっぱいは気持ちいいよぉ❤\nたくさんズリズリしてエナジー吸いつくしてあげる❤,Hmm; so you want my boobs～❤ A succubus' breasts feel really good; you know?❤ I’ll squeeze you a lot and suck out your energy～❤
+あは、わたしに上からまたがってほしいの？\nいいよ、上で腰を振って、あなたのことアンアン喘がせてあげる❤,Ehe; you wanted me to be on top of you? Fine by me. I’ll ride you and make you moan by shaking my hips～❤
+あん❤おっぱいがあなたの精液でいっぱい❤\nわたしのパイズリは気持ちよかった？マスターくんが\n吸い殺されるかもしれないのに、たっぷり楽しんじゃったね❤,Ahn～❤ So much of your sperm is on my boobs～❤ Was my titjob that good? Mr. Cardmaster is going to be drained dry; but I'm sure you'll enjoy it～❤
+ふふ、エナジーもおいしい～❤\nこれで体力全回復❤他の男の子もみんなわたしがイかせてあげる❤,Fufu; the energy tastes so good～❤ Now I’m healed back to full～❤ I’ll make all the other boys cum now, too～❤
+あん❤どぴゅどぴゅうってたくさん出てる❤\nわたしとのエッチ気持ちよかった？\nま、ナカには入ってないんだけど❤,Ahn～❤ You shot out so much～❤ Did sex with me felt that good? Though; you didn’t really put it in～❤
+おねだりして勝手に負けちゃうような人、\nエッチのまねで十分だよね❤\nんふふ、エナジーおいしい～❤,For someone who lost and begged their opponent; pretend sex is good enough～❤ Fufu; your energy is so delicious～❤
+{使用カード}を守備。,I put {使用カード} in defense position.
+むむむ、思ったよりやるなぁ。男の子なのに…。,Mmm; you’re better than I thought boy...
+後ろで仲間が戦っているから負ける訳にはいかない？あはは、かっこいいセリフだけど…。,Your ally is fighting behind you so you wouldn’t lose? Ahaha; that’s such a cool-sounding line...
+おちんちん、こんなにおっきくしてたら説得力ないなー、えいっ❤,But you’re not fooling anyone when your dick is already this big～ Gotcha～❤
+ほら、簡単に捕まえられちゃった❤勃起しているから動きがちぐはぐ♪ズボンの中パンパンだと動きづらいもんね。,Come on; I caught you so easily～❤ You can’t move as good since you’re this hard～♪ Your dick is pushing wildly against your pants.
+パイズリしてほしいからおっきくしてたんでしょ❤うりうりー❤,I bet you got so hard because you were expecting a titjob all this time～❤
+ううっ…❤そんなこと…❤,Ugh...❤ No...❤
+腰から溶けちゃいそうなぐらい気持ちいいでしょ？このままじっとしてて❤そうすれば望んだ通り、とっても気持ち良いパイズリをしてあげるからね❤,It feels so good that your hips are melting away; doesn’t it? Just stay like that～❤ And I’ll pleasure you between my boobs; just like you wanted～❤
+そんなー、人間の男に負けるなんて・・・。,To think; I’d lose to a man...
+力が抜けちゃったね？なら、はじめるよー❤,You lost your strength? Then; I’m going to start～❤
+うはぁっ…❤❤,Uahh...❤❤
+なさけない声、出ちゃったねー❤仲間がいるのに欲望に負けて受けるパイズリは気持ちいいー？,You’re letting out such a pathetic moan; even though your ally is here～❤ Does it really feel that good to lose to your desires and get a titjob?
+聞くまでもないかー❤こーんなに大きな喘ぎ声、でちゃってるもんねー❤,I guess I didn’t need to ask～❤ You’re moaning this loudly after all～❤
+あうっ…❤あっ❤きもち、よすぎて…❤,Hau...❤ Ahh～❤ It’s too good...❤
+あはは、もうおっぱいにメロメロだね❤せっかく頑張ってわたしを追い詰めたのに、ざんねんでしたー❤,Ahaha; you’ve already fallen for my boobs; even though you tried so hard and pushed me into a corner～❤ Too bad for you～❤
+でもしょうがないよね❤男の子はおっきいおっぱいが大好きだもんね❤パイズリされたいよーって思うのが普通だもん♪,But that’s only natural～❤ Boys love huge breasts; after all～❤ It’s only normal that you’d want to get a titjob～♪
+仲間の女の子が戦ってるのに欲望に負けちゃった❤わかるように大きな喘ぎ声、聞かせてあげたらー？,Even though your ally is fighting; you lost to your own desires～❤ How about I make you moan so loud that she’ll hear it and understand that you’ve lost?
+ちょっと！なにやってるのよ！早く抜け出しなさ・・・きゃあ！,Wait; what are you doing! Break free from her quickly... Kyaa!
+隙ありです❤,An opening～❤
+ほら、仲間の女の子がピンチだよ？助けてあげなくていいのかなー？,Look; your ally is in huge trouble. Are you sure you don’t need to help her～?
+喘ぐばっかりで返事もできない❤なさけなーい❤これからもっと激しくしちゃうけどいつまで我慢できるかな❤,You keep moaning so much you can’t even reply back～❤ So pathetic～❤ I’m going to move even faster. I wonder if you’ll be able to endure it～❤
+あうっ❤これっ❤これっ、だめっ❤,Ahh～❤ No more!❤ Noo!❤
+くすくす❤ダメなんて言ってるくせに腰が浮いてるよー❤ガチガチのおちんちん、もっと気持ち良くして欲しいんだよね？,Teehee～❤ Even though you’re saying no; your hips are this unsteady～❤ A rock hard dick like this wants to be pleasured even more; right?
+気持ちよくしてもらえるなら、後ろで戦ってる仲間のことなんてどうでもいいだ。マスターくん、さいてー❤そんな裏切りおちんちんに…。,As long as you’re getting pleasured; the fact that your ally is fighting behind you doesn’t matter at all. You’re the worst～❤ This traitorous dick...
+おもいっきりズリズリしてあげる❤ほら❤パンッ❤パンッ❤って、おっぱいを叩きつけるようなパイズリ❤,I’ll squeeze you with everything I've got～❤ Hora; hora～❤ It’s a titjob where I slap my boobs on your dick～❤  Slap～❤ Slap～❤ 
+凄くおっきな喘ぎ声がでちゃってるね❤マスターくん、仲間の女の子になさけなーい声を聞かれながら、イっちゃえっ❤,You’re letting ou such loud moans～❤ Mr. Cardmaster is gonna cum as his ally listens to his pathetic moans～❤
+あっ、あああっ…❤,Ahhh...❤
+わー❤すごい量の射精。全然止まる気配がないよ。エナジーたっぷりの精液、たくさんでてるね♪,Wow～❤ What an impressive amount; and it’s not stopping at all. You’re shooting out so much energy-filled semen～♪
+パイズリに負けちゃう裏切り射精。そんなに気持ち良かった？これで私の勝ち❤,Betraying your ally and ejaculating from my boobs... Does it really feel that good? But now; I’m the winner～❤
+最後の最後で誘惑に負けちゃうマスターくんのお陰だよ。ざんねんでした❤,And it’s all because you lost to temptations at the very last step; too bad～❤
+マスターとの絆があれば誘惑に負けることはない？あはは、かっこいいセリフだけど…。,You wouldn't lose to temptation because you have a strong bond with your master? Ahaha; you’re saying such cool-sounding lines...
+ほら、簡単に捕まえちゃった❤パイズリしてほしいからおっきくしてたんでしょ❤,Look; I caught you so easily～❤ You’re so hard already because you wanted a titjob; right?❤
+えー、じゃあなんでおっきくなってるのかなー❤こうやって挟んでるだけで、おちんちんガチガチになってるのに❤本当は期待してるんでしょ？ほら、おっぱいでぎゅ～❤,What? Then why are you so big already～❤ If I squeeze your dick like this; it’ll get rock hard～❤ The truth is; you’re looking forward to it～❤ Here; I’ll push my breast together～❤
+このままじっとしてて❤そうすれば望んだ通り、とっても気持ち良いパイズリをしてあげるから❤,Just stay like that～❤ And I’ll pleasure you between my boobs just like you wanted～❤
+彼女を突き飛ばし、とどめを刺した,Ignore her and deliver the final blow
+欲望に負け、体から力を抜いてしまった,Her breasts feel so good...
+そんなー、私のおっぱいから逃れるなんて・・・。,No way; how could you escape my boobs...
+なさけない声、出ちゃったねー❤欲望に負けて受けるパイズリは気持ちいいー？,You’re squealing out such pathetic moans～❤ Does it feel good to give in to your desires and get a titjob?～
+マスターとの絆があれば誘惑に負けない、なんて嘘ばっかり❤本当はパイズリされたかったって認めたら？,Claiming you wouldn’t lose to temptation because you have a strong bond with your master. What a blatant lie～❤ Why don’t you just admit that you wanted to get squeezed by my boobs?
+喘ぐばっかりで返事もできないね❤なさけなーい❤これからもっと激しくしちゃうけどいつまで我慢できるかな❤,You keep moaning and moaning; you can’t even reply back～❤ So pathetic～❤ I’m going to move even faster. I wonder how long you’ll be able to endure it～❤
+あーあ❤何度も頷いちゃってなさけなーい❤マスターとの絆なんてやっぱり嘘だったんだ❤,Aww～❤ How many times are you going to nod? Pathetic. Your strong bond is a complete lie after all～❤
+なら、おもいっきりズリズリしてあげる❤ほら❤パンッ❤パンッ❤って、おっぱいを叩きつけるようなパイズリ❤,Well then; I’ll squeeze you with everything I've got～❤ Hora; hora～❤ It’s a titjob where I slap my boobs on your dick～❤ Slap～❤ Slap～❤
+凄くおっきな喘ぎ声がでちゃってるね❤マスターくんとの絆なんて捨てて、イっちゃえっ❤,You’re letting out such loud moans～❤ Throw away your bond with your master and cum～❤
+キミのお陰で傷も治ったし、仕切り直しだね❤次は誰の精液を貰っちゃおうかなー♪,Thanks to you; I’m fully healed and ready to go again～❤ I wonder whose semen I should get next～♪
+マスターとの絆があれば誘惑に負けることはない？あはは、さっき負けちゃった人も同じこと言ってたけど…。,You have a strong bond with your master so you wouldn't lose to temptations? Ahaha; the guy who lost earlier also said the same thing...
+キミもおちんちん、こんなにおっきくしてたら説得力ないなー、えいっ❤,But you’re also not persuading anyone when your dick is already this big～ Got you～❤
+ほら、簡単に捕まえちゃった❤パイズリしてほしいからおっきくしてたんでしょ❤それとも仲間がパイズリされてるのを見て羨ましくなっちゃった？,Come on; I caught you so easily～❤ You’re so hard because you wanted a titjob; right?❤ Were you jealous of your ally when he got one?
+えー、じゃあなんでおっきくなってるのかなー❤こうやって挟んでるだけで、おちんちんガチガチになってるのに❤キミも本当は期待してるんでしょ？ほら、おっぱいでぎゅ～❤,No? Then why are you so big already～❤ It got rock hard when I squeezed your dick like this～❤ The truth is; you’re also looking forward to it～❤ Here; I’ll squeeze my breasts together～❤
+このままじっとしてて❤そうすればさっきの人と同じように、とっても気持ち良いパイズリをしてあげるから❤,Just stay like that～❤ And now I’ll pleasure you between my boobs just like the last guy~❤
+気持ちよさそーな声、出ちゃったねー❤やっぱり羨ましかったんだ❤どーお？わたしのパイズリは気持ちいいー？,You’re letting out so many moans of pleasure～❤ You really were jealous～❤ So how is my titjob? Does it feel good?~
+あはは、もうおっぱいにメロメロだね❤キミもせっかく頑張ってわたしを追い詰めたのに、ざんねんでしたー❤,Ahaha; you’ve already fallen for my boobs～❤ Even though you also tried so hard and pushed me into a corner. Too bad for you～❤
+マスターとの絆があれば誘惑に負けない、なんてやっぱり嘘なんだよ❤パイズリされたいって素直に言ったら？,Claiming you wouldn’t lose to temptation because you have a strong bond with your master. What a blatant lie～❤ Why don’t you just admit that you wanted to get a titjob?
+喘ぐばっかりで返事もできないんだ❤なさけないねー❤これからもっと激しくしちゃうけどいつまで我慢できるかな❤,You keep moaning so much you can’t even reply back～❤ So pathetic～❤ I’m going to move even faster. I wonder how long you’ll be able to endure it～❤
+あーあ❤何度も頷いちゃって❤素直になれてえらいねー。マスターとの絆なんて嘘だって証明できたね❤,Aww～❤ How many times are you going to nod? It’s great that you’re being honest～❤ You’ve proven that the bond with your master is a complete lie～❤
+ほら、おもいっきりズリズリしてあげる❤パンッ❤パンッ❤って、おっぱいを叩きつけるようなパイズリだよ❤,Here; I’ll squeeze you with everything I've got～❤ It’s a titjob where I slap my boobs on your dick～❤ Slap～❤ Slap～❤
+凄くおっきな喘ぎ声がでちゃってるね❤マスターくんのことなんて忘れて、イっちゃえっ❤,You’re letting out such loud moans～❤ I’ll make Mr. Cardmaster have an ejaculation that he'll never forget～❤
+わー❤キミもすごい量。全然止まる気配がないよ。エナジーたっぷりの精液、たくさんでてるね♪,Wow～❤ What an impressive amount; and it’s not stopping at all. You’re shooting out so much energy-filled semen～♪
+キミのお陰でまた傷も治ったし、まだまだ戦えそう❤次は誰の精液を貰っちゃおうかなー♪,Thanks to you; I’m fully healed and ready to fight～❤ I wonder whose semen I should get next～♪
+ううっ・・・。,Uuu...
+あは❤わたしの大きいおっぱい見てたら我慢できなくなっちゃった？,Aha~❤ Did staring at my huge boobs finally cause you to lose it?
+我慢なんてする必要ないんだよー？おっぱい見ながら好きなだけシコシコしていいの❤ ほら、片手だけじゃなくて両手でおちんちん握って、シコシコ❤シコシコ❤,You don’t have to resist; you know? You’re free to rub one out while looking at my tits~❤ Hora; don’t just rub it with one hand~ Grasp it firmly with both of your hands~❤ Fap; fap~❤ Fap; fap~❤
+あ、ああっ…❤,Ahhh...❤
+本当に始めちゃった❤なさけなーい❤ちょろすぎー❤後ろで仲間が戦ってるのにいいのかなー？おーい、そっちのマスターさん聞こえるー？くすくす❤,You really started jerking on your own~❤ So pathetic~❤ What a pushover~❤ Even though your ally is giving her all behind you~ Yoohoo~ Miss Cardmaster? Get an earful of this guy! Teehee~❤ 
+へ！？あんた、ちょっとなにやってるのよ！サキュバス相手に死ぬ気なの！？,Wait; what are you doing!? Are you trying to get yourself killed by a succubus!?
+あの子もああ言ってるよ？それでも止められないんだ❤,See? Even she’s telling you the same thing. And yet you still can’t stop yourself~❤
+サキュバス相手に自滅オナニー。自分だけじゃなくて仲間のことも危険にさらしちゃう裏切りシコシコ❤気持ちいいもんねー❤,Sabotaging yourself by masturbating to your opponent... Knowing that by masturbating; you're not only putting yourself in danger; but also your ally~❤ I bet that feels really good～❤
+人間の男ってほんとおもしろい❤ほらぁ、もっと止められなくしてあげる❤,Human males are so funny～❤ Here; I’ll help out so you’re even less able to resist～❤
+はあ、はぁっ…❤うぅ…❤,Haah; haah...❤ Uuu...❤
+わたしの胸の谷間❤チョロマゾマスターくんには刺激が強すぎるかなー❤,Here's my deep cleavage~❤ I bet it’s too stimulating for a pushover masochist cardmaster like yourself~❤
+あは、手のしごく速さあがってるー❤いいよー、その調子でシコシコしようね❤後ろの仲間にぐちゅぐちゅ音が聞こえるくらい激しくして❤,Ehe; your hands are going even faster~❤ It’s fine; keep rubbing it out just like that~❤ Go even faster until even your ally back there can hear it~❤
+だめっ、早く正気に戻って！その手を止めるのよ！くっ！,No; snap out of it! Stop your moving hands! ..ack!
+あらら、よそ見しているからスライムちゃんの攻撃をくらっちゃった。お仲間のマスターさん、かわいそー❤,Ara; ara. She looked away and got hit by the slime succubus. I feel bad for your cardmaster friend~❤
+くすくす❤それでも手止まらないんだ。おっぱい見ながらシコシコ気持ちいい❤夢中になりすぎて仲間の声も聞こえてない❤,Teehee～❤ And yet; your hands aren't stopping at all. Jerking off while staring at my boobs feels too good～❤ You’re so absorbed in it you can’t even listen to what your friend is saying~❤
+特別サービスだよ❤谷間に集中して、じっと見つめて❤ほらほらほら❤,This is a special service after all~❤ Look at my cleavage and focus closely as I jiggle my tits back and forth~❤ Hora; hora~❤
+あっ❤あっ❤もう…❤,Ahh～❤ Ahhh～❤ No more...❤
+あはは、よわよわおちんちん気持ちいいね❤早くシコシコしないと谷間が見えなくなっちゃうぞー❤,Ahaha; your weak little cock feels good; doesn't it?❤ You better stroke it faster or you won't get to see my cleavage anymore~❤
+って、もうどうせ射精しちゃうか❤ほら、谷間にだしていいよー❤マスターくんのエナジー、わたしのおっぱいに捧げちゃお❤,Oh; you’re about to cum?~❤ Here; you can shoot it all over my boobs~❤ Offer all your energy to my breasts～❤
+ほら❤谷間をゆさゆさゆさ❤ちゃ～んと谷間を狙って❤精液、だして❤,Hora; hora～❤ My tits are swaying back and forth❤ Make sure to focus so you can aim carefully~❤ Shoot out your semen~❤
+はひぃっ…❤,Hahieee...❤
+あはは❤すごい量❤後ろで仲間が戦ってるのに、裏切りオナニー❤気持ち良かった？マスターくん❤,Ahaha～❤ What a huge load～❤ Even while your friend is fighting behind us; you started masturbating like a traitor~❤ Did it feel good; Mr. Cardmaster?❤
+谷間を見せてるだけなのに、勝手にシコシコしてエナジーを捧げてくれるなんて、本当にチョロい❤,I only showed you my cleavage; and yet you ended up stroking yourself and offered up your energy to me... You really are a pushover~❤
+我慢なんてする必要ないんだよー？おっぱい見ながら好きなだけシコシコしていいよ❤,You don’t have to resist it; you know? You can jerk off as much as you want while looking at my boobs～❤
+本当に始めちゃった❤なさけなーい❤ちょろすぎー❤,This is my first time seeing someone like this～❤ So pathetic～❤ What a pushover～❤
+うううっ…。,Uuu...
+でも、わたしはちょろいの大好きだからー、サービスしてあげるね❤,But I do love pushovers; so I’ll give you a special service～❤
+ほらぁ。わたしの胸の谷間❤たくさん見ながらシコシコしていいよ❤,Here; look at my cleavage~❤ You can rub one off while looking at it~❤
+手のしごく速さあがってるー❤いいよー、その調子でシコシコしようね❤,Your hand’s going even faster~❤ It’s fine; keep rubbing it like that~❤
+おっぱい見ながらシコシコ気持ちいいねー❤ほらほら、もっと見て❤,Jerking off while looking at my boobs feels good; doesn’t it?❤ Come on; look at them even more～❤
+特別サービスだよ❤谷間に集中して、じっと見つめて❤,It’s a special servicel after all～❤ Make sure to focus on my cleavage~❤
+ちょろマゾおちんちん気持ちいいね❤ほらほら、もっと早くシコシコしないと谷間が見えなくなっちゃうぞー❤,Of course a pushover; masochistic dick would feel good from this～❤ Come on; if you don’t jerk faster you won’t get to look at my cleavage as you cum～❤
+もうでちゃう？なら谷間にだしていいよー❤キミのエナジー、わたしのおっぱいに捧げちゃお❤,You’re about to cum? Then cum on my cleavage~❤ Offer all your energy to my breasts～❤
+ほら❤ほらほら❤ちゃ～んと谷間を狙って❤精液、だして❤,Hora～❤ Hora; hora～❤ Make sure to aim at them～❤ Let out your semen~❤
+あはは❤すごい量❤谷間を見せてるだけなのに、勝手にシコシコしてエナジーを捧げてくれるなんて、本当にちょろい❤,Ahaha～❤ What a huge load~❤ Even though I’m only showing you my cleavage; you jerked off to your opponent and offered your energy～❤ You really are a pushover～❤
+くすくす❤他の人もシコシコしたくなったらいつでもしていいからね。その時は谷間、みせてあげる❤,Teehee～❤ If anyone else wants to jerk off; feel free to do the same. And I’ll show you my cleavage when you do～❤
+あはは❤キミもわたしの大きいおっぱい見てたら我慢できなくなっちゃった？,Ahaha～❤ Are you also unable to control yourself after seeing my huge boobs?
+我慢なんてする必要ないんだよー？キミも仲間みたいにおっぱい見ながら好きなだけシコシコしていいよ❤,You don’t have to resist; you know? You’re also free to jerk off while looking at my breasts～❤
+あはは❤キミもすごい量❤谷間を見せてるだけなのに、勝手にシコシコしてエナジーを捧げてくれるなんて、本当にちょろい❤,Ahaha～❤ It’s also a huge load~❤ Even though you’re only looking at cleavage; you jerked off to your opponent and offered your energy～❤ You really are a pushover～❤
+あーあ、仲間のマスターもいるのにオナニーで自爆しちゃった❤人間の男っておちんちんに素直すぎでしょ。バカみたいだね❤くすくす❤,Aww～❤ Even though your friend was with you; you couldn't help sabotaging yourself and stroking your dick in front of my tits~❤ Human males are too honest with their dicks. You look like a fool~❤ Teehee~❤
+あは、パンツですりすりしているだけなのに、もうイっちゃったんだー❤サキュバスにこんな恥ずかしい形で負けるなんてみじめー❤くすくす❤,Aha; I just rubbed my panties on you and you came from that～❤ Losing to a succubus in such an embarassing state; isn’t that just so miserable?❤ Teehee～❤
+んふふ❤おっぱいにたくさん出てる。パイズリに全然我慢できなかったねー。くすくす❤,Fufu～❤ You came on my boobs so much. I guess my titjob was just that irresistable. Teehee～❤
+キノコ使いのサキュバスは、主人公が動けなくなったのを見ると、スライム使いのサキュバスと戦うエルルに手下のキノコ娘たちを差し向けた。,The mushroom-using succubus sent her mushroom subordinates to help the slime-using succubus that was fighting against Eruru.
+ふたりのサキュバスに挟み撃ちをされてしまったエルルに成すすべはなく、あっという間に組み伏せられてしまう。,Attacked on both sides by two succubi; Eruru was easily defeated and held down by them in no time.
+必死の抵抗を試みるエルルだったが、スライム使いのサキュバスに唇を奪われ、おとなしくなってしまった。彼女がどうなってしまうのか。僕にはわからない。,She tried to desperately resist; but the slime-using succubus kissed her on the lips; and she quickly turned silent. I don't know what happened to her after that.
+僕はエルルが連れ去られていく様子を、快感にしびれぼんやりとした頭の中で、ただ見ていることしかできなかった。,With my head still numb and hazy from pleasure; I could only watch as Eruru was taken away.
+そんな・・・。エルルさん・・・。,No... Eruru...
+くすくす❤マスターくんがわたしに負けたせいで仲間の女の子も捕まっちゃったね❤,Teehee～❤ Since you lost; it’s your fault she got caught～❤
+あの子がどうなるのか気になるの？自分でオナニーして負けちゃったくせに❤いまさらカッコつけても遅いんじゃないのかなー❤,Are you curious about what will happen to her? Even though you went and masturbated and lost on your own?❤ It's too late to try and act cool now~❤
+あの子がどうなるのか気になるの？おっぱいに負けてどぴゅどぴゅしちゃったくせに、いまさら仲間のことを気にしても遅いんじゃないかなー❤,Are you curious about what will happen to her? Even though you lost to my boobs and splurted everything out? It’s too late to worry about your friend~❤
+あの子がどうなるのか気になるの？パンツ擦られて射精しちゃう、よわマゾのくせに❤いまさらカッコつけても遅いんじゃないのかなー❤,You wanna know what’ll happen to that girl; even though you’re a weak masochist that came from being rubbed by my panties?❤ It’s too late to act cool at this point～❤
+どうせマスターくんは今からわたしに吸い殺されちゃうんだから。考えたってムダ❤,Regardless of what will happen to her; I'm going to drain you dry; Mr. Cardmaster so there’s no point thinking about it~❤
+ほら、まずはおちんちんをおっぱいで挟んじゃいまーす❤ぎゅ～っ❤,Hora; first I’ll squeeze your dick between my breasts~❤ Squeeze~❤
+ああ・・・❤やわらか・・・❤,Ahhh...❤ So soft...❤
+あーあ、マスターくんの顔とろけちゃった❤ちょっとパイズリされただけでとろけっちゃうよわよわおちんちんで、よくサキュバスと戦おうと思ったね？,Aww; the cardmaster’s already melting from the pleasure~❤ Did you really think you could fight a succubus with such a weak dick that gets like this from the slightest touch of my breasts?
+仲間の女の子を捕まえたわるーいサキュバス相手なのに、あん❤あん❤って喘ぐことしかできずに、腰がびくびくしちゃってる。もっとパイズリされたいんだよね？なさけなーい❤,You're facing a wicked succubus who's captured your female companion; yet all you can do is moan "Ahhh~❤ Ahhh~❤" while your hips tremble uncontrollably. You really want your cock massaged between my tits; don't you? How pathetic~❤
+わたし、あの子にごめんなさいした方がいいと思うな。そう思わない？ねぇ❤ねぇねぇ❤,If you ask me; you should be apologizing to that girl. Don’t you think so? Hey; answer me~❤
+あうっ❤ううっ・・・❤,Ahh~❤ Ugh...❤
+ボクのちょろマゾおちんちんのせいですって❤ごめんなさいって❤ほーら、早くあの子に謝って❤,Come on; hurry up and apologize to her~❤ Tell her; “It’s because I have a pushover; masochist dick~❤ I’m so sorry~❤” 
+はううっ❤、ごめっ❤エルルさっ❤ごめんなさい・・・❤,Hauuu～❤ I...❤ Eruru...❤ I’m sorry...❤
+あはは、マスターくん。泣きそうな顔になってる❤いまさら罪悪感でも感じてるのかな？もう手遅れなのに。,Ahaha; Cardmaster; are you bawling your eyes out?❤ Are you starting to feel guilty now? But it’s too late for that.
+精液ってねぇ、心の中がぐちゃぐちゃの時の方がおいしいんだよ？いまのマスターくんの精液はとってもおいしそう❤,Did you know that your semen tastes much better when you're in deep anguish? And right now your mana is looking especially delicious~❤
+罪悪感があってもさぁ、おちんちんおっぱいでズリズリされたら、気持ちよくて気持ちよくてどうにもならないんだよね❤,Even if you feel guilty; when your cock is rubbed between my breasts like this; the pleasure is so intense that you simply can't help yourself; isn't that right?❤
+わたしのおっぱい❤とっても柔らかいもんね❤この前挟んであげた村の男の人もすぐにあへぇ❤ってなさけなーい喘ぎ声あげちゃったけど、マスターくんも同じ❤,My breasts are very soft; aren’t they? The previous villagers I squeezed between these breasts also immediately went “Ahh~❤”; just the same as you~❤
+頑張って修行してきたのに普通の人と変わらないんだよ？くすくす❤今までの努力、みーんな無駄だったのかもねー❤,Even though you’ve trained really hard; in the end you’re no different than your average villager. Teehee~❤ Looks like all that hard work up to now was pointless~❤
+む、むだじゃっ・・・❤あっ❤うひあっ、やめっ❤,I-It’s not pointless...❤ Ahh～❤ Hyaa; stop it～❤
+違うっていうなら早く反撃してみせてよ❤ほらほら❤はーやーくー❤はーやーくぅ❤,If I’m wrong; then fight back～❤ Hora; hora~❤ Come on~❤ Fight back~❤
+いつまでもわたしにパイズリされてないで❤おちんちんの先っぽ、いっぱいズリズリされてないでさぁ❤,How long are you gonna let me squeeze your dick?❤ Come on; don’t let me rub the tip of your dick~❤
+あっ、あひぃっ❤あぐぅ、ううっ・・・❤,Ahh～❤ Ahiee～❤ Agh～❤ Uuu...❤
+あはは❤自分から腰、へこへこしちゃってる❤これが反撃なの？もっと気持ちよくしてーって、言ってるだけじゃないのかな❤,Ahaha～❤You’re thrusting on your own now～❤ Is this supposed to be you fighting back? It looks more like you’re asking to be pleasured even more～❤
+だって・・・❤うっ❤ううっ❤きもち、よすぎてぇ・・・❤,But...❤ Uuuu～❤ It feels too good...❤
+あーあ、完全に顔がとろけちゃった❤おっぱいに降伏❤仲間も裏切って、マスターとしての頑張りも捨てて、へこへこパイズリおねだり❤,Aww; you’ve been completely charmed～❤ Surrendered completely to my breasts～❤ You betrayed your ally; and threw away all your hard work just to beg and thrust your dick between my boobs～❤
+もう限界だね❤ちょっとパイズリしてあげただけなのに、ちょろマゾおちんちんがビクビクしてる❤射精１０秒前って感じ？,Looks like you’re at your limit~❤ I wanted to squeeze you even more; but looks like your pushover masochist dick is already twitching~❤ Maybe you’ll last for another 10 seconds?
+わたしってとってもやさしいからさー、きもちよーく射精できるるように思いっきりぎゅ～ってしてあげるね❤,I’m a very kind succubus~ So I’ll make sure to squeeze your dick and make that ejaculation feel so good you’ll never ever forget it~❤
+マスターくんも自分で腰、突き上げて・・・おっぱいの中に全部だして❤ほら、イケ❤マーゾ❤,Come on; thrust your hips... Let it all out between my breasts~❤ Hora; hora～❤ Cum; you masochist~❤
+あへぇ❤❤あっ、でる、あああっ・・・❤,Ahnn~❤❤ I’m cumming; ahh...❤
+あひいっ、とま、とまらな、あへぇあっ・・・❤,Ahiee; I can’t stop... Hieee～❤
+これで打ち止めかな？おっぱいの中、べとべとになっちゃった❤んー❤魔力の質もいいし、仲間を裏切った罪悪感でいい味してる❤,So was that everything? My breasts are all sticky now~❤ Mmm~❤ Not only was the quality of his magical energy good; but the guilt from betraying his comrades adds such a delicious flavor.❤
+このまま吸い殺しちゃおうと思ったけど、これならお持ち帰りしてもいいかも。マスターくんの泣きそうな顔、面白かったし❤,I was planning on draining him to death; but maybe I’ll take him back instead. That cardmaster’s bawling face was just so hillarious~❤
+よいしょっと。そうだ❤帰ったらあの子の前でしてみようかな❤とっても楽しそう、あはは❤,There we go! Ooh; I just realized~❤ When I get back; I should give him paizuri in front of that girl too~❤ I can’t wait. Ahaha!❤
+こうして主人公は、探索中に遭遇したキノコ使いの淫魔に負け、エルルと共に連れ去られてしまった。,Thus; the protagonist lost to the mushroom-using succubus during the investigation. Both the protagonist and Eruru were then taken away.
+ギルドが異変に気付いた時には遅く、主人公たちの足取りは完全に途絶えてしまっていた。,When the guild realized something was wrong; it was too late. Their trail had completely disappeared.
+その後、彼らの姿を見た者はいない。主人公の妹を探す冒険はこうして終わりを迎えたのだった。,After that; both of them were never seen again. Thus; the protagonist’s adventure to save his sister met its untimely end.

@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Aqua Gem
-&効果テキスト,Discard 1 card; All monsters on your field become Water Attribute and gain [Reinforcement] (When the player discards a card: this card gains 100ATK.)
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

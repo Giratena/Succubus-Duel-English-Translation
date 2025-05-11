@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Recovery Potion
-&効果テキスト,[1]. Select one monster: That monster recovers 1500 HP.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

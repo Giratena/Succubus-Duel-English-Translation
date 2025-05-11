@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Master Detective
-&効果テキスト,[1]. When the opponent activates a Trap Card; this card can negate the effect of that card and destroy it. This effect can only be activated once.\n[2]. This card deals double damage to Rouge Type monsters.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Dragonize Magician
-&効果テキスト,[1]. Once per turn; select one non-Dragon Type monster on the field to activate this effect: Change that monster's Type to Dragon Type and increase its attack power by 300 points.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

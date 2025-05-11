@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Smash Dwarf
-&効果テキスト,[1]. Increase this card's attack power by 200 points for every "Gem" card you activate. \n[2]. When this card is destroyed in combat and sent to the graveyard; add one random "Gem" card from the deck into your hand.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

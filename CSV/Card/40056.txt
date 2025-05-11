@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Food Chain
-&効果テキスト,You can only activate "Food Chain" once per turn.\n[1]. Discard 1 card in your hand and target 1 Water Attribute monster on your field; Special Summon 1 random Level 5~6 Water Attribute monster from the Deck.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

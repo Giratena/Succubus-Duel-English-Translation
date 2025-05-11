@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Mischievous Cat-Sith
-&効果テキスト,[1]. When this card is Normal Summoned: Return all Magic/Trap cards on the field to their owners' hands. Both players then discard the same number of cards at random and draw an equal number of cards.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,

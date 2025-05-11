@@ -1,9 +1,0 @@
-default
-@初期設定
-&カード名,Rabbit Lancer
-&効果テキスト,[1]. When this card is Summoned: Select one monster in Defense Position on the opponent's field; inflict 1000 points of damage to that monster.
-&ハード効果テキスト,
-&イージー効果テキスト,
-&フレーバーテキスト,
-&エロ効果テキスト,
-&ハードエロ効果テキスト,
