@@ -106,8 +106,8 @@ Dランクになったばかりだというのに、\n実力を見せつけま�
 トラップカードを発動！{使用カード}！,Activate trap Card! {使用カード}!
 カードをセット。,Card set.
 カードを伏せるわ。,I'll set this card face down.
-わたしも行くわ。{防御カード}を攻撃！,I'll join in the attack. I'll attack your {防御カード}!
-わたしのテクを見せてあげる。{防御カード}を攻撃！,Let me show you my techniques. I'll attack your {防御カード}!
+わたしも行くわ。{防御カード}を攻撃！,I'll join in the attack. I'm attacking {防御カード}!
+わたしのテクを見せてあげる。{防御カード}を攻撃！,Let me show you my techniques. I'm attacking {防御カード}!
 {使用カード}で{防御カード}を攻撃！,With {使用カード}; I'll attack your {防御カード}!
 行きなさい。{使用カード}で{防御カード}を攻撃。,Let's go! {使用カード}; attack {防御カード}.
 あんっ、このままじゃ負けちゃうかも。ターンエンド。,Ahh... At this rate; I might lose. End turn.
@@ -173,7 +173,7 @@ Dランクになったばかりだというのに、\n実力を見せつけま�
 おっぱいに搾り取られちゃいましょ？ほらほらほら❤,Why not just submit to my titty milking session? Come on; you know you want to...❤
 おちんちん耐えられる？無理なら降参しちゃっていいのよ❤,Can your cock handle it? If not; you can go ahead and surrender~❤
 逃げる気力なんて、おっぱいで全部奪ってあげる❤,My breasts will drain away all of your will to escape.❤
-おっぱい見たらみんな鼻の下を伸ばすの❤あなたももうメロメロね❤,When they see my breasts; everyone starts drooling over them like fools.❤ You're already mesmerized as well; aren't you?❤
+おっぱい見たらみんな鼻の下を伸ばすの❤あなたももうメロメロね❤,Everyone starts drooling when they see my tits.❤ You're already mesmerized too; aren't you?❤
 おちんちんを丸ごと包んで、ずりずり❤たぷたぷ❤,Wrapping your entire cock with my breasts; sliding up and down~❤ Can you feel how squishy and soft they are?❤
 ねえ、もうバトルは終わりにしましょ？このおっぱいに出しちゃいなさい❤,Hey; let's hurry up and end this battle; okay? Go ahead and cum between my breasts.❤
 くすくす❤抵抗する力が弱くなってる❤気持ちよくて逃げられないのよね❤,Hmhmhm~❤ Your resistance is getting weaker...❤ It feels so good that you can't escape; doesn't it?❤
