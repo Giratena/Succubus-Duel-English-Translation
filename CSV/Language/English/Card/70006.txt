@@ -36,26 +36,26 @@ Sexy01,
 そこで勃起チンポ抱えてじっとしてれば？\nすぐにまたエナジーを搾り取ってあげる❤\nま、ほかのモンスターにぼこられちゃうかもだけど❤,How about you just stay still and hold that erection out? I'll squeeze your mana again real soon.❤ Well; the other monsters might get to you first~❤
 さらにもう1枚発動！,And I'll activate one more card!
 {使用カード}の効果発動！カードを1枚ドロー！.,Activate {使用カード}'s effect! Draw one card!
-{使用カード}が場に出たとき効果発動！山札から1枚ドロー！,When entering the field; activate {使用カード}'s effect! Draw one card from my deck.
-{使用カード}の効果発動！相手の攻撃力を300ポイントダウン！,Activate {使用カード}'s effect! Opponent's attack power is lowered by 300 points.
-力を奪ってあげる。{使用カード}の効果を発動！,I'll steal your power. Activate {使用カード}'s effect!
-{使用カード}の効果発動！闇属性モンスターの攻撃力を300ポイントアップ！,Activate {使用カード}'s effect! A random Dark Attribute monster's attack power increases by 300.
-{使用カード}の効果を発動！闇属性モンスターの攻撃力をパワーアップ！,Activate {使用カード}'s effect! A random Dark Attribute monster's attack power increases.
-破壊されたとき{使用カード}の効果発動！罠カードをサーチするわ！,When {使用カード} is destroyed in battle; I can activate it's effect and search for a trap card to add to my hand!
-{使用カード}が破壊されたとき効果を発動！罠カードを山札から手札にサーチ！,When it's destroyed; activate {使用カード}'s effect! It searches for a trap card from my deck and adds it into my hand!
-魔法カード発動！{使用カード}！手札からレベル4以下の闇属性モンスターを特殊召喚するわ.,Activate magic card's effect! {使用カード}! It special summons a level 4 Dark Attribute monster from my hand.
-{使用カード}発動！手札から闇属性の下級モンスターを特殊召喚するわ。,Activate {使用カード}'s effect! It special summons a lower-rank Dark Attribute monster from my hand.
-{使用カード}を発動！強化状態の味方をさらに強化するわ！,Activate {使用カード}'s effect! Allies that have been buffed are buffed even further!
-どんどん強くなりなさい。{使用カード}を発動！,Get more and more powerful. Activate {使用カード}!
+{使用カード}が場に出たとき効果発動！山札から1枚ドロー！,When {使用カード} enters the field; I can draw one card from my deck!
+{使用カード}の効果発動！相手の攻撃力を300ポイントダウン！,{使用カード} activate! Lower my opponent's attack power by 300 points!
+力を奪ってあげる。{使用カード}の効果を発動！,I'll steal your power. {使用カード} activate!
+{使用カード}の効果発動！闇属性モンスターの攻撃力を300ポイントアップ！,I activate {使用カード}; and increase a random Dark Attribute monster's attack power by 300!
+{使用カード}の効果を発動！闇属性モンスターの攻撃力をパワーアップ！,I activate {使用カード}; and increase a random Dark Attribute monster's power by 300 points!
+破壊されたとき{使用カード}の効果発動！罠カードをサーチするわ！,When {使用カード} is destroyed in battle; I can search for a trap card to add to my hand!
+{使用カード}が破壊されたとき効果を発動！罠カードを山札から手札にサーチ！,When that card is destroyed; {使用カード} lets me search for a trap card from my deck to add to my hand!
+魔法カード発動！{使用カード}！手札からレベル4以下の闇属性モンスターを特殊召喚するわ.,Magic card activate! {使用カード}! I special summon one level 4 Dark Attribute monster from my hand.
+{使用カード}発動！手札から闇属性の下級モンスターを特殊召喚するわ。,Activate {使用カード}! Now I can special summon a lower-rank Dark Attribute monster from my hand.
+{使用カード}を発動！強化状態の味方をさらに強化するわ！,{使用カード} activate! This card makes any allies that are buffed to get buffed even further!
+どんどん強くなりなさい。{使用カード}を発動！,My monsters will only continue to get stronger! {使用カード}; activate!
 {使用カード}を発動！デッキからローグモンスターをサーチさせてもらうわね。,I Activate {使用カード}'s effect! It searches for a Rogue Type monster from my deck and adds it to my hand.
 さあ行くわよ。{使用カード}を発動！連続攻撃してあげる！,Let's go! Activate {使用カード}! Take these successive attacks!
 装備魔法カード発動！{使用カード}！,Activate magic equipment card! {使用カード}!
 魔法カードを発動！{使用カード}！,Activate magic card! {使用カード}!
 トラップカードを発動するわ！{使用カード}！,Activate trap card! {使用カード}!
-カードをセット。,I set this card.
-カードを伏せるわ。,I place this card facedown.
-あなたのこと気持ちよくしてあげるわね。{防御カード}を攻撃！,I'll make you feel good now~ I attack {防御カード}!
-快感で戦えなくしてあげる。{防御カード}を攻撃！,I'll make you go powerless from pleasure. I attack {防御カード}!
+カードをセット。,I'll set this card.
+カードを伏せるわ。,I'll place this card facedown.
+あなたのこと気持ちよくしてあげるわね。{防御カード}を攻撃！,I'll make you feel good now~ I'll attack {防御カード}!
+快感で戦えなくしてあげる。{防御カード}を攻撃！,I'll make you go powerless from pleasure. I'll attack {防御カード}!
 バトルよ！{使用カード}で{防御カード}を攻撃！,Go; {使用カード}! Attack {防御カード}!
 ううっ、なにもできないわ。ターンエンド。,Uuu; I can't do anything. Turn end.
 あまり良くない手札ね。なにもできない。ターンエンド。,My hand doesn't look good; I can't do anything. Turn end.
@@ -78,16 +78,16 @@ F級カードマスターくんは女の子に手でしてもらったことは�
 女の子の手って柔らかいから気持ちいいのよ。ほら、実際にやったげる。シコシコ、シコシコ…♪,A girl's soft hands will feel really good. Here; I'll do it for you. Stroke stroke; stroke stroke...♪
 E級カードマスターくんは女の子に手でしてもらったことはある？,E-rank card master; have you ever been touched  bya girl before?
 わたし手コキにはけっこう自信があるの❤\n{主人公}のこともすぐに骨抜きにしてあげる❤\nほら、シコシコ、シコシコ…♪,I'm confident in my handjob skills.❤ {主人公}'s dick will quickly turn powerless.❤ Here; I'll rub it...♪
-わたしの手でかわいがってあげる。ほら、握って上下に、シコシコ…❤いっぱい声出しちゃっていいからね。,I'll treat you good with my hands. There; I'll hold your dick like this and move up and down...❤ You can make as much noise as you want.
-わたしの胸、けっこう大きいでしょ。挟んであげようか？,My boobs are surprisingly big; aren't they? Should I squeeze you with them?
-ほら、服の隙間からチンコを入れてっと…。\nふふふ、おっぱいの感触たくさん楽しんでね❤,Here; put your dick inside the gap in my clothes... Hehe; please enjoy this sensation.❤
-胸で挟んで、気持ちよくしてあげる。\nこの大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,I'll make you feel good with these boobs. I'll insert your dick between them and massage it.
+わたしの手でかわいがってあげる。ほら、握って上下に、シコシコ…❤いっぱい声出しちゃっていいからね。,I'll treat you good with my hands. There; I'll hold your dick like this and move up and down...❤ Make as much noise as you like.
+わたしの胸、けっこう大きいでしょ。挟んであげようか？,My boobs are surprisingly big; aren't they? Shall I squeeze your dick between them?
+ほら、服の隙間からチンコを入れてっと…。\nふふふ、おっぱいの感触たくさん楽しんでね❤,Go on; slip your dick through the gap in my clothes... Hehe; Enjoy the feel of my tits around your cock~❤
+胸で挟んで、気持ちよくしてあげる。\nこの大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,I'll make your dick feel good with my big boobs; it'll get squeezed between them real good.
 その状態で上下に何度もズリズリ♪ パイズリって気持ちいいのよ。ほら…❤,I'll move my boobs up and down just like this♪ Titjobs feel good; don't they? Come on...❤
 F級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,Here's a special service for a special F-rank cardmaster. I'll slip your dick under clothes and...
 E級カードマスターくんにおっぱいで特別ご奉仕。チンコを服の中に入れてっと…。,Here's a special service for a special E-rank cardmaster. I'll slip your dick under my clothes and...
 おっぱいで特別ご奉仕してあげるわね❤{主人公}❤\nチンコを服の中に入れてっと…。,Here's a special service for you; {主人公}❤. I'll slip your dick under my clothes and...
 おっぱいあったかくて気持ちいい？そのまま力抜いてなさい。\nきっと耐えられなくて、すぐに終わるわ。\nよいしょっ。ズリズリ、ズリズリ…❤,Does it feel warm between my boobs? Just relax. I'm sure you won't be able to resist this; so this'll be over soon. Squeeze; squeeze...❤
-胸で挟んで、気持ちよくしてあげる。この大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,I'll make you feel good with these breasts. I'll put your dick between my huge breasts and squeeze them.
+胸で挟んで、気持ちよくしてあげる。この大きなおっぱいでむぎゅーってチンコを挟んじゃうの。,I'll press my breasts around your cock and make you feel good. All by being squeezed between my large titties~
 あら、我慢できなくて射精させてくださいってお願いしちゃうわけ？\n初心者らしいカッコ悪いおねだりね❤,Oh; you can't endure; so you're begging me to make you ejaculate? So typical for a beginner. What a pathetic request~❤
 どうやって負けたいのかしら❤\n先輩マスターのわたしに向かって、声に出して言ってみなさい❤,So; how do you want to lose?❤ Please face your senior and say it loudly.❤
 あら、我慢できなくて射精させてくださいってお願いしちゃうわけ？\nDランクにもなってカッコ悪いおねだりね❤,Oh; you can't endure so you're begging me to make you ejaculate? Even if you're a D-ranker; that's such a pathetic request❤
@@ -100,9 +100,9 @@ E級カードマスターくんにおっぱいで特別ご奉仕。チンコを�
 なんでも,You decide
 あはは、投げキスをいっぱいしてほしいの？\nすごくかわいいお願いをするのね❤,Ahaha; you want more blown kisses? That's a cute request~❤
 いいわよ、してあげる❤\n本当はただ足止めするための技だけど、何回も当てて\nあなたのこと投げキスだけでイかせてあげるわ❤,Fine by me. I'll give you your blown kisses.❤ Honestly; this skill was originally meant for stopping your movements; but I'll give you as many blown kisses as you want~❤
-ふーん、このおっぱいで挟んでほしいんだ❤\nおっぱいフェチの雑魚チンポ、シャツをめくって中に入れて、\nたっぷりズリズリしてあげるわ❤,Hooh; so you want to be squeezed by my breasts.❤ I'll put this weak penis inside of my shirt and squeeze tight.❤
-ふふ、手でシコシコしてほしいのね❤\nわたし手コキはかなりうまい方だと思うの❤\nあなたの足腰すぐに立たなくさせてあげる❤,Fufu; so you want to be jerked off by my hand.❤ I think I'm pretty good with my hands.❤ You won't be able to stand up after this~❤
-くすくす❤キスされるたびにビクビク震えて、ついに射精しちゃった❤\n魔力は多少込めているけど、投げキスだけでイクとかだいぶ変態よね❤,*Giggle*❤ You're trembling with every blown kisses; and you finally came.❤ I placed some magic on my kisses; but you really are a pervert to cum from kisses alone~❤
+ふーん、このおっぱいで挟んでほしいんだ❤\nおっぱいフェチの雑魚チンポ、シャツをめくって中に入れて、\nたっぷりズリズリしてあげるわ❤,Ooh; so you want me to squeeze your dick between my breasts?❤ I'll definitely slip your weak penis undermy shirt and rub it good then~❤
+ふふ、手でシコシコしてほしいのね❤\nわたし手コキはかなりうまい方だと思うの❤\nあなたの足腰すぐに立たなくさせてあげる❤,Fufu; you want me to jerk you off; don't you?❤ I think I'm pretty good with my hands.❤ You won't be able to stand up after this~❤
+くすくす❤キスされるたびにビクビク震えて、ついに射精しちゃった❤\n魔力は多少込めているけど、投げキスだけでイクとかだいぶ変態よね❤,*Giggle*❤ You trembled with each kiss and finally ejaculated.❤I did use a little magic; but cuming just from my blown kisses must make you quite the pervert; huh?❤
 変態っていうかただザコなだけかしら？\n指先でちゅってされるだけで負けるんだもの❤\nぷっ、くすくすくす♪,Or maybe not a pervert; but rather a pushover? I only used my fingertips; but you lost from that.❤ Pfft; *Giggle*♪
 ふふ、わたしのパイズリ気持ちよかったでしょ？\n服があなたのせいでベトベト❤\nでも魔力に変えて吸収するから精液つけられたところで困らないわ❤,Hehe; did my boobs really feel that good? My clothes are all sticky from your cum~❤ But it's not a problem since I can turn it all into magic and absorb it.❤
 困るのはあなたの仲間たちね❤\n裏切ったせいで戦力が一人減って、そのうえわたしは全回復。\nどう考えてもピンチじゃない。くすくす❤,The ones in trouble are your comrades.❤ Because of your betrayal; they lost one member; and I even get to fully recover. No matter how you view it; they're are in big trouble. *Giggle*❤
