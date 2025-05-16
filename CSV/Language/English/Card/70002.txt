@@ -36,7 +36,7 @@ default
 これで分かったように、\n並大抵の実力じゃ、魔族領に入ることは難しいわ。,So as you can see; entering into monster territory with average skills will prove difficult.
 下級サキュバスならまだしも\n中級以上のサキュバスだとわたしよりも強いのよ。\nきっと童貞の男の子なんか瞬殺されちゃうでしょうね。,While I'm stronger than lower-class succubi; I don't compare to high or even middle-class succubi. I'm sure a virgin boy like yourself would be defeated out there in an instant.
 だからこそ、地道に頑張っていきましょう。\n隣街には大きなカードマスターギルドがあって、たくさんの\nカードマスターがいる。きっとあなたにはいい刺激になるはずよ。,So for that reason; you'll need to keep steadily improving yourself. There's a cardmaster guild in the next town over; and there are a lot of cardmasters there. I'm sure it will be a good source of inspiration for you.
-ギルドの方には手紙を書いておくわ。\n向こうについたらリーフという人に会いなさい。\n頼りになる人だから色々と面倒を見てくれるはずよ。,I'll write a letter to the guild. When you get over there; ask for a man named Leif. He's a reliable person; and will be sure to look after you.
+ギルドの方には手紙を書いておくわ。\n向こうについたらリーフという人に会いなさい。\n頼りになる人だから色々と面倒を見てくれるはずよ。,I'll write a letter to the guild. When you get over there; ask for someone named Leaf. She's a reliable person; and will be sure to look after you.
 それじゃあ、これは支度金。,Now then; here's some preperation money.
 このお金を使って、カードパックを買うなり、装備を整えるといいわ。,Use this gold to buy any card packs or equipment you need.
 ありがとうございます。師匠！,Thank you; Master!
@@ -44,7 +44,7 @@ default
 今回はそっちが先攻ね。さあ、モンスターを出しなさい。,You may go first this time. Now then; bring out your monsters!
 わたしのターン、ドロー！,My turn. Draw!
 ふふ、いいカードを引いたわ,Fufu. I pulled quite a nice card.
-{使用カード}を上級召喚！,Advnace summon {使用カード}!
+{使用カード}を上級召喚！,Advance summon {使用カード}!
 行きなさい！{使用カード}を召喚！,Now go! Summon {使用カード}!
 ふふ、何の効果も持たないカードだからって油断しちゃダメよ。\n女性モンスターはその体自体が男を惑わす武器になるの。,Fufu. Don't let your guard down just because a card doesn't have any effects. The body of a female monster itself can be a dangerous weapon for disarming men.
 ううっ、あうう・・・❤,Ooh; ahh...❤

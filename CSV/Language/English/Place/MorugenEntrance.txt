@@ -37,6 +37,7 @@ Place/MorugenEntrance,
 またタップ操作の場合は二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,You can also skip by tapping the screen with two fingers. The text will stop skipping when you release your fingers.
 こんにちは。わたしはBランクのカードマスター、リーズよ。,Hello there. I'm Lizz; a B-Rank cardmaster!
 見たところあなたはまだ新人かな？ギルドリングをつけてないわね。,Are you a newbie? I see you're not wearing your guild ring.
+ギルドリング？,Guild ring?
 ほら。わたしが指にはめているこのリングがギルドリングよ。\nギルドに所属する証で同時にランクの高さも表しているの。,See this? This ring I'm wearing on my finger is my guild ring. It's proof that I belong to a guild; and it also shows that I'm highly ranked too.
 この街に来たってことは、ギルドに入るんでしょう？\nなら、これは先輩からのご祝儀よ。,Since you came to this town; you must be joining the guild; right? In that case; here's a gift from your senior.
 なんていうか、あなたからは大物になりそうな気配を感じるわ。\nだから先行投資みたいなものね。,For some reason; I have a feeling you're going to make a big splash here; so think of it as a investment into your journey.
