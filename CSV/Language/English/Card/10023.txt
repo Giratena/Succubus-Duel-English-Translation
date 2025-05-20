@@ -51,6 +51,8 @@ default
 このままじっとしていれば、\nたくさんぱふぱふしながら、脚も動かしてあげますよ❤\nふとももにこすりつけながら、甘い快楽で脱力させてあげます❤,If you just stay still like this; I'll pamper you; not only with a Puff-Puff; but with my legs as well.❤ I'll rub my thighs against you; making you relax into such sweet pleasures~❤
 ほら、すりすり❤ぱふぱふ❤ 脳みそとろとろになっちゃうぐらい気持ちいいでしょう？,Look; rub-rub~❤ Puff-puff~❤ Doesn't it feel so good your brain turns to mush?
 こんな天国のような状況から抜け出すなんて嫌ですよね❤なら、快感に身をゆだねてわたしの抱擁に負けてしまいしょう❤とても楽になれますよ？うふふ❤,You wouldn't want to escape from something so heavenly; would you?❤ Then surrender to the pleasure and give into my embrace.❤ Won't that feel so much better? Ufufu~❤
+振り払ってとどめを刺した,Shake her off and land the final blow
+力が抜けてしまった,My strength is gone
 あうっ、この状況で振り払えるなんて…！,Ahh; to think you could shake me off in such a state...! 
 あは、腕がぶらーんってなっちゃいましたね❤もう戦う気持ちなくなっちゃいましたか？,Ah; your arms have gone limp; haven't they? ❤ Have you lost the will to fight?
 でも、まだ反撃されたら怖いので、もっと力を抜き取っちゃいますね。ぱふぱふ❤ぱふぱふ❤,Though; I'm still worried you may counterattack; so I shall relax you further. Puff-puff~❤ Puff-puff~❤
@@ -117,6 +119,8 @@ default
 あひぃっ❤ううっ出るぅ❤,Ahh!❤ Ugh; I'm coming!❤
 こうして僕は気絶するまで精を搾りとられてしまったのだった。,And so; I continued to have my energy drained until I fainted.
 冒険をあきらめますか？,Give up on your adventure?
+あきらめる,Give up
+あきらめない,Don't give up
 その後、僕はすっかり戦う意思を失ってしまった。そして…。,After that; I completely lost the will to fight. And then...
 あらあら、また今週も神殿に来たのですね❤わたしの抱擁を受けたくなったのですか？,Oh my; you've come to the temple again this week; haven't you?❤ Did you come to receive my embrace?
 マスターに頼みこんで、毎週のようにわたしを召喚してもらい、ぱふぱふを受けにくるだなんて…。くすくす❤ずいぶんと熱心な信徒になったものです。,Begging the master to summon me almost every week just to receive a puff-puff... Kuhuhu~❤ You've become quite the devoted follower.
