@@ -1,5 +1,5 @@
 default
-闘技場ファンの男,Male Arena Fan
+闘技場ファンの男,Male Colosseum Fan
 観客の女,Woman from the Audience
 エルル,Eruuru
 ❤派手な女の子,❤Flashy Girl
@@ -32,7 +32,7 @@ default
 ❤上機嫌な女の子,❤Cheerful Girl
 低ランクのカードマスター(女),Low-rank Female Cardmaster
 目ざとい男,Sharp-Eyed Man
-闘技場ファンのおじいさん,Old Male Arena Fan
+闘技場ファンのおじいさん,Old Male Colosseum Fan
 ❤ジェミニ,❤Gemini
 本を持っている女の子,Girl Holding a Book
 悩んでいる女性,Troubled Woman
@@ -43,7 +43,7 @@ default
 グッズ売りの老婆【!】,Old Woman Selling Merchandise【!】
 グッズ売りの老婆,Old Woman Selling Merchandise
 学生の男,Male Student
-闘技場,Arena
+闘技場,Colosseum
 Place/Colosseum,
 対戦,Fight
 情報収集,Investigate
@@ -54,25 +54,25 @@ Place/Colosseum,
 街に戻る,To Town
 今は先にギルドに行って昇格の手続きを終わらせよう（クエストメニューから昇格手続きが行えます）。,I should go to the guild first and complete the promotion procedure first (you can do the promotion procedure from the quest menu).
 今は先にクエストを終わらせよう。,I should finish the quest first.
-ギルドで説明を受けた闘技場に、僕は足を運んでいた。,I made my way to the arena I had heard so much about at the guild.
+ギルドで説明を受けた闘技場に、僕は足を運んでいた。,I made my way to the colosseum I had heard so much about at the guild.
 街中とはまるで違う雰囲気を肌で感じる。周りに見えるカードマスター達の闘志だろうか。,The atmosphere here felt completely different from the city. Perhaps it was the fighting spirit of the cardmasters around me.
 ここでのカードバトルは更に厳しいものになるだろう。この空気に飲まれないよう、僕は心を奮い立たせた。,The card battles here will no doubt be more intense than the ones I've faced before. I steeled my resolve; determined to not be overwhelmed by the atmosphere.
-初めまして。闘技場への参加をご希望でしょうか？,Nice to meet you. Would you like to participate in the arena?
+初めまして。闘技場への参加をご希望でしょうか？,Nice to meet you. Would you like to participate in the colosseum?
 分かりました。それではギルドリングをお見せください。,Understood. Then please show me your guild ring.
 ・・・。,...
-ありがとうございます。貴方がDランクであることを確認しました。闘技場への参加を承認します。,Thank you very much. After confirming your rank is D; I gladly approve your participation in the arena.
+ありがとうございます。貴方がDランクであることを確認しました。闘技場への参加を承認します。,Thank you very much. After confirming your rank is D; I gladly approve your participation in the colosseum.
 再度話しかけていただければ、本日からでも対戦を組むことができますので、準備ができたらお声がけくださって構いませんよ。,If you speak to me again; we can arrange a match starting today; so feel free to let me know when you're ready.
 おや、あんた新人選手かい？\nそのリングの色、Dランクだね。,Oh; are you a rookie player? That ring color is D-rank; right?
-闘技場では普段からカードマスターたちが試合をして\nその腕を競っているんだ。\n祭りの間はとくに試合が盛りだくさんさ。,In the arena; cardmasters usually compete in matches to showcase their skills. During the festival; matches here are especially common.
+闘技場では普段からカードマスターたちが試合をして\nその腕を競っているんだ。\n祭りの間はとくに試合が盛りだくさんさ。,In the colosseum; cardmasters usually compete in matches to showcase their skills. During the festival; matches here are especially common.
 国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather and have fierce battles... Ah; it's just irresistible; don't you think?
 でもよ、最近は女マスターばっかり勝っててつまらねえ。\nもっと剣と剣がぶつかるような戦いを、前みたいに見たいもんだ。\n男としてあんたには期待してるぜ！,But you know; lately it's only been female masters winning; and it's starting to get boring. I want to see battles where swords clash like they used to. So as a man; I'm counting on you!
-闘技場って、中にいるだけで何だかワクワクしてくるよな。,The arena; just being inside it makes me feel all excited; doesn't it?
-祭りの間はそこかしこでカードマスターたちが戦っているけど、\n闘技場はやっぱ真剣勝負の場って感じで雰囲気が違うぜ。\nああ、俺もカードマスターだったら参加してみてぇなぁ。,During the festival; cardmasters are battling everywhere; but the arena really feels like a place for serious matches; and the atmosphere is just so different. Ah; if I were a cardmaster; I'd want to participate; too.
+闘技場って、中にいるだけで何だかワクワクしてくるよな。,The colosseum; just being inside it makes me feel all excited; doesn't it?
+祭りの間はそこかしこでカードマスターたちが戦っているけど、\n闘技場はやっぱ真剣勝負の場って感じで雰囲気が違うぜ。\nああ、俺もカードマスターだったら参加してみてぇなぁ。,During the festival; cardmasters are battling everywhere; but the colosseum really feels like a place for serious matches; and the atmosphere is just so different. Ah; if I were a cardmaster; I'd want to participate; too.
 男のカードマスターはあんまり勝率がよくないんだよねぇ。,Male cardmasters don't have a very good win rate; you know.
 昔はそうでもなかったんだけど、サキュバスが出現してからは男の強いカードマスターがたくさん魔族領でやられちまって、それで女マスターと実力差がついちまった。,It wasn't like that in the past; but ever since the succubi appeared; many strong male cardmasters have been defeated in the demon realm; and now the skill gap with the female masters has gotten wider.
 そのうえ最近はサキュバス系のカードを使うマスターも増えて、男はすぐこてんぱんに負けちまう。,What's more; recently there have been more masters using succubus-type cards; and men just lose too quickly to them.
 祭りが始まる前まではサキュバスのカードなんて見たことがなかったんだけどなぁ。時代は変わったもんだ。,Before the festival started; I had never seen succubus cards before. Times have really changed.
-この祭りが始まる少し前からかしら、\n闘技場での戦いがだいぶ様変わりしたのよね。,I guess it was just before this festival started that the battles in the arena changed quite a bit; wasn't it?
+この祭りが始まる少し前からかしら、\n闘技場での戦いがだいぶ様変わりしたのよね。,I guess it was just before this festival started that the battles in the colosseum changed quite a bit; wasn't it?
 前からエッチな攻撃をするカードマスターはいたのだけれど、\n急にサキュバスのモンスターを使うマスターが増えたというか…。,There were always cardmasters who used lewd attacks; but suddenly there are more masters using succubus monsters...
 悪魔タイプ自体かなり珍しかったと思うし、\nなんでこんなにサキュバスモンスターが増えたのかしら。\n新しい遺跡で珍しいパックでも出たとか？,I think demon-types themselves were pretty rare; so why have there been so many succubus monsters recently? Did they find a new rare pack out in the new ruins or something?
 ねえ、ねえ、男のひとって、\nなんであんなに簡単に女のモンスターに負けちゃうの？,Hey; hey; why do guys lose so easily to female monsters?
@@ -80,9 +80,9 @@ Place/Colosseum,
 女の子モンスターに抱き着かれたら、\nすぐビクビクってふるえてそのままやられちゃうんだよ。\nへんなのー。,But if a girl monster hugs him; a man will immediately start trembling and get taken down just like that. It's strange.
 おお、おお、あんたは例のルーキーじゃないか。\nオクタ選手との試合見たよ！\n女マスターに勝つなんてすごいじゃないか。,Oh; oh; you're that rookie; aren't you? I saw your match against Octa! Winning against s female master is pretty impressive; isn't it?
 そのうえクエストでサキュバスも倒したんだろ？\nいやぁ、ほんと期待の新人だな！\nアンタの試合、次も見に行くぜ！がんばってくれよ！,And on top of that; you defeated a succubus on a quest; right? Wow; you're really an up-and-coming rookie! I'll definitely be watching your next match; too! Keep it up!
-闘技場では、勝ったマスターが負けたマスターを\n自由にもてあそぶ権利があるわ。\n表向きは魔力補給のためってことになってるけれど・・・。,In the arena; the winning master has the right to toy with the losing master freely. Officially; it's for the purpose of replenishing magical power; but...
-いまよりずっと昔、闘技場が罪人の戦いを見る場所だったころ、\nそのころは罪人をなぶるのを見世物にして、\n勝者は敗者を好きにできる決まりになっていたそうなの。,Long ago; when the arena was a place to watch the battles of criminals. It was said that it was a spectacle to torment the criminals; and the victor had the right to do as they pleased with the vanquished.
-野蛮な風習がなくなった今でも、\nそのころの名残で闘技場の勝者が敗者を好きにできる習慣が\n残っているのだそうよ。,Even though the more barbaric customs have disappeared; it seems that remnants of that time still linger; allowing the winners of the arena to do as they please with the losers.
+闘技場では、勝ったマスターが負けたマスターを\n自由にもてあそぶ権利があるわ。\n表向きは魔力補給のためってことになってるけれど・・・。,In the colosseum; the winning master has the right to toy with the losing master freely. Officially; it's for the purpose of replenishing magical power; but...
+いまよりずっと昔、闘技場が罪人の戦いを見る場所だったころ、\nそのころは罪人をなぶるのを見世物にして、\n勝者は敗者を好きにできる決まりになっていたそうなの。,Long ago; when the colosseum was a place to watch the battles of criminals. It was said that it was a spectacle to torment the criminals; and the victor had the right to do as they pleased with the vanquished.
+野蛮な風習がなくなった今でも、\nそのころの名残で闘技場の勝者が敗者を好きにできる習慣が\n残っているのだそうよ。,Even though the more barbaric customs have disappeared; it seems that remnants of that time still linger; allowing the winners of the colosseum to do as they please with the losers.
 ちなみに男のマスター同士の場合、魔力補給の名分がないから\n勝っても何かしたりできないの。\nそこは野蛮じゃなくていいわね。,By the way; when it's two male masters fighting; there's no pretext for mana replenishment; so even if you win; you can't really do anything to them. At least that part isn't so barbaric; right?
 なあ、アンタ、Dランクで最強のマスターって誰だと思う？\nやっぱり俺はミレーヌさんだね。,Hey; who do you think is the strongest master in D-rank? I think it's probably still Mylene; right?
 いや、ミレーヌさんがレベルの高いモンスターを使えないのは\n俺も知ってるよ。でも、あのおっぱい。あんなの見たら、\n俺だったら即戦意を喪失しちゃうよ。,I know she can't use high-level monsters either. But those boobs... If I saw those; I'd lose all my fighting spirit right away!
@@ -146,7 +146,7 @@ Dランクには落ちぶれた男性マスターがたくさんいるし、\n�
 ヤツメなんがいい例だよ。\n凶悪犯を入れておく看護の看守をギルドから任されてるんだ、\nそれぐらいの箔がＣランクにはあるってことだ。,Yatsume is a good example. She's been assigned by the guild to guard and care for dangerous criminals; which just goes to show the level of faith that comes with being C-rank.
 Ｂランクにまで行くと、地域の統括者になれたり、\nギルドや国の機関で重要な役職に就けたりするらしいな。\n国全体でＢランクマスターは100人もいないんじゃないか。,Once you reach B rank; you might get assigned as a regional overseer or hold important positions in guilds or national agencies. There aren't that many B-rank masters. Maybe less than 100 across the whole country
 無敗のルーキー、あんたももうすぐＢランクだと思うと、\nすげー話だな。俺はいちファンとしてあんたのこと応援してるぜ。\n次の試合も楽しみだな。,It's pretty amazing to think that you might be B-rank soon. As a fan; I'm cheering for you. I'm looking forward to your next match.
-わー、ここが闘技場かー。\nお師匠さまの試合楽しみだなー。\nあ、こんにちは。お兄さんも試合を見に来たの？,Wow; so this is the arena. I'm really looking forward to Master Musashi's match. Oh; hello. Did you come to watch the match too; big brother?
+わー、ここが闘技場かー。\nお師匠さまの試合楽しみだなー。\nあ、こんにちは。お兄さんも試合を見に来たの？,Wow; so this is the colosseum. I'm really looking forward to Master Musashi's match. Oh; hello. Did you come to watch the match too; big brother?
 わたしはね、ムサシ師匠の道場に通ってる門下生なの。\nお師匠様は、Cランクのマスターの中でも強いんだよ。\nそろそろ試合があるからって観戦に来たんだ。,I'm a student at Master Musashi's dojo. Master is one of the strongest among the C-rank masters. The match is about to start; so I hurried over.
 お師匠様はモンスターを使わないすごくカッコいいデッキで、\n剣と盾だけでバッタバッタとモンスターたちを倒してさ、すごいんだー。\nわたしもムサシ師匠みたいに強くなりたいなー。,My master has a really cool deck that doesn't use monsters. She takes down monsters left and right with just a sword and shield. It's amazing! I want to become strong like Master Musashi some day.
 あ、さっきのお兄さん。こんにちは。\nえ？お兄さんもカードマスターなの？へー。,Oh; you're the guy from earlier. Hey. What's that? You're a cardmaster; too? Wow.
@@ -183,7 +183,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 最近どうもカードの流通がおかしい気がするな。\n大会中はマスターがたくさんいるから、\n多少カードパックが値上がりするのは分かるんだが・・・。,Recently; I feel like the card distribution has been strange. During the tournament; there are a lot of masters; so I understand that card packs might increase in price a bit...
 それにしてもそもそも普通のパックの流入量が減っているような？\n品薄なカードパックに目をつければ、\n商機がころがっていそうだぜ。,Even so; it seems like the influx of regular packs is decreasing; doesn't it? If we keep an eye on the scarce card packs; there might be a business opportunity rolling in.
 ほぉー、おぬしが無敗のルーキーか。\nFランクから一気にBランクにあがって、\nそのうえBランクでも勝ったというじゃないか。すごいのう。,Oh; so you are the undefeated rookie. I hear you jumped from F-rank to B-rank in one go. They even say you won a match in B-rank. Impressive.
-闘技場には長いこと通っておるが、\nあんたほどの躍進を見たのは初めてかもしれんの。\nいやあ、長生きはするもんじゃな。,I've been frequenting the arena for a long time; but I don't think I've ever seen someone rise as quickly as you. Living a long life has its perks; I suppose.
+闘技場には長いこと通っておるが、\nあんたほどの躍進を見たのは初めてかもしれんの。\nいやあ、長生きはするもんじゃな。,I've been frequenting the colosseum for a long time; but I don't think I've ever seen someone rise as quickly as you. Living a long life has its perks; I suppose.
 ねーねー、ほら見て！\n無敗のルーキーさんが主役になった本がね、\nそこで売ってたの！,Hey; hey; look! There's a book with the undefeated rookie as the main character being sold over there!
 お兄さんが山にこもって修行してた話とか、\nドラゴン20匹を退治した話とかのってるんだよ。,There's a story about how he secluded himself in the mountains to train; and another about how he defeated 20 dragons!
 え？僕はそんなことしてない？\nうそだー。だって本に書いてあるもん。\nお兄さんが忘れちゃっただけだよ、きっと。,Huh? You didn't do any of that? That's a lie. It's written in the book. You must have just forgotten.
@@ -199,174 +199,174 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 体が熱いというかなんというか。\n魔力が体からあふれ出しそうな、変な感じ・・・。,It feels kind of hot; or something like that. It feels strange; like my magical power is about to overflow from my body...
 んー、昨日サキュバスカードで男マスターをこてんぱんに負かして、\n魔力を搾りすぎたかしら？\n魔力の過剰摂取って体に悪いんだっけ。不安になってきちゃった。,Hmm; did I squeeze too much magic power out of the male master with my succubus card yesterday? Is excessive intake of magic power bad for the body? I'm starting to feel anxious.
 いよいよ大会もクライマックスということで、\n兵士たちにもここ数日非番が与えられています。,Finally; the tournament is reaching its climax; and the soldiers have been given a few days off.
-持ち場を離れて大丈夫かと思うかもしれませんが、\nモルゲンの街には巨大な結界が張ってあり、\n外から魔族が侵入する際には非常に時間がかかります。,
-街に近づいた段階で警報がなり、\nそこから急いで現場に急行しても間に合うというわけです。,
-この街の結界は古代の魔導装置を利用して作られており、\n魔導王妃と呼ばれる偉大な王女が開発した装置が、\n何百年の時を経て今も使われているそうです。,
-話によればさらに強力な結界装置もあって、\nそれを作動させると物理的な攻撃も含めて\n街を完全に守るのだそうですよ。,
-カードバトルは奥が深い…。\n闘技場での戦いからは学ぶことばかりです。,
-カードには色々な属性がありますが、\nDランク以上のマスターの場合、\n使用する属性を１つに限定しているマスターが多いみたいですね。,
-やはり属性サポートの強力なカードが使えるのが大きいのでしょう。\nしかし、属性に頼り切っていると、オクタ選手のような\n相手の属性を変えるカードに足元をすくわれることもあります。,
-属性変化のカードは希少ですから使い手は多くありません。\nしかし、一応そういう妨害も頭に入れたうえでデッキを組むのは\n重要かもしれませんね。,
-「オーバーキル」という言葉を知っていますか？\n相手モンスターにとどめを刺す際に、\nHP以上にダメージを与えて倒すことを「オーバーキル」といいます。,
-例えば相手のＨＰが800ポイントのとき、\n魔法カードで300ダメージを与え、その後攻撃力800のモンスターで\n攻撃したら、完全に魔法カードが１枚無駄になっています。,
-そんなバカなことはしないと思うかもしれませんが、\n相手モンスターが複数いたりすると、\nけっこうこの手のプレイングミスは起こりがちです。,
-こちらの与えられるダメージと相手のＨＰを正確に把握し、\n攻撃手段を効率よく分配できるかどうかは、\n強いカードマスターになる鍵ですね。,
-デッキ枚数を何枚にするか、というのは\nマスターにとって永遠のテーマです。\n一見、カードを入れるだけ入れた方が強いように見えますが…,
-実のところデッキ枚数は少ない方が強いのではないか\nという説が今は有力ですね。\nなぜなら余計なカードを引く確率が減るからです。,
-最も強いカードだけでデッキを組めば、\n強いカードだけを引くことができます。\nそこそこ強いカードは入れるだけ邪魔になるというわけです。,
-ただしデッキ内に特定のカードが無いと効果が不発になるものもあり、\nそうしたカードを安定させるにはある程度の枚数も必要でしょう。\n限界まで切り詰めるか少し余裕を持たせるか。中々難しいところですね,
-デッキの枚数が少ない方が強いのなら、\n最強のカード１枚だけを入れたデッキが最強かもしれません。,
-とはいえ、「デッキケース」の魔道具は\nある程度の枚数のカードを入れないと効果を発揮しません。\n最低20枚は入れないといけないので、１枚デッキは組めないわけです,
-「デッキケース」に入れて事前に魔力を充填しておかないと\nカードは連発して使えないので、\nいたしかたないところではありますね。,
-デッキケースは遺跡からよく発掘され、広く使われていますが、\n謎の多い魔道具です。入れたカードが自動でシャッフルされるのも、\n魔力の充填が効率よくなるからだと言われています。,
-強いカード10枚ぐらいでデッキを組めて、\nさらに事前に山札を並べておければ最高なのですが…。\nそううまい話はないようです。,
-カードにはアドバンテージという考え方があります。\nアドバンテージというのは「どれぐらい有利になったか」\nみたいな意味ですね。,
-例えば、手札を１枚捨てて発動する魔法カードで、\n山札からカードを１枚引くとしたらどうでしょう。\n１枚を捨てて１枚を引いているので一見損も得もないようですが、,
-実はその魔法カード自体も使い捨てているので、\n２枚のカードで１枚のカードをドローしていることになります。\nこの場合、２対１交換になっているので１枚の損ですね。,
-手札を１枚捨ててカードを2枚ドローすれば、２対２交換で損得なし。\n３枚のカードを引けるなら２対３交換で１枚の得です。,
-このように発動したカードもコストに含めて考えて、\n消費したコストに対してどのぐらいのメリットが得られるか計算すると\n強いカードが見極められるようになりますよ。,
-デッキ圧縮という考え方をご存じでしょうか。,
-例えば、\n「デッキからカードを１枚引く」というカードがあったとします。\n１枚使って１枚引くだけですから一見無意味なカードです。,
-しかし、デッキを強いカードだけで固めるという目的からすると、\nこのカードは非常に強力です。,
-例えばこのカードを３枚入れるだけで、20枚のデッキではなく、\n実質17枚だけのカードでデッキを組むことができます。\nつまり強いカードだけでデッキを固められるというわけです。,
-１対１交換をするカードにはこうした使い道もあるので、\n知っているとデッキ構築の幅が広がりますね。,
-墓地リソースという言葉を知っていますか？,
-カードには自分の墓地のカードをコストにして発動するものがあります。\nまた墓地のカードを復活させたり、手札に戻すカードもあります。,
-そうしたカードのことを考えると、\n墓地もひとつの資源、重要なリソースだという考え方が、\n「墓地リソース」ですね。,
-墓地をフル活用するデッキの使い手は\n「墓地は第二の手札だ」と豪語する人もいるとか。\nそれぐらい墓地は重要なのです。,
-自分のデッキからカードを直接墓地へ送るカードがありますが、\nそうしたカードと墓地を再利用するカードを組み合わせると\n意外と強力なコンボになったりしますよ。,
-コンボカードについて考えるのはカードバトルの醍醐味です。,
-多くの場合、\n特定のカードがないと発動できないような強い制約のあるカードは\n強力な効果を持っています。,
-しかしだからといって、考えなしにデッキに入れると、\n手札事故を引き起こしかねません。コンボ用のカードがそろわなければ\n何の役にも立たないカードになってしまうからです。,
-コンボカードを活かすためには、ドローカードを追加で入れたり、\n属性やレベルでデッキからサーチするようなカードを入れると、\n動きが安定しますね。,
-強力なカードと潤滑油になるようなカード、\nそのどちらもが強いデッキを作るうえでは欠かせないと言えるでしょう。,
-「メタカード」というのをご存じでしょうか。,
-メタカードは特定の種類のデッキに対してよく刺さるカードのことで\n例えば魔法の「武装放棄」がそうですね。,
-このカードはわずか500のLPコストで、\n相手の装備カードをすべて破壊してしまいます。\n１枚で最大３枚破壊できるわけですから、きわめて強力です。,
-しかし一方で、装備カードを使わない相手に対しては\nまったく役に立たないカードでもあります。,
-事前に相手のデッキの情報を集め、メタカードをデッキに入れておく。\nそういうしたたかな戦術も\nカードマスターとして勝ち上がっていくには大事なのかもしれません。,
-おや、あなたは「武装放棄」を持っていないのですか？\nあまりレアなカードでもありませんし、\nわたしの手持ちで余っている１枚を差し上げましう。,
-あなたもいよいよBランクですか。\n本当にたいしたものです。,
-わたしは闘技場を観戦し、\n本で多くを学んでカードバトルの腕を磨いてきました。,
-しかし昨今の快楽攻撃の流行のせいで、\nいくら知識があっても、女性モンスター相手に\n全く歯が立たなくなってしまったのです。,
-無敗のルーキー、あなたの精神力を尊敬しますよ。\nわたしにもはや教えられることはありません。\nぜひその手でＢランクの栄光をつかみ取ってください！,
-この国は大きく分けて4つのエリアがあります。\nカードマスターの街モルゲンがあり、穀倉地帯でもある南部。,
-山がちながら鉱物資源に恵まれた西部。\n海に開かれており、小さな島との交易もある東部。,
-そして魔族領に接しており王都もある北部です。\n北部には獣人たちの村落もあるそうですね。,
-かつては北の地にもっと広い領土があったのですが、\nサキュバスたちの侵攻により多くの村落が奪われてしまいました。\n王都の結界の力で、なんとか今は食い止めているにすぎません。,
-この事態をなんとかするためにも、\n若い我々が努力しないといけませんね。無敗のルーキーを見習って、\nわたしも日夜修行に励んでいます。,
-カードパックは基本的に\n遺跡から出る発掘品やモンスターが落とすアイテムの中に入っています。\nしかし・・・,
-どういった原理でカードの中に魔法や生物が封じ込められているのかは\nいまだに謎が多くほとんどわかっていません。,
-ある学説によれば、カードの中のモンスターたちは、\nマスターと前世でつながりがあったものたちであり、\n召喚されて命令に従うのはそのつながりを感じるからだと言います。,
-カードパックを開いたとき\n人によってどんなカードが顕現するか違うため、\nこのようなロマンチック？な学説も出ているわけですね。,
-わたしとしては一種の契約魔術のようなものだと思っていますが、\nその仕組みが解明されるようになるのは、\nもっとずっと先のことになりそうです。,
-ちなみに魔法カードやトラップカードは、\n色々なマスターがパックを開けたときに同じカードが出ることがあります。,
-このように理性を持たないカードは人を選ばず出ることから、\n先ほど紹介したような、理性のあるカードは前世のつながりがあるのでは\nという突飛な説が生まれたわけです。,
-モンスターたちが所持している道具の中には、\n我々の生活の中ではあまり見られないものも多くあります。,
-例えば一部のモンスターが所持している「銃」がそうですね。\n火の魔法を込めて、小さな石の弾や鉄の弾を飛ばす、\n魔法の小型杖です。,
-彼らや彼女らは有用な道具だと主張するのですが、\n普通に魔法で火球を飛ばした方が威力もあり、筒の中で繊細な火魔術の\nコントロールがいるあの道具は、あまり有用性がわかりません。,
-コントロール能力さえ高ければ魔力消費を抑えられるのは\nメリットにあげられるのかもしれませんね。,
-魔族領への侵攻のための兵を王都で集めているようですね。\nサキュバス相手となると今のわたしでは\n行ったところで敵の養分になってしまうだけでしょう。,
-これはせめてもの行為です。\n無敗のルーキー、あなたにカードを１枚託します。,
-『{%%40333}』を手に入れた！,
-わたしが持っている中でも一番レアリティの高いカードです。\nあなたならきっと役に立てることもできるでしょう。,
-しかし、わたしだってあなたの背を追うばかりではありません。\n必ずや快楽攻撃を克服して、サキュバスにも打ち勝ってみせますよ！,
-わたしが託したカードは、\nデッキから魔法カードを加えることのできる汎用的なカードです。,
-しかし、魔術師モンスターを強化する効果もついているので、\n魔術師カードと共に使えば更なる効果を発揮できるでしょう。,
-もし使い道がなければ売ってしまってもかまいません。\nそのときはあなたが魔族領に行くときの、路銀にでも変えてください！,
-やぁやぁ、いらっしゃい。\nここでは闘技場の人気ランカーたちのグッズを売ってるよ。,
-あの有名なモルゲン学園のエリートBランカー、メロディや\nシルヴィアのサイン色紙に・・・。,
-モンスターを１枚も使わずに戦う、\n「百器使い」ムサシ選手の武器をモデルにした\n模造刀なんてのもあるよ。,
-おや、アンタもよく見るとカードマスターだね。\nこれから試合かい？\nそれならほら、この色紙にサインをしておくれよ。,
-アンタがもし有名になったら高く売れるかもしれないだろ。\n代わりにほら、珍しいカードをあげよう。,
-サインを書いた,
-サインを書かなかった,
-おお、ありがとう！\nアンタ気前がいいね。きっとこれから大成するよ。,
-ほらこれがお礼のカードだ。\n他のマスターから「いらない」ってんでもらったんだが、\nうまく活用してやってくれ。,
-{%%40208}を手に入れた！,
-むむ、けちだねー、アンタ。\nそんなんじゃ大成しないよ。,
-まあいいや、それなら代わりに何か買っていっておくれよ。\nえ？荷物になるからいらない？\n残念だねー、こんなにいい商品ばかりなのに。,
-モルゲン学園のエリートBランカー、\nメロディ嬢やシルヴィア嬢のサイン色紙に・・・。,
-おや、アンタはさっきのカードマスターじゃないか。\nさっきはサインをありがとうよ。,
-最近は女マスターばっかり強いけど、\nアンタならきっと勝ち上がっていけるよ。\nあたしの目に間違いはない。がんばりな。,
-おや、アンタはさっきのカードマスターじゃないか。\nなんだい、サインを書いてくれる気になったのかい？,
-サインを書いてあげた,
-サインを書いてあげなかった,
-ほらこれがお礼のカードだ。\n他のマスターからいらないっていうんでもらったんだが、\nうまく活用してやってくれ。,
-なんだい。ひやかしならほら、帰っておくれ。\nあとでこのカードが欲しくなって後悔しても知らないよ。,
-蜘蛛使いの看守、ヤツメ選手のかっこいいブーツに、\n獣使いの猫マスター、ネネコ選手の毛玉。,
-それにほら、いま話題の新人ルーキーのサインもあるよ。\n買った、買った。安いよ。,
-おや、アンタは当のルーキーさまじゃないか。\nわたしがにらんだとおり、\nあんたはさっそく初勝利をあげてくれたね。,
-ほら、またサインを書いておくれよ。\nあんたのサインわりと人気があるんだ。\n代わりにまた珍しいカードをあげるからさ。,
-おお、ありがとう！\nいやぁさすがは期待の新人だね。\nやっぱり上に行くやつは太っ腹だよ。性格がいいね。,
-ほらこれがお礼のカードだ。\n自分の体にキノコを生やすカードだよ。何に使うんだろうね。\nまあうまく使ってやっておくれ。,
-{%%40327}を手に入れた！,
-なんだい。一回勝ったぐらいで有名人気取りかい。\n気前のよかったアンタが、\nケチになっちゃうなんて、わたしゃ悲しいね。,
-何も買わないなら帰っておくれ。\nこの珍しいカードもほかの人に売っちまうよ。,
-おや、自分のサインがどれぐらい売れてるのか見に来たのかい？\nまあまだ一勝だからね。\n闘技場のマニアがちょっと買ってくぐらいだよ。,
-だけどアンタはきっと勝つね。勝ちまくってくれれば\nサインの値段は２倍にも１０倍にもなるんだ。\n楽しみにしてるから、がんばっておくれよ。,
-おや、なんだい、期待の新人さまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,
-「妖精の酒場」のミレーヌ選手のお店への地図に、\nそこの食事一覧が書いたメニューもあるよ。,
-お、このサインが欲しいって？お目が高いねお客さん。\nはい、買った買った。\nありがとね。,
-・・・おや、また会ったね。おかげさんで中々盛況だよ。\nあんたのサインも今ちょうど売れたところさ。\n２連勝したんで少しは名前が売れてきたのかね。,
-ほら、またサインを書いておくれよ。\n代わりにまた珍しいカードをあげるからさ。,
-おお、ありがとう！\nいやぁさすがは期待の新人だね。\nあんたほど優しい男をわたしゃ知らないよ。,
-ほらこれがお礼のカードだ。\nあんまり役に立たない猫のゴーレムだそうだよ。\nちょっと攻撃力を上げてくれるとか。まあうまく使ってやっておくれ。,
-{%%40234}を手に入れた！,
-なんだい。今日はけちだね。\nなにか機嫌でも悪いのかい。,
-・・・おや、また会ったね。\n猫ゴーレムが入らないって言われてもわたしにゃどうしようもないよ。\nわたし自身はカードを使えないしね。,
-捨てるに忍びないからってんでわたしにくれるんだろうね。\nまあ色々変わったカードがあるからこれからも\nサインのお代にあげるよ。楽しみにしてな。,
-おや、なんだい、けちな新人さまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,
-元Bランカー、侍使いのレックスの折れた刀に、\n元Cランカー、連弾魔術師シラクの魔法の杖。\n安いよ。安いよ。,
-ううむ、男性マスターのグッズはあんまり売れないね。\n最近みんな降格しちゃって、\n人気がないから困っちゃうよ。,
-・・・おや、また会ったね。\nあんたのサインは男マスターの中じゃ売れてるほうさ。これで\n３連勝だろう？あんたならもしかしたらって期待されてるのかもね。,
-おお、ありがとう！\nいやぁさすがは男の中の男だね。\n婆に優しい、それだからこんなに強いんだ。,
-ほらこれがお礼のカードだ。\n今度は正真正銘レアカードだよ。\nたぶん強いよ。,
-{%%60036}を手に入れた！,
-侍使いのマスターがわたしに売っていったんだ。\n爆乳マスターのキャミーに負けて、いまじゃすっかり落ちぶれちまったが、\n強くていいマスターだったんだよ。,
-男マスターの話をしてたらなんだか思い出しちまった。\nこんないいもの普段ならあげないんだけど、\nアンタなら上手く使いこなせるかもね。,
-なんだい。あんたは男マスターの中だと一番けちかもね。\n女マスターに勝てたからってそんなじゃすぐ負けちまうよ。,
-・・・おや、また会ったね。\nアンタに上げた刀のカード、使える相手が結構少ないらしいね。\nサムライとかニンジャってのは騎士や密偵のことらしいよ。,
-カードは色んな別世界につながってるらしいから、\n色んな呼び名があるんだろうね。\nどこかに金がたんまり手に入る世界はないのかね。行ってみたいもんだ,
-蛇使いパトラがペットにしてる蛇の脱皮殻に、\nギャンブラーCランカー、キャミー選手が一回使ったコイン。,
-さらにCランクに昇格目前、男なのに連勝中の\n期待のルーキーのサインもあるよ。\nほら、買った。買った。,
-・・・おや、また会ったね。\nあんたに注目する人もだいぶ増えて、サインもいい感じに売れてるよ。\nいやぁわたしの目に狂いはなかったね。,
-おお、ありがとう！\nもうすぐCランクになる男はさすがだね。\nあんたみたいに優しい人にはきっといいことがあるよ。,
-ほらこれがお礼のカードだ。\nあんたみたいな金の卵を産むにわとりのカードだよ。\n卵がずっと残ればお金儲けに使えるんだけどねぇ。,
-{%%40328}を手に入れた！,
-なんだい。いつになくけちだね。\nCランクになれるからって、増長しちまったのかい？\nおお、やだやだ。,
-・・・おや、また会ったね。\nにわとりはちゃんと働いてるかい？\nバトルが終わったら産んだ卵も消えちまうらしいからそこが残念だね。,
-まあそうじゃなければ\nカードでいくらでも何でも生み出せるからね。\nあたしらみたいな一般人は商売あがったりだったろうね。,
-一般人にも生きる道を与えてくれた女神さまに感謝だよ。\nできればカードを使える魔力の方がほしかったけどね。,
-Bランクマスターシルヴィア選手の最強カード、イージスの人形に、\nモルゲンのエース、Aランクマスターエイライラのハーピーの羽。\nどれも珍しいよ。,
-さらに連戦連勝でCランクに昇格、\nあの「無敗」の最強ルーキーのサインもあるよ。\nほら、買った。買った。,
-・・・おや、また会ったね。\nあんたに会いたかったんだ。見てごらんあんたのサインは大人気さ。\nやっぱりあんたは大物になるって思ってたよ。,
-おお、ありがとう！\nさすが無敗でCランクになっただけあるね。\nあんたみたいに太っ腹なマスターはそうはいないよ。,
-ほらこれがお礼のカードだ。\nキャミーに勝った強運なあんたにぴったりの、\nサイコロのカードだよ。,
-{%%40330}を手に入れた！,
-なんだい。けちだね。\nCランクになって、人が変わっちまったのかい？\nおお、やだやだ。,
-・・・おや、また会ったね。サイコロのカードは使えているかい？\nあたしにゃよくわからないが、\nモンスターのレベルを変えるとかなんとか。,
-運任せな分使い手を選びそうなカードだよね。\n強運で実力もあるあんたにゃぴったりだよ。,
-おや、なんだい、けちなルーキーさまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,
-最近の売れ筋はこれ、あの無敗のルーキーのサインだよ。\n男の身なのに勝利に次ぐ勝利、\nCランクでも快進撃を続けてるあのルーキーだよ。,
-おお、ありがとう！\nやっぱりアンタはいい男だね。優しいし強いし、\nいやぁモルゲンで一番男前かもしれないね。,
-ほらこれがお礼のカードだ。\n昔ネネコがいらないってくれたネズミのカードだよ。\nとげとげしてるから気に入らないとか言ってたね。,
-{%%60041}を手に入れた！,
-なんだい。いまさらけちけちしちゃってさ。つれないね。\nたくさん勝って人気も出たからって優しい心をなくしちまったのかい？\nおお、やだやだ。,
-・・・おや、また会ったね。\nネズミは役に立ってるかい？\nネズミは小さくてかわいいよねぇ。あたしゃわりと好きだよ。,
-ちょろちょろしてて意地汚くて、なんだか親近感がわくじゃないか。\n人間だって似たようなものだろう？\nあたしゃそう思うね。,
-あら、{主人公}、あなたも闘技場に挑戦するの？,
-闘技場は手ごわいわよ。\nわたしもDランカーだから、何度も試合に挑んでいるけれど、\nなかなか勝率５割を上回れないのよね。,
-これから初試合の申し込み？わたしの友達の「オクタ」って子も\nさっき申し込んだって言ってたから、\nもしかしたらあなたと当たるかも。,
-背は小さくてかわいらしい子なんだけど、\n相手のカードを水属性に替えちゃうトリッキーなデッキで\n結構強いわよ。あなたに勝てるかしら。,
-わたしは闘技場マニア。\n闘技場に出場しているすべてのカードマスターの情報を知っている\n筋金入りの闘技場オタクさ！,
-対戦相手の情報が知りたければ、ボクが教えてあげよう。\nなんでも聞くといいよ！,
-Dランクマスターの情報が知りたい,
-Dランクの誰について知りたいんだい？,
-オクタ,
-ミレーヌ,
-ドワン,
-パトラ,
-あ、あの・・・。あなたがあの{主人公}選手ですか？\nうわぁー、ほんものだ。,
-お母さんから、エッチなのはダメって言われるから、\n試合は見れてないんですけど、\n話ですごく勝ってる男のマスターがいるって聞いてて・・・。,
-僕もカードマスターになりたいんです！\n握手してください！{主人公}選手みたいになれるように頑張ります！,
+持ち場を離れて大丈夫かと思うかもしれませんが、\nモルゲンの街には巨大な結界が張ってあり、\n外から魔族が侵入する際には非常に時間がかかります。,You might wonder if it's really for me to leave my post; but the city of Morgen is protected by a massive barrier; and it takes a considerable amount of time for demons to breach it from the outside.
+街に近づいた段階で警報がなり、\nそこから急いで現場に急行しても間に合うというわけです。,And the moment they get near the city; an alarm sounds; giving guards plenty of time to rush to the scene.
+この街の結界は古代の魔導装置を利用して作られており、\n魔導王妃と呼ばれる偉大な王女が開発した装置が、\n何百年の時を経て今も使われているそうです。,The barrier's created using an ancient magical device developed by a great ruler known as the Magical Queen. Rumor says it's been in use for hundreds of years.
+話によればさらに強力な結界装置もあって、\nそれを作動させると物理的な攻撃も含めて\n街を完全に守るのだそうですよ。,According to the story; there's actually an even more powerful barrier device that; when activated; completely protects the city against even physical attacks!
+カードバトルは奥が深い…。\n闘技場での戦いからは学ぶことばかりです。,Card battles are incredibly deep... There's so much to learn from the fights in the colosseum.
+カードには色々な属性がありますが、\nDランク以上のマスターの場合、\n使用する属性を１つに限定しているマスターが多いみたいですね。,Cards have various attributes; but it seems that for masters ranked D and above; many tend to limit themselves to using just one; right?
+やはり属性サポートの強力なカードが使えるのが大きいのでしょう。\nしかし、属性に頼り切っていると、オクタ選手のような\n相手の属性を変えるカードに足元をすくわれることもあります。,It makes sense since being able to use powerful cards that support specific attributes is really helpful. If you rely too much on attributes; however; you might find yourself at a disadvantage against cards like the ones Octa uses; which can change the opponent's attribute.
+属性変化のカードは希少ですから使い手は多くありません。\nしかし、一応そういう妨害も頭に入れたうえでデッキを組むのは\n重要かもしれませんね。,Cards that change attributes are rare; so there aren't many masters who use them. Still; it might be useful to keep such disruptions in mind when building a deck; don't you think?
+「オーバーキル」という言葉を知っていますか？\n相手モンスターにとどめを刺す際に、\nHP以上にダメージを与えて倒すことを「オーバーキル」といいます。,Do you know the term "overkill"? It refers to dealing damage exceeding the HP of an opponent's monster to finish it off.
+例えば相手のＨＰが800ポイントのとき、\n魔法カードで300ダメージを与え、その後攻撃力800のモンスターで\n攻撃したら、完全に魔法カードが１枚無駄になっています。,For example; if the opponent's HP is 800; and you deal 300 damage with a magic card before attacking with a monster that has 800 attack; then your magic card was a total waste!
+そんなバカなことはしないと思うかもしれませんが、\n相手モンスターが複数いたりすると、\nけっこうこの手のプレイングミスは起こりがちです。,You might think that no one would make such a silly mistake; but when your opponent has multiple monsters; these kinds of misplays can happen pretty easily.
+こちらの与えられるダメージと相手のＨＰを正確に把握し、\n攻撃手段を効率よく分配できるかどうかは、\n強いカードマスターになる鍵ですね。,Accurately understanding the damage you can deal and the opponent's HP so you can efficiently distribute your attack methods is key to becoming a strong cardmaster; don't you think?
+デッキ枚数を何枚にするか、というのは\nマスターにとって永遠のテーマです。\n一見、カードを入れるだけ入れた方が強いように見えますが…,Deciding how many cards to include in your deck is an eternal question for a master to answer. At first glance; it seems that having more cards would make your deck stronger...
+実のところデッキ枚数は少ない方が強いのではないか\nという説が今は有力ですね。\nなぜなら余計なカードを引く確率が減るからです。,But in practice; the theory that having fewer cards in your deck is stronger is currently gaining traction; since it reduces the probability of drawing unnecessary cards.
+最も強いカードだけでデッキを組めば、\n強いカードだけを引くことができます。\nそこそこ強いカードは入れるだけ邪魔になるというわけです。,If you build a deck with only the strongest cards; you only draw strong cards. Cards that are sort of strong just become a nuisance at that point.
+ただしデッキ内に特定のカードが無いと効果が不発になるものもあり、\nそうしたカードを安定させるにはある程度の枚数も必要でしょう。\n限界まで切り詰めるか少し余裕を持たせるか。中々難しいところですね,However; there are certain cards whose effects become ineffective if certain specific cards aren't included in the deck; and to keep these cards strong; a certain number of them may be necessary. It's a tough decision whether to cut down to the limit or allow a bit of leeway; huh?
+デッキの枚数が少ない方が強いのなら、\n最強のカード１枚だけを入れたデッキが最強かもしれません。,If having fewer cards in the deck makes it stronger; then in theory a deck with just the strongest card might be the most powerful.
+とはいえ、「デッキケース」の魔道具は\nある程度の枚数のカードを入れないと効果を発揮しません。\n最低20枚は入れないといけないので、１枚デッキは組めないわけです,That said; the "deck case" magical tool doesn't work unless you put a certain number of cards in it. You need at least 20 cards; so you can't make a one-card deck.
+「デッキケース」に入れて事前に魔力を充填しておかないと\nカードは連発して使えないので、\nいたしかたないところではありますね。,If you don't put the cards in the "deck case" and charge them with magic power in advance; you won't be able to use them repeatedly; so it's pretty unavoidable; huh?
+デッキケースは遺跡からよく発掘され、広く使われていますが、\n謎の多い魔道具です。入れたカードが自動でシャッフルされるのも、\n魔力の充填が効率よくなるからだと言われています。,Deck cases are often excavated from ruins and are widely used; but they're still a pretty mysterious magical tool. It's said that the cards placed inside are automatically shuffled because it makes charging them with magical power more efficient.
+強いカード10枚ぐらいでデッキを組めて、\nさらに事前に山札を並べておければ最高なのですが…。\nそううまい話はないようです。,If you could build a deck with about ten strong cards and even arrange the draw pile in advance; you might be unstoppable... But it's just not that easy I guess.
+カードにはアドバンテージという考え方があります。\nアドバンテージというのは「どれぐらい有利になったか」\nみたいな意味ですね。,In battles; cards have a concept called 'advantage'. 'Card advantage' means "how much more favorable a card makes your situation."
+例えば、手札を１枚捨てて発動する魔法カードで、\n山札からカードを１枚引くとしたらどうでしょう。\n１枚を捨てて１枚を引いているので一見損も得もないようですが、,For example; if you use a spell card that requires you to discard one card from your hand to draw one card from your deck; it might seem like you're neither gaining nor losing anything since you're discarding one card to just draw another. However...
+実はその魔法カード自体も使い捨てているので、\n２枚のカードで１枚のカードをドローしていることになります。\nこの場合、２対１交換になっているので１枚の損ですね。,Since the magic card itself is also a one-time use; you are effectively using two cards to draw just one. In this case; it's a 2-for-1 exchange; resulting in a loss of one card; right?
+手札を１枚捨ててカードを2枚ドローすれば、２対２交換で損得なし。\n３枚のカードを引けるなら２対３交換で１枚の得です。,If you discard one card from your hand and draw two cards; it's a 2-for-2 exchange; resulting in no gain or loss. If you can draw three cards; it's a 2-for-3 exchange; resulting in a one-card gain.
+このように発動したカードもコストに含めて考えて、\n消費したコストに対してどのぐらいのメリットが得られるか計算すると\n強いカードが見極められるようになりますよ。,By considering the played card as part of the cost and calculating the benefits gained against the cost you pay; you'll be able to identify which cards are strong.
+デッキ圧縮という考え方をご存じでしょうか。,Are you familiar with the concept of deck thinning?
+例えば、\n「デッキからカードを１枚引く」というカードがあったとします。\n１枚使って１枚引くだけですから一見無意味なカードです。,As an example; let's say you have a card that says; "draw one card from your deck." At first glance; it seems like a pointless card since you use one card to draw one card.
+しかし、デッキを強いカードだけで固めるという目的からすると、\nこのカードは非常に強力です。,However; looking at it with the goal of filling your deck with only the strongest cards; this card is actually extremely powerful.
+例えばこのカードを３枚入れるだけで、20枚のデッキではなく、\n実質17枚だけのカードでデッキを組むことができます。\nつまり強いカードだけでデッキを固められるというわけです。,For example; by including three of this card; you can effectively create a deck with only 17 cards instead of 20; meaning more strong cards and less filler.
+１対１交換をするカードにはこうした使い道もあるので、\n知っているとデッキ構築の幅が広がりますね。,Cards that can be exchanged one-for-one have these kinds of uses; so knowing this can broaden your deck-building options; don't you think?
+墓地リソースという言葉を知っていますか？,Do you know the term "graveyard resource"?
+カードには自分の墓地のカードをコストにして発動するものがあります。\nまた墓地のカードを復活させたり、手札に戻すカードもあります。,Some cards can be activated using cards from your own graveyard as a cost. There are also cards that can revive cards from the graveyard or return them to your hand.
+そうしたカードのことを考えると、\n墓地もひとつの資源、重要なリソースだという考え方が、\n「墓地リソース」ですね。,Keeping those cards in mind; the idea that the graveyard is also a resource; and an important resource at that; is what we call 'graveyard resource', okay?
+墓地をフル活用するデッキの使い手は\n「墓地は第二の手札だ」と豪語する人もいるとか。\nそれぐらい墓地は重要なのです。,Some users whose decks fully utilize the graveyard boast that "their graveyard is a second hand." That's how important the graveyard can be.
+自分のデッキからカードを直接墓地へ送るカードがありますが、\nそうしたカードと墓地を再利用するカードを組み合わせると\n意外と強力なコンボになったりしますよ。,There are cards that send cards directly from your deck to the graveyard; but when you combine those with cards that reuse the graveyard; it can become an unexpectedly powerful combo!
+コンボカードについて考えるのはカードバトルの醍醐味です。,Thinking about combo cards is the essence of card battles.
+多くの場合、\n特定のカードがないと発動できないような強い制約のあるカードは\n強力な効果を持っています。,In many cases; cards with strong restrictions that can't be activated without specific cards have powerful effects.
+しかしだからといって、考えなしにデッキに入れると、\n手札事故を引き起こしかねません。コンボ用のカードがそろわなければ\n何の役にも立たないカードになってしまうからです。,However; if you put them in your deck carelessly; you might cause issues with your hand. If you don't have the combo cards ready; they can become totally useless!
+コンボカードを活かすためには、ドローカードを追加で入れたり、\n属性やレベルでデッキからサーチするようなカードを入れると、\n動きが安定しますね。,To make the most of combo cards; try adding draw cards or cards that search the deck by attribute or level to help make your deck more consistent; okay?
+強力なカードと潤滑油になるようなカード、\nそのどちらもが強いデッキを作るうえでは欠かせないと言えるでしょう。,Powerful cards and cards that fuel them... Both are essential for building a strong deck.
+「メタカード」というのをご存じでしょうか。,Do you know what a 'meta card' is?
+メタカードは特定の種類のデッキに対してよく刺さるカードのことで\n例えば魔法の「武装放棄」がそうですね。,A meta card is a card that works especially well against specific types of decks; such as the spell 'Disarmament'.
+このカードはわずか500のLPコストで、\n相手の装備カードをすべて破壊してしまいます。\n１枚で最大３枚破壊できるわけですから、きわめて強力です。,This card; at the small cost of 500 LP; can destroy all of the opponent's equipped cards. Since it can destroy up to three  of your opponents cards for just one of your own; it's extremely powerful.
+しかし一方で、装備カードを使わない相手に対しては\nまったく役に立たないカードでもあります。,On the other hand; though; it's completely useless against opponents who don't use equipment cards.
+事前に相手のデッキの情報を集め、メタカードをデッキに入れておく。\nそういうしたたかな戦術も\nカードマスターとして勝ち上がっていくには大事なのかもしれません。,Gather information about your opponent's deck in advance and include meta cards in your own. Such shrewd tactics might be crucial for rising as a cardmaster.
+おや、あなたは「武装放棄」を持っていないのですか？\nあまりレアなカードでもありませんし、\nわたしの手持ちで余っている１枚を差し上げましう。,Oh; you don't have 'Disarmament' yet? It's not that rare of a card; and I have an extra one in my collection. Would you like it?
+あなたもいよいよBランクですか。\n本当にたいしたものです。,So; you've finally reached B-rank; huh? That's really impressive.
+わたしは闘技場を観戦し、\n本で多くを学んでカードバトルの腕を磨いてきました。,I've been watching fights in the colosseum and studying a bunch of books hoping to hone my card battle skills.
+しかし昨今の快楽攻撃の流行のせいで、\nいくら知識があっても、女性モンスター相手に\n全く歯が立たなくなってしまったのです。,Because of the recent increase of pleasure attacks; though; no matter how much knowledge I have; I've become completely powerless against female monsters.
+無敗のルーキー、あなたの精神力を尊敬しますよ。\nわたしにもはや教えられることはありません。\nぜひその手でＢランクの栄光をつかみ取ってください！,Undefeated rookie; I respect your mental fortitude. There's nothing more I can teach you. Please; go; and grasp the glory of B-rank with your own two hands!
+この国は大きく分けて4つのエリアがあります。\nカードマスターの街モルゲンがあり、穀倉地帯でもある南部。,This country is roughly divided into four areas. In the south; there's the city of Morgen; home to the Cardmasters and the granary region as well.
+山がちながら鉱物資源に恵まれた西部。\n海に開かれており、小さな島との交易もある東部。,The western region; which is mountainous and rich in mineral resources. The eastern region; which is open to the sea and engages in trade with small islands.
+そして魔族領に接しており王都もある北部です。\n北部には獣人たちの村落もあるそうですね。,And then there's the northern region; which borders the demon territory and also holds the royal capital. I've heard there are villages of beastmen in the northern region as well.
+かつては北の地にもっと広い領土があったのですが、\nサキュバスたちの侵攻により多くの村落が奪われてしまいました。\n王都の結界の力で、なんとか今は食い止めているにすぎません。,There used to be a much larger territory in the northern lands; but many villages were taken by the succubi's invasion. Thanks to the barrier around the royal capital; we're managing to hold them off for now; but just barely.
+この事態をなんとかするためにも、\n若い我々が努力しないといけませんね。無敗のルーキーを見習って、\nわたしも日夜修行に励んでいます。,To address this situation; young masters like us have to make a real effort. Following the undefeated rookie's example; I'm also dedicating myself to training day and night.
+カードパックは基本的に\n遺跡から出る発掘品やモンスターが落とすアイテムの中に入っています。\nしかし・・・,Card packs are items that are excavated from ruins or dropped by monsters. However...
+どういった原理でカードの中に魔法や生物が封じ込められているのかは\nいまだに謎が多くほとんどわかっていません。,The principle by which magic and creatures are sealed within the cards remains largely a mystery; and one we hardly understand at all.
+ある学説によれば、カードの中のモンスターたちは、\nマスターと前世でつながりがあったものたちであり、\n召喚されて命令に従うのはそのつながりを感じるからだと言います。,According to a certain theory; the monsters within the cards are those who had a connection with their master in a past life; and they obey commands upon being summoned because they feel that connection.
+カードパックを開いたとき\n人によってどんなカードが顕現するか違うため、\nこのようなロマンチック？な学説も出ているわけですね。,When you open a card pack; the cards that manifest differ from person to person; which is why such a romantic theory has emerged; I guess?
+わたしとしては一種の契約魔術のようなものだと思っていますが、\nその仕組みが解明されるようになるのは、\nもっとずっと先のことになりそうです。,I think of it as a kind of contract magic; but it seems like it'll be a long time before the mechanisms behind it are fully understood.
+ちなみに魔法カードやトラップカードは、\n色々なマスターがパックを開けたときに同じカードが出ることがあります。,By the way; magic cards and trap cards can sometimes appear as the same card when different masters open their packs.
+このように理性を持たないカードは人を選ばず出ることから、\n先ほど紹介したような、理性のあるカードは前世のつながりがあるのでは\nという突飛な説が生まれたわけです。,Since non-sentient cards appear no matter who opens a pack; it's lead to the outlandish theory I mentioned earlier that sentient cards might have connections to past lives.
+モンスターたちが所持している道具の中には、\n我々の生活の中ではあまり見られないものも多くあります。,Among the tools possessed by the monsters; there are many that are rarely seen in our daily lives.
+例えば一部のモンスターが所持している「銃」がそうですね。\n火の魔法を込めて、小さな石の弾や鉄の弾を飛ばす、\n魔法の小型杖です。,For example; some monsters carry "guns." These are small; magical staves that shoot small stone or iron projectiles infused with fire magic.
+彼らや彼女らは有用な道具だと主張するのですが、\n普通に魔法で火球を飛ばした方が威力もあり、筒の中で繊細な火魔術の\nコントロールがいるあの道具は、あまり有用性がわかりません。,Some claim it's a useful tool; but casting a fireball with regular magic is more powerful; and the tool requires delicate control of fire magic within the tube; so I don't know how useful it really is.
+コントロール能力さえ高ければ魔力消費を抑えられるのは\nメリットにあげられるのかもしれませんね。,If you can control the magical energy; I suppose being able to reduce magic power consumption could be considered an advantage; huh?
+魔族領への侵攻のための兵を王都で集めているようですね。\nサキュバス相手となると今のわたしでは\n行ったところで敵の養分になってしまうだけでしょう。,Looks like they're gathering troops in the royal capital for an invasion of the demon realm. If I were to face a succubus now; I would just become a source of nourishment for the enemy.
+これはせめてもの行為です。\n無敗のルーキー、あなたにカードを１枚託します。,This is the least I can do. Undefeated rookie; I entrust you with this card.
+『{%%40333}』を手に入れた！,I got {%%40333}!
+わたしが持っている中でも一番レアリティの高いカードです。\nあなたならきっと役に立てることもできるでしょう。,It's the rarest card I have. I'm sure you could put it to good use.
+しかし、わたしだってあなたの背を追うばかりではありません。\n必ずや快楽攻撃を克服して、サキュバスにも打ち勝ってみせますよ！,However; I'm not just going to let myself trail behind you. I will definitely overcome the pleasure attacks and defeat the succubi!
+わたしが託したカードは、\nデッキから魔法カードを加えることのできる汎用的なカードです。,The card I entrusted to you is a versatile card that allows you to add a spell card from your deck to your hand.
+しかし、魔術師モンスターを強化する効果もついているので、\n魔術師カードと共に使えば更なる効果を発揮できるでしょう。,However; it also has the effect of enhancing magician monsters; so if you use it with magician cards; it will have an even greater effect.
+もし使い道がなければ売ってしまってもかまいません。\nそのときはあなたが魔族領に行くときの、路銀にでも変えてください！,If you have no use for it; feel free to sell it. If you do; you can exchange it for travel expenses when you go to the demon realm!
+やぁやぁ、いらっしゃい。\nここでは闘技場の人気ランカーたちのグッズを売ってるよ。,Hey there; welcome! Here; we sell merchandise from the popular colosseum rankers!
+あの有名なモルゲン学園のエリートBランカー、メロディや\nシルヴィアのサイン色紙に・・・。,We have signed autograph boards from those famous elite B-rankers from Morgen Academy; Melody and Sylvia...
+モンスターを１枚も使わずに戦う、\n「百器使い」ムサシ選手の武器をモデルにした\n模造刀なんてのもあるよ。,There's even a replica sword modeled after the weapon of Musashi; the "Hyakki Tsukai;" who fights without using a single monster!
+おや、アンタもよく見るとカードマスターだね。\nこれから試合かい？\nそれならほら、この色紙にサインをしておくれよ。,Oh; looking closer; you're a cardmaster; too. Are you heading to a match? If so; here; sign this for me!
+アンタがもし有名になったら高く売れるかもしれないだろ。\n代わりにほら、珍しいカードをあげよう。,If you become famous; it might sell for a high price. In exchange; I'll give you a rare card.
+サインを書いた,Sign
+サインを書かなかった,Don't sign
+おお、ありがとう！\nアンタ気前がいいね。きっとこれから大成するよ。,Oh; thank you! You're So generous. I'm sure you'll achieve great things from here on out!
+ほらこれがお礼のカードだ。\n他のマスターから「いらない」ってんでもらったんだが、\nうまく活用してやってくれ。,Here; this is a thank-you card. I got it from another master who said they didn't need it. Make good use of it.
+{%%40208}を手に入れた！,I got {%%40208}!
+むむ、けちだねー、アンタ。\nそんなんじゃ大成しないよ。,Hmm; you're stingy; aren't you? With that attitude; you'll never get far!
+まあいいや、それなら代わりに何か買っていっておくれよ。\nえ？荷物になるからいらない？\n残念だねー、こんなにいい商品ばかりなのに。,Well; never mind. In that case; why don't you buy something instead? Huh? You don't want it because it would just weigh you down? That's too bad; considering how great these products are.
+モルゲン学園のエリートBランカー、\nメロディ嬢やシルヴィア嬢のサイン色紙に・・・。,The signed colored paper of Melody and Sylvia; the elite B-rankers of Morgen Academy...
+おや、アンタはさっきのカードマスターじゃないか。\nさっきはサインをありがとうよ。,Oh; you're the card master from earlier; aren't you? Thanks again for the autograph!
+最近は女マスターばっかり強いけど、\nアンタならきっと勝ち上がっていけるよ。\nあたしの目に間違いはない。がんばりな。,Recently; all the strong masters have mostly been female; but I believe you can definitely rise to the top. My eyes don't make mistakes. Keep it up.
+おや、アンタはさっきのカードマスターじゃないか。\nなんだい、サインを書いてくれる気になったのかい？,Oh; aren't you that card master from earlier? What; are you in the mood to give me an autograph now?
+サインを書いてあげた,Give an autograph
+サインを書いてあげなかった,Don't give an autograph
+ほらこれがお礼のカードだ。\n他のマスターからいらないっていうんでもらったんだが、\nうまく活用してやってくれ。,Here; this is a thank-you card. I got it from another master who said they didn't need it. Put it to good use.
+なんだい。ひやかしならほら、帰っておくれ。\nあとでこのカードが欲しくなって後悔しても知らないよ。,What is it? If you're just here to mock me; then go on; get out. Don't come crying later if you end up wanting that card!
+蜘蛛使いの看守、ヤツメ選手のかっこいいブーツに、\n獣使いの猫マスター、ネネコ選手の毛玉。,The spider-handling guard Yatsume's cool boots; and the beast-handling cat master; Neko's furball.
+それにほら、いま話題の新人ルーキーのサインもあるよ。\n買った、買った。安いよ。,And look; there's even the signature of the rookie everyone's talking about. I'll buy it; I'll buy it! It's so cheap!
+おや、アンタは当のルーキーさまじゃないか。\nわたしがにらんだとおり、\nあんたはさっそく初勝利をあげてくれたね。,Oh; aren't you the rookie everyone's talking about? Just as I suspected; you've already secured your first victory; haven't you?
+ほら、またサインを書いておくれよ。\nあんたのサインわりと人気があるんだ。\n代わりにまた珍しいカードをあげるからさ。,Here; write your signature again. Your autograph's pretty popular right now. In return; I'll give you another rare card.
+おお、ありがとう！\nいやぁさすがは期待の新人だね。\nやっぱり上に行くやつは太っ腹だよ。性格がいいね。,Oh; thank you! Wow; as expected from a promising rookie. Those who rise to the top are generous; aren't they? You have a good heart; don't you?
+ほらこれがお礼のカードだ。\n自分の体にキノコを生やすカードだよ。何に使うんだろうね。\nまあうまく使ってやっておくれ。,Here; this is a thank-you card. It's a card that makes mushrooms grow on your body. I wonder what it's for. Well; put it to good use.
+{%%40327}を手に入れた！,I got {%%40327}!
+なんだい。一回勝ったぐらいで有名人気取りかい。\n気前のよかったアンタが、\nケチになっちゃうなんて、わたしゃ悲しいね。,What's up? Just because you won once; you think you're too famous now? It's sad to see someone who used to be so generous become so stingy; don't you think?
+何も買わないなら帰っておくれ。\nこの珍しいカードもほかの人に売っちまうよ。,If you're not going to buy anything; then just go home. I'll sell this rare card to someone else!
+おや、自分のサインがどれぐらい売れてるのか見に来たのかい？\nまあまだ一勝だからね。\n闘技場のマニアがちょっと買ってくぐらいだよ。,Oh; did you come to see how much your signature is selling for? Well; it's still just one win. Only a few colosseum enthusiasts buy it!
+だけどアンタはきっと勝つね。勝ちまくってくれれば\nサインの値段は２倍にも１０倍にもなるんだ。\n楽しみにしてるから、がんばっておくれよ。,But you'll definitely win; right? If you keep winning; the price of your autograph will double; or maybe even increase tenfold. I'm looking forward to it; so do your best!
+おや、なんだい、期待の新人さまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,Oh; what do we have here? The promising rookie. Have you changed your mind? If you sign this; I'll give you that rare card I offered earlier!
+「妖精の酒場」のミレーヌ選手のお店への地図に、\nそこの食事一覧が書いたメニューもあるよ。,There's a map to Mylene's tavern; "Fairy Tavern;" along with a menu listing the meals served there!
+お、このサインが欲しいって？お目が高いねお客さん。\nはい、買った買った。\nありがとね。,Oh; you want this autograph? You've got good taste; my friend. Alright; alright; I'll sell it to you. Thank you very much.
+・・・おや、また会ったね。おかげさんで中々盛況だよ。\nあんたのサインも今ちょうど売れたところさ。\n２連勝したんで少しは名前が売れてきたのかね。,...Oh; we meet again. Thanks to you; business is pretty good. Your autograph just sold; too. Maybe your name is starting to get some recognition after two consecutive wins; huh?
+ほら、またサインを書いておくれよ。\n代わりにまた珍しいカードをあげるからさ。,Here; write your autograph again. In return; I'll give you another rare card.
+おお、ありがとう！\nいやぁさすがは期待の新人だね。\nあんたほど優しい男をわたしゃ知らないよ。,Oh; thank you! Wow; you really earned your title of promising rookie. I don't know any man as kind as you!
+ほらこれがお礼のカードだ。\nあんまり役に立たない猫のゴーレムだそうだよ。\nちょっと攻撃力を上げてくれるとか。まあうまく使ってやっておくれ。,Here; this is a thank-you card. It's a cat golem that doesn't really do much; but it might boost your attack power a bit. Make good use of it.
+{%%40234}を手に入れた！,You obtained {%%40234}!
+なんだい。今日はけちだね。\nなにか機嫌でも悪いのかい。,What's up? You're being stingy today. Are you in a bad mood or something?
+・・・おや、また会ったね。\n猫ゴーレムが入らないって言われてもわたしにゃどうしようもないよ。\nわたし自身はカードを使えないしね。,...Oh; we meet again. Even if you say the cat golem can't enter; there's nothing I can do about it. I can't use the card myself; you know?
+捨てるに忍びないからってんでわたしにくれるんだろうね。\nまあ色々変わったカードがあるからこれからも\nサインのお代にあげるよ。楽しみにしてな。,They probably gave it to me because they can't bear to throw it away. Well; since I have various unique cards; I'll continue to give them to you as payment for your signature. Look forward to it.
+おや、なんだい、けちな新人さまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,Oh; what's this? Aren't you the stingy newbie? Change your mind; have you? If you sign; I'll give you that rare card!
+元Bランカー、侍使いのレックスの折れた刀に、\n元Cランカー、連弾魔術師シラクの魔法の杖。\n安いよ。安いよ。,A broken sword of the former B-rank samurai user; Rex; and the magic wand of the former C-rank dual-cast sorcerer; Shiraku. Cheap; very cheap!
+ううむ、男性マスターのグッズはあんまり売れないね。\n最近みんな降格しちゃって、\n人気がないから困っちゃうよ。,Hmm; the merchandise for male Masters doesn't sell very well. Recently; everyone has been demoted; and their lack of popularity is becoming a problem!
+・・・おや、また会ったね。\nあんたのサインは男マスターの中じゃ売れてるほうさ。これで\n３連勝だろう？あんたならもしかしたらって期待されてるのかもね。,...Oh; we meet again. Your signature is one of the better-selling ones among the male masters. That's three wins in a row; right? Maybe they're expecting something from you; do you think?
+おお、ありがとう！\nいやぁさすがは男の中の男だね。\n婆に優しい、それだからこんなに強いんだ。,Oh; thank you! Wow; you're truly a man's man. You're kind to the old lady; that's why you're so strong. 
+ほらこれがお礼のカードだ。\n今度は正真正銘レアカードだよ。\nたぶん強いよ。,Here; take this thank-you card. It's a genuine rare card this time. it might even be strong!
+{%%60036}を手に入れた！,I received {%%60036}!
+侍使いのマスターがわたしに売っていったんだ。\n爆乳マスターのキャミーに負けて、いまじゃすっかり落ちぶれちまったが、\n強くていいマスターだったんだよ。,The samurai-using master sold it to me. He lost to the busty master Cammy; and has completely fallen from grace now; but he was a good and strong master!
+男マスターの話をしてたらなんだか思い出しちまった。\nこんないいもの普段ならあげないんだけど、\nアンタなら上手く使いこなせるかもね。,Speaking of the male master; I just remembered. I usually wouldn't give away something this good; but maybe you could make good use of it; right?
+なんだい。あんたは男マスターの中だと一番けちかもね。\n女マスターに勝てたからってそんなじゃすぐ負けちまうよ。,What is it? You might be the stingiest among the male Masters. Even if you beat the female masters; at this rate; you'll lose soon enough!
+・・・おや、また会ったね。\nアンタに上げた刀のカード、使える相手が結構少ないらしいね。\nサムライとかニンジャってのは騎士や密偵のことらしいよ。,...Oh; we meet again. The sword card I gave you seems to have quite a few limitations on who can use it. It seems that samurai and ninja refer to knights and spies!
+カードは色んな別世界につながってるらしいから、\n色んな呼び名があるんだろうね。\nどこかに金がたんまり手に入る世界はないのかね。行ってみたいもんだ,It seems that the cards connect to various parallel worlds; so there must be different names for them. Is there a world somewhere where you can get a ton of money? I'd love to visit.
+蛇使いパトラがペットにしてる蛇の脱皮殻に、\nギャンブラーCランカー、キャミー選手が一回使ったコイン。,The shed skin of the snake that the snake charmer Patra keeps as a pet; and a coin used once by the C-rank gambler; Cammy.
+さらにCランクに昇格目前、男なのに連勝中の\n期待のルーキーのサインもあるよ。\nほら、買った。買った。,There's also the signature of the promising rookie; who's on the verge of being promoted to C-rank and has been on a winning streak despite being a man. Hey; I'll buy it; I'll buy it!
+・・・おや、また会ったね。\nあんたに注目する人もだいぶ増えて、サインもいい感じに売れてるよ。\nいやぁわたしの目に狂いはなかったね。,...Oh; we meet again. More and more people are paying attention to you; and your autographs are selling quite well. I guess my judgment was spot on; right?
+おお、ありがとう！\nもうすぐCランクになる男はさすがだね。\nあんたみたいに優しい人にはきっといいことがあるよ。,Oh; thank you! The guy who's about to become a C-rank is impressive; as expected. Someone as kind as you will surely have good things happen!
+ほらこれがお礼のカードだ。\nあんたみたいな金の卵を産むにわとりのカードだよ。\n卵がずっと残ればお金儲けに使えるんだけどねぇ。,Here; this is a thank-you card. It's a card of a hen that lays golden eggs; just like you. If the egg was real; it could be used to make money; you know?
+{%%40328}を手に入れた！,I got {%%40328}!
+なんだい。いつになくけちだね。\nCランクになれるからって、増長しちまったのかい？\nおお、やだやだ。,What's up? You're unusually stingy today. Just because you can become a C-rank; have you gotten full of yourself? Oh; no; no.
+・・・おや、また会ったね。\nにわとりはちゃんと働いてるかい？\nバトルが終わったら産んだ卵も消えちまうらしいからそこが残念だね。,...Oh; we meet again. Is the chicken working properly? It seems that the eggs laid after the battle disappear. A shame; don't you think?
+まあそうじゃなければ\nカードでいくらでも何でも生み出せるからね。\nあたしらみたいな一般人は商売あがったりだったろうね。,Well; if that weren't the case; you could create anything and everything with cards. People like us; the common folk; would have been out of business; huh?
+一般人にも生きる道を与えてくれた女神さまに感謝だよ。\nできればカードを使える魔力の方がほしかったけどね。,I'm grateful to the goddess who gave ordinary people a way to live. If possible; I would have preferred a magic power that could use cards; you know?
+Bランクマスターシルヴィア選手の最強カード、イージスの人形に、\nモルゲンのエース、Aランクマスターエイライラのハーピーの羽。\nどれも珍しいよ。,The strongest card of B-rank Master Sylvia; the Aegis Doll; and Morgen's ace; the A-rank Master Eilira's Harpy Feather. They're all rare!
+さらに連戦連勝でCランクに昇格、\nあの「無敗」の最強ルーキーのサインもあるよ。\nほら、買った。買った。,Moreover; they even have the signature from the Undefeated Rookie who's been winning back to back and has been promoted to C-rank. Hey; I'll buy it. I'll buy it!
+・・・おや、また会ったね。\nあんたに会いたかったんだ。見てごらんあんたのサインは大人気さ。\nやっぱりあんたは大物になるって思ってたよ。,...Oh; we meet again. I wanted to see you. Look; your signature is super popular. I knew you were going to be a big deal!
+おお、ありがとう！\nさすが無敗でCランクになっただけあるね。\nあんたみたいに太っ腹なマスターはそうはいないよ。,Oh; thank you! As expected of someone who became C-rank undefeated. There aren't many generous masters like you!
+ほらこれがお礼のカードだ。\nキャミーに勝った強運なあんたにぴったりの、\nサイコロのカードだよ。,Here; this is a thank-you card. This is a dice card; perfect for someone lucky enough to beat Cammy!
+{%%40330}を手に入れた！,I got {%%40330}!
+なんだい。けちだね。\nCランクになって、人が変わっちまったのかい？\nおお、やだやだ。,What's up? You're stingy. Did you change as a person after becoming C rank? Oh; no; no.
+・・・おや、また会ったね。サイコロのカードは使えているかい？\nあたしにゃよくわからないが、\nモンスターのレベルを変えるとかなんとか。,...Oh; we meet again. Are you able to use the dice card? I don't really understand it well; but it's something about changing the monster's level or something?
+運任せな分使い手を選びそうなカードだよね。\n強運で実力もあるあんたにゃぴったりだよ。,It seems like a card that relies on luck and might be picky about who can use it. It's perfect for someone like you who has both luck and skill!
+おや、なんだい、けちなルーキーさまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,Oh; what's this? Aren't you the stingy rookie? Have you changed your mind? If you sign it; I'll give you this rare card.!
+最近の売れ筋はこれ、あの無敗のルーキーのサインだよ。\n男の身なのに勝利に次ぐ勝利、\nCランクでも快進撃を続けてるあのルーキーだよ。,The recent bestseller is this; the signature of that undefeated rookie. Despite being a man; he keeps winning victory after victory; continuing his impressive run even into C-rank!
+おお、ありがとう！\nやっぱりアンタはいい男だね。優しいし強いし、\nいやぁモルゲンで一番男前かもしれないね。,Oh; thank you! You really are a good man. You're kind and strong; and you might just be the most handsome guy in Morgen; huh?
+ほらこれがお礼のカードだ。\n昔ネネコがいらないってくれたネズミのカードだよ。\nとげとげしてるから気に入らないとか言ってたね。,Here; this is a thank-you card. It's a mouse card that Nenekko didn't want and gave to me a long time ago. She said she didn't like it because it was prickly; I suppose.
+{%%60041}を手に入れた！,I got {%%60041}!
+なんだい。いまさらけちけちしちゃってさ。つれないね。\nたくさん勝って人気も出たからって優しい心をなくしちまったのかい？\nおお、やだやだ。,What's up? Being stingy now; huh? So cold. Just because you've won a lot and gained popularity; you've lost your kind heart? Oh; how awful.
+・・・おや、また会ったね。\nネズミは役に立ってるかい？\nネズミは小さくてかわいいよねぇ。あたしゃわりと好きだよ。,...Oh; we meet again. Is the mouse being useful? Mice are small and cute; aren't they? I quite like them!
+ちょろちょろしてて意地汚くて、なんだか親近感がわくじゃないか。\n人間だって似たようなものだろう？\nあたしゃそう思うね。,They're always scurrying around; being a bit greedy; and somehow; they feel relatable; don't they? Humans are pretty similar; right? That's what I think.
+あら、{主人公}、あなたも闘技場に挑戦するの？,Oh; {主人公}; are you also here to challenge the colosseum?
+闘技場は手ごわいわよ。\nわたしもDランカーだから、何度も試合に挑んでいるけれど、\nなかなか勝率５割を上回れないのよね。,The colosseum is tough. I'm a D-ranker too; and I've fought a bunch of matches; but I can't seem to surpass a win rate of 50%.
+これから初試合の申し込み？わたしの友達の「オクタ」って子も\nさっき申し込んだって言ってたから、\nもしかしたらあなたと当たるかも。,Are you signing up for your first match now? My friend Octa just signed up too; so you might end up facing each other.
+背は小さくてかわいらしい子なんだけど、\n相手のカードを水属性に替えちゃうトリッキーなデッキで\n結構強いわよ。あなたに勝てるかしら。,She's small and cute; but she has a tricky deck that can change the opponent's cards to water attribute; and she's pretty strong. I wonder if she can beat you.
+わたしは闘技場マニア。\n闘技場に出場しているすべてのカードマスターの情報を知っている\n筋金入りの闘技場オタクさ！,I'm an colosseum fanatic. I'm a hardcore nerd who knows everything about all the card masters participating in the colosseum!
+対戦相手の情報が知りたければ、ボクが教えてあげよう。\nなんでも聞くといいよ！,If you want to know about your opponent; I can tell you. Just ask me anything!
+Dランクマスターの情報が知りたい,I want to know about a D-rank master.
+Dランクの誰について知りたいんだい？,Which D-rank character do you want to know about?
+オクタ,Octa
+ミレーヌ,Mireille
+ドワン,Dwan
+パトラ,Patra
+あ、あの・・・。あなたがあの{主人公}選手ですか？\nうわぁー、ほんものだ。,Uh; um... Are you {主人公}? Wow; it's really you.
+お母さんから、エッチなのはダメって言われるから、\n試合は見れてないんですけど、\n話ですごく勝ってる男のマスターがいるって聞いてて・・・。,My mom told me that anything inappropriate is a no-go; so I haven't been able to watch the matches; but I've heard that there's a male master who's winning a lot...
+僕もカードマスターになりたいんです！\n握手してください！{主人公}選手みたいになれるように頑張ります！,I want to become a cardmaster too! Please shake my hand! I'll do my best to become just like you!
