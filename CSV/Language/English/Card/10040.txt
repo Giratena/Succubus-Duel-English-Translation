@@ -1,38 +1,38 @@
-default
+default,
 まねき猫,Beckoning Cat
-幸運を呼ぶと言われている猫の妖怪。優しい性格でたとえ敵相手だったとしても傷つけることを好ましく思っていない。そのため肉弾戦は苦手だが、性的な攻撃だと相手が喜んでくれるので、嬉々として行う。背丈の割に大きめな胸を活かしたパイズリが得意で、とろけた男性の顔を見るのが大好きである。,A cat yokai who is said to bring good fortune. She has a gentle personality and doesn't like hurting others; even if they're enemies. Because of this; she's no use at physical combat; but has no issues with performing sexual attacks pleasure to her opponents. Despite her small stature; she's skilled at using her sizeable breasts for paizuri (titjobs); and loves seeing the melted expressions on men's faces.
-特性：「挑発」\n[1].このカードが４ターン以上フィールド上に存在していた場合、以下の効果を持つ。\n・自分ターン終了時に発動する。自分のデッキから獣タイプレベル４以下モンスターをランダムに１体特殊召喚する。\n[2].相手がモンスターを特殊召喚したときに発動する。そのモンスターに誘惑を行い、コントロールを奪う。この効果は１度しか発動できない。,Trait: "Provocation"\n[1]. If this card has been on the field for 4 or more turns; it gains the following effect.\n Activates at the end of your turn. Special summon 1 random Beast-Type monster of Level 4 or lower from your deck. \n[2]. Activates when your opponent special summons a monster. Seduce that monster and take control of it. This effect can only be activated once.
-[3].このカードが破壊されたとき発動する。デッキから「猫」モンスターを１体手札に加える。,[3]. Activates when this card is destroyed. Add 1 "Cat" monster from your deck to your hand.
-戦闘時に「おっぱいに弱い」を付与する。このカードが「おっぱいに弱い」相手から受ける戦闘ダメージが半分になる。,During battle; applies the "Weak to Breasts" effect. Battle damage this card receives from an opponent with "Weak to Breasts" is halved.
+幸運を呼ぶと言われている猫の妖怪。優しい性格でたとえ敵相手だったとしても傷つけることを好ましく思っていない。そのため肉弾戦は苦手だが、性的な攻撃だと相手が喜んでくれるので、嬉々として行う。背丈の割に大きめな胸を活かしたパイズリが得意で、とろけた男性の顔を見るのが大好きである。,A cat yokai who is said to bring good fortune. She has a gentle personality and doesn't like hurting others; even if they're enemies. Because of this; she's no use at physical combat; but has no issues with performing sexual attacks pleasure to her opponents. Despite her small stature; she's skilled at using her sizeable breasts for paizuri (titjobs); and loves seeing entranced expressions on men's faces.
+特性：「挑発」\n[1].このカードが４ターン以上フィールド上に存在していた場合、以下の効果を持つ。\n・自分ターン終了時に発動する。自分のデッキから獣タイプレベル４以下モンスターをランダムに１体特殊召喚する。\n[2].相手がモンスターを特殊召喚したときに発動する。そのモンスターに誘惑を行い、コントロールを奪う。この効果は１度しか発動できない。,Ability: 'Provocation'\n[1]. If this card has been on the field for 4 or more turns; it gains the following effect:\n At the end of your turn you may Special summon 1 random Beast-Type monster of Level 4 or lower from your deck. \n[2]. When your opponent special summons a monster; seduce that monster and take control of it. This effect can only be activated once.
+[3].このカードが破壊されたとき発動する。デッキから「猫」モンスターを１体手札に加える。,"[3]. Activates when this card is destroyed. Add 1 ""Cat"" monster from your deck to your hand."
+戦闘時に「おっぱいに弱い」を付与する。このカードが「おっぱいに弱い」相手から受ける戦闘ダメージが半分になる。,"Inflicts 'Breast Fetish' on foe after combat. If foe has 'Breast Fetish', this card recieves 1/2 damage dealt."
 EU40_paizuriAnime,
-にゃーん❤こっちを見るにゃ❤,
-お兄ちゃん❤わたしお兄ちゃんと戦いたくないにゃーん❤\nこっちに来てくれたら、このおっぱいで\nいっぱい気持ちいいことしてあげるにゃん❤,
-ほら、じーっと見るにゃん❤\nおっぱいゆさゆさゆさ～♪,
-っ・・・・❤,
-強い意志を持って視線をそらした,
-まねき猫のおっぱいに見とれてしまった,
-むうぅ・・・❤\nこっち見てくれないにゃん…。\nわたしたちといいことしたくないのかにゃん…。,
-にゃ～ん❤おっぱいじーっと見て、\n目がとろーんってなっているにゃん❤,
-お兄ちゃんはおっぱいを揺らすたびに、\n一歩ずつこっちに来るにゃん。\nほら、にゃんにゃんにゃん❤,
-あううっ…❤おっぱいぃ…❤,
+にゃーん❤こっちを見るにゃ❤,Meow~❤ Look over here nya~❤
+お兄ちゃん❤わたしお兄ちゃんと戦いたくないにゃーん❤\nこっちに来てくれたら、このおっぱいで\nいっぱい気持ちいいことしてあげるにゃん❤,Young man~❤ I don't want to fight with you nya~❤ But if you come over here; I'll use my big titties to make you purr~❤
+ほら、じーっと見るにゃん❤\nおっぱいゆさゆさゆさ～♪,Ooh; you're eyeing me so intently nya~❤ Lookie at my bouncy boobies~♪
+っ・・・・❤,Nngh....❤
+強い意志を持って視線をそらした,Turn your gaze away...!
+まねき猫のおっぱいに見とれてしまった,Her big; sexy tits are calling me...
+むうぅ・・・❤\nこっち見てくれないにゃん…。\nわたしたちといいことしたくないのかにゃん…。,Mmmm...❤\nYou won't look at me nya....\nDon't you want to do nice things with us nya...?
+にゃ～ん❤おっぱいじーっと見て、\n目がとろーんってなっているにゃん❤,Nyaaa~n❤ You're staring so intently at my breasts;\nyour eyes are getting all glazed over nya~❤
+お兄ちゃんはおっぱいを揺らすたびに、\n一歩ずつこっちに来るにゃん。\nほら、にゃんにゃんにゃん❤,With each bounce of my breasts; you take\none step closer nya.\nCome on; nya nya nya❤
+あううっ…❤おっぱいぃ…❤,Ahhh...❤ Boobiees...❤
 にゃん❤こっち来てくれてうれしいにゃん❤\nいっしょに戦おうにゃん❤,
 来てくれたお礼に、おっぱいでむにむにゅうってするにゃん❤,
 あひぃっ・・・❤,
 にゃーん、幸せそうな顔にゃん❤\n戦いが終わったらあとでもっといっぱいしてあげるにゃん❤,
-にゃあん❤お兄ちゃん、すっかりおっぱいにメロメロにゃ❤\nそんなんじゃ、攻撃なんてできないにゃあ❤,Meow~❤ You're really deep in love with my boobies; aren't-nya?❤\nYou can barely scratch a claw on meow❤,
-お兄ちゃんのおっきくなったおちんちん❤\nおっぱいの中に入れてほしいにゃあ❤\n早く来てにゃあん❤にゃん❤,Your penis has become so big~❤\nYou should totally insert it in my boobies~❤\nCome~ Hurry~❤ Meow~❤,
-わたしはたくさん福をまねく招き猫♪\nだからお兄ちゃんのこと幸せにしたいにゃあ❤,I am a special kind of cat gives people good fortune♪\nSo I really wanna to make you happy-meow~❤,
-おっぱいが大好きなお兄ちゃんを、\n簡単に幸せにできるやり方があるのにゃあ❤\nえい❤,And the easiest way to make a boobie man like you happy is like this-meow~❤\nEei❤,
-おっきいおっぱいでのずりずりご奉仕にゃあ❤\nおちんちん幸せかにゃ❤気持ちいいかにゃあ❤,And that's a big squishy massage with my big soft boobs-meow❤\nDoes your penis feel happy-meow?❤ Does it feel good-nya?❤,
-にゃあ～ん❤顔が幸せそうに蕩けているにゃあ❤\nエナジーたくさん出して、もっともっと幸せになってほしいにゃあ❤,Nyaan~❤ Your expression is pawsitively melting-nya❤\nI want you to let at all your mana; and feel even happier ok-nya?❤,
-にゃん❤にゃん❤\nわたしのおっぱいまで来てほしいにゃん❤,Meow❤ Meow❤\nYou wanna come and see my boobs-meow?❤,
-おっぱい大好きなお兄ちゃんは、\nこんな風におっぱいで手招きされたら、\nきっと逆らえないにゃ❤,Big boob loving young man;\nthere is no way you can resist when my boobs beckon you in this way-meow~❤,
-おちんちんこの中に入れて、\nきっとたくさん幸せになるにゃん❤\nおいでおいで❤にゃあーん❤,Once your penis is between them;\nI promise you'll feel super happy and blissful❤\nCome come~❤ Meow~❤,
-にゃあん❤お兄ちゃん、こっち来てにゃあ❤\nそうそう、このおっぱいの間にゃ❤,Nyaan~❤ Oh young man; come right this way-meow❤\nThat's it; right between my boobies~❤,
-ここに指でも入れたら気持ちいいにゃあ❤\n指じゃなくて他のところを入れてもいいにゃ❤\nたとえば・・・。,Even putting a finger between them feels purrfect❤\nAnd putting your finger between them isn't the only thing you can do either~❤\nFor example...,
-お兄ちゃんのおっきくなったおちんちん❤\nずぷって中に入れてほしいにゃあ❤\n早く来てにゃあん❤,...you have a wonderful stiff dick too~❤\nI want you to squish it deep between them~❤\nHurry hurry- Ahn~❤,
-お兄ちゃんを簡単に幸せにできるやり方があるのにゃあ❤\nえい❤,And the easiest way to make you happy is like this-meow~❤\nEei❤,
-おっぱいでのご奉仕にゃあ❤\nやわらかーい感触に包まれて、\nおちんちん幸せかにゃ❤気持ちいいかにゃあ❤,With a big boobie servicing-meow!❤\nDoes being wrapped up in soft feelings make your penis happy-meow?❤ Doesn't it feel purrfect-meow?❤,
+にゃあん❤お兄ちゃん、すっかりおっぱいにメロメロにゃ❤\nそんなんじゃ、攻撃なんてできないにゃあ❤,Meow~❤ You're really deep in love with my boobies; aren't-nya?❤\nYou can barely scratch a claw on me~ow.❤
+お兄ちゃんのおっきくなったおちんちん❤\nおっぱいの中に入れてほしいにゃあ❤\n早く来てにゃあん❤にゃん❤,Your penis has become so big~❤\nYou should totally insert it in my boobies~❤\nCome~ Hurry~❤ Meow~❤
+わたしはたくさん福をまねく招き猫♪\nだからお兄ちゃんのこと幸せにしたいにゃあ❤,I am a special kind of cat gives people good fortune♪\nSo I really wanna to make you happy-meow~❤
+おっぱいが大好きなお兄ちゃんを、\n簡単に幸せにできるやり方があるのにゃあ❤\nえい❤,And the easiest way to make a boobie man like you happy is like this-meow~❤\nEei❤
+おっきいおっぱいでのずりずりご奉仕にゃあ❤\nおちんちん幸せかにゃ❤気持ちいいかにゃあ❤,And that's a big squishy massage with my big soft boobs-meow❤\nDoes your penis feel happy-meow?❤ Does it feel good-nya?❤
+にゃあ～ん❤顔が幸せそうに蕩けているにゃあ❤\nエナジーたくさん出して、もっともっと幸せになってほしいにゃあ❤,Nyaan~❤ Your expression is pawsitively melting-nya❤\nI want you to let at all your mana; and feel even happier ok-nya?❤
+にゃん❤にゃん❤\nわたしのおっぱいまで来てほしいにゃん❤,Meow❤ Meow❤\nYou wanna come and see my boobs-meow?❤
+おっぱい大好きなお兄ちゃんは、\nこんな風におっぱいで手招きされたら、\nきっと逆らえないにゃ❤,Big boob loving young man;\nthere is no way you can resist when my boobs beckon you in this way-meow~❤
+おちんちんこの中に入れて、\nきっとたくさん幸せになるにゃん❤\nおいでおいで❤にゃあーん❤,Once your penis is between them;\nI promise you'll feel super happy and blissful❤\nCome come~❤ Meow~❤
+にゃあん❤お兄ちゃん、こっち来てにゃあ❤\nそうそう、このおっぱいの間にゃ❤,Nyaan~❤ Oh young man; come right this way-meow❤\nThat's it; right between my boobies~❤
+ここに指でも入れたら気持ちいいにゃあ❤\n指じゃなくて他のところを入れてもいいにゃ❤\nたとえば・・・。,Even putting a finger between them feels purrfect❤\nAnd putting your finger between them isn't the only thing you can do either~❤\nFor example...
+お兄ちゃんのおっきくなったおちんちん❤\nずぷって中に入れてほしいにゃあ❤\n早く来てにゃあん❤,...you have a wonderful stiff dick too~❤\nI want you to squish it deep between them~❤\nHurry hurry- Ahn~❤
+お兄ちゃんを簡単に幸せにできるやり方があるのにゃあ❤\nえい❤,And the easiest way to make you happy is like this-meow~❤\nEei❤
+おっぱいでのご奉仕にゃあ❤\nやわらかーい感触に包まれて、\nおちんちん幸せかにゃ❤気持ちいいかにゃあ❤,With a big boobie servicing-meow!❤\nDoes being wrapped up in soft feelings make your penis happy-meow?❤ Doesn't it feel purrfect-meow?❤
 おちんちん、この中に入れたら、\nきっとたくさん幸せになるにゃん❤\nおいでおいで❤にゃあーん❤,
 にゃあん、わたしにエッチなことしてほしいのかにゃ？\nそんなに必死に頼まなくても、もちろんしてあげるのにゃん❤,
 お兄ちゃんに幸せになってもらえるのは\nわたしもとっても嬉しいのにゃん❤\nおっぱいを使っていっぱい気持ちよくしてあげるにゃん❤,
@@ -75,21 +75,21 @@ EU40_paizuriAnime,
 にゃ～ん❤\nすごいにゃここまで届いたにゃ❤\nおっぱいにお兄ちゃんの精液がたくさんだにゃ～ん❤,
 ますたーのお兄ちゃん、とっても幸せそうに負けれたにゃん❤\nそんなあへぇって顔になってくれて、うれしいのにゃん❤,
 このお兄ちゃんもとっても幸せそうな顔になったにゃん❤\n他のお兄ちゃんも幸せにしてあげたいにゃん❤\nおいでおいで❤にゃんにゃん❤,
-にゃあん❤お兄ちゃん❤逃げちゃいやにゃあ❤\nもっともっとおっぱいの近くにきて欲しいにゃん❤,Meow~❤ Oh mister~❤ Don't run away-meow❤\nI want you to get even more acquainted with my boobs~❤,
-わたしのおっぱい手招き見ててほしいにゃん❤\nにゃあ～ん❤おっぱいの中に～来て来てにゃ～ん❤,I want you to look at my beckoning boobies-meow~❤\nNyaahn~❤Right between my boobs~ Come on~ Get right between them~❤,
-そうにゃん❤お兄ちゃんのおちんちん、ずぷっていれるにゃ～ん❤にゃん❤,That's it-meow❤ I can feel your cock throbbing between them-nya❤ Meow~❤,
-とっても幸せそうな顔だにゃん❤\n最後にぎゅ～ってするから、\n沢山出してもっと幸せになるにゃん❤ぎゅ～～～❤,You look really happy-nya❤\nI'll give you one finaly squeeze OK?\nLet everything all out and become happy-meow❤ Squeeze~~~❤,
-どうして離れちゃうのかにゃん…。\nお兄ちゃんのおちんちん、とっても苦しそうだにゃん❤\nちゃんと幸せにしてあげたいにゃ～ん❤,Aww why did you pull away-meow...\nYour penis looks so sad and needy-meow~❤\nI want to finish making you happy...❤,
+にゃあん❤お兄ちゃん❤逃げちゃいやにゃあ❤\nもっともっとおっぱいの近くにきて欲しいにゃん❤,Meow~❤ Oh mister~❤ Don't run away-meow❤\nI want you to get even more acquainted with my boobs~❤
+わたしのおっぱい手招き見ててほしいにゃん❤\nにゃあ～ん❤おっぱいの中に～来て来てにゃ～ん❤,I want you to look at my beckoning boobies-meow~❤\nNyaahn~❤Right between my boobs~ Come on~ Get right between them~❤
+そうにゃん❤お兄ちゃんのおちんちん、ずぷっていれるにゃ～ん❤にゃん❤,That's it-meow❤ I can feel your cock throbbing between them-nya❤ Meow~❤
+とっても幸せそうな顔だにゃん❤\n最後にぎゅ～ってするから、\n沢山出してもっと幸せになるにゃん❤ぎゅ～～～❤,You look really happy-nya❤\nI'll give you one finaly squeeze OK?\nLet everything all out and become happy-meow❤ Squeeze~~~❤
+どうして離れちゃうのかにゃん…。\nお兄ちゃんのおちんちん、とっても苦しそうだにゃん❤\nちゃんと幸せにしてあげたいにゃ～ん❤,Aww why did you pull away-meow...\nYour penis looks so sad and needy-meow~❤\nI want to finish making you happy...❤
 どうかにゃ？わたしのおっぱい❤気持ちいいかにゃあ❤,
-にゃん❤おちんちんがぴくぴくしてるにゃ❤,Nyah❤Your penis is twiching~❤,
-おっぱいでおちんちんをぎゅ～っ❤にゃあん❤,That's it~ Squeeze my boobs around your penis~ Squeeze~❤ Nyaahn~❤,
-お兄ちゃんの気持ちよさそうな顔がもっと見たいにゃん❤,You have such a blissful expression right now; I wanna see more of it meow!❤,
-もっともっと幸せにしてあげたいにゃん❤ご奉仕頑張るにゃ❤,I want to make you really really happy-meow❤ I'll give you the best service ever-meow!❤,
-ぱんぱん❤もっと強く突いても大丈夫だにゃん❤ちゃんと受け止めるにゃん❤,Slap slap slap❤ It's okay to thrust more forcefully-nya~ ❤ I'll take it properly-meow!❤,
-んしょ❤んしょ❤このままじっとしてて欲しいにゃあん❤,Mm~ That's it~❤ There you go~❤I want you to keep staying still just like that-meow~❤,
-むぎゅむぎゅ❤おっぱいの中は幸せでいっぱいにゃ～ん❤もっと腰を押し付けるにゃん❤,Squeeze~ Squish~❤Feel the bliss between my boobies-nya❤ Keep humping my boobs just like that-nya❤,
-逃げちゃいやだにゃん❤おちんちんはもっとおっぱいの中にいたいって言ってるにゃん❤,You musn't run away-nya.❤ Your penis is saying it wants to be between my boobs for even longer-meow❤,
-我慢は身体に毒だにゃん❤気持ち良く出しちゃった方が幸せになれるにゃん❤,Self control is bad for your body-meow.❤ You need to let it all out blissfully so you can be happy-meow❤,
+にゃん❤おちんちんがぴくぴくしてるにゃ❤,Nyah❤Your penis is twiching~❤
+おっぱいでおちんちんをぎゅ～っ❤にゃあん❤,That's it~ Squeeze my boobs around your penis~ Squeeze~❤ Nyaahn~❤
+お兄ちゃんの気持ちよさそうな顔がもっと見たいにゃん❤,You have such a blissful expression right now; I wanna see more of it meow!❤
+もっともっと幸せにしてあげたいにゃん❤ご奉仕頑張るにゃ❤,I want to make you really really happy-meow❤ I'll give you the best service ever-meow!❤
+ぱんぱん❤もっと強く突いても大丈夫だにゃん❤ちゃんと受け止めるにゃん❤,Slap slap slap❤ It's okay to thrust more forcefully-nya~ ❤ I'll take it properly-meow!❤
+んしょ❤んしょ❤このままじっとしてて欲しいにゃあん❤,Mm~ That's it~❤ There you go~❤I want you to keep staying still just like that-meow~❤
+むぎゅむぎゅ❤おっぱいの中は幸せでいっぱいにゃ～ん❤もっと腰を押し付けるにゃん❤,Squeeze~ Squish~❤Feel the bliss between my boobies-nya❤ Keep humping my boobs just like that-nya❤
+逃げちゃいやだにゃん❤おちんちんはもっとおっぱいの中にいたいって言ってるにゃん❤,You musn't run away-nya.❤ Your penis is saying it wants to be between my boobs for even longer-meow❤
+我慢は身体に毒だにゃん❤気持ち良く出しちゃった方が幸せになれるにゃん❤,Self control is bad for your body-meow.❤ You need to let it all out blissfully so you can be happy-meow❤
 うう、痛いにゃ。もう攻撃しないでほしいにゃあ・・・。,
 わたしはお兄ちゃんに幸せになって欲しいだけなのにゃ\n我慢のしすぎでおちんちんがとっても苦しそうだにゃ。,
 わたしのおっぱい❤よくみて欲しいにゃあ❤\nおちんちんを挿れたら絶対幸せになれるむちむちおっぱいにゃん❤,
