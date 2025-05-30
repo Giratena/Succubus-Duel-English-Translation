@@ -21,43 +21,43 @@ E級のカードマスター。癒しの力を軸にしたデッキを使用す�
 わたしのターンからですね。,It’s my turn.
 ドローします。,Draw.
 わたしのターン、ドロー。,It’s my turn; draw.
-{使用カード}を上級召喚いたします。,Summon {使用カード}!
-{使用カード}を召喚します！,Summon {使用カード}!
+{使用カード}を上級召喚いたします。,Summon; {使用カード}!
+{使用カード}を召喚します！,Summon; {使用カード}!
 ううっ、あうう・・・❤,Hauuu...❤
 うふふ❤一度女神さまの教えを味わったその体では、\nもはや戦う意思を保てぬようですね❤,Fufu~❤ You shall quickly lose your fighting spirit now that your body has tasted the teachings of our Goddess~❤
 何度肉体を再付与されようと意味のないことです❤\n魂に染みついた愛はぬぐえないのですから。\nさあ、またあなたに愛を体験させ、すぐに昇天させてさしあげますね❤,Once it has been engraved on your soul; it can never be washed away. It’s no use; no matter how many times you come back~❤ Come; I’ll let you experience my love and make you ascend once again~❤
-さらにもう1枚発動！,And activate one more card!
-ターン終了時に{使用カード}の効果発動！味方全員を回復させます。,When the turn ends; activate {使用カード}’s effect! Heal all allies.
-ターン終了時に{使用カード}の効果発動！味方全員のHPを300ポイント回復です。,When the turn ends; activate {使用カード}’s effect! Heal all allies for 300 HP.
-ターン終了時に{使用カード}の効果発動！味方全員のHPを200ポイント回復です。,When the turn ends; activate {使用カード}’s effect! Heal all allies for 200 HP.
-召喚時に{使用カード}の効果発動！処刑人モンスターに「再生」を付与！,When summoned; activate {使用カード}’s effect! Grant all Executioner-type monsters [Regeneration]!
-召喚に成功したとき、{使用カード}の効果発動！処刑人モンスターに永続的な回復効果を付与！,When successfully summoned; activate {使用カード}’s effect! Grant all Executioner-type monsters a permanent healing effect!
-敵モンスターを墓地へ送ったとき{使用カード}の効果発動！処刑人モンスターに「再生」を付与！,When an opponent monster is sent to the graveyard; activate {使用カード}’s effect! Grant all Executioner-type monsters [Regeneration]!
-{使用カード}の効果を発動！処刑人モンスターたちに再生能力を付与です！,Activate {使用カード}’s effect! Grant all Executioner-type monsters the ability to regenerate!
-雷撃よ、敵を打ち倒せ。{使用カード}を発動！,Lightning; strike down my enemies. Activate {使用カード}!
-{使用カード}を発動します！相手モンスター全体に500ダメージです！,Activate {使用カード}! Deal 500 damage to all enemy monsters!
+さらにもう1枚発動！,And I'll activate one more card!
+ターン終了時に{使用カード}の効果発動！味方全員を回復させます。, {使用カード}’s effect heals all my cards at the end of the turn!
+ターン終了時に{使用カード}の効果発動！味方全員のHPを300ポイント回復です。,At the end of a turn; {使用カード}’s effect heals all allies for 300 HP.
+ターン終了時に{使用カード}の効果発動！味方全員のHPを200ポイント回復です。,At the end of a turn; {使用カード}’s effect heals all allies for 200 HP.
+召喚時に{使用カード}の効果発動！処刑人モンスターに「再生」を付与！,When {使用カード} is summoned; all my Executioner-type monsters gain [Regeneration]!
+召喚に成功したとき、{使用カード}の効果発動！処刑人モンスターに永続的な回復効果を付与！,When {使用カード} is summoned; all my Executioner-type monsters gain a permanent healing effect!
+敵モンスターを墓地へ送ったとき{使用カード}の効果発動！処刑人モンスターに「再生」を付与！,When an opponent monster is sent to the graveyard; {使用カード}’s effect grants all Executioner-type monsters [Regeneration]!
+{使用カード}の効果を発動！処刑人モンスターたちに再生能力を付与です！, {使用カード}; activate! All my Executioner-type monsters gain the ability to regenerate!
+雷撃よ、敵を打ち倒せ。{使用カード}を発動！,Lightning; strike down my enemies. {使用カード}; activate!!
+{使用カード}を発動します！相手モンスター全体に500ダメージです！, {使用カード}; activate! Deal 500 damage to all enemy monsters!
 永続魔法{使用カード}を発動！ターン終了時ごとに味方を回復します。,Activate continuous spell; {使用カード}! Heal all ally monsters when the turn ends.
 永続魔法{使用カード}を発動！味方全員を毎ターン回復します！,Activate continuous spell; {使用カード}! Heal all ally monsters every turn!
-ライフを1000払い、永続魔法カード"{使用カード}"発動！,Pay 1000 LP to activate the continuous spell; {使用カード}!
+ライフを1000払い、永続魔法カード"{使用カード}"発動！,I'll pay 1000 LP to activate the continuous spell; {使用カード}!
 ライフを1000払い、永続魔法"{使用カード}"発動！自分のモンスターは回復のたびに攻撃力がアップします！,Pay 1000 LP to activate the continuous spell; {使用カード}! When my allied monsters are healed; increase their attack power!
-ライフを1500払い、{使用カード}を発動！デッキから天使モンスターを特殊召喚！,Pay 1500 LP to activate the spell; {使用カード}! Special summon an Angel-type monster from the deck!
-わたしのライフをコストに{使用カード}を発動！デッキから天使モンスターを特殊召喚！,Sacrifice LP to activate the spell; {使用カード}! Special summon an Angel-type monster from the deck!
-敵の呪文から味方を守る盾となれ。{使用カード}を発動！このターンの間、効果ダメージを半減させます！,Become a shield to protect my allies from the spells of my enemy! Activate {使用カード}! For this turn; damage taken is reduced by half!
-無駄です！「{使用カード}」を発動！このターンの間、炎属性の効果ダメージを回復に変換します！,It’s useless; activate [{使用カード}]! For this turn; change damage from Fire Attribute card effects into healing!
+ライフを1500払い、{使用カード}を発動！デッキから天使モンスターを特殊召喚！,I pay 1500 LP to activate {使用カード} and special summon an Angel-type monster from my deck!
+わたしのライフをコストに{使用カード}を発動！デッキから天使モンスターを特殊召喚！,I sacrifice LP to activate the spell; {使用カード} and special summon an Angel-type monster from my deck!
+敵の呪文から味方を守る盾となれ。{使用カード}を発動！このターンの間、効果ダメージを半減させます！,Become a shield to protect my allies from the spells of my enemy! {使用カード}; activate! For this turn; the damage my allies and I take is reduced by half!
+無駄です！「{使用カード}」を発動！このターンの間、炎属性の効果ダメージを回復に変換します！,It’s no use! {使用カード}; activate! For this turn; any damage from Fire Attribute card effects will heal everyone instead!
 装備魔法カード発動！{使用カード}！,Activate magical equipment card; {使用カード}!
 魔法カードを発動！{使用カード}！,Activate spell card; {使用カード}!
 トラップカードを発動します！{使用カード}！,Activate trap card; {使用カード}!
 カードをセット。,Card set.
 カードを伏せます。,I'll place this card face down.
-わたしと楽しいことしましょ？{防御カード}を攻撃！,Let’s feel good together. I'll attack {防御カード}!
-気持ちよくしてあげますね。{防御カード}を攻撃！,I’ll make you feel good. Come; {防御カード}!
+わたしと楽しいことしましょ？{防御カード}を攻撃！,Don’t you want to feel good together with me? I'll attack {防御カード}!
+気持ちよくしてあげますね。{防御カード}を攻撃！,I’ll make you feel good; yes? Come; {防御カード}!
 {使用カード}で{防御カード}を攻撃します！,{使用カード}; attack {防御カード}!
 うう、なにもできませんね…。ターンエンドです。,Ugh; I can’t do anything... Turn end.
 このターンは身動きが取れません…。ターンエンド。,I can’t make an action this turn... Turn end.
 ターン終了です。,Turn finished.
 わたしのターンはおわりです。ターンエンド,My turn’s over. Turn end.
 こんなところですね。ターンエンド。,That should be enough. Turn end.
-むぅ、攻撃を妨害されるとは…。,Aww; my attack was blocked...
+むぅ、攻撃を妨害されるとは…。,Oh dear; my attack was blocked...
 服の上からでも分かるぐらい大きな胸が自慢なんです。\n戦った相手からは、とてもやわらかいと評判なんですよ❤,I’m sure you know how large my breasts are; even through my outfit. I’m quite proud of them. My opponents always tells me how soft they are~❤
 あなたのこともたっぷりこの胸で癒してさしあげますね❤\nさあ、骨抜きになってくださいな❤,I shall soothe you; too; with my these breasts~ Now; please; allow me to weaken you~❤
 わたしたちの教義では、\n相手のことを癒すことを最も善いこととしています。,In our faith; comforting someone is considered to be the greatest deed you can perform.
@@ -140,8 +140,8 @@ E級のカードマスター。癒しの力を軸にしたデッキを使用す�
 うふふ❤まだ顔をおっぱいで挟んであげただけ、それなのにとても可愛い声を出しますね❤,Ufufu~❤ I have only just taken your face into my breats and you’re already letting out such cute moans.❤
 さきほどもわたしの胸に見とれてオナニーして負けてしまったんですものね。おっぱい好きなんでしょう？くすくす❤,Even earlier; you lost by rubbing yourself to my chest. You really love breasts; don’t you? Giggle~❤
 さきほどもぱふぱふだけでイかされたようなあなたですからね…❤この感触たまりませんか？さっきの射精の気持ちよさ、思い出してしまいますね。くすくす❤,Even earlier; you came from having breasts pressed to your face...❤ They are irresistable; aren't they? You can’t help but remember how pleasurable it was. Giggle~❤
-移動の間、少しずつ収まっていた勃起も、あっという間に元に戻ってしまいました。わたしのふとももに固いのが当たっていますよ。,Your arousal had subsided on our journey here; but it immediately returned when I welcomed you into my breasts that. I can feel it pressing against my thighs.
-あら？さっきと同じどころか、さらに固く大きくなっているみたい…❤女に上に乗られて弄ばれているのに…。くすくす❤そういう性癖みたいですね❤,What's this? You may actually be more aroused now than earlier...❤ Despite a women is mounting you and teasing you like this... Giggle~❤ Perhaps that is what you enjoy~❤
+移動の間、少しずつ収まっていた勃起も、あっという間に元に戻ってしまいました。わたしのふとももに固いのが当たっていますよ。,Your arousal had subsided on our journey here; but it immediately returned when I welcomed you into my breasts. I can feel it pressing against my thighs.
+あら？さっきと同じどころか、さらに固く大きくなっているみたい…❤女に上に乗られて弄ばれているのに…。くすくす❤そういう性癖みたいですね❤,What's this? I sense you are more aroused now than earlier; despite the fact a women is mounting you and teasing you like this... Giggle~❤ Perhaps that is what you enjoy~❤
 知ってます？女に上に乗られて喜ぶ人のことをマゾって言うんですよ❤わたしたちの教えにとってマゾの人はとても相性がいいんです…❤,Did you know? Men who like being mounted by a women like this are called “Masochists”~❤ And masochists are perfect for our faith...❤
 だって、そうでしょう？マゾの人はこうやって上から無理やりおっぱいを押しつけてあげるだけで、簡単にメロメロになってしまいますから…❤,But that should be obvious; no? After all; masochists are easily infatuated when someone gets on top and force their breasts on them like this...❤
 はひぃっ…❤あっ、あっぁ…❤気持ちいいぃ❤,Hahiee...❤ Ahh; ahh...❤ So good~❤
@@ -150,20 +150,20 @@ E級のカードマスター。癒しの力を軸にしたデッキを使用す�
 上に乗られてぱふぱふされているだけなのに、心はどろどろ❤気持ちよくて気持ちよくて頭の中が溶けそう❤,Your heart’s turning into mush despite having a woman mounted on top of you and pressing her breasts against your face~❤ You’ll keep feeling more and more pleasure until you find yourself in bliss~❤
 女に屈服したいんですよね❤あなたの本性がそれを望んでいるんですよね❤ほら、おちんちんの方にもしっかり快楽を与えてあげます。体を上下に動かしてっと…❤,I know that you want to submit yourself to a woman~❤ Deep down; that is what you truly desire~❤ Here; I’ll also pleasure your dick by moving my body up and down...❤
 あふぁ❤なにこれぇ、あへぇ…❤,Ahh...❤ What are you... Ahiee...❤
-ふふふ❤あなたのおちんちん、どこかに挿れてしまいました。ぎゅって包み込まれて気持ちいいですか？,Fufu~❤ I wonder where your dick went. Does it feel good when I squeeze it tightly?
-エッチの経験が少ないあなたには今何されているかよく分からないでしょう？太ももでしごいているのか、それともわたしのナカに入れられているのか…❤,I wonder; can someone without any sexual experience like you figure it out? Whether you’re being rubbed by my thighs; or whether you’re actually inside of me...❤
-もしかして童貞卒業かもしれませんね。ほら、おっぱいに埋もれながらたくさん妄想していいですよ…❤くすくす❤,Maybe you’re actually losing your virginity right now. Come now; imagine it as I bury you in my breasts~❤ Giggle~❤
+ふふふ❤あなたのおちんちん、どこかに挿れてしまいました。ぎゅって包み込まれて気持ちいいですか？,Fufu~❤ I wonder where your dick went? Does it feel good when I squeeze it tightly?
+エッチの経験が少ないあなたには今何されているかよく分からないでしょう？太ももでしごいているのか、それともわたしのナカに入れられているのか…❤,I wonder; can someone without any sexual experience like you can work out if you’re being rubbed by my thighs; or if you’re actually inside of my pussy...❤
+もしかして童貞卒業かもしれませんね。ほら、おっぱいに埋もれながらたくさん妄想していいですよ…❤くすくす❤,Maybe you’re actually losing your virginity right now? Come now; imagine it as I bury you in my breasts~❤ Giggle~❤
 きもちいいよぉ…❤あったかくてぇ…❤あうう、もうだめぇ…❤,It feels too good...❤ So warm...❤ Ahhhh; no more...❤
 はいはい。どうぞ負けちゃってください❤射精と同時に、女の子に負ける気持ちよさをたくさん体にしみこませてくださいね❤,It's alright. Go ahead and surrender~❤ Bask in the pleasure of losing to a woman as you cum~❤
 わたしの体温に包まれながら、わたしに深く深く屈服するんです。とっても気持ちいいですよ❤ほら、腰を上下に激しくぐちゅぐちゅ動かします❤,You’ll find yourself submitting to me deep inside of your body as you are embraced by my warmth. It will feel so wonderful~❤ Please; allow me to move my hips even faster~❤
 あうっ…❤あっ…❤ああっ…❤で、出るぅ…❤,Hauu...❤ Ahh...❤ Aahhh...❤ C-Cumming...❤
 んふふ、熱いのがドクンドクンって…。こぼれちゃいそうです❤,Fufu; it's pouring out so hot... There's so much; it feels like it might spill out~❤
 どうでしたか？女に負けて幸せになれましたか❤くすくす❤,So; how was it? Did you find yourself happy losing to a woman?❤ Giggle~❤
-さてと、それじゃ解放してあげますね。あんまりエナジーをいただいてはかわいそうですから。,Well then; it’s time for me to release you. It wpi;d be bad if I were to take your mana any further than this.
+さてと、それじゃ解放してあげますね。あんまりエナジーをいただいてはかわいそうですから。,Well then; it’s time for me to release you. It would be bad if I were to take your mana any further than this.
 あっ…❤ううっ…❤おわりっ…？も、もっとぉ…❤,Ahh...❤ Uuuu...❤ Over...? I-I want more...❤
 くすくす❤うわごとでおねだりしちゃってますね❤そんなによかったのですか？,Giggle~❤ Even in your delirious state; you’re still begging for more~❤ Did it really feel that good?
-もちろん、"かわいそう"というのはあなたたちの価値観から考えた評価です。わたしたちの教えに基づけばこれ以上の性交も、"かわいそう"ではありません。,Naturally when I said “bad”; that’s based upon your own values. According to our beliefs; it would actually be good to continue our sexual activities.
-カードマスターから戦う力である魔力を奪っても、それはむしろ"素晴らしいこと"。なぜなら男の人を戦いから遠ざけ、守ってあげているのですから。,Our faith believes that sexual activities which take away mana from male cardmasters are actually a wonderful thing. That is because it’ll keep men further away from the battlefield; and thus protecting them at the same time.
+もちろん、"かわいそう"というのはあなたたちの価値観から考えた評価です。わたしたちの教えに基づけばこれ以上の性交も、"かわいそう"ではありません。,Of courseb when I said “bad”; that’s based upon your own values. According to our beliefs; it would actually be good to continue our sexual activities.
+カードマスターから戦う力である魔力を奪っても、それはむしろ"素晴らしいこと"。なぜなら男の人を戦いから遠ざけ、守ってあげているのですから。,Our faith believes sexual activities that take mana from male cardmasters are a good thing; because it’ll keep men away from the battlefield; and thus protecting them at the same time.
 さて、どうしますか？あなたはわたしたちの教えに帰依しますか？もし帰依するのであれば、このまま続きをいたしましょう。,So; what will it be? Will you become a convert? If you choose to become one; then I shall continue to pleasure you.
 さっきから切なげに震えているあなたのペニスは、もう答えが決まっているようですけれど。くすくす❤,But I think I know what your answer is since your dick has been trembling all this time. Giggle~❤
 冒険をあきらめますか？,Give up on your adventure?
