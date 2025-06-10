@@ -1,5 +1,5 @@
 default
-闘技場のスリ,
+闘技場のスリ,Colloseum Thief
 NPC20_paizuriAnime,
 NPC20_paizuriAnime2,
 わぁー、あなたカードマスターですよね！\nそれもDランク！わたしあなたのファンなんです！,Wow, you're a cardmaster, right? And a D-rank too! I'm such a big fan!
