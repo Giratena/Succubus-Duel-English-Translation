@@ -1,6 +1,6 @@
 default
 妖狐,Fox Spirit
-怪しい術を使う妖怪の狐。男をたぶらかすのが得意で、パイズリがうまい。ネネコに使われているが、キツネは犬の仲間であるため、彼女の猫カードのサポートをあまり受けられていない。,
+怪しい術を使う妖怪の狐。男をたぶらかすのが得意で、パイズリがうまい。ネネコに使われているが、キツネは犬の仲間であるため、彼女の猫カードのサポートをあまり受けられていない。,A yokai fox with mysterious magic powers. She's skilled at seducing men and is particularly good at performing paizuri. Although she is loyal to Neneko; her cat cards don’t offer her much support—because foxes are dogs; and cats don’t like dogs.
 [1].このカードが召喚に成功した時発動する。デッキから「妖怪変化」を１枚手札に加える。\n[2].このカードがフィールド上に４ターン以上存在する場合、以下の効果を持つ。\n・自分ターン終了時に発動する。このカードのコピーを自分フィールド上に特殊召喚する。,
 [3].このカードが手札から捨てられたときに発動する。自分フィールド上のランダムな闇属性モンスター１体のコピーを自分フィールド上に特殊召喚する。,
 EU45_paizuriAnime,
