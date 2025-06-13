@@ -54,7 +54,7 @@ Place/Colosseum,
 街に戻る,To Town
 今は先にギルドに行って昇格の手続きを終わらせよう（クエストメニューから昇格手続きが行えます）。,I should go to the guild and complete the promotion procedure first (you can do the promotion procedure from the quest menu).
 今は先にクエストを終わらせよう。,I should finish my quest first.
-ギルドで説明を受けた闘技場に、僕は足を運んでいた。,I made my way to the colosseum I had heard so much about at the guild.
+ギルドで説明を受けた闘技場に、僕は足を運んでいた。,I made my way to the colosseum I had heard about at the guild.
 街中とはまるで違う雰囲気を肌で感じる。周りに見えるカードマスター達の闘志だろうか。,Perhaps it was the fighting spirit of the cardmasters around me; but the atmosphere felt completely different from the city. 
 ここでのカードバトルは更に厳しいものになるだろう。この空気に飲まれないよう、僕は心を奮い立たせた。,The card battles here will no doubt be more intense than the ones I've faced so far. I steeled my resolve; determined to not be overwhelmed by the atmosphere.
 初めまして。闘技場への参加をご希望でしょうか？,Nice to meet you. Would you like to participate in the colosseum?
@@ -64,7 +64,7 @@ Place/Colosseum,
 再度話しかけていただければ、本日からでも対戦を組むことができますので、準備ができたらお声がけくださって構いませんよ。,If you speak to me again; we can arrange a match starting today; so feel free to let me know when you're ready.
 おや、あんた新人選手かい？\nそのリングの色、Dランクだね。,Oh hey; you're a rookie; aren't you? That ring color means you're a D-rank; right?
 闘技場では普段からカードマスターたちが試合をして\nその腕を競っているんだ。\n祭りの間はとくに試合が盛りだくさんさ。,In the colosseum; cardmasters usually compete in matches to showcase their skills. During the festival; matches here are especially common.
-国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather and have fierce battles... Ah; the pull of it all is just irresistible; don't you think?
+国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather and have fierce battles... Ah; the excitment of it all is just intoxicating; don't you think?
 でもよ、最近は女マスターばっかり勝っててつまらねえ。\nもっと剣と剣がぶつかるような戦いを、前みたいに見たいもんだ。\n男としてあんたには期待してるぜ！,But you know; lately it's only been female masters winning; and it's actually starting to get pretty boring. I want to see battles where swords clash like they used to. So as a guy; I'm counting on you!
 闘技場って、中にいるだけで何だかワクワクしてくるよな。,The colosseum... Just being here makes you a bit excited; doesn't it?
 祭りの間はそこかしこでカードマスターたちが戦っているけど、\n闘技場はやっぱ真剣勝負の場って感じで雰囲気が違うぜ。\nああ、俺もカードマスターだったら参加してみてぇなぁ。,During the festival; cardmasters are battling all over the city; but the colosseum really feels like the place for more serious matches. The atmosphere just feels so different. Ah; if I were a cardmaster; I'd want to participate; too.
@@ -74,7 +74,7 @@ Place/Colosseum,
 祭りが始まる前まではサキュバスのカードなんて見たことがなかったんだけどなぁ。時代は変わったもんだ。,Before the festival started; I'd never even seen a succubus card. Times have really changed.
 この祭りが始まる少し前からかしら、\n闘技場での戦いがだいぶ様変わりしたのよね。,I guess it was just before this festival started that the battles in the colosseum changed quite a bit; wasn't it?
 前からエッチな攻撃をするカードマスターはいたのだけれど、\n急にサキュバスのモンスターを使うマスターが増えたというか…。,There were always cardmasters who used lewd attacks; but suddenly more and more masters started using succubus monsters...
-悪魔タイプ自体かなり珍しかったと思うし、\nなんでこんなにサキュバスモンスターが増えたのかしら。\n新しい遺跡で珍しいパックでも出たとか？,I think demon-types themselves were pretty rare before; so why have there been so many succubus monsters recently? Did they find a new rare pack out in the freshly-found ruins or something?
+悪魔タイプ自体かなり珍しかったと思うし、\nなんでこんなにサキュバスモンスターが増えたのかしら。\n新しい遺跡で珍しいパックでも出たとか？,I think demon-types themselves were pretty rare before; so why have there been so many succubus monsters recently? Did they find a rare pack in those new ruins or something?
 ねえ、ねえ、男のひとって、\nなんであんなに簡単に女のモンスターに負けちゃうの？,Hey; hey; why do guys lose so easily to female monsters?
 観客席からだと、遠くて何やってるかよくわからないの。\nモンスターもマスターも魔力のバリアがあって、\n剣で斬っても簡単にはやられないはずなのに・・・。,The audience's seats are too far away to see exactly what's happening. Both the monster and the master have magical barriers; so they shouldn't be beaten easily; even if they get slashed or stabbed...
 女の子モンスターに抱き着かれたら、\nすぐビクビクってふるえてそのままやられちゃうんだよ。\nへんなのー。,But if a girl monster hugs him; the guy starts starts trembling and get taken down; just like that. It's really weird.
@@ -84,9 +84,9 @@ Place/Colosseum,
 いまよりずっと昔、闘技場が罪人の戦いを見る場所だったころ、\nそのころは罪人をなぶるのを見世物にして、\n勝者は敗者を好きにできる決まりになっていたそうなの。,Long ago; the colosseum was a place to watch criminals fight one another. It's said it was a spectacle to torment the criminals; and the victor had the right to do as they pleased with the vanquished.
 野蛮な風習がなくなった今でも、\nそのころの名残で闘技場の勝者が敗者を好きにできる習慣が\n残っているのだそうよ。,Even though the more barbaric customs have disappeared; it seems that remnants of that time still linger; allowing the winners of the colosseum to do as they please with the losers.
 ちなみに男のマスター同士の場合、魔力補給の名分がないから\n勝っても何かしたりできないの。\nそこは野蛮じゃなくていいわね。,By the way; when it's two male masters fighting; there's no pretext for mana replenishment; so even if you win; you can't really do anything to them. At least that part isn't so barbaric; right?
-なあ、アンタ、Dランクで最強のマスターって誰だと思う？\nやっぱり俺はミレーヌさんだね。,Hey; who do you think is the strongest master in D-rank? I think it's probably still Mylene; right?
+なあ、アンタ、Dランクで最強のマスターって誰だと思う？\nやっぱり俺はミレーヌさんだね。,Hey; who do you think is the strongest master in D-rank? If you ask me; it's gotta be Mylene.
 いや、ミレーヌさんがレベルの高いモンスターを使えないのは\n俺も知ってるよ。でも、あのおっぱい。あんなの見たら、\n俺だったら即戦意を喪失しちゃうよ。,I know she can't use high-level monsters; but those boobs... If I saw those; I'd lose all my fighting spirit right away!
-実際、男相手の戦績はかなりいいみたいだしな。\nアンタも男のマスターだし、きっとミレーヌさんには勝てねえぜ。,Actually; it seems her track record against men is pretty impressive. So since you're a male master too; there's no way you'd win against Mylene.
+実際、男相手の戦績はかなりいいみたいだしな。\nアンタも男のマスターだし、きっとミレーヌさんには勝てねえぜ。,Actually; it seems her track record against men is pretty impressive. You're a male master too; so there's no way you'd win against Mylene.
 ん・・・。あなたのこと見たことあるような・・・。\nああっ、噂のルーキーくんじゃない？\nきゃー、近くで見るとけっこうかわいいのね❤,Hmm... I feel like I've seen you somewhere before... Oh; aren't you the rookie everyone's talking about? Wow; you're actually pretty cute up close; huh?❤
 ミレーヌさんとの試合見てたわよー。\nあんなセクシーな人にまで勝っちゃうなんて、\n我慢強くてすごいじゃない。,I watched your match with Mylene. You must have pretty good endurance to win against someone as sexy as her. You're really impressive.
 サキュバスにも勝ったんでしょ？\n男ってすぐ色気でふらふらになっちゃうやつらばっかりだから、\nあなたみたいな硬派な子ってかっこいいわ。,You even beat a succubus too; right? Most guys are so easily swayed by charm; so a tough guy like you is really cool.
@@ -207,7 +207,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 カードには色々な属性がありますが、\nDランク以上のマスターの場合、\n使用する属性を１つに限定しているマスターが多いみたいですね。,Cards have various attributes; but it seems that for masters ranked D and above; many tend to limit themselves to using just one; right?
 やはり属性サポートの強力なカードが使えるのが大きいのでしょう。\nしかし、属性に頼り切っていると、オクタ選手のような\n相手の属性を変えるカードに足元をすくわれることもあります。,It makes sense since being able to use powerful cards that support specific attributes is really helpful. If you rely too much on attributes; however; you might find yourself at a disadvantage against cards like the ones Octa uses; which can change the opponent's attribute.
 属性変化のカードは希少ですから使い手は多くありません。\nしかし、一応そういう妨害も頭に入れたうえでデッキを組むのは\n重要かもしれませんね。,Cards that change attributes are rare; so there aren't many masters who use them. Still; it might be useful to keep such disruptions in mind when building a deck; don't you think?
-「オーバーキル」という言葉を知っていますか？\n相手モンスターにとどめを刺す際に、\nHP以上にダメージを与えて倒すことを「オーバーキル」といいます。,Do you know the term "overkill"? It refers to dealing more damagae than the opponent has HP left to finish it off.
+「オーバーキル」という言葉を知っていますか？\n相手モンスターにとどめを刺す際に、\nHP以上にダメージを与えて倒すことを「オーバーキル」といいます。,Do you know the term "overkill"? It refers to dealing more damage than the opponent has HP left to finish it off.
 例えば相手のＨＰが800ポイントのとき、\n魔法カードで300ダメージを与え、その後攻撃力800のモンスターで\n攻撃したら、完全に魔法カードが１枚無駄になっています。,For example; if the opponent's HP is 800; and you deal 300 damage with a magic card before attacking with a monster that has 800 attack; then your magic card was a total waste!
 そんなバカなことはしないと思うかもしれませんが、\n相手モンスターが複数いたりすると、\nけっこうこの手のプレイングミスは起こりがちです。,You might think that no one would make such a silly mistake; but when your opponent has multiple monsters; these kinds of misplays can happen pretty easily.
 こちらの与えられるダメージと相手のＨＰを正確に把握し、\n攻撃手段を効率よく分配できるかどうかは、\n強いカードマスターになる鍵ですね。,Accurately understanding the damage you can deal and the opponent's HP so you can efficiently distribute your attack methods is key to becoming a strong cardmaster; don't you think?
@@ -303,7 +303,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 {%%40327}を手に入れた！,I got {%%40327}!
 なんだい。一回勝ったぐらいで有名人気取りかい。\n気前のよかったアンタが、\nケチになっちゃうなんて、わたしゃ悲しいね。,What's up? Just because you won once; you think you're too famous for autographs now? It's sad to see someone who used to be so generous become so stingy; don't you think?
 何も買わないなら帰っておくれ。\nこの珍しいカードもほかの人に売っちまうよ。,If you're not going to buy anything; then just go home. I'll sell this rare card to someone else!
-おや、自分のサインがどれぐらい売れてるのか見に来たのかい？\nまあまだ一勝だからね。\n闘技場のマニアがちょっと買ってくぐらいだよ。,Oh; did you come to see how much your signature is selling for? Well; you've still only one once. Only a few colosseum enthusiasts buy it!
+おや、自分のサインがどれぐらい売れてるのか見に来たのかい？\nまあまだ一勝だからね。\n闘技場のマニアがちょっと買ってくぐらいだよ。,Oh; did you come to see how much your signature is selling for? Well; you've still only won once. Only a few colosseum enthusiasts buy it!
 だけどアンタはきっと勝つね。勝ちまくってくれれば\nサインの値段は２倍にも１０倍にもなるんだ。\n楽しみにしてるから、がんばっておくれよ。,But you'll definitely keep winning; right? If you keep winning; the price of your autograph will double; or maybe even increase tenfold. I'm looking forward to it; so do your best!
 おや、なんだい、期待の新人さまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,Oh; what do we have here? The promising rookie. Have you changed your mind? If you sign this; I'll give you that rare card I offered earlier!
 「妖精の酒場」のミレーヌ選手のお店への地図に、\nそこの食事一覧が書いたメニューもあるよ。,There's a map to Mylene's bar; the 'Fairy Tavern'; along with a menu listing the meals served there!
