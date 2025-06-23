@@ -1,3 +1,3 @@
 default
-ドリルモグラ,鑽頭鼴鼠
-[1].このカードはダメージの増減効果を無視して戦闘ダメージを与える。\n[2].相手モンスターを戦闘で破壊したとき発動する。破壊したモンスターのHPを超過した分の戦闘ダメージを、相手プレイヤーに効果ダメージとして与える。,[1].這張卡會無視傷害增減效果給予戰鬥傷害。\n[2].這張卡戰鬥破壞對手怪獸時發動。會將超過破壞怪獸HP量的部分作為效果傷害給予對方玩家等量傷害。
+ドリルモグラ,Driller Mole
+[1].このカードはダメージの増減効果を無視して戦闘ダメージを与える。\n[2].相手モンスターを戦闘で破壊したとき発動する。破壊したモンスターのHPを超過した分の戦闘ダメージを、相手プレイヤーに効果ダメージとして与える。,[1]. This card ignores effects that increase or decrease damage while dealing combat damage.\n[2]. When this card destroys an opponent's monster in battle; deal effect damage to the opposing player equal to the amount of combat damage that exceeded to opponent's monster's HP.

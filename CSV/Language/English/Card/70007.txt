@@ -50,7 +50,7 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 サキュバスだ…。このままじゃ食べられちゃう…。,Succubi... If we stay here; we'll be eaten...
 狭い戸棚に二人で隠れながら、息をひそめてサキュバスたちの様子をうかがう。,We hid in the cramped cupboard together; holding our breath and watching the succubi.
 必死に冷静を装いながらも、妹の横で僕の手は震えていた。手にはお父さんから託された1枚のカードがあった。,I tried desperately to maintain my calm demeanor; but my hands were shaking beside my sister. In my hand; I clutched a single card our father entrusted to me.
-今日は僕の洗礼式の日。そのお祝いにお父さんにもらった「ブラックナイト」のカード。,Today was the day of my initiation ceremony; and to comemorate the occasion; my father gave me the "Black Knight" card.
+今日は僕の洗礼式の日。そのお祝いにお父さんにもらった「ブラックナイト」のカード。,Today was the day of my initiation ceremony; and to commemorate the occasion; my father gave me the "Black Knight" card.
 もしこのカードを使うことができたら、あの魔族たちも倒すことができるかもしれない。けれど、まだカードの使い方もちゃんと分からない僕には、ブラックナイトを召喚できる自信はなかった。,If I could use this card; I might have a chance at defeating those demons. But I didn't yet fully understand how to use cards properly; and I wasn't confident I could summon the Black Knight either.
 妹のためにも、行かなくちゃいけない。でも…。,For my sisters sake; I have to go and do it; but...
 お兄ちゃん…。手ふるえてる…。,Hey; Big Brother... Your hands are shaking...
@@ -63,7 +63,7 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 男はみんなその場で搾り尽くしていいって言われてるんですけど、\n女の子なら女王様のところに連れていかないといけないですね。,We were told that all men are to be drained on the spot; but if it's a girl; then she has to be taken to the queen.
 そこのお嬢ちゃん。動いちゃダメよ？ほらわたしの目を見なさい。,Hey there little lady; don't move; okay? Look into my eyes.
 あうぅう…❤なにこれぇ…❤,Auu...❤ What is...❤
-それじゃあいいところに運んでいってあげますからねぇ。くすくす❤,Now; we're goning to take you somewhere nice; OK? *Giggle*❤
+それじゃあいいところに運んでいってあげますからねぇ。くすくす❤,Now; we're going to take you somewhere nice; OK? *Giggle*❤
 僕は連れていかれる妹を見ても何もできなかった。妹が戸棚から飛び出す瞬間、止めることだってできたはずなのに、あっけにとられたまま、それをただ見ていた。,I couldn't do anything as I saw them take my sister away. The moment she jumped out of the cupboard; I should've stopped her; but I was stunned and could only watch.
 僕は誰もいなくなった家で、戸棚の奥に隠れ続けて、そのまま夜を過ごした。怖さで震え、兄として妹を助けられなかったことの悔しさにしばらく泣いていたんじゃないかと思う。,I hid in the back of the cupboard and spent the night there; trembling with fear. I cried for a while; perhaps out of frustration for not being able to protect my sister as a brother should.
 ……それからどれだけ時間が経ったのか。何日か後、戸棚の中で弱り切っていた僕を、ギルドからサキュバス討伐に派遣されたコノハ師匠が助けてくれた。,I don't know how much time passed after that. A few days later; Master Konoha; who had been sent by the guild to hunt succubi; found and rescued me from the back of the cupboard; where I had grown weak.
@@ -72,7 +72,7 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 でも今は違う。無力なんかじゃない。だからこそ僕は、必ず…。,But now things are different. I'm not powerless anymore. That's why I must...
 朝、目を覚ますと手には汗がびっしょりついていた。,When I woke up in the morning; my hands were drenched in sweat.
 村が襲われたのはもう何年も昔の話だ。時間の経過を考えれば、妹は無事ではないかもしれない。サキュバスにエナジーを吸い尽くされたか、あるいはサキュバス化させられて、既に人間ではなくなっているのかも…。,It has already been many years since the village was attacked. Considering how much time has passed; my sister likely isn't safe. She might have been drained of her energy by succubi; or maybe they even turned her into a succubus herself; no longer human...
-それでもきっと僕は、Aランクになって妹を助けに行く。それがどれだけわずかな可能性であったとしても…。僕は決意を新たにしたのだった。,Still; I will become an A-rank and rescue my sister. No matter how unlikely it may be... I rallyed my thoughts and stood determined.
+それでもきっと僕は、Aランクになって妹を助けに行く。それがどれだけわずかな可能性であったとしても…。僕は決意を新たにしたのだった。,Still; I will become an A-rank and rescue my sister. No matter how unlikely it may be... I rallied my thoughts and stood determined.
 あなたのターンからだね！どんなカードで攻めてくるか、楽しみ！,It's your turn to start; isn't it? Looking forward to seeing what cards you'll attack with!
 わたしのターンからだね！まずはどうしよっかなー。,Looks like it's my turn! I wonder what I should do first...?
 とりあえずドローしてっと。,First of all; I'll draw a card.
@@ -110,7 +110,7 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 わたしだって攻撃するよ。{防御カード}を攻撃！,I can attack; too!  I attack {防御カード}!
 行くよ！{使用カード}で{防御カード}を攻撃！,Let's go! {使用カード}; attack {防御カード}!
 どう？快楽攻撃されて心は乱れてない？,What do you think? You won't get distracted by these pleasure attacks; will you?
-昔はもっと剣と剣のぶつかり合いって感じだったんだけどね、\nここ最近はこういうエッチな攻撃に耐えられないと\n男のカードマスターはだいぶ厳しいよ。,Duels used to be about the clashing of swords... but if male cardmasters can't withstand these types of attacks; then they are going to have a "hard" time.
+昔はもっと剣と剣のぶつかり合いって感じだったんだけどね、\nここ最近はこういうエッチな攻撃に耐えられないと\n男のカードマスターはだいぶ厳しいよ。,Duels used to be about the clashing of swords... but if male cardmasters can't withstand these types of attacks; then they are going to have a 'hard' time.
 試験官としてあなたの精神力試させてもらうね！,As your examiner; I will test your mental fortitude!
 うーん、なにもできない！ターンエンド。,Oof. Looks like I can't do anything! End turn.
 この手札じゃ、むりー。なにもできない。ターンエンド。,This hand is no good... I can't do much. End turn.
@@ -232,6 +232,6 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 イっちゃえ、新人マスターくん❤気持ちいい気持ちいい乳内射精で、わたしに魔力渡しちゃえ❤むぎゅー❤,Cum; new cardmaster~ Cum~❤ Hand over your mana to me with my blissful; magic-stealing boobie-massage~❤ Squeeze~❤
 あっ❤あぐあっ❤❤❤,Ahh❤ Ahhoogh...❤❤❤
 んふふ、たくさん出てる。谷間の中が白いのでドロドロ❤,Fufu. You shot out a whole lot. My cleavage is filled with creamy mana~❤
-あー、この精液、普通の射精3回分ぐらいは魔力が溶けちゃってるんじゃないかな❤ずいぶんエッチなことに魔力使っちゃったみたいだね。すけべ❤,My~ This semen must contain three ejacualtions worth of magical energy.❤ Such a slut; using your magic for something so sexual~❤
+あー、この精液、普通の射精3回分ぐらいは魔力が溶けちゃってるんじゃないかな❤ずいぶんエッチなことに魔力使っちゃったみたいだね。すけべ❤,My~ This semen must contain three ejaculations worth of magical energy.❤ Such a slut; using your magic for something so sexual~❤
 精液に溶けてる魔力はなかなか良質だね。きっとキミ、才能あるよ。さすがはコノハさんのところのお弟子さん。,The magic in this semen is quite potent. It seems you possess more ability than what I gave you credit for. You're certainly Ms. Konoha's disciple alright.
 まあどれだけ才能があっても、エッチなことに弱いようじゃ、今の時代やってけないんだけどね。次挑んでくるときは少しはおっぱいに勝てるように頑張れー♪くすくす❤,But no matter how talented you are; you'll never make it in this day and age if you're weak to sexual acts. The next time you try to challenge me; try to resist my boobs a little now; OK?ー♪ *Giggle*❤
