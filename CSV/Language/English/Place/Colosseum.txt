@@ -32,7 +32,7 @@ default
 ❤上機嫌な女の子,❤Cheerful Girl
 低ランクのカードマスター(女),Low-Tier Female Cardmaster
 目ざとい男,Sharp-Eyed Man
-闘技場ファンのおじいさん,Old Coloseuum Fan
+闘技場ファンのおじいさん,Old Colosseum Fan
 ❤ジェミニ,❤Gemini
 本を持っている女の子,Girl Holding a Book
 悩んでいる女性,Troubled Woman
@@ -77,7 +77,7 @@ Place/Colosseum,
 悪魔タイプ自体かなり珍しかったと思うし、\nなんでこんなにサキュバスモンスターが増えたのかしら。\n新しい遺跡で珍しいパックでも出たとか？,I think demon-types themselves were pretty rare before; so why have there been so many succubus monsters recently? Did they find a rare pack in those new ruins or something?
 ねえ、ねえ、男のひとって、\nなんであんなに簡単に女のモンスターに負けちゃうの？,Hey; hey; why do guys lose so easily to female monsters?
 観客席からだと、遠くて何やってるかよくわからないの。\nモンスターもマスターも魔力のバリアがあって、\n剣で斬っても簡単にはやられないはずなのに・・・。,The audience's seats are too far away to see exactly what's happening. Both the monster and the master have magical barriers; so they shouldn't be beaten easily; even if they get slashed or stabbed...
-女の子モンスターに抱き着かれたら、\nすぐビクビクってふるえてそのままやられちゃうんだよ。\nへんなのー。,But if a girl monster hugs him; the guy starts starts trembling and get taken down; just like that. It's really weird.
+女の子モンスターに抱き着かれたら、\nすぐビクビクってふるえてそのままやられちゃうんだよ。\nへんなのー。,But if a girl monster hugs him; the guy starts trembling and get taken down; just like that. It's really weird.
 おお、おお、あんたは例のルーキーじゃないか。\nオクタ選手との試合見たよ！\n女マスターに勝つなんてすごいじゃないか。,Oh; oh; you're that rookie; aren't you? I saw your match against Octa! Winning against a female master like that is pretty impressive; don't you think?
 そのうえクエストでサキュバスも倒したんだろ？\nいやぁ、ほんと期待の新人だな！\nアンタの試合、次も見に行くぜ！がんばってくれよ！,And on top of that; you defeated a succubus on a quest; didn't you? Wow; you're really an up-and-coming rookie! I'll definitely be watching your next match; too! Keep it up!
 闘技場では、勝ったマスターが負けたマスターを\n自由にもてあそぶ権利があるわ。\n表向きは魔力補給のためってことになってるけれど・・・。,In the colosseum; the winning master has the right to toy with the losing master freely. Officially; it's for the purpose of replenishing magical power; but...
@@ -134,12 +134,12 @@ Dランクには落ちぶれた男性マスターがたくさんいるし、\n�
 カードマスターが犯罪をしたらどうなると思う？\nギルドで指名手配されて、\nモルゲンの特殊牢獄に入れられるのよ。,What do you think happens when a cardmaster commits a crime? They end up wanted by the guild and locked up in Morgen's special prison.
 カードを取り上げたうえで、\n強いカードマスターの看守たちが24時間見張っているの。\n凶悪な犯罪者だって逃げだすことはできないわ。,They take away your cards and strong cardmaster guards watch over you 24/7. Even the most notorious criminals can't escape.
 看守の一人、Cランクのヤツメさまはとってもカッコいいんだから。\nあのクールな瞳。わたしあの人のファンなの。\n無敗のルーキーのあなたにだってきっとヤツメさまは負けないわよ。,One of the guards; a C-rank master named Yatsume; is really cool. Those intense eyes of hers... I'm a big fan. Even you wouldn't stand a chance against her; undefeated rookie!
-なあ聞いてくれよ。\n俺の応援してた男のCランクカードマスターがこの間ぼろ負けしてよ、\nついに降格しちまったんだ。,Hey; listen up! The C-rank cardmaster I was cheering for got completely crushed the other day and finally got demoted.
+なあ聞いてくれよ。\n俺の応援してた男のCランクカードマスターがこの間ぼろ負けしてよ、\nついに降格しちまったんだ。,Hey; listen up! The C-rank cardmaster I was cheering for got completely crushed the other day and ended up getting demoted.
 女どもの誘惑に負けないけっこう強いマスターだったんだぜ？\nだけど、一回の試合では我慢できても、\n何回も戦っているうちにとうとう耐え切れなくなったみたいでよ。,He was a pretty strong cardmaster who wasn't swayed by the women's temptations; you know? But while he might've been able to hold out in one match; it seems after back-to-back fights he just couldn't stand it anymore.
 一回こっぴどく負けてからはすっかり快楽に弱くなっちまって…。\nそこからはいくらやっても女マスターに勝てなくなっちまった。,After losing badly just once; he became totally weak to pleasure attacks... From then on; no matter how hard he tried; he couldn't win against the female masters anymore.
 一度でも女モンスターたちの気持ちよさ味わうと、\n快感に抗えなくなっちまうのかな。\nアンタは負けないでくれよ、無敗のルーキー。,Once you experience the pleasure of a female monster even once; you can't resist the ecstasy anymore. So please; undefeated rookie; don't lose.
-ネネコ選手みたいな獣人って、\n普段は北の方に住んでいる種族なのよ。\nだから南にあるモルゲンに来ると暑くて大変らしいわ。,Beastmen like Nenekko usually live in the northern regions; so when they come to Morgen in the south; it seems to be quite hot and tough for them.
-毛がもふもふしてて、人間よりも体温高そうだもの。\nでも、獣人の男の子ってかわいいから、\n一度あのもふもふを思いっきりなでてみたいわね。,Their fur is really thick; and they seem to have a higher body temperature than humans. But beastmen boys are so cute; I want to try giving that fluff a good petting at least once; you know?
+ネネコ選手みたいな獣人って、\n普段は北の方に住んでいる種族なのよ。\nだから南にあるモルゲンに来ると暑くて大変らしいわ。,Beastmen like Neneko usually live in the northern regions; so when they come to Morgen in the south; it seems to be quite hot and tough for them.
+毛がもふもふしてて、人間よりも体温高そうだもの。\nでも、獣人の男の子ってかわいいから、\n一度あのもふもふを思いっきりなでてみたいわね。,Their fur is really fluffy; and they seem to have a higher body temperature than humans. But beastmen boys are so cute; I want to try giving that fluff a good petting at least once; you know?
 ううっ、まさかヤツメ様があんたみたいな男に負けるだなんて…。\nショックだわ…。,Ugh; I can't believe Lady Yatsume would lose to a guy like you... It's just unthinkable...
 でもヤツメ様もあなたの実力を認めていたし、\n悔しいけれど、応援するしかないようね。\nヤツメ様ファンとしてあなたのこれからの勝利を祈っているわ！,But since Lady Yatsume recognized your abilities; it seems we have no choice but to support you; no matter how frustrating it is. As a fan of Lady Yatsume; I pray for your future victories!
 モルゲンにいると感覚がマヒしちまうが、\nＣランクの上位っていうと、相当の実力者だからな。\n騎士団だったら小さな隊の隊長を任されたりするレベルだぜ。,It can be hard to imagine when you're here in Morgen; but being at the upper level of C-rank means you're actually a pretty formidable force. In an order of knights; it'd be like being at the level of a captain of a small squad.
@@ -147,7 +147,7 @@ Dランクには落ちぶれた男性マスターがたくさんいるし、\n�
 Ｂランクにまで行くと、地域の統括者になれたり、\nギルドや国の機関で重要な役職に就けたりするらしいな。\n国全体でＢランクマスターは100人もいないんじゃないか。,Once you reach B-rank; you might get assigned as a regional overseer or hold important positions in guilds or national agencies. There actually aren't that many B-rank masters. Maybe less than 100 across the whole country
 無敗のルーキー、あんたももうすぐＢランクだと思うと、\nすげー話だな。俺はいちファンとしてあんたのこと応援してるぜ。\n次の試合も楽しみだな。,It's pretty amazing to think that you might be B-rank soon. As a fan; I'm cheering for you. I'm looking forward to your next match.
 わー、ここが闘技場かー。\nお師匠さまの試合楽しみだなー。\nあ、こんにちは。お兄さんも試合を見に来たの？,Wow; so this is the colosseum. I'm really looking forward to Master Musashi's match. Oh; hello. Did you come to watch the match too; mister?
-わたしはね、ムサシ師匠の道場に通ってる門下生なの。\nお師匠様は、Cランクのマスターの中でも強いんだよ。\nそろそろ試合があるからって観戦に来たんだ。,I'm a student at Master Musashi's dojo. Master is one of the strongest out of all the C-rank masters. The match is about to start; so I hurried over.
+わたしはね、ムサシ師匠の道場に通ってる門下生なの。\nお師匠様は、Cランクのマスターの中でも強いんだよ。\nそろそろ試合があるからって観戦に来たんだ。,I'm a student at Master Musashi's dojo. Master is one of the strongest out of all the C-rank masters. I heard her match is about to start; so I hurried over to watch.
 お師匠様はモンスターを使わないすごくカッコいいデッキで、\n剣と盾だけでバッタバッタとモンスターたちを倒してさ、すごいんだー。\nわたしもムサシ師匠みたいに強くなりたいなー。,My master has a really cool deck that doesn't use monsters. She takes down monsters left and right with just a sword and shield. It's amazing! I want to become strong like Master Musashi some day.
 あ、さっきのお兄さん。こんにちは。\nえ？お兄さんもカードマスターなの？へー。,Oh; you're the guy from earlier. Huh? What's that? You're a cardmaster; too? Wow.
 ねーねー、それならお兄さんもわたしたちの道場に入門しない？\nお師匠様の試合を見てさ、一緒にファンになろうよ。\nお師匠様は強くてカッコいいんだよー。,Hey; hey; how about you join our dojo; too? We can watch my master’s match together! I'm sure you'll become a fan. My master is so strong and cool!
@@ -187,7 +187,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 ねーねー、ほら見て！\n無敗のルーキーさんが主役になった本がね、\nそこで売ってたの！,Hey; hey; look! There's a book with the undefeated rookie as the main character being sold over there!
 お兄さんが山にこもって修行してた話とか、\nドラゴン20匹を退治した話とかのってるんだよ。,There's a story about how he secluded himself in the mountains to train; and another about how he defeated 20 dragons!
 え？僕はそんなことしてない？\nうそだー。だって本に書いてあるもん。\nお兄さんが忘れちゃっただけだよ、きっと。,Huh? You didn't do any of that? That's not true. It's written in the book. You must have just forgotten.
-サキュバスカードかぁ。\nリュカ商会が売り出していたけど、\n使うのどうしようかしら。,A succubus card; huh? I saw the Ryuka Trading Company selling them; but I'm not sure if I should buy it or not.
+サキュバスカードかぁ。\nリュカ商会が売り出していたけど、\n使うのどうしようかしら。,A succubus card; huh? I saw the Ryuka Trading Company selling them; but I'm not sure if I should buy some or not..
 普通のモンスターと同じぐらいの戦闘力があって、\nそのうえ異性相手だとかなり強力なのよね。\n同性のモンスター相手にも快楽攻撃や魅了はけっこう効くみたいだし…,It has combat power similar to an ordinary monster; and on top of that; it's quite powerful against the opposite sex. It seems that pleasure attacks and charms work pretty well against same-sex monsters; too...
 でも試合では無敗のルーキーが普通に勝ってたしなぁ…。\n男相手にあれじゃあ、やっぱり買う価値はないのかしら。\nうーん。,But in his matches; the undefeated rookie was still winning... If that's the case even against a man; maybe it's really not worth buying. Hmm...
 サキュバスというのは得体のしれん魔物じゃのう。\n現れて10年は経つが、\n快楽などというふざけた手段でこうも人間が押されるとは。,The succubi are mysterious creatures; aren't they? They've been around for ten years now; but who would have thought that humans would be so easily overwhelmed by a tactic as ridiculous as pleasure?
@@ -241,17 +241,17 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 コンボカードを活かすためには、ドローカードを追加で入れたり、\n属性やレベルでデッキからサーチするようなカードを入れると、\n動きが安定しますね。,To make the most of combo cards; try adding draw cards or cards that search your deck by attribute or level to help make your deck more consistent; okay?
 強力なカードと潤滑油になるようなカード、\nそのどちらもが強いデッキを作るうえでは欠かせないと言えるでしょう。,Powerful cards and cards that fuel them... Both are essential for building a strong deck.
 「メタカード」というのをご存じでしょうか。,Do you know what a 'meta card' is?
-メタカードは特定の種類のデッキに対してよく刺さるカードのことで\n例えば魔法の「武装放棄」がそうですね。,A meta card is a card that works especially well against specific types of decks; such as the spell 'Disarmament'.
-このカードはわずか500のLPコストで、\n相手の装備カードをすべて破壊してしまいます。\n１枚で最大３枚破壊できるわけですから、きわめて強力です。,This card; at the small cost of 500 LP; can destroy all of the opponent's equipped cards. Since it can destroy up to three of your opponents cards for just one of your own; it's extremely powerful.
+メタカードは特定の種類のデッキに対してよく刺さるカードのことで\n例えば魔法の「武装放棄」がそうですね。,A meta card is a card that works especially well against specific types of decks; such as the spell 'Abandon Weapons.'
+このカードはわずか500のLPコストで、\n相手の装備カードをすべて破壊してしまいます。\n１枚で最大３枚破壊できるわけですから、きわめて強力です。,This card; at the small cost of 500 LP; can destroy all of the opponent's equipped cards. Since it can destroy up to three of their cards for just one of your own; it's extremely powerful.
 しかし一方で、装備カードを使わない相手に対しては\nまったく役に立たないカードでもあります。,On the other hand; though; it's completely useless against opponents who don't use equipment cards.
 事前に相手のデッキの情報を集め、メタカードをデッキに入れておく。\nそういうしたたかな戦術も\nカードマスターとして勝ち上がっていくには大事なのかもしれません。,Gather information about your opponent's deck in advance and include meta cards in your own. Such shrewd tactics might be crucial for rising through the cardmaster ranks.
-おや、あなたは「武装放棄」を持っていないのですか？\nあまりレアなカードでもありませんし、\nわたしの手持ちで余っている１枚を差し上げましう。,Oh; you don't have 'Disarmament' yet? It's not that rare of a card; and I have an extra one in my collection. Would you like it?
+おや、あなたは「武装放棄」を持っていないのですか？\nあまりレアなカードでもありませんし、\nわたしの手持ちで余っている１枚を差し上げましう。,Oh; you don't have 'Abandon Weapons' yet? It's not that rare of a card; why don't I give you this extra one I have from my collection.
 あなたもいよいよBランクですか。\n本当にたいしたものです。,So; you've finally reached B-rank; huh? That's really impressive.
 わたしは闘技場を観戦し、\n本で多くを学んでカードバトルの腕を磨いてきました。,I've been watching fights in the colosseum and studying a bunch of books hoping to hone my card battle skills.
 しかし昨今の快楽攻撃の流行のせいで、\nいくら知識があっても、女性モンスター相手に\n全く歯が立たなくなってしまったのです。,Because of the recent increase in pleasure attacks; though; no matter how much knowledge I have; I've become completely powerless against female monsters.
 無敗のルーキー、あなたの精神力を尊敬しますよ。\nわたしにもはや教えられることはありません。\nぜひその手でＢランクの栄光をつかみ取ってください！,Undefeated rookie; I respect your mental fortitude. There's nothing more I can teach you. Please; go and grasp the glory of B-rank with your own two hands!
-この国は大きく分けて4つのエリアがあります。\nカードマスターの街モルゲンがあり、穀倉地帯でもある南部。,This country is roughly divided into four areas. In the south; there's the city of Morgen; home of the cardmasters; and the granary region as well.
-山がちながら鉱物資源に恵まれた西部。\n海に開かれており、小さな島との交易もある東部。,The western region; which is mountainous and rich in mineral resources. The eastern region; which is open to the sea and engages in trade with small islands.
+この国は大きく分けて4つのエリアがあります。\nカードマスターの街モルゲンがあり、穀倉地帯でもある南部。,This country is roughly divided into four areas. In the south; there's the city of Morgen; home of the cardmasters. The southern region is used mostly for agriculture.
+山がちながら鉱物資源に恵まれた西部。\n海に開かれており、小さな島との交易もある東部。,The western region is mountainous and rich in mineral resources. The eastern region is open to the sea and engages in trade with small islands.
 そして魔族領に接しており王都もある北部です。\n北部には獣人たちの村落もあるそうですね。,And then there's the northern region; which borders the demon territory; and also holds the royal capital. I've heard there are villages of beastmen in the northern region as well.
 かつては北の地にもっと広い領土があったのですが、\nサキュバスたちの侵攻により多くの村落が奪われてしまいました。\n王都の結界の力で、なんとか今は食い止めているにすぎません。,There used to be a much larger territory in the northern lands; but many villages were taken when the succubi invaded. Thanks to the barrier around the royal capital we're managing to hold them off for now; but just barely.
 この事態をなんとかするためにも、\n若い我々が努力しないといけませんね。無敗のルーキーを見習って、\nわたしも日夜修行に励んでいます。,To address this situation; young masters like us have to make a real effort. Following the undefeated rookie's example; I'm also dedicating myself to training day and night.
@@ -266,14 +266,14 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 例えば一部のモンスターが所持している「銃」がそうですね。\n火の魔法を込めて、小さな石の弾や鉄の弾を飛ばす、\n魔法の小型杖です。,For example; some monsters carry 'guns'. These are small; magical staves that shoot small stone or iron projectiles infused with fire magic.
 彼らや彼女らは有用な道具だと主張するのですが、\n普通に魔法で火球を飛ばした方が威力もあり、筒の中で繊細な火魔術の\nコントロールがいるあの道具は、あまり有用性がわかりません。,Some claim it's a useful tool; but casting a fireball with regular magic is more powerful; and the tool requires delicate control of fire magic within the tube; so I don't know how useful it really is.
 コントロール能力さえ高ければ魔力消費を抑えられるのは\nメリットにあげられるのかもしれませんね。,If you can control the magical energy; I suppose being able to reduce magic power consumption could be considered an advantage; perhaps?
-魔族領への侵攻のための兵を王都で集めているようですね。\nサキュバス相手となると今のわたしでは\n行ったところで敵の養分になってしまうだけでしょう。,Looks like they're gathering troops in the royal capital for an invasion of the demon realm. If I were to face a succubus now; I would just end up food for the enemy.
+魔族領への侵攻のための兵を王都で集めているようですね。\nサキュバス相手となると今のわたしでは\n行ったところで敵の養分になってしまうだけでしょう。,Looks like they're gathering troops in the royal capital for an invasion of the demon realm. If I were to face a succubus now; I would just end up as food for the enemy.
 これはせめてもの行為です。\n無敗のルーキー、あなたにカードを１枚託します。,This is the least I can do. Undefeated rookie; I entrust you with this card.
 『{%%40333}』を手に入れた！,I got {%%40333}!
 わたしが持っている中でも一番レアリティの高いカードです。\nあなたならきっと役に立てることもできるでしょう。,It's the rarest card I have. I'm sure you could put it to good use.
 しかし、わたしだってあなたの背を追うばかりではありません。\n必ずや快楽攻撃を克服して、サキュバスにも打ち勝ってみせますよ！,However; I'm not just going to let myself trail behind you. I'll definitely overcome pleasure attacks and defeat the succubi!
 わたしが託したカードは、\nデッキから魔法カードを加えることのできる汎用的なカードです。,The card I entrusted to you is a versatile card that allows you to add a spell card from your deck to your hand.
 しかし、魔術師モンスターを強化する効果もついているので、\n魔術師カードと共に使えば更なる効果を発揮できるでしょう。,However; it also has the effect of enhancing magician monsters; so if you use it with magician cards; it'll be even stronger.
-もし使い道がなければ売ってしまってもかまいません。\nそのときはあなたが魔族領に行くときの、路銀にでも変えてください！,If can't really use it; feel free to sell it. If you did that; you could exchange it for travel expenses when you go to the demon realm!
+もし使い道がなければ売ってしまってもかまいません。\nそのときはあなたが魔族領に行くときの、路銀にでも変えてください！,If you can't really use it; feel free to sell it. If you did that; you could exchange it for travel expenses when you go to the demon realm!
 やぁやぁ、いらっしゃい。\nここでは闘技場の人気ランカーたちのグッズを売ってるよ。,Hey there; welcome! Here we sell merchandise from popular colosseum fighters!
 あの有名なモルゲン学園のエリートBランカー、メロディや\nシルヴィアのサイン色紙に・・・。,We have signed autograph boards from the famous elite B-rankers from Morgen Academy; Melody and Sylvia...
 モンスターを１枚も使わずに戦う、\n「百器使い」ムサシ選手の武器をモデルにした\n模造刀なんてのもあるよ。,There's even a replica sword modeled after the weapon of Musashi; the 'Hyakki Tsukai'; who fights without using a single monster!
@@ -350,7 +350,7 @@ Bランクマスターシルヴィア選手の最強カード、イージスの�
 おや、なんだい、けちなルーキーさまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,Oh; what's this? Aren't you the stingy rookie? Have you changed your mind? If you sign it; I'll give you this rare card!
 最近の売れ筋はこれ、あの無敗のルーキーのサインだよ。\n男の身なのに勝利に次ぐ勝利、\nCランクでも快進撃を続けてるあのルーキーだよ。,The recent bestseller is this; the signature of that undefeated rookie. Despite being a man; he keeps winning victory after victory; continuing his impressive run even into C-rank!
 おお、ありがとう！\nやっぱりアンタはいい男だね。優しいし強いし、\nいやぁモルゲンで一番男前かもしれないね。,Oh; thank you! You really are a good man. You're kind and strong; and you might just be the most handsome guy in Morgen; you know?
-ほらこれがお礼のカードだ。\n昔ネネコがいらないってくれたネズミのカードだよ。\nとげとげしてるから気に入らないとか言ってたね。,Here; this is a thank-you card. It's a mouse card that Nenekko didn't want and gave to me a long time ago. She said she didn't like it because it had I bad attitude; I suppose.
+ほらこれがお礼のカードだ。\n昔ネネコがいらないってくれたネズミのカードだよ。\nとげとげしてるから気に入らないとか言ってたね。,Here; this is a thank-you card. It's a mouse card that Neneko didn't want and gave to me a long time ago. I think she said she didn't like it because it was 'too prickly.'
 {%%60041}を手に入れた！,I got {%%60041}!
 なんだい。いまさらけちけちしちゃってさ。つれないね。\nたくさん勝って人気も出たからって優しい心をなくしちまったのかい？\nおお、やだやだ。,What's up? Being stingy now; huh? So cold. Just because you've won a lot and gained popularity; you've lost your kind heart? Oh; how awful.
 ・・・おや、また会ったね。\nネズミは役に立ってるかい？\nネズミは小さくてかわいいよねぇ。あたしゃわりと好きだよ。,...Oh; we meet again. Is the mouse being useful? Mice are small and cute; aren't they? I quite like them!
