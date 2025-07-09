@@ -7,7 +7,8 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 
 # How to contribute/test the translation
 - Anyone is welcome to add/help to the translation if they wish!
-- Checkout [Issues](https://github.com/Giratena/Succubus-Duel-English-Translation/issues)/[Pull requests](https://github.com/Giratena/Succubus-Duel-English-Translation/pulls), or alternatively send a message on discord ^^
+- Checkout [Issues](https://github.com/Giratena/Succubus-Duel-English-Translation/issues)/[Pull requests](https://github.com/Giratena/Succubus-Duel-English-Translation/pulls), or alternatively send a message on our translation [discord](https://discord.gg/fYPg7KX
+)^^
 - Clone the Repo and then copy your game files into the repo and you're done!
   - Any edits or change in the repo will also be reflected in your game.
   - Push and pull from "Develop" to get updates as they happen.
