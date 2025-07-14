@@ -12,7 +12,7 @@ default
 ふらふらのカードマスター,Dizzy Cardmaster
 ファンの男【!】,Fanboy【!】
 ファンの男,Fanboy
-あこがれている少年,Admired Boy
+あこがれている少年,Fan Boy
 事情通の男,Knowledgeable Man
 下位のカードマスター,Lower-Tier Cardmaster
 ヤツメ選手のファン,Yatsume Fan
@@ -58,13 +58,13 @@ Place/Colosseum,
 街中とはまるで違う雰囲気を肌で感じる。周りに見えるカードマスター達の闘志だろうか。,Perhaps it was the fighting spirit of the cardmasters around me; but the atmosphere felt completely different from the city. 
 ここでのカードバトルは更に厳しいものになるだろう。この空気に飲まれないよう、僕は心を奮い立たせた。,The card battles here will no doubt be more intense than the ones I've faced so far. I steeled my resolve; determined to not be overwhelmed by the atmosphere.
 初めまして。闘技場への参加をご希望でしょうか？,Nice to meet you. Would you like to participate in the colosseum?
-分かりました。それではギルドリングをお見せください。,Understood. Then please; show me your guild ring.
+分かりました。それではギルドリングをお見せください。,Understood. Now then; please show me your guild ring.
 ・・・。,...
 ありがとうございます。貴方がDランクであることを確認しました。闘技場への参加を承認します。,Thank you very much. After confirming your rank is D; I gladly approve your participation in the colosseum.
 再度話しかけていただければ、本日からでも対戦を組むことができますので、準備ができたらお声がけくださって構いませんよ。,If you speak to me again; we can arrange a match starting today; so feel free to let me know when you're ready.
 おや、あんた新人選手かい？\nそのリングの色、Dランクだね。,Oh hey; you're a rookie; aren't you? That ring color means you're a D-rank; right?
 闘技場では普段からカードマスターたちが試合をして\nその腕を競っているんだ。\n祭りの間はとくに試合が盛りだくさんさ。,In the colosseum; cardmasters usually compete in matches to showcase their skills. During the festival; matches here are especially common.
-国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather and have fierce battles... Ah; the excitment of it all is just intoxicating; don't you think?
+国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather to battle it out... Ah; the excitment of it all. I can hardly contain myself
 でもよ、最近は女マスターばっかり勝っててつまらねえ。\nもっと剣と剣がぶつかるような戦いを、前みたいに見たいもんだ。\n男としてあんたには期待してるぜ！,But you know; lately it's only been female masters winning; and it's actually starting to get pretty boring. I want to see battles where swords clash like they used to. So as a guy; I'm counting on you!
 闘技場って、中にいるだけで何だかワクワクしてくるよな。,The colosseum... Just being here makes you a bit excited; doesn't it?
 祭りの間はそこかしこでカードマスターたちが戦っているけど、\n闘技場はやっぱ真剣勝負の場って感じで雰囲気が違うぜ。\nああ、俺もカードマスターだったら参加してみてぇなぁ。,During the festival; cardmasters are battling all over the city; but the colosseum really feels like the place for more serious matches. The atmosphere just feels so different. Ah; if I were a cardmaster; I'd want to participate; too.
@@ -77,27 +77,27 @@ Place/Colosseum,
 悪魔タイプ自体かなり珍しかったと思うし、\nなんでこんなにサキュバスモンスターが増えたのかしら。\n新しい遺跡で珍しいパックでも出たとか？,I think demon-types themselves were pretty rare before; so why have there been so many succubus monsters recently? Did they find a rare pack in those new ruins or something?
 ねえ、ねえ、男のひとって、\nなんであんなに簡単に女のモンスターに負けちゃうの？,Hey; hey; why do guys lose so easily to female monsters?
 観客席からだと、遠くて何やってるかよくわからないの。\nモンスターもマスターも魔力のバリアがあって、\n剣で斬っても簡単にはやられないはずなのに・・・。,The audience's seats are too far away to see exactly what's happening. Both the monster and the master have magical barriers; so they shouldn't be beaten easily; even if they get slashed or stabbed...
-女の子モンスターに抱き着かれたら、\nすぐビクビクってふるえてそのままやられちゃうんだよ。\nへんなのー。,But if a girl monster hugs him; the guy starts trembling and get taken down; just like that. It's really weird.
+女の子モンスターに抱き着かれたら、\nすぐビクビクってふるえてそのままやられちゃうんだよ。\nへんなのー。,But if a girl monster hugs him; the guy starts trembling and gets taken down; just like that. It's really weird.
 おお、おお、あんたは例のルーキーじゃないか。\nオクタ選手との試合見たよ！\n女マスターに勝つなんてすごいじゃないか。,Oh; oh; you're that rookie; aren't you? I saw your match against Octa! Winning against a female master like that is pretty impressive; don't you think?
-そのうえクエストでサキュバスも倒したんだろ？\nいやぁ、ほんと期待の新人だな！\nアンタの試合、次も見に行くぜ！がんばってくれよ！,And on top of that; you defeated a succubus on a quest; didn't you? Wow; you're really an up-and-coming rookie! I'll definitely be watching your next match; too! Keep it up!
-闘技場では、勝ったマスターが負けたマスターを\n自由にもてあそぶ権利があるわ。\n表向きは魔力補給のためってことになってるけれど・・・。,In the colosseum; the winning master has the right to toy with the losing master freely. Officially; it's for the purpose of replenishing magical power; but...
+そのうえクエストでサキュバスも倒したんだろ？\nいやぁ、ほんと期待の新人だな！\nアンタの試合、次も見に行くぜ！がんばってくれよ！,Not only that; you also defeated a succubus on that quest; didn't you? Wow; you're really an up-and-coming rookie! I'll definitely be watching your next match; too! Keep it up!
+闘技場では、勝ったマスターが負けたマスターを\n自由にもてあそぶ権利があるわ。\n表向きは魔力補給のためってことになってるけれど・・・。,In the colosseum; the winning cardmaster has the right to toy with the loser in whatever way they like. Officially; it's for the purpose of replenishing magical power; but...
 いまよりずっと昔、闘技場が罪人の戦いを見る場所だったころ、\nそのころは罪人をなぶるのを見世物にして、\n勝者は敗者を好きにできる決まりになっていたそうなの。,Long ago; the colosseum was a place to watch criminals fight one another. It's said it was a spectacle to torment the criminals; and the victor had the right to do as they pleased with the vanquished.
 野蛮な風習がなくなった今でも、\nそのころの名残で闘技場の勝者が敗者を好きにできる習慣が\n残っているのだそうよ。,Even though the more barbaric customs have disappeared; it seems that remnants of that time still linger; allowing the winners of the colosseum to do as they please with the losers.
-ちなみに男のマスター同士の場合、魔力補給の名分がないから\n勝っても何かしたりできないの。\nそこは野蛮じゃなくていいわね。,By the way; when it's two male masters fighting; there's no pretext for mana replenishment; so even if you win; you can't really do anything to them. At least that part isn't so barbaric; right?
+ちなみに男のマスター同士の場合、魔力補給の名分がないから\n勝っても何かしたりできないの。\nそこは野蛮じゃなくていいわね。,Speaking of which; in the case of two male masters fighting; there's no obligation or way to refill your mana afterwards; so even if you win; it's not like you can do anything. At least that part isn't so barbaric; right?
 なあ、アンタ、Dランクで最強のマスターって誰だと思う？\nやっぱり俺はミレーヌさんだね。,Hey; who do you think is the strongest master in D-rank? If you ask me; it's gotta be Mylene.
-いや、ミレーヌさんがレベルの高いモンスターを使えないのは\n俺も知ってるよ。でも、あのおっぱい。あんなの見たら、\n俺だったら即戦意を喪失しちゃうよ。,I know she can't use high-level monsters; but those boobs... If I saw those; I'd lose all my fighting spirit right away!
-実際、男相手の戦績はかなりいいみたいだしな。\nアンタも男のマスターだし、きっとミレーヌさんには勝てねえぜ。,Actually; it seems her track record against men is pretty impressive. You're a male master too; so there's no way you'd win against Mylene.
+いや、ミレーヌさんがレベルの高いモンスターを使えないのは\n俺も知ってるよ。でも、あのおっぱい。あんなの見たら、\n俺だったら即戦意を喪失しちゃうよ。,I know she can't use high-level monsters; but those boobs... If I saw those while battling; my fighting spirit would vanish before I knew it!
+実際、男相手の戦績はかなりいいみたいだしな。\nアンタも男のマスターだし、きっとミレーヌさんには勝てねえぜ。,Actually; her track record against men seems pretty impressive. And since you're a male master; there's no way you'd win against Mylene.
 ん・・・。あなたのこと見たことあるような・・・。\nああっ、噂のルーキーくんじゃない？\nきゃー、近くで見るとけっこうかわいいのね❤,Hmm... I feel like I've seen you somewhere before... Oh; aren't you the rookie everyone's talking about? Wow; you're actually pretty cute up close; huh?❤
 ミレーヌさんとの試合見てたわよー。\nあんなセクシーな人にまで勝っちゃうなんて、\n我慢強くてすごいじゃない。,I watched your match with Mylene. You must have pretty good endurance to win against someone as sexy as her. You're really impressive.
-サキュバスにも勝ったんでしょ？\n男ってすぐ色気でふらふらになっちゃうやつらばっかりだから、\nあなたみたいな硬派な子ってかっこいいわ。,You even beat a succubus too; right? Most guys are so easily swayed by charm; so a tough guy like you is really cool.
+サキュバスにも勝ったんでしょ？\n男ってすぐ色気でふらふらになっちゃうやつらばっかりだから、\nあなたみたいな硬派な子ってかっこいいわ。,You even beat a succubus too; right? Most guys are so easily swayed by charm; so a tough guy like you is especially cool.
 わたしファンになっちゃったから、応援してるわよ。\n頑張ってねー。,I've become a fan; so I'm cheering for you. Keep it up; okay?
-こんにちはー、噂のルーキーくん。\nあは、手を振り返してくれた。うれしいー❤,Hey; it's the rumored rookie! Ah; he waved back. I'm so happy!❤
+こんにちはー、噂のルーキーくん。\nあは、手を振り返してくれた。うれしいー❤,Hey; it's the rumored rookie! Aha; he waved back. I'm so happy!❤
 ミレーヌさん以外にも強いマスターいっぱいいるけど、\nちゃんとカッコいいところ見せてよね。応援してるわよ！,But there are plenty of strong masters besides Mylene; so make sure to show us just how cool you can be. I'm rooting for you!
-モルゲンのカードマスター学園には有名なトップ選手がいてな、\n人魚使いのメロディ、雷電のボルタ、無敵のシルヴィアって三人が\n全員Bランクマスターなんだぜ。,At Morgen's Cardmaster Academy; there are some pretty famous top players: Melody the mermaid user; Volta the thunder user; and Sylvia the invincible; all of whom are B-rank masters.
+モルゲンのカードマスター学園には有名なトップ選手がいてな、\n人魚使いのメロディ、雷電のボルタ、無敵のシルヴィアって三人が\n全員Bランクマスターなんだぜ。,At Morgen's Cardmaster Academy; there are some pretty famous top players -Melody the mermaid user; Volta the thunder user; and Sylvia the invincible- all of whom are B-rank masters.
 Bランクまで上がった学生は国中でこの三人だけだからな。\nまさにエリート様って感じだよ。\nただボルタ以外はみんな偉ぶってなくて、庶民からの人気も高いんだ。,They're actually the only students who have reached B-rank in the entire country. They truly feel like elite. However; except for Volta; they're all pretty humble; making them pretty popular among the common folk.
 このさき守護者になったり王都の騎士団長になったりするんだろうけど\nああいうしっかりした子たちが上に立ってくれるなら、\n頼もしい限りだね。,In the future; they might become guardians; or the captain of the royal capital's knights! If such reliable kids take the lead; it would be incredibly reassuring; don't you think?
-ん、アンタはミレーヌさんを倒した男マスターじゃねえか。,Hmm; you're the guy who defeated Mylene; aren't you?
-あんたが勝っちまうせいで「妖精の酒場」の割引がなくなって、\n昨日は酒代が高くついちまった。,Since you won; she didn't offer a discount at the "Fairy Tavern"; and the drinks ended up costing more yesterday.
+ん、アンタはミレーヌさんを倒した男マスターじゃねえか。,Mm; you're the guy who defeated Mylene; aren't you?
+あんたが勝っちまうせいで「妖精の酒場」の割引がなくなって、\n昨日は酒代が高くついちまった。,Since you won; she didn't offer a us discount at the "Fairy Tavern"; and the drinks ended up costing more yesterday.
 でもよ、今日は飲み友達同士で、誰が勝つか賭けてるんだ。\n俺はアンタに賭けたからよ、\n損させられた分、今日はもうけさせてくれよ！,But hey; today me and my drinking buddies are betting on who'll win. I bet on you; so make up for the loss and give me a win today!
 つまり、あんたには期待してるってこった！\nサキュバスにすら勝ったんだろ？なら次も楽勝だな！,I have high hopes for you! You even beat a succubus; right? So your next battle should be a piece of cake!
 この間Bランク同士の試合を見たんだけどよ、\nいやぁ、やっぱりすごいね。,The other day; I watched a match between two B-rank fighters; and wow; it was really something!
@@ -106,20 +106,20 @@ Bランクまで上がった学生は国中でこの三人だけだからな。\
 お、期待のルーキーじゃないか。\n俺、あんたのこの間の試合見たぜ。,Oh; aren't you that promising rookie? I watched your match the other day.
 同じ日に上位ランカーの試合があったから、\n実況もつかなかったみたいだけど、\nやっぱりあんた強いな。これで３連勝じゃないか。,Since there was a match with a top-ranked player on the same day; it seems there was no commentary for your fight; but you're really strong. That's three consecutive wins now; right?
 昔は男のマスターもAランクやBランクにいたんだけど、\nみんなここ数年でランクダウンしちまった。\nあんたは頑張って上のランクに行ってくれよ。楽しみにしてるぜ。,In the past; there were male masters in the A- and B-ranks; but all the guys have really dropped off over the past few years. Keep working hard to reach the higher ranks. I'm looking forward to it!
-最近上位ランカーは女の選手ばっかりになったわ。\nだってみんな女モンスターに誘惑されたら\nすぐ負けちゃうんですもの。,These days; the top-ranked players are all women. It's because guys just crumble as soon as they get tempted by female monsters.
-男のマスターってたいしたことないのね。\nあなたもマスターみたいだけど、\nふふ、わたしでもエッチなことしてあげれば倒せそう❤,The male masters aren't that impressive; huh? You seem like a master; too; but... Fufu; I bet I could take you down just by doing something naughty~❤
+最近上位ランカーは女の選手ばっかりになったわ。\nだってみんな女モンスターに誘惑されたら\nすぐ負けちゃうんですもの。,These days; the top-ranked players are all women. It's because guys just crumble as soon as they're tempted by female monsters.
+男のマスターってたいしたことないのね。\nあなたもマスターみたいだけど、\nふふ、わたしでもエッチなことしてあげれば倒せそう❤,The male cardmasters aren't that impressive; huh? You seem like a master; too; but... Fufu; I bet I could take you down with a little sexy tease~❤
 くすくす❤ちょっと顔を赤くしちゃってかわいい❤\n今日はあなたの試合を観戦して\nあなたが負けちゃうところを楽しもうかしら❤,*Giggle* You're getting a bit red in the face there; cutie~❤ I'll make sure to watch your match today. I'll enjoy seeing you lose~❤
 ああ・・・❤またキャミー選手と戦いたい・・・❤,Ah...❤ I want to fight Cammy again...❤
 おっと、すまない。ぶつかるところだったね。\nきみもカードマスターかい？\n僕もそうさ。元はＣランクマスターだったんだぜ。,Oops; sorry. I almost bumped into you there. Are you a cardmaster? Yeah; me too. I used to be C-rank; actually.
 ２週間前ぐらいになるんだが、\nCランクのキャミーという選手と戦ってね、\nその時の戦闘がどうにも忘れられないんだ。,It was about two weeks ago that I fought a C-rank player named Cammy; and I just can't get that battle out of my head.
 あの選手に負けたせいで\nCランクからDランクに落ちてしまったっていうのに、\n俺も自分で何を言ってるんだって思うよ。だけど・・・。,I dropped from C-rank to D-rank because of her; and I can't believe I'm saying this... But...
-キャミー選手の胸は\nほんとに脳がとけてしまうんじゃないかってぐらい気持ちよくて、\nそのうえ快楽攻撃ばっかり執拗にしてくるから…❤ううっ…❤,Cammy's breasts felt so good; it's like my brain was melting. And she just kept relentlessly hitting me with those pleasure attacks…❤ Ughh…❤
+キャミー選手の胸は\nほんとに脳がとけてしまうんじゃないかってぐらい気持ちよくて、\nそのうえ快楽攻撃ばっかり執拗にしてくるから…❤ううっ…❤,Cammy's breasts felt so good; it was like I could actually feel my mind melting away... And when she kept relentlessly hitting me with those pleasure attacks...❤ Ughh...❤
 僕、今日はＤランクのマスターと試合があるんだ。\nちゃんと集中しないとね。ううっ・・・・❤,I have a match against a D-rank master today. I need to focus properly. Ugh...❤
 よお、期待のルーキー！\nここまで４連勝なんだろ？アンタすげーな！,Hey; it's the promising rookie! Four consecutive wins so far; right? You're amazing!
 油断すれば下位ランカーにだって\n足元をすくわれることもあるのがカードバトルの世界。\nそれを負け知らずで４回も勝つなんてたいしたもんだぜ。,If they let your guard down; even lower-ranked players can trip you up in the world of card battles. Winning four times in a row is quite the achievement.
 あの蛇使いのパトラにも勝つなんてよ。\n次は昇格戦かぁ、見るのが楽しみだなぁ！\n最近は男は降格してばっかりだったからアンタには期待してるぜ！,You even beat that snake charmer; Patra! Next is the promotion match; right? I'm looking forward to watching it! Recently; the guys have been getting demoted left and right; so I'm counting on you!
-だからほらよ、持ってきな！\nこの金で新しいパックでも買って、\n上のランクのやつらをぎゃふんと言わせてやりな！,So here; take this! Use that to buy a new pack and make those higher-ranked girls eat their words!
-アンタのすげー試合を見せてもらえるなら、\nこれぐらい安いもんだぜ。\n楽しみにしてるぜ、ルーキー！,It's a small price to pay to get to see your amazing matches. I'm looking forward to it; rookie!
+だからほらよ、持ってきな！\nこの金で新しいパックでも買って、\n上のランクのやつらをぎゃふんと言わせてやりな！,So here; take this! Use that money to buy a new pack and make those higher-ranked girls eat their words!
+アンタのすげー試合を見せてもらえるなら、\nこれぐらい安いもんだぜ。\n楽しみにしてるぜ、ルーキー！,It's a small price to pay to see your amazing matches. I'm looking forward to it; rookie!
 よお、期待のルーキー！\n新しいカードは仕入れてきたか？,Yo; promising rookie! Did you get any new cards?
 なあに、アンタのすげー試合を見せてもらえるなら、\nこれぐらい安いもんだ。\n楽しみにしてるぜ、ルーキー！,Hey; it's a small price to pay to get to see your amazing matches. I'm looking forward to it; rookie!
 ねえねえ、もしかして、無敗のルーキーじゃないか？\nうわぁ、直接会えるなんて！,Hey; hey! Aren't you the undefeated rookie? Wow; I can't believe I'm meeting you in person!
@@ -131,10 +131,10 @@ Bランクまで上がった学生は国中でこの三人だけだからな。\
 わたしもカードマスターなんだけれど、\nとてもDランク以上に上がれる気がしないわ。\nバトルで勝つのって大変よ。,I'm a cardmaster; too; but I really don't feel like I can rise above D-rank. Winning battles these days is tough.
 Dランクには落ちぶれた男性マスターがたくさんいるし、\nわたしも色気を磨けば上に上がれるのかしら。\nうーん・・・。,There are a bunch of male masters in the D-rank who fell from the higher ranks; and sometimes I wonder if I could rise up by honing my allure like the other girls. Hmm...
 一度サキュバスカードを探してデッキに入れてみようかな。\nなかなか見つからないって言うけれど、市場で見つかるかしら。,Maybe I should try looking for a succubus card and add it to my deck. They say they're hard to find; but maybe I could find one in the market...
-カードマスターが犯罪をしたらどうなると思う？\nギルドで指名手配されて、\nモルゲンの特殊牢獄に入れられるのよ。,What do you think happens when a cardmaster commits a crime? They end up wanted by the guild and locked up in Morgen's special prison.
+カードマスターが犯罪をしたらどうなると思う？\nギルドで指名手配されて、\nモルゲンの特殊牢獄に入れられるのよ。,What do you think happens when a cardmaster commits a crime? They end up on the guild's wanted list, and are locked up in Morgen's special prison.
 カードを取り上げたうえで、\n強いカードマスターの看守たちが24時間見張っているの。\n凶悪な犯罪者だって逃げだすことはできないわ。,They take away your cards and strong cardmaster guards watch over you 24/7. Even the most notorious criminals can't escape.
-看守の一人、Cランクのヤツメさまはとってもカッコいいんだから。\nあのクールな瞳。わたしあの人のファンなの。\n無敗のルーキーのあなたにだってきっとヤツメさまは負けないわよ。,One of the guards; a C-rank master named Yatsume; is really cool. Those intense eyes of hers... I'm a big fan. Even you wouldn't stand a chance against her; undefeated rookie!
-なあ聞いてくれよ。\n俺の応援してた男のCランクカードマスターがこの間ぼろ負けしてよ、\nついに降格しちまったんだ。,Hey; listen up! The C-rank cardmaster I was cheering for got completely crushed the other day and ended up getting demoted.
+看守の一人、Cランクのヤツメさまはとってもカッコいいんだから。\nあのクールな瞳。わたしあの人のファンなの。\n無敗のルーキーのあなたにだってきっとヤツメさまは負けないわよ。,One of the guards; a C-rank master named Yatsume; is really cool. Those intense eyes of hers... I'm a big fan. Even you -the Undefeated Rookie- wouldn't stand a chance against her
+なあ聞いてくれよ。\n俺の応援してた男のCランクカードマスターがこの間ぼろ負けしてよ、\nついに降格しちまったんだ。,Hey; listen up! The C-rank cardmaster I was rooting for got completely crushed the other day; and ended up getting demoted; too.
 女どもの誘惑に負けないけっこう強いマスターだったんだぜ？\nだけど、一回の試合では我慢できても、\n何回も戦っているうちにとうとう耐え切れなくなったみたいでよ。,He was a pretty strong cardmaster who wasn't swayed by the women's temptations; you know? But while he might've been able to hold out in one match; it seems after back-to-back fights he just couldn't stand it anymore.
 一回こっぴどく負けてからはすっかり快楽に弱くなっちまって…。\nそこからはいくらやっても女マスターに勝てなくなっちまった。,After losing badly just once; he became totally weak to pleasure attacks... From then on; no matter how hard he tried; he couldn't win against the female masters anymore.
 一度でも女モンスターたちの気持ちよさ味わうと、\n快感に抗えなくなっちまうのかな。\nアンタは負けないでくれよ、無敗のルーキー。,Once you experience the pleasure of a female monster even once; you can't resist the ecstasy anymore. So please; undefeated rookie; don't lose.
