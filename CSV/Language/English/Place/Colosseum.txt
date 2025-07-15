@@ -51,7 +51,7 @@ Place/Colosseum,
 特殊オプション,Special Options
 ロード,Load
 セーブ,Save
-街に戻る,To Town
+街に戻る,Back to Town
 今は先にギルドに行って昇格の手続きを終わらせよう（クエストメニューから昇格手続きが行えます）。,I should go to the guild and complete the promotion procedure first (you can do the promotion procedure from the quest menu).
 今は先にクエストを終わらせよう。,I should finish my quest first.
 ギルドで説明を受けた闘技場に、僕は足を運んでいた。,I made my way to the colosseum I had heard about at the guild.
