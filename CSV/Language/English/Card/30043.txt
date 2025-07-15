@@ -1,3 +1,3 @@
 default
-レッドキャップ,紅帽怪
-[1].１ターンに１度、相手フィールド上にモンスターが１体しか存在しない場合に発動できる。このカードの攻撃力を400ポイントアップする。\n[2].このカードが相手モンスターを戦闘で破壊したとき発動する。デッキからカードを１枚ドローする。,[1].１回合１次，對手場上只有１體怪獸存在時發動。這張卡攻擊力提升400點。\n[2].這張卡戰鬥破壞對手怪獸時發動。抽１張卡。
+レッドキャップ,Redcap
+[1].１ターンに１度、相手フィールド上にモンスターが１体しか存在しない場合に発動できる。このカードの攻撃力を400ポイントアップする。\n[2].このカードが相手モンスターを戦闘で破壊したとき発動する。デッキからカードを１枚ドローする。,[1]. If there is only one monster on your opponent's field; you can increase this card's attack power by 400. (Once per turn)\n[2]. You may draw a card whenever this card destroys an opponent's monster in battle.
