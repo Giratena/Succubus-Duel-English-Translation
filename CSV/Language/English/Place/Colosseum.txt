@@ -60,13 +60,13 @@ Place/Colosseum,
 初めまして。闘技場への参加をご希望でしょうか？,Nice to meet you. Would you like to participate in the colosseum?
 分かりました。それではギルドリングをお見せください。,Understood. Now then; please show me your guild ring.
 ・・・。,...
-ありがとうございます。貴方がDランクであることを確認しました。闘技場への参加を承認します。,Thank you very much. After confirming your rank is D; I gladly approve your participation in the colosseum.
-再度話しかけていただければ、本日からでも対戦を組むことができますので、準備ができたらお声がけくださって構いませんよ。,If you speak to me again; we can arrange a match starting today; so feel free to let me know when you're ready.
+ありがとうございます。貴方がDランクであることを確認しました。闘技場への参加を承認します。,Thank you so much. After confirming your rank; I'm happy to say your application for the colosseum has been approved.
+再度話しかけていただければ、本日からでも対戦を組むことができますので、準備ができたらお声がけくださって構いませんよ。,Feel free to speak to me again when you're ready and I'll happily arrange a match for you today.
 おや、あんた新人選手かい？\nそのリングの色、Dランクだね。,Oh hey; you're a rookie; aren't you? That ring color means you're a D-rank; right?
 闘技場では普段からカードマスターたちが試合をして\nその腕を競っているんだ。\n祭りの間はとくに試合が盛りだくさんさ。,In the colosseum; cardmasters usually compete in matches to showcase their skills. During the festival; matches here are especially common.
 国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather to battle it out... Ah; the excitment of it all. I can hardly contain myself
-でもよ、最近は女マスターばっかり勝っててつまらねえ。\nもっと剣と剣がぶつかるような戦いを、前みたいに見たいもんだ。\n男としてあんたには期待してるぜ！,But you know; lately it's only been female masters winning; and it's actually starting to get pretty boring. I want to see battles where swords clash like they used to. So as a guy; I'm counting on you!
-闘技場って、中にいるだけで何だかワクワクしてくるよな。,The colosseum... Just being here makes you a bit excited; doesn't it?
+でもよ、最近は女マスターばっかり勝っててつまらねえ。\nもっと剣と剣がぶつかるような戦いを、前みたいに見たいもんだ。\n男としてあんたには期待してるぜ！,But you know; lately it's only been female masters winning; and it's actually starting to get pretty boring. I want to see battles where swords clash like they used to. So as one of the few guys still fighting; I'm counting on you!
+闘技場って、中にいるだけで何だかワクワクしてくるよな。,The colosseum... Just being here's kinda thrilling; don't you think?
 祭りの間はそこかしこでカードマスターたちが戦っているけど、\n闘技場はやっぱ真剣勝負の場って感じで雰囲気が違うぜ。\nああ、俺もカードマスターだったら参加してみてぇなぁ。,During the festival; cardmasters are battling all over the city; but the colosseum really feels like the place for more serious matches. The atmosphere just feels so different. Ah; if I were a cardmaster; I'd want to participate; too.
 男のカードマスターはあんまり勝率がよくないんだよねぇ。,Male cardmasters don't have a very good win-rate; you know.
 昔はそうでもなかったんだけど、サキュバスが出現してからは男の強いカードマスターがたくさん魔族領でやられちまって、それで女マスターと実力差がついちまった。,It wasn't always like that; but ever since the succubi appeared; many strong male cardmasters have been defeated in the demon realm; and now the skill gap with the female masters has just gotten wider.
@@ -126,18 +126,18 @@ Bランクまで上がった学生は国中でこの三人だけだからな。\
 ルーキーってこの街に来たときはFランクだったのに、\n連戦連勝であっという間にCランクに上がったんだろ？\nすげー！かっこいい！俺も無敗のルーキーみたいになりたい！,You were just an F-rank when you first came to town; but you rose to C-rank so quickly just winning back-to-back; right? That's amazing! So cool! I want to be an undefeated rookie just like you!
 なあ、握手してくれよ。いいの？ほんとに？\nやった！ありがとう！\n俺、この手しばらく洗わないよ！,Hey; can I shake your hand? Is that okay? Really!? Awesome! Thank you! I won't be washing this hand for a while!
 最近どうも王都の方がきなくさいらしいな。\nギルドマスターや高ランクのマスターが盛んに行き来していて、\nそろそろ大きな戦でもあるんじゃないかって話だぜ。,Recently; it feels like something's brewing in the royal capital. Guild masters and high-ranking cardmasters have been coming and going frequently; and there's talk that a major conflict might be on the horizon.
-王都とモルゲンには強力な結界があって、\nサキュバスたちも簡単には手を出せねえ。\nそれでしばらく膠着状態だったんだが、いよいよ動き出すのかもな。,The royal capital and Morgen have powerful barriers; so even the succubi can't easily make a move. That's why the war's been in a stalemate for a while; but it might finally be starting to move again.
-まあ、モルゲンは魔族領からは遠いから\n直接戦いになったりはしないだろうけどよ。\n王都に食い物が流れる分、値上げとかするかもしれねえな。,Well; since Morgen is pretty far from the demon territory; the fighting probably won't reach us. Still; since the royal capital's food supplies will be prioritized; prices might go up.
+王都とモルゲンには強力な結界があって、\nサキュバスたちも簡単には手を出せねえ。\nそれでしばらく膠着状態だったんだが、いよいよ動き出すのかもな。,The royal capital and Morgen have powerful barriers; so even the succubi can't easily make a move. It's left the war in a standstill for a while, but tensions might finally be starting to flare again.
+まあ、モルゲンは魔族領からは遠いから\n直接戦いになったりはしないだろうけどよ。\n王都に食い物が流れる分、値上げとかするかもしれねえな。,Thankfully; since Morgen is pretty far from the demon territory; the fighting probably won't reach us. Still; since the royal capital's food supplies will be prioritized; prices might go up.
 わたしもカードマスターなんだけれど、\nとてもDランク以上に上がれる気がしないわ。\nバトルで勝つのって大変よ。,I'm a cardmaster; too; but I really don't feel like I can rise above D-rank. Winning battles these days is tough.
 Dランクには落ちぶれた男性マスターがたくさんいるし、\nわたしも色気を磨けば上に上がれるのかしら。\nうーん・・・。,There are a bunch of male masters in the D-rank who fell from the higher ranks; and sometimes I wonder if I could rise up by honing my allure like the other girls. Hmm...
 一度サキュバスカードを探してデッキに入れてみようかな。\nなかなか見つからないって言うけれど、市場で見つかるかしら。,Maybe I should try looking for a succubus card and add it to my deck. They say they're hard to find; but maybe I could find one in the market...
 カードマスターが犯罪をしたらどうなると思う？\nギルドで指名手配されて、\nモルゲンの特殊牢獄に入れられるのよ。,What do you think happens when a cardmaster commits a crime? They end up on the guild's wanted list, and are locked up in Morgen's special prison.
-カードを取り上げたうえで、\n強いカードマスターの看守たちが24時間見張っているの。\n凶悪な犯罪者だって逃げだすことはできないわ。,They take away your cards and strong cardmaster guards watch over you 24/7. Even the most notorious criminals can't escape.
-看守の一人、Cランクのヤツメさまはとってもカッコいいんだから。\nあのクールな瞳。わたしあの人のファンなの。\n無敗のルーキーのあなたにだってきっとヤツメさまは負けないわよ。,One of the guards; a C-rank master named Yatsume; is really cool. Those intense eyes of hers... I'm a big fan. Even you -the Undefeated Rookie- wouldn't stand a chance against her
+カードを取り上げたうえで、\n強いカードマスターの看守たちが24時間見張っているの。\n凶悪な犯罪者だって逃げだすことはできないわ。,They take away your cards have strong cardmasters watch you 24/7. Even the most dangerous criminals can't escape.
+看守の一人、Cランクのヤツメさまはとってもカッコいいんだから。\nあのクールな瞳。わたしあの人のファンなの。\n無敗のルーキーのあなたにだってきっとヤツメさまは負けないわよ。,One of the guards; a C-rank master named Yatsume; is really cool. Just thinking about her intense gaze... I'm her biggest fan. Even you -the Undefeated Rookie- wouldn't stand a chance against her!
 なあ聞いてくれよ。\n俺の応援してた男のCランクカードマスターがこの間ぼろ負けしてよ、\nついに降格しちまったんだ。,Hey; listen up! The C-rank cardmaster I was rooting for got completely crushed the other day; and ended up getting demoted; too.
 女どもの誘惑に負けないけっこう強いマスターだったんだぜ？\nだけど、一回の試合では我慢できても、\n何回も戦っているうちにとうとう耐え切れなくなったみたいでよ。,He was a pretty strong cardmaster who wasn't swayed by the women's temptations; you know? But while he might've been able to hold out in one match; it seems after back-to-back fights he just couldn't stand it anymore.
 一回こっぴどく負けてからはすっかり快楽に弱くなっちまって…。\nそこからはいくらやっても女マスターに勝てなくなっちまった。,After losing badly just once; he became totally weak to pleasure attacks... From then on; no matter how hard he tried; he couldn't win against the female masters anymore.
-一度でも女モンスターたちの気持ちよさ味わうと、\n快感に抗えなくなっちまうのかな。\nアンタは負けないでくれよ、無敗のルーキー。,Once you experience the pleasure of a female monster even once; you can't resist the ecstasy anymore. So please; undefeated rookie; don't lose.
+一度でも女モンスターたちの気持ちよさ味わうと、\n快感に抗えなくなっちまうのかな。\nアンタは負けないでくれよ、無敗のルーキー。,Once you've experience the pleasure of a female monster can offer you; you won't be able to resist that feeling ever again. Hey; undefeated rookie; you better not lose.
 ネネコ選手みたいな獣人って、\n普段は北の方に住んでいる種族なのよ。\nだから南にあるモルゲンに来ると暑くて大変らしいわ。,Beastmen like Neneko usually live in the northern regions; so when they come to Morgen in the south; it seems to be quite hot and tough for them.
 毛がもふもふしてて、人間よりも体温高そうだもの。\nでも、獣人の男の子ってかわいいから、\n一度あのもふもふを思いっきりなでてみたいわね。,Their fur is really fluffy; and they seem to have a higher body temperature than humans. But beastmen boys are so cute; I want to try giving that fluff a good petting at least once; you know?
 ううっ、まさかヤツメ様があんたみたいな男に負けるだなんて…。\nショックだわ…。,Ugh; I can't believe Lady Yatsume would lose to a guy like you... It's just unthinkable...
@@ -312,7 +312,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 ほら、またサインを書いておくれよ。\n代わりにまた珍しいカードをあげるからさ。,Here; write your autograph again. In return; I'll give you another rare card.
 おお、ありがとう！\nいやぁさすがは期待の新人だね。\nあんたほど優しい男をわたしゃ知らないよ。,Oh; thank you! Wow; you really earned your title of promising rookie. I don't know any other man as kind as you!
 ほらこれがお礼のカードだ。\nあんまり役に立たない猫のゴーレムだそうだよ。\nちょっと攻撃力を上げてくれるとか。まあうまく使ってやっておくれ。,Here; this is a thank-you card. It's a cat golem that doesn't really do much; but it might boost your attack power a bit. Make good use of it.
-{%%40234}を手に入れた！,You got {%%40234}!
+{%%40234}を手に入れた！,I got {%%40234}!
 なんだい。今日はけちだね。\nなにか機嫌でも悪いのかい。,What's up? You're being stingy today. Are you in a bad mood or something?
 ・・・おや、また会ったね。\n猫ゴーレムが入らないって言われてもわたしにゃどうしようもないよ。\nわたし自身はカードを使えないしね。,...Oh; we meet again. If they say cat golems aren't allowed; there's nothing I can do about it. I can't use the card myself; you know?
 捨てるに忍びないからってんでわたしにくれるんだろうね。\nまあ色々変わったカードがあるからこれからも\nサインのお代にあげるよ。楽しみにしてな。,They probably gave it to me because they can't bear to throw it away. Anyway; I have various other unique cards; so I'll continue giving them to you as payment for your signature! Look forward to it.
