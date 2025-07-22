@@ -64,7 +64,7 @@ Place/Colosseum,
 再度話しかけていただければ、本日からでも対戦を組むことができますので、準備ができたらお声がけくださって構いませんよ。,Feel free to speak to me again when you're ready and I'll happily arrange a match for you today.
 おや、あんた新人選手かい？\nそのリングの色、Dランクだね。,Oh hey; you're a rookie; aren't you? That ring color means you're a D-rank; right?
 闘技場では普段からカードマスターたちが試合をして\nその腕を競っているんだ。\n祭りの間はとくに試合が盛りだくさんさ。,In the colosseum; cardmasters usually compete in matches to showcase their skills. During the festival; matches here are especially common.
-国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather to battle it out... Ah; the excitment of it all. I can hardly contain myself
+国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather to battle it out... Ah; the excitment of it all. I can hardly contain myself!
 でもよ、最近は女マスターばっかり勝っててつまらねえ。\nもっと剣と剣がぶつかるような戦いを、前みたいに見たいもんだ。\n男としてあんたには期待してるぜ！,But you know; lately it's only been female masters winning; and it's actually starting to get pretty boring. I want to see battles where swords clash like they used to. So as one of the few guys still fighting; I'm counting on you!
 闘技場って、中にいるだけで何だかワクワクしてくるよな。,The colosseum... Just being here's kinda thrilling; don't you think?
 祭りの間はそこかしこでカードマスターたちが戦っているけど、\n闘技場はやっぱ真剣勝負の場って感じで雰囲気が違うぜ。\nああ、俺もカードマスターだったら参加してみてぇなぁ。,During the festival; cardmasters are battling all over the city; but the colosseum really feels like the place for more serious matches. The atmosphere just feels so different. Ah; if I were a cardmaster; I'd want to participate; too.
@@ -126,12 +126,12 @@ Bランクまで上がった学生は国中でこの三人だけだからな。\
 ルーキーってこの街に来たときはFランクだったのに、\n連戦連勝であっという間にCランクに上がったんだろ？\nすげー！かっこいい！俺も無敗のルーキーみたいになりたい！,You were just an F-rank when you first came to town; but you rose to C-rank so quickly just winning back-to-back; right? That's amazing! So cool! I want to be an undefeated rookie just like you!
 なあ、握手してくれよ。いいの？ほんとに？\nやった！ありがとう！\n俺、この手しばらく洗わないよ！,Hey; can I shake your hand? Is that okay? Really!? Awesome! Thank you! I won't be washing this hand for a while!
 最近どうも王都の方がきなくさいらしいな。\nギルドマスターや高ランクのマスターが盛んに行き来していて、\nそろそろ大きな戦でもあるんじゃないかって話だぜ。,Recently; it feels like something's brewing in the royal capital. Guild masters and high-ranking cardmasters have been coming and going frequently; and there's talk that a major conflict might be on the horizon.
-王都とモルゲンには強力な結界があって、\nサキュバスたちも簡単には手を出せねえ。\nそれでしばらく膠着状態だったんだが、いよいよ動き出すのかもな。,The royal capital and Morgen have powerful barriers; so even the succubi can't easily make a move. It's left the war in a standstill for a while, but tensions might finally be starting to flare again.
+王都とモルゲンには強力な結界があって、\nサキュバスたちも簡単には手を出せねえ。\nそれでしばらく膠着状態だったんだが、いよいよ動き出すのかもな。,The royal capital and Morgen have powerful barriers; so even the succubi can't easily make a move. It's left the war in a standstill for a while; but tensions might finally be starting to flare up again.
 まあ、モルゲンは魔族領からは遠いから\n直接戦いになったりはしないだろうけどよ。\n王都に食い物が流れる分、値上げとかするかもしれねえな。,Thankfully; since Morgen is pretty far from the demon territory; the fighting probably won't reach us. Still; since the royal capital's food supplies will be prioritized; prices might go up.
 わたしもカードマスターなんだけれど、\nとてもDランク以上に上がれる気がしないわ。\nバトルで勝つのって大変よ。,I'm a cardmaster; too; but I really don't feel like I can rise above D-rank. Winning battles these days is tough.
 Dランクには落ちぶれた男性マスターがたくさんいるし、\nわたしも色気を磨けば上に上がれるのかしら。\nうーん・・・。,There are a bunch of male masters in the D-rank who fell from the higher ranks; and sometimes I wonder if I could rise up by honing my allure like the other girls. Hmm...
 一度サキュバスカードを探してデッキに入れてみようかな。\nなかなか見つからないって言うけれど、市場で見つかるかしら。,Maybe I should try looking for a succubus card and add it to my deck. They say they're hard to find; but maybe I could find one in the market...
-カードマスターが犯罪をしたらどうなると思う？\nギルドで指名手配されて、\nモルゲンの特殊牢獄に入れられるのよ。,What do you think happens when a cardmaster commits a crime? They end up on the guild's wanted list, and are locked up in Morgen's special prison.
+カードマスターが犯罪をしたらどうなると思う？\nギルドで指名手配されて、\nモルゲンの特殊牢獄に入れられるのよ。,What do you think happens when a cardmaster commits a crime? They end up on the guild's wanted list; and are locked up in Morgen's special prison.
 カードを取り上げたうえで、\n強いカードマスターの看守たちが24時間見張っているの。\n凶悪な犯罪者だって逃げだすことはできないわ。,They take away your cards have strong cardmasters watch you 24/7. Even the most dangerous criminals can't escape.
 看守の一人、Cランクのヤツメさまはとってもカッコいいんだから。\nあのクールな瞳。わたしあの人のファンなの。\n無敗のルーキーのあなたにだってきっとヤツメさまは負けないわよ。,One of the guards; a C-rank master named Yatsume; is really cool. Just thinking about her intense gaze... I'm her biggest fan. Even you -the Undefeated Rookie- wouldn't stand a chance against her!
 なあ聞いてくれよ。\n俺の応援してた男のCランクカードマスターがこの間ぼろ負けしてよ、\nついに降格しちまったんだ。,Hey; listen up! The C-rank cardmaster I was rooting for got completely crushed the other day; and ended up getting demoted; too.
@@ -154,7 +154,7 @@ Dランクには落ちぶれた男性マスターがたくさんいるし、\n�
 あら、期待のルーキーじゃない！\nあなたいよいよ、Bランク昇格戦に挑むのよね？\n公式戦無敗でここまで行くとか、ほんとうにすごいわね！,Hey; you're the promising rookie! You're finally challenging the B-rank promotion match; right? It's really impressive that you've made it this far without losing a single official match!
 特等席のチケットをなけなしの金で買ったのよ。\n次の試合でもカッコいいところ見せてよね！,I bought a front-row ticket to your match with the last of my money. Make sure to show us something cool in the next match too; okay?
 モルゲンのカードマスター学園といえば、この国でも一番の学園よ。\n入門試験はそこまで難しくないけど、昇級は超難関。\n全体の1割ぐらいしか最上級生にはなれないんだって。,The Cardmaster Academy in Morgen is the best academy in the country. The entrance exam isn't too tough; but the promotion exams are where people struggle. Only about 10% of the students make it to the top grade.
-でも、最近学園の風紀が乱れているらしいわ。\n昔と違ってエッチな技術も教えるようになったからなのか、男子生徒を\n奴隷のようにこき使う女子グループがいくつかあるって聞いたわ。,However, I've heard that the school's discipline has been deteriorating recently. Apparently; unlike in the past; some of the girls have started learning lewd techniques and are treating male students like slaves.
+でも、最近学園の風紀が乱れているらしいわ。\n昔と違ってエッチな技術も教えるようになったからなのか、男子生徒を\n奴隷のようにこき使う女子グループがいくつかあるって聞いたわ。,However; I've heard that the school's discipline has been deteriorating recently. Apparently; unlike in the past; some of the girls have started learning lewd techniques and are treating male students like slaves.
 男ってだけでこき使われるのはかわいそうよね。\n注意しようにも男の先生も多いから、彼女たちにたじたじにされて、\n対処に手を焼いているそうよ。,It's really sad that they're being used like that just because they're boys; don't you think? Some of the teachers have tried to intervene; but a bunch of the male teachers are apparently intimidated by these girls and are having trouble dealing with the situation.
 ねーねー、無敗のルーキー、僕、大ファンなんだ！\n勝ちまくっててカッコいいよなー！,Hey; hey; undefeated rookie! I'm a huge fan! It's so cool how you just keep winning!
 へー、近くで見ると、ルーキーの手って\nうちの父ちゃんとかよりもごつごつしてないんだな。でも、これで\nうちの父ちゃんなんか目じゃないぐらい強いんだよな。すげー！,Wow; seeing you up close like this; your hands aren't as rough as my dad's. But you're still way stronger than him. Amazing!
@@ -268,7 +268,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 コントロール能力さえ高ければ魔力消費を抑えられるのは\nメリットにあげられるのかもしれませんね。,I suppose if you can control the magical energy; I suppose being able to reduce magic power consumption could be considered an advantage; right?
 魔族領への侵攻のための兵を王都で集めているようですね。\nサキュバス相手となると今のわたしでは\n行ったところで敵の養分になってしまうだけでしょう。,Looks like they're gathering troops in the royal capital for an invasion of the demon realm. If I were to face a succubus now; I would just end up as food for the enemy.
 これはせめてもの行為です。\n無敗のルーキー、あなたにカードを１枚託します。,This is the least I can do. Undefeated rookie; I entrust you with this card.
-『{%%40333}』を手に入れた！,I got {%%40333}!
+『{%%40333}』を手に入れた！,Obtained {%%40333}!
 わたしが持っている中でも一番レアリティの高いカードです。\nあなたならきっと役に立てることもできるでしょう。,It's the rarest card I have. I'm sure you could put it to good use.
 しかし、わたしだってあなたの背を追うばかりではありません。\n必ずや快楽攻撃を克服して、サキュバスにも打ち勝ってみせますよ！,However; I'm not just going to let myself trail behind you. I'll definitely overcome pleasure attacks and defeat the succubi!
 わたしが託したカードは、\nデッキから魔法カードを加えることのできる汎用的なカードです。,The card I entrusted to you is a versatile card that allows you to add a spell card from your deck to your hand.
@@ -276,14 +276,14 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 もし使い道がなければ売ってしまってもかまいません。\nそのときはあなたが魔族領に行くときの、路銀にでも変えてください！,If you can't really use it; feel free to sell it. If you did that; you could exchange it for travel expenses when you go to the demon realm!
 やぁやぁ、いらっしゃい。\nここでは闘技場の人気ランカーたちのグッズを売ってるよ。,Hey there; welcome! I sell merchandise from popular colosseum fighters here!
 あの有名なモルゲン学園のエリートBランカー、メロディや\nシルヴィアのサイン色紙に・・・。,We have signed autograph boards from the famous elite B-rankers from Morgen Academy; Melody and Sylvia...
-モンスターを１枚も使わずに戦う、\n「百器使い」ムサシ選手の武器をモデルにした\n模造刀なんてのもあるよ。,There's even a replica sword modeled after the weapon of Musashi; the 'Multi-Weapon Master'; who fights without using a single monster!
+モンスターを１枚も使わずに戦う、\n「百器使い」ムサシ選手の武器をモデルにした\n模造刀なんてのもあるよ。,There's even a replica sword modeled after the weapon of Musashi; the 'Toolkit Tyrant'; who fights without using a single monster!
 おや、アンタもよく見るとカードマスターだね。\nこれから試合かい？\nそれならほら、この色紙にサインをしておくれよ。,Oh; looking closer; you're a cardmaster too; aren't you? Are you heading to a match? In that case; here; sign this for me!
 アンタがもし有名になったら高く売れるかもしれないだろ。\n代わりにほら、珍しいカードをあげよう。,If you get famous; I could probably sell it for a decent price. In exchange; I'll give you a rare card.
 サインを書いた,Sign
 サインを書かなかった,Don't sign
 おお、ありがとう！\nアンタ気前がいいね。きっとこれから大成するよ。,Oh wow; thanks! You're pretty generous; aren't you? I'm sure you'll achieve great things from here on out!
 ほらこれがお礼のカードだ。\n他のマスターから「いらない」ってんでもらったんだが、\nうまく活用してやってくれ。,Here; this is a thank-you card. I got it from another master who said they didn't need it. Make good use of it.
-{%%40208}を手に入れた！,I got {%%40208}!
+{%%40208}を手に入れた！,Obtained {%%40208}!
 むむ、けちだねー、アンタ。\nそんなんじゃ大成しないよ。,Hmm; you're a stingy one; aren't you? With that attitude; you'll never get far!
 まあいいや、それなら代わりに何か買っていっておくれよ。\nえ？荷物になるからいらない？\n残念だねー、こんなにいい商品ばかりなのに。,Well; never mind. In that case; why don't you buy something instead? Huh? You don't want it because it would just weigh you down? That's too bad; considering how great these products are.
 モルゲン学園のエリートBランカー、\nメロディ嬢やシルヴィア嬢のサイン色紙に・・・。,Step on up and buy autographs from Melody and Sylvia; the elite B-rankers of Morgen Academy...
@@ -300,7 +300,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 ほら、またサインを書いておくれよ。\nあんたのサインわりと人気があるんだ。\n代わりにまた珍しいカードをあげるからさ。,Here; write your signature again. Your autograph's pretty popular right now. In return; I'll give you another rare card.
 おお、ありがとう！\nいやぁさすがは期待の新人だね。\nやっぱり上に行くやつは太っ腹だよ。性格がいいね。,Oh; thank you! Wow; as expected from a promising rookie. Those destined to rise to the top are always so generous! You have a good heart; don't you?
 ほらこれがお礼のカードだ。\n自分の体にキノコを生やすカードだよ。何に使うんだろうね。\nまあうまく使ってやっておくれ。,Here; this is a thank-you card. It makes mushrooms grow on your body. I'm not really sure what it's for; but make sure to put it to good use.
-{%%40327}を手に入れた！,I got {%%40327}!
+{%%40327}を手に入れた！,Obtained {%%40327}!
 なんだい。一回勝ったぐらいで有名人気取りかい。\n気前のよかったアンタが、\nケチになっちゃうなんて、わたしゃ悲しいね。,What's up? Just because you won once; you think you're too famous for autographs now? It's sad to see someone who used to be so generous become so stingy; don't you think?
 何も買わないなら帰っておくれ。\nこの珍しいカードもほかの人に売っちまうよ。,If you're not going to buy anything; then just go home. I'll sell this rare card to someone else!
 おや、自分のサインがどれぐらい売れてるのか見に来たのかい？\nまあまだ一勝だからね。\n闘技場のマニアがちょっと買ってくぐらいだよ。,Oh; did you come to see how much your signature is selling for? Well; you've still only won once. Only a few colosseum enthusiasts buy it!
@@ -312,7 +312,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 ほら、またサインを書いておくれよ。\n代わりにまた珍しいカードをあげるからさ。,Here; write your autograph again! In return; I'll give you another rare card.
 おお、ありがとう！\nいやぁさすがは期待の新人だね。\nあんたほど優しい男をわたしゃ知らないよ。,Oh; thank you! Wow; you really earned your title of promising rookie. I don't know any other man as kind as you!
 ほらこれがお礼のカードだ。\nあんまり役に立たない猫のゴーレムだそうだよ。\nちょっと攻撃力を上げてくれるとか。まあうまく使ってやっておくれ。,Here; this is a thank-you card. It's a cat golem that doesn't really do much; but it might boost your attack power a bit. Make good use of it.
-{%%40234}を手に入れた！,I got {%%40234}!
+{%%40234}を手に入れた！,Obtained {%%40234}!
 なんだい。今日はけちだね。\nなにか機嫌でも悪いのかい。,What's up? You're being stingy today. Are you in a bad mood or something?
 ・・・おや、また会ったね。\n猫ゴーレムが入らないって言われてもわたしにゃどうしようもないよ。\nわたし自身はカードを使えないしね。,...Oh; we meet again. If they say cat golems aren't allowed; there's nothing I can do about it. I can't use the card myself; you know?
 捨てるに忍びないからってんでわたしにくれるんだろうね。\nまあ色々変わったカードがあるからこれからも\nサインのお代にあげるよ。楽しみにしてな。,They probably gave it to me because they can't bear to throw it away. Anyway; I have various other unique cards; so I'll continue giving them to you as payment for your signature! Look forward to it.
@@ -322,7 +322,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 ・・・おや、また会ったね。\nあんたのサインは男マスターの中じゃ売れてるほうさ。これで\n３連勝だろう？あんたならもしかしたらって期待されてるのかもね。,...Oh; we meet again; eh? Your signature is one of the better-selling ones among the male masters. That's three wins in a row; right? Maybe they're expecting something from you; do you think?
 おお、ありがとう！\nいやぁさすがは男の中の男だね。\n婆に優しい、それだからこんなに強いんだ。,Oh; thank you! Wow; you're truly a man among men. You're kind heart's why you're so strong. 
 ほらこれがお礼のカードだ。\n今度は正真正銘レアカードだよ。\nたぶん強いよ。,Here; take this thank-you card. It's a genuine rare card this time. It even looks pretty strong!
-{%%60036}を手に入れた！,I got {%%60036}!
+{%%60036}を手に入れた！,Obtained {%%60036}!
 侍使いのマスターがわたしに売っていったんだ。\n爆乳マスターのキャミーに負けて、いまじゃすっかり落ちぶれちまったが、\n強くていいマスターだったんだよ。,The samurai-using master sold it to me. He lost to the busty master Cammy; and has completely fallen from grace now. Still; he was a good and strong master!
 男マスターの話をしてたらなんだか思い出しちまった。\nこんないいもの普段ならあげないんだけど、\nアンタなら上手く使いこなせるかもね。,Talking about the male masters reminded me I had it. I usually wouldn't give away something this good; but maybe you could make good use of it; right?
 なんだい。あんたは男マスターの中だと一番けちかもね。\n女マスターに勝てたからってそんなじゃすぐ負けちまうよ。,Seriously? You might be the stingiest out of all the male masters I've seen. Even if you managed to beat a couple female masters; at this rate; you'll lose soon enough!
@@ -333,7 +333,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 ・・・おや、また会ったね。\nあんたに注目する人もだいぶ増えて、サインもいい感じに売れてるよ。\nいやぁわたしの目に狂いはなかったね。,...Oh; we meet again. More and more people are paying attention to you; and your autographs are selling quite well! I guess my judgment was spot on; don't you think?
 おお、ありがとう！\nもうすぐCランクになる男はさすがだね。\nあんたみたいに優しい人にはきっといいことがあるよ。,Oh; thank you! Just what I'd expect from a man who's about to reach C-Rank. Someone kind like you will surely have good things come your way.
 ほらこれがお礼のカードだ。\nあんたみたいな金の卵を産むにわとりのカードだよ。\n卵がずっと残ればお金儲けに使えるんだけどねぇ。,Here; this is a thank-you card. It's a card of a hen that lays golden eggs; kind of like you with your signatures! If the egg was real; I could've made a lot of money; don't you think?
-{%%40328}を手に入れた！,I got {%%40328}!
+{%%40328}を手に入れた！,Obtained {%%40328}!
 なんだい。いつになくけちだね。\nCランクになれるからって、増長しちまったのかい？\nおお、やだやだ。,What's up? You're unusually stingy today. Have you gotten full of yourself just because you have a shot at becoming a C-rank? That's too bad.
 ・・・おや、また会ったね。\nにわとりはちゃんと働いてるかい？\nバトルが終わったら産んだ卵も消えちまうらしいからそこが残念だね。,...Oh; we meet again; eh? Is that chicken I gave you working out? It seems that the eggs it lays disappear after battle. Such a shame; don't you think?
 まあそうじゃなければ\nカードでいくらでも何でも生み出せるからね。\nあたしらみたいな一般人は商売あがったりだったろうね。,I guess if they didn't; you could create just about anything and everything with cards. People like us; the common folk; would have been out of business; huh?
@@ -343,7 +343,7 @@ Bランクマスターシルヴィア選手の最強カード、イージスの�
 ・・・おや、また会ったね。\nあんたに会いたかったんだ。見てごらんあんたのサインは大人気さ。\nやっぱりあんたは大物になるって思ってたよ。,...Oh; we meet again. I wanted to see you. Look; your signature is super popular. I knew you were going to be a big deal!
 おお、ありがとう！\nさすが無敗でCランクになっただけあるね。\nあんたみたいに太っ腹なマスターはそうはいないよ。,Oh; thank you! Just what I'd expect from someone who made it to C-rank undefeated. There aren't many generous masters like you!
 ほらこれがお礼のカードだ。\nキャミーに勝った強運なあんたにぴったりの、\nサイコロのカードだよ。,Here; this is a thank-you card. It's a dice card; perfect for someone lucky enough to beat Cammy!
-{%%40330}を手に入れた！,I got {%%40330}!
+{%%40330}を手に入れた！,Obtained {%%40330}!
 なんだい。けちだね。\nCランクになって、人が変わっちまったのかい？\nおお、やだやだ。,What's up? You're being kinda stingy; aren't you? Did making it to C-rank change you? That's too bad.
 ・・・おや、また会ったね。サイコロのカードは使えているかい？\nあたしにゃよくわからないが、\nモンスターのレベルを変えるとかなんとか。,...Oh; we meet again. Have you gotten a chance to try out the dice card I gave you? I don't really understand how it works; but it's something about changing the monster's level or something?
 運任せな分使い手を選びそうなカードだよね。\n強運で実力もあるあんたにゃぴったりだよ。,It seems like a card that relies on luck and might be picky about who can use it. It's perfect for someone like you who has both luck and skill!
@@ -351,7 +351,7 @@ Bランクマスターシルヴィア選手の最強カード、イージスの�
 最近の売れ筋はこれ、あの無敗のルーキーのサインだよ。\n男の身なのに勝利に次ぐ勝利、\nCランクでも快進撃を続けてるあのルーキーだよ。,The recent bestseller is this; the signature of the Undefeated Rookie! Despite being a man; he keeps winning victory after victory; continuing his impressive run even into C-rank!
 おお、ありがとう！\nやっぱりアンタはいい男だね。優しいし強いし、\nいやぁモルゲンで一番男前かもしれないね。,Oh; thank you! You really are a good man; aren't you? You're kind and strong; and you might just be the most handsome guy in Morgen; you know?
 ほらこれがお礼のカードだ。\n昔ネネコがいらないってくれたネズミのカードだよ。\nとげとげしてるから気に入らないとか言ってたね。,Here; this is a thank-you card. It's a mouse card that Neneko didn't want and gave to me a long time ago. I think she said she didn't like it because it was 'too prickly.'
-{%%60041}を手に入れた！,I got {%%60041}!
+{%%60041}を手に入れた！,Obtained {%%60041}!
 なんだい。いまさらけちけちしちゃってさ。つれないね。\nたくさん勝って人気も出たからって優しい心をなくしちまったのかい？\nおお、やだやだ。,What's up? Being stingy now; huh? So cold. Just because you've won a lot and gotten really popular; you've lost your kind heart? Oh; how awful.
 ・・・おや、また会ったね。\nネズミは役に立ってるかい？\nネズミは小さくてかわいいよねぇ。あたしゃわりと好きだよ。,...Oh; we meet again. Is the mouse being useful? Mice are small and cute; aren't they? I quite like them!
 ちょろちょろしてて意地汚くて、なんだか親近感がわくじゃないか。\n人間だって似たようなものだろう？\nあたしゃそう思うね。,They're always scurrying around; being a bit greedy; yet somehow; they feel relatable; don't you think? Humans are pretty similar; right? That's what I think.
