@@ -2,7 +2,7 @@ default
 ヤツメ,Yatsume
 F20_thighJobAnime,
 F20_bindThighJobAnime,
-おや、誰かと思えば、先日のルーキーか。\nこの間は、苦汁を飲まされてしまったが、\n今日は勝たせてもらうとしよう。,
+おや、誰かと思えば、先日のルーキーか。\nこの間は、苦汁を飲まされてしまったが、\n今日は勝たせてもらうとしよう。,Oh my; if it isn't the rookie from the other day. Last time; you made me taste bitter defeat; but today—I'll be the one claiming victory.
 お前の実力は認めている。\nしかし、だからといって負けっぱなしは性に合わない。\nアラクネたちの糸の力でがんじがらめにしてみせよう！,
 おや、{主人公}か。また会ったな。\nお前はやはり男のマスターの中では群を抜いて強い。\nだからこそバトルのしがいもあるというものだ。,
 先日は負けたが今日は勝ってみせよう。\nアラクネたちの糸で身動きを封じ、\n一方的に喘がせてみせる❤さあ、カードを構えるんだ。,
