@@ -104,12 +104,12 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 くっ、サキュバスはやっぱり強い…！,Kuh; she really is strong...!
 援護します！,I’ll back you up!
 僕は敵のスライムサキュバスめがけて魔法カードで攻撃をしかけた！,You aimed at the enemy slime succubus with your spell cards and launched an attack!
-きゃあ！うそ、フラワーちゃん負けちゃったの！,Kyaa! Unbelievable; how could Flower lose!?
+きゃあ！うそ、フラワーちゃん負けちゃったの！,Kyaa! Unbelievable; how could Mycella lose!?
 わたしのモンスターたち、チャンスよ！\n相手プレイヤーにダイレクトアタック！,Now’s our chance! My monsters; do a direct attack on the opponent!
 あうう、復活してすぐじゃなければ…。,Augh; if only it wasn’t right after I got resurrected...
 エルルの指示でモンスターたちがとどめをさす。エルルに倒されたサキュバスは、その場で霧のように消えてしまった。,The monsters ordered by Eruru landed the finishing blow. The defeated succubus vanished into mist.
 はぁ、ふう…。なんとかなったわね…。そっちは大丈夫？,Phew... Somehow we managed to scrape by...Are you alright?
-無事倒せました．,I managed to beat her.
+無事倒せました。,I managed to beat her.
 へえ、きみなかなかすごいのね。\n男なのにサキュバス相手に１対１で勝てるなんて、かなりのものよ。,Wow; that’s pretty impressive of you. A male winning against a succubus one-on-one is quite a feat.
 わたしの相手の子は、\nなんだか本調子じゃないって感じだったし、\nそのおかげでなんとか戦えたわ。,I was only able to manage fighting against my opponent because she didn’t seem to be at full strength.
 なんにせよ、早くギルドに戻りましょう。\nまた別のサキュバスがいたりしたら危険だわ。,In any case; we should return to the guild quickly. There might still be another succubus; so staying here any longer would be dangerous.
