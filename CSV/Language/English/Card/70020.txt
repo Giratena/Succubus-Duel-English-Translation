@@ -1,73 +1,73 @@
-default
+default,
 ヤツメ,Yatsume
 F20_thighJobAnime,
 F20_bindThighJobAnime,
 おや、誰かと思えば、先日のルーキーか。\nこの間は、苦汁を飲まされてしまったが、\n今日は勝たせてもらうとしよう。,Oh my; if it isn't the rookie from the other day. Last time; you made me taste bitter defeat; but today—I'll be the one claiming victory.
 お前の実力は認めている。\nしかし、だからといって負けっぱなしは性に合わない。\nアラクネたちの糸の力でがんじがらめにしてみせよう！,I acknowledge your skill.However; that doesn't mean I'm content with constantly losing. I'll bind you tight with the power of my Arachnes' threads!
-おや、{主人公}か。また会ったな。\nお前はやはり男のマスターの中では群を抜いて強い。\nだからこそバトルのしがいもあるというものだ。,Oh; {主人公}? We meet again.You really are exceptionally strong among male masters. That's exactly what makes battling you so worthwhile!
-先日は負けたが今日は勝ってみせよう。\nアラクネたちの糸で身動きを封じ、\n一方的に喘がせてみせる❤さあ、カードを構えるんだ。,I lost the other day; but today I'll show you victory! I'll seal your movements with my Arachnes' threads; and make you moan helplessly just for me.❤ Now; ready your cards!
+おや、{主人公}か。また会ったな。\nお前はやはり男のマスターの中では群を抜いて強い。\nだからこそバトルのしがいもあるというものだ。,Oh; {主人公}? We meet again. You really are exceptionally strong among male masters. That's exactly what makes battling you so worthwhile!
+先日は負けたが今日は勝ってみせよう。\nアラクネたちの糸で身動きを封じ、\n一方的に喘がせてみせる❤さあ、カードを構えるんだ。,I may have lost the other day; but today victory shall be mine. I'll seal your movements with my Arachnes' threads; and make you moan helplessly just for me.❤ Now; ready your cards!
 おや、{主人公}か。また会ったな。\nふふ、どうしたそんなに前かがみになって。\nこの間の敗北を思い出しているのか？,Oh; {主人公}? We meet again. Fufu; what's gotten into you; leaning forward like that? Reminicing on your defeat the other day?
-今日もまたわたしが勝たせてもらうとしよう。\nアラクネたちの糸で身動きを封じられ、一方的に喘がされるといい❤\nククク❤,
-うぐ、やはりというか、お前は強いな。{主人公}。\n男のマスターでわたしに勝つのはお前ぐらいだ。,
-だからこそ、わたしに屈服させてみたいものだが・・・。\nまあいい、この敗北を糧にさらに精進を積むとしよう。\n意義のあるバトルだった。感謝する。,
-ふふ、どうした？闘技場で見せた強さはただ運がいいだけだったか？\nずいぶん気持ちよさそうに果ててしまったではないか❤,
-お前がわたしのペットになりたいのであれば、\nわたしはいつでも歓迎しよう❤\n強い男の首にひもをつけるのは、実に楽しいからな。ククク❤,
-挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,
-無敗のルーキーの試合の時間がやってきました！\n昇格戦も含めると、Cランク選手相手にも二連勝！\nここまで負けなしの彼を止められるマスターは現れるのか！,
-そして、今日の相手はこの人！\n相手の動きを「止める」ことに関してはプロフェッショナル、\nモルゲン牢獄の看守！ヤツメ選手の登場です！,
-彼女は蜘蛛モンスターの使い手！\n彼女の蜘蛛の糸にがんじがらめにされたら、もう逃げられないぞ！\n犯罪者であろうと魔物であろうと、彼女のおもちゃです！,
-ふむ。お前がわたしの対戦相手か。,
-普段は公務が忙しくてな。\n囚人の見張りばかりでなかなかバトルもできない。\n若い男と戦えるとはなかなかに僥倖だ。,
-ストレス発散もかねて、\nお前には情けなく鳴いてもらうとしよう。\n覚悟はいいか？無敗のルーキー。,
+今日もまたわたしが勝たせてもらうとしよう。\nアラクネたちの糸で身動きを封じられ、一方的に喘がされるといい❤\nククク❤,Today I will claim my victory just as before. You'll be bound helpless by my Arachne's threads; moaning helplessly as I have my way with you.❤ Kukuku.❤
+うぐ、やはりというか、お前は強いな。{主人公}。\n男のマスターでわたしに勝つのはお前ぐらいだ。,Ugh; as expected... you're strong. You're about the only male master who can beat me; {主人公}.
+だからこそ、わたしに屈服させてみたいものだが・・・。\nまあいい、この敗北を糧にさらに精進を積むとしよう。\n意義のあるバトルだった。感謝する。,That's exactly why I'd love to make you submit to me... Well; no matter. I'll use this defeat to train even harder. This was a meaningful battle. I'm grateful.
+ふふ、どうした？闘技場で見せた強さはただ運がいいだけだったか？\nずいぶん気持ちよさそうに果ててしまったではないか❤,Fufu; what's wrong? Was that strength you showed in the arena just dumb luck? You came looking quite satisfied there; didn't you?❤
+お前がわたしのペットになりたいのであれば、\nわたしはいつでも歓迎しよう❤\n強い男の首にひもをつけるのは、実に楽しいからな。ククク❤,If you want to become my pet; I'd gladly welcome you.❤ I do enjoy the feeling of collaring a strong man. Kukuku.❤
+挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You haven't reached the rank points needed to challenge (Current rank points: {ランクポイント}).
+無敗のルーキーの試合の時間がやってきました！\n昇格戦も含めると、Cランク選手相手にも二連勝！\nここまで負けなしの彼を止められるマスターは現れるのか！,The time has come for our undefeated rookie's match! Including promotion battles; he's won twice against C-rank fighters! Is there anyone out there who can stop this undefeated warrior?!
+そして、今日の相手はこの人！\n相手の動きを「止める」ことに関してはプロフェッショナル、\nモルゲン牢獄の看守！ヤツメ選手の登場です！,"And today's opponent has arrived! A professional when it comes to ""stopping"" her opponent's movements; the guardkeeper of Morgen Prison... Cardmaster Yatsume!"
+彼女は蜘蛛モンスターの使い手！\n彼女の蜘蛛の糸にがんじがらめにされたら、もう逃げられないぞ！\n犯罪者であろうと魔物であろうと、彼女のおもちゃです！,She's a spider monster user! Once you're completely bound by her spider's silk; there's no escape! Whether criminal or monster; no one can resist becoming her plaything!
+ふむ。お前がわたしの対戦相手か。,Hmm. So you're my opponent.
+普段は公務が忙しくてな。\n囚人の見張りばかりでなかなかバトルもできない。\n若い男と戦えるとはなかなかに僥倖だ。,I'm usually busy with official duties—always watching prisoners and rarely getting to battle. But fighting a young man? Why it must be my lucky day.
+ストレス発散もかねて、\nお前には情けなく鳴いてもらうとしよう。\n覚悟はいいか？無敗のルーキー。,Making you squeal will be an excellent way to vent my stress. Ready yourself; Undefeated Rookie.
 いい勝負をしましょう！,Let's have a good match!
 なくことになるのはそっちですよ！,The only one who will be squealing is you!
-ほお、礼儀正しいではないか。\nだが、わたし相手に「いい戦い」など本当にできるかな？,
-糸で縛りあげ、身動きできなくしてやろう。\nその状態で快楽を与えてやれば、\n男はみなすぐマゾに堕ちる❤,
-お前もすぐにあえぐことしかできなくなるだろう。\nせいぜいもがいてみせるといい。ククク❤,
-おや、ずいぶんと活きがいいじゃないか。\n牢屋に入ってくる犯罪者たちで、そういう輩は何度も見てきた。\nどれだけ口は達者でも・・・。,
-縛りつけて脚でいじめてやれば、\nみなすぐにただのマゾ豚に堕ちたがな。ふふふ❤,
-お前も同じだろう？\n男なんて一皮むけば全員マゾだ。\nそれを体に教えてやろう。,
-・・・・っ❤,
-（ふっ、もう脚にくぎ付けか・・・❤\n短いスカートがそんなに気になるか？\nマゾの本性が隠しきれていないようだな❤）,
-決まったー！{主人公}選手の勝利です！,
-ヤツメ選手の罠でさえも{主人公}選手の障害にはならない！\n速攻で勝負を決めました！\nこれが無敗のルーキーの実力だぁ！,
-ヤツメ選手も罠を駆使して戦いましたが一歩及ばず！\n勝負は{主人公}選手が制しました。\nやはり強いぞ、無敗のルーキー！,
-ヤツメ選手も罠を駆使して戦いましたが\n{主人公}選手、余裕を残しての勝利です！\nやはり強いぞ、無敗のルーキー！,
-くっ、男に負けるとは…。\nさすがだ。今まで戦ったどの男性マスターよりも強かった。,
-男など拘束して踏みつけてやれば、\n喜んで従うマゾばかりだと思っていたが、\nお前は少し違うようだ。認識を改めないといけないな…。,
-（ストレス発散のつもりが、まだまだわたしも精進が足りないな。\nアラクネたちとの訓練時間をもっと確保しなくては…！）,
-闘技場の勝利報酬を得た！,
-先攻はそちらからか。\nどういう動きをするのか、観察させてもらうとしよう。,
-わたしの脚をぼーっと見つめてどうした？\nやはりこの脚でいじめてほしくなったか？ふふふ❤,
-それでは、わたしのターンからだ。\n糸でしばりつける前から\n欲望に囚われているお前など、すぐに敗北させてやる,
-わたしのターンからだ。,
-(ううっ・・・・❤),
-ドローする。,
-わたしのターンだね。ドロー！,
-モンスターをコストにして、{使用カード}を上級召喚する！,
-{使用カード}を召喚！,Summon {使用カード}!
-ううっ、あうう・・・❤,
-肉体を再構成されても、敗北の味が忘れられないか❤\nふっ、マゾめ❤,
-しょせん男などその程度だ。\nさっさとまたその体から魔力を搾り出してやろう❤\nククク❤,
-さらにもう1枚発動！,
-{使用カード}の通常召喚に成功した時、手札を1枚捨てて効果を発動！\nデッキから罠カードをランダムに２枚手札に加える！,
-{使用カード}の通常召喚に成功した時、手札を1枚捨てて効果を発動！\nデッキからトラップカードをランダムに２枚手札に加える！,
-通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、「拘束」を付与する！,
-{使用カード}の召喚に成功した時、効果を発動！\n相手モンスター１体を蜘蛛の糸で拘束する！,
-相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に加える！,
-相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に戻す！,
-トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚手札に加える！,
-トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚サーチだ！,
-蜘蛛の巣ですべてを覆ってしまおうか。\n永続魔法、{使用カード}を発動！,
-このカードが存在する限り、\n自分の虫タイプモンスターはHPと攻撃力が300ポイントアップする。\nさらに「アラクネ」が出るたびにトラップカードを手札に加えられる。,
-蜘蛛の糸で、貴様も、貴様のモンスターも、\nがんじがらめにしてあげよう。ふふふ❤,
-「アラクネ」モンスターを通常召喚した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,
-「アラクネ」モンスターの通常召喚に成功した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,
-「アラクネ」モンスターが存在する場合、\n１ターンに１度相手モンスターの召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,
-糸に絡まるといい！「アラクネ」モンスターが存在する場合、\n１ターンに１度、相手の召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,
-拘束を補強させてもらうよ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態は３ターン延長される！,
-脱出は諦めることだね。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,
-相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n攻撃してきたキャラクターに「拘束」を付与する！,
+ほお、礼儀正しいではないか。\nだが、わたし相手に「いい戦い」など本当にできるかな？,"Oh; how curtious. But I don't believe our match will be anything but ""good"" for you."
+糸で縛りあげ、身動きできなくしてやろう。\nその状態で快楽を与えてやれば、\n男はみなすぐマゾに堕ちる❤,I'll bind you up with threads; making it so you can't move. And then once your dick is pleasured; you'll quickly become my perfect masochist; just like all the others.❤
+お前もすぐにあえぐことしかできなくなるだろう。\nせいぜいもがいてみせるといい。ククク❤,You'll soon only think you'll able to do is moan. Go ahead and show me how you struggle. Kukuku~❤
+おや、ずいぶんと活きがいいじゃないか。\n牢屋に入ってくる犯罪者たちで、そういう輩は何度も見てきた。\nどれだけ口は達者でも・・・。,My; aren't you spirited. I've seen plenty of criminals like you coming into the prison. But no matter how smooth-talking they are...
+縛りつけて脚でいじめてやれば、\nみなすぐにただのマゾ豚に堕ちたがな。ふふふ❤,Once I tie them up and use my legs to torment their dicks; they all quickly reveal their masochistic tendancies. Fufufu.❤
+お前も同じだろう？\n男なんて一皮むけば全員マゾだ。\nそれを体に教えてやろう。,You're the same; aren't you? All men are masochists once you peel back their exterior. I'll teach that lesson to your body.
+・・・・っ❤,...❤
+（ふっ、もう脚にくぎ付けか・・・❤\n短いスカートがそんなに気になるか？\nマゾの本性が隠しきれていないようだな❤）,(Heh; his eyes are already glued to my legs...❤ Does my short skirt bother him that much? Looks like he can't even hide his masochistic nature.❤)
+決まったー！{主人公}選手の勝利です！,It's decided! {主人公} is the winner!
+ヤツメ選手の罠でさえも{主人公}選手の障害にはならない！\n速攻で勝負を決めました！\nこれが無敗のルーキーの実力だぁ！,Even Yatsume's traps couldn't stand in {主人公}'s way! The match was decided with lightning speed! Now this is the power of our undefeated rookie!
+ヤツメ選手も罠を駆使して戦いましたが一歩及ばず！\n勝負は{主人公}選手が制しました。\nやはり強いぞ、無敗のルーキー！,Yatsume fought using various traps but fell just short; making {主人公} victorious! As expected; our undefeated rookie is incredibly strong!
+ヤツメ選手も罠を駆使して戦いましたが\n{主人公}選手、余裕を残しての勝利です！\nやはり強いぞ、無敗のルーキー！,Yatsume fought using various traps but {主人公} won with room to spare! As expected; our undefeated rookie is incredibly  strong!
+くっ、男に負けるとは…。\nさすがだ。今まで戦ったどの男性マスターよりも強かった。,Damn; to lose to a man… Impressive. You were stronger than any male master I've fought before.
+男など拘束して踏みつけてやれば、\n喜んで従うマゾばかりだと思っていたが、\nお前は少し違うようだ。認識を改めないといけないな…。,I thought all men were masochists who would gladly submit if you just restrained and trampled them; but you seem a little different. I'll have to reconsider my assumptions...
+（ストレス発散のつもりが、まだまだわたしも精進が足りないな。\nアラクネたちとの訓練時間をもっと確保しなくては…！）,(I intended this as stress relief; but clearly I still need more training. I need to secure more practice time with my monsters...!)
+闘技場の勝利報酬を得た！,Arena victory reward obtained!
+先攻はそちらからか。\nどういう動きをするのか、観察させてもらうとしよう。,So you're going first? I'll observe what kind of moves you make.
+わたしの脚をぼーっと見つめてどうした？\nやはりこの脚でいじめてほしくなったか？ふふふ❤,What's wrong? You're staring blankly at my legs? Do you want my legs to torment your dick after all? Fufufu.❤
+それでは、わたしのターンからだ。\n糸でしばりつける前から\n欲望に囚われているお前など、すぐに敗北させてやる,Well then; it's my turn now. Someone like you who's already a prisoner to their own lust before even being bound by threads will be easily defeated.
+わたしのターンからだ。,It's my turn.
+(ううっ・・・・❤),(Ungh…❤)
+ドローする。,I draw a card.
+わたしのターンだね。ドロー！,It's my turn; right? Draw!
+モンスターをコストにして、{使用カード}を上級召喚する！,I'll use a monster as tribute to advance summon {使用カード}!
+{使用カード}を召喚！,I summon {使用カード}!
+ううっ、あうう・・・❤,Ungh; ahh…❤
+肉体を再構成されても、敗北の味が忘れられないか❤\nふっ、マゾめ❤,Even after your body's been reconstructed; you can't forget the pleasure of defeat; can you?❤ Hah; you masochist.❤
+しょせん男などその程度だ。\nさっさとまたその体から魔力を搾り出してやろう❤\nククク❤,Men are ultimately just that pathetic.\nI'll hurry up and squeeze more magical power from that body of yours.❤\nKukuku.❤
+さらにもう1枚発動！,I'm not done yet! Activating one more card!
+{使用カード}の通常召喚に成功した時、手札を1枚捨てて効果を発動！\nデッキから罠カードをランダムに２枚手札に加える！,When {使用カード} is normal summoned; I discard 1 card from my hand and randomly add 2 trap cards from the deck to my hand!
+{使用カード}の通常召喚に成功した時、手札を1枚捨てて効果を発動！\nデッキからトラップカードをランダムに２枚手札に加える！,When {使用カード}'s normal summoned; I discard 1 card from hand to randomly add 2 trap cards from my deck to my hand!
+通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、「拘束」を付与する！,When I normal summon a card; {使用カード}'s effect lets me inflict [Restraint] and deal 500 points of damage to an opponent's field monster!
+{使用カード}の召喚に成功した時、効果を発動！\n相手モンスター１体を蜘蛛の糸で拘束する！,When {使用カード} is summoned; she can restrain one of my opponent's monsters in her spider silk!
+相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に加える！,When an opponent monster is destroyed; {使用カード}'s effect lets me add 1 random trap card from my graveyard to my hand!
+相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に戻す！,When an opponent monster is destroyed; {使用カード}'s effect lets me take 1 random trap card from the graveyard to my hand!
+トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚手札に加える！,"Whenever I use a trap card; {使用カード}'s effect lets me randomly add one card with ""Spider"" in its name from the deck to my hand!"
+トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚サーチだ！,"Whenever I use a trap card; {使用カード}'s effect lets me gain one random card with ""Spider"" in its name from the deck to my hand!"
+蜘蛛の巣ですべてを覆ってしまおうか。\n永続魔法、{使用カード}を発動！,Shall I cover everything with spider webs? I activate the permenant spell; {使用カード}!
+このカードが存在する限り、\n自分の虫タイプモンスターはHPと攻撃力が300ポイントアップする。\nさらに「アラクネ」が出るたびにトラップカードを手札に加えられる。,"As long as this card exists; all my insect-type monsters gain 300 HP and attack power. Furthermore; every time ""Arachne"" appears; I can add a trap card to my hand."
+蜘蛛の糸で、貴様も、貴様のモンスターも、\nがんじがらめにしてあげよう。ふふふ❤,I'll bind you and your monsters tight with spider silk; leaving you completely helpless. Fufufu.❤
+「アラクネ」モンスターを通常召喚した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,"When any ""Arachne"" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!"
+「アラクネ」モンスターの通常召喚に成功した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,"When any ""Arachne"" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!"
+「アラクネ」モンスターが存在する場合、\n１ターンに１度相手モンスターの召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,"If an ""Arachne"" monster exists on the field; once per turn when opponent summons a monster; I can inflict ""Restraint"" on that monster!"
+糸に絡まるといい！「アラクネ」モンスターが存在する場合、\n１ターンに１度、相手の召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,"Get tangled up in my silk! If an ""Arachne"" monster exists on the field; once per turn when opponent summons; I can inflict ""Restraint"" on that monster!"
+拘束を補強させてもらうよ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態は３ターン延長される！,"Let me reinforce those restraints for you. Activate {使用カード}! All opponents with the ""Restraint"" status has their effect extended by 3 turns!"
+脱出は諦めることだね。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"You should give up on escaping. Activate {使用カード}! All opponents with the ""Restraint"" status has their effect extended by 3 turns!"
+相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n攻撃してきたキャラクターに「拘束」を付与する！,"When opponent declares an attack; I can pay 500 LP to activate {使用カード} to immediately inflict ""Restraint"" on the attacking character!"
 相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n「拘束」を付与して戦闘能力を奪わせてもらう！,
 「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、毒の牙を付与する！,
 「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、\nさらに戦闘時に相手に毒を付与する能力を与える！,
@@ -110,7 +110,7 @@ F20_bindThighJobAnime,
 地面に寝転んで無様だな。\n敵の体を見ず、足ばかり見ているからそうなる。\n無防備なお前の弱点を、たっぷり踏み抜いてやろう❤,
 ほらほらほら❤\nぐりぐりと踏まれてうれしいか？\nこの変態が。,
 糸に縛られた気分はどうだ？\n案外悪くないだろう？なにせ、貴様が受けるのは、きついむち打ちではなく\nわたしのあまぁい快楽だ❤,
-ほら、乳首をカリカリと弾きながら、\nわたしのふとももでたっぷり"お仕置き"してやろう❤\n膝裏にぎゅっと捕まえて、前後に脚を動かしてしごくのさ。,
+"ほら、乳首をカリカリと弾きながら、\nわたしのふとももでたっぷり""お仕置き""してやろう❤\n膝裏にぎゅっと捕まえて、前後に脚を動かしてしごくのさ。",
 パンパンパン♪お前の腰にふとももが当たるたびに音がしているな❤\nふ、顔がとろとろじゃないか。\nどうした？もう屈服したいのか？出したければ出せ、雑魚が❤,
 ふふ、縛られて動けないか？無様だな❤\nわたしの脚で一方的にいたぶってやろうじゃないか。,
 肉付きのいい脚に挟まれるのはたまらんだろう？\n捕食者の口のように、わたしのふとももとふくらはぎで\n貴様のチンポは今から食べられるんだ❤,
