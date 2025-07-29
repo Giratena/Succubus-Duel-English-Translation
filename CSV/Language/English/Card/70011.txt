@@ -175,7 +175,7 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 破壊されたとき{使用カード}の効果発動！墓地のレベル４以下の植物モンスター１体を手札に加えるよ。,When destroyed; activate {使用カード}’s effect! Add a level 4 or lower plant monster from the graveyard to my hand!
 デッキから直接墓地へ送られたとき{使用カード}の効果発動！自分フィールドに復活！,When this card enters the graveyard directly from the deck; I activate {使用カード}’s effect! Resurrect it on my field!
 {使用カード}がデッキから墓地に行ったとき効果発動！墓地から復活するよ！,When this card goes from the deck into the graveyard; I activate {使用カード}’s effect! Resurrect it from the graveyard!
-キノコちゃんたちを守るために、手札を1枚捨てて永続魔法カード発動！{使用カード}！,In order to protect the mushroom girls; discard 1 card from my hand to activate the continuous spell card; {使用カード}!
+キノコちゃんたちを守るために、手札を1枚捨てて永続魔法カード発動！{使用カード}！,In order to protect the mushroom girls; I discard 1 card from my hand to activate the continuous spell card; {使用カード}!
 植物モンスターが自分の場にいるなら、あなたのモンスターは召喚してもすぐには攻撃できなくなるよ。,As long as there’s a plant monster on my field; your monsters cannot attack immediately when they’re summoned to the field.
 足止めして弱らせちゃうね。手札を1枚捨てて永続魔法カード発動！{使用カード}！,This’ll hinder your movement and weaken you. Discard 1 card from my hand to activate the continuous spell card; {使用カード}!
 {使用カード}を発動！デッキからランダムに３枚墓地へ送るね！,I activate {使用カード}! I send 3 random cards from the deck into the graveyard!
