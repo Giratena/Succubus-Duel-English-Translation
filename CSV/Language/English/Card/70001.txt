@@ -15,7 +15,7 @@ default
 その意気や良し。さあ始めるよ！,That's the spirit! Now then; let's get started!
 今回はわたしが先攻ね。ドロー！,I'll go first this time. Draw!
 チュートリアル１：ドロー,Tutorial 1: The Draw Phase
-プレイヤーのゲーム開始時の手札は５枚です。自分のターンが来るたびに、山札からカードを１枚引きます。山札からカードを引くことを「ドロー」といいます。,Each player starts the game with 5 cards in their hand. At the start of your turn; you add 1 card to your hand. This is called the "Draw Phase".
+プレイヤーのゲーム開始時の手札は５枚です。自分のターンが来るたびに、山札からカードを１枚引きます。山札からカードを引くことを「ドロー」といいます。,Each player starts the game with 5 cards in their hand. At the start of your turn; you add 1 card to your hand. This is called the "Draw Phase."
 {使用カード}を上級召喚！,I advance summon {使用カード}!
 {使用カード}を召喚！,I summon {使用カード}!
 チュートリアル２：召喚,Tutorial 2: Normal Summoning
