@@ -24,7 +24,7 @@ default
 召喚したモンスターは相手に攻撃することができます。ただし先攻１ターン目のプレイヤーは攻撃することができません。, Summoned monsters can be used to attack opponents. However; the player who gets to go first in a match may not attack until their second turn.
 チュートリアル６：勝利条件,Tutorial 6: Win Conditions
 先に相手のライフポイント(LP)をゼロにした方が勝者です。ライフを減らすためには相手プレイヤーに攻撃をする必要があります。ただし場に相手のモンスターがいる場合は、相手プレイヤーに直接攻撃できないので、先にモンスターを倒さなければなりません。,A player wins when they reduce their opponent's Life Points (LP) to 0. You can reduce your opponent's LP by attacking them directly. However; as long as a player has one or more monsters on the field; they may not be attacked directly.
-このゲームではプレイヤー自身も相手に攻撃を行うことができます。プレイヤーの攻撃力は比較的高いので、積極的に攻撃をしかけていくことが重要です。,In this game; the players themselves able to attack their opponents. Compared to monsters; the attack power of the players tends to be higher; so attacking aggressively is key.
+このゲームではプレイヤー自身も相手に攻撃を行うことができます。プレイヤーの攻撃力は比較的高いので、積極的に攻撃をしかけていくことが重要です。,In this game; the players themselves are able to attack their opponents. Compared to monsters; the attack power of the players tends to be higher; so attacking aggressively is key.
 それでは実際に自分のカードを操作して、デュエルに勝利してみましょう。,Now; make use of your cards to win the duel!
 {使用カード}の効果発動！手札からレベル３以下のモンスター１体を特殊召喚！,{使用カード}'s effect has been activated! I can special summon 1 monster of level 3 or lower from my hand to the field!
 {使用カード}のモンスター効果発動！攻撃力が500ポイントアップ！,{使用カード}'s monster effect has been activated! Atk has increased by 500!
