@@ -64,50 +64,50 @@ F20_bindThighJobAnime,
 「アラクネ」モンスターを通常召喚した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,"When any ""Arachne"" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!"
 「アラクネ」モンスターの通常召喚に成功した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,"When any ""Arachne"" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!"
 「アラクネ」モンスターが存在する場合、\n１ターンに１度相手モンスターの召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,"If an ""Arachne"" monster exists on the field; once per turn when opponent summons a monster; I can inflict ""Restraint"" on that monster!"
-糸に絡まるといい！「アラクネ」モンスターが存在する場合、\n１ターンに１度、相手の召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,"Get tangled up in my silk! If an ""Arachne"" monster exists on the field; once per turn when opponent summons; I can inflict ""Restraint"" on that monster!"
+糸に絡まるといい！「アラクネ」モンスターが存在する場合、\n１ターンに１度、相手の召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,"Become tangled in silk! If an ""Arachne"" monster exists on the field; once per turn when opponent summons; I can inflict ""Restraint"" on that monster!"
 拘束を補強させてもらうよ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態は３ターン延長される！,"Let me reinforce those restraints for you. Activate {使用カード}! All opponents with the ""Restraint"" status has their effect extended by 3 turns!"
 脱出は諦めることだね。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"You should give up on escaping. Activate {使用カード}! All opponents with the ""Restraint"" status has their effect extended by 3 turns!"
 相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n攻撃してきたキャラクターに「拘束」を付与する！,"When opponent declares an attack; I can pay 500 LP to activate {使用カード} to immediately inflict ""Restraint"" on the attacking character!"
-相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n「拘束」を付与して戦闘能力を奪わせてもらう！,
-「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、毒の牙を付与する！,
-「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、\nさらに戦闘時に相手に毒を付与する能力を与える！,
-「アラクネ」モンスターが破壊されたとき、\n{使用カード}を発動！わたしのターン終了時に、\n破壊されたモンスターと同じモンスターを特殊召喚する！,
-ターン終了時に{使用カード}を発動！\n破壊されたモンスターと同じモンスターを、\n自分フィールド上に特殊召喚する！,
-孵化の時間だ。ターン終了時に{使用カード}を発動！\n破壊されたモンスターと同じモンスターを、\n自分フィールド上に特殊召喚する！,
-ふ、自由にできると思ったか？\nモンスターの効果発動時に{使用カード}を発動！\n効果を無効にし、さらに「拘束」を付与する！,
-ふふ、その行動は通らない。\nモンスターの効果発動時に{使用カード}を発動！\n効果を無効にして「拘束」を付与する！,
-装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-魔法カードを発動！{使用カード}！,
-トラップカードを発動！{使用カード}！,
-通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、\n「拘束」を付与だ！,
-{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,
-脱出は諦めることだ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,
-カードをセットする。,
-カードを伏せる。,
-ふ、もてあそんでやろう。{防御カード}を攻撃！,
-わたしの攻撃の番だ。{防御カード}へ攻撃！,
+相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n「拘束」を付与して戦闘能力を奪わせてもらう！,When my opponent declares an attack; I can pay 500 LP to activate {使用カード}! Now you're bound; and powerless to fight me!
+「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、毒の牙を付与する！,When an 'Arachne' monster declares an attack; I activate {使用カード}!\nI boost its attack power by 300 points and grant it venomous fangs!
+「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、\nさらに戦闘時に相手に毒を付与する能力を与える！,When an 'Arachne' monster declares an attack; I activate {使用カード}!\nI boost its attack power by 300 points;\nand furthermore grant it the ability to poison opponents during battle!
+「アラクネ」モンスターが破壊されたとき、\n{使用カード}を発動！わたしのターン終了時に、\n破壊されたモンスターと同じモンスターを特殊召喚する！,When an 'Arachne' monster is destroyed; I activate {使用カード}! At the end of my turn; I special summon the same monster that was destroyed!
+ターン終了時に{使用カード}を発動！\n破壊されたモンスターと同じモンスターを、\n自分フィールド上に特殊召喚する！,At the end of the turn; I activate {使用カード}! I special summon the same monster that was destroyed onto my field!
+孵化の時間だ。ターン終了時に{使用カード}を発動！\n破壊されたモンスターと同じモンスターを、\n自分フィールド上に特殊召喚する！,Time to hatch. At the end of the turn; I activate {使用カード}! I special summon the same monster that was destroyed onto my field!
+ふ、自由にできると思ったか？\nモンスターの効果発動時に{使用カード}を発動！\n効果を無効にし、さらに「拘束」を付与する！,Hmph; did you think you could act freely? When a monster effect activates; I activate {使用カード}! I negate the effect and also inflict them with 'Restraint'!
+ふふ、その行動は通らない。\nモンスターの効果発動時に{使用カード}を発動！\n効果を無効にして「拘束」を付与する！,Fufu; that move won't go through! When a monster effect activates; I activate {使用カード} to negate the effect and inflict 'Restraint' on them!
+装備魔法カード発動！{使用カード}！,Equipment card activate! {使用カード}!
+魔法カードを発動！{使用カード}！,Magic card activate! {使用カード}!
+トラップカードを発動！{使用カード}！,Trap card activate! {使用カード}!
+通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、\n「拘束」を付与だ！,"On a successful normal summon, {使用カード}'s effect activates! Deal 500 points of damage to monsters on the opponent's field; and apply ""Restraint""!"
+{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"Activate {使用カード}!\nExtend the ""Restraint"" status of all opponent characters by 3 turns!"
+脱出は諦めることだ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"Give up on escaping. Activate {使用カード}! Extend the ""Restraint"" status of all opponent characters by 3 turns!"
+カードをセットする。,Set a card.
+カードを伏せる。,Place a card face-down.
+ふ、もてあそんでやろう。{防御カード}を攻撃！,Heh; I'll toy with you. Attack {防御カード}!
+わたしの攻撃の番だ。{防御カード}へ攻撃！,It's my turn to attack. Attack {防御カード}!
 行け！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
 罠は万全。\nさあどこからでもかかってくるといい。\nターンエンド。,End turn.
-ぐっ、どうにもならないな…。ターンエンド…。,
-手札が悪い…。ターンエンド…。,
-ターン終了。,
-わたしのターンは終わりだ。ターンエンド。,End turn.
-これで終わりかな。ターンエンド。,End turn.
-ふふ、蜘蛛糸に絡めとられて無様だな❤\nどうだ、こうしてブーツを貴様の股にあてがわれても、\n跳ね除けることもできないだろう？,
-わたしの足を男の弱点を踏みにじられて、どんな声で鳴くか楽しみだな❤\nどれだけ強い快感であってもそこから逃れることはできない。\nほらほらほら❤たっぷり喘げ、マゾ豚が❤,
-蜘蛛の糸でぐるぐる巻きにされた気分はどうだ？\n貴様は捕食を待つだけの獲物というわけだ。,
-こんな時、蜘蛛ならずぶりと噛みつくところだが、\nあいにくわたしには牙はない。\nだから、この足を牙代わりに使わせてもらおう。,
-なに、蜘蛛の牙にも劣らん威力さ❤\n男の股間にこれを押し当ててやれば、すぐに精を出して動けなくなる。\nほら、存分に踏み抜かれる快楽を味合わせてやる❤喜べ、マゾ豚❤,
-糸に絡めとられて、もはや抵抗もかなうまい。\nわたしのこの足で、さっさと楽にしてやろう。,
-たとえ自由に動けたとしても、ぐりぐりと股間を踏みつけてやれば、\n男は快感に喘いで、脱出できなくなる。\nましてやその状態では、腰を動かして快楽を逃がすこともできないだろう？,
-どれだけ盛大にイくか、楽しみだな❤\nほら、ブーツをぴたりと押し当てて、\n動かすぞ？天国を見せてやる❤,
-ほら、ブーツで踏みつけてやろう。\nマゾ豚にはご褒美だろう？,
-ズボンの上から、ぐりぐりとねじるように足を動かす。\nこれだけで男の顔は快楽に歪む。\n貴様も喘ぎ声が漏れているな❤マゾめ❤,
-男を調教するのは簡単だ。\n足をズボンに乗せながら、前後にこするように動かす…。\nたったそれだけでいい❤,
-こうして擦られてみれば、貴様もよくわかるだろう？\n自分の大事な箇所を足蹴にされているというのに、\nブーツの圧力を感じるたびに気持ちよくてたまらないはずだ❤,
-女に屈服する喜びを知れば、男は歯向かえなくなる❤\nほら、この足でたっぷり教えてやろう。,
-ふむ。ちらちらと足に視線を感じるな。\nそんな注意力では、ほら、簡単に足払いを決められてしまうぞ。,
-地面に寝転んで無様だな。\n敵の体を見ず、足ばかり見ているからそうなる。\n無防備なお前の弱点を、たっぷり踏み抜いてやろう❤,
+ぐっ、どうにもならないな…。ターンエンド…。,"Ugh, there's nothing I can do... Turn end..."
+手札が悪い…。ターンエンド…。,This hand is terrible... Turn end..
+ターン終了。,Turn over.
+わたしのターンは終わりだ。ターンエンド。,My turn is over. Turn end.
+これで終わりかな。ターンエンド。,I guess this is the end. Turn end.
+ふふ、蜘蛛糸に絡めとられて無様だな❤\nどうだ、こうしてブーツを貴様の股にあてがわれても、\n跳ね除けることもできないだろう？,Fufu. How pathetic you look; all tangled up in my spiders' silky threads.❤ How's this? Even with my boot pressed against your crotch like this; you can't push it away; can you?
+わたしの足を男の弱点を踏みにじられて、どんな声で鳴くか楽しみだな❤\nどれだけ強い快感であってもそこから逃れることはできない。\nほらほらほら❤たっぷり喘げ、マゾ豚が❤,My foot trampling on a man's weak spot—I'm looking forward to hearing what sounds you'll make.❤ No matter how intense the pleasure becomes; you can't escape from it. I'll rub it hard~❤ Moan plenty; you masochistic pig.❤
+蜘蛛の糸でぐるぐる巻きにされた気分はどうだ？\n貴様は捕食を待つだけの獲物というわけだ。,How does it feel to be wrapped up tight in spider silk? Now you're nothing but prey waiting to be devoured.
+こんな時、蜘蛛ならずぶりと噛みつくところだが、\nあいにくわたしには牙はない。\nだから、この足を牙代わりに使わせてもらおう。,In times like this; a spider would sink its fangs deep; but unfortunately I don't have fangs. So instead of fangs; I'll use my foot instead.
+なに、蜘蛛の牙にも劣らん威力さ❤\n男の股間にこれを押し当ててやれば、すぐに精を出して動けなくなる。\nほら、存分に踏み抜かれる快楽を味合わせてやる❤喜べ、マゾ豚❤,What? The power is no less than a spider's fangs.❤ Press this against a man's crotch and he'll cum immediately and become unable to move. Hora; I'll let you taste the pleasure of being thoroughly trampled.❤ Rejoice; you masochistic pig.❤
+糸に絡めとられて、もはや抵抗もかなうまい。\nわたしのこの足で、さっさと楽にしてやろう。,Once you're all tangled up in my threads; there's no point in resisting anymore. But don't worry; I'll use my foot to put you out of your misery.
+たとえ自由に動けたとしても、ぐりぐりと股間を踏みつけてやれば、\n男は快感に喘いで、脱出できなくなる。\nましてやその状態では、腰を動かして快楽を逃がすこともできないだろう？,Even if you could move freely; once I grind my boot into your crotch; you'll be gasping with pleasure and unable to escape anyway. Not to mention in current state; you can barely move your hips; can you?
+どれだけ盛大にイくか、楽しみだな❤\nほら、ブーツをぴたりと押し当てて、\n動かすぞ？天国を見せてやる❤,I'm excited to see just how spectacularly you'll cum.❤ Look; I'm pressing my boot right against you; but now I'm going to move it properly. Time to show you what heaven feels like.❤
+ほら、ブーツで踏みつけてやろう。\nマゾ豚にはご褒美だろう？,Come on; let me stomp on you with my boots. That's a reward for a masochistic pig like you; isn't it?
+ズボンの上から、ぐりぐりとねじるように足を動かす。\nこれだけで男の顔は快楽に歪む。\n貴様も喘ぎ声が漏れているな❤マゾめ❤,I'm moving my foot in grinding; twisting motions over your pants. Just this alone makes a man's face contort with pleasure. You're already letting out moans too; aren't you?❤ What a masochist.❤
+男を調教するのは簡単だ。\n足をズボンに乗せながら、前後にこするように動かす…。\nたったそれだけでいい❤,Training men is so simple. I just place my foot on their pants and move it back and forth in a rubbing motion... That's all it takes.❤
+こうして擦られてみれば、貴様もよくわかるだろう？\n自分の大事な箇所を足蹴にされているというのに、\nブーツの圧力を感じるたびに気持ちよくてたまらないはずだ❤,Now that you're being rubbed like this; you understand perfectly; don't you? Even though your precious parts are being trampled by my foot; every time you feel the pressure from my boots; you can't help but feel incredible pleasure.❤
+女に屈服する喜びを知れば、男は歯向かえなくなる❤\nほら、この足でたっぷり教えてやろう。,Once a man learns the joy of submitting to a woman; he can never fight back.❤ Come on; let me teach you thoroughly with my foot.
+ふむ。ちらちらと足に視線を感じるな。\nそんな注意力では、ほら、簡単に足払いを決められてしまうぞ。,Ufufu. I can feel your gaze wavering to my foot. If you don't pay attention; look; I can easily sweep you off the floor like this!
+地面に寝転んで無様だな。\n敵の体を見ず、足ばかり見ているからそうなる。\n無防備なお前の弱点を、たっぷり踏み抜いてやろう❤,How pathetic; lying sprawled on the ground. This all happened because you were staring at my feet instead of keeping track of the enemy in front of you. Now I'm going to trample right through your defenseless weak spots.❤
 ほらほらほら❤\nぐりぐりと踏まれてうれしいか？\nこの変態が。,
 糸に縛られた気分はどうだ？\n案外悪くないだろう？なにせ、貴様が受けるのは、きついむち打ちではなく\nわたしのあまぁい快楽だ❤,
 "ほら、乳首をカリカリと弾きながら、\nわたしのふとももでたっぷり""お仕置き""してやろう❤\n膝裏にぎゅっと捕まえて、前後に脚を動かしてしごくのさ。",
