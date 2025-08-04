@@ -14,14 +14,14 @@ F20_bindThighJobAnime,
 お前がわたしのペットになりたいのであれば、\nわたしはいつでも歓迎しよう❤\n強い男の首にひもをつけるのは、実に楽しいからな。ククク❤,If you want to become my pet; I'd gladly welcome you.❤ I do enjoy the feeling of collaring a strong man. Kukuku.❤
 挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You haven't reached the rank points needed to challenge (Current rank points: {ランクポイント}).
 無敗のルーキーの試合の時間がやってきました！\n昇格戦も含めると、Cランク選手相手にも二連勝！\nここまで負けなしの彼を止められるマスターは現れるのか！,The time has come for our undefeated rookie's match! Including promotion battles; he's won twice against C-rank fighters! Is there anyone out there who can stop this undefeated warrior?!
-そして、今日の相手はこの人！\n相手の動きを「止める」ことに関してはプロフェッショナル、\nモルゲン牢獄の看守！ヤツメ選手の登場です！,And today's opponent has arrived! A professional when it comes to "stopping" her opponent's movements; the guardkeeper of Morgen Prison... Cardmaster Yatsume!
+そして、今日の相手はこの人！\n相手の動きを「止める」ことに関してはプロフェッショナル、\nモルゲン牢獄の看守！ヤツメ選手の登場です！,"And today's opponent has arrived! A professional when it comes to ""stopping"" her opponent's movements; the guardkeeper of Morgen Prison... Cardmaster Yatsume!"
 彼女は蜘蛛モンスターの使い手！\n彼女の蜘蛛の糸にがんじがらめにされたら、もう逃げられないぞ！\n犯罪者であろうと魔物であろうと、彼女のおもちゃです！,She's a spider monster user! Once you're completely bound by her spider's silk; there's no escape! Whether criminal or monster; no one can resist becoming her plaything!
 ふむ。お前がわたしの対戦相手か。,Hmm. So you're my opponent.
 普段は公務が忙しくてな。\n囚人の見張りばかりでなかなかバトルもできない。\n若い男と戦えるとはなかなかに僥倖だ。,I'm usually busy with official duties—always watching prisoners and rarely getting to battle. But fighting a young man? Why it must be my lucky day.
 ストレス発散もかねて、\nお前には情けなく鳴いてもらうとしよう。\n覚悟はいいか？無敗のルーキー。,Making you squeal will be an excellent way to vent my stress. Ready yourself; Undefeated Rookie.
 いい勝負をしましょう！,Let's have a good match!
 なくことになるのはそっちですよ！,The only one who will be squealing is you!
-ほお、礼儀正しいではないか。\nだが、わたし相手に「いい戦い」など本当にできるかな？,Oh; how curtious. But I don't believe our match will be anything but "good" for you.
+ほお、礼儀正しいではないか。\nだが、わたし相手に「いい戦い」など本当にできるかな？,"Oh; how curtious. But I don't believe our match will be anything but ""good"" for you."
 糸で縛りあげ、身動きできなくしてやろう。\nその状態で快楽を与えてやれば、\n男はみなすぐマゾに堕ちる❤,I'll bind you up with threads; making it so you can't move. And then once your dick is pleasured; you'll quickly become my perfect masochist; just like all the others.❤
 お前もすぐにあえぐことしかできなくなるだろう。\nせいぜいもがいてみせるといい。ククク❤,You'll soon only think you'll able to do is moan. Go ahead and show me how you struggle. Kukuku~❤
 おや、ずいぶんと活きがいいじゃないか。\n牢屋に入ってくる犯罪者たちで、そういう輩は何度も見てきた。\nどれだけ口は達者でも・・・。,My; aren't you spirited. I've seen plenty of criminals like you coming into the prison. But no matter how smooth-talking they are...
@@ -56,18 +56,18 @@ F20_bindThighJobAnime,
 {使用カード}の召喚に成功した時、効果を発動！\n相手モンスター１体を蜘蛛の糸で拘束する！,When {使用カード} is summoned; she can restrain one of my opponent's monsters in her spider silk!
 相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に加える！,When an opponent monster is destroyed; {使用カード}'s effect lets me add 1 random trap card from my graveyard to my hand!
 相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に戻す！,When an opponent monster is destroyed; {使用カード}'s effect lets me take 1 random trap card from the graveyard to my hand!
-トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚手札に加える！,Whenever I use a trap card; {使用カード}'s effect lets me randomly add one card with "Spider" in its name from the deck to my hand!
-トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚サーチだ！,Whenever I use a trap card; {使用カード}'s effect lets me gain one random card with "Spider" in its name from the deck to my hand!
+トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚手札に加える！,"Whenever I use a trap card; {使用カード}'s effect lets me randomly add one card with ""Spider"" in its name from the deck to my hand!"
+トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚サーチだ！,"Whenever I use a trap card; {使用カード}'s effect lets me gain one random card with ""Spider"" in its name from the deck to my hand!"
 蜘蛛の巣ですべてを覆ってしまおうか。\n永続魔法、{使用カード}を発動！,Shall I cover everything with spider webs? I activate the permenant spell; {使用カード}!
-このカードが存在する限り、\n自分の虫タイプモンスターはHPと攻撃力が300ポイントアップする。\nさらに「アラクネ」が出るたびにトラップカードを手札に加えられる。,As long as this card exists; all my insect-type monsters gain 300 HP and attack power. Furthermore; every time "Arachne" appears; I can add a trap card to my hand.
+このカードが存在する限り、\n自分の虫タイプモンスターはHPと攻撃力が300ポイントアップする。\nさらに「アラクネ」が出るたびにトラップカードを手札に加えられる。,"As long as this card exists; all my insect-type monsters gain 300 HP and attack power. Furthermore; every time ""Arachne"" appears; I can add a trap card to my hand."
 蜘蛛の糸で、貴様も、貴様のモンスターも、\nがんじがらめにしてあげよう。ふふふ❤,I'll bind you and your monsters tight with spider silk; leaving you completely helpless. Fufufu.❤
-「アラクネ」モンスターを通常召喚した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,When any "Arachne" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!
-「アラクネ」モンスターの通常召喚に成功した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,When any "Arachne" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!
-「アラクネ」モンスターが存在する場合、\n１ターンに１度相手モンスターの召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,If an "Arachne" monster exists on the field; once per turn when opponent summons a monster; I can inflict "Restraint" on that monster!
-糸に絡まるといい！「アラクネ」モンスターが存在する場合、\n１ターンに１度、相手の召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,Become tangled in silk! If an "Arachne" monster exists on the field; once per turn when opponent summons; I can inflict "Restraint" on that monster!
-拘束を補強させてもらうよ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態は３ターン延長される！,Let me reinforce those restraints for you. Activate {使用カード}! All opponents with the "Restraint" status has their effect extended by 3 turns!
-脱出は諦めることだね。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,You should give up on escaping. Activate {使用カード}! All opponents with the "Restraint" status has their effect extended by 3 turns!
-相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n攻撃してきたキャラクターに「拘束」を付与する！,When opponent declares an attack; I can pay 500 LP to activate {使用カード} to immediately inflict "Restraint" on the attacking character!
+「アラクネ」モンスターを通常召喚した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,"When any ""Arachne"" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!"
+「アラクネ」モンスターの通常召喚に成功した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,"When any ""Arachne"" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!"
+「アラクネ」モンスターが存在する場合、\n１ターンに１度相手モンスターの召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,"If an ""Arachne"" monster exists on the field; once per turn when opponent summons a monster; I can inflict ""Restraint"" on that monster!"
+糸に絡まるといい！「アラクネ」モンスターが存在する場合、\n１ターンに１度、相手の召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,"Become tangled in silk! If an ""Arachne"" monster exists on the field; once per turn when opponent summons; I can inflict ""Restraint"" on that monster!"
+拘束を補強させてもらうよ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態は３ターン延長される！,"Let me reinforce those restraints for you. Activate {使用カード}! All opponents with the ""Restraint"" status has their effect extended by 3 turns!"
+脱出は諦めることだね。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"You should give up on escaping. Activate {使用カード}! All opponents with the ""Restraint"" status has their effect extended by 3 turns!"
+相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n攻撃してきたキャラクターに「拘束」を付与する！,"When opponent declares an attack; I can pay 500 LP to activate {使用カード} to immediately inflict ""Restraint"" on the attacking character!"
 相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n「拘束」を付与して戦闘能力を奪わせてもらう！,When my opponent declares an attack; I can pay 500 LP to activate {使用カード}! Now you're bound; and powerless to fight me!
 「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、毒の牙を付与する！,When an 'Arachne' monster declares an attack; I activate {使用カード}!\nI boost its attack power by 300 points and grant it venomous fangs!
 「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、\nさらに戦闘時に相手に毒を付与する能力を与える！,When an 'Arachne' monster declares an attack; I activate {使用カード}!\nI boost its attack power by 300 points;\nand furthermore grant it the ability to poison opponents during battle!
@@ -79,16 +79,16 @@ F20_bindThighJobAnime,
 装備魔法カード発動！{使用カード}！,Equipment card activate! {使用カード}!
 魔法カードを発動！{使用カード}！,Magic card activate! {使用カード}!
 トラップカードを発動！{使用カード}！,Trap card activate! {使用カード}!
-通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、\n「拘束」を付与だ！,On a successful normal summon, {使用カード}'s effect activates! Deal 500 points of damage to monsters on the opponent's field; and apply "Restraint"!
-{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,Activate {使用カード}!\nExtend the "Restraint" status of all opponent characters by 3 turns!
-脱出は諦めることだ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,Give up on escaping. Activate {使用カード}! Extend the "Restraint" status of all opponent characters by 3 turns!
+通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、\n「拘束」を付与だ！,"On a successful normal summon; {使用カード}'s effect activates! Deal 500 points of damage to monsters on the opponent's field; and apply ""Restraint""!"
+{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"Activate {使用カード}!\nExtend the ""Restraint"" status of all opponent characters by 3 turns!"
+脱出は諦めることだ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"Give up on escaping. Activate {使用カード}! Extend the ""Restraint"" status of all opponent characters by 3 turns!"
 カードをセットする。,Set a card.
 カードを伏せる。,Place a card face-down.
 ふ、もてあそんでやろう。{防御カード}を攻撃！,Heh; I'll toy with you. Attack {防御カード}!
 わたしの攻撃の番だ。{防御カード}へ攻撃！,It's my turn to attack. Attack {防御カード}!
 行け！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
 罠は万全。\nさあどこからでもかかってくるといい。\nターンエンド。,End turn.
-ぐっ、どうにもならないな…。ターンエンド…。,Ugh, there's nothing I can do... Turn end...
+ぐっ、どうにもならないな…。ターンエンド…。,Ugh; there's nothing I can do... Turn end...
 手札が悪い…。ターンエンド…。,This hand is terrible... Turn end..
 ターン終了。,Turn over.
 わたしのターンは終わりだ。ターンエンド。,My turn is over. Turn end.
@@ -110,7 +110,7 @@ F20_bindThighJobAnime,
 地面に寝転んで無様だな。\n敵の体を見ず、足ばかり見ているからそうなる。\n無防備なお前の弱点を、たっぷり踏み抜いてやろう❤,How pathetic; lying sprawled on the ground. This all happened because you were staring at my feet instead of keeping track of the enemy in front of you. Now I'm going to trample right through your defenseless weak spots.❤
 ほらほらほら❤\nぐりぐりと踏まれてうれしいか？\nこの変態が。,Mm; that feels good~❤ Enjoying how the sole of my foot rubs your dick? Pervert.
 糸に縛られた気分はどうだ？\n案外悪くないだろう？なにせ、貴様が受けるのは、きついむち打ちではなく\nわたしのあまぁい快楽だ❤,How does it feel to be completely bound in spider silk? It's surprisingly nice; right? That's because what you'll be receiving isn't harsh punishment; but my sweet; sweet pleasure.❤
-ほら、乳首をカリカリと弾きながら、\nわたしのふとももでたっぷり"お仕置き"してやろう❤\n膝裏にぎゅっと捕まえて、前後に脚を動かしてしごくのさ。,Hora; I'll be sure to 'punish' you lots with my thighs while I flick and pinch your nipples.❤ Pay attention to how I squeeze your dick and stroke it up and down between my thigh and knee.
+"ほら、乳首をカリカリと弾きながら、\nわたしのふとももでたっぷり""お仕置き""してやろう❤\n膝裏にぎゅっと捕まえて、前後に脚を動かしてしごくのさ。",Hora; I'll be sure to 'punish' you lots with my thighs while I flick and pinch your nipples.❤ Pay attention to how I squeeze your dick and stroke it up and down between my thigh and knee.
 パンパンパン♪お前の腰にふとももが当たるたびに音がしているな❤\nふ、顔がとろとろじゃないか。\nどうした？もう屈服したいのか？出したければ出せ、雑魚が❤,Slap slap slap♪ Listen to that sound every time my thighs hit your hips.❤ Hah; your face is completely melting with pleasure. What's wrong? Ready to submit already? If you want to cum; then go ahead and cum; you weakling.❤
 ふふ、縛られて動けないか？無様だな❤\nわたしの脚で一方的にいたぶってやろうじゃないか。,Giggle; can't move because you're all tied up? How pathetic.❤ I'll torment you with my legs while you're unable to resist me.
 肉付きのいい脚に挟まれるのはたまらんだろう？\n捕食者の口のように、わたしのふとももとふくらはぎで\n貴様のチンポは今から食べられるんだ❤,Being squeezed between my meaty thighs must be unbearable; right? Like a predator's mouth; my thighs and calves are going to devour your cock.❤
@@ -143,7 +143,7 @@ F20_bindThighJobAnime,
 実に情けないな。このマゾ豚が❤,How truly pathetic. You masochistic pig.❤
 ふふ、どうした？\nまだ始まってほとんど時間が経っていないというのに、\n手を上下に動かしてシコシコと…❤,*Giggle* What's wrong? Even though we've barely started and hardly any time has passed; you're moving your hand up and down and stroking yourself...❤
 ふふ、試合前の言葉はどうした？\nあんなに生意気なことを言っておきながら、\n戦闘を放棄してシコシコ扱きだすとは…❤,*Giggle* What happened to all that tough talk before the match? Despite your earlier fighting words; you've decided to abandon the fight and start jerking off...❤
-ふふ、どうした？\nわたしと「いい勝負をする」んじゃなかったのか❤\n戦闘を放棄してシコシコ扱きだすとは…❤,*Giggle* What's wrong? Weren't you going to "give me a good fight"?❤ Despite your earlier fighting words; you've decided to abandon the fight and start jerking off...❤
+ふふ、どうした？\nわたしと「いい勝負をする」んじゃなかったのか❤\n戦闘を放棄してシコシコ扱きだすとは…❤,"*Giggle* What's wrong? Weren't you going to ""give me a good fight""?❤ Despite your earlier fighting words; you've decided to abandon the fight and start jerking off...❤"
 ふふ、わたしの前に近寄ってきて何をするのかと思えば、\nまさかオナニーをしだすとはな。,*Giggle* I wondered what you were going to do when I saw you approach me; but I never expected you to start masturbating.
 自分のマスターのことはいいのか？\nこの裏切り者のマゾ豚が❤,What about your master? You traitorous masochistic pig.❤
 うぐぅっ・・❤❤,Ughhh...❤❤
@@ -152,9 +152,9 @@ F20_bindThighJobAnime,
 あっ、ああっ、だめぇっ・・❤❤,Ah; ahhh; no...❤❤
 はひぃっ・・・❤❤,Hahii...❤❤
 くすくす❤まさか頭を踏まれただけで出すとはな。\nこの早漏め❤,*Giggle*❤ I can't believe you came just from having your head stepped on. You premature ejaculator.❤
-欲望を抑える理性もなく、快楽に弱く早漏❤\n弱点だらけで、\nずいぶん救いがないじゃないか。期待のルーキー❤くくく❤,No rationality to suppress your desires; weak to pleasure and quick to cum.❤ You're nothing but weaknesses—quite hopeless; aren't you? "Promising rookie".❤ *Snicker*.❤
+欲望を抑える理性もなく、快楽に弱く早漏❤\n弱点だらけで、\nずいぶん救いがないじゃないか。期待のルーキー❤くくく❤,"No rationality to suppress your desires; weak to pleasure and quick to cum.❤ You're nothing but weaknesses—quite hopeless; aren't you? ""Promising rookie"".❤ *Snicker*.❤"
 所詮男のモンスターなどその程度だ。\nサキュバスどころか人間のカードマスターの快楽にすら\n脳を支配される。,Male monsters are nothing more than that in the end. Your brains are easily dominated by pleasure from not just succubi; but even human card masters.
-あるいはマスターの理性を反映しているのかもな。\n期待のルーキー、お前もここに来て\nわたしに頭を踏まれてみるか？ククク❤,Or perhaps you're reflecting your master's rationality. Oh "Promising Rookie"; why don't you come here too and let me step on your head? *Snicker*.❤
+あるいはマスターの理性を反映しているのかもな。\n期待のルーキー、お前もここに来て\nわたしに頭を踏まれてみるか？ククク❤,"Or perhaps you're reflecting your master's rationality. Oh ""Promising Rookie""; why don't you come here too and let me step on your head? *Snicker*.❤"
 あぐ、はひぃっ・・❤❤,Agh; hahii...❤❤
 くくく❤たやすく四つん這いにされてしまったな。\nわたしの足など、手で防げばよかっただろうに。,*Snicker*.❤ You were easily forced onto all fours. Even though you could have blocked my foot with your hands.
 頭を踏まれても、手を離すこともできず、\n必死にシコシコ、シコシコ❤\nマゾ豚は腕すら自由に動かせぬらしい❤,Even with your head being stepped on; you can't let go of your hand; desperately stroking and stroking your penis.❤ It seems masochistic pigs don't even have control over what their arms do.❤
@@ -162,18 +162,18 @@ F20_bindThighJobAnime,
 お前の反応を見る限り、屈辱感よりも、\n快感の方が勝っているようだがな。\nぐちゅぐちゅと情けない音を出して、そんなに気持ちいいか？マゾ豚め❤,From your reaction; it seems like pleasure is winning over humiliation. Your dick making such pathetic wet sounds—does it feel that good? You masochistic pig.❤
 うぐ、ううっ・・❤❤止めないとだめなのにっ❤ああっ❤❤,Ugh; uhhh...❤❤ I need to stop this...❤ Ahhh...❤❤
 ふふ、いつ見ても男という生き物は哀れだな。\nみな心の奥底にマゾの性質を持ち、\n虐げられ、見下されるほどに興奮してしまう❤,*Giggle* No matter how I look at them; men are truly pitiful creatures. They all have masochistic tendencies deep in their hearts; and the more they're oppressed and looked down upon; the more aroused they become.❤
-お前もそうだ。口ではダメだなんだといいながら、\n体は喜びに打ち震えている❤\n試合の勝利も無敗の記録もすべて捨てて、わたしへの服従を望んでいる❤,You're the same way. Your mouth says "no;" but your body is trembling with joy.❤ You're throwing away victory and your undefeated record—all because you desire submission to me.❤
+お前もそうだ。口ではダメだなんだといいながら、\n体は喜びに打ち震えている❤\n試合の勝利も無敗の記録もすべて捨てて、わたしへの服従を望んでいる❤,"You're the same way. Your mouth says ""no;"" but your body is trembling with joy.❤ You're throwing away victory and your undefeated record—all because you desire submission to me.❤"
 そら。お前の望む通り、\nわたしへの服従を誓わせてやろう。\n靴で頭をぐりぐりと踏み抜いてやる❤,There. Just as you wish; I'll make you pledge your submission to me. I'll grind your head down with my shoe.❤
 踏まれた瞬間に射精しろ❤\nそれが服従の合図だ。\nほらほらほら！,Cum the moment I step on you.❤ That will be your signal of submission. Come on; do it!
 あへぇ・・・❤❤,Ahee…❤❤
-ふん。実に他愛ない。\n無敗のルーキーなどと言われている男がこの程度とはな。,Hmph. How utterly trivial. To think a man called an "undefeated rookie" amounts to only this much.
+ふん。実に他愛ない。\n無敗のルーキーなどと言われている男がこの程度とはな。,"Hmph. How utterly trivial. To think a man called an ""undefeated rookie"" amounts to only this much."
 靴で踏まれて喜んでいるマゾ豚が❤\nわたしに勝てると少しでも思ったこと、\n地に伏して反省するといい。ククク❤,A masochistic pig who gets off on being stepped on with shoes...❤ The fact that you even thought for a moment you could beat me—you should think hard and reflect on that. *Snicker*❤
 ククク❤自分のマスターを裏切り、\n敵のマスターに忠誠を誓いながら射精してしまったな❤\n屈服させられる喜びはたまらんものだろう？,*Snicker*❤ You betrayed your own master; cumming while pledging loyalty to your enemy's master.❤ The joy of being dominated must be irresistible; right?
-他のやつらもさっさと降参するといい。\n期待のルーキー、お前もここに来て\nわたしに頭を踏まれてみるか？ククク❤,The rest of you should just surrender already. Why don't you come here too and let me step on your head; "Promising Rookie"? *Snicker*❤
+他のやつらもさっさと降参するといい。\n期待のルーキー、お前もここに来て\nわたしに頭を踏まれてみるか？ククク❤,"The rest of you should just surrender already. Why don't you come here too and let me step on your head; ""Promising Rookie""? *Snicker*❤"
 ううっ…❤だめなのに…❤,Uhhh...❤ Even though I shouldn't...❤
 ふん、ほんとに踏まれに来るとはな。\n試合前の勇ましい言葉はどうした？,Ufu. You actually came here to be stepped on. What happened to all those brave words before the match?
 わたしをなかせるのではなかったか？\nわたしの目には、お前が情けなく豚のように鳴いている姿しか\n目に見えないがな❤ククク❤,Weren't you going to make me cry? All I can see is you squealing pathetically like a pig.❤ *Snicker*❤
-ふん、ほんとに踏まれに来るとはな。\nわたしと「いい勝負をする」んじゃなかったのか❤\n戦闘を放棄してシコシコ扱きだすとは…❤,Hmph; you actually came here to be stepped on. Weren't you going to "give me a good fight"?❤ Abandoning battle to start stroking yourself...❤
+ふん、ほんとに踏まれに来るとはな。\nわたしと「いい勝負をする」んじゃなかったのか❤\n戦闘を放棄してシコシコ扱きだすとは…❤,"Hmph; you actually came here to be stepped on. Weren't you going to ""give me a good fight""?❤ Abandoning battle to start stroking yourself...❤"
 ふふ、またオナニーか。仲間ともども仲のいいことだ。\n敵の前でシコシコ❤シコシコ❤\n主人の命令も耳に入らず、裏切って快楽にふけりおって❤,*Giggle*; masturbating again? You and your companion get along so well. Stroking your dick so nicely in front of your enemy.❤ Stroking; and stroking.❤ Ignoring your master's orders; betraying them to indulge in pleasure.❤
 こう言われても扱く手を止めることができないのか。\n誰もかれも、実に情けない❤,But even after being told this; you can't stop stroking? Each and every one of you is truly pathetic.❤
 お前もさっきのやつと同じ様に、はっきりと上下関係を教え込んでやる。\nわたしに踏まれてひざまずけ。\nこの雑魚が❤,I'll teach you the hierarchy clearly; just like I did with that other guy. Kneel down and let me step on you. You weakling.❤
@@ -197,100 +197,100 @@ F20_bindThighJobAnime,
 男という生き物は、上から見下ろしてやるだけで勝手に果てるのだから、\n実に滑稽だ❤女に服従するために生まれてきたかのようだな。ククク❤,Men are such creatures—they climax on their own just from being looked down upon from above; truly ridiculous.❤ It's as if you were born to submit to women. *Snicker*❤
 クク、お前もただのマゾ豚だったな❤\nわたしの足で踏みつけられて、気持ちよかったか？ヘンタイ❤,*Snicker* So you were just another masochistic pig after all.❤ Did it feel good being trampled under my foot? Pervert.❤
 わたしの脚に挟みこまれて、男が耐えられるはずもない❤\nお前もただのマゾ豚に過ぎなかったな、新人マスター❤\nククク❤,No man could endure being squeezed between my legs.❤ You turned out to be nothing more than a masochistic pig; rookie master.❤ *Snicker*❤
-ふ、足にわざわざかけるとはな、この変態め❤\n靴にめがけてしこしこしこしこ、実に滑稽だったぞ。ククク❤,Hah; cumming specifically on my foot—what a pervert.❤ Aiming for my shoe while stroking your cock nice and hard; stroking; stroking—truly ridiculous. *Snicker*❤
-闘技場とうって変わって、今日はずいぶんブヒブヒ鳴くじゃないか❤\n踏まれただけでこんなに出して、\nお前もマゾに目覚めてきたようだな。ククク❤,
-わたしの脚に挟みこまれれば、\nさすがの無敗のルーキーも耐えられないか❤\nこの感触を覚えてマゾに堕ちないように気をつけろよ？ククク❤,
-決着ー！！勝者は{自分}選手！,
-無敗のルーキーもここでついに敗北！\nまさかの開始直後のオナニーで自滅してしまいました！,
-最後は頭をふみつけられながら、\n四つん這いで射精！\nこれはちょっと恥ずかしい決着です！,
-無敗のルーキーもここでついに敗北！\nヤツメ選手の鋭い目に射貫かれて心を狂わされてしまったのか、\n自らオナニーで敗北してしまいました！,
-果敢な攻めによって、あと少しまでヤツメ選手を追い詰めたのですが、\n最後まで理性を保つことはできなかったようです！,
-最後は頭をふみつけられながら、\n四つん這いで射精！\n上下関係をはっきり分からされる決着になりました！,
-ヤツメ選手の巧みな足さばきに\n{主人公}選手、あえなく陥落！\n糸に絡め取られたまま、抵抗もできず搾り取られてしまいました！,
-それにしてもあっけない幕切れです。\n胸の大きいマスターを次々破ってきた{主人公}選手ですが、\n足こそが弱点だったのかもしれません！,
-あの鋭い目で射すくめられながらの足コキは、\nMな男に効果ばつぐん！まだ射精の余韻が抜けないのか\n{主人公}選手、びくびくと痙攣しています！,
-ヤツメ選手の肉厚なふとももに挟まれて、脚を動かすこと数往復！\n{主人公}選手、糸から逃れることもできず、\nそのまま射精してしまいました！,
-多くの男性マスターを敗北に追い込んできたヤツメ選手のふとももは、\nまるで犯罪者が処される断頭台！\n{主人公}選手も耐え切れなかったようです！,
-ヤツメ選手の巧みな足さばきに\n{主人公}選手、あえなく陥落！\nほとんど抵抗もできず搾り取られてしまいました！,
-ヤツメ選手の肉厚なふとももに挟まれて、脚を動かすこと数往復！\n{主人公}選手、耐え切れず射精してしまいました！,
-ヤツメ選手のふとももはまるで犯罪者が処される断頭台！\n多くの男性マスターを敗北に追い込んできましたが、\n{主人公}選手も耐え切れなかった！,
-それにしてもあっけない幕切れです。\n胸の大きいマスターを次々破ってきた{主人公}選手ですが、\n脚こそが弱点だったのかもしれません！,
-ふん、たわいもない。\nずいぶんと早い敗北だったな。,
-ふん、たわいもない。\n所詮は男、わたしの敵ではなかったな。,
-今もまだこんなに勃起させて、この恥知らずめ。\nお前は敗北したんだぞ？悔し涙のひとつも流したらどうだ。\nククク❤,
-そういうとヤツメは僕のペニスにブーツを押し当て、軽くグリグリと擦ってきた。,
-射精したばかりで敏感な部分を、絶妙な力加減で刺激されて、僕は情けなく喘ぎ声をもらしてしまう。,
-あぐぅっ・・・❤,
-ふふ、試合前に大言壮語していたわりに\nなんとも情けないな。\n結局わたしに豚のように鳴かされているじゃないか❤,
-ふふ、試合前に格好つけていたわりに\nなんとも情けないな。\n結局わたしに豚のように鳴かされているじゃないか❤,
-うぅっ、それはぁ・・・❤あぐぅ・・・❤,
-口もきけずにどうした？\n足で踏まれれば、反論の言葉もつぶされてしまうのか？\nほらほらほら！,
-やめっ、あひぃ・・・❤❤,
-ふん、情けない。\n女に足ひとつで屈服させられるとは、\n実に浅ましいな。このマゾ豚が❤,
-このまま、まずは一回射精させるとしようか。\nほら、さっさと果てろマゾ❤,
-そう言ってヤツメは僕のペニスを踏みにじる。乱暴に見えて男のツボを知り尽くしたその動きに、僕はどんどん射精感を高められてしまう。,
-うぐ、ううっ、こんな簡単にぃ…❤,
-あっ、ああっ、だめ、耐えられないっ❤❤あひぃっ❤❤❤,
-ふっ、蕩けた顔で何がダメだ。\nイケ❤雑魚❤,
-男を操ることなど容易いな。\nそれにしても…。,
-クク❤女の足蹴にされて、していい顔ではないぞ。\nうっとりした顔でこちらを見て。\nまるで媚びる犬のようじゃないか。,
-ほら、お前の魔力がカラカラになるまで、\nさらに搾り取ってやろう。,
-お前もわたしに魔力を奪われて、うれしいだろう？\n無敗のルーキー❤,
-ヤツメはカードを使用すると、僕の体に蜘蛛の糸が絡みついてきた。２回も射精し力の入らない僕は、抵抗できないまま中空に吊り上げられてしまう。,
-あう、やめ、やめて…。,
-ふふ、いいねだり方をするじゃないか。\n犬のように媚びた目でそう言われると、\n少し愛着も湧くものだ。,
-せめてもの情けだ。ほら、全体を糸で包んでやろう。,
-こうすれば外からお前の姿は見えまい。\nお前が屈辱を感じるのは、わたしに対してだけで十分だからな。,
-さあ、処刑の開始だ。\nわたしのふとももに挟まれて、\n悦楽に顔をゆがめるといい❤,
-はぐぅうっ、すごいっ、あううっ・・・・❤❤,
-ふとももに締め付けられただけで、\nそんな声をあげるのか。,
-万力のような圧力もそうだが、\nふとももの肌ざわりも、なかなかのものだろう？,
-普段から日の当たらない牢屋での勤務だ。\nそのうえ蜘蛛たちの糸には美肌効果もあるからな。\n肌の質は他のカードマスターにも褒められることが多い❤,
-こうやって押しつぶしているだけでも、\nお前のような早漏マゾは射精してしまうだろうが、\nほら、ちゃんと動かしてやろう。,
-わたしの美肌と柔らかいふとももにこすられて、\n天国のような気持ちよさを味わえ❤,
-ほらほらほら❤,
-あう、あううっ❤❤きもちいいっ、きもちいいぃ・・・❤❤,
-すっかり素直になったな。\n無敗のルーキー❤,
-いやせっかくだから名前で呼んでやろうか。\nたしか{主人公}と呼ばれていたな。,
-どうだ？女に屈服するのは気持ちいいか？\n{主人公}…❤,
-凛とした声でヤツメは僕の耳元に囁いた。どこか愛情を感じるその声に、僕の体は喜びを感じてしまう。,
-この愛情は男女の愛情ではない、どちらかというと犬や猫に向けるようなそんな可愛がり方だ。,
-そんな風に名前を呼ばれるなんて、屈辱的でたまらないはずなのに、強い快楽の中、名前をささやかれて脳が蕩けそうになってしまう。,
-はうぅ・・・❤❤❤,
-おやおや。どうやら名前を呼ばれるのが\nお気に召したようだ。,
-手足を縛られ、\nふとももで一方的に魔力を搾りだされているというのに、\nたかだか名前を呼ばれるだけでそんな風に目をとろんとさせるとは。,
-このマゾ豚はよほどペットに向いた性根のようだな❤\nなあ、{主人公}…❤,
-ううっ❤はへぇっ・・・❤❤❤,
-ふふ、また名前を呼んだら腰が跳ねたぞ。\nよかったな、こんな恥ずかしいところを観客に見られなくて。,
-ほらほら、\nわたしにペットのように扱われる喜びをしっかり感じながら、\nさっさと射精してしまえ。,
-激しくパンパンとふとももを叩きつけられて、耐えられんだろう？\nお前のチンポが出たり入ったりするたびに\n本物の女性器以上の締め付けで脳が震えるだろう？,
-我慢など無駄だ。\nイケ❤{主人公}❤,
-あうっ、あへぇ、きもちいいっ・・・❤❤❤,
-どろどろの精液がまたこんなに出た。\nこれだけ搾り取られているというのに、よく出すものだ。,
-どうだ、{主人公}。\nわたしに服従するのは、至上の喜びだと思わんか？\nもしお前が望むなら・・・。,
-お前のことをわたしのペットにしてやろう。,
-なに、別に金を貢がせたりするわけではない。\nわたしが仕事で疲れたあとに、\nわたしの脚をもんだり・・・。,
-魔力の補給がてら、\nわたしに精を差し出すだけの関係だ。\n搾精はもちろんわたしのストレス発散もかねているがな。,
-お前の魔力、お前の反応、\nどれも悪くない。\n特別にペットにしてやろうというわけだ。,
-どうする、{主人公}…❤\n嫌なら、嫌と言え。\nもしペットになりたいのであれば・・・。,
-わたしの手の平に口づけをしろ。\nそれが服従の合図だ。,
-あう、あうう、ぼくは・・・。,
-こんな提案受けるべきでないに決まっている。だけど、射精した後もゆるやかに動かされ続けるヤツメのふとももと、彼女の透き通るような声を聞いていると頭に靄がかかったようになってしまう。,
-彼女に縛られ、すべてを掌握されたこの状況が、ずっと続いてほしいと思ってしまう。鋭い目で射すくめるように僕を見つめるヤツメ。その目を見ているうちに僕は・・・。,
-ほら、口づけをしろ。\n手をお前の口元に運んでやろう。,
-手袋を外してやる。わたしの素肌にキスすることを許そう。\nさあ、わたしのペットになれ。{主人公}❤,
-あううっ…❤おねがい、します、ヤツメさまぁ…❤❤,
-そういって僕はヤツメの手の甲に口づけをしてしまった。ヤツメはそんな僕を見て、くっくと笑っている。,
-まったく。快楽にほだされて\nこのような決断をするとは。\nずいぶんと簡単な男だな。お前は。,
-まあ、いい。ペットになったからには、\nちゃんと可愛がってやろう。\n{主人公}❤,
-あっ…❤ああっ…❤❤ヤツメさま、ヤツメさまぁ…❤❤,
-ふん、お前がわたしの名を呼ぶなら、\nわたしもお前の名を呼んでやらないとな。,
-{主人公}…❤{主人公}…❤{主人公}…❤\nこれから、かわいく仕えろよ。\nほらほらほら❤,
-はひぃっ…❤あうあっ…❤❤ヤツメさまぁ…❤❤,
-蜘蛛糸の繭の中、ヤツメにカラカラになるまで搾り取られた僕は、すっかり彼女の虜になってしまった。,
-彼女の手に口づけをして誓ったように、その後僕は彼女のペットとして過ごし・・・。,
-彼女の家の一室をあてがわれてそこに住むことになった。,
-彼女が家にいないときは家事をしたり、彼女の書類の整理をし、彼女が家に戻ってきたときには彼女の疲れた脚をマッサージしてほぐしたりした。,
-僕は恋人というわけではない。彼女の僕に対する扱いは時にぞんざいで、召使いのように理不尽な申しつけを受けることも多かったけれど・・・,
-彼女は僕が壊れてしまうような無理はさせず、また時折僕のことを脚で可愛がってくれるのだった。,
-こうして僕はヤツメに心酔してしまい、これまでの修行のことなど忘れ、そのまま彼女のペットとして一生を終えることになった。僕の冒険はここで幕を閉じたのだった。,
+ふ、足にわざわざかけるとはな、この変態め❤\n靴にめがけてしこしこしこしこ、実に滑稽だったぞ。ククク❤,Hah; cumming specifically on my foot—what a pervert.❤ Aiming for my shoe while stroking your cock nice and hard; stroking; stroking...truly ridiculous. *Snicker*❤
+闘技場とうって変わって、今日はずいぶんブヒブヒ鳴くじゃないか❤\n踏まれただけでこんなに出して、\nお前もマゾに目覚めてきたようだな。ククク❤,What a contrast to our fight at the arena. You're squealing like a pig quite a bit today!❤Just from being stepped on you're releasing this much—it seems your masochistic side has really awakened. Kukuku.❤
+わたしの脚に挟みこまれれば、\nさすがの無敗のルーキーも耐えられないか❤\nこの感触を覚えてマゾに堕ちないように気をつけろよ？ククク❤,Not even the undefeated rookie can't endure being trapped between my legs!❤ Be careful not to fall into masochism after remembering this sensation; okay? Kukuku.❤
+決着ー！！勝者は{自分}選手！,The match has been decided!! The winner is {自分}!
+無敗のルーキーもここでついに敗北！\nまさかの開始直後のオナニーで自滅してしまいました！,The undefeated rookie has finally been defeated! Surprisingly; they self-destructed with masturbation right after the match started!
+最後は頭をふみつけられながら、\n四つん這いで射精！\nこれはちょっと恥ずかしい決着です！,In the end; while having their head stepped on; they ejaculated on all fours! This is quite an embarrassing conclusion!
+無敗のルーキーもここでついに敗北！\nヤツメ選手の鋭い目に射貫かれて心を狂わされてしまったのか、\n自らオナニーで敗北してしまいました！,The undefeated rookie has finally been defeated! Perhaps their mind was driven mad after being pierced by Yatsume contestant's sharp gaze; they defeated themselves through masturbation!
+果敢な攻めによって、あと少しまでヤツメ選手を追い詰めたのですが、\n最後まで理性を保つことはできなかったようです！,Through bold attacks; they cornered Yatsume contestant to the very end; but it seems they couldn't maintain their sanity until the finish!
+最後は頭をふみつけられながら、\n四つん這いで射精！\n上下関係をはっきり分からされる決着になりました！,In the end; while having their head stepped on; they ejaculated on all fours! The hierarchy between these two was made clear in this decisive outcome!
+ヤツメ選手の巧みな足さばきに\n{主人公}選手、あえなく陥落！\n糸に絡め取られたまま、抵抗もできず搾り取られてしまいました！,Thanks to Yatsume contestant's skillful footwork; {主人公} was helplessly conquered! Caught up in threads; they were drained without being able to resist!
+それにしてもあっけない幕切れです。\n胸の大きいマスターを次々破ってきた{主人公}選手ですが、\n足こそが弱点だったのかもしれません！,Still; what an anticlimactic ending. {主人公} had been defeating busty masters one after another; but perhaps feet was their true weakness!
+あの鋭い目で射すくめられながらの足コキは、\nMな男に効果ばつぐん！まだ射精の余韻が抜けないのか\n{主人公}選手、びくびくと痙攣しています！,Recieving Yatsume's footjob while being pierced by those sharp eyes is super effective against masochistic men! The afterglow of climax still hasn't faded—{主人公} is still twitching and convulsing!
+ヤツメ選手の肉厚なふとももに挟まれて、脚を動かすこと数往復！\n{主人公}選手、糸から逃れることもできず、\nそのまま射精してしまいました！,Looks like it was Yatsume's thick thighs; moving her legs back and forth several times hat decided the match! {主人公} couldn't escape from the threads; and ejaculated just like that!
+多くの男性マスターを敗北に追い込んできたヤツメ選手のふとももは、\nまるで犯罪者が処される断頭台！\n{主人公}選手も耐え切れなかったようです！,Yatsume's thighs have coaxed many male masters to surrender—like a guillotine where criminals are executed! It seems {主人公} couldn't endure it either!
+ヤツメ選手の巧みな足さばきに\n{主人公}選手、あえなく陥落！\nほとんど抵抗もできず搾り取られてしまいました！,Through Yatsume contestant's skillful footwork {主人公} contestant was helplessly conquered! He was drained with barely any resistance!
+ヤツメ選手の肉厚なふとももに挟まれて、脚を動かすこと数往復！\n{主人公}選手、耐え切れず射精してしまいました！,Looks like it was Yatsume's thick thighs; moving her legs back and forth several times hat decided the match! {主人公} contestant couldn't endure it and ejaculated!
+ヤツメ選手のふとももはまるで犯罪者が処される断頭台！\n多くの男性マスターを敗北に追い込んできましたが、\n{主人公}選手も耐え切れなかった！,Yatsume's thighs are like a guillotine where criminals are executed! She's driven many male masters to defeat; and {主人公} couldn't endure it either!
+それにしてもあっけない幕切れです。\n胸の大きいマスターを次々破ってきた{主人公}選手ですが、\n脚こそが弱点だったのかもしれません！,Still; what an anticlimactic ending. {主人公} contestant had defeated busty masters one after another; but perhaps legs were his weakness after all!
+ふん、たわいもない。\nずいぶんと早い敗北だったな。,Humph; how trivial. That was quite a quick defeat.
+ふん、たわいもない。\n所詮は男、わたしの敵ではなかったな。,Humph; how trivial. You're just a man after all; you were no match for me.
+今もまだこんなに勃起させて、この恥知らずめ。\nお前は敗北したんだぞ？悔し涙のひとつも流したらどうだ。\nククク❤,You're still getting this hard even now; you shameless fool. You were defeated; weren't you? Who's squealing now? Kukuku.❤
+そういうとヤツメは僕のペニスにブーツを押し当て、軽くグリグリと擦ってきた。,Saying that; Yatsume pressed her boot against my penis and began grinding it in light circles.
+射精したばかりで敏感な部分を、絶妙な力加減で刺激されて、僕は情けなく喘ぎ声をもらしてしまう。,The sensitive spots on my dick—still tender from just climaxing—were stimulated with exquisite pressure; making me let out pathetic moans.
+あぐぅっ・・・❤,Aguu...❤
+ふふ、試合前に大言壮語していたわりに\nなんとも情けないな。\n結局わたしに豚のように鳴かされているじゃないか❤,Fufu; for all your big talk before the match; you're quite pathetic now. In the end you're squealed like a pig for me after all; didn't you?❤
+ふふ、試合前に格好つけていたわりに\nなんとも情けないな。\n結局わたしに豚のように鳴かされているじゃないか❤,Fufu; you were so cool and confident before our match; but you're quite pathetic now. In the end you're squealed like a pig for me after all; didn't you?❤
+うぅっ、それはぁ・・・❤あぐぅ・・・❤,Uuu; that's...❤ Aguu...❤
+口もきけずにどうした？\n足で踏まれれば、反論の言葉もつぶされてしまうのか？\nほらほらほら！,What's wrong? Cat got your tongue? Can't resist me with your words while my foot is pushing down on your crotch? Hora hora hora!
+やめっ、あひぃ・・・❤❤,Stop; ahii...❤❤
+ふん、情けない。\n女に足ひとつで屈服させられるとは、\n実に浅ましいな。このマゾ豚が❤,Humph; pathetic. To be made to submit by a woman only using her foot—how truly disgraceful. You masochistic pig.❤
+このまま、まずは一回射精させるとしようか。\nほら、さっさと果てろマゾ❤,Why don't I make you cum once more; just like this. Come on; hurry up and climax; you masochist.❤
+そう言ってヤツメは僕のペニスを踏みにじる。乱暴に見えて男のツボを知り尽くしたその動きに、僕はどんどん射精感を高められてしまう。,After saying that; Yatsume begain to rub my penis under her foot. Though her movements looked rough; I could tell she knew exactly where a man's weak spots were—steadily building my climax higher and higher.
+うぐ、ううっ、こんな簡単にぃ…❤,Ugu; uuu; I won't be so easily...❤
+あっ、ああっ、だめ、耐えられないっ❤❤あひぃっ❤❤❤,Ah; aah; no; I can't take it!❤❤ Ahii!❤❤❤
+ふっ、蕩けた顔で何がダメだ。\nイケ❤雑魚❤,Hah; no matter what you do; it's no use when you're making a slutty face like that. Cum already!❤ Small fry!❤
+男を操ることなど容易いな。\nそれにしても…。,Controlling men is child's play. Still though...
+クク❤女の足蹴にされて、していい顔ではないぞ。\nうっとりした顔でこちらを見て。\nまるで媚びる犬のようじゃないか。,Kuku.❤ That's not the kind of face you should make while being massaged by a woman's foot. Looking at me with such an entranced expression—you're just like a fawning dog.
+ほら、お前の魔力がカラカラになるまで、\nさらに搾り取ってやろう。,Come on; I'll drain even more out of you until your magical power runs completely dry.
+お前もわたしに魔力を奪われて、うれしいだろう？\n無敗のルーキー❤,"You're happy to have your magical power stolen by me; aren't you; ""Undefeated Rookie""?❤"
+ヤツメはカードを使用すると、僕の体に蜘蛛の糸が絡みついてきた。２回も射精し力の入らない僕は、抵抗できないまま中空に吊り上げられてしまう。,When Yatsume used her card; spider threads began wrapping around my body. Having climaxed twice already with no strength left; I couldn't resist as I was hoisted up into the air.
+あう、やめ、やめて…。,Ah; stop; please stop...
+ふふ、いいねだり方をするじゃないか。\n犬のように媚びた目でそう言われると、\n少し愛着も湧くものだ。,Fufu; I do enjoy the way you tell me to stop. When you say that with those puppy dog eyes; it makes me feel a bit attached to you.
+せめてもの情けだ。ほら、全体を糸で包んでやろう。,Consider this a small mercy. Come; I'll wrap your entire body in silk.
+こうすれば外からお前の姿は見えまい。\nお前が屈辱を感じるのは、わたしに対してだけで十分だからな。,This way no one from outside can see you. Your humiliation should be felt only towards me; after all.
+さあ、処刑の開始だ。\nわたしのふとももに挟まれて、\n悦楽に顔をゆがめるといい❤,Now; let the execution begin. Get caught between my thighs and let your expression melt from pleasure.❤
+はぐぅうっ、すごいっ、あううっ・・・・❤❤,Haguuu; incredible; auuu...❤❤
+ふとももに締め付けられただけで、\nそんな声をあげるのか。,Oh? You make such sounds just from being squeezed by my thighs?
+万力のような圧力もそうだが、\nふとももの肌ざわりも、なかなかのものだろう？,Not only is the pressure like a vice; but the texture of my thighs is quite something too; isn't it?
+普段から日の当たらない牢屋での勤務だ。\nそのうえ蜘蛛たちの糸には美肌効果もあるからな。\n肌の質は他のカードマスターにも褒められることが多い❤,I work in a prison cell that never sees sunlight. This in combination with spider silk has beautifying effects on skin. Other cardmasters often compliment the quality of my skin.❤
+こうやって押しつぶしているだけでも、\nお前のような早漏マゾは射精してしまうだろうが、\nほら、ちゃんと動かしてやろう。,Just crushing you like this would make an early-climaxing masochist like you ejaculate; but come on; I'll move properly for you.
+わたしの美肌と柔らかいふとももにこすられて、\n天国のような気持ちよさを味わえ❤,Let me rub your dick with my beautiful skin; soft thighs and experience heavenly pleasure.❤
+ほらほらほら❤,Take this! Can you feel how my foot traces your dick just right? Just relax as I pump it up and down~❤
+あう、あううっ❤❤きもちいいっ、きもちいいぃ・・・❤❤,Au; auuu❤❤ It feels good; can't think...❤❤
+すっかり素直になったな。\n無敗のルーキー❤,I see you've finally become honest with yourself; Undefeated Rookie.❤
+いやせっかくだから名前で呼んでやろうか。\nたしか{主人公}と呼ばれていたな。,Actually; since we're here I'll call you by name. You're {主人公}; aren't you?
+どうだ？女に屈服するのは気持ちいいか？\n{主人公}…❤,How is it? Does submitting to a woman feel good? {主人公}...❤
+凛とした声でヤツメは僕の耳元に囁いた。どこか愛情を感じるその声に、僕の体は喜びを感じてしまう。,Yatsume whispered in my ear with that dignified voice of hers. Her sassy yet affectionate voice sent shivers down my body.
+この愛情は男女の愛情ではない、どちらかというと犬や猫に向けるようなそんな可愛がり方だ。,This affection wasn't romantic love between a man and woman; it was more like the way you'd show affection to a dog or cat.
+そんな風に名前を呼ばれるなんて、屈辱的でたまらないはずなのに、強い快楽の中、名前をささやかれて脳が蕩けそうになってしまう。,Being called by name like that should be unbearably humiliating; yet amid the intense pleasure; having my name whispered made my mind feel like it was melting.
+はうぅ・・・❤❤❤,Hauuu...❤❤❤
+おやおや。どうやら名前を呼ばれるのが\nお気に召したようだ。,Oh my. It seems you enjoyed being called by name.
+手足を縛られ、\nふとももで一方的に魔力を搾りだされているというのに、\nたかだか名前を呼ばれるだけでそんな風に目をとろんとさせるとは。,Your limbs are bound and I'm forcibly draining your magical power with my thighs; yet just having your name called makes your eyes go glassy like that.
+このマゾ豚はよほどペットに向いた性根のようだな❤\nなあ、{主人公}…❤,Looks like this masochistic pig seems perfectly suited to being a pet.❤ Isn't that right; {主人公}...❤
+ううっ❤はへぇっ・・・❤❤❤,Uuu.❤ Hahee...❤❤❤
+ふふ、また名前を呼んだら腰が跳ねたぞ。\nよかったな、こんな恥ずかしいところを観客に見られなくて。,Fufu; your hips jumped again when I called your name. How lucky for you that the audience can't see such an embarrassing sight.
+ほらほら、\nわたしにペットのように扱われる喜びをしっかり感じながら、\nさっさと射精してしまえ。,Come on; while properly feeling the joy of being treated like my pet; ejaculate quickly already.
+激しくパンパンとふとももを叩きつけられて、耐えられんだろう？\nお前のチンポが出たり入ったりするたびに\n本物の女性器以上の締め付けで脳が震えるだろう？,You can't endure having my thighs slammed against you so intensely; can you? Every time your cock slides in and out; the tightness exceeding even real female genitals makes your brain tremble; doesn't it?
+我慢など無駄だ。\nイケ❤{主人公}❤,Holding back is pointless. Cum!❤ {主人公}!❤
+あうっ、あへぇ、きもちいいっ・・・❤❤❤,Auuu; ahee; it feels so good...❤❤❤
+どろどろの精液がまたこんなに出た。\nこれだけ搾り取られているというのに、よく出すものだ。,Look how much thick semen came out again. Even after being drained this much; you still produce so much.
+どうだ、{主人公}。\nわたしに服従するのは、至上の喜びだと思わんか？\nもしお前が望むなら・・・。,How about it; {主人公}. Don't you think submitting to me brings supreme joy? If you truly desire it...
+お前のことをわたしのペットにしてやろう。,I'll make you my pet.
+なに、別に金を貢がせたりするわけではない。\nわたしが仕事で疲れたあとに、\nわたしの脚をもんだり・・・。,Don't worry; I won't make you give me money or anything like that. After I get tired from work; I'll simply have you massage my legs and such...
+魔力の補給がてら、\nわたしに精を差し出すだけの関係だ。\n搾精はもちろんわたしのストレス発散もかねているがな。,While replenishing my magical power; you'll simply offer up your semen to me. Of course; milking you will also help relieve my stress.
+お前の魔力、お前の反応、\nどれも悪くない。\n特別にペットにしてやろうというわけだ。,Your magical power; your reactions... I could really get used to this. I'm graciously offering to make you my pet.
+どうする、{主人公}…❤\n嫌なら、嫌と言え。\nもしペットになりたいのであれば・・・。,What will it be; {主人公}...❤ If you don't want this; then say no. But if you want to become my pet...
+わたしの手の平に口づけをしろ。\nそれが服従の合図だ。,Kiss the palm of my hand. That will be your sign of submission.
+あう、あうう、ぼくは・・・。,Au; auuu; I...
+こんな提案受けるべきでないに決まっている。だけど、射精した後もゆるやかに動かされ続けるヤツメのふとももと、彼女の透き通るような声を聞いていると頭に靄がかかったようになってしまう。,I know I shouldn't accept such a proposal. But listening to Yatsume's crystal-clear voice as her thighs continued to gently massage my dick even after I ejaculated makes my head was making my head foggy.
+彼女に縛られ、すべてを掌握されたこの状況が、ずっと続いてほしいと思ってしまう。鋭い目で射すくめるように僕を見つめるヤツメ。その目を見ているうちに僕は・・・。,I found myself wanting this situation—being bound by her; completely under her control—to continue forever. Yatsume stared at me with piercing eyes that seem to pin me in place. As I looked into those eyes; I...
+ほら、口づけをしろ。\n手をお前の口元に運んでやろう。,Come; kiss it. I'll even bring my hand to your mouth for you.
+手袋を外してやる。わたしの素肌にキスすることを許そう。\nさあ、わたしのペットになれ。{主人公}❤,I'll remove my gloves for you. I'll allow you to kiss my bare skin. Now; become my pet. {主人公}❤
+あううっ…❤おねがい、します、ヤツメさまぁ…❤❤,Auuu...❤ Please; I... I am yours; Yatsume-sama...❤❤
+そういって僕はヤツメの手の甲に口づけをしてしまった。ヤツメはそんな僕を見て、くっくと笑っている。,With those words; I ended up kissing the back of Yatsume's hand. Yatsume watched me do this and chuckled softly.
+まったく。快楽にほだされて\nこのような決断をするとは。\nずいぶんと簡単な男だな。お前は。,Good grief. To make such a decision just because you're swayed by pleasure. You're quite the simple man; aren't you.
+まあ、いい。ペットになったからには、\nちゃんと可愛がってやろう。\n{主人公}❤,Well; fine. Now that you've become my pet; I'll take proper care of you. {主人公}❤
+あっ…❤ああっ…❤❤ヤツメさま、ヤツメさまぁ…❤❤,Ah...❤ Aah...❤❤ Yatsume-sama; Yatsume-sama...❤❤
+ふん、お前がわたしの名を呼ぶなら、\nわたしもお前の名を呼んでやらないとな。,Hmph; if you're going to call my name; then I suppose I should call yours too.
+{主人公}…❤{主人公}…❤{主人公}…❤\nこれから、かわいく仕えろよ。\nほらほらほら❤,{主人公}...❤ {主人公}...❤ {主人公}...❤ From now on; you will serve me like a puppy. There; there; there~❤
+はひぃっ…❤あうあっ…❤❤ヤツメさまぁ…❤❤,Hahii...❤ Auah...❤❤ Yatsume-sama...❤❤
+蜘蛛糸の繭の中、ヤツメにカラカラになるまで搾り取られた僕は、すっかり彼女の虜になってしまった。,Inside the cocoon of spider silk; after being milked completely dry by Yatsume; I had become utterly captivated by her.
+彼女の手に口づけをして誓ったように、その後僕は彼女のペットとして過ごし・・・。,Just as I had pledged when I kissed her hand; I spent my days afterward living as her pet...
+彼女の家の一室をあてがわれてそこに住むことになった。,I was given a room in her house to live in.
+彼女が家にいないときは家事をしたり、彼女の書類の整理をし、彼女が家に戻ってきたときには彼女の疲れた脚をマッサージしてほぐしたりした。,When she wasn't home I would do housework and organize her documents; and when she returned home I would massage and soothe her tired legs.
+僕は恋人というわけではない。彼女の僕に対する扱いは時にぞんざいで、召使いのように理不尽な申しつけを受けることも多かったけれど・・・,I wasn't her lover. Her treatment of me was sometimes rough; and I often received unreasonable orders like a servant would; but...
+彼女は僕が壊れてしまうような無理はさせず、また時折僕のことを脚で可愛がってくれるのだった。,She never pushed me so hard that I would break; and from time to time she would pamper me with her legs.
+こうして僕はヤツメに心酔してしまい、これまでの修行のことなど忘れ、そのまま彼女のペットとして一生を終えることになった。僕の冒険はここで幕を閉じたのだった。,And so I became utterly devoted to Yatsume; forgot all about my previous training; and ended up spending the rest of my life as her pet. And so; my adventure came to an end.
