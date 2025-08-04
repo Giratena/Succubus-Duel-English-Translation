@@ -1,4 +1,4 @@
-default,
+default
 ヤツメ,Yatsume
 F20_thighJobAnime,
 F20_bindThighJobAnime,
@@ -93,7 +93,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 罠は万全。\nさあどこからでもかかってくるといい。\nターンエンド。,End turn.
 ぐっ、どうにもならないな…。ターンエンド…。,Ugh; there's nothing I can do... Turn end...
 手札が悪い…。ターンエンド…。,This hand is terrible... Turn end..
-ターン終了。,Turn over.
+ターン終了。,Turn end.
 わたしのターンは終わりだ。ターンエンド。,My turn is over. Turn end.
 これで終わりかな。ターンエンド。,I guess this is the end. Turn end.
 ふふ、蜘蛛糸に絡めとられて無様だな❤\nどうだ、こうしてブーツを貴様の股にあてがわれても、\n跳ね除けることもできないだろう？,Fufu. How pathetic you look; all tangled up in my spiders' silky threads.❤ How's this? Even with my boot pressed against your crotch like this; you can't push it away; can you?
