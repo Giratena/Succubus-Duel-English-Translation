@@ -17,14 +17,14 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 お前がわたしのペットになりたいのであれば、\nわたしはいつでも歓迎しよう❤\n強い男の首にひもをつけるのは、実に楽しいからな。ククク❤,If you want to become my pet; I'd gladly welcome you.❤ I do enjoy the feeling of collaring a strong man. Kukuku.❤
 挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You haven't reached the rank points needed to challenge (Current rank points: {ランクポイント}).
 無敗のルーキーの試合の時間がやってきました！\n昇格戦も含めると、Cランク選手相手にも二連勝！\nここまで負けなしの彼を止められるマスターは現れるのか！,The time has come for our undefeated rookie's match! Including promotion battles; he's won twice against C-rank fighters! Is there anyone out there who can stop this undefeated warrior?!
-そして、今日の相手はこの人！\n相手の動きを「止める」ことに関してはプロフェッショナル、\nモルゲン牢獄の看守！ヤツメ選手の登場です！,"And today's opponent has arrived! A professional when it comes to ""stopping"" her opponent's movements; the guardkeeper of Morgen Prison... Cardmaster Yatsume!"
+そして、今日の相手はこの人！\n相手の動きを「止める」ことに関してはプロフェッショナル、\nモルゲン牢獄の看守！ヤツメ選手の登場です！,And today's opponent has arrived! A professional when it comes to "stopping" her opponent's movements; the guardkeeper of Morgen Prison... Cardmaster Yatsume!
 彼女は蜘蛛モンスターの使い手！\n彼女の蜘蛛の糸にがんじがらめにされたら、もう逃げられないぞ！\n犯罪者であろうと魔物であろうと、彼女のおもちゃです！,She's a spider monster user! Once you're completely bound by her spider's silk; there's no escape! Whether criminal or monster; no one can resist becoming her plaything!
 ふむ。お前がわたしの対戦相手か。,Hmm. So you're my opponent.
 普段は公務が忙しくてな。\n囚人の見張りばかりでなかなかバトルもできない。\n若い男と戦えるとはなかなかに僥倖だ。,I'm usually busy with official duties—always watching prisoners and rarely getting to battle. But fighting a young man? Why it must be my lucky day.
 ストレス発散もかねて、\nお前には情けなく鳴いてもらうとしよう。\n覚悟はいいか？無敗のルーキー。,Making you squeal will be an excellent way to vent my stress. Ready yourself; Undefeated Rookie.
 いい勝負をしましょう！,Let's have a good match!
 なくことになるのはそっちですよ！,The only one who will be squealing is you!
-ほお、礼儀正しいではないか。\nだが、わたし相手に「いい戦い」など本当にできるかな？,"Oh; how curtious. But I don't believe our match will be anything but ""good"" for you."
+ほお、礼儀正しいではないか。\nだが、わたし相手に「いい戦い」など本当にできるかな？,Oh; how curtious. But I don't believe our match will be anything but "good" for you.
 糸で縛りあげ、身動きできなくしてやろう。\nその状態で快楽を与えてやれば、\n男はみなすぐマゾに堕ちる❤,I'll bind you up with threads; making it so you can't move. And then once your dick is pleasured; you'll quickly become my perfect masochist; just like all the others.❤
 お前もすぐにあえぐことしかできなくなるだろう。\nせいぜいもがいてみせるといい。ククク❤,You'll soon only think you'll able to do is moan. Go ahead and show me how you struggle. Kukuku~❤
 おや、ずいぶんと活きがいいじゃないか。\n牢屋に入ってくる犯罪者たちで、そういう輩は何度も見てきた。\nどれだけ口は達者でも・・・。,My; aren't you spirited. I've seen plenty of criminals like you coming into the prison. But no matter how smooth-talking they are...
@@ -59,18 +59,18 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 {使用カード}の召喚に成功した時、効果を発動！\n相手モンスター１体を蜘蛛の糸で拘束する！,When {使用カード} is summoned; she can restrain one of my opponent's monsters in her spider silk!
 相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に加える！,When an opponent monster is destroyed; {使用カード}'s effect lets me add 1 random trap card from my graveyard to my hand!
 相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に戻す！,When an opponent monster is destroyed; {使用カード}'s effect lets me take 1 random trap card from the graveyard to my hand!
-トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚手札に加える！,"Whenever I use a trap card; {使用カード}'s effect lets me randomly add one card with ""Spider"" in its name from the deck to my hand!"
-トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚サーチだ！,"Whenever I use a trap card; {使用カード}'s effect lets me gain one random card with ""Spider"" in its name from the deck to my hand!"
+トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚手札に加える！,Whenever I use a trap card; {使用カード}'s effect lets me randomly add one card with "Spider" in its name from the deck to my hand!
+トラップカードを使用した時、{使用カード}の効果を発動！\nデッキから「蜘蛛」と名の付くカードをランダムに１枚サーチだ！,Whenever I use a trap card; {使用カード}'s effect lets me gain one random card with "Spider" in its name from the deck to my hand!
 蜘蛛の巣ですべてを覆ってしまおうか。\n永続魔法、{使用カード}を発動！,Shall I cover everything with spider webs? I activate the permenant spell; {使用カード}!
-このカードが存在する限り、\n自分の虫タイプモンスターはHPと攻撃力が300ポイントアップする。\nさらに「アラクネ」が出るたびにトラップカードを手札に加えられる。,"As long as this card exists; all my insect-type monsters gain 300 HP and attack power. Furthermore; every time ""Arachne"" appears; I can add a trap card to my hand."
+このカードが存在する限り、\n自分の虫タイプモンスターはHPと攻撃力が300ポイントアップする。\nさらに「アラクネ」が出るたびにトラップカードを手札に加えられる。,As long as this card exists; all my insect-type monsters gain 300 HP and attack power. Furthermore; every time "Arachne" appears; I can add a trap card to my hand.
 蜘蛛の糸で、貴様も、貴様のモンスターも、\nがんじがらめにしてあげよう。ふふふ❤,I'll bind you and your monsters tight with spider silk; leaving you completely helpless. Fufufu.❤
-「アラクネ」モンスターを通常召喚した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,"When any ""Arachne"" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!"
-「アラクネ」モンスターの通常召喚に成功した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,"When any ""Arachne"" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!"
-「アラクネ」モンスターが存在する場合、\n１ターンに１度相手モンスターの召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,"If an ""Arachne"" monster exists on the field; once per turn when opponent summons a monster; I can inflict ""Restraint"" on that monster!"
-糸に絡まるといい！「アラクネ」モンスターが存在する場合、\n１ターンに１度、相手の召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,"Become tangled in silk! If an ""Arachne"" monster exists on the field; once per turn when opponent summons; I can inflict ""Restraint"" on that monster!"
-拘束を補強させてもらうよ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態は３ターン延長される！,"Let me reinforce those restraints for you. Activate {使用カード}! All opponents with the ""Restraint"" status has their effect extended by 3 turns!"
-脱出は諦めることだね。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"You should give up on escaping. Activate {使用カード}! All opponents with the ""Restraint"" status has their effect extended by 3 turns!"
-相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n攻撃してきたキャラクターに「拘束」を付与する！,"When opponent declares an attack; I can pay 500 LP to activate {使用カード} to immediately inflict ""Restraint"" on the attacking character!"
+「アラクネ」モンスターを通常召喚した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,"When any "Arachne" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!"
+「アラクネ」モンスターの通常召喚に成功した時、\n{使用カード}の効果を発動！\nデッキから罠カードをランダムに１枚手札に加える！,When any "Arachne" monster is normal summoned; {使用カード}'s effect lets me add one random trap card from my deck to my hand!
+「アラクネ」モンスターが存在する場合、\n１ターンに１度相手モンスターの召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,If an "Arachne" monster exists on the field; once per turn when opponent summons a monster; I can inflict "Restraint" on that monster!
+糸に絡まるといい！「アラクネ」モンスターが存在する場合、\n１ターンに１度、相手の召喚時に効果発動！\nそのモンスターに「拘束」を付与する！,Become tangled in silk! If an "Arachne" monster exists on the field; once per turn when opponent summons; I can inflict "Restraint" on that monster!
+拘束を補強させてもらうよ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態は３ターン延長される！,Let me reinforce those restraints for you. Activate {使用カード}! All opponents with the "Restraint" status has their effect extended by 3 turns!
+脱出は諦めることだね。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,You should give up on escaping. Activate {使用カード}! All opponents with the "Restraint" status has their effect extended by 3 turns!
+相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n攻撃してきたキャラクターに「拘束」を付与する！,When opponent declares an attack; I can pay 500 LP to activate {使用カード} to immediately inflict "Restraint" on the attacking character!
 相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n「拘束」を付与して戦闘能力を奪わせてもらう！,When my opponent declares an attack; I can pay 500 LP to activate {使用カード}! Now you're bound; and powerless to fight me!
 「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、毒の牙を付与する！,When an 'Arachne' monster declares an attack; I activate {使用カード}!\nI boost its attack power by 300 points and grant it venomous fangs!
 「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、\nさらに戦闘時に相手に毒を付与する能力を与える！,When an 'Arachne' monster declares an attack; I activate {使用カード}!\nI boost its attack power by 300 points;\nand furthermore grant it the ability to poison opponents during battle!
@@ -82,9 +82,9 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 装備魔法カード発動！{使用カード}！,Equipment card activate! {使用カード}!
 魔法カードを発動！{使用カード}！,Magic card activate! {使用カード}!
 トラップカードを発動！{使用カード}！,Trap card activate! {使用カード}!
-通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、\n「拘束」を付与だ！,"On a successful normal summon; {使用カード}'s effect activates! Deal 500 points of damage to monsters on the opponent's field; and apply ""Restraint""!"
-{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"Activate {使用カード}!\nExtend the ""Restraint"" status of all opponent characters by 3 turns!"
-脱出は諦めることだ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"Give up on escaping. Activate {使用カード}! Extend the ""Restraint"" status of all opponent characters by 3 turns!"
+通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、\n「拘束」を付与だ！,"On a successful normal summon; {使用カード}'s effect activates! Deal 500 points of damage to monsters on the opponent's field; and apply "Restraint"!
+{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"Activate {使用カード}!\nExtend the "Restraint" status of all opponent characters by 3 turns!
+脱出は諦めることだ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,Give up on escaping. Activate {使用カード}! Extend the "Restraint" status of all opponent characters by 3 turns!
 カードをセットする。,Set a card.
 カードを伏せる。,Place a card face-down.
 ふ、もてあそんでやろう。{防御カード}を攻撃！,Heh; I'll toy with you. Attack {防御カード}!
@@ -113,7 +113,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 地面に寝転んで無様だな。\n敵の体を見ず、足ばかり見ているからそうなる。\n無防備なお前の弱点を、たっぷり踏み抜いてやろう❤,How pathetic; lying sprawled on the ground. This all happened because you were staring at my feet instead of keeping track of the enemy in front of you. Now I'm going to trample right through your defenseless weak spots.❤
 ほらほらほら❤\nぐりぐりと踏まれてうれしいか？\nこの変態が。,Mm; that feels good~❤ Enjoying how the sole of my foot rubs your dick? Pervert.
 糸に縛られた気分はどうだ？\n案外悪くないだろう？なにせ、貴様が受けるのは、きついむち打ちではなく\nわたしのあまぁい快楽だ❤,How does it feel to be completely bound in spider silk? It's surprisingly nice; right? That's because what you'll be receiving isn't harsh punishment; but my sweet; sweet pleasure.❤
-"ほら、乳首をカリカリと弾きながら、\nわたしのふとももでたっぷり""お仕置き""してやろう❤\n膝裏にぎゅっと捕まえて、前後に脚を動かしてしごくのさ。",Hora; I'll be sure to 'punish' you lots with my thighs while I flick and pinch your nipples.❤ Pay attention to how I squeeze your dick and stroke it up and down between my thigh and knee.
+ほら、乳首をカリカリと弾きながら、\nわたしのふとももでたっぷり"お仕置き"してやろう❤\n膝裏にぎゅっと捕まえて、前後に脚を動かしてしごくのさ。,Hora; I'll be sure to 'punish' you lots with my thighs while I flick and pinch your nipples.❤ Pay attention to how I squeeze your dick and stroke it up and down between my thigh and knee.
 パンパンパン♪お前の腰にふとももが当たるたびに音がしているな❤\nふ、顔がとろとろじゃないか。\nどうした？もう屈服したいのか？出したければ出せ、雑魚が❤,Slap slap slap♪ Listen to that sound every time my thighs hit your hips.❤ Hah; your face is completely melting with pleasure. What's wrong? Ready to submit already? If you want to cum; then go ahead and cum; you weakling.❤
 ふふ、縛られて動けないか？無様だな❤\nわたしの脚で一方的にいたぶってやろうじゃないか。,Giggle; can't move because you're all tied up? How pathetic.❤ I'll torment you with my legs while you're unable to resist me.
 肉付きのいい脚に挟まれるのはたまらんだろう？\n捕食者の口のように、わたしのふとももとふくらはぎで\n貴様のチンポは今から食べられるんだ❤,Being squeezed between my meaty thighs must be unbearable; right? Like a predator's mouth; my thighs and calves are going to devour your cock.❤
@@ -146,7 +146,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 実に情けないな。このマゾ豚が❤,How truly pathetic. You masochistic pig.❤
 ふふ、どうした？\nまだ始まってほとんど時間が経っていないというのに、\n手を上下に動かしてシコシコと…❤,*Giggle* What's wrong? Even though we've barely started and hardly any time has passed; you're moving your hand up and down and stroking yourself...❤
 ふふ、試合前の言葉はどうした？\nあんなに生意気なことを言っておきながら、\n戦闘を放棄してシコシコ扱きだすとは…❤,*Giggle* What happened to all that tough talk before the match? Despite your earlier fighting words; you've decided to abandon the fight and start jerking off...❤
-ふふ、どうした？\nわたしと「いい勝負をする」んじゃなかったのか❤\n戦闘を放棄してシコシコ扱きだすとは…❤,"*Giggle* What's wrong? Weren't you going to ""give me a good fight""?❤ Despite your earlier fighting words; you've decided to abandon the fight and start jerking off...❤"
+ふふ、どうした？\nわたしと「いい勝負をする」んじゃなかったのか❤\n戦闘を放棄してシコシコ扱きだすとは…❤,*Giggle* What's wrong? Weren't you going to "give me a good fight"?❤ Despite your earlier fighting words; you've decided to abandon the fight and start jerking off...❤
 ふふ、わたしの前に近寄ってきて何をするのかと思えば、\nまさかオナニーをしだすとはな。,*Giggle* I wondered what you were going to do when I saw you approach me; but I never expected you to start masturbating.
 自分のマスターのことはいいのか？\nこの裏切り者のマゾ豚が❤,What about your master? You traitorous masochistic pig.❤
 うぐぅっ・・❤❤,Ughhh...❤❤
@@ -155,9 +155,9 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 あっ、ああっ、だめぇっ・・❤❤,Ah; ahhh; no...❤❤
 はひぃっ・・・❤❤,Hahii...❤❤
 くすくす❤まさか頭を踏まれただけで出すとはな。\nこの早漏め❤,*Giggle*❤ I can't believe you came just from having your head stepped on. You premature ejaculator.❤
-欲望を抑える理性もなく、快楽に弱く早漏❤\n弱点だらけで、\nずいぶん救いがないじゃないか。期待のルーキー❤くくく❤,"No rationality to suppress your desires; weak to pleasure and quick to cum.❤ You're nothing but weaknesses—quite hopeless; aren't you? ""Promising rookie"".❤ *Snicker*.❤"
+欲望を抑える理性もなく、快楽に弱く早漏❤\n弱点だらけで、\nずいぶん救いがないじゃないか。期待のルーキー❤くくく❤,No rationality to suppress your desires; weak to pleasure and quick to cum.❤ You're nothing but weaknesses—quite hopeless; aren't you? "Promising rookie".❤ *Snicker*.❤
 所詮男のモンスターなどその程度だ。\nサキュバスどころか人間のカードマスターの快楽にすら\n脳を支配される。,Male monsters are nothing more than that in the end. Your brains are easily dominated by pleasure from not just succubi; but even human card masters.
-あるいはマスターの理性を反映しているのかもな。\n期待のルーキー、お前もここに来て\nわたしに頭を踏まれてみるか？ククク❤,"Or perhaps you're reflecting your master's rationality. Oh ""Promising Rookie""; why don't you come here too and let me step on your head? *Snicker*.❤"
+あるいはマスターの理性を反映しているのかもな。\n期待のルーキー、お前もここに来て\nわたしに頭を踏まれてみるか？ククク❤,Or perhaps you're reflecting your master's rationality. Oh "Promising Rookie"; why don't you come here too and let me step on your head? *Snicker*.❤
 あぐ、はひぃっ・・❤❤,Agh; hahii...❤❤
 くくく❤たやすく四つん這いにされてしまったな。\nわたしの足など、手で防げばよかっただろうに。,*Snicker*.❤ You were easily forced onto all fours. Even though you could have blocked my foot with your hands.
 頭を踏まれても、手を離すこともできず、\n必死にシコシコ、シコシコ❤\nマゾ豚は腕すら自由に動かせぬらしい❤,Even with your head being stepped on; you can't let go of your hand; desperately stroking and stroking your penis.❤ It seems masochistic pigs don't even have control over what their arms do.❤
@@ -165,18 +165,18 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 お前の反応を見る限り、屈辱感よりも、\n快感の方が勝っているようだがな。\nぐちゅぐちゅと情けない音を出して、そんなに気持ちいいか？マゾ豚め❤,From your reaction; it seems like pleasure is winning over humiliation. Your dick making such pathetic wet sounds—does it feel that good? You masochistic pig.❤
 うぐ、ううっ・・❤❤止めないとだめなのにっ❤ああっ❤❤,Ugh; uhhh...❤❤ I need to stop this...❤ Ahhh...❤❤
 ふふ、いつ見ても男という生き物は哀れだな。\nみな心の奥底にマゾの性質を持ち、\n虐げられ、見下されるほどに興奮してしまう❤,*Giggle* No matter how I look at them; men are truly pitiful creatures. They all have masochistic tendencies deep in their hearts; and the more they're oppressed and looked down upon; the more aroused they become.❤
-お前もそうだ。口ではダメだなんだといいながら、\n体は喜びに打ち震えている❤\n試合の勝利も無敗の記録もすべて捨てて、わたしへの服従を望んでいる❤,"You're the same way. Your mouth says ""no;"" but your body is trembling with joy.❤ You're throwing away victory and your undefeated record—all because you desire submission to me.❤"
+お前もそうだ。口ではダメだなんだといいながら、\n体は喜びに打ち震えている❤\n試合の勝利も無敗の記録もすべて捨てて、わたしへの服従を望んでいる❤,You're the same way. Your mouth says "no;" but your body is trembling with joy.❤ You're throwing away victory and your undefeated record—all because you desire submission to me.❤
 そら。お前の望む通り、\nわたしへの服従を誓わせてやろう。\n靴で頭をぐりぐりと踏み抜いてやる❤,There. Just as you wish; I'll make you pledge your submission to me. I'll grind your head down with my shoe.❤
 踏まれた瞬間に射精しろ❤\nそれが服従の合図だ。\nほらほらほら！,Cum the moment I step on you.❤ That will be your signal of submission. Come on; do it!
 あへぇ・・・❤❤,Ahee…❤❤
-ふん。実に他愛ない。\n無敗のルーキーなどと言われている男がこの程度とはな。,"Hmph. How utterly trivial. To think a man called an ""undefeated rookie"" amounts to only this much."
+ふん。実に他愛ない。\n無敗のルーキーなどと言われている男がこの程度とはな。,Hmph. How utterly trivial. To think a man called an "undefeated rookie" amounts to only this much.
 靴で踏まれて喜んでいるマゾ豚が❤\nわたしに勝てると少しでも思ったこと、\n地に伏して反省するといい。ククク❤,A masochistic pig who gets off on being stepped on with shoes...❤ The fact that you even thought for a moment you could beat me—you should think hard and reflect on that. *Snicker*❤
 ククク❤自分のマスターを裏切り、\n敵のマスターに忠誠を誓いながら射精してしまったな❤\n屈服させられる喜びはたまらんものだろう？,*Snicker*❤ You betrayed your own master; cumming while pledging loyalty to your enemy's master.❤ The joy of being dominated must be irresistible; right?
-他のやつらもさっさと降参するといい。\n期待のルーキー、お前もここに来て\nわたしに頭を踏まれてみるか？ククク❤,"The rest of you should just surrender already. Why don't you come here too and let me step on your head; ""Promising Rookie""? *Snicker*❤"
+他のやつらもさっさと降参するといい。\n期待のルーキー、お前もここに来て\nわたしに頭を踏まれてみるか？ククク❤,The rest of you should just surrender already. Why don't you come here too and let me step on your head; "Promising Rookie"? *Snicker*❤
 ううっ…❤だめなのに…❤,Uhhh...❤ Even though I shouldn't...❤
 ふん、ほんとに踏まれに来るとはな。\n試合前の勇ましい言葉はどうした？,Ufu. You actually came here to be stepped on. What happened to all those brave words before the match?
 わたしをなかせるのではなかったか？\nわたしの目には、お前が情けなく豚のように鳴いている姿しか\n目に見えないがな❤ククク❤,Weren't you going to make me cry? All I can see is you squealing pathetically like a pig.❤ *Snicker*❤
-ふん、ほんとに踏まれに来るとはな。\nわたしと「いい勝負をする」んじゃなかったのか❤\n戦闘を放棄してシコシコ扱きだすとは…❤,"Hmph; you actually came here to be stepped on. Weren't you going to ""give me a good fight""?❤ Abandoning battle to start stroking yourself...❤"
+ふん、ほんとに踏まれに来るとはな。\nわたしと「いい勝負をする」んじゃなかったのか❤\n戦闘を放棄してシコシコ扱きだすとは…❤,Hmph; you actually came here to be stepped on. Weren't you going to "give me a good fight"?❤ Abandoning battle to start stroking yourself...❤
 ふふ、またオナニーか。仲間ともども仲のいいことだ。\n敵の前でシコシコ❤シコシコ❤\n主人の命令も耳に入らず、裏切って快楽にふけりおって❤,*Giggle*; masturbating again? You and your companion get along so well. Stroking your dick so nicely in front of your enemy.❤ Stroking; and stroking.❤ Ignoring your master's orders; betraying them to indulge in pleasure.❤
 こう言われても扱く手を止めることができないのか。\n誰もかれも、実に情けない❤,But even after being told this; you can't stop stroking? Each and every one of you is truly pathetic.❤
 お前もさっきのやつと同じ様に、はっきりと上下関係を教え込んでやる。\nわたしに踏まれてひざまずけ。\nこの雑魚が❤,I'll teach you the hierarchy clearly; just like I did with that other guy. Kneel down and let me step on you. You weakling.❤
@@ -238,7 +238,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 男を操ることなど容易いな。\nそれにしても…。,Controlling men is child's play. Still though...
 クク❤女の足蹴にされて、していい顔ではないぞ。\nうっとりした顔でこちらを見て。\nまるで媚びる犬のようじゃないか。,Kuku.❤ That's not the kind of face you should make while being massaged by a woman's foot. Looking at me with such an entranced expression—you're just like a fawning dog.
 ほら、お前の魔力がカラカラになるまで、\nさらに搾り取ってやろう。,Come on; I'll drain even more out of you until your magical power runs completely dry.
-お前もわたしに魔力を奪われて、うれしいだろう？\n無敗のルーキー❤,"You're happy to have your magical power stolen by me; aren't you; ""Undefeated Rookie""?❤"
+お前もわたしに魔力を奪われて、うれしいだろう？\n無敗のルーキー❤,You're happy to have your magical power stolen by me; aren't you; "Undefeated Rookie"?❤
 ヤツメはカードを使用すると、僕の体に蜘蛛の糸が絡みついてきた。２回も射精し力の入らない僕は、抵抗できないまま中空に吊り上げられてしまう。,When Yatsume used her card; spider threads began wrapping around my body. Having climaxed twice already with no strength left; I couldn't resist as I was hoisted up into the air.
 あう、やめ、やめて…。,Ah; stop; please stop...
 ふふ、いいねだり方をするじゃないか。\n犬のように媚びた目でそう言われると、\n少し愛着も湧くものだ。,Fufu; I do enjoy the way you tell me to stop. When you say that with those puppy dog eyes; it makes me feel a bit attached to you.
