@@ -55,7 +55,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 さらにもう1枚発動！,I'm not done yet! Activating one more card!
 {使用カード}の通常召喚に成功した時、手札を1枚捨てて効果を発動！\nデッキから罠カードをランダムに２枚手札に加える！,When {使用カード} is normal summoned; I discard 1 card from my hand and randomly add 2 trap cards from the deck to my hand!
 {使用カード}の通常召喚に成功した時、手札を1枚捨てて効果を発動！\nデッキからトラップカードをランダムに２枚手札に加える！,When {使用カード}'s normal summoned; I discard 1 card from hand to randomly add 2 trap cards from my deck to my hand!
-通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、「拘束」を付与する！,When I normal summon a card; {使用カード}'s effect lets me inflict ]Restraint] and deal 500 points of damage to an opponent's field monster!
+通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、「拘束」を付与する！,When I normal summon a card; {使用カード}'s effect lets me inflict "Restraint" and deal 500 points of damage to an opponent's field monster!
 {使用カード}の召喚に成功した時、効果を発動！\n相手モンスター１体を蜘蛛の糸で拘束する！,When {使用カード} is summoned; she can restrain one of my opponent's monsters in her spider silk!
 相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に加える！,When an opponent monster is destroyed; {使用カード}'s effect lets me add 1 random trap card from my graveyard to my hand!
 相手モンスターを破壊した時、{使用カード}の効果発動！\n墓地からトラップカードをランダムに１枚手札に戻す！,When an opponent monster is destroyed; {使用カード}'s effect lets me take 1 random trap card from the graveyard to my hand!
