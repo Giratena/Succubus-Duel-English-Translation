@@ -1,7 +1,7 @@
 .default,
 サキュバス少女,Succubus Girl
 Kiss01,
-スライムを操る下級サキュバスの少女。自身の体をスライム化させることができ、わずかな隙間があればどんなところにでも侵入できる。\n下級サキュバスの中でもそれほど戦闘力は高くない方だが、その便利な特性ゆえに侵入や諜報が得意で、様々な場面で活躍している。, A young; lower-class succubus with the power to control slime. With the ability to morph her entire body into slime; she is able to infiltrate any location with even the smallest opening.While she is not a strong fighter among the lower-class succubi; these handy abilities make her a perfect fit for infiltration and espionage. This enables her to play an active role in all kinds of situations.
+スライムを操る下級サキュバスの少女。自身の体をスライム化させることができ、わずかな隙間があればどんなところにでも侵入できる。\n下級サキュバスの中でもそれほど戦闘力は高くない方だが、その便利な特性ゆえに侵入や諜報が得意で、様々な場面で活躍している。, A young; lower-class succubus with the power to control slime. With the ability to morph her entire body into slime; she is able to infiltrate any location with even the smallest opening. While she is not a strong fighter among the lower-class succubi; these handy abilities make her a perfect fit for infiltration and espionage. This enables her to play an active role in all kinds of situations.
 導入イベントをスキップしますか？,Would you like to skip the opening event?
 よし、それじゃあ、ギルドのある隣街に向かおう！,Okay; time to head over to the nearby town; and the guild that's there!
 おや、守護者のお弟子さんじゃないですか。これからどちらへお出かけで？,Oh; you're the apprentice of this village's guardian; aren't you?
@@ -22,7 +22,7 @@ Kiss01,
 道中、何体か魔物が出たけれど・・・,While we did come across a few monsters...
 たいして強くはない個体で、僕は難なくそれらを退けていた。,They were weak enough that I was able to easily fight them off.
 はぁ、はぁ・・・・。倒したのか・・・？,Hahhh; hahhh... I won?
-僕の最後の一撃を受けて、サキュバスは光の粒になって消えていった。これで退治できたのだろうか…？,The succubus turned into particles of light and disappeared after receiving your final blow. You wonder if your attack was enough to defeat her...?  //PoV?
+僕の最後の一撃を受けて、サキュバスは光の粒になって消えていった。これで退治できたのだろうか…？,The succubus turned into particles of light and disappeared after receiving my final blow. I wonder if my attack was really enough to defeat her...?
 ううっ・・・。,Uuugh...
 ・・・・！大丈夫ですか？,...! Are you okay?
 はは、すみません。体から力が抜けてしまって…。,Ha ha; sorry about that. It seems like all the strength has left my body...
@@ -33,7 +33,7 @@ Kiss01,
 守護者のお弟子さん、あなたのおかげで助かりました。,Disciple of the Guardian; you saved me. Thank you; truly.
 いまは急いでモルゲンを目指しましょう。また魔物に襲われたらたまりません！,Now; let's hurry toward Morgen. We can't afford to be attacked by monsters again!
 こうして僕らはモルゲンに向かって急いで馬車を走らせ、その日のうちに街へ着いたのだった。,And so; we hurriedly drove the carriage towards Morgen and managed to reach the town by the end of the day.
-街の外で見かけたサキュバスについては、モルゲンの門番に報告しておいた。魔族領から遠いこの地でサキュバスが出ることは珍しく、彼は非常に驚いているようだった。,I reported the succubus you encountered outside of town to the watchman of Morgen. Succubi appearing this far from the demon's domain is rare; and he seemed very surprised.   //PoV?
+街の外で見かけたサキュバスについては、モルゲンの門番に報告しておいた。魔族領から遠いこの地でサキュバスが出ることは珍しく、彼は非常に驚いているようだった。,I reported the succubus we encountered outside of town to the watchman of Morgen. Succubi appearing this far from the demon's domain is rare; and he seemed very surprised.
 まさか最初の依頼からこんなことになるとは…。初めてのサキュバスとの戦いで疲れた僕は、宿屋に入るなりベッドに倒れこんでしまった。,I didn't expect this sort of thing to happen right from the very first request... Tired from my first battle with a succubus; I collapsed on my bed as soon as I entered the inn. 
 師匠が会えと言っていた、ギルドのリーフさんに会うのは、また明日にしよう…。,I should meet Leaf, the person my master mentioned, at the guild tomorrow...
 商人から護衛の報酬を得た！,I received a reward for escorting the merchant!
@@ -119,7 +119,7 @@ Kiss01,
 体中をスライムでぐちゅぐちゅされて、攻撃なんてぜったい無理ですよ❤ほら・・・❤,There's no way you can attack when your entire body is slimed up all sticky like this~❤ Hora...❤
 カードをセットです。,Card set.
 カードを伏せます。,I'll place this card face down.
-おっぱいでいじめてあげます❤{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!    //undertranslated battle lines, possibly due to time contraints
+おっぱいでいじめてあげます❤{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
 上級モンスターの攻撃は強いですよ？{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
 {使用カード}のおっぱいは特別気持ちいいんです。たっぷり楽しんでください❤{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
 バトルです！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
