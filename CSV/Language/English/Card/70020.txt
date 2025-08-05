@@ -36,7 +36,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 ヤツメ選手の罠でさえも{主人公}選手の障害にはならない！\n速攻で勝負を決めました！\nこれが無敗のルーキーの実力だぁ！,Even Yatsume's traps couldn't stand in {主人公}'s way! The match was decided with lightning speed! Now this is the power of our undefeated rookie!
 ヤツメ選手も罠を駆使して戦いましたが一歩及ばず！\n勝負は{主人公}選手が制しました。\nやはり強いぞ、無敗のルーキー！,Yatsume fought using various traps but fell just short; making {主人公} victorious! As expected; our undefeated rookie is incredibly strong!
 ヤツメ選手も罠を駆使して戦いましたが\n{主人公}選手、余裕を残しての勝利です！\nやはり強いぞ、無敗のルーキー！,Yatsume fought using various traps but {主人公} won with room to spare! As expected; our undefeated rookie is incredibly  strong!
-くっ、男に負けるとは…。\nさすがだ。今まで戦ったどの男性マスターよりも強かった。,Damn; to lose to a man… Impressive. You were stronger than any male master I've fought before.
+くっ、男に負けるとは…。\nさすがだ。今まで戦ったどの男性マスターよりも強かった。,Damn; to lose to a man... Impressive. You were stronger than any male master I've fought before.
 男など拘束して踏みつけてやれば、\n喜んで従うマゾばかりだと思っていたが、\nお前は少し違うようだ。認識を改めないといけないな…。,I thought all men were masochists who would gladly submit if you just restrained and trampled them; but you seem a little different. I'll have to reconsider my assumptions...
 （ストレス発散のつもりが、まだまだわたしも精進が足りないな。\nアラクネたちとの訓練時間をもっと確保しなくては…！）,(I intended this as stress relief; but clearly I still need more training. I need to secure more practice time with my monsters...!)
 闘技場の勝利報酬を得た！,Arena victory reward obtained!
@@ -44,14 +44,14 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 わたしの脚をぼーっと見つめてどうした？\nやはりこの脚でいじめてほしくなったか？ふふふ❤,What's wrong? You're staring blankly at my legs? Do you want my legs to torment your dick after all? Fufufu.❤
 それでは、わたしのターンからだ。\n糸でしばりつける前から\n欲望に囚われているお前など、すぐに敗北させてやる,Well then; it's my turn now. Someone like you who's already a prisoner to their own lust before even being bound by threads will be easily defeated.
 わたしのターンからだ。,It's my turn.
-(ううっ・・・・❤),(Ungh…❤)
+(ううっ・・・・❤),(Ungh...❤)
 ドローする。,I draw a card.
 わたしのターンだね。ドロー！,It's my turn; right? Draw!
 モンスターをコストにして、{使用カード}を上級召喚する！,I'll use a monster as tribute to advance summon {使用カード}!
 {使用カード}を召喚！,I summon {使用カード}!
-ううっ、あうう・・・❤,Ungh; ahh…❤
+ううっ、あうう・・・❤,Ungh; ahh...❤
 肉体を再構成されても、敗北の味が忘れられないか❤\nふっ、マゾめ❤,Even after your body's been reconstructed; you can't forget the pleasure of defeat; can you?❤ Hah; you masochist.❤
-しょせん男などその程度だ。\nさっさとまたその体から魔力を搾り出してやろう❤\nククク❤,Men are ultimately just that pathetic.\nI'll hurry up and squeeze more magical power from that body of yours.❤\nKukuku.❤
+しょせん男などその程度だ。\nさっさとまたその体から魔力を搾り出してやろう❤\nククク❤,Men are ultimately just that pathetic. I'll hurry up and squeeze more magical power from that body of yours.❤ Kukuku.❤
 さらにもう1枚発動！,I'm not done yet! Activating one more card!
 {使用カード}の通常召喚に成功した時、手札を1枚捨てて効果を発動！\nデッキから罠カードをランダムに２枚手札に加える！,When {使用カード} is normal summoned; I discard 1 card from my hand and randomly add 2 trap cards from the deck to my hand!
 {使用カード}の通常召喚に成功した時、手札を1枚捨てて効果を発動！\nデッキからトラップカードをランダムに２枚手札に加える！,When {使用カード}'s normal summoned; I discard 1 card from hand to randomly add 2 trap cards from my deck to my hand!
@@ -72,8 +72,8 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 脱出は諦めることだね。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,You should give up on escaping. Activate {使用カード}! All opponents with the "Restraint" status has their effect extended by 3 turns!
 相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n攻撃してきたキャラクターに「拘束」を付与する！,When opponent declares an attack; I can pay 500 LP to activate {使用カード} to immediately inflict "Restraint" on the attacking character!
 相手の攻撃宣言時、LPを500払って{使用カード}を発動！\n「拘束」を付与して戦闘能力を奪わせてもらう！,When my opponent declares an attack; I can pay 500 LP to activate {使用カード}! Now you're bound; and powerless to fight me!
-「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、毒の牙を付与する！,When an 'Arachne' monster declares an attack; I activate {使用カード}!\nI boost its attack power by 300 points and grant it venomous fangs!
-「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、\nさらに戦闘時に相手に毒を付与する能力を与える！,When an 'Arachne' monster declares an attack; I activate {使用カード}!\nI boost its attack power by 300 points;\nand furthermore grant it the ability to poison opponents during battle!
+「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、毒の牙を付与する！,When an 'Arachne' monster declares an attack; I activate {使用カード}! I boost its attack power by 300 points and grant it venomous fangs!
+「アラクネ」モンスターの攻撃宣言時に、{使用カード}を発動！\n攻撃力を300ポイントアップし、\nさらに戦闘時に相手に毒を付与する能力を与える！,When an 'Arachne' monster declares an attack; I activate {使用カード}! I boost its attack power by 300 points; and furthermore grant it the ability to poison opponents during battle!
 「アラクネ」モンスターが破壊されたとき、\n{使用カード}を発動！わたしのターン終了時に、\n破壊されたモンスターと同じモンスターを特殊召喚する！,When an 'Arachne' monster is destroyed; I activate {使用カード}! At the end of my turn; I special summon the same monster that was destroyed!
 ターン終了時に{使用カード}を発動！\n破壊されたモンスターと同じモンスターを、\n自分フィールド上に特殊召喚する！,At the end of the turn; I activate {使用カード}! I special summon the same monster that was destroyed onto my field!
 孵化の時間だ。ターン終了時に{使用カード}を発動！\n破壊されたモンスターと同じモンスターを、\n自分フィールド上に特殊召喚する！,Time to hatch. At the end of the turn; I activate {使用カード}! I special summon the same monster that was destroyed onto my field!
@@ -83,7 +83,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 魔法カードを発動！{使用カード}！,Magic card activate! {使用カード}!
 トラップカードを発動！{使用カード}！,Trap card activate! {使用カード}!
 通常召喚に成功した時、{使用カード}の効果を発動！\n相手フィールド上のモンスターに500ポイントのダメージを与え、\n「拘束」を付与だ！,"On a successful normal summon; {使用カード}'s effect activates! Deal 500 points of damage to monsters on the opponent's field; and apply "Restraint"!
-{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"Activate {使用カード}!\nExtend the "Restraint" status of all opponent characters by 3 turns!
+{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,"Activate {使用カード}! Extend the "Restraint" status of all opponent characters by 3 turns!
 脱出は諦めることだ。{使用カード}を発動！\nすべての相手キャラクターの「拘束」状態を３ターン延長する！,Give up on escaping. Activate {使用カード}! Extend the "Restraint" status of all opponent characters by 3 turns!
 カードをセットする。,Set a card.
 カードを伏せる。,Place a card face-down.
@@ -130,7 +130,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 ふっ、接近すればこちらのものだ。\nズボンの上からさわさわと…❤男の弱点はここだろ？\n脚で挟んで気持ちよくしてやろう。,Hah; once I get close; you're mine. Gently touching over your pants...❤ This is a man's weak spot; right? I'll squeeze you between my legs and make you feel good.
 くくく、脚で挟んでやると言ったとたん、動きがにぶったな❤\nまったく、戦闘中だというのに呑気なものだ。\nそんなにわたしにいじめてほしかったか？このヘンタイ❤,*Snicker*; the moment I said I'd squeeze you between my legs; your stance crumbled.❤ Honestly; we're in the middle of battle but your resolve is already wavering. Did you want me to torment you that badly? You pervert.❤
 ほら、根元から先っぽまでぎゅっと締め付けながらしごいてやる。\n何往復耐えられるか見ものだな❤,Come on; I'll stroke you by squeezing your penis tightly from base to tip. Let's see how many strokes you can endure.❤
-ううっ、気持ちよくしてください…❤\nおねがいします・・・❤,Ahh; please make me feel good...❤\nPlease...❤
+ううっ、気持ちよくしてください…❤\nおねがいします・・・❤,Ahh; please make me feel good...❤ Please...❤
 クク❤自分から快楽をねだるとは、\n見下げ果てた男だ。,*Snicker*❤ Begging for pleasure on your own—what a pathetic excuse for a man.
 足で踏まれたいのか？\nふとももに挟まれたいのか？\nほら、ちゃんと周りに聞こえる声で言ってみろ。,Do you want to be stepped on with my feet? Or perhaps you want to be squeezed between my thighs? Come on; say clearly so everyone can hear you.
 足で気持ちよくしてほしい,Make me feel good with your feet...
@@ -168,7 +168,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 お前もそうだ。口ではダメだなんだといいながら、\n体は喜びに打ち震えている❤\n試合の勝利も無敗の記録もすべて捨てて、わたしへの服従を望んでいる❤,You're the same way. Your mouth says "no;" but your body is trembling with joy.❤ You're throwing away victory and your undefeated record—all because you desire submission to me.❤
 そら。お前の望む通り、\nわたしへの服従を誓わせてやろう。\n靴で頭をぐりぐりと踏み抜いてやる❤,There. Just as you wish; I'll make you pledge your submission to me. I'll grind your head down with my shoe.❤
 踏まれた瞬間に射精しろ❤\nそれが服従の合図だ。\nほらほらほら！,Cum the moment I step on you.❤ That will be your signal of submission. Come on; do it!
-あへぇ・・・❤❤,Ahee…❤❤
+あへぇ・・・❤❤,Ahee...❤❤
 ふん。実に他愛ない。\n無敗のルーキーなどと言われている男がこの程度とはな。,Hmph. How utterly trivial. To think a man called an "undefeated rookie" amounts to only this much.
 靴で踏まれて喜んでいるマゾ豚が❤\nわたしに勝てると少しでも思ったこと、\n地に伏して反省するといい。ククク❤,A masochistic pig who gets off on being stepped on with shoes...❤ The fact that you even thought for a moment you could beat me—you should think hard and reflect on that. *Snicker*❤
 ククク❤自分のマスターを裏切り、\n敵のマスターに忠誠を誓いながら射精してしまったな❤\n屈服させられる喜びはたまらんものだろう？,*Snicker*❤ You betrayed your own master; cumming while pledging loyalty to your enemy's master.❤ The joy of being dominated must be irresistible; right?
@@ -185,14 +185,14 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 頭を踏まれ四つん這いにされてしまっている時点で、\nどのみち変態だがな❤\nほらほら！わたしの足など、手で防げばよかっただろうに。,Though you're still a pervert regardless; considering you've been forced onto all fours with your head being stepped on.❤ Come on; give in! You could have just blocked my foot with your hands.
 どうだ？仲間と同じように、\n四つん這いにされ頭を踏まれて扱き続けるなど、\n屈辱だろう？悔しいだろう？,How does it feel? Just like your companion; being forced onto all fours; head stepped on while you keep stroking—such humiliation; no? Frustrating; isn't it?
 それともお前たちはこんな風に見下されて、\nそれで喜んでしまうのか？\nほらほらほら❤,Or do you boys actually enjoy being looked down upon like this? Come on; what's the matter?❤
-うぐ、ううっ・・❤❤あへぇっ・・・❤❤,Ugh; uhhh…❤❤ Ahee…❤❤
+うぐ、ううっ・・❤❤あへぇっ・・・❤❤,Ugh; uhhh...❤❤ Ahee...❤❤
 ふふ、足の下で恍惚とした表情を浮かべおって、\nこのマゾ豚が❤,Giggle; look at that ecstatic expression you're making under my foot; you masochistic pig.❤
 わたしの足は別にお前の脳に直接触れているわけではないのだぞ？\nそれなのに、まるで脳みそごと支配されたかのような、\n間抜けな蕩け顔だ❤,It's not even like my foot is in direct contact with your brain; you know? Yet you're making such a stupid; melted face—as if your very mind has been dominated by my foot.❤
 チンポからも扱くたびにぐちゅぐちゅぐちゅと、\n今にも出しそうな音をさせている❤\nククク❤わたしに踏んでもらえてそんなに気持ちいいのか❤,Your cock is making wet; squishy sounds every time you stroke it; like you're about to cum any moment.❤ *Snicker*❤ Does it feel that good having me step on you?❤
 お前もさっきのやつと同様に、\nわたしに服従を誓わせてやろう。,Just like that other guy; I'll make you pledge your submission to me too.
 次、足を押し付けた瞬間に射精しろ❤\nそれが服従の合図だ。\nほら！さっさと果てろ、マゾ豚❤,The moment I press my foot down next; you'll cum.❤ That will be your signal of submission. Come on! Hurry up and climax; you masochistic pig.❤
 あぐぅ、はひぃ・・・❤❤,Aghhh; hahiii...❤❤
-あっ・・・❤あああっ❤もうっ・・・❤,Ahh...❤ Ahhhhh❤ I can't...❤
+あっ・・・❤あああっ❤もうっ・・・❤,Ahh...❤ Ahhhhh.❤ I can't...❤
 おやおや、自分から屈服するとは、なかなかいい奴隷根性じゃないか❤\n見下ろされながらみじめに扱くのは気持ちよかったか？\nこのマゾ豚が❤,My; my; submitting on your own—what excellent slave instincts you have.❤ Did it feel good being looked down upon while pathetically stroking yourself? You masochistic pig.❤
 お前が靴にかけた精液はほら踏みにじってやろう❤\nククク、子種をこんな目にあわされているというのに、\n何をさらに勃起させているんだ❤変態め❤,I'll trample all over that cum you got on my shoe.❤ *Snicker* Despite the fact I'm stamping on your sperm; how is it it's only making you harder?❤ You pervert.❤
 あっ・・・❤あああっ❤がまんできないっ・・・❤,Ahh...❤ Ahhhhh~❤ I can't hold back...❤
@@ -252,7 +252,7 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 こうやって押しつぶしているだけでも、\nお前のような早漏マゾは射精してしまうだろうが、\nほら、ちゃんと動かしてやろう。,Just crushing you like this would make an early-climaxing masochist like you ejaculate; but come on; I'll move properly for you.
 わたしの美肌と柔らかいふとももにこすられて、\n天国のような気持ちよさを味わえ❤,Let me rub your dick with my beautiful skin; soft thighs and experience heavenly pleasure.❤
 ほらほらほら❤,Take this! Can you feel how my foot traces your dick just right? Just relax as I pump it up and down~❤
-あう、あううっ❤❤きもちいいっ、きもちいいぃ・・・❤❤,Au; auuu❤❤ It feels good; can't think...❤❤
+あう、あううっ❤❤きもちいいっ、きもちいいぃ・・・❤❤,Au; auuu.❤❤ It feels good; can't think...❤❤
 すっかり素直になったな。\n無敗のルーキー❤,I see you've finally become honest with yourself; Undefeated Rookie.❤
 いやせっかくだから名前で呼んでやろうか。\nたしか{主人公}と呼ばれていたな。,Actually; since we're here I'll call you by name. You're {主人公}; aren't you?
 どうだ？女に屈服するのは気持ちいいか？\n{主人公}…❤,How is it? Does submitting to a woman feel good? {主人公}...❤
@@ -281,11 +281,11 @@ Cランクのカードマスター。モルゲンの牢獄の看守を務めて�
 こんな提案受けるべきでないに決まっている。だけど、射精した後もゆるやかに動かされ続けるヤツメのふとももと、彼女の透き通るような声を聞いていると頭に靄がかかったようになってしまう。,I know I shouldn't accept such a proposal. But listening to Yatsume's crystal-clear voice as her thighs continued to gently massage my dick even after I ejaculated makes my head was making my head foggy.
 彼女に縛られ、すべてを掌握されたこの状況が、ずっと続いてほしいと思ってしまう。鋭い目で射すくめるように僕を見つめるヤツメ。その目を見ているうちに僕は・・・。,I found myself wanting this situation—being bound by her; completely under her control—to continue forever. Yatsume stared at me with piercing eyes that seem to pin me in place. As I looked into those eyes; I...
 ほら、口づけをしろ。\n手をお前の口元に運んでやろう。,Come; kiss it. I'll even bring my hand to your mouth for you.
-手袋を外してやる。わたしの素肌にキスすることを許そう。\nさあ、わたしのペットになれ。{主人公}❤,I'll remove my gloves for you. I'll allow you to kiss my bare skin. Now; become my pet. {主人公}❤
+手袋を外してやる。わたしの素肌にキスすることを許そう。\nさあ、わたしのペットになれ。{主人公}❤,I'll remove my gloves for you. I'll allow you to kiss my bare skin. Now; become my pet. {主人公}.❤
 あううっ…❤おねがい、します、ヤツメさまぁ…❤❤,Auuu...❤ Please; I... I am yours; Yatsume-sama...❤❤
 そういって僕はヤツメの手の甲に口づけをしてしまった。ヤツメはそんな僕を見て、くっくと笑っている。,With those words; I ended up kissing the back of Yatsume's hand. Yatsume watched me do this and chuckled softly.
 まったく。快楽にほだされて\nこのような決断をするとは。\nずいぶんと簡単な男だな。お前は。,Good grief. To make such a decision just because you're swayed by pleasure. You're quite the simple man; aren't you.
-まあ、いい。ペットになったからには、\nちゃんと可愛がってやろう。\n{主人公}❤,Well; fine. Now that you've become my pet; I'll take proper care of you. {主人公}❤
+まあ、いい。ペットになったからには、\nちゃんと可愛がってやろう。\n{主人公}❤,Well; fine. Now that you've become my pet; I'll take proper care of you. {主人公}.❤
 あっ…❤ああっ…❤❤ヤツメさま、ヤツメさまぁ…❤❤,Ah...❤ Aah...❤❤ Yatsume-sama; Yatsume-sama...❤❤
 ふん、お前がわたしの名を呼ぶなら、\nわたしもお前の名を呼んでやらないとな。,Hmph; if you're going to call my name; then I suppose I should call yours too.
 {主人公}…❤{主人公}…❤{主人公}…❤\nこれから、かわいく仕えろよ。\nほらほらほら❤,{主人公}...❤ {主人公}...❤ {主人公}...❤ From now on; you will serve me like a puppy. There; there; there~❤
