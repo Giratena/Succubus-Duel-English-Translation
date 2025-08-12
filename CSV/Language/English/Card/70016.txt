@@ -322,3 +322,5 @@ Cランク目前まで無敗で進んできたのに、\n女の脚なんかに�
 パトラさんが見事Cランクに上がったあとも、僕は十分な戦績を残すことはできず、今のランクで停滞する日々が続いた。心配した受付さんは僕に特訓をやめて別の修行をするべきだと諭したが、僕は聞き入れなかった。,Even after Miss Patra brilliantly rose to C-rank; I couldn't achieve sufficient results and remained stagnant where I was. The receptionist became concerned. She advised me to stop the special training and try different training methods; but I refused to listen.
 パトラさんとの修行はそのときの僕にとって、すでにほかの何物よりも大事なものになってしまっていたから…。,Training with Miss Patra had already become more important to me than anything else...
 こうして成長をやめてしまった僕はの冒険は、ここで幕を閉じたのだった。,And thus; I stopped growing in my talents; and my adventure came to an end.
+闘技場に挑戦する(必要ランクポイント:{$needPoint}),Challenge the Arena (Required Rank Points: {$needPoint})
+今はやめておく,Not now
