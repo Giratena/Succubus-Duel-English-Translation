@@ -61,7 +61,7 @@ default
 ふふ、攻撃はさせないわ。{使用カード}発動！,Fufu. I don't think so- Activate {使用カード}!
 トラップカード発動！{使用カード}！,Trap card activate! {使用カード}!
 魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-{使用カード}の効果発動！快楽の抱擁！,I activate {使用カード}'s effect! Pleasure's embrace!,
+{使用カード}の効果発動！快楽の抱擁！,I activate {使用カード}'s effect! Pleasure's embrace!
 相手モンスターに500ダメージを与え、\n攻撃力を1500ダウンさせるわ。,Deal 500 damage to an enemy monster and decrease its attack by 1500 points! 
 カードをセット。,Card set.
 カードを伏せるわ。,I'll set this card face down.
@@ -85,7 +85,7 @@ default
 ううっ・・・。,Oooh...
 あは❤なになに？師匠のわたしでオナニーしちゃうわけ？,Aha!❤ What do you think you're doing? Are you trying to masturbate to me; your teacher?
 あは❤なになに？ほんとに師匠のわたしでオナニーしちゃうわけ？,Aha!❤ What do you think you're doing? Are you actually trying to masturbate to me?
-くすくす❤節操なさすぎでしょ。\nエロ攻撃されたからって理性が飛んじゃうなんて、\nかわいいところあるのね❤,Kuhuhu.❤ You're too green for your own good. The way your willpower crumbles just from being sexually attacked is cute.❤,
+くすくす❤節操なさすぎでしょ。\nエロ攻撃されたからって理性が飛んじゃうなんて、\nかわいいところあるのね❤,Kuhuhu.❤ You're too green for your own good. The way your willpower crumbles just from being sexually attacked is cute.❤
 それで、どこをオカズにオナニーしているのかな？弟子？,So then; my student; what do you want to masturbate to?
 例えばおっぱいは、なかなか自信あるのよ❤\n服の上からでもわかるぐらい大きいでしょ。,For example; I know my boobs are amazing.❤ They're so big that you can see them through my clothing.
 こうやって手で揺らしてあげれば、ふふ、なかなかにエッチよね❤,And if I cup them with my hands and sway them like this... Fufu; it's quite hot isn't it?❤
@@ -93,7 +93,7 @@ default
 あはは❤興奮しているの丸わかり。\nそんなんじゃとてもじゃないけど\n魔族領なんかに行かせるわけにはいかないわ。,Haha!❤ You're so obviously aroused. There's no way I can let you go to the demon territory like this.
 女型の魔物や、魔族のカードマスターに誘惑されて、\nすぐに餌食になっちゃうのがオチだもの。\nそんなのいやよね？,If you get tempted by female monsters or demon card masters; you'll end up as their prey in no time. You don't want that; do you?
 だから、一発抜いて、また修行しましょ。\n今回の試合はこれで終わりということで。,So; why don't you rub one out and we can continue your training another day. We can always duel again; after all.
-ああっ、もう・・・❤,Ahhh, I can't take it anymore...❤
+ああっ、もう・・・❤,Ahhh; I can't take it anymore...❤
 ふふ。そっちの方ももう限界みたいね。,Fufu. So that part of you has reached its limit too; has it?❤
 いいわよ。早く出しなさい。,It's alright. Go on and release it all quickly.
 気持ちよくなるところ見ててあげる❤\nついでにほら、チャームの魔法もかけてっと❤,I'll watch you make yourself feel good~❤ And while we're at it; I'll cast a charm spell on you too~❤
@@ -109,9 +109,9 @@ default
 あはは❤興奮して扱く手が早くなっちゃったわね。\nシコシコシコシコ、一生懸命にしごいてそんなに気持ちいいの？,Haha!❤ You've started jerking off even faster. Stroke stroke; stroke stroke~ Does pumping your cock really feel that good?
 練習試合とはいえ大事な試合なのに、\n試験に挑んでいるマスターのこと裏切っちゃうんだ。,Even though this is only a practice match; it's also an important one; and yet here you are betraying your master.
 女の子にエッチなこといっぱいされて、\n戦うことよりシコシコすることの方が大事になっちゃったんだ❤,The girls have been doing so many naughty things to you; and now you'd rather jerk off than fight~❤
-くすくす❤ヘンタイ❤強そうなのは見た目だけね。,Kuhuhu.❤ What a pervert.❤ You look strong; but that's all it is; isn't it?,
+くすくす❤ヘンタイ❤強そうなのは見た目だけね。,Kuhuhu.❤ What a pervert.❤ You look strong; but that's all it is; isn't it?
 気持ちよくなるところ見ててあげる❤シコシコ扱いて、射精しちゃえ。,Go ahead and stroke. I'll watch you...❤ Just give in and let yourself come~
-あは❤たくさん出てる。エナジーごちそうさま❤,Aha!❤ You're putting out so much! Thank you for the mana.❤,
+あは❤たくさん出てる。エナジーごちそうさま❤,Aha!❤ You're putting out so much! Thank you for the mana.❤
 ねえ、弟子？従僕がこんな調子で、本当に勝てるのかしら。なんならあなたも私の体でしこっちゃう？くすくす❤,Well my student~? Do you really think you can win like this? If you want; you can always jerk off to my body; too. Kuhuhu...❤
 あは❤いきなり何しているわけ？まさか師匠のわたしでオナニー？,Ahaha!❤ What are you doing all of a sudden? Are you seriously jerking off to your master?
 ぷっ❤節操なさすぎでしょ。\nまだ１ターン目よ。何か興奮するようなことあった？,Pfft... You have no self-control at all; do you? We're still in the first turn; you know. Did something get you excited?
@@ -126,7 +126,7 @@ default
 それじゃあ試合終了ね。\n明日から地道に修行に励むこと。わかった？,Now then; that's it for today's session. We'll continue training hard again starting tomorrow; alright?
 やっぱり使い手が童貞だとモンスターもうぶになっちゃうのかしら。\n例えばほら、こうやっておっぱいを揺らしてあげれば・・・❤,It seems that if the user is a virgin; their monsters become inexperienced as well. For instance; look. If I bounce my breasts like this...❤
 練習試合とはいえ大事な試合なのに、\n召喚されてすぐにマスターのこと裏切っちゃうんだ❤,Though this is only a practice duel; it's still an important one. And yet right after being summoned; they can't help but betray their master...❤
-くすくす。ヘンタイ❤\n強そうなのは見た目だけね。,Kuhuhu.❤ What a pervert.❤ You look strong; but that's all it is; isn't it?,
+くすくす。ヘンタイ❤\n強そうなのは見た目だけね。,Kuhuhu.❤ What a pervert.❤ You look strong; but that's all it is; isn't it?
 馬鹿にされて興奮しているところがますます変態ね。\nいいわよ。早く出しなさい。,Getting excited from being mocked just makes you even more of a pervert; you know~ Very well. Go ahead and release. Quickly now~
 気持ちよくなるところ見ててあげる❤\nシコシコ扱いて、射精しちゃえ。,I'll watch you make yourself feel good~❤ Just keep stroking and cum for me.
 あは❤たくさん出てる。\nマスターからもらった魔力をこんな形で敵にあげちゃって、悪い子ね❤,Ahaha!❤ You're putting out so much! Giving the enemy the magic power you received from your master like this... You're such a bad boy.❤
