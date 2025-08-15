@@ -5,8 +5,8 @@ default
 ネクロ,Necro
 ❤牢屋の中のサキュバス,❤ Imprisoned Succubus
 スリ（女）,Pickpocket (Female)
-モルゲン監獄,Morugen Prison
-Place/MorugenPrison,
+モルゲン監獄,Morgen Prison
+Place/MorugenPrison,Place / Morgen Prison
 情報収集,Investigate
 街へ戻る,Return to the City
 おや、無敗のルーキーじゃないか。\n今日は監獄の見学か？,Oh; if it isn't the undefeated rookie. Are you here for a tour of the prison today?
