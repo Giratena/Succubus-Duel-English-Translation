@@ -10,148 +10,148 @@ Place/MorugenPrison,Place / Morgen Prison
 情報収集,Investigate
 街へ戻る,Return to the City
 おや、無敗のルーキーじゃないか。\n今日は監獄の見学か？,Oh; if it isn't the undefeated rookie. Are you here for a tour of the prison today?
-お前のような強いマスターが巡回すれば、\n犯罪者どもに対していい威圧になるだろう。\nわたしの目の届く範囲であれば、好きに見て回るといい。,If a strong master like you patrols around; it would serve as good intimidation for those criminals. As long as you don't stray too far; feel free to look around as you please.
-エイライラ先生とお前たちが連れてきたサキュバスだが、\nなかなか口を割りそうにない。,About that succubus that Eilaira and you guys brought in; she doesn't seem like she'll talk anytime soon.
-軽薄そうに見えて、サキュバスは女王に絶対の忠誠を誓っている。\n尋問で何かを聞き出すのはかなり難しそうだ。,She may look frivolous; but succubi pledge absolute loyalty to their queen. It seems it will be quite difficult to get anything out of her through interrogation.
-そのうえサキュバスたちは痛みを一切感じないように、\n体の感覚を調整できるらしい。快楽以外の感覚を\n一切遮断してしまえるのだそうだ。,Further complicating things; succubi can apparently adjust their body's sensations so they don't feel any pain at all. They say they can completely shut out all sensations except pleasure.
-あいつらがモルゲン周辺で何をしていたのか気になるが・・・。\n地道に周囲を調査していくほかはないかもしれんな。,I'm curious about what they were doing around Morgen; but... We might have no choice other than to steadily investigate the surrounding area.
-看守や詰所の隊長のような仕事は\nだいたいｃランクぐらいから割り当てられるようになる。,Jobs like being a prison guard or guard station captain are usually offered to C-rank adventurers.
-お前もこの大会が終わった後、何かしら打診があるかもしれないな。\n職を得てそれに励むか、あるいは更なる研鑽のため\n身軽な立場のままでいるかは、各人の自由だ。,After this tournament ends; you might also receive some job offers. Whether you take a position and dedicate yourself to it; or remain unattached to pursue further training; is up to you to decide.
-Ｂランク以上になり守護者になれば、\n領地をあずかりその土地で様々な特権を得ることもできる。\n大会のうちにどうしていきたいか色々と考えておくといい。,Once you reach B-rank or above and become a guardian; you can be entrusted with territory and gain various privileges in that land. It would be good to think about what you want to do ahead of time; during the tournament.
-囚人どもに快楽を与えるようなことは、\n刑罰の目的には反している。\nだからわたしが与えるのはいつも罰だけだ。,Giving pleasure to those prisoners would go against the purpose of punishment. That's why I only ever give them punishment.
-しかしわたしの糸で縛りつけなんどもムチで叩き、\nそのあとブーツで踏んでやると、男どもは勝手に発情してしまう❤\n見下ろされて嬲られるのを喜ぶマゾばかりだ。,But when I bind them with my threads and whip them repeatedly; then step on them with my boots; men get aroused all on their own.❤ They're all masochists who enjoy being looked down upon and tormented.
+お前のような強いマスターが巡回すれば、\n犯罪者どもに対していい威圧になるだろう。\nわたしの目の届く範囲であれば、好きに見て回るといい。,If a strong master like you walks around this place; it would no doubt serve to intimidate the criminals inside. As long as you don't stray too far; feel free to look around as much as you like.
+エイライラ先生とお前たちが連れてきたサキュバスだが、\nなかなか口を割りそうにない。,About that succubus that Eilaira and you guys brought in; she doesn't seem like she'll be talking anytime soon.
+軽薄そうに見えて、サキュバスは女王に絶対の忠誠を誓っている。\n尋問で何かを聞き出すのはかなり難しそうだ。,She may look carefree; but succubi pledge absolute loyalty to their queen. It seems it will be quite difficult to get anything out of her through interrogation.
+そのうえサキュバスたちは痛みを一切感じないように、\n体の感覚を調整できるらしい。快楽以外の感覚を\n一切遮断してしまえるのだそうだ。,Further complicating things; succubi can apparently adjust their body's senses so they don't feel any pain at all. They say they can completely shut out all sensations except pleasure.
+あいつらがモルゲン周辺で何をしていたのか気になるが・・・。\n地道に周囲を調査していくほかはないかもしれんな。,I'm curious about what they were doing around Morgen; but... We might have no choice other than a careful investigation of the surrounding area.
+看守や詰所の隊長のような仕事は\nだいたいｃランクぐらいから割り当てられるようになる。,Jobs like being a prison guard or guard captain are usually offered to C-rank adventurers.
+お前もこの大会が終わった後、何かしら打診があるかもしれないな。\n職を得てそれに励むか、あるいは更なる研鑽のため\n身軽な立場のままでいるかは、各人の自由だ。,After this tournament ends; you'll probably receive some job offers; too. Whether you take a position and dedicate yourself to it; or remain unattached to pursue further training; it's up to you to decide.
+Ｂランク以上になり守護者になれば、\n領地をあずかりその土地で様々な特権を得ることもできる。\n大会のうちにどうしていきたいか色々と考えておくといい。,If you manage to reach B-rank or higher and become a guardian; you might get entrusted with territory to protect and gain various privileges in those lands. It'd be a good idea to think about what you want to do ahead of time; before the tournament ends.
+囚人どもに快楽を与えるようなことは、\n刑罰の目的には反している。\nだからわたしが与えるのはいつも罰だけだ。,Giving pleasure to those prisoners would go against the purpose of their sentences. That's why I only ever give them punishment.
+しかしわたしの糸で縛りつけなんどもムチで叩き、\nそのあとブーツで踏んでやると、男どもは勝手に発情してしまう❤\n見下ろされて嬲られるのを喜ぶマゾばかりだ。,But when I bind them with threads and whip them repeatedly before stepping on them with my boots; men tend to get aroused all on their own.❤ They're all such masochists who enjoy being looked down upon and tormented.
 一度自分がマゾだと自覚すると、\n屈強な盗賊の頭でさえ犯罪から足を洗うから面白い。\n社会に歯向かう牙を抜かれ従順になるのだろうな。,It's quite interesting how even a tough bandit leader will give up their life of crime once they become aware of their masochistic nature. It's like they lose their defiance to society and become obedient instead.
-もちろん出所後に仕事をあっせんするなど制度ありきだがな。\nだがいくら職を与えても反骨心があるうちはすぐに罪に走るものだ。\n男として「更生」することは再犯率を下げるうえで重要なようだな。,Of course; there are systems in place like job placement after release. However; no matter how many job opportunities are given; as long as there is a spirit of rebellion; they tend to slip back into crime quickly. It seems crucial for men to be "rehabilitated" in order to reduce the rate of reoffending.
+もちろん出所後に仕事をあっせんするなど制度ありきだがな。\nだがいくら職を与えても反骨心があるうちはすぐに罪に走るものだ。\n男として「更生」することは再犯率を下げるうえで重要なようだな。,Of course; there are systems in place like job placement after release. However; no matter how many job opportunities are given; as long as there is a spirit of rebellion; they will always slip back into crime eventually. That's why it's crucial for men to be 'rehabilitated' in order to reduce the rate of reoffending.
 快楽を与えた囚人がまた戻ってこないのかだと？\nふふ、わたしに鞭を入れてほしくて来る男はたまにいるな。,You're asking what happens if a prisoner takes pleasure from this? Fufu; there are occasionally men who come here wanting me to whip them.
-だがそういう下心のある人間にはわたしは一切ムチも糸もやらん。\nただ生殺しにされて、\nムラムラとした欲求に牢屋の中で苦しめられるだけだ。,But to those kinds of people with ulterior motives; I won't give them any whips or restraints at all. They're just left in torment; suffering with their pent-up desires while locked up in their cells.
-何か月も生殺しにされていた男は、\n出るときにもう二度と牢屋には入りたくないと言っていたな。\n単なる辛さよりよほどこたえるらしい。ククク❤,There was one man that I left like that for months. When he was released; he said that he never wanted to enter a prison cell again. It seems to affect them much more deeply than simple hardship. Kukuku.❤
-こんにちは。無敗のルーキーさん。\nいまヤツメさんは休憩時間中です。,Hello; undefeated rookie. Yatsume is currently on break.
+だがそういう下心のある人間にはわたしは一切ムチも糸もやらん。\nただ生殺しにされて、\nムラムラとした欲求に牢屋の中で苦しめられるだけだ。,But to those kinds of people with ulterior motives; I refuse to grant them the punishment they seek. They're just left in torment; suffering with their pent-up desires while locked up in their cells.
+何か月も生殺しにされていた男は、\n出るときにもう二度と牢屋には入りたくないと言っていたな。\n単なる辛さよりよほどこたえるらしい。ククク❤,There was one man that I left like that for months. When he was released; he said that he never wanted to enter a prison cell again. It seems to affect them much more deeply than simple hardship. *Snicker*❤
+こんにちは。無敗のルーキーさん。\nいまヤツメさんは休憩時間中です。,Hey there; Undefeated Rookie. Miss Yatsume's on break right now.
 わたしはまだ補助の仕事ですが、\n休憩中の見張りぐらいはつとまります。,I'm still doing auxiliary work; but I can at least handle guard duty during break time.
-ヤツメさんにあなたのことは聞いています。\n面会もご自由にどうぞ。,I have heard about your arrangement with Yatsume. Please feel free to patrol the cells.
-うう、ここから出してよぉ～。おなかすいたよ～。,Ugh; let me out of here~! I'm hungry~!
-あっ！キミはわたしを倒した男の子じゃん！\nもー、キミのせいだよ。\nこんなじめじめしたところに閉じ込められてさぁ。,Ah! You're the boy who defeated me! Geez; it's all your fault! Now I'm locked up in this damp and dreary place.
-エナジーも全然吸えないし、わたし死んじゃいそうだよ～。\nわぁーん。,I can't absorb any energy at all; and I feel like I'm going to die~! Waaah!
-ねぇー、あなたってやさしい正義のカードマスターなんだよね？\nだったら、おねがーい❤\nわたしにちょっとだけエナジーをわけてほしいなぁ～❤,Hey... You're a kind and righteous card master; right? If that's the case; then please~❤ I want you to share just a little bit of energy with me~❤
-かわいそうな女の子を助けると思ってさ。ほら、チラ❤,Think of it as helping a pitiful girl. Look; just a peek.❤
+ヤツメさんにあなたのことは聞いています。\n面会もご自由にどうぞ。,I've heard about your arrangement with Yatsume. Please feel free to patrol the cells.
+うう、ここから出してよぉ～。おなかすいたよ～。,Ugh; let me out of here! I'm hungry!
+あっ！キミはわたしを倒した男の子じゃん！\nもー、キミのせいだよ。\nこんなじめじめしたところに閉じ込められてさぁ。,Ah! You're the boy who defeated me! Geez; it's all your fault! Now I'm locked up in this damp; dreary place.
+エナジーも全然吸えないし、わたし死んじゃいそうだよ～。\nわぁーん。,I can't absorb any energy at all; and I feel like I'm going to die! Waaah!
+ねぇー、あなたってやさしい正義のカードマスターなんだよね？\nだったら、おねがーい❤\nわたしにちょっとだけエナジーをわけてほしいなぁ～❤,Hey... You're a kind and just cardmaster; aren't you? In that case; please~❤ I want you to share just a little bit of energy with me~❤
+かわいそうな女の子を助けると思ってさ。ほら、チラ❤,Think of it like helping a poor; helpless girl. Come one; just a peak~❤
 （うっ・・・❤）,(Oh...❤)
-これオカズにしていいからさぁ❤\nねえ我慢汁だけでもいいの。おちんちんシコシコして、\nわたしに少しだけエナジーちょうだぁい❤,Hey; you can think of me as your muse for masturbation.❤ Even if it's just your precum; that's fine... Go ahead and stroke your cock; and please give me just a little bit of your energy~❤
-・・・。なに？\nわたしのこと笑いに来たの？\nおなかすいててもなにもくれない、きみのことなんて知らなーい。,...What? Did you come here just to laugh at me? Even though I'm hungry you won't give me anything; I don't care about you at all.
-わたしと戦ったときも、\n気持ちいいのを我慢できちゃうぐらいまじめだもんねー。\nこんな胸チラぐらいじゃ、どうにもならないもんなー。,Even when you fought with me; you were so serious that you could resist the pleasure easily; right~? Just a little peek of my cleavage like this won't have any effect on you at all.
-ほら、見る？どうせ効かないだろうけど。\nチラ❤,Look; want to see? It probably won't affect you; but here’s a little peek~❤
-その目を見る限り、興味ないわけじゃなさそうだけどなー❤\n服をぴらぴらってして谷間を出したり戻したりしたら、\n視線がちらちら動いてるし。くすくす❤,Looking at those eyes of yours; it doesn't seem like you're completely uninterested~❤ When I flutter my clothes and show my cleavage then hide it again; your gaze keeps darting around. *Giggle*❤
-優しい正義のマスターさぁん❤\nおねがーい❤かわいそうな女の子を助けてぇ❤\nあーん❤,Kind and righteous master~❤ Please~❤ Help a pitiful girl~❤ Ahhhn~❤
-谷間に見とれてしまった,Be captivated by the cleavage
-彼女のいる牢屋から離れた,Moved away from her cell
-あ、ちょっと待ってよ。\nむぅ・・・。行っちゃった。,Ah; wait a minute! Ugh... He left.
-（うう・・・❤こんなところで、だめなのに・・・❤）,(Oh...❤ In a place like this; even though it's wrong...❤)
-（ああ、目が離せない・・・❤）,(Ah; I can't take my eyes away...❤)
-（くす❤おちんちんに手が伸び始めた❤ちょっろーい❤）,(*Giggle*❤ His hand is starting to reach for his cock.❤ What a total pushover~❤)
-おい、なにをやっている。,Hey; what are you doing?
+これオカズにしていいからさぁ❤\nねえ我慢汁だけでもいいの。おちんちんシコシコして、\nわたしに少しだけエナジーちょうだぁい❤,You can even just use me as something to look at while you stroke yourself.❤ I'll take anything; even just a little pre-cum... Just stroke your cock; and give me a little bit of your energy. PLease~❤
+・・・。なに？\nわたしのこと笑いに来たの？\nおなかすいててもなにもくれない、きみのことなんて知らなーい。,...What? Did you come here to laugh at me? I don't care. No matter how hungry I am.
+わたしと戦ったときも、\n気持ちいいのを我慢できちゃうぐらいまじめだもんねー。\nこんな胸チラぐらいじゃ、どうにもならないもんなー。,Even when you fought with me; you were so serious that you could resist the pleasure easily; right? Just a little peek of my cleavage shouldn't have any effect on a guy like you.
+ほら、見る？どうせ効かないだろうけど。\nチラ❤,Look; want to see? It probably won't do anything; but here’s a little peek~❤
+その目を見る限り、興味ないわけじゃなさそうだけどなー❤\n服をぴらぴらってして谷間を出したり戻したりしたら、\n視線がちらちら動いてるし。くすくす❤,Looking at those eyes of yours; I'd guess you're not totally uninterested~❤ When I flutter my clothes and show my cleavage then hide it again; your gaze keeps shifting down. *Giggle*❤
+優しい正義のマスターさぁん❤\nおねがーい❤かわいそうな女の子を助けてぇ❤\nあーん❤,Oh; kind and caring master~❤ Please~❤ Help a pitiful girl~❤ Ahhhn~❤
+谷間に見とれてしまった,'Maybe... just a little...'
+彼女のいる牢屋から離れた,Move away from her cell
+あ、ちょっと待ってよ。\nむぅ・・・。行っちゃった。,Ah; hey; wait! Ugh... He left.
+（うう・・・❤こんなところで、だめなのに・・・❤）,(Oh...❤ I shouldn't... Not here... It's wrong...❤)
+（ああ、目が離せない・・・❤）,(Ah; but I... I can't look away...❤)
+（くす❤おちんちんに手が伸び始めた❤ちょっろーい❤）,(*Giggle*❤ He's starting to reach for his cock.❤ What a total pushover~❤)
+おい、なにをやっている。,Hey! What are you doing?
 ・・・・！,...!
 牢屋に密着するほど近づいて\nいささか不審だったぞ。無敗のルーキー。,You were getting close enough to be pressed against the prison cell; which was rather suspicious. Undefeated rookie...
-お前ほどの強者が、いまさら下級サキュバスにたぶらかされるとは思わんが、\n相手は魔族だ。油断しないように気を引き締めろ。,I don't think a strong warrior like you would be deceived by a lower-class succubus at this point; but the opponent is still a demon. Stay alert and don't let your guard down.
+お前ほどの強者が、いまさら下級サキュバスにたぶらかされるとは思わんが、\n相手は魔族だ。油断しないように気を引き締めろ。,While I doubt a strong fighter like you would be deceived by a lower-class succubus; she's still a demon. Stay alert and don't let your guard down.
 ヤツメさんは僕に注意すると、この場を離れて行った。,After Yatsume warned me; she left.
-ちぇ・・・。余計な邪魔が入っちゃった。\nやっぱりあいつがいるときは無理っぽいなぁー。,Tch... What an inconvenient interruption. As I thought; I can't get anything done when that guard is around.
+ちぇ・・・。余計な邪魔が入っちゃった。\nやっぱりあいつがいるときは無理っぽいなぁー。,Tch... What an inconvenient interruption. Just like I thought; I can't get anything done with that guard around.
 ねえ、また来てよ。\nあのヤツメってマスター、たまに休憩に入るからさ、\n今度はあいつがいないときに来て。,Hey; visit me again later. That Yatsume person takes breaks sometimes; so next time come by when she isn't around.
-そうしてくれたら・・・。チラ❤,If you do that for me... You can peek again~❤
-ここをオカズにしてシコシコさせてあげる❤\nわたしにエナジーめぐんでね❤\nやさしいカードマスターくん❤,I'll let you stroke yourself while looking at my cleavage~❤ Make sure to share some of your energy with me~❤ I know you're such a kind Card Master~❤
-くす❤早く気持ちよくなりたくて戻ってきちゃったのかな❤\nここに戻ってきても、今はおちんちんシコシコできないよ❤,*Giggle*❤ Did you come back because you couldn't wait to feel good~?❤ But even though you came back here; you won't be able to stroke your cock right now~!❤
-あの邪魔な看守がいなくなるまでおあずけ❤\nその間、いっぱい精液ぐつぐつさせて、\nおいしいエナジーをつくっておいてねー❤,You'll have to wait until that pesky guard is gone.❤ In the meantime; let that semen simmer and build up; so you can make lots of delicious energy for me~❤
+そうしてくれたら・・・。チラ❤,If you do that for me... I'll give you another peak~❤
+ここをオカズにしてシコシコさせてあげる❤\nわたしにエナジーめぐんでね❤\nやさしいカードマスターくん❤,I'll let you stroke yourself while looking at my cleavage~❤ Make sure to share some of your energy with me; okay?❤ You're such a kind cardmaster; I know you'll be back~❤
+くす❤早く気持ちよくなりたくて戻ってきちゃったのかな❤\nここに戻ってきても、今はおちんちんシコシコできないよ❤,*Giggle*❤ You came back! Are you that impatient to feel good?❤ Still; you won't be able to stroke your cock right now!❤
+あの邪魔な看守がいなくなるまでおあずけ❤\nその間、いっぱい精液ぐつぐつさせて、\nおいしいエナジーをつくっておいてねー❤,You'll have to wait until that pesky guard is gone.❤ In the meantime; let that semen simmer and build; so you can make lots of delicious energy for me~❤
 （あは、谷間ではぁはぁしてバカみたいな顔❤\n強いくせにこれだけで堕ちるとかちょろすぎでしょ❤\n魔力相当あるし、精液楽しみ～❤）,(Aha; he's panting at my cleavage with such a stupid look on his face~❤ For someone who's supposed to be strong; isn't he way too easy to corrupt?❤ He's got quite a lot of magical power though; so I can't wait to taste his cum~❤)
-こんにちは。正義のマスターくん❤\nうふふ❤ちゃんと休憩時間に会いに来れて偉いねー❤,Hi there; righteous Card Master.❤ Ufufu~❤ Good boy for coming to visit me during your break~❤
-さっきあの女に取り上げられたこ・れ❤\n見たかったんでしょ？チラ❤,This; right here.❤ The view that woman took away from you earlier.❤ You wanted to see it; didn't you? Take a peek~❤
+こんにちは。正義のマスターくん❤\nうふふ❤ちゃんと休憩時間に会いに来れて偉いねー❤,Hi there; Mister Righteous Cardmaster.❤ Ufufu~❤ You came back to visit me during that pesky guard's break. Good boy~❤
+さっきあの女に取り上げられたこ・れ❤\n見たかったんでしょ？チラ❤,I know what you want~❤ The view that woman took away from you earlier.❤ You wanted to see it; didn't you? Take a peek~❤
 ううぅ・・・❤,Ohh...❤
-あは、ハァハァしちゃって目がこわーい❤\nほら、もっと牢屋に近づいて。\nあっちの見張りのやつにばれないようにしないと。,Haha; you're panting so hard and your eyes have a scary look~❤ Come on; get closer to the cell. We have to make sure the guard over there doesn't notice us.
-おちんちん出してるところ、看守の子に見られたら恥ずかしいもんね❤\nバレずにシコシコできるように、そばまでおいで～❤,It'd be embarrassing if the guard saw you with your cock out; wouldn't it?❤ Come closer so you can stroke it without getting caught~❤
-怖がらなくてもだいじょうぶだよ❤\nわたしは牢屋の中にいて、きみは外にいるんだから❤,You don't have to be scared!❤ I'm inside the cell; and you're outside.❤
-サキュバスのエロい体を見ながらおちんちんシコシコしても、\nキミは安全❤\nすごいねー、ラッキーだねー、くすくす❤,You're safe to stroke your cock while looking at a succubus's sexy body.❤ Isn't that amazing? You're so lucky~ *Giggle*❤
-わたしおなかすいて我慢できないから、\nほら、早く早くぅ❤\nおいしいエナジーちょうだぁい❤,I'm so hungry that I can't wait any longer; come on; hurry up~❤ Give me some of that delicious energy~❤
+あは、ハァハァしちゃって目がこわーい❤\nほら、もっと牢屋に近づいて。\nあっちの見張りのやつにばれないようにしないと。,Aha; you're panting so hard and your eyes have such an intense look to them~❤ Come on; get closer to the cell. We have to make sure the guard over there doesn't catch us.
+おちんちん出してるところ、看守の子に見られたら恥ずかしいもんね❤\nバレずにシコシコできるように、そばまでおいで～❤,It'd be embarrassing if the guard saw you with your cock out; right?❤ Come closer so you can stroke it without getting caught~❤
+怖がらなくてもだいじょうぶだよ❤\nわたしは牢屋の中にいて、きみは外にいるんだから❤,You don't have to be scared!❤ I'm inside this cell; and you're outside~❤
+サキュバスのエロい体を見ながらおちんちんシコシコしても、\nキミは安全❤\nすごいねー、ラッキーだねー、くすくす❤,You're safe to stroke your cock while looking at a succubus's sexy body.❤ Isn't that great? You're so lucky! *Giggle*❤
+わたしおなかすいて我慢できないから、\nほら、早く早くぅ❤\nおいしいエナジーちょうだぁい❤,I'm so hungry... I can't wait any longer! Come on; hurry up~❤ Give me some of that delicious energy~❤
 （はううぅ❤こんなところで触るなんてダメなのに❤\nでもがまんできないっ❤）,(Ugh.❤ I shouldn't be touching myself in a place like this...❤ But I can't help it.❤)
-あは、しこしこ気持ちよさそ～❤\n鉄格子に体がつきそうなぐらい近づいて、\nバレないようにシコシコシコ❤谷間をオカズにシコシコシコ❤,Aha; looks like that feels pretty good~❤ Come close enough to almost press against the bars; and keep stroking discreetly.❤ Use my cleavage to get yourself off; and stroke stroke stroke~❤
-揺れてるおっぱいエロいもんね～❤\n一回倒したサキュバスだけど、\n本当はあのときもこうやって気持ちいいのに負けたかったんだよね～❤,Jiggling succubus boobs are so erotic; aren't they~❤ You may have defeated me once before; but deep down; you really wanted to lose to this pleasurable feeling back then too~❤
-その距離だと、わたしのいい匂いがするでしょ？\nサキュバスの体って牢屋にいても汚れないから、\nずぅーっと甘くていい匂いがするんだよ❤,From that distance; you can smell me; right? A succubus's body doesn't get dirty even in a cell; so it always smells sweet and pleasant!❤
-おっぱい揺らして谷間から甘い匂いを飛ばしてあげる❤\n鼻をスンスンしながらシコシコしようね～❤\nきゃはは❤,I'll shake my boobs and let this swee scent waft from my cleavage.❤ Keep stroking while you breathe in deep~❤ Kyahaha!❤
+あは、しこしこ気持ちよさそ～❤\n鉄格子に体がつきそうなぐらい近づいて、\nバレないようにシコシコシコ❤谷間をオカズにシコシコシコ❤,Aha; looks like that feels pretty good~❤ Come close enough to almost press against the bars so no one can see you stroking.❤ Use my cleavage to get yourself off; and just stroke stroke stroke~❤
+揺れてるおっぱいエロいもんね～❤\n一回倒したサキュバスだけど、\n本当はあのときもこうやって気持ちいいのに負けたかったんだよね～❤,Jiggling succubus boobs are so erotic; don't you think?❤ You may have defeated me once before; but deep down; you really wanted to lose to this pleasurable feeling back then too; didn't you?❤
+その距離だと、わたしのいい匂いがするでしょ？\nサキュバスの体って牢屋にいても汚れないから、\nずぅーっと甘くていい匂いがするんだよ❤,From this close; you can smell me; can't you? A succubus's body doesn't get dirty even in a cell; so it always smells sweet and pleasant!❤
+おっぱい揺らして谷間から甘い匂いを飛ばしてあげる❤\n鼻をスンスンしながらシコシコしようね～❤\nきゃはは❤,I'll shake my boobs and let this sweet scent waft from my cleavage.❤ Breath deep and keep stroking; okay?❤ Kyahaha!❤
 あう、あああっ・・・❤❤,Ah; ahh...❤❤
-あはは❤しごくのすっごく早くなっちゃうね❤\nサキュバスフェロモンで肺をいっぱいにしながら、\nおちんちんシコシコシコシコ❤,Ahaha~❤ You're stroking so much faster now; huh?❤ Fill your lungs with succubus pheromones while you keep stroking away~❤
-もうイっちゃいそう？\nいいよ❤早くこの谷間に濃ゆーい精液ちょうだぁい❤\nめんどくさい看守が戻ってくる前に、出して、出して❤,Are you about to cum? Go ahead!❤ Hurry and give this cleavage your thick cum~❤ Release it; release it before that annoying guard comes back~❤
-サキュバスにエナジーお貢ぎ❤\nお腹空いてる女の子を助けてぇ❤\nほらカウントダウンしてあげる❤３、２、１、ぜーろ❤❤,Offer your energy to the succubus.❤ Help this hungry girl~❤ Here; I'll count down for you.❤ 3; 2; 1; zero.❤❤
-あはぁん、おいしい～❤\nずーっとエナジーもらえてなかったから、\n最高の味がする～♪,Ahhn; delicious~❤ Since I haven't gotten any mana in so long; this tastes absolutely divine~♪
+あはは❤しごくのすっごく早くなっちゃうね❤\nサキュバスフェロモンで肺をいっぱいにしながら、\nおちんちんシコシコシコシコ❤,Ahaha~❤ You're stroking so much faster now; aren't you?❤ Fill your lungs with succubus pheromones and keep stroking away~❤
+もうイっちゃいそう？\nいいよ❤早くこの谷間に濃ゆーい精液ちょうだぁい❤\nめんどくさい看守が戻ってくる前に、出して、出して❤,Are you about to cum? Go ahead!❤ Hurry and give my cleavage your thick; yummy cum~❤ Come on; let it out! Release it before that annoying guard comes back~❤
+サキュバスにエナジーお貢ぎ❤\nお腹空いてる女の子を助けてぇ❤\nほらカウントダウンしてあげる❤３、２、１、ぜーろ❤❤,Offer your energy to the big; bad succubus.❤ Help this hungry girl~❤ Here; I'll count down for you.❤ 3; 2; 1; zero~❤❤
+あはぁん、おいしい～❤\nずーっとエナジーもらえてなかったから、\n最高の味がする～♪,Ahhn; delicious~❤ I haven't gotten any mana in so long; so this tastes absolutely divine~♪
 キミからもっともっと精液吸いたいな～❤\nねぇー、キミが干からびちゃうまで吸ってもいい？\nおねがぁい❤,I want to suck more and more semen from you~❤ Hey... Can I keep sucking until you're all dried up? Pleeease~?❤
-（うう、うう・・・❤僕はなにをしているんだろう・・・❤\nでも、もう一回吸ってほしい・・・❤きもちよくてぇ・・・❤）,(Nngh; nnh...❤ What am I doing...❤ But I want her to suck again...❤ It feels so good...❤)
-（あは、またシコリ出した❤ほんとちょろ～い❤\nこのまま吸い殺しちゃってもいいし、\n死ぬ寸前で止めて奴隷にするのもいいな～❤ん？）,(Haha; he's started stroking again.❤ He's seriously so easy to manipulate~❤ I could just drain him dry right here and now; or maybe I'll stop right before he dies and turn him into my slave~❤ Hm?)
-ちぇ、またあいつの足音だ。\nざんねんだけど、今日はこれでおしまいだね～❤,Tch; I hear those footsteps again. It's a shame; but that's it for today~❤
+（うう、うう・・・❤僕はなにをしているんだろう・・・❤\nでも、もう一回吸ってほしい・・・❤きもちよくてぇ・・・❤）,(Nngh; nnh...❤ What am I doing...❤ But I want her to drain me again...❤ It feels so good...❤)
+（あは、またシコリ出した❤ほんとちょろ～い❤\nこのまま吸い殺しちゃってもいいし、\n死ぬ寸前で止めて奴隷にするのもいいな～❤ん？）,(Aha; he's started stroking again!❤ He's seriously so easy to manipulate~❤ I could just drain him dry right here and now; or maybe I'll stop right before he dies and turn him into my slave~❤ Hm?)
+ちぇ、またあいつの足音だ。\nざんねんだけど、今日はこれでおしまいだね～❤,Tch; I hear those footsteps again. It's too bad; but that's it for today~❤
 あう、ううう・・・❤,Ahh; nngh...❤
-また別の休憩時間に来てよ。\nそのときはもう一回シコシコさせてあげる❤,Come visit me later when the guards go on break. I'll let you stroke again.❤
-わたしのおっぱいオカズにしたいでしょ？\nかわいそうなサキュバスに、たくさんご飯をめぐんであげようね❤\n正義のマスターくん❤くすくす❤,You want to stroke it to my breasts; don't you? Won't you; as a righteous Master; be kind enough to give this poor little succubus plenty of nourishment?❤ *Giggle*❤
+また別の休憩時間に来てよ。\nそのときはもう一回シコシコさせてあげる❤,Come visit me later when the guards go on break. I'll let you stroke yourself again~❤
+わたしのおっぱいオカズにしたいでしょ？\nかわいそうなサキュバスに、たくさんご飯をめぐんであげようね❤\n正義のマスターくん❤くすくす❤,You want to stroke it to my breasts; don't you? Won't you; as such a benevolent master; be kind enough to give this poor little succubus plenty of nourishment?❤ *Giggle*❤
 あは、早くわたしでシコシコしたいよねぇ❤\nでも残念、邪魔なやつがいるから今はできないんだぁ❤,Aha; you're just dying to stroke it to me right now; aren't you?❤ But unfortunately; there’s someone in the way; so you can't do it yet.❤
-キミは困ってる女の子を助けてるだけの正義のマスターなのにね、\nそれを邪魔をするなんて、看守のヤツメは悪いマスターだよね❤,You're just a righteous Cardmaster helping a girl in need; yet some guard dares to interfere. That Yatsume is such a bad Master; isn’t she?❤
-あ～あ～、あいつを誰か倒してくれないかな～❤\nそうしたらキミは今すぐシコシコできるのに❤,Ohh~ How I wish someone would take her down~❤ If that happened; then you could start stroking right away!❤
-わたしのおっぱい見ながらいっぱいシコシコ❤シコシコシコ❤\n気持ちいいだろうな～❤くすくす❤,Stroking lots while looking at my boobs~❤ Over and over~❤ It would feel so good~❤ *Giggle*❤
-(ま、今すぐ脱出しなくても、\nいずれこの街はぐちゃぐちゃになっちゃうんだけどね。\nそのときこのマスターくんも吸い殺しちゃおうっと♪),(Well; even if I don't escape right now; this city will eventually turn into chaos. And when that happens; I'll drain this little Master dry~♪)
-あは。また来てくれたんだ～❤\nわたしがお腹を空かせてるかもって気にしてくれたの？\nやさしい～❤さっすが正義のマスターくん❤,Aha; you came back to see me~❤ Were you worried I might be getting hungry? How sweet of you~❤ As expected of such a righteous Master.❤
-おちんちんからエナジー出しやすいように、\n今日もお手伝いしてあげるね～❤\nチラ❤,Let me help you release all that energy again~❤ Peek-a-boo~❤
-こんな風においしい精液いっぱいもらえるなら、\n別に牢屋から出なくてもいいかもねー。\n何もしなくてもごちそうがもらえるんだもん❤,If I can get such delicious energy like this; I might not need to leave this cell; y'know... Why bother escaping when such tasty treats keep coming right to me~❤
-優しくてバカなマスターくんが、\nいっぱい力の溶けた精液をせっせと貢ぎに来てくれるなんて❤\nあぁーん、わたしって超ラッキーかも❤,Such a kind and simple-minded Master; coming again and again to offer me his deliciously refined energy.❤ Ahhhn; I might just be the luckiest girl ever~❤
-カードを１枚も使わずに、\nこうやっておっぱい揺らしてあげるだけで、エナジー食べ放題❤\nほらほらぁ、フェロモンすんすんしてシコっていいよ～❤,Without using a single card; just by swaying my boobs like this; I feast on energy as much as I want.❤ Come on; sniff up my pheromones and start stroking away~❤
-あはは❤しごくのすっごく早くなっちゃうね❤\n甘ぁい匂いで脳をまっしろにされながら、\nおちんちんをシコシコシコ❤シコシコシコ❤,Ahaha~❤ You're stroking sooo much faster now.❤ While your mind turns blank from this sweet; intoxicating scent; keep stroking your cock~❤ Stroke; stroke; stroke!❤
-頭おかしくなるぐらい気持ちよくて～、\nここが牢屋だとか、相手がサキュバスだとか何も考えられない❤\n精液出したくてそれで頭がいっぱい❤,I can tell I'm driving you mad with desire~❤ You can't think about this being a prison; or that I'm a succubus.❤ Your head is just filled with the need to release your semen~❤
-もうイっちゃいそうなんでしょ❤いいよ❤\nこの谷間に濃ゆーい精液ちょうだぁい❤\nめんどくさい看守が戻ってくる前に、出して、出して❤,You're about to cum; aren't you~❤ Go ahead.❤ Give my cleavage your thick; rich essence~❤ Hurry and release it; release it before that annoying guard comes back!❤
-サキュバスにエナジーお貢ぎしようね❤\nほらカウントダウン❤３、２、１、ぜーろ❤❤\nイケ❤出せ❤きゃはは❤,Come on; offer up that mana to a succubus~❤ Here comes the countdown.❤ 3; 2; 1; zero~❤❤ Cum.❤ Release it~❤ Kyahaha!❤
-あはぁん、おいしい～❤\n力がどろどろに溶けてて、すごくいい味❤,Ahh; delicious~❤ Your strength is melting into a thick; gooey mess... it tastes so good.❤
+キミは困ってる女の子を助けてるだけの正義のマスターなのにね、\nそれを邪魔をするなんて、看守のヤツメは悪いマスターだよね❤,You're just a caring cardmaster helping a girl in need; yet some guard dares to interfere. That Yatsume is such a bad master; isn’t she?❤
+あ～あ～、あいつを誰か倒してくれないかな～❤\nそうしたらキミは今すぐシコシコできるのに❤,Ohh; how I wish someone would take her down...❤ If that happened; then you could stroke yourself as much as you want~❤
+わたしのおっぱい見ながらいっぱいシコシコ❤シコシコシコ❤\n気持ちいいだろうな～❤くすくす❤,Stroking lots while staring at my chest~❤ Cumming over and over~❤ It would feel so good~❤ *Giggle*❤
+(ま、今すぐ脱出しなくても、\nいずれこの街はぐちゃぐちゃになっちゃうんだけどね。\nそのときこのマスターくんも吸い殺しちゃおうっと♪),(Well; even if I don't escape right now; this city will eventually get thrown into chaos. And when that happens; I'll drain this little master dry~♪)
+あは。また来てくれたんだ～❤\nわたしがお腹を空かせてるかもって気にしてくれたの？\nやさしい～❤さっすが正義のマスターくん❤,Aha; you came back to see me again~❤ Were you worried I might be getting hungry? How sweet of you~❤ As expected of such a kind-hearted master.❤
+おちんちんからエナジー出しやすいように、\n今日もお手伝いしてあげるね～❤\nチラ❤,Let me help you release all that pent-up energy again~❤ Peek-a-boo~❤
+こんな風においしい精液いっぱいもらえるなら、\n別に牢屋から出なくてもいいかもねー。\n何もしなくてもごちそうがもらえるんだもん❤,If I can energy as yummy as this; I might not need to leave this cell; y'know... Why bother escaping when such tasty treats keep coming right to me~❤
+優しくてバカなマスターくんが、\nいっぱい力の溶けた精液をせっせと貢ぎに来てくれるなんて❤\nあぁーん、わたしって超ラッキーかも❤,Such a kind and simple-minded master; coming again and again to offer me his delicious; high-quality energy.❤ Ahhhn; I might just be the luckiest girl ever~❤
+カードを１枚も使わずに、\nこうやっておっぱい揺らしてあげるだけで、エナジー食べ放題❤\nほらほらぁ、フェロモンすんすんしてシコっていいよ～❤,Without using a single card; just by swaying my boobs like this; I get as much energy as I want.❤ Come on; breathe in my pheromones and start stroking away~❤
+あはは❤しごくのすっごく早くなっちゃうね❤\n甘ぁい匂いで脳をまっしろにされながら、\nおちんちんをシコシコシコ❤シコシコシコ❤,Ahaha~❤ You're stroking so much faster now.❤ Keep stroking your cock as your mind turn blank from this sweet; intoxicating scent~❤ Stroke; stroke; stroke!❤
+頭おかしくなるぐらい気持ちよくて～、\nここが牢屋だとか、相手がサキュバスだとか何も考えられない❤\n精液出したくてそれで頭がいっぱい❤,I can tell I'm driving you mad with desire~❤ You can't even remember that I'm a succubus; or that this is a prison.❤ Your head is just filled with the need to release your semen~❤
+もうイっちゃいそうなんでしょ❤いいよ❤\nこの谷間に濃ゆーい精液ちょうだぁい❤\nめんどくさい看守が戻ってくる前に、出して、出して❤,You're about to cum; aren't you?❤ Go ahead.❤ Give my cleavage your thick; rich essence~❤ Hurry and release it! Let it out before that annoying guard comes back!❤
+サキュバスにエナジーお貢ぎしようね❤\nほらカウントダウン❤３、２、１、ぜーろ❤❤\nイケ❤出せ❤きゃはは❤,Come on; offer up that mana to this helpless little succubus~❤ Here comes the countdown!❤ 3; 2; 1; zero~❤❤ Cum~❤ Shoot it all out!❤ Kyahaha~❤
+あはぁん、おいしい～❤\n力がどろどろに溶けてて、すごくいい味❤,Ahh; delicious~❤ Your strength is melting into a thick; gooey mess... It tastes so good~❤
 あうぅ、はへぇ・・・・❤❤,Auu; haah...❤❤
-くすくす❤ふにゃふにゃにとろけた顔してる❤\nもうちょっとシャキッとしないと、看守にバレちゃうよ❤,*Giggle*❤ Look at that dopey; blissed-out expression~❤ You'd better pull yourself together; before the guard catches on!❤
-それじゃまたね。あいつがすぐ戻ってくるし。\n今日はここまで。別の休憩時間に来たら、\nそのときはもう一回シコシコさせてあげる❤,Time to say goodbye! The guards will return any minute; so that's all for today. Come find me during another break; and maybe I'll treat you again!❤
-サキュバスの体って何回オナニーしても飽きないでしょ？\nかわいそうなサキュバスに、たくさんご飯をめぐんであげようね❤\n正義のマスターくん❤くすくす❤,You never get tired of masturbating to a succubus's body; do you? Be kind and give lots of 'food' to this poor little succubus; okay?❤ My righteous Master~❤ *Giggle*❤
+くすくす❤ふにゃふにゃにとろけた顔してる❤\nもうちょっとシャキッとしないと、看守にバレちゃうよ❤,*Giggle*❤ Look at that dopey; dreamy expression~❤ You'd better pull yourself together before the guard catches on!❤
+それじゃまたね。あいつがすぐ戻ってくるし。\n今日はここまで。別の休憩時間に来たら、\nそのときはもう一回シコシコさせてあげる❤,Time to say goodbye! The guards will be back any minute; so that's all for today. Come find me during another break; and maybe I'll treat you again!❤
+サキュバスの体って何回オナニーしても飽きないでしょ？\nかわいそうなサキュバスに、たくさんご飯をめぐんであげようね❤\n正義のマスターくん❤くすくす❤,You never get tired of masturbating to a succubus's body; do you? Be kind and give lots of 'food' to this poor little succubus; okay?❤ My kind-hearted master~❤ *Giggle*❤
 うう、犯罪なんてするんじゃなかったぜ。\n冷たい牢屋でまずい飯を食わされて、\n生きた心地がしねえ。,Ugh; I never should've turned to crime. Eating this awful food in a freezing cell... This isn't much of a life.
 街によっては囚人が幅を利かせて、\n好き放題やってるような牢屋もあるらしいが、\nここはヤツメがビシっと見張ってるから誰も逆らえねえ。,I've heard that in some towns; the prisoners run wild and do whatever they want in their cells... But with Yatsume keeping strict watch here; nobody dares step out of line.
-糸で縛られて罰を与えられたり、\n従順な囚人にはご褒美とやらが与えられて、\nみんなあいつの言いなりになっちまう。,She uses thread to tie up and punish some; while giving rewards to the obedient ones... That's how everyone ends up dancing to her tune.
-俺も逆らえなくされちまうんだろうか・・・。\nけっ、そう簡単に看守の下僕なんかになってたまるか。\nここから出るまで俺はおちねえぞ。,Will I end up being made powerless like that too...? Heh; like hell I'll become some guard's puppet that easily. I won't fall that low; not until I get out of here.
-ああ、ヤツメさま・・・❤\nううう、俺はどうしちまったんだ。\nあんな女に縛られたって、そんなので気持ちよくなっちまうなんて。,Oh; Mistress Yatsume...❤ Ughh; what's happened to me? To think I'd get tied up by a woman like that; and end up feeling good about it...
-直接エロいことされたわけでもねえ、\nただムチで叩かれて糸に縛り付けられただけだ。\nそれなのに、うう、なんで俺はこんなに・・・。,I wasn't even being directly engaged in anything sexual; I was just being whipped and tied up with rope. And yet... why do I feel so...?
+糸で縛られて罰を与えられたり、\n従順な囚人にはご褒美とやらが与えられて、\nみんなあいつの言いなりになっちまう。,She uses spider silk to tie up and punish the bad ones; while giving rewards to the obedient ones... That's how everyone ends up dancing to her tune.
+俺も逆らえなくされちまうんだろうか・・・。\nけっ、そう簡単に看守の下僕なんかになってたまるか。\nここから出るまで俺はおちねえぞ。,Will I end up like that too; helpless to resist...? Heh; like hell I'll become some guard's puppet that easily. I'll keep fighting until I make it out of this place!
+ああ、ヤツメさま・・・❤\nううう、俺はどうしちまったんだ。\nあんな女に縛られたって、そんなので気持ちよくなっちまうなんて。,Oh; Mistress Yatsume...❤ Ughh; what's happened to me? To think I'd get tied up by a woman and end up liking it...
+直接エロいことされたわけでもねえ、\nただムチで叩かれて糸に縛り付けられただけだ。\nそれなのに、うう、なんで俺はこんなに・・・。,She wasn't even doing anything sexual! I was getting tied up and whipped. So then... why do I feel so...?
 あーん、コノハちゃんの弟子くんじゃない。\nお姉さんに会いに来てくれたの？,Aahn; if it isn't Konoha's little apprentice! Coming to pay me a special visit?❤
 分かってる。サキュバス化の治療術の特訓に来たのよね。\nでも、そうだとしても会いに来てくれてうれしいわ❤\n牢屋の中って退屈ですもの。,I know; I know. You're here to work on treating the succubus transformation; right? But I'm still happy you came to see me...❤ It gets pretty boring in this cell; you know?
-牢屋で待っている間、治療の理論を\nあなたにどうやって教えたら分かりやすいかなぁって\nずっと考えてたのよ。,While waiting in my cell; I've been thinking about how to teach you the theory behind treatment in a way that's easy to understand.
+牢屋で待っている間、治療の理論を\nあなたにどうやって教えたら分かりやすいかなぁって\nずっと考えてたのよ。,While stuck in here; I've been thinking about how to teach you the theory behind treatment in a way that's easy to understand.
 先生のまねごとなんて、わたしには恐れ多い気もするけど、\nできる限りかみ砕いて教えてあげるわね。\n分からなければどんどん質問していいわよ。,Though it feels a bit above my station to act like a teacher; I'll explain everything as clearly as I can. Don't hesitate to ask questions if anything's unclear.
 僕はネクロさんに治療術の理論や魔術の術式について教えてもらった。,I learned about treatment theory and magical formulas from Necro.
-まだまだ理論の段階だし、ちょっと不確実なところも多いのよね。\n特にサキュバス化して長い時間が経っている場合、\n完全に治しきれるかどうかは賭けになりそうだわ。,This is all still theoretical; and there are many uncertain aspects to consider. It's particularly questionable whether we can achieve a complete cure for those who've been succubi for extended periods.
-でも弟子くんが妹をちゃんと助けられるように、\nわたしもしっかり頭を使ってあげる。,But I'll make sure to think this through carefully; so the apprentice can properly help his little sister.
-単なる善行とかじゃないのよ。\nわたしも自分の研究が実を結ぶところをこの目で見てみたいの。\nだからお互いに利のある話としてあなたには協力するわ。,Though... this isn't just a simple act of kindness. I also want to see the fruits of my research with my own eyes. So I'll helping you benefits us both.
-まあ、弟子くんのこと割と気に入ってるっていうのもあるんだけど❤\nそれじゃまたね。時間のあるときに面会に来てくれるとうれしいわ❤,Well; truth is I've taken quite a liking to you; little apprentice.❤ Take care for now. Do come visit me when you have some free time; okay?❤
-コノハちゃんの弟子くん、こんにちは。\n牢屋の中って暇だけれど、\nインドア派のわたしからすれば案外悪くないかもしれないわ。,Oh; hello there; little apprentice of Konoha's. You know; being in this prison cell is rather boring; but for an indoor person like myself; it might not be so bad after all!
-だってモルゲンで新しく出た最新の研究論文とかを見ていれば、\n刑期なんてすぐ終わりそうなんだもの。\nあ、この本はコノハちゃんが差し入れてくれたのよ。,After all; with these new research papers from Morgen to look through; my sentence will be over before I know it. Ah; these books were actually brought to me by Konoha!
+まだまだ理論の段階だし、ちょっと不確実なところも多いのよね。\n特にサキュバス化して長い時間が経っている場合、\n完全に治しきれるかどうかは賭けになりそうだわ。,This is all still theoretical; and there are many uncertain aspects to consider. It's particularly questionable whether we can achieve a complete cure for those who've been succubi for extended periods of time.
+でも弟子くんが妹をちゃんと助けられるように、\nわたしもしっかり頭を使ってあげる。,But I'll make sure to think this through carefully; so the little apprentice can properly help his baby sister.
+単なる善行とかじゃないのよ。\nわたしも自分の研究が実を結ぶところをこの目で見てみたいの。\nだからお互いに利のある話としてあなたには協力するわ。,Though... this isn't just a simple act of kindness. I also want to see the fruits of my research with my own eyes. Helping you benefits us both.
+まあ、弟子くんのこと割と気に入ってるっていうのもあるんだけど❤\nそれじゃまたね。時間のあるときに面会に来てくれるとうれしいわ❤,Well... The truth is I've taken a bit of a liking to you; little apprentice~❤ Take care for now. Do come visit me when you have some free time; okay?❤
+コノハちゃんの弟子くん、こんにちは。\n牢屋の中って暇だけれど、\nインドア派のわたしからすれば案外悪くないかもしれないわ。,Oh; hello there; little apprentice. You know; I thought being in a prison cell would be boring; but for an indoor person like myself; it's actually not that bad!
+だってモルゲンで新しく出た最新の研究論文とかを見ていれば、\n刑期なんてすぐ終わりそうなんだもの。\nあ、この本はコノハちゃんが差し入れてくれたのよ。,After all; with these new research papers from Morgen to look through; my sentence will be over before I know it. Oh; Konoha actually brought me these books herself!
 ・・・・・。,...
-あん、もちろん反省してるわよ。\n二度と悪人の用心棒なんてやらないわ。\nほんとよ？,Ahh. Of course I'm reflecting on my actions. I won't ever work as a bodyguard for villains again. Cross my heart~
-コノハちゃん、弟子くんの手前明るく振舞っていたけれど、\nわたしを見てすごく悲しそうな目をしていたわ。\nそれを見てたら目が覚めちゃった。,Even though Konoha was acting cheerful in front of her disciple; when she looked at me; her eyes were so sad. When I saw that; I couldn't help but wake up to reality.
-誰かを真剣に悲しませたいわけじゃないの。\nわたしみたいな生きる価値のない人間は、\n悪人にでも頼られたらうれしいけれど、やっぱりそれじゃダメね。,I never truly wanted to make anyone sad. Even though it made me happy when villains relied on someone worthless like me; I guess that's just not right after all.
-いつか鉱山の町の人たちにも謝りに行かないとね。\nカードを使って２～３か月タダ働きして、\n盗っちゃった分を償おうと思うわ。,I'll have to go apologize to the people of the mining town someday. I think I'll work for free for 2-3 months using my cards; to make up for what I stole.
-わたし、使うカードがゾンビとかそういうのでしょう？\nわりと気味悪がられることが多くて、\n特に子供のころなんて同い年の子は誰も寄って来なかったわ。,The cards I use are zombies and things like that; right? People often found it creepy; especially when I was a child; none of the kids my age would come near me at all.
-ちょうどそのころ、疫病が流行ったことがあってね。\nその原因がわたしじゃないかなんて変な噂が流れたりして、\nいろいろとしんどかったなぁ。,Around that same time; there was an epidemic going around. Strange rumors spread that I might be the cause; it was really hard to deal with all of that.
-だってわたしのお父さんとお母さんも疫病で死んでるのよ？\nそれなのにそんなこと言われて、\n毎日孤児院で泣いていたの。,I mean; my own father and mother died from that epidemic too; you know? And yet they said such things about me; I cried every day at the orphanage.
-でもコノハちゃんはね。そんなわたしを守ってくれた。\nまっすぐにわたしの手を取って、助けてくれた。\nかっこよかったなぁ。,But you know what? Konoha-chan protected me back then. She took my hand without hesitation; and helped me through it. She was so cool...
-あなたの師匠は昔からとてもいい子で、面倒見がよかったのよ。\nあなたのこともきっと\nサキュバスに壊された村で見つけて放っておけなかったのね。,Your master has always been such a good child; always looking after others. She must have found you in that village destroyed by succubi; and simply couldn't leave you behind.
-コノハちゃんがＣランクだったころだから、\nまだ15~16ぐらいのころかしら。そんなときに\n男の子一人拾ってわたしが面倒を見る！なんて大見得切っちゃって。,This was back when Konoha-chan was still C-rank; so she must have been around 15 or 16. And there she was; making such a grand declaration that she'd take in and look after a boy all by herself!
-立派過ぎてちょっとびっくりしちゃうわよね。\nわたしみたいな日陰者の人間にはまねできないわ。,It was so admirable it's almost startling; isn't it? Someone like me; living in the shadows; could never hope to do the same.
-ふふ、牢屋にいて考える時間がたくさんあるからかしら。\n昔のこととか色々思い出して、つい話しちゃった。\nあんまり人にこういうこと話すことなかったのに。,Fufu; perhaps it's because I have so much time to think while I'm in this prison. Remembering various things from the past; I ended up talking about them before I knew it. Even though I rarely ever shared such things with others...
-{主人公}くんって優しそうだから、\nついつい話しちゃうの。そういうところコノハちゃんに似てるのかも。\n教育のたまものなのかしら。,{主人公}; you seem so kind that I can't help but open up to you. Maybe that's how you're similar to Konoha-chan. I wonder if it's the result of your upbringing.
+あん、もちろん反省してるわよ。\n二度と悪人の用心棒なんてやらないわ。\nほんとよ？,Ahh. Yes; yes; of course I'm reflecting on my actions. I won't ever work as a bodyguard for villains again. Cross my heart; alright?
+コノハちゃん、弟子くんの手前明るく振舞っていたけれど、\nわたしを見てすごく悲しそうな目をしていたわ。\nそれを見てたら目が覚めちゃった。,Your master was so bright and cheerful when you were around; but when she looked at me; there was a sadness in her eyes. When I saw that; I couldn't help but wake up to reality.
+誰かを真剣に悲しませたいわけじゃないの。\nわたしみたいな生きる価値のない人間は、\n悪人にでも頼られたらうれしいけれど、やっぱりそれじゃダメね。,I never really wanted to make anyone sad. While it made me happy having those bad guys rely on someone worthless like me; I know now it wasn't right.
+いつか鉱山の町の人たちにも謝りに行かないとね。\nカードを使って２～３か月タダ働きして、\n盗っちゃった分を償おうと思うわ。,I'll have to go apologize to the people of the mining town someday. I think I'll work for free for 2-3 months using my cards; just to make up for what I stole.
+わたし、使うカードがゾンビとかそういうのでしょう？\nわりと気味悪がられることが多くて、\n特に子供のころなんて同い年の子は誰も寄って来なかったわ。,You know how the cards I use are zombies and things like that? People usually find it pretty creepy; especially when I was a child. None of the kids my age would come anywhere near me.
+ちょうどそのころ、疫病が流行ったことがあってね。\nその原因がわたしじゃないかなんて変な噂が流れたりして、\nいろいろとしんどかったなぁ。,Around that same time; there was an epidemic going around. Strange rumors spread that I might be the cause. Going through that... It was really hard.
+だってわたしのお父さんとお母さんも疫病で死んでるのよ？\nそれなのにそんなこと言われて、\n毎日孤児院で泣いていたの。,I mean; my own father and mother died from that epidemic too; you know? And yet they still said such awful things about me. I cried every day at that damn orphanage.
+でもコノハちゃんはね。そんなわたしを守ってくれた。\nまっすぐにわたしの手を取って、助けてくれた。\nかっこよかったなぁ。,You know the one silver lining through all of it? Konoha. She protected me back then. She took my hand without hesitation; and helped me through it. She was so cool...
+あなたの師匠は昔からとてもいい子で、面倒見がよかったのよ。\nあなたのこともきっと\nサキュバスに壊された村で見つけて放っておけなかったのね。,Your master was always such a good kid. Always looking after others. She must have found you in that village destroyed by succubi; and simply couldn't leave you behind.
+コノハちゃんがＣランクだったころだから、\nまだ15~16ぐらいのころかしら。そんなときに\n男の子一人拾ってわたしが面倒を見る！なんて大見得切っちゃって。,This was back when Konoha was still C-rank; so she must have been around 15 or 16. And there she was; making such a grand declaration that she'd take in and look after a boy all by herself!
+立派過ぎてちょっとびっくりしちゃうわよね。\nわたしみたいな日陰者の人間にはまねできないわ。,It was so admirable it's almost scary; don't you think? Someone like me; living in the shadows; could never hope to do the same.
+ふふ、牢屋にいて考える時間がたくさんあるからかしら。\n昔のこととか色々思い出して、つい話しちゃった。\nあんまり人にこういうこと話すことなかったのに。,Fufu; perhaps it's because I have so much time to think in this stupid cell. I ended up getting lost in the past and rambling without even thinking about it. I rarely share my past with anyone; but...
+{主人公}くんって優しそうだから、\nついつい話しちゃうの。そういうところコノハちゃんに似てるのかも。\n教育のたまものなのかしら。,{主人公}; you seem so kind that I can't help but open up to you. I guess you're a lot like Konoha in that way. I wonder if it's because of how she raised you.
 え？なんで泥棒の用心棒なんてやっていたのかって？\n前も言ったけど、生活が立ち行かなかったからよ。,Eh? Why did I work as a bodyguard for thieves; you ask? Like I said before; it was because I couldn't make ends meet.
-もちろんコノハちゃんに頼ることだってできた。\nでも、わたしもうこれ以上あの子に迷惑をかけたくなかったの。,Of course I could have relied on Konoha-chan. But; I didn't want to cause her any more trouble than I already had.
-ギルドに行って手続きするのは怖かったし、\n町で声かけられるのを待っていたら、\nすごく報酬のいいクエストを依頼されてね。これだって思ったわ。,I was too scared to go to the Guild and do the paperwork; and while I was waiting for someone to call out to me in town; I got offered a quest with really good pay. I thought "This is it!"
+もちろんコノハちゃんに頼ることだってできた。\nでも、わたしもうこれ以上あの子に迷惑をかけたくなかったの。,I guess I could have relied on Konoha. But I didn't want to cause her any more trouble than I already had.
+ギルドに行って手続きするのは怖かったし、\n町で声かけられるのを待っていたら、\nすごく報酬のいいクエストを依頼されてね。これだって思ったわ。,I was too scared to go to the Guild and do the paperwork; and while I was waiting for someone to reach out to me from town; I got offered a quest with really good pay. I thought "This is it!"
 でも実はクエスト自体が盗賊の罠でね。\n依頼の場所で待ち伏せされてて、大ピンチ。,But it turned out the quest itself was actually a trap set by thieves. They were lying in wait at the meeting spot; and I was in big trouble.
 薬の実験で眠り薬に耐性つけてなかったらやばかったなぁ。\nまあとにかくなんやかんやあって、\nカードで盗賊団を全員返り討ちにしたの。,If I hadn't built up resistance to sleeping drugs through my experiments; I would've been in real trouble. Well; anyway; long story short; I ended up defeating the whole bandit group with my cards.
 そしたらその盗賊団が「参りました！姐さんにこれからは従います！」\n「用心棒をしてくれればこれだけの金額を出します！」\nって言いだして。,And then those bandits were all like "We submit to you; Boss!" and "If you'll be our bodyguard; we'll pay you this much!" Just out of nowhere.
 頼られるのがうれしくてつい受けちゃったわ。\n,I was so happy to be relied on that I ended up accepting before I knew it.
 はぁ・・・。\n本さえあれば時間はいくらでもつぶせるけれど、\nごはんがおいしくないのが嫌な所ね。,*Sigh* With books; I can while away as much time as I want; but the disappointing food here is the real downside...
-固くなったパンと冷めたおかず。\n孤児院で食べてたものよりひどいなんて。\n甘いものでも食べたいわ。,Hard bread and cold side dishes. To think it's even worse than what we ate at the orphanage... I really want to eat something sweet.
+固くなったパンと冷めたおかず。\n孤児院で食べてたものよりひどいなんて。\n甘いものでも食べたいわ。,Hard bread and cold side dishes. It's even worse than what we ate at the orphanage; now that I think about it... I really want to eat something sweet.
 あ～あ～、はやく出たーい。\n看守が女じゃなければ、適当に誘惑して\nさっさとこんな場所おさらばするのに・・・。ん？,Ahhh~ I wanna get out so badly... If only the guard wasn't a woman; I could've just seduced them and said goodbye to this place... Hm?
-うわ、誰かと思えばわたしを守衛に突き出した男じゃない。\nあんたのせいでこっちは最悪よ、まったく。,Ugh; if it isn't the man who turned me in to the guards... Thanks to you; things couldn't be worse for me; honestly.
+うわ、誰かと思えばわたしを守衛に突き出した男じゃない。\nあんたのせいでこっちは最悪よ、まったく。,Ugh; if it isn't the man who turned me into the guards... Thanks to you; things couldn't be worse for me; honestly.
 男なら男らしく、\nこのおっぱいとかお尻で気持ちよくなってればいいのに。\n何人かカモにしてきたけど鼻を伸ばさなかった男はあんたぐらいよ。,If you're a man; act like one and enjoy these breasts and hips like you should. I've fooled plenty of men; but you're about the only one who didn't fall for it.
 （んー・・・？なんかめちゃくちゃおっぱい見てるわね。\nこいつ、鉄格子越しで安全だからって、油断してんのかな？）,(Hmm...? He's totally staring at my breasts though. I wonder if he's letting his guard down because he feels safe behind these iron bars?)
 （わざとらしく揺らしてやったらどうなるかな？\nよいっしょっと❤）,(I wonder what'll happen if I give them a deliberate bounce? Here we go~❤)
 うう・・・❤❤,Ohh...❤❤
-（ぷっ❤わかりやす❤）,(Pfft.❤ How predictable.❤)
-ねー、そんなにわたしのおっぱい気になる？\nチンポおっきくなってるのこっからでも分かるんだけど❤,Hey~ Are you really that interested in my breasts? I can tell your cock is getting bigger even from over here.❤
-牢屋越しに囚人のおっぱい見て勃起させるとか、\nいい趣味してんね。へんたーい❤\nくすくすくす❤,Getting hard from looking at a prisoner's breasts through jail bars; what refined taste you have. You per~vert!❤ *Giggle*❤
-へんたいのアンタにいいこと教えてあげよっか❤\nここの看守のヤツメはさ、\n決まった時間にいつも休憩を取るんだよね～。,Should I tell you something good; you pervert?❤ You see; the guards here always take their breaks at certain times~
-その時間にここに来れば、\nあんたにもっと「エロいこと」が待ってるかもよ❤,If you come here during those times; something more "naughty" might be waiting for you.❤
-あんたあのヤツメに信頼してもらってるんでしょ？\n休憩時間中でも入るぐらいできるよね～。,You're pretty trusted by Yatsume; aren't you? You should be able to get in even during break time~
-ふふふ❤それじゃまた来るのを待ってるから。\nあ、そうそう、エロいことしてほしいなら「差し入れ」持ってきてね。\nんじゃまたねー❤,Fufu.❤ I'll be waiting for you to come again. Oh; that's right; if you want those "naughty things" to happen; make sure to bring some "gifts." See you later~❤
+（ぷっ❤わかりやす❤）,(Pfft.❤ So predictable~❤)
+ねー、そんなにわたしのおっぱい気になる？\nチンポおっきくなってるのこっからでも分かるんだけど❤,Hey~❤ Are you really that interested in my breasts? I can see your cock getting bigger even from all the way over here~❤
+牢屋越しに囚人のおっぱい見て勃起させるとか、\nいい趣味してんね。へんたーい❤\nくすくすくす❤,Getting hard from looking at a prisoner's breasts through jail bars... You've got some pretty specific tastes. You pervert!❤ *Giggle*❤
+へんたいのアンタにいいこと教えてあげよっか❤\nここの看守のヤツメはさ、\n決まった時間にいつも休憩を取るんだよね～。,Should I tell you something good; pervert?❤ You see; the guards here always take their breaks at the same times.
+その時間にここに来れば、\nあんたにもっと「エロいこと」が待ってるかもよ❤,If visit me then; something more 'naughty' might be waiting for you.❤
+あんたあのヤツメに信頼してもらってるんでしょ？\n休憩時間中でも入るぐらいできるよね～。,You're pretty trusted by Yatsume; aren't you? You should be able to get in even during break time; right?~❤
+ふふふ❤それじゃまた来るのを待ってるから。\nあ、そうそう、エロいことしてほしいなら「差し入れ」持ってきてね。\nんじゃまたねー❤,Fufu.❤ I'll be waiting for you. Oh; that's right; if you want those 'naughty things' to happen; make sure to bring some gifts; okay? See you later~❤
