@@ -1,324 +1,326 @@
 default
-パトラ,
+パトラ,Patra
 F16_hipJob,
-体術にすぐれた蛇使いのカードマスター。現在ＤランクだがＣランク昇格も近いと言われている。能力が高い蛇モンスターを特殊召喚ですばやく盤面にそろえ、そこから速攻で相手を倒す戦術を得意としている。\n　基本的に誠実で真面目な性格だが、ふとした気まぐれで人の持っているものを奪いたくなる強欲さが顔を出すことがある。彼女の巧みな体術で本気で快楽を与えられれば、男の意思など軽く捻じ曲げられてしまうため、彼女との距離感には十分注意した方がよいだろう。,
-あら、期待のルーキーくんじゃない。\n昇格おめでとう。\nさすがにわたしを倒しただけはあったわね。,
-もしキャミーなんかに負けちゃったら、\nわたしショックで仕方ないわ。\nあの子普通のバトルはすごく弱いのよ。格闘とかもできないし。,
-でもちゃんと、あのおっぱいの快楽に負けずに勝ち上がった。\nそれでこそ、期待のルーキーよね。\nこの先もどんどん勝ちなさいね。ちょっとだけ応援してるわ。,
-それはさておき、ほら、バトルしましょう？\n闘技場では負けたけれど、今日は勝つわよ。\n蛇たちの力を、たっぷり味合わせてあげる❤,
-あら、期待のルーキーくんじゃない。\n今日は街で昇格試合前の肩慣らしというところかしら。\nどう？またわたしとバトルしてみない？,
-あなたの実力にとって、わたしはちょうどいい相手のはずよ。\nほら、カードを構えなさい。\n蛇たちの力を、たっぷり味合わせてあげる❤,
-あら、期待のルーキーくんじゃない。\n今日も街でバトルかしら。,
-あなたはわたしより格上だけれど、\n何度だって挑んでみせるわ。\n蛇ってしつこい生き物なの❤,
-ほら、バトルしましょう？\n闘技場では負けたけれど、今日は勝つわよ。\n蛇たちの力を、たっぷり味合わせてあげる❤,
-ふふ、またわたしとバトルしたいの？\n昇格戦を前にしてよっぽど緊張してるのね。\nいいわ、ギリギリまで調整に付き合ってあげる。,
-あなたはわたしより格上だけれど、\nこの間はわたしの勝ちだったわね。\n今日も勝たせてもらおうかしら❤,
-ん？前回のようにはいかない？\nそう、あなたが蛇に絡みつかれて耐えられるか、楽しみね❤\nさあ、いくわよ❤,
-あら、期待のルーキーくんじゃない。\nまた昇格戦前の調整？\nでもこの間みたいに負けちゃったら逆によくないわよ❤,
-わたしに負けて、負け癖ついて、\nエッチなことにどんどん弱くなっちゃうかも❤\nふーん、それでもまた試合を挑むんだ❤,
-いいわよ、いいバトルにしましょう❤\nやるからには全力で、蛇たちの力を、たっぷり味合わせてあげる❤,
-う・・・。強い。\nやっぱり実力が違うわね。\nありがとう、いい経験になったわ。,
-くす❤わたしの勝ちね❤\nびゅくびゅく射精できて気持ちよかった？,
-挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,
-{主人公}さん、こんにちは。今日は応援に来ちゃいました！\nここまでの連勝おめでとうございます。,
-・・・・！,
-闘技場での試合は順調なようですね。\nこの間までFランクだったのにすごいです！,
-そういえば{主人公}さんは、\nもうCランク昇格に十分なポイントが貯まっていますよね？,
-それなら今日の試合でもし勝てば、\nCランク昇格戦に挑戦できるようになりますよ！,
-ランクポイントが十分に貯まった選手同士で試合をし、\n勝った人だけが上のランクへの挑戦権を得る仕組みなんです。,
-逆に言えば今日の試合相手の人も昇格戦間近ということ。\nDランクの強者同士、厳しい試合になると思いますが、\n{主人公}さん、頑張ってください！応援してます！,
-ふふ、頼もしい目をしています。気合は十分という感じですね！\n試合楽しみにしています！,
-さあ、やってきました期待のルーキーの試合です！\nいまのところ初戦から３連勝！絶好調の{主人公}選手！,
-サキュバスに勝ったという彼の実力は本物のようです、\n今回もその力を見せてくれるのか！,
-観客席にふと目を向けると、受付さんがこちらに向かって手を振っていた。応援してもらえると思うと、なんだかうれしくなって元気が湧いてくる。この試合には負けられない！,
-さて、そんな連勝中の彼の試合の相手はこの人、パトラ選手です！,
-巧みな体術と蛇のモンスターが強力に相手を攻める！\nDランクでも上位のマスターです。\nこれまでのトリッキーなマスターたちとは一味違うぞ！,
-観客のみなさまはご存じの方も多いと思いますが、\n今日はお互いに昇格戦への挑戦を賭けた試合です！,
-勝った方が昇格戦に挑むことができ、\n負けた方はランクポイントを大きく没収されてしまいます。\nカードマスターにとって大事な一勝負・・・！,
-果たして彼女の猛攻に期待のルーキーは耐えられるのでしょうか！\nCランク昇格に近づくのは誰か。今回も目が離せません！,
-はじめまして。わたしはパトラ。\n強い新人が出てきたって聞いて、戦えるのを楽しみにしていたの。\n正々堂々戦いましょう。,
-よろしくお願いします！,
-僕が勝ちますよ！,
-元気がよくていいわね。\nいい試合ができそう。,
-あら、威勢がいいのね。\nわたし強い男って好きよ。あなたはどれほどかしら。,
-って、ふふ。わたしの脚、気になる？,
-・・・っ!,
-動きやすいようにスリットを入れているのだけれど、\n見ちゃう人もけっこういるのよね。,
-あなたが望むなら、\nこの脚であなたのこと絡めとって天国見せてあげる❤,
-蛇のように絡みつく下半身、\nその快感にとろけている間にすぐ試合が終わるわ。\nふふふ❤,
-ううっ・・・・❤,
-まったく、昇格戦のための大事な試合だっていうのに、男ってダメね❤,
-さあ試合をはじめましょ。\n軽くあしらってあげる❤,
-わたしの蛇モンスターたちに締めあげられても、\nその闘志を保てるのかしらね？ふふふ❤,
-決着ー！！勝者は{主人公}選手！,
-パトラ選手をまさかの速攻撃破！\nDランク上位の選手すら、この新人選手を止められないのか！,
-開始前はパトラ選手のふとももに見とれていたとは思えません。\n試合が始まればそこからは本気！\n怒涛の攻めでパトラ選手を下してしまった！,
-パトラ選手もさすがの強さ、\n{主人公}選手をあと少しまで追い詰めましたが、\n最後に勝ったのは{主人公}選手！,
-期待のルーキーはDランク上位のマスターを見事打ち破りました！\nこのまま一気にCランク昇格まで行ってしまうのか！,
-熱いバトルのすえ、Dランク上位のマスターを見事打ち破りました！パトラ選手も一歩も譲らぬ試合でしたが、{主人公}選手、危なげなく勝利です！,
-ううっ、強いわね。\n快楽を使って戦うようになってから、\n男性マスターに負けたのは初めてよ。,
-ここで勝てないのなら、\nまだわたしがCランクに上がるのは先になるみたい。\nあなたの活躍を応援しているわ。,
-闘技場Cランク昇格戦に挑戦できるようになりました。,
-闘技場の勝利報酬を得た！,
-始まる前から脚にメロメロね。\nあんまりエッチな攻撃で勝つのは好きじゃないのだけれど・・・。,
-そんな間抜けな顔されたらいじめたくなっちゃうわ❤\nくすくす❤,
-この脚で気持ちいいことされたい？\nそんな不埒なことを考えているならあなたの負けはすぐよ。,
-あなたの先攻ね。さあかかってきなさい。,
-わたしが先攻ね。行くわよ。,
-カードをドロー。,
-わたしのターン。カードをドロー。,
-モンスターをコストにして、{使用カード}を上級召喚！,I advance summon {使用カード} with this monster!
+体術にすぐれた蛇使いのカードマスター。現在ＤランクだがＣランク昇格も近いと言われている。能力が高い蛇モンスターを特殊召喚ですばやく盤面にそろえ、そこから速攻で相手を倒す戦術を得意としている。\n　基本的に誠実で真面目な性格だが、ふとした気まぐれで人の持っているものを奪いたくなる強欲さが顔を出すことがある。彼女の巧みな体術で本気で快楽を与えられれば、男の意思など軽く捻じ曲げられてしまうため、彼女との距離感には十分注意した方がよいだろう。,A cardmaster who specializes in snake monsters and martial arts. Currently D-rank but approaching promotion to C-rank. Her strategy revolves around rapidly deploying powerful snake creatures to overwhelm opponents before they can react.\nShe is generally honest and serious; though she has a greedy streak and will sometimes take things that catch her eye. In combat; her martial arts mastery allows her to pleasure men in ways that can bend them to her will. Keeping your distance is advisable when facing her.
+あら、期待のルーキーくんじゃない。\n昇格おめでとう。\nさすがにわたしを倒しただけはあったわね。,Oh my; if it isn't the promising rookie! Congratulations on your promotion. I'd expect nothing less from someone who defeated me.
+もしキャミーなんかに負けちゃったら、\nわたしショックで仕方ないわ。\nあの子普通のバトルはすごく弱いのよ。格闘とかもできないし。,If you had lost to someone like Cammy; I would have been absolutely devastated. That girl is so weak in normal battles. She can't even fight for real.
+でもちゃんと、あのおっぱいの快楽に負けずに勝ち上がった。\nそれでこそ、期待のルーキーよね。\nこの先もどんどん勝ちなさいね。ちょっとだけ応援してるわ。,But you managed to advance without giving into the pleasure of her breasts. I guess that's why they call you the promising rookie! Keep on winning from here on out. I'm rooting for you; just a little bit.
+それはさておき、ほら、バトルしましょう？\n闘技場では負けたけれど、今日は勝つわよ。\n蛇たちの力を、たっぷり味合わせてあげる❤,Anyway; hey; would you want to battle? I lost in the arena; but I know I'll win today. I'll let you thoroughly feel the power of my snakes!❤
+あら、期待のルーキーくんじゃない。\n今日は街で昇格試合前の肩慣らしというところかしら。\nどう？またわたしとバトルしてみない？,Oh my; if it isn't the promising rookie. Are you warming up in town before your promotion match today? Then how about it? Want to battle with me again?
+あなたの実力にとって、わたしはちょうどいい相手のはずよ。\nほら、カードを構えなさい。\n蛇たちの力を、たっぷり味合わせてあげる❤,I should be just the right opponent for your skill level. Come on; ready your cards. I'll let you thoroughly feel the power of my snakes!❤
+あら、期待のルーキーくんじゃない。\n今日も街でバトルかしら。,Oh my; if it isn't the promising rookie. Battling in town again today?
+あなたはわたしより格上だけれど、\n何度だって挑んでみせるわ。\n蛇ってしつこい生き物なの❤,You may be higher ranked than me; but I'll challenge you as many times as it takes. Snakes are persistent creatures; you know~❤
+ほら、バトルしましょう？\n闘技場では負けたけれど、今日は勝つわよ。\n蛇たちの力を、たっぷり味合わせてあげる❤,So; shall we battle? I lost in the arena; but I'll win today for sure. I'll let you thoroughly feel the power of my snakes!❤
+ふふ、またわたしとバトルしたいの？\n昇格戦を前にしてよっぽど緊張してるのね。\nいいわ、ギリギリまで調整に付き合ってあげる。,Fufu; you really want to battle with me again? You must be feeling quite nervous before your promotion match. Alright; I'll help you train until the very last minute.
+あなたはわたしより格上だけれど、\nこの間はわたしの勝ちだったわね。\n今日も勝たせてもらおうかしら❤,You may be higher ranked than me; but I won last time; didn't I? I'm certain I'll claim victory again today.❤
+ん？前回のようにはいかない？\nそう、あなたが蛇に絡みつかれて耐えられるか、楽しみね❤\nさあ、いくわよ❤,Hmm? It won't go like last time? I see; then I'm looking forward to seeing if you can endure being coiled by my snakes.❤ Now; here I come~❤
+あら、期待のルーキーくんじゃない。\nまた昇格戦前の調整？\nでもこの間みたいに負けちゃったら逆によくないわよ❤,Oh my; if it isn't the promising rookie. Practicing before another promotion match? But if you lose to me like last time; that wouldn't be good for you; you know~❤
+わたしに負けて、負け癖ついて、\nエッチなことにどんどん弱くなっちゃうかも❤\nふーん、それでもまた試合を挑むんだ❤,If you keep losing to me; you might develop a habit of losing; and become increasingly weak to naughty attacks.❤ Hmm; and yet you still want to challenge me?❤
+いいわよ、いいバトルにしましょう❤\nやるからには全力で、蛇たちの力を、たっぷり味合わせてあげる❤,Alright; let's have a good battle.❤ I'll go all out and let you thoroughly feel the power of my snakes!❤
+う・・・。強い。\nやっぱり実力が違うわね。\nありがとう、いい経験になったわ。,Ugh... You're strong. There really is quite the difference in our abilities. This fight was a good learning opportunity. Thank you.
+くす❤わたしの勝ちね❤\nびゅくびゅく射精できて気持ちよかった？,*Giggle*❤ Guess I won; huh?❤ Did it feel good to ejaculate so intensely?
+挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You haven't reached the rank points required to challenge (Current rank points: {ランクポイント}).
+{主人公}さん、こんにちは。今日は応援に来ちゃいました！\nここまでの連勝おめでとうございます。,Why hello; {主人公}. I thought I would come by and cheer you on today! Congratulations on your winning streak so far; by the way.
+・・・・！,....!
+闘技場での試合は順調なようですね。\nこの間までFランクだったのにすごいです！,You seem to be doing well in your arena matches. It's amazing to think you were only F-rank not too long ago!
+そういえば{主人公}さんは、\nもうCランク昇格に十分なポイントが貯まっていますよね？,By the way; {主人公}; you've already accumulated enough points for a C-rank promotion; right?
+それなら今日の試合でもし勝てば、\nCランク昇格戦に挑戦できるようになりますよ！,If you win today's match; you'll be able to challenge the C-rank promotion battle!
+ランクポイントが十分に貯まった選手同士で試合をし、\n勝った人だけが上のランクへの挑戦権を得る仕組みなんです。,Our system is set up in a way to ensure that only players who have accumulated enough rank points compete against each other; and only the winner gets the right to challenge for a higher rank.
+逆に言えば今日の試合相手の人も昇格戦間近ということ。\nDランクの強者同士、厳しい試合になると思いますが、\n{主人公}さん、頑張ってください！応援してます！,Conversely; that means that today's opponent is also close to promotion. It will no doubt be a tough match between two powerful D-rank masters. Even so; please do your best; {主人公}! I'll be cheering for you!
+ふふ、頼もしい目をしています。気合は十分という感じですね！\n試合楽しみにしています！,Fufu; you have such a determined look in your eyes. You seem to be fully motivated! I'm looking forward to watching the match!
+さあ、やってきました期待のルーキーの試合です！\nいまのところ初戦から３連勝！絶好調の{主人公}選手！,Ladies and gentlemen; let's get this match underway! Our first contender; with three consecutive wins under his belt and no defeats since his arena debut; here in top fighting form; we have the highly-anticipated rookie; {主人公}!
+サキュバスに勝ったという彼の実力は本物のようです、\n今回もその力を見せてくれるのか！,His skill in battle has left no doubt in his ability to face the succubi! Will he show us that power again today?
+観客席にふと目を向けると、受付さんがこちらに向かって手を振っていた。応援してもらえると思うと、なんだかうれしくなって元気が湧いてくる。この試合には負けられない！,Glancing at the audience seats; I could see the receptionist waving to me. When I think about having someone here to support me; I feel somehow happy and energized. There's no way I can lose this match!
+さて、そんな連勝中の彼の試合の相手はこの人、パトラ選手です！,Now; for his opponent! Here to challenge his winning streak; we have Patra!
+巧みな体術と蛇のモンスターが強力に相手を攻める！\nDランクでも上位のマスターです。\nこれまでのトリッキーなマスターたちとは一味違うぞ！,She's a powerful cardmaster who utilizes both skillful martial arts and her snake-type monsters! Even as a D-rank; she stands as a top-tier master. This opponent may prove far trickier than the ones our rookie has faced before!
+観客のみなさまはご存じの方も多いと思いますが、\n今日はお互いに昇格戦への挑戦を賭けた試合です！,I believe many of you in the audience are already aware; but today; both contestants are vying for a chance at a promotion match!
+勝った方が昇格戦に挑むことができ、\n負けた方はランクポイントを大きく没収されてしまいます。\nカードマスターにとって大事な一勝負・・・！,The winner will get that chance; while the loser will have a significant amount of rank points deducted. This will be a crucial match for both cardmasters...!
+果たして彼女の猛攻に期待のルーキーは耐えられるのでしょうか！\nCランク昇格に近づくのは誰か。今回も目が離せません！,Can the promising rookie withstand Patra's fierce onslaught? Who will get one step closer to that C-rank promotion? I know I say this a lot; but I just can't look away!
+はじめまして。わたしはパトラ。\n強い新人が出てきたって聞いて、戦えるのを楽しみにしていたの。\n正々堂々戦いましょう。,Nice to meet you. I'm Patra. I heard a strong newcomer had emerged recently; and I've been looking forward to fighting you. Let's have a good fight; fair and square.
+よろしくお願いします！,I look forward to our battle!
+僕が勝ちますよ！,I'll win for sure!
+元気がよくていいわね。\nいい試合ができそう。,You're full of energy; aren't you? That's wonderful. It looks like this'll be a great match.
+あら、威勢がいいのね。\nわたし強い男って好きよ。あなたはどれほどかしら。,Oh; you're quite spirited; aren't you? I rather like strong men. Though; I wonder; just how strong are you?
+って、ふふ。わたしの脚、気になる？,That said; fufu... Have you perhaps taken an interest in my legs?
+・・・っ!,...!
+動きやすいようにスリットを入れているのだけれど、\n見ちゃう人もけっこういるのよね。,The slits in my dress are only meant to make movement easier; but there are quite a few people who end up looking; you know?
+あなたが望むなら、\nこの脚であなたのこと絡めとって天国見せてあげる❤,If you desire; I'd be happy to wrap my legs around you and show you heaven~❤
+蛇のように絡みつく下半身、\nその快感にとろけている間にすぐ試合が終わるわ。\nふふふ❤,My lower body will entwine around yours; like a snake around its prey; and as you melt from the pleasure; the match will be over before it can even begin. Fufufu~❤
+ううっ・・・・❤,Ugh...❤
+まったく、昇格戦のための大事な試合だっていうのに、男ってダメね❤,Honestly; even in such an important match for promotion; men are still so hopeless; aren't they?❤
+さあ試合をはじめましょ。\n軽くあしらってあげる❤,Let's start the match. I'll take it easy on you~❤
+わたしの蛇モンスターたちに締めあげられても、\nその闘志を保てるのかしらね？ふふふ❤,I wonder... Will you be able to maintain your fighting spirit as my snake monsters tighten around you? Fufufu~❤
+決着ー！！勝者は{主人公}選手！,The match is decided! The winner is {主人公}!
+パトラ選手をまさかの速攻撃破！\nDランク上位の選手すら、この新人選手を止められないのか！,He has managed to strike down Patra with a surprising swift assault! It seems even the top-tier D-rank masters can't slow this rookie down!
+開始前はパトラ選手のふとももに見とれていたとは思えません。\n試合が始まればそこからは本気！\n怒涛の攻めでパトラ選手を下してしまった！,And to think; the rookie was mesmerized by Patra's thighs right before the match started. Once it had begun; however; he was nothing but serious! With a relentless attack; he managed to defeat Patra!
+パトラ選手もさすがの強さ、\n{主人公}選手をあと少しまで追い詰めましたが、\n最後に勝ったのは{主人公}選手！,Patra's strength was as impressive as always; and while she pushed her opponent to his limit. in the end; it was {主人公} who emerged victorious!
+期待のルーキーはDランク上位のマスターを見事打ち破りました！\nこのまま一気にCランク昇格まで行ってしまうのか！,The promising rookie has brilliantly toppled the top D-rank master! Fighting like this; could he truly continue this win streak all the way into C-rank?
+熱いバトルのすえ、Dランク上位のマスターを見事打ち破りました！パトラ選手も一歩も譲らぬ試合でしたが、{主人公}選手、危なげなく勝利です！,After an intense battle; they brilliantly defeated the top D-rank master! Although Patra put up a fierce fight; in the end {主人公} secured a decisive victory!
+ううっ、強いわね。\n快楽を使って戦うようになってから、\n男性マスターに負けたのは初めてよ。,Ugh; you're strong. This is the first time I've ever lost to a male master since I began using pleasure attacks.
+ここで勝てないのなら、\nまだわたしがCランクに上がるのは先になるみたい。\nあなたの活躍を応援しているわ。,It seems like it will still be a while before I'm ready to move up to C-rank if I can't even win here. I'll be cheering for you!
+闘技場Cランク昇格戦に挑戦できるようになりました。,You've become eligible to challenge for the Arena C-rank promotion match!
+闘技場の勝利報酬を得た！,I earned the victory reward from the arena!
+始まる前から脚にメロメロね。\nあんまりエッチな攻撃で勝つのは好きじゃないのだけれど・・・。,You're already crazy for my legs before the match has even started. I don't really like winning with overly lewd attacks; but...
+そんな間抜けな顔されたらいじめたくなっちゃうわ❤\nくすくす❤,If you make such an adorable face; I can't help but want to tease you~❤ *Giggle*❤
+この脚で気持ちいいことされたい？\nそんな不埒なことを考えているならあなたの負けはすぐよ。,Do you want me to pleasure you with my legs? If you're already thinking such indecent things; you're bound to lose in no time at all.
+あなたの先攻ね。さあかかってきなさい。,It's your turn first. Come on; bring it on.
+わたしが先攻ね。行くわよ。,I'll play first. Here I go.
+カードをドロー。,Draw a card.
+わたしのターン。カードをドロー。,My turn. Draw a card.
+モンスターをコストにして、{使用カード}を上級召喚！,Sacrificing my monster; I'll advance summon {使用カード}!
 {使用カード}を召喚！,Summon {使用カード}!
-さらにもう1枚発動！,
-特殊召喚に成功したとき,
-相手モンスターを破壊したとき,
-{&効果分岐セリフ}、{使用カード}の効果発動！自身に二回攻撃を付与！,
-{&効果分岐セリフ}、{使用カード}の効果発動！自身に連続攻撃能力を付与！,
-{&効果分岐セリフ}、{使用カード}の効果発動！相手プレイヤーに毒状態を付与するわ！,
-{&効果分岐セリフ}、{使用カード}の効果発動！相手プレイヤーに毒をプレゼントよ。,
-{&効果分岐セリフ}、{使用カード}の効果発動！自身の攻撃力を600ポイントアップ！,
-{&効果分岐セリフ}、{使用カード}の効果発動！攻撃力がアップするわ！,
-丸のみにしてあげる。{使用カード}の効果発動！{使用カード}の攻撃力よりHPが低いモンスター1体を場から取り除くわ！,
-ふふ、{使用カード}の効果発動！{使用カード}の攻撃力よりHPが低いモンスター1体を丸のみにするわ！,
-魔法カード{使用カード}を発動！\n手札から闇属性レベル４以下のモンスターを特殊召喚するわ。,
-魔法カード{使用カード}を発動！\n手札から闇属性の下級モンスターを特殊召喚するわ。,
-{使用カード}を発動！\n蛇モンスターに２回分のダメージ半減装甲を付与するわ。,
-守りを固めていくわよ。{使用カード}を発動！\nモンスターにダメージ半減装甲を付与するわ。,
-ふふ、攻撃は通さないわ。\n手札を１枚捨てて、トラップカード、{使用カード}を発動！,
-あなたの攻撃を無効にし、\nデッキから下級の爬虫類モンスターを特殊召喚！,
-残念、そこには罠がしかけてあるの。\n手札を１枚捨てて、トラップカード、{使用カード}を発動！,
-プレイヤーへの直接攻撃を無効にし、\nデッキからレベル４以下の爬虫類モンスター１体を特殊召喚する！,
-闇属性モンスターが破壊されたとき、\n1000LPを払い、{使用カード}を発動！,
-このカードが場に残っているならば、\n２ターン後に破壊されたモンスターを復活させるわ。,
-ただではやられないわよ。\n闇属性モンスターが破壊されたとき、1000LP払い、\n{使用カード}を発動！,
-時間が来たようね。よみがえりなさい！,
-魔法カードを発動！{使用カード}！,
-トラップカードを発動！{使用カード}！,
-装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-カードをセットするわ。,
-カードを伏せる。,
-わたしも行くわ。{防御カード}を攻撃！,
-わたしも攻めるわよ。{防御カード}に攻撃！,
-わたしからもイイことしてあげる。{防御カード}を攻撃！,
-快楽を味わいなさい。{防御カード}を攻撃！,
-力を見せてあげなさい。{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
-攻めるわよ。{使用カード}で{防御カード}を攻撃。,
-行きなさい。{使用カード}で{防御カード}を攻撃。,
-くっ、何もできないわね…。ターンエンド。,End turn.
-手札が厳しい…。ターンエンド。,End turn.
-ターンエンドよ。,
-これで終わりね。ターンエンド,
-ターンエンド。あなたのターンよ。,
-ううっ、あうう・・・❤,
-くすくす❤そんな意志の弱い子を復活させてどうするのかしら。\nすっかり夢心地で、心ここにあらずって顔をしてるわよ？,
-エッチな攻撃？そんなのするまでもないんじゃないかしら。,
-ほら、蹴りとばしてあげる。せやっ！,
-モンスターに喘がされて無防備ね？\nまずは小手調べ。わたしは普通に攻撃させてもらうわ。,
-気持ちいいことのあとに痛い目にあうのを繰り返していると\n脳がおかしくなっちゃうかもしれないわね。せいやっ！,
-まずは小手調べ。わたしは普通に攻撃させてもらうわ。,
-気持ちいいことと痛い目にあうのを繰り返していたら\n脳がおかしくなっちゃうかもしれないわね。せいやっ！,
-スリットから見えるわたしの脚、きれいでしょ？\nここでペニスを挟んであげると、みんなすぐにイっちゃうの。,
-たいていの相手は\nわざわざそんなことして上げる必要もないのだけれど\nあなたには特別。さあ、ふとももでイかせてあげるわね。,
-ふとももでペニスを絡み取ってあげる。ほら・・・❤,
-くすくす❤捕まっちゃったわね。\nさあこのまま白旗あげるまでふとももの間でしごいてあげるわ❤,
-蛇の締め付ける力は相当強いのよ？わたしの脚の力もそう・・・❤\nふとももでぎゅっと挟んであげれば、脱出なんてできないわ。,
-むっちりしてペニスに絡みついてきて感触はしっかり天国でしょ？\nほらほらほら、前後に扱いてあげるから、\n脚に捕まえられたまま射精してしまいなさい❤,
-たいていの相手は\nわざわざそんなことして上げる必要もないのだけれど、\nあなたには特別。さあ、ふとももでイかせてあげるわね。,
-うふふ、お尻であなたのペニス押しつぶしちゃう。ほら・・・❤,
-このポーズで体をくねくねされたらたまらないでしょ？\n骨抜きになりなさい❤,
-どうかしら、わたしのお尻❤\n張りがあって気持ちいいと思うのだけれど♪,
-ふふ、固くなったペニスが押し返してきてる。\n手でお尻をさわってもいいのよ。とろけている間にイかせてあげる❤,
-ふところに潜り込まれちゃったわね。\nほら、お尻でイイことしてあげる…❤,
-ペニスをむちむちのお尻で刺激されるのはどうかしら？\n抵抗するのも忘れちゃうぐらい気持ちいい？くすくす❤,
-あらお尻を押し付けられただけなのに、もうガチガチね❤\n固くて大きくてびっくりしちゃう❤,
-わたしのお尻の感触はどうかしら？\nあなたのペニスに負けないぐらい大きくて、\nでも意外とやわらかいでしょ？このまま腰を上下に動かせば・・・♪,
-ふふ、かわいい声が漏れているわね。\n気持ちよくて膝が震えちゃう？へたりこんでもいいのよ。\nそのときは、上から押しつぶしてあげる❤,
-ふふふ、わたしに攻撃してほしいの？\nせっかく昇格戦に手が届きそうなのに、自分から降参しちゃうのね❤\nもったいない❤,
-それも最初のターンでそんなお願いをしちゃうなんて。\nくすくす❤そんなにわたしの脚は魅力的だったかしら❤,
-わたしのスリットから見えるこの美脚、\n視界にチラチラして我慢できなくなってしまったのかしら❤,
-ねえ、どうやってイかされたい？\nお尻でつぶされながら扱いてほしい？\nそれとも脚をからみつけられたい？選んでいいわよ❤,
-くすくす❤マスターの大事な昇格戦がかかったこの試合、\nまさか手下のモンスターがおねだりに来るだなんて❤,
-目線は正直ね。スリットから覗くこの脚が気になるのでしょう？\nわたしの脚、きれいだものね❤,
-骨抜きの尻コキ,
-締めつける蛇脚,
+さらにもう1枚発動！,I'll play another card!
+特殊召喚に成功したとき,Whenever I successfully special summon a monster
+相手モンスターを破壊したとき,Whenever I destroy another monster
+{&効果分岐セリフ}、{使用カード}の効果発動！自身に二回攻撃を付与！,{&効果分岐セリフ}; I can activate the effect of my {使用カード} to double its attack!
+{&効果分岐セリフ}、{使用カード}の効果発動！自身に連続攻撃能力を付与！,{&効果分岐セリフ}; I can activate the effect of my {使用カード} and allow it to perform back-to-back attacks!
+{&効果分岐セリフ}、{使用カード}の効果発動！相手プレイヤーに毒状態を付与するわ！,{&効果分岐セリフ}; I can activate the effect of my {使用カード} to inflict the poison status on my opponent!
+{&効果分岐セリフ}、{使用カード}の効果発動！相手プレイヤーに毒をプレゼントよ。,{&効果分岐セリフ};I can activate the effect of my {使用カード} and give my opponent the gift of poison.
+{&効果分岐セリフ}、{使用カード}の効果発動！自身の攻撃力を600ポイントアップ！,{&効果分岐セリフ}; I can activate the effect of my {使用カード}! Increase your attack power by 600 points!
+{&効果分岐セリフ}、{使用カード}の効果発動！攻撃力がアップするわ！,{&効果分岐セリフ}; I can activate the effect of my {使用カード}! Its attack power increases!
+丸のみにしてあげる。{使用カード}の効果発動！{使用カード}の攻撃力よりHPが低いモンスター1体を場から取り除くわ！,Go and swallow our enemy whole. I activate the effect of my {使用カード}! I will remove one monster from the field with HP lower than her current attack power!
+ふふ、{使用カード}の効果発動！{使用カード}の攻撃力よりHPが低いモンスター1体を丸のみにするわ！,Fufu; I activate {使用カード}'s effect! She'll swallow one monster with HP lower than her attack power!
+魔法カード{使用カード}を発動！\n手札から闇属性レベル４以下のモンスターを特殊召喚するわ。,I'll activate the spell card {使用カード}! It allows me to special summon a level 4 or lower Dark Attribute monster from my hand.
+魔法カード{使用カード}を発動！\n手札から闇属性の下級モンスターを特殊召喚するわ。,I'll activate the spell card {使用カード}! It'll allow me to special summon a low-level Dark Attribute monster from my hand.
+{使用カード}を発動！\n蛇モンスターに２回分のダメージ半減装甲を付与するわ。,Activate {使用カード}! I'll grant one of my snake monsters armor that halves the damage it takes for two turns.
+守りを固めていくわよ。{使用カード}を発動！\nモンスターにダメージ半減装甲を付与するわ。,I'm going to strengthen my defense. Activate {使用カード}! I'll grant my monster damage-reducing armor.
+ふふ、攻撃は通さないわ。\n手札を１枚捨てて、トラップカード、{使用カード}を発動！,Fufu; your attacks won't get through. I discard one card from my hand and activate the trap card {使用カード}!
+あなたの攻撃を無効にし、\nデッキから下級の爬虫類モンスターを特殊召喚！,I'll negate your attack and special summon a low-level reptile monster from my deck!
+残念、そこには罠がしかけてあるの。\n手札を１枚捨てて、トラップカード、{使用カード}を発動！,Too bad for you; I have a trap set. I discard one card from my hand and activate the trap card {使用カード}!
+プレイヤーへの直接攻撃を無効にし、\nデッキからレベル４以下の爬虫類モンスター１体を特殊召喚する！,I can negate a direct attack aimed at me and special summon one level 4 or lower reptile monster from my deck!
+闇属性モンスターが破壊されたとき、\n1000LPを払い、{使用カード}を発動！,When a Dark Attribute monster is destroyed; I can pay 1000 LP to activate {使用カード}!
+このカードが場に残っているならば、\n２ターン後に破壊されたモンスターを復活させるわ。,If this card stays on the field for two turns; it will allow me to revive a monster from my graveyard.
+ただではやられないわよ。\n闇属性モンスターが破壊されたとき、1000LP払い、\n{使用カード}を発動！,I won't go down without a fight. When a Dark Attribute monster is destroyed; I can pay 1000 LP to activate {使用カード}!
+時間が来たようね。よみがえりなさい！,It seems the time has come. Rise from the dead!
+魔法カードを発動！{使用カード}！,I'll activate a magic card! {使用カード}!
+トラップカードを発動！{使用カード}！,I'll activate a trap card! {使用カード}!
+装備魔法カード発動！{使用カード}！,I'll activate an equipment spell card! {使用カード}!
+カードをセットするわ。,I'll set a card.
+カードを伏せる。,I'll place a card face down.
+わたしも行くわ。{防御カード}を攻撃！,My turn. I think I'll attack your {防御カード}; here I come!
+わたしも攻めるわよ。{防御カード}に攻撃！,I'll attack too. {防御カード}!
+わたしからもイイことしてあげる。{防御カード}を攻撃！,I'll do something nice for you as well. I'll attack {防御カード}!
+快楽を味わいなさい。{防御カード}を攻撃！,Savor the pleasure of my attack; {防御カード}!
+力を見せてあげなさい。{使用カード}で{防御カード}を攻撃！,Show them your strength; {使用カード}! Attack {防御カード}!
+攻めるわよ。{使用カード}で{防御カード}を攻撃。,I'm going on the offensive. I'll attack your {防御カード} with {使用カード}.
+行きなさい。{使用カード}で{防御カード}を攻撃。,Go ahead. {使用カード}; attack {防御カード}.
+くっ、何もできないわね…。ターンエンド。,Ugh; I can't do anything... End turn.
+手札が厳しい…。ターンエンド。,My hand is no good... End turn.
+ターンエンドよ。,Turn end.
+これで終わりね。ターンエンド,That's it for now. Turn end
+ターンエンド。あなたのターンよ。,Turn end. It's your turn.
+ううっ、あうう・・・❤,Ugh; ahh...❤
+くすくす❤そんな意志の弱い子を復活させてどうするのかしら。\nすっかり夢心地で、心ここにあらずって顔をしてるわよ？,*Giggle*❤ What are you hoping to achieve by reviving such a weak-willed servant? He's completely lost in a dream; with a look on his face as if his mind is elsewhere; see?
+エッチな攻撃？そんなのするまでもないんじゃないかしら。,A lewd attack? That's hardly necessary.
+ほら、蹴りとばしてあげる。せやっ！,Here; I'll start things off with just a kick. Take that!
+モンスターに喘がされて無防備ね？\nまずは小手調べ。わたしは普通に攻撃させてもらうわ。,You're completely defenseless; moaning under my monster's touch; aren't you? First; let's test how you handle this. I'll just attack you normally.
+気持ちいいことのあとに痛い目にあうのを繰り返していると\n脳がおかしくなっちゃうかもしれないわね。せいやっ！,If I keep you in a cycle of feeling good and getting hurt; your brain will most likely break. Take that!
+まずは小手調べ。わたしは普通に攻撃させてもらうわ。,First; let's test the waters. I'll just attack normally for now.
+気持ちいいことと痛い目にあうのを繰り返していたら\n脳がおかしくなっちゃうかもしれないわね。せいやっ！,If you keep going from feeling good to getting hurt; your mind should break. Here I go!
+スリットから見えるわたしの脚、きれいでしょ？\nここでペニスを挟んであげると、みんなすぐにイっちゃうの。,My legs are visible through the slit in my outfit. Aren't they beautiful? Whenever I squeeze a man's penis with them; he always ends up cumming right away.
+たいていの相手は\nわざわざそんなことして上げる必要もないのだけれど\nあなたには特別。さあ、ふとももでイかせてあげるわね。,I don't usually bother to do this for most my opponents; but you're special. Come on; I'll make you come with my thighs; okay?
+ふとももでペニスを絡み取ってあげる。ほら・・・❤,I'll wrap my thighs around your penis. Like this...❤
+くすくす❤捕まっちゃったわね。\nさあこのまま白旗あげるまでふとももの間でしごいてあげるわ❤,*Giggle*❤ Looks like I've caught you; huh? Now that I have you; I'll keep squeezing you between my thighs until you wave your white flag~❤
+蛇の締め付ける力は相当強いのよ？わたしの脚の力もそう・・・❤\nふとももでぎゅっと挟んであげれば、脱出なんてできないわ。,A snake's constriction power is quite strong; you know? The strength of my legs is no different...❤ Once I squeeze you tightly between my thighs; you won't be able to escape.
+むっちりしてペニスに絡みついてきて感触はしっかり天国でしょ？\nほらほらほら、前後に扱いてあげるから、\n脚に捕まえられたまま射精してしまいなさい❤,The way my plump thighs wrap around your penis is simply heavenly; isn't it? Here; next I'll start stroking you just like this; so go ahead and cum while your trapped by my legs~❤
+たいていの相手は\nわざわざそんなことして上げる必要もないのだけれど、\nあなたには特別。さあ、ふとももでイかせてあげるわね。,I don't need to go this far against most opponents; but you're special. Come here; I'll make you come between my thighs; okay?
+うふふ、お尻であなたのペニス押しつぶしちゃう。ほら・・・❤,Ufufu; I'll crush your penis with my butt. Here I go...❤
+このポーズで体をくねくねされたらたまらないでしょ？\n骨抜きになりなさい❤,Don't you find it just irresistible when I twist my body into a pose like this? Become completely captivated~❤
+どうかしら、わたしのお尻❤\n張りがあって気持ちいいと思うのだけれど♪,How do you like my butt?❤ It's so nice and firm; don't you think?♪
+ふふ、固くなったペニスが押し返してきてる。\n手でお尻をさわってもいいのよ。とろけている間にイかせてあげる❤,Fufu; I can feel your hardening member pushing into me. You can touch my butt if you want. I'll make you melt with pleasure until you cum~❤
+ふところに潜り込まれちゃったわね。\nほら、お尻でイイことしてあげる…❤,You've snuck into my kimono; haven't you? Here; I'll use my butt to do something nice for you...❤
+ペニスをむちむちのお尻で刺激されるのはどうかしら？\n抵抗するのも忘れちゃうぐらい気持ちいい？くすくす❤,How do you like being stimulated by my plump rear? Is it so good that you forget to resist? *Giggle*❤
+あらお尻を押し付けられただけなのに、もうガチガチね❤\n固くて大きくてびっくりしちゃう❤,Oh; you've already gotten so aroused from just having my butt pressed against you.❤ It's so much bigger and harder than I was expecting~❤
+わたしのお尻の感触はどうかしら？\nあなたのペニスに負けないぐらい大きくて、\nでも意外とやわらかいでしょ？このまま腰を上下に動かせば・・・♪,How does my butt feel? It's big enough for your penis and; but surprisingly soft; don't you think? If I keep moving my hips up and down like this...♪
+ふふ、かわいい声が漏れているわね。\n気持ちよくて膝が震えちゃう？へたりこんでもいいのよ。\nそのときは、上から押しつぶしてあげる❤,Fufu; you're letting out such cute noises. Does it feel so good that your knees are trembling? It's okay if you collapse. If you do; I'll just crush you from above~❤
+ふふふ、わたしに攻撃してほしいの？\nせっかく昇格戦に手が届きそうなのに、自分から降参しちゃうのね❤\nもったいない❤,Fufufu; are you just wanting me to attack you now? Despite being so close to promotion; you're just going to give up on your own; huh?❤ What a waste~❤
+それも最初のターンでそんなお願いをしちゃうなんて。\nくすくす❤そんなにわたしの脚は魅力的だったかしら❤,To ask for something like that on the very first turn. *Giggle*❤ Were my legs really that enticing?❤
+わたしのスリットから見えるこの美脚、\n視界にチラチラして我慢できなくなってしまったのかしら❤,Were the short glimpses of my beautiful legs through the slits in my dress so distracting that you couldn't help but stare?❤
+ねえ、どうやってイかされたい？\nお尻でつぶされながら扱いてほしい？\nそれとも脚をからみつけられたい？選んでいいわよ❤,Well then; how would you like me to make you cum? Do you want to be taken care of while being crushed by my butt? Or would you prefer to have my legs wrapped around you? I'll let you decide~❤
+くすくす❤マスターの大事な昇格戦がかかったこの試合、\nまさか手下のモンスターがおねだりに来るだなんて❤,Considering how important this promotion match is for your master; I'm surprised to see you begging.❤
+目線は正直ね。スリットから覗くこの脚が気になるのでしょう？\nわたしの脚、きれいだものね❤,Your eyes are so honest. You're curious about my legs peeking through the slits in my dress; aren't you? They're beautiful; don't you think?❤
+骨抜きの尻コキ,Weakening Assjob
+締めつける蛇脚,Snake-like Leg Squeeze
 なんでも,You decide
-そう、お尻で気持ちよくなりたいの❤,
-わたしの武術で整えたこのヒップライン、たっぷり堪能なさい❤\n蛇のように体をくねらせてあなたを腰砕けにしてあげる❤,
-そう、ふとももで締め上げられたいの❤,
-一度絡みついたら射精するまで離さない、わたしのふともも❤\nたっぷり堪能しなさい❤,
-ふふふ、わたしに攻撃してほしいの？\n闘技場では強かったのに、今日は自分から降参しちゃうのね❤,
-くすくす❤まさか手下のモンスターがおねだりに来るだなんて❤\n目線は正直ね。スリットから覗くこの脚が気になるのでしょう？\nわたしの脚、きれいだものね❤,
-くす❤お尻の裏でどくどく脈打ってる❤\nほら、全部出し切れるように、ぎゅうって潰してあげる❤,
-押されて残った分がどろっと出てきたわ。\nあら、ずいぶん幸せそうな顔ね❤\n女の尻につぶされてるのに喜んで、なんて情けないのかしら❤,
-くす❤蛇のようにしめつける脚は最高だったでしょう？\nチンポもまだふとももの中で膨らんでる❤\nこのしめつけがすっかり癖になってしまったみたいね❤,
-あら、逃げないの？脚とかお尻とか好きだから逃げられないんだ？,
-始まったばかりなのに、もう敵のマスターにメロメロ❤\nこのまま搾り取ってあげるわ❤,
-それなら追い討ちしてあげる。ほら・・・❤,
-くすくす、イクの？カードを一枚も使わないまま負けちゃうの？\nあはっ❤,
-ほら、もう終りね。イキなさい❤,
-あら、まだ逃げられる理性があったんだ…。\nお尻ですりすりするたびにあんなに幸せそうな顔をしてたのに❤,
-そんなガチガチになったら、もうあとは射精して負けるだけ。\n自分の欲望に素直になったほうが幸せよ？くすくす❤,
-きゃっ、もう乱暴ね。そんな風に引きはがさなくてもいいじゃない。,
-お尻で射精するの気持ちいいわよ？今からでも思いなおさない？,
-ほら、くねくね動いて擦ってあげる❤,
-蛇に捕まったら獲物は逃げられないの。あなたの場合は自分から逃げないみたいだけど❤,
-だんだん顔がとろけてきた…❤うっとりするほど気持ちいいの？,
-お尻でぎゅって潰されて、頭がしびれてきちゃうわよね。くすくす❤,
-負けたいのなら負けていいのよ❤また次の試合を頑張りなさい❤,
-負けたいのなら負けていいのよ❤マスターのことなんて忘れさせてあげる❤,
-気持ちよさそうな声が漏れているわね。ふふふ、どれだけ耐えられるかしら。,
-頑張って振り払わないと負けちゃう❤でも、力が入らないのよね❤,
-快楽に絡めとられて敗北へ一直線❤あなたのペニス、射精したくて震えているわ。,
-顎をなでられてうっとりしているの？子犬みたいね。かわいい❤,
-髪の毛のにおい嗅いでいるのね。わたしの体、いいにおいする？くすくす❤,
-射精すれば試合は終わり。お尻がどれだけ気持ちよくてもがんばって我慢しなさい❤,
-わたしに負けなさい❤快楽におぼれて試合なんて捨ててしまうの。,
-あなたが射精してもマスターや他のモンスターが頑張るわ。だから我慢する必要なんてないの。,
-わたしに負けなさい❤快楽におぼれてマスターの命令なんて忘れてしまうの。,
-負けたいのなら負けていいのよ❤また次のバトルを頑張りなさい❤,
-射精すれば勝負は終わり。お尻がどれだけ気持ちよくてもがんばって我慢しなさい❤,
-わたしに負けなさい❤快楽におぼれて勝敗なんて捨ててしまうの。,
-あぅぅ……❤,
-あらあら…❤期待のルーキーくんはもう我慢できないの？\n噂で聞くよりずいぶんと理性が弱いわね❤\nわたしの脚を見ながら、はぁはぁしちゃって。くすくす❤,
-少しは熱い試合を楽しめるかと思ったけれど、\nま、いいわ。\n楽に勝たせてくれるなら、昇格戦に魔力を温存できるもの。,
-まだほとんど何もされてないのに、\n勝手にわたしの脚にメロメロになって情けない顔…❤\n自滅しやすいように少しだけ手伝ってあげる❤,
-あらあら…❤まさか我慢できなくなったの？\nＣランクへの挑戦権を賭けた大切な試合なのに、わたしの脚で\nはぁはぁしちゃって。くす❤男って本当にダメね❤,
-まだまだ戦い足りないけど…。\nあなたの顔を見る限り、もう勝負にならないわね❤\nシコシコしごいて気持ちよさそう❤,
-蹴りのスピードじゃ、ゆっくり脚を眺めたりもできないでしょう？\nほら、スリットから脚をゆっくり前に出して、ちらり❤\nわたしのふともも、じーっと見ていいわよ❤,
-ううっ、はぁ、はぁ…❤,
-鍛えているからよく引き締まっているでしょう？\nでも、男にとっては筋肉より脂肪の方が魅力的なのかしら。\nわたしの自慢の脚❤ここにチンポ絡めとられたい？,
-ほら、もっと見えるように、ゆっくりと脚を高くあげてあげる❤\nほとんど真上まで上げられるのよ？柔らかいでしょう❤\n格闘技には柔軟性も必要なの❤,
-ああっ…❤きれい…❤,
-ぷっ、試合中に相手の体を褒めるなんて、ピュアな子ね❤\nありがとう❤素直に受け取っておくわ。,
-ほら❤バランス感覚も良いでしょう？\n片足で立ったまま脚を舞うように動かすこともできるわ❤\n例えば、足先で何かを擦るようにすることだって簡単・・・♪,
-わたしの足でチンポを踏まれるのを想像しちゃう？\nそれともただ脚を見ているだけで頭ボーっとして、\nムラムラが押さえられなくなっちゃう？,
-ふふふ❤手の動き止まらないわね。シコシコ❤シコシコ❤\nわたしの脚を目で追いながら、両手で握って、シコシコシコ♪\nあなたのファンもがっかりの光景よ❤,
-せっかく無敗で進んできたのに、ほんとにいいのかしら？\n先輩としてちょっと心配になっちゃう。\nほら、よく考えて。昇格の代わりがオナニー。ほんとに、それでいいの？,
-うぅ……っ❤ダメ…。ダメだけどぉ…。ううっ❤,
-あん❤そんなうるんだ目でわたしのこと見て…❤\nしょうがないわね。ほら、とどめを刺してあげる。\nそっちの方が結果的に恥をかく時間も短くて済むはずよ。,
-ほら、亀頭の上に足の裏をかぶせるみたいに、ゆっくり近づけて…❤\n触れるか、触れないかのところで、ゆら、ゆら・・・♪,
-目の前にはわたしの美脚。チンポの先にはわたしの足裏…❤\n足フェチくんには刺激が強すぎるんじゃない？\nほら、シコシコしてどぴゅって出していいのよ❤,
-もうふとももしか目に入ってないのね❤\n最後に、ちらり❤ショーツ、見せてあげるわ❤\nさぁ、イキなさい❤,
-あ、うぁ……っ！❤,
-ん❤たっぷり出たわね。\nふふ、放心した顔しちゃって。\nなに、やり遂げたみたいな気分になっているのかしら。,
-あなたがやり遂げなきゃいけなかったのは、\n試合よ。試合。オナニーじゃないの。くすくす❤\nもう、男の子はダメね❤魔力がよくても性欲に弱すぎるわ。,
-うう……❤,
-・・・・。,
-はあ、男ってこれだから嫌になっちゃうわ。\n戦いの場で快楽に流されて・・・。\nあげくの果てに自分から敵にひざまづいてオナニーしだすなんて。,
-召喚されてから一度も戦ってないわよね。それでシコシコ、シコシコ。\nなに？わたしに一目惚れでもしちゃった？\n信じられないくらい弱いわね。マスターに悪いと思わないのかしら。,
-アナタのマスターにとって大事なこの試合。\nそれなのに自分のチンポを触ることを優先とはね。\nシコシコ猿みたいに扱いて、マスターに申し訳ないと思わないのかしら,
-くうぅ……❤それはぁ…❤,
-あなたのような軟弱者に何かしてあげるつもりなんて更々無いわ。\n勝手にしごいて、勝手に負けて、\nさっさと退場しなさい？,
-どうせこうやって見下ろしてあげれば、\nそれだけで興奮するんでしょう？この変態マゾ。,
-あひぃ……❤,
-罵倒されてすぐに射精。\nこらえ性がないのは理性だけじゃなくてペニスもそうみたいね。\nどうして彼はあなたみたいな弱いモンスターを使っているのかしら。,
-・・・。さ、仕切りなおしね。\nあなたのしもべが勝手に自滅して不利になった状況だけど。\nまだまだ戦いはこれからよ。楽しませてちょうだい。,
-はあ…。次はあなたなの？\n少しは楽しめる相手かと思ったのに。,
-しもべが罵倒されているのを見て羨ましくなっちゃったのかしら？\nしもべもマゾならマスターもマゾ。\nさっきのしもべの有様も納得ね。,
-まあいいわ。それならわたしは楽に昇格戦に進ませてもらうだけ。\nほら、あなたのオナニー止まらなくしてあげる・・・❤,
-私の脚を見なさい……❤\n深いスリットから見える脚を\nこうやってゆっくり動かしてあげるわ❤,
-ごくっ…❤きれいだ……❤,
-ありがとう❤これも毎日の練習の成果よ❤\nほら❤バランス感覚も良いでしょう？\n片足で立ったまま脚を舞うように動かすこともできるわ❤,
-ふふふ❤どんどん手の動きが早くなっている❤\nわたしの脚を目で追いながら両手でシコシコ❤\nあなたのファンもがっかりの光景ね❤,
-Cランク目前まで無敗で進んできたのに、\n女の脚なんかにムラムラして、ほんとにそれでいいのかしら？\n,
-昇格の代わりがオナニーよ？\nくすくす❤一時の快楽のために、馬鹿みたい❤,
-うぅ……っ❤ダメ、なのにっ❤ああっ❤,
-もうイキそうって顔ね❤私の脚にかけてもいいわよ❤\nかけやすいように近づいてあげるわ。,
-ふふ❤このまま膝蹴りされたら避けるのも難しい距離ね❤\nあまりに無防備で笑っちゃう❤\n警戒しなくてもいいのかしら？,
-はい、これでおしまい❤たっぷり魔力を出したようね❤\nしもべだけじゃなくてあなたも私の脚にメロメロ❤\nお似合いの主従だわ❤くすくす❤,
-はぁ、あなたもなの？\nせっかく仕切りなおすつもりだったのに……。\nマゾの仲間はマゾばかりね。,
-よく考えなさい？\nさっきの男もただバカにされながらシコってただけよ？\nあれがうらやましいとかただの変態だわ。,
-あなたのような裏切り者に何かしてあげるつもりなんて更々無いわよ。\nあなたもさっさと射精して退場しなさい？,
-わ、わかりました❤そうしますぅ❤,
-はっ。返事だけは一人前ね。\nあなたがその態度を示すべき相手はあなたのマスター。\nわたしの脚にハァハァしながらいう言葉じゃないわ。,
-あなたも召喚されてから一度も戦ってないわよね。\nなに？揃いもそろってわたしに一目惚れでもしちゃった？\n次々裏切って、マスターに悪いと思わないのかしら。,
-アナタのマスターにとって大事なこの試合。\nそれなのに自分のチンポを触ることを優先とはね。\nシコシコ、猿みたいに扱いて、マスターに申し訳ないと思わないのかしら。,
-罵倒されているのにむしろ手が早くなっている。\nはいはい、マゾはこれが気持ちいいのよね。\n呆れて言葉が出ないわ。,
-ここで射精したら、あなたは間違いなく役立たず。\nもしかしたらデッキから外されて、もう二度と\n召喚してもらえないかもしれない。それでもシコるのが最優先。,
-ふふ、ほんとに理性が弱いのね。\nいつまでもシコシコしていないで早く終わらせてくれない？\nほら、命令よ。,
-イキなさい。マゾ❤,
-ようやく終わったわね。\nまったく、これじゃあ本当に勝負にならないわ。\n次から次へと自滅するのだもの。,
-これ以上は時間の無駄かもしれないわね\n自爆するしもべばかりの相手と楽しい戦いができるはずもないわ。\nさっさと終わらせてしまいましょうか。,
-あっ・・・❤あああっ❤がまんできないっ・・・❤,
-あらあら、オナニーで負けちゃうの？\n闘技場では強かったのに、今日は全然ダメね❤,
-昇格試合でわたしに勝てたのはまぐれだったかしら？\nくす、もし今度闘技場で戦うことがあったら、\n次は楽勝かも❤,
-モンスターが1体自滅して、そのうえ相手マスターは全回復❤\nだいぶ有利になったことだし、今日は勝たせてもらおうかしら❤,
-あらあら、あなたもオナニーで負けちゃうのね❤\nくす、みんな仲良く自滅して、\n連帯感があるんだかないんだか❤,
-でも手下みんなで裏切ったら、マスターくんがかわいそうよ？\nふとももオカズにシコシコして、\nそんな蕩けた顔しちゃったあなたに言っても仕方ないか❤,
-大切な試合なのに自滅するなんて、もったいない負け方❤\nまあそれだけ気持ちよさそうな顔になれたなら、\n本人としては満足なのかしら。くすくす❤,
-わたしのお尻に耐えられなかったわね❤\n温かい精液でべっとり……❤そんなに気持ち良かった？,
-期待のルーキー君も噂ほどではなかったわね。私の勝ちよ❤,
-ふふ❤ふとももに挟まれただけで出ちゃうなんて……❤\n本当にサキュバスに勝てたのかしら。,
-うふふ、自滅シコシコ気持ちよかったかしら？\n闘技場でもそうやって負けてくれると楽だったのに❤\nぷっ、くすくすくす❤,
-ふふ❤ふとももに挟まれただけで出ちゃうなんて……❤\n今日はわたしが勝っちゃったわね❤,
-{自分}に敗北した僕は、エナジーを失い、地面に膝をついていた。,
-決着ー！！Cランクへの昇格戦を賭けた戦いを制したのはパトラ選手！\n連勝無敗のルーキーも、Dランク上位マスターには歯が立ちませんでした！,
-私の勝ちね♪\nルーキー君も中々強かったけど、\nまだまだ粗削りな部分が多いわ。,
-私の勝ちね♪\nあんまりあっけなさすぎて、ちょっと気が抜けちゃう。\nお尻とか脚に負けないように、ちゃんと修行しないとダメよ？くすくす❤,
-とはいえ、これまで戦ってきた男のマスターの中では、魔力はイチバンかも。\n快楽攻撃に強くなればもっといい勝負ができたかもしれないわね。,
-くうっ・・・。ま、まだやれる・・・。,
-観客席に目をやると、受付さんが心配そうにこちらを見ている様子が目に入った。,
-今日はわざわざ応援に来てくれたのだ。知り合いが見ている試合で、あまりに不甲斐ない姿は見せられない。,
-ふーん。そういうこと。,
-パトラさんは僕の視線の先に気づいたのか、にやりと笑った。,
-あの子、ギルドの受付の子よね。\n胸も大きくてかわいくて、男性マスターたちから人気がある女の子。\nあなたも、あの子のこといいなって思っているの？,
-ふふ、そういうの見ると、ちょっとからかいたくなっちゃうわ。,
-蛇ってね、分け合うことを知らない、強欲な生き物なの…❤\nあなたが誰かに取られるかもって思ったら、\nあなたのことわたしの支配下に置きたいって、変な欲が湧いてきちゃう,
-ま、脚を見ただけで自爆オナニーしちゃうような男の子なんて、\n奪うまでもなく、\nあちらから願い下げかもしれないけれど。くすくす❤,
-ま、お尻を押し付けられただけで、射精しちゃったような男の子なんて、\n奪うまでもなく、\nあちらから願い下げかもしれないけれど。くすくす❤,
-ま、ふとももを押し付けられただけで、射精しちゃったような男の子なんて、\n奪うまでもなく、\nあちらから願い下げかもしれないけれど。くすくす❤,
-さて、あんまり敗者をいたぶるのは好きじゃないのだけれど・・・♪,
-や、やめっ・・・ああ❤,
-わたしのお尻をセクシーにこすりつけてあげる❤\nあら、すでにガチガチなのね❤,
-わたしが「あなたを支配下に置きたい」なんて言ったから、\nマゾのあなたは興奮しちゃったのかしら❤,
-お尻の下でペニスがびくびくしてる❤\n腰をくねらせてあげれば、ふふ❤悶えちゃうのよね❤,
-ま、まって・・・降参する、降参するからぁ❤,
-いまさらそんな事言っても遅いわよ❤\nこんなにペニスを大きくして満更でもないのでしょう？,
-私の自慢は脚だけじゃないの。\n大きくて柔らかいお尻もそう❤たっぷり味合わせてあげる❤\nそしてあの子の前で、恥ずかしいところたっぷり晒させてあげる❤,
-お尻の肉でペニスを挟んでズリズリ❤\nふふふ、節操なく震えているわ❤\nかっこわるい姿見せたくないのに、気持ちよくなっちゃうわね❤,
-ううう❤み、見ないで・・・❤\nやめてぇ・・・❤,
-僕は恥ずかしさから顔を手で覆って必死に隠した。その様子を見たパトラさんはとても楽しそうに、にやにや笑って、むしろ体をくねらせる速度を上げていく。,
-くすくす❤やめてなんて言わなくても、自分のチンポでしょう？\nあなたが心を強く持って、女の体になんか興奮しないって\n頑張ればいいだけの話よ❤,
-かわいいあの子が応援に来ているのに、\nお尻で潰されて、ズリズリされて…❤\nたったそれだけでこんなにチンポを固くして…❤,
-まだ戦えるとか言ってたのに、\n実際は敵のお尻でグリグリされてアンアン喘いでるだけ❤\nきっと受付ちゃんもあなたに幻滅しちゃうでしょうね❤,
-ほら、もっとシャキッとしなさい。\n武器を構えて、カードを使って、\nもう一度戦うんでしょう？,
-ペニスの根本から先っぽまで丁寧にズリズリされても❤\nお尻でむぎゅって潰されてチンポをぐりぐり圧迫されても❤\nシャキッとしてないとダメ❤,
-そんな心底蕩けたような顔、あの子に見せちゃダメよ。\nくすくす❤,
-はあ❤はあ❤うう・・・❤,
-先走りでお尻がべとべと❤\nもう射精したくて仕方ないって感じね❤\nビクビク跳ねて、もう限界・・・❤,
-ねえ、蛇ってね、獲物はゆっくり消化するの。\n丸のみにして、もう逃げられなくなったら、あとはじんわり溶かすだけ。\nだから、ね…❤わたしもこういういじわるしちゃう❤,
-あっ❤なんで、はあ❤あぁ・・・❤,
-パトラさんは、激しくくねらせていたお尻の動きを急に緩慢にした。押し付けられる感触はあいかわらず極上なのに、こすりつける速度があまりにゆるやかで、もどかしい快感に頭がどうにかなりそうになってしまう。,
-くすくす❤かわいい顔ね❤\n他の女なんて目に入らず。わたしだけを見てる顔❤\n射精をおあずけされたからってダメじゃない❤とっても物欲しそうよ❤,
-責めがゆっくりになって、あなたにとってうれしいはずでしょう？\nだって、情けなく射精するところを見られなくて済んだのよ。\nほら、あとはわたしを突き飛ばして、逃げるだけ❤,
-ちゃんと振り払えたら、追い討ちもしないであげる。\nお尻でいじめられる、つらーい時間も終わりよ❤,
-そうすればあとは、あの子と今日の試合の反省会でもして、\n次を頑張ればいいわ。\nあなたはルーキーだし、そこまで幻滅されずに済むかもね…♪,
-でも、そんな終わり方でいいのかしら？,
-ほらほら…❤\n気持ちいいでしょう？わたしのお尻…❤,
-あなたのペニスは射精したくてたまらないって感じね❤\nもっとお尻でズリズリして欲しい❤グリグリって押し潰してほしい…❤\nそう言ってるみたいに震えてる❤,
-ほら、魔力が精液に溶け始めてる❤\nイキたくてイキたくてたまらない、早く出してぇ❤って\nおちんちんがわたしのお尻におねだりしてるのよ❤,
-でも、まだダメ…❤,
-はうう❤ま、また、寸止め・・・っ。,
-イキたい？ならどうすればいいのか、わかるわね？,
-うっ、うううっ…❤パトラさん、パトラさんっ❤❤,
-あん❤はげしい❤\nセックスするみたいに、一生懸命腰振っちゃって❤\nルーキーくんは、セックスも「初心者」なのかしら？,
-ほら、お姉さんがリードしてあげる❤お尻にぴったりチンポを沿わせて\n腰を動かすタイミングを私に合わせなさい❤\nそうそう、上手よ❤息を合わせた方がとっても気持ちいいでしょう❤,
-き、気持ちいい・・・❤,
-ねえ、わたしのこと、どんどん好きになるでしょ？\nそんな顔して腰振り始めちゃったら、もうあの子に言い訳できないわね？,
-気持ちいい事が大好きなあなたは、\nあの子の応援に応えることなんかより、\n私のお尻に精液を出す方が大切だものね❤,
-くす❤首を振って否定することもできないのね。\nいいわよ。今度はちゃんとイカせてあげるわ❤\nほら、逃げ場もないくらいぎゅって押し付けて…❤私のお尻でイキなさい❤,
-あっああっ、もう……でるぅ❤,
-あは、すごい量…❤\n焦らして搾り取られた気分はどう？\n弄ばれるのも悪くないって思っちゃうでしょ？,
-あら、思った以上に魔力がたっぷり溶けてるわ。\nほんと、才能だけでいえば、あなたすごいものを持っているのね。\nこれのおかげで試合で使った魔力も全快よ。,
-ま、才能だけあっても、チンポがこんなに弱くちゃ、\nどうにもならないと思うけれど。くすくす❤,
-そうだ。今度から私が稽古をつけてあげましょうか❤\nお尻でズリズリ、ズリズリってね❤\n快楽攻撃は慣れるのが一番だもの・・・❤,
-パトラはそういって、自分のふとももからお尻を指でなでてみせた。あんなに射精したばかりだというのに、あまりにエロいその光景に、完全に釘付けになってしまう。,
-あうう・・・お、おねがいしますぅ・・・❤,
-当然、この誘いを断ることもできなかった。受付さんのことも、修行でＡランクを目指していることも、完全に頭から消えてしまっていた。,
-そのひどく間抜けな蕩け顔を見て、パトラさんはとてもうれしそうに微笑む。,
-うふふ、決まりね❤\nあなたはわたしのもの❤\nやるからにはしっかり鍛えてあげるわ❤,
-こうして僕はパトラさんに稽古をつけてもらうようになった。稽古とは名ばかりで魔力を奪われるだけかとも思ったが、パトラさんは面倒見がよく、意外にもちゃんと特訓をしてくれた。,
-しかし、カードの使い方は上達しても、パトラさんのお尻に完全に魅せられてしまった僕は、彼女に性的な訓練をしてもらうたびに、むしろ弱点を植え付けられるかのように快楽に弱くなっていってしまった。,
-パトラさんが見事Cランクに上がったあとも、僕は十分な戦績を残すことはできず、今のランクで停滞する日々が続いた。心配した受付さんは僕に特訓をやめて別の修行をするべきだと諭したが、僕は聞き入れなかった。,
-パトラさんとの修行はそのときの僕にとって、すでにほかの何物よりも大事なものになってしまっていたから…。,
-こうして成長をやめてしまった僕はの冒険は、ここで幕を閉じたのだった。,
+そう、お尻で気持ちよくなりたいの❤,So; you want to make you cum with my butt.❤
+わたしの武術で整えたこのヒップライン、たっぷり堪能なさい❤\n蛇のように体をくねらせてあなたを腰砕けにしてあげる❤,Then I'll let you enjoy this perfectly-toned hip line I've sculpted through martial arts to your heart's content.❤ I'll writhe my body against you like a snake and make your knees weak~❤
+そう、ふとももで締め上げられたいの❤,So; you want to be squeezed tight by my thighs.❤
+一度絡みついたら射精するまで離さない、わたしのふともも❤\nたっぷり堪能しなさい❤,Once I wrap my thighs around you; I won't let go until you cum.❤ So enjoy them to the fullest~❤
+ふふふ、わたしに攻撃してほしいの？\n闘技場では強かったのに、今日は自分から降参しちゃうのね❤,Fufufu; you want me to attack you? You were so strong in the arena; but looks like today you're surrendering all on your own.❤
+くすくす❤まさか手下のモンスターがおねだりに来るだなんて❤\n目線は正直ね。スリットから覗くこの脚が気になるのでしょう？\nわたしの脚、きれいだものね❤,*Giggle*❤ I never expected one of the rookie's servants to come begging like this.❤ Your eyes are so honest. You're curious about these legs peeking through the slits in my dress; aren't you? My legs are beautiful; don't you think?❤
+くす❤お尻の裏でどくどく脈打ってる❤\nほら、全部出し切れるように、ぎゅうって潰してあげる❤,*Giggle*❤ I can feel you throbbing against the underside of my butt.❤ Here; I'll squeeze you tight; so go ahead and release it all for me~❤
+押されて残った分がどろっと出てきたわ。\nあら、ずいぶん幸せそうな顔ね❤\n女の尻につぶされてるのに喜んで、なんて情けないのかしら❤,The rest came out with a thick splash when I pressed down. My; what a happy face you're making~❤ You must really have enjoyed being crushed by a woman's ass. How pathetic~❤
+くす❤蛇のようにしめつける脚は最高だったでしょう？\nチンポもまだふとももの中で膨らんでる❤\nこのしめつけがすっかり癖になってしまったみたいね❤,*Giggle*❤ Having my legs squeeze you like a serpent felt amazing; didn't it? I can still feel your cock swelling between my thighs.❤ Looks like you've become completely addicted to my tight grip~❤
+あら、逃げないの？脚とかお尻とか好きだから逃げられないんだ？,Oh; you're not going to try and run away? Is it because you love legs and butts too much to want to escape?
+始まったばかりなのに、もう敵のマスターにメロメロ❤\nこのまま搾り取ってあげるわ❤,The battle's just begun; yet you've already fallen head-over-heels for the enemy master.❤ In that case; I'll milk you dry just like this~❤
+それなら追い討ちしてあげる。ほら・・・❤,Then I'll finish you off. Watch...❤
+くすくす、イクの？カードを一枚も使わないまま負けちゃうの？\nあはっ❤,*Giggle* Are you cumming? Are you really going to lose without using a single card? Ahaa~❤
+ほら、もう終りね。イキなさい❤,In that case; I'll end it now. Cum for me~❤
+あら、まだ逃げられる理性があったんだ…。\nお尻ですりすりするたびにあんなに幸せそうな顔をしてたのに❤,Oh; so you still had enough willpower left to escape... But you had such a blissful expression every time I rubbed my butt against you~❤
+そんなガチガチになったら、もうあとは射精して負けるだけ。\n自分の欲望に素直になったほうが幸せよ？くすくす❤,When you're this hard; all that's left is to ejaculate and lose. Wouldn't it be better to just be honest with your desires? *Giggle*❤
+きゃっ、もう乱暴ね。そんな風に引きはがさなくてもいいじゃない。,Kyaa; you're being so rough. There's no need to pull away so violently.
+お尻で射精するの気持ちいいわよ？今からでも思いなおさない？,Don't you think it'd feel so good to cum against my butt? Won't you reconsider before it's too late?
+ほら、くねくね動いて擦ってあげる❤,Look; I'll wiggle and rub against you.❤
+蛇に捕まったら獲物は逃げられないの。あなたの場合は自分から逃げないみたいだけど❤,Once caught by a snake; prey has no hope of escape. Though in your case; it seems you wouldn't try to escape if you could.❤
+だんだん顔がとろけてきた…❤うっとりするほど気持ちいいの？,Your face is starting to melt...❤ Have you been entranced by the pleasure?
+お尻でぎゅって潰されて、頭がしびれてきちゃうわよね。くすくす❤,When squeezed tight by my butt; your head starts to go numb; doesn't it? *Giggle*❤
+負けたいのなら負けていいのよ❤また次の試合を頑張りなさい❤,If you want to lose; then you should just go ahead and do it.❤ You can always try harder in the next match.❤
+負けたいのなら負けていいのよ❤マスターのことなんて忘れさせてあげる❤,If you want to lose; then you should just go ahead and do it.❤ I'll make you forget all about that master of yours~❤
+気持ちよさそうな声が漏れているわね。ふふふ、どれだけ耐えられるかしら。,I can hear those pleasure-filled sounds escaping your lips. Fufu; I wonder how long you can hold out.
+頑張って振り払わないと負けちゃう❤でも、力が入らないのよね❤,You need to try harder to break free or you'll lose.❤ But you can't seem to muster any strength; can you?❤
+快楽に絡めとられて敗北へ一直線❤あなたのペニス、射精したくて震えているわ。,Caught in pleasure and heading straight for defeat.❤ Your penis is trembling; desperate to let it all out.
+顎をなでられてうっとりしているの？子犬みたいね。かわいい❤,Are you feeling entranced by having your chin stroked like a good little puppy? So cute~❤
+髪の毛のにおい嗅いでいるのね。わたしの体、いいにおいする？くすくす❤,You're burying your nose in my hair; aren't you? Do I smell good? *Giggle*❤
+射精すれば試合は終わり。お尻がどれだけ気持ちよくてもがんばって我慢しなさい❤,Once you ejaculate; the match is over. No matter how good my butt feels; you better resist~❤
+わたしに負けなさい❤快楽におぼれて試合なんて捨ててしまうの。,Surrender to me~❤ Throw away all your worries about the match and just drown in pleasure.
+あなたが射精してもマスターや他のモンスターが頑張るわ。だから我慢する必要なんてないの。,Even if you give in; your Master and his allies will still do their best. So there's no need to hold back
+わたしに負けなさい❤快楽におぼれてマスターの命令なんて忘れてしまうの。,Surrender to me~❤ Lose yourself to the pleasure and forget all about your master's orders.
+負けたいのなら負けていいのよ❤また次のバトルを頑張りなさい❤,If you want to lose; it's okay~❤ You can always try harder in the next battle.❤
+射精すれば勝負は終わり。お尻がどれだけ気持ちよくてもがんばって我慢しなさい❤,The moment you ejaculate; the battle is over. No matter how good my butt feels; you have to resist.❤
+わたしに負けなさい❤快楽におぼれて勝敗なんて捨ててしまうの。,Surrender to me~❤ Give in to the pleasure and forget all about winning or losing.
+あぅぅ……❤,Aah...❤
+あらあら…❤期待のルーキーくんはもう我慢できないの？\n噂で聞くよりずいぶんと理性が弱いわね❤\nわたしの脚を見ながら、はぁはぁしちゃって。くすくす❤,Oh dear...❤ Can the promising rookie not hold back any longer? You're self-control is much weaker than the rumors say.❤ You're panting so hard and staring at my legs. *Giggle*❤
+少しは熱い試合を楽しめるかと思ったけれど、\nま、いいわ。\n楽に勝たせてくれるなら、昇格戦に魔力を温存できるもの。,I thought I'd get to enjoy at least a somewhat challenging match; but I suppose this is fine. If you want to just give me an easy win; it means I can conserve my magic for the promotion match.
+まだほとんど何もされてないのに、\n勝手にわたしの脚にメロメロになって情けない顔…❤\n自滅しやすいように少しだけ手伝ってあげる❤,I've barely done anything to you yet; and you're already making such a pathetic face; so entranced by my legs...❤ I'll help you just a little bit; and make it easier for you to finish yourself off~❤
+あらあら…❤まさか我慢できなくなったの？\nＣランクへの挑戦権を賭けた大切な試合なのに、わたしの脚で\nはぁはぁしちゃって。くす❤男って本当にダメね❤,Oh dear...❤ Could it be that you couldn't hold back? You know how important this match is in order to reach C-rank; and yet you're panting so much and staring at my legs. *Giggle*❤ Men really are hopeless; aren't they?❤
+まだまだ戦い足りないけど…。\nあなたの顔を見る限り、もう勝負にならないわね❤\nシコシコしごいて気持ちよさそう❤,I wasn't done enjoying our fight; but... judging by the look on your face; it seems like this match is already over.❤ It looks like you're really enjoying yourself~❤
+蹴りのスピードじゃ、ゆっくり脚を眺めたりもできないでしょう？\nほら、スリットから脚をゆっくり前に出して、ちらり❤\nわたしのふともも、じーっと見ていいわよ❤ My lightning fast kicks don't give you time to really admire my legs; do they? Here; I'll slowly lift my leg through the slit of my dress for you. Peek-a-boo~❤ Now you can stare at my thigh all you want!❤
+ううっ、はぁ、はぁ…❤,Ugh; haah; haah...❤
+鍛えているからよく引き締まっているでしょう？\nでも、男にとっては筋肉より脂肪の方が魅力的なのかしら。\nわたしの自慢の脚❤ここにチンポ絡めとられたい？,Due to training; my legs have become quite toned; don't you think? Though; sometimes I wonder if men find softer thighs more attractive than muscle. Still; they're my pride and joy~❤ Do you want to feel what it's like having them tangled around your cock?
+ほら、もっと見えるように、ゆっくりと脚を高くあげてあげる❤\nほとんど真上まで上げられるのよ？柔らかいでしょう❤\n格闘技には柔軟性も必要なの❤,Here; I'll slowly lift my leg higher so you can admire it even better.❤ I can almost lift it straight up! Pretty limber; don't you think?❤ Flexibility is as important for martial arts as strength; after all.❤
+ああっ…❤きれい…❤,Ahh...❤ Beautiful...❤
+ぷっ、試合中に相手の体を褒めるなんて、ピュアな子ね❤\nありがとう❤素直に受け取っておくわ。,Pfft; praising your opponent's body during a match. What a pure child you are.❤ Thank you.❤ I'll gladly accept the compliment.
+ほら❤バランス感覚も良いでしょう？\n片足で立ったまま脚を舞うように動かすこともできるわ❤\n例えば、足先で何かを擦るようにすることだって簡単・・・♪,See?❤ My sense of balance is pretty good; don't you think? I can even move my leg just as gracefully while standing on one foot.❤ For example; it's still easy for me to rub something with the tips of my toes...♪
+わたしの足でチンポを踏まれるのを想像しちゃう？\nそれともただ脚を見ているだけで頭ボーっとして、\nムラムラが押さえられなくなっちゃう？,Did you just imagine getting your cock stepped on by my foot? Or do you just get so light-headed looking at my legs you can't help but feel aroused?
+ふふふ❤手の動き止まらないわね。シコシコ❤シコシコ❤\nわたしの脚を目で追いながら、両手で握って、シコシコシコ♪\nあなたのファンもがっかりの光景よ❤,Fufufu~❤ Your hands just won't stop moving; will they? Rub rub~❤ Stroke stroke stroke~❤ You're just watching my leg move; stroking yourself silly with both hands~♪ Your fans will be so disappointed if they have to watch you lose like this~❤
+せっかく無敗で進んできたのに、ほんとにいいのかしら？\n先輩としてちょっと心配になっちゃう。\nほら、よく考えて。昇格の代わりがオナニー。ほんとに、それでいいの？,You’ve come this far undefeated; are you really okay with this? As your senior; I can't help but worry a little. Come on; think it over. You're giving up your chance at promotion just to masturbate. Is that really okay?
+うぅ……っ❤ダメ…。ダメだけどぉ…。ううっ❤,Ugh...❤ No... It... It's not; but... Ugh...❤
+あん❤そんなうるんだ目でわたしのこと見て…❤\nしょうがないわね。ほら、とどめを刺してあげる。\nそっちの方が結果的に恥をかく時間も短くて済むはずよ。,Ah~❤ You're looking at me so teary-eyed...❤ I suppose it can't be helped. Here; I'll grant you the finishing blow. That way; I save you some embarrassment in the long run.
+ほら、亀頭の上に足の裏をかぶせるみたいに、ゆっくり近づけて…❤\n触れるか、触れないかのところで、ゆら、ゆら・・・♪,Look; I'll put the sole of my foot right over the head of your penis; slowly getting closer and closer...❤ Just on the verge of touching you; swaying gently...♪
+目の前にはわたしの美脚。チンポの先にはわたしの足裏…❤\n足フェチくんには刺激が強すぎるんじゃない？\nほら、シコシコしてどぴゅって出していいのよ❤,My beautiful legs are right in front of you. The sole of my foot is hovering over the tip of your cock...❤ Is it too stimulating for a foot-fetishist like you? It's okay; stroke yourself silly until you cum!❤
+もうふとももしか目に入ってないのね❤\n最後に、ちらり❤ショーツ、見せてあげるわ❤\nさぁ、イキなさい❤,By now you can't focus on anything but my legs; can you?❤ Lastly; I'll give you a little peek~❤ I'll show you my shorts.❤ Come on; let it all out~❤
+あ、うぁ……っ！❤,Ah; ohh...!❤
+ん❤たっぷり出たわね。\nふふ、放心した顔しちゃって。\nなに、やり遂げたみたいな気分になっているのかしら。,Mm~❤ You came a lot; didn't you? Fufu; you have such a peaceful look on your face. What; do you feel like you've achieved something?
+あなたがやり遂げなきゃいけなかったのは、\n試合よ。試合。オナニーじゃないの。くすくす❤\nもう、男の子はダメね❤魔力がよくても性欲に弱すぎるわ。,What you were supposed to 'achieve' was victory. Victory. Not just masturbation. *Giggle*❤ Geez; boys really are hopeless; aren't they?❤ No matter how great their magical power; they're defenseless when it comes to lust.
+うう……❤,Ugh...❤
+・・・・。,......
+はあ、男ってこれだから嫌になっちゃうわ。\n戦いの場で快楽に流されて・・・。\nあげくの果てに自分から敵にひざまづいてオナニーしだすなんて。,*Sigh* This is why I can't stand men. Succumbing to pleasure; even in the heat of battle... In the end; you even chose to kneel before your enemy and start masturbating.
+召喚されてから一度も戦ってないわよね。それでシコシコ、シコシコ。\nなに？わたしに一目惚れでもしちゃった？\n信じられないくらい弱いわね。マスターに悪いと思わないのかしら。,You haven't fought at all since you were summoned; have you? You just keep stroking and stroking. What? You just fell in love with me at first sight; is that it? You're so unbelievably weak. I feel bad for your master.
+アナタのマスターにとって大事なこの試合。\nそれなのに自分のチンポを触ることを優先とはね。\nシコシコ猿みたいに扱いて、マスターに申し訳ないと思わないのかしら,This match is important to him. And yet; you prioritize rubbing your own cock over victory. Masturbating like a mindless monkey. I feel sorry for your master.
+くうぅ……❤それはぁ…❤,Guhh...❤ It feels good...❤
+あなたのような軟弱者に何かしてあげるつもりなんて更々無いわ。\n勝手にしごいて、勝手に負けて、\nさっさと退場しなさい？,I have no intention of doing anything for a weakling like you. Why don't you just push yourself as much as you want; lose on your own; and then just get out of our way?
+どうせこうやって見下ろしてあげれば、\nそれだけで興奮するんでしょう？この変態マゾ。,Does me looking down on you like this actually excite you? What a perverted masochist.
+あひぃ……❤,Ahh...❤
+罵倒されてすぐに射精。\nこらえ性がないのは理性だけじゃなくてペニスもそうみたいね。\nどうして彼はあなたみたいな弱いモンスターを使っているのかしら。,You came right after I insulted you. It seems that your penis lacks self-control as well; not just your mind. Why would your master ever use a monster as weak as you?
+・・・。さ、仕切りなおしね。\nあなたのしもべが勝手に自滅して不利になった状況だけど。\nまだまだ戦いはこれからよ。楽しませてちょうだい。,... Alright; let's get back to the match. Your servant may have acted on their own and put you at a disadvantage; but the battle is far from over. So please; make it entertaining for me.
+はあ…。次はあなたなの？\n少しは楽しめる相手かと思ったのに。,*Sigh* Is it your turn next? I had hoped you would be someone I could enjoy a proper fight with.
+しもべが罵倒されているのを見て羨ましくなっちゃったのかしら？\nしもべもマゾならマスターもマゾ。\nさっきのしもべの有様も納得ね。,Did you get jealous watching your servant getting insulted? I suppose it makes sense if the servant is a masochist; it's because their master is a masochist; too. Your servant's condition from earlier is starting to make more sense.
+まあいいわ。それならわたしは楽に昇格戦に進ませてもらうだけ。\nほら、あなたのオナニー止まらなくしてあげる・・・❤,Well; fine. I'll just go ahead and advance to the promotion match with an easy win. Here; how about I make sure you can't stop masturbating...❤
+私の脚を見なさい……❤\n深いスリットから見える脚を\nこうやってゆっくり動かしてあげるわ❤,Look at my legs...❤ I'll slowly move one like this; peeking it through the deep slit in my dress.❤
+ごくっ…❤きれいだ……❤,Gulp...❤ So beautiful...❤
+ありがとう❤これも毎日の練習の成果よ❤\nほら❤バランス感覚も良いでしょう？\n片足で立ったまま脚を舞うように動かすこともできるわ❤,Thank you~❤ They've been toned through my daily practices.❤ Look~❤ My sense of balance is impressive; don't you think? I can move my leg gracefully; even while standing on one foot.❤
+ふふふ❤どんどん手の動きが早くなっている❤\nわたしの脚を目で追いながら両手でシコシコ❤\nあなたのファンもがっかりの光景ね❤,Fufufu~❤ Your hands are moving faster and faster.❤ You're stroking yourself with both; unable to look away from my legs.❤ Your fans must be so disappointed watching you right now~❤
+Cランク目前まで無敗で進んできたのに、\n女の脚なんかにムラムラして、ほんとにそれでいいのかしら？\n,You managed to remain undefeated so close to C-rank; but now you're getting excited from just a woman's legs. Is that really okay?
+昇格の代わりがオナニーよ？\nくすくす❤一時の快楽のために、馬鹿みたい❤,Is masturbation truly an acceptable substitute for your promotion? *Giggle*❤ You're acting like such a fool over one moment of pleasure~❤
+うぅ……っ❤ダメ、なのにっ❤ああっ❤,Ugh...❤ No; but...❤ Ahh...❤
+もうイキそうって顔ね❤私の脚にかけてもいいわよ❤\nかけやすいように近づいてあげるわ。,You look like you're about to finish.❤ Here; I'll let you cum on my legs~❤ I'll get closer so it's easier for you to spill it on them.
+ふふ❤このまま膝蹴りされたら避けるのも難しい距離ね❤\nあまりに無防備で笑っちゃう❤\n警戒しなくてもいいのかしら？,Fufu~❤ If I were to try and kick you right now; it'd be pretty hard to dodge; wouldn't it?❤ Thinking of how defenseless you are right now; I can't help but laugh~❤ Is letting your guard down so much right now really okay?
+はい、これでおしまい❤たっぷり魔力を出したようね❤\nしもべだけじゃなくてあなたも私の脚にメロメロ❤\nお似合いの主従だわ❤くすくす❤,Alright; looks like it's over.❤ You seem to have let out a lot of magical power~❤ You're completely head-over-heels for my legs; just like your servant.❤ You two really make a perfect pair~❤ *Giggle*❤
+はぁ、あなたもなの？\nせっかく仕切りなおすつもりだったのに……。\nマゾの仲間はマゾばかりね。,*Sigh* You too? I was hoping to finally get the match started again... I guess masochists only hang out with other masochists; huh?
+よく考えなさい？\nさっきの男もただバカにされながらシコってただけよ？\nあれがうらやましいとかただの変態だわ。,Think carefully; okay? Don't you realize the guy from earlier was just jerking off while getting mocked? Getting jealous of that's pretty perverted; don't you think?
+あなたのような裏切り者に何かしてあげるつもりなんて更々無いわよ。\nあなたもさっさと射精して退場しなさい？,I have no intention of doing anything pleasant for a traitor like you. You should hurry up and finish so you can leave; got it?
+わ、わかりました❤そうしますぅ❤,I-I understand...❤ I'll be quick...❤
+はっ。返事だけは一人前ね。\nあなたがその態度を示すべき相手はあなたのマスター。\nわたしの脚にハァハァしながらいう言葉じゃないわ。,Hah! At least you can manage a proper response. Though you should really be showing that attitude to your master. It's not something you should say while panting over your enemy's legs.
+あなたも召喚されてから一度も戦ってないわよね。\nなに？揃いもそろってわたしに一目惚れでもしちゃった？\n次々裏切って、マスターに悪いと思わないのかしら。,You haven't fought once since being summoned; have you? What? Did you all fall in love with me at just a glance? All of you are betraying your master one after another. Don't you feel bad?
+アナタのマスターにとって大事なこの試合。\nそれなのに自分のチンポを触ることを優先とはね。\nシコシコ、猿みたいに扱いて、マスターに申し訳ないと思わないのかしら。,This match is important for your master; yet you prioritize touching your cock instead; stroking yourself like a monkey. Don't you feel any sympathy for your poor master?
+罵倒されているのにむしろ手が早くなっている。\nはいはい、マゾはこれが気持ちいいのよね。\n呆れて言葉が出ないわ。,Even though I'm insulting you; your hand is moving even faster. That's right; masochists find being demeaned like this pleasurable; don't they? I'm stunned beyond words.
+ここで射精したら、あなたは間違いなく役立たず。\nもしかしたらデッキから外されて、もう二度と\n召喚してもらえないかもしれない。それでもシコるのが最優先。,If you ejaculate here; you'll be proving how useless you are. You might even be removed from the deck; never to be summoned again. Yet you still can't think of anything but stroking yourself.
+ふふ、ほんとに理性が弱いのね。\nいつまでもシコシコしていないで早く終わらせてくれない？\nほら、命令よ。,Fufu; you truly have such weak willpower; don't you? Instead of stroking yourself forever; can you just hurry up and cum? Actually; that's an order.
+イキなさい。マゾ❤,Cum. Masochist.❤
+ようやく終わったわね。\nまったく、これじゃあ本当に勝負にならないわ。\n次から次へと自滅するのだもの。,Finally finished; huh? Seriously; this isn't even a real match. You're all just exhausting yourselves one after another.
+これ以上は時間の無駄かもしれないわね\n自爆するしもべばかりの相手と楽しい戦いができるはずもないわ。\nさっさと終わらせてしまいましょうか。,This might be a waste of time. There's no way to have a fun battle against an opponent whose servants just throw their lives away. Shall we end this quickly?
+あっ・・・❤あああっ❤がまんできないっ・・・❤,Ah...❤ Aaaah!❤ I can't hold back...❤
+あらあら、オナニーで負けちゃうの？\n闘技場では強かったのに、今日は全然ダメね❤,My goodness; throwing away the match to masturbate? You were so strong in the arena; but today you're completely useless~❤
+昇格試合でわたしに勝てたのはまぐれだったかしら？\nくす、もし今度闘技場で戦うことがあったら、\n次は楽勝かも❤,Was your victory against me in the pre-promotion match just a fluke? *Giggle* If we end up fighting in the arena again; I guess it'll be an easy win for me~❤
+モンスターが1体自滅して、そのうえ相手マスターは全回復❤\nだいぶ有利になったことだし、今日は勝たせてもらおうかしら❤,One monster already exhausted himself; and on top of that; he let the opponent's master fully recover.❤ Since I'm already at quite the advantage; maybe I'll let myself have an easy win today.❤
+あらあら、あなたもオナニーで負けちゃうのね❤\nくす、みんな仲良く自滅して、\n連帯感があるんだかないんだか❤,Oh my; you're going to lose by masturbating; too?❤ *Giggle* Everyone's throwing their lives away together. Such teamwork... or; rather; lack thereof~❤
+でも手下みんなで裏切ったら、マスターくんがかわいそうよ？\nふとももオカズにシコシコして、\nそんな蕩けた顔しちゃったあなたに言っても仕方ないか❤,But if all his underlings betray him; won't your master be defenseless? Though; I suppose it's pointless telling that to someone who's stroked himself slack-jawed using my thighs as masturbation material~❤
+大切な試合なのに自滅するなんて、もったいない負け方❤\nまあそれだけ気持ちよさそうな顔になれたなら、\n本人としては満足なのかしら。くすくす❤,Surrendering like this during such an important match... What a wasteful way to lose.❤ Though; judging by that look on your face; maybe it's worth it to you. *Giggle*❤
+わたしのお尻に耐えられなかったわね❤\n温かい精液でべっとり……❤そんなに気持ち良かった？,You couldn't resist my ass; could you?❤ You've gotten it so sticky from your hot seed...❤ Did it feel that good?
+期待のルーキー君も噂ほどではなかったわね。私の勝ちよ❤,The promising rookie wasn't nearly as good as the rumors suggested. I win~❤
+ふふ❤ふとももに挟まれただけで出ちゃうなんて……❤\n本当にサキュバスに勝てたのかしら。,Fufu~❤ Ejaculating from just being squeezed between my thighs...❤ I'm starting to wonder if you really defeated a succubus.
+うふふ、自滅シコシコ気持ちよかったかしら？\n闘技場でもそうやって負けてくれると楽だったのに❤\nぷっ、くすくすくす❤,Ufufu~❤ Did throwing the match to stroke yourself feel good? It would have been so much easier if you had lost like this in the arena too.❤ Pft. *Giggle*❤
+ふふ❤ふとももに挟まれただけで出ちゃうなんて……❤\n今日はわたしが勝っちゃったわね❤,Fufu~❤ Ejaculating from just being squeezed between my thighs...❤ Guess it's my win today~❤
+{自分}に敗北した僕は、エナジーを失い、地面に膝をついていた。,Defeated by {自分} and with my energy drained; I was left kneeling on the arena floor.
+決着ー！！Cランクへの昇格戦を賭けた戦いを制したのはパトラ選手！\n連勝無敗のルーキーも、Dランク上位マスターには歯が立ちませんでした！,It's over! The match is over! The winner of this battle and the one now qualified to face the C-rank promotion match is Patra! Even our undefeated rookie was no match for a high-ranking D-rank master like her!
+私の勝ちね♪\nルーキー君も中々強かったけど、\nまだまだ粗削りな部分が多いわ。,I win~♪ You were quite strong for a rookie; but you still have a lot of rough edges to work out.
+私の勝ちね♪\nあんまりあっけなさすぎて、ちょっと気が抜けちゃう。\nお尻とか脚に負けないように、ちゃんと修行しないとダメよ？くすくす❤,I win~♪ It was over so quick; it was actually a bit of a letdown. You need to train properly so you don't lose to a woman's ass and legs so easily; okay? *Giggle*❤
+とはいえ、これまで戦ってきた男のマスターの中では、魔力はイチバンかも。\n快楽攻撃に強くなればもっといい勝負ができたかもしれないわね。,That said; among all the male masters I've fought; your magical power might actually be the strongest. If you could become more resistant to pleasure attacks; we could probably have had a much better match.
+くうっ・・・。ま、まだやれる・・・。,Ugh... I can... still fight...
+観客席に目をやると、受付さんが心配そうにこちらを見ている様子が目に入った。,Looking at the audience; I could see the receptionist watching me with a worried look.
+今日はわざわざ応援に来てくれたのだ。知り合いが見ている試合で、あまりに不甲斐ない姿は見せられない。,She had come all this way to cheer me on today. I couldn't let a match like this end in such a pathetic display when an acquaintance had come to watch.
+ふーん。そういうこと。,Ahh. So that's it.
+パトラさんは僕の視線の先に気づいたのか、にやりと笑った。,Patra seemed to notice where I was looking and grinned.
+あの子、ギルドの受付の子よね。\n胸も大きくてかわいくて、男性マスターたちから人気がある女の子。\nあなたも、あの子のこといいなって思っているの？,That girl's the guild receptionist; right? Big-breasted; cute... She's pretty popular among male masters. Do you like her; too?
+ふふ、そういうの見ると、ちょっとからかいたくなっちゃうわ。,Fufu; seeing something like that makes me want to tease you a little.
+蛇ってね、分け合うことを知らない、強欲な生き物なの…❤\nあなたが誰かに取られるかもって思ったら、\nあなたのことわたしの支配下に置きたいって、変な欲が湧いてきちゃう,You know; snakes are greedy creatures that don't know how to share...❤ When I think you might be taken by someone else; I get this strange desire to place you under my control.
+ま、脚を見ただけで自爆オナニーしちゃうような男の子なんて、\n奪うまでもなく、\nあちらから願い下げかもしれないけれど。くすくす❤,Though; a boy who strokes himself silly just from looking at a pair of legs would probably choose me over her anyways; so it's not really like I'm stealing you. *Giggle*❤
+ま、お尻を押し付けられただけで、射精しちゃったような男の子なんて、\n奪うまでもなく、\nあちらから願い下げかもしれないけれど。くすくす❤,Though; a boy who cums just from having an ass pressed against him would probably choose me over her anyways; so it's not really like I'm stealing you. *Giggle*❤
+ま、ふとももを押し付けられただけで、射精しちゃったような男の子なんて、\n奪うまでもなく、\nあちらから願い下げかもしれないけれど。くすくす❤,Though; a boy who cums just from having thighs pressed against him would probably choose me over her anyways; so it's not really like I'm stealing you. *Giggle*❤
+さて、あんまり敗者をいたぶるのは好きじゃないのだけれど・・・♪,Now; I don't particularly enjoy torturing losers; but...♪
+や、やめっ・・・ああ❤,S-stop... Aah~❤
+わたしのお尻をセクシーにこすりつけてあげる❤\nあら、すでにガチガチなのね❤,I'll teasingly rub my ass against you.❤ My; you're already hard as a rock.❤
+わたしが「あなたを支配下に置きたい」なんて言ったから、\nマゾのあなたは興奮しちゃったのかしら❤,Did me saying "I want to place you under my control" get a masochist like you excited?❤
+お尻の下でペニスがびくびくしてる❤\n腰をくねらせてあげれば、ふふ❤悶えちゃうのよね❤,I can feel your penis twitching beneath my ass.❤ If I wiggle my hips like this... Fufu~❤ You'll be helpless to do anything but to squirm and moan; won't you?❤
+ま、まって・・・降参する、降参するからぁ❤,N-no; wait... I surrender; I surrender!❤
+いまさらそんな事言っても遅いわよ❤\nこんなにペニスを大きくして満更でもないのでしょう？,It's too late for that~❤ With your cock this swollen; do you really want me to stop?
+私の自慢は脚だけじゃないの。\n大きくて柔らかいお尻もそう❤たっぷり味合わせてあげる❤\nそしてあの子の前で、恥ずかしいところたっぷり晒させてあげる❤,My legs aren't the only feature I'm proud of. I take pride in my big; soft butt; too.❤ I'll let you experience all it has to offer~❤ And I'll make you expose your embarrassing side in front of that girl.❤
+お尻の肉でペニスを挟んでズリズリ❤\nふふふ、節操なく震えているわ❤\nかっこわるい姿見せたくないのに、気持ちよくなっちゃうわね❤,I'll start by squeezing your penis between my cheeks and sliding up and down.❤ Fufu; you're trembling so shamelessly~❤ Even though you don't want to show such an uncool side; you're feeling too good to hide it; aren't you?❤
+ううう❤み、見ないで・・・❤\nやめてぇ・・・❤,Ughhh...❤ Stop...❤ I... I can't let her see me like this...❤
+僕は恥ずかしさから顔を手で覆って必死に隠した。その様子を見たパトラさんはとても楽しそうに、にやにや笑って、むしろ体をくねらせる速度を上げていく。,I desperately tried to cover my face with my hands to hide my embarrassment. Seeing this; Patra smiled mischievously; and actually increased the speed of her body's movements with an amused look on her face.
+くすくす❤やめてなんて言わなくても、自分のチンポでしょう？\nあなたが心を強く持って、女の体になんか興奮しないって\n頑張ればいいだけの話よ❤,*Giggle*❤ Why are you telling me to stop? It's your cock; isn't it? You just need to be strong-minded enough to not get excited by a woman's body.❤
+かわいいあの子が応援に来ているのに、\nお尻で潰されて、ズリズリされて…❤\nたったそれだけでこんなにチンポを固くして…❤,That cute girl came all this way to cheer you on; yet here you are; crushed by my ass as I rub it against you...❤ And even just that much has gotten your cock so hard...❤
+まだ戦えるとか言ってたのに、\n実際は敵のお尻でグリグリされてアンアン喘いでるだけ❤\nきっと受付ちゃんもあなたに幻滅しちゃうでしょうね❤,You said you could still fight; but in reality; all you can do is moan while your opponent grinds her ass against you.❤ That cute receptionist will be so disappointed~❤
+ほら、もっとシャキッとしなさい。\n武器を構えて、カードを使って、\nもう一度戦うんでしょう？,Come on; pull yourself together. Pick up your weapon; use your cards; and fight again; okay?
+ペニスの根本から先っぽまで丁寧にズリズリされても❤\nお尻でむぎゅって潰されてチンポをぐりぐり圧迫されても❤\nシャキッとしてないとダメ❤,Even if she grinds against you; base to tip~❤ Even if she squeezes your cock with her butt and applies pleasure-filled pressure~❤ You need to stay strong and resist your opponent.❤
+そんな心底蕩けたような顔、あの子に見せちゃダメよ。\nくすくす❤,You can't let the receptionist see you with such a lewd look on your face. *Giggle*❤
+はあ❤はあ❤うう・・・❤,Hah...❤Ahh...❤Oooh...❤
+先走りでお尻がべとべと❤\nもう射精したくて仕方ないって感じね❤\nビクビク跳ねて、もう限界・・・❤,My ass has gotten so sticky from your precum.❤ I can feel how desperate you are to finish~❤ The way you're twitching and throbbing... You're already at your limit...❤
+ねえ、蛇ってね、獲物はゆっくり消化するの。\n丸のみにして、もう逃げられなくなったら、あとはじんわり溶かすだけ。\nだから、ね…❤わたしもこういういじわるしちゃう❤,You know; snakes devour their prey slowly. Once they've swallowed it whole and there's no escape; they just gradually let it dissolve in their stomach. You get it; don't you...?❤ That's why I'm being cruel like this to you. I'm playing with my food~❤
+あっ❤なんで、はあ❤あぁ・・・❤,Ah!❤ Wh-why... Hah...❤Aah...❤
+パトラさんは、激しくくねらせていたお尻の動きを急に緩慢にした。押し付けられる感触はあいかわらず極上なのに、こすりつける速度があまりにゆるやかで、もどかしい快感に頭がどうにかなりそうになってしまう。,Patra suddenly slowed down the intense writhing of her hips. The sensation of her pressing against me was still exquisite; but the grinding had become so maddeningly slow that I worried my mind might break from the frustrating pleasure.
+くすくす❤かわいい顔ね❤\n他の女なんて目に入らず。わたしだけを見てる顔❤\n射精をおあずけされたからってダメじゃない❤とっても物欲しそうよ❤,*Giggle*❤Such a cute face~❤ You've completely forgotten about that other woman. Now you only have eyes for me~❤ You really shouldn't be this disappointed just because I denied you your release.❤ You look too desperate~❤
+責めがゆっくりになって、あなたにとってうれしいはずでしょう？\nだって、情けなく射精するところを見られなくて済んだのよ。\nほら、あとはわたしを突き飛ばして、逃げるだけ❤,You should be happy I slowed down my tease; don't you think? After all; it means you won't have to be seen cumming so pathetically. Look; all you need to do now is push me away and run.❤
+ちゃんと振り払えたら、追い討ちもしないであげる。\nお尻でいじめられる、つらーい時間も終わりよ❤,If you can shake me off now; I promise not to chase you. Your time getting bullied by my ass will all be over~❤
+そうすればあとは、あの子と今日の試合の反省会でもして、\n次を頑張ればいいわ。\nあなたはルーキーだし、そこまで幻滅されずに済むかもね…♪,Then afterward; you can sit down with that girl and review today's match. After that; you can just try harder next time. Maybe she won't be too disappointed in you; since you're a rookie and all...♪
+でも、そんな終わり方でいいのかしら？,But is that really how you want this to end?
+ほらほら…❤\n気持ちいいでしょう？わたしのお尻…❤,Think about it...❤ It feels good; doesn't it? The way my ass is grinding against you...❤
+あなたのペニスは射精したくてたまらないって感じね❤\nもっとお尻でズリズリして欲しい❤グリグリって押し潰してほしい…❤\nそう言ってるみたいに震えてる❤,Your penis seems like it's dying to give in.❤ It wants me to keep grinding against it so badly.❤ To be squished and grinded against like this...❤ The way it's trembling is like it's begging for it~❤
+ほら、魔力が精液に溶け始めてる❤\nイキたくてイキたくてたまらない、早く出してぇ❤って\nおちんちんがわたしのお尻におねだりしてるのよ❤,You see; the magical energy is starting to already dissolve into your semen.❤ Your cock is so desperate now; saying it wants to cum so badly; pleading for me to allow it to release soon~❤
+でも、まだダメ…❤,But; not yet...❤
+はうう❤ま、また、寸止め・・・っ。,Hahhh!❤ A-Again... S-so close...
+イキたい？ならどうすればいいのか、わかるわね？,You want to cum? Then you know what to do; don't you?
+うっ、うううっ…❤パトラさん、パトラさんっ❤❤,Ugh; ohhh...❤ Miss Patra... Miss Patra; please...❤❤
+あん❤はげしい❤\nセックスするみたいに、一生懸命腰振っちゃって❤\nルーキーくんは、セックスも「初心者」なのかしら？,Ahn~❤ So intense~❤ You're thrusting your hips so desperately; almost like we're having sex.❤ Are you a 'rookie' in matters like these; too?
+ほら、お姉さんがリードしてあげる❤お尻にぴったりチンポを沿わせて\n腰を動かすタイミングを私に合わせなさい❤\nそうそう、上手よ❤息を合わせた方がとっても気持ちいいでしょう❤,Here; 'Miss Patra' will guide you happily~❤ Press your cock firmly against my butt and match your hip movements to mine.❤ That's it; just like that~❤ Doesn't it feel much better when we move in rhythm?❤
+き、気持ちいい・・・❤,I-It feels good...❤
+ねえ、わたしのこと、どんどん好きになるでしょ？\nそんな顔して腰振り始めちゃったら、もうあの子に言い訳できないわね？,Oh my; it seems you're falling for me more and more; aren't you? If you start moving your hips while making a face like that; you won't be able to make excuses to the receptionist anymore; will you?
+気持ちいい事が大好きなあなたは、\nあの子の応援に応えることなんかより、\n私のお尻に精液を出す方が大切だものね❤,You're so desperate to feel good you care more about covering my butt in your seed than accepting her support; don't you?❤
+くす❤首を振って否定することもできないのね。\nいいわよ。今度はちゃんとイカせてあげるわ❤\nほら、逃げ場もないくらいぎゅって押し付けて…❤私のお尻でイキなさい❤,*Giggle*❤ You can't even shake your head to deny it anymore. That's okay. This time I'll let you cum for real.❤ Here; I'll press myself against you so tightly there'll be nowhere left to escape...❤ Give in to my hips and cum~❤
+あっああっ、もう……でるぅ❤,Ahh ahhh... I-I'm cumming!❤
+あは、すごい量…❤\n焦らして搾り取られた気分はどう？\n弄ばれるのも悪くないって思っちゃうでしょ？,Aha; you shot out so much...❤ How does it feel to be teased and milked like this? I bet you're starting to think being toyed with isn't so bad; aren't you?
+あら、思った以上に魔力がたっぷり溶けてるわ。\nほんと、才能だけでいえば、あなたすごいものを持っているのね。\nこれのおかげで試合で使った魔力も全快よ。,My; there's much more magic dissolved in your semen than I expected. Truly; when it comes to raw potential; you have something incredible. Thanks to you; I've completely recovered all the mana I used in the match.
+ま、才能だけあっても、チンポがこんなに弱くちゃ、\nどうにもならないと思うけれど。くすくす❤,But even with so much potential; if your cock is this weak; I don't know how far you can really get. *Giggle*❤
+そうだ。今度から私が稽古をつけてあげましょうか❤\nお尻でズリズリ、ズリズリってね❤\n快楽攻撃は慣れるのが一番だもの・・・❤,I know. Would you want me to help you train from now on?❤ I can let you practice having my butt grind and rub against you.❤ Getting used to pleasure attacks is the best way to handle them after all...❤
+パトラはそういって、自分のふとももからお尻を指でなでてみせた。あんなに射精したばかりだというのに、あまりにエロいその光景に、完全に釘付けになってしまう。,Saying this; Patra ran her fingers from her thighs to her butt in demonstration. Even though I had just ejaculated; I found myself completely captivated by the erotic sight.
+あうう・・・お、おねがいしますぅ・・・❤,Ahhh... P-please...❤
+当然、この誘いを断ることもできなかった。受付さんのことも、修行でＡランクを目指していることも、完全に頭から消えてしまっていた。,Naturally; I couldn't refuse her invitation. Thoughts of the receptionist girl and my goal of reaching A-rank through my own hard work completely vanished from my mind.
+そのひどく間抜けな蕩け顔を見て、パトラさんはとてもうれしそうに微笑む。,Seeing my incredibly helpless and melted expression; Patra smiled with glee.
+うふふ、決まりね❤\nあなたはわたしのもの❤\nやるからにはしっかり鍛えてあげるわ❤,Ufufu; it's settled; then.❤ You belong to me now.❤ Since we're doing this; I'll make sure to train you properly~❤
+こうして僕はパトラさんに稽古をつけてもらうようになった。稽古とは名ばかりで魔力を奪われるだけかとも思ったが、パトラさんは面倒見がよく、意外にもちゃんと特訓をしてくれた。,And so; my training with Miss Patra began. At first I thought it might just be an excuse to drain my magical energy; but she was actually surprisingly attentive and gave me proper special training.
+しかし、カードの使い方は上達しても、パトラさんのお尻に完全に魅せられてしまった僕は、彼女に性的な訓練をしてもらうたびに、むしろ弱点を植え付けられるかのように快楽に弱くなっていってしまった。,However; while I managed to improve with cards; I had become completely enchanted by Miss Patra's butt. Each time she gave me sexual training; I became weaker and weaker to the pleasure she gave me; as if she was etching that weakness into my very being.
+パトラさんが見事Cランクに上がったあとも、僕は十分な戦績を残すことはできず、今のランクで停滞する日々が続いた。心配した受付さんは僕に特訓をやめて別の修行をするべきだと諭したが、僕は聞き入れなかった。,Even after Miss Patra brilliantly rose to C-rank; I couldn't achieve sufficient results and remained stagnant where I was. The receptionist became concerned. She advised me to stop the special training and try different training methods; but I refused to listen.
+パトラさんとの修行はそのときの僕にとって、すでにほかの何物よりも大事なものになってしまっていたから…。,Training with Miss Patra had already become more important to me than anything else...
+こうして成長をやめてしまった僕はの冒険は、ここで幕を閉じたのだった。,And thus; I stopped growing in my talents; and my adventure came to an end.
+闘技場に挑戦する(必要ランクポイント:{$needPoint}),Challenge the Arena (Required Rank Points: {$needPoint})
+今はやめておく,Not now
