@@ -74,6 +74,7 @@ Cランクに入ってからも連勝伝説は続くのか！\n今回も危な�
 猫又は命をいくつも持つにゃ。\n破壊されても復活するのにゃ！,A Nekomata has more than one life; you know. Even if it dies; it can come right back; nya!
 破壊され墓地へ送られた時、{使用カード}の効果を発動！\n墓地から復活するにゃ！,When {使用カード} is sent to the graveyard; it's ability lets me return it back to my hand; nya!
 破壊されたとき{使用カード}の効果を発動！\n墓地から自身を特殊召喚するのにゃ！,When {使用カード} is destroyed; I can activate its effect and special summon it from the graveyard; nya!
+{使用カード}が破壊されたとき効果を発動！\nデッキから「猫」モンスターを手札に加えるのにゃ！,When {使用カード} is destroyed; it's effect activates and I can add a "Cat" monster from my deck to my hand!
 戦闘終了時に{使用カード}の効果発動！\n体力を400ポイント回復するのにゃ！,At the end of combat; {使用カード}'s effect activates! It heals for half the damage it did; nya!
 戦闘終了時に{使用カード}の効果発動！\n自分のHPを400ポイント回復するのにゃ！,At the end of combat; {使用カード}'s effect activates! Heal yourself for half the damage you dealt; nya!
 召喚に成功した時、{使用カード}の効果を発動！\nデッキから「{%%40138}」を１枚手札に加えるにゃ！,After successfully summoning {使用カード}; I can activate its effect; nya! I'll search my deck fur a「{%%40138}」and put it into my hand!
