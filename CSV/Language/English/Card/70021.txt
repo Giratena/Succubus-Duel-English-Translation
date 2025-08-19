@@ -1,5 +1,5 @@
 default
-ムサシ,
+ムサシ,Musashi
 F21_armpitJobAnime,
 F21_paizuriAnime,
 あら、この間のルーキーくんじゃない。\nわたしも今ちょうど手合わせの相手を探していたの。,
