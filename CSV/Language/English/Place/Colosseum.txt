@@ -60,8 +60,8 @@ Place/Colosseum,
 初めまして。闘技場への参加をご希望でしょうか？,Nice to meet you. Would you like to participate in the colosseum?
 分かりました。それではギルドリングをお見せください。,Understood. Now then; please show me your guild ring.
 ・・・。,...
-ありがとうございます。貴方がDランクであることを確認しました。闘技場への参加を承認します。,Thank you so much. After confirming your rank; I'm happy to say your application for the colosseum has been approved.
-再度話しかけていただければ、本日からでも対戦を組むことができますので、準備ができたらお声がけくださって構いませんよ。,Feel free to speak to me again when you're ready and I'll happily arrange a match for you today.
+ありがとうございます。貴方がDランクであることを確認しました。闘技場への参加を承認します。,Thank you very much. After confirming your rank; I'm happy to say your application for the colosseum has been approved.
+再度話しかけていただければ、本日からでも対戦を組むことができますので、準備ができたらお声がけくださって構いませんよ。,Feel free to speak to me again when you're ready;  and I'll happily arrange a match for you today.
 おや、あんた新人選手かい？\nそのリングの色、Dランクだね。,Oh hey; you're a rookie; aren't you? That ring color means you're a D-rank; right?
 闘技場では普段からカードマスターたちが試合をして\nその腕を競っているんだ。\n祭りの間はとくに試合が盛りだくさんさ。,In the colosseum; cardmasters usually compete in matches to showcase their skills. During the festival; matches here are especially common.
 国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather to battle it out... Ah; the excitment of it all. I can hardly contain myself!
