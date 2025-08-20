@@ -75,6 +75,7 @@ Cランクに入ってからも連勝伝説は続くのか！\n今回も危な�
 戦闘終了時に{使用カード}の効果発動！\n体力を400ポイント回復するのにゃ！,At the end of combat; {使用カード}'s effect activates! She heals half the damage she did; nya!
 戦闘終了時に{使用カード}の効果発動！\n自分のHPを400ポイント回復するのにゃ！,At the end of combat; {使用カード}'s effect activates! Now; heal yourself for half the damage you dealt; nya!
 召喚に成功した時、{使用カード}の効果を発動！\nデッキから「{%%40138}」を１枚手札に加えるにゃ！,After successfully summoning {使用カード}; I can activate its effect; nya! I'll search my deck fur a「{%%40138}」and put it into my hand!
+召喚に成功した時、{使用カード}の効果を発動！\nデッキから「{%%40138}」を手札に加えるにゃ！,After successfully summoning {使用カード}; I can activate its effect; nya! I'll add a「{%%40138}」from my deck into my hand!
 {使用カード}を発動！\nわたしの獣モンスターはみんなパワーアップするにゃ。,I activate {使用カード}! Now all my Beast-type meownster cards are powered up; nya.
 {使用カード}を発動！\n獣モンスターをみんなパワーアップするにゃ！,I activate {使用カード}! Let's power up all the Beast-type meownsters; nya!
 {使用カード}を発動！\n自分フィールドに{%%10040}がいるときこのカードを使うと、\nデッキからレベル４以下の獣モンスターを特殊召喚できるにゃ！,I activate {使用カード}; nya! If I use this card when a {%%10040} is on my field; I can Special Summon a Beast-type meownster of level 4 or lower from my deck!
