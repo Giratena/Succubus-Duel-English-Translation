@@ -1,5 +1,5 @@
 default
-ヒーラーハーピー,Plush Harpy
+ヒーラーハーピー,Soothing Harpy
 EU44_handJobAnime,
 癒しの力を持ったハーピー。風に乗せて回復魔法を味方全体に飛ばす。\n彼女は普通のハーピーよりも体温が高く、羽の感触もふわふわしている。男であれ女であれ、彼女に抱き着かれると簡単に脱力してしまい、戦う意思を奪われてしまうほどである。彼女の体に包まれながら優しい言葉をささやかれたとしても、気を強く持って彼女に身を任せないよう注意しなければならない。,A harpy with healing powers who uses the wind to carry recovery magic to all allies. Her body temperature is higher than that of normal harpies; and her feathers feel extra fluffy. Anyone embraced by her; whether male or female; quickly find themselves powerless and stripped of all will to fight. Even while being wrapped in her body and whispered sweet words; one must stay mentally strong and avoid surrendering to her completely.
 [1].1ターンに1度、風属性カードの効果が発動したとき発動する。自分プレイヤーと自分フィールド上のすべての「ハーピー」モンスターのHPを連鎖発動した風属性カードの枚数×200ポイント回復する。。,[1] Once per turn; activate this effect when a Wind Attribute card effect is triggered. Recover HP equal to the number of Wind Attribute cards cast this turn ×200 for yourself and all "Harpy" monsters on your field.
