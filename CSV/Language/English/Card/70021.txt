@@ -1,73 +1,73 @@
-default
+default,
 ムサシ,Musashi
 F21_armpitJobAnime,
 F21_paizuriAnime,
-多彩な武器を操るCランク上位のカードマスター。カードで装備を具現化しては次々と持ち替えていき、相手を翻弄する。快楽を利用した戦術が流行する中、男性相手でも正々堂々旧来の戦い方で戦う数少ないカードマスターの一人である。\n  　ただし、相手が自分の好みであった場合にはその限りではなく、積極的に快楽攻撃をしてくる。性的な技術は一通り習得しており、持ち前の器用さを活かした巧みな手さばきは一級品である。装備カードを使用すると自身の魔力も強化されるため、快楽攻撃の威力も上がり、男はすぐに腰砕けにされてしまう。
-多彩な武器を操るCランク上位のカードマスター。カードで装備を具現化しては次々と持ち替えていき、相手を翻弄する。快楽を利用した戦術が流行する中、男性相手でも正々堂々旧来の戦い方で戦う数少ないカードマスターの一人である。
-ただし、相手が自分の好みであった場合にはその限りではなく、積極的に快楽攻撃をしてくる。性的な技術は一通り習得しており、持ち前の器用さを活かした巧みな手さばきは一級品である。装備カードを使用すると自身の魔力も強化されるため、快楽攻撃の威力も上がり、男はすぐに腰砕けにされてしまう。
-あら、この間のルーキーくんじゃない。\nわたしも今ちょうど手合わせの相手を探していたの。,
-あなたなら相手に申し分ないわ。\n今度はあなたの守りを貫いて、勝利を手に入れてるみせる。\nさあ、バトルしましょう？,
-あら、また会ったわね、ルーキーくん。\n今日も手合わせしましょう？,
-あなたみたいに強い人と戦えるのは刺激的で楽しいの。\n武術と快楽攻撃の組み合わせで、今度こそあなたを翻弄してみせるわ❤,
-あら、また会ったわね、ルーキーくん。\n今日も手合わせかしら。,
-前のバトルはわたしが勝ったけれど、\n今日はどうなるかしら。あなたも前より強くなっているのでしょう？,
-ほら、カードを構えて。\n白熱したいいバトルにしましょうね❤,
-あいたた、さすがの強さね。\nやっぱり強者との戦いは、いい修行になるわ。,
-また今度、時間が合えばバトルしましょう。\n上を目指して、一緒に切磋琢磨していきましょうね。,
-うふ、今日はわたしの勝ちみたい❤\nわたしのテクニック、やっぱりなかなかのものでしょう？\nあなたのこと気持ちよくできたみたいでうれしいわ❤,
-それじゃまた、時間が合えばバトルしましょうね。\n上を目指して、一緒に切磋琢磨していきましょう。,
-挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,
-さあ無敗のルーキーの試合が今日も始まります。\n今日はどんなバトルを見せてくれるのか！,
-おっとファンの歓声が割れんばかりに響いていますね！\nつい最近まで無名だったというのに、{主人公}選手、\nもはやすっかりモルゲンの有名人！素晴らしい人気です！,
-しかし、相手も負けてはいないぞ！その戦いっぷりから人気も高い、\nモンスターを使わず武器と己の身一つで戦う超武闘派カードマスター！\nムサシ選手の入場です！,
-{主人公}選手とムサシ選手はお互いにCランクで連勝中！\nこの試合に勝てばBランク昇格試合への挑戦権を得られます！,
-Bランクといえば、国でも有数の実力者です！\n「守護者」に任じられて村や町のトップになることもあり、\n誰もが夢見る、ひとつの到達点、それがBランクなのです！,
-この大きなチャンスを掴むのはどちらになるのか！\nいつも以上に目が離せない試合なりそうです！,
-はじめまして。わたしはムサシ。\n「百器使いのムサシ」なんて呼ばれているわ。,
-何種類もの武器を持ち替えながら戦うから、\nみんなそう呼ぶらしいのだけれど・・・。\n何も剣ばかりがわたしの武器じゃないのよ。,
-男を篭絡するための組み技だって得意なの。\n胸でも足でも❤手でも口でも❤\nあらゆるところで快楽を与えられるわ。,
-誰にでもそういうことするわけじゃないのだけれど…。\n強いあなたには、そういう手段も使ってあげる❤,
-そういうとムサシは刀を半身で振りかぶった。普通の剣法と違い、体を軽くしならせ、女体のメリハリを強調するような構えだ。,
-刃先に集中するべきなのかもしれないが、否応なしに胸や腰、脇などに視線を吸い寄せられてしまう。,
-うふふ❤見たければ見ていいのよ。\n剣と体と、どちらもわたしの武器なのだから、\n体に集中するのも悪い判断じゃないわ❤,
-ゆっくり揺れる胸を、じっと見つめて、\nほら、集中…❤集中…❤\nくすくす❤,
-そんな誘惑には負けません！,
-（あううっ、エロい・・・❤）,
-あら、勇ましい。\nいいわ。どちらが強いのか、バトルではっきりさせましょう。,
-わたしの動きについてこれるかしら！\n剣の錆びにしてあげる！,
-くす❤前かがみになっちゃって、\nさっそく妄想しちゃったのかしら❤,
-剣士の前で身動きとれなくなるなんて、自殺行為ね。\nさあ、固くなったあなたのソレを、\nすぐし楽にてあげるわ！,
-これはムサシ選手、耐えられないー！\n決着！{主人公}選手の勝利です！,
-ムサシ選手がどれだけ武装を固めようがおかまいなし！\n怒涛の猛攻で一気に勝負を決めました！\n無敗のルーキー、圧倒的な実力です！,
-ムサシ選手の多彩な攻撃に追い詰められた{主人公}選手ですが、\n接戦を見事制しました！\n無敗記録を今日も更新です！,
-ムサシ選手の多彩な攻撃を見事にさばききり、\n危なげなく勝利を飾りました！\nさすがは無敗のルーキー、連勝記録を今日も更新です！,
-ううっ、負けたかぁ・・・。\n久しぶりの負けだわ。ほんとに強いわね。,
-昇格はぜひともしたかったのだけれど、\nあなたに負けるのなら仕方ないとも思えるわ。\n昇格試合、わたしの分もがんばってきなさいね。,
-闘技場Bランク昇格戦に挑戦できるようになりました。,
-闘技場の勝利報酬を得た！,
-先攻はあなたからね。どう展開してくるかしら？お手並み拝見ね。,
-先攻はわたしからね。\n行くわよ！,
-(ううっ・・・・❤),
-（あらあら、すっかり心ここにあらずじゃない❤\nあんな状態でまともにカードをプレイできるのかしら？\nくすくす・・・❤）,
-ドローするわ。,
-わたしのターンね。ドロー！,
-モンスターをコストにして、{使用カード}を上級召喚する！,
-{使用カード}を召喚！,Summon {使用カード}!
-ううっ、あうう・・・❤,
-あらあら❤わたしに気持ちよく負けたときのこと、\nばっちり覚えちゃってるみたいね❤\n蘇って出てきても何の役にも立たなそう❤,
-また気持ちよくイかせてあげようかしら。\n今度は刀の錆にするのもいいわね❤\n棒立ちで腑抜けているあなたをさっさと始末してあげる❤,
-さらにもう1枚発動！,
-{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,
-魔法カード、{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,
-切り裂いてあげる！{使用カード}を発動！\n墓地に眠る装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,
-{使用カード}を発動！\n自分の墓地にある装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,
-邪魔なものは破壊してしまうわ！\n{使用カード}を発動！,
-自分の装備カードを１枚破壊する代わりに、\n相手の魔法トラップカードをすべて破壊する！,
-自分が装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nとどめを刺せた場合さらにカードを１枚ドローよ！,
-装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nさらに、とどめを刺せた場合カードを１枚ドローよ！,
-自分の墓地に装備カードが３種類以上存在し、\nモンスターカードが１枚も存在しないとき、{使用カード}を発動！,
-デッキからカードを１枚ドローし、そのカードが装備カードだった場合\nわたしの攻撃宣言回数を5ターンの間１回増加させるわ！,
-甘いわね。相手の攻撃宣言時、{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,
+多彩な武器を操るCランク上位のカードマスター。カードで装備を具現化しては次々と持ち替えていき、相手を翻弄する。快楽を利用した戦術が流行する中、男性相手でも正々堂々旧来の戦い方で戦う数少ないカードマスターの一人である。\n  　ただし、相手が自分の好みであった場合にはその限りではなく、積極的に快楽攻撃をしてくる。性的な技術は一通り習得しており、持ち前の器用さを活かした巧みな手さばきは一級品である。装備カードを使用すると自身の魔力も強化されるため、快楽攻撃の威力も上がり、男はすぐに腰砕けにされてしまう。,A high-ranking C-class Card Master who wields a diverse arsenal of weapons. She overwhelms her opponents with the use of her equipment cards and rapidly switches between them. Despite the recent popularization of pleasure tactics in card battles; she is one of the few remaining cardmasters who fight men through honorable; traditional combat methods.\n\nHowever; should an opponent happen to be her type; she quickly forgos this and shifts to more aggressive pleasure attacks instead. She has mastered all manner of sexual techniques; and her natural dexterity allows her to execute them to a professional level. Equipment cards also enhance her own magical power; increasing the potency of her pleasure attacks and allowering her to quickly reduce men to quivering messes.
+多彩な武器を操るCランク上位のカードマスター。カードで装備を具現化しては次々と持ち替えていき、相手を翻弄する。快楽を利用した戦術が流行する中、男性相手でも正々堂々旧来の戦い方で戦う数少ないカードマスターの一人である。,A high-ranking C-class Card Master who wields a diverse arsenal of weapons. She overwhelms her opponents with the use of her equipment cards and rapidly switches between them. Despite the recent popularization of pleasure tactics in card battles; she is one of the few remaining cardmasters who fight men through honorable; traditional combat methods.
+ただし、相手が自分の好みであった場合にはその限りではなく、積極的に快楽攻撃をしてくる。性的な技術は一通り習得しており、持ち前の器用さを活かした巧みな手さばきは一級品である。装備カードを使用すると自身の魔力も強化されるため、快楽攻撃の威力も上がり、男はすぐに腰砕けにされてしまう。,However; should an opponent happen to be her type; she quickly forgos this and shifts to more aggressive pleasure attacks instead. She has mastered all manner of sexual techniques; and her natural dexterity allows her to execute them to a professional level. Equipment cards also enhance her own magical power; increasing the potency of her pleasure attacks and allowering her to quickly reduce men to quivering messes.
+あら、この間のルーキーくんじゃない。\nわたしも今ちょうど手合わせの相手を探していたの。,Oh my; if it isn't the rookie from the other day. I was just looking for someone to spar with.
+あなたなら相手に申し分ないわ。\n今度はあなたの守りを貫いて、勝利を手に入れてるみせる。\nさあ、バトルしましょう？,I think you'd make a perfect opponent. This time I will see to it I break through your defenses and claim victory. Now; shall we battle?
+あら、また会ったわね、ルーキーくん。\n今日も手合わせしましょう？,Oh my; we meet again; rookie. How about another sparring match today?
+あなたみたいに強い人と戦えるのは刺激的で楽しいの。\n武術と快楽攻撃の組み合わせで、今度こそあなたを翻弄してみせるわ❤,I find it so thrilling and fun to fighting strong people like you. I'll enjoy playing with you using a combination of my martial arts and pleasure attacks.❤
+あら、また会ったわね、ルーキーくん。\n今日も手合わせかしら。,Oh my; we meet again; rookie. Another sparring match today; perhaps?
+前のバトルはわたしが勝ったけれど、\n今日はどうなるかしら。あなたも前より強くなっているのでしょう？,I did win our last battle; but I wonder how today will go? You've become stronger; haven't you?
+ほら、カードを構えて。\n白熱したいいバトルにしましょうね❤,Come; ready your cards. Let's have an intense and exciting battle!❤
+あいたた、さすがの強さね。\nやっぱり強者との戦いは、いい修行になるわ。,Ouch; you're as strong; as I expected. It goes to show fighting against strong opponents can be good training.
+また今度、時間が合えばバトルしましょう。\n上を目指して、一緒に切磋琢磨していきましょうね。,Let's battle again sometime when we both have time. Let's work hard together as we aim for the top; OK?
+うふ、今日はわたしの勝ちみたい❤\nわたしのテクニック、やっぱりなかなかのものでしょう？\nあなたのこと気持ちよくできたみたいでうれしいわ❤,Ufufu; looks like I won today.❤ My techniques are pretty impressive; aren't they? I'm so happy I could make you feel good~❤
+それじゃまた、時間が合えばバトルしましょうね。\n上を目指して、一緒に切磋琢磨していきましょう。,Well then; let's battle again when we have the time; OK? Let's work hard together as we aim for the top!
+挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You haven't reached the rank points needed to challenge (Current rank points: {ランクポイント}).
+さあ無敗のルーキーの試合が今日も始まります。\n今日はどんなバトルを見せてくれるのか！,And now... The undefeated rookie's match is upon us! What kind of battle will he show us today!?
+おっとファンの歓声が割れんばかりに響いていますね！\nつい最近まで無名だったというのに、{主人公}選手、\nもはやすっかりモルゲンの有名人！素晴らしい人気です！,Oh my! The fans' cheers are echoing so loudly they might just shatter the arena! Even though he was unknown until recently; contestant {主人公} has become a household name in Morgen! What incredible popularity!
+しかし、相手も負けてはいないぞ！その戦いっぷりから人気も高い、\nモンスターを使わず武器と己の身一つで戦う超武闘派カードマスター！\nムサシ選手の入場です！,However; his opponent isn't backing down either! Popular for her fighting style; a super combat-focused Cardmaster who battles with weapons and body; without using monsters! Musashi has arrived!
+{主人公}選手とムサシ選手はお互いにCランクで連勝中！\nこの試合に勝てばBランク昇格試合への挑戦権を得られます！,Both {主人公} and Musashi are on winning streaks in C-rank! Whoever wins this match earns the right to challenge for B-rank promotion!
+Bランクといえば、国でも有数の実力者です！\n「守護者」に任じられて村や町のトップになることもあり、\n誰もが夢見る、ひとつの到達点、それがBランクなのです！,"B-rank cardmasters are among the nation's most skilled fighters! They can be appointed as ""Guardians"" and become leaders of villages and towns. B-rank is that one achievement everyone dreams of reaching!"
+この大きなチャンスを掴むのはどちらになるのか！\nいつも以上に目が離せない試合なりそうです！,Who will be the one to recieve this massive opportunity? This will be a match you won't want to take your eyes off of!
+はじめまして。わたしはムサシ。\n「百器使いのムサシ」なんて呼ばれているわ。,"Nice to meet you. I'm Musashi. People call me the ""Toolkit Tyrant""."
+何種類もの武器を持ち替えながら戦うから、\nみんなそう呼ぶらしいのだけれど・・・。\n何も剣ばかりがわたしの武器じゃないのよ。,I fight while switching between many different types of weapons and equipment cards; so it seems that's what everyone calls me… But swords aren't my only weapons.
+男を篭絡するための組み技だって得意なの。\n胸でも足でも❤手でも口でも❤\nあらゆるところで快楽を与えられるわ。,I'm also skilled at grappling techniques for ensnaring men. My soft breasts... skilled mouth...❤ My dexterous hands and legs...❤ I can pleasure anyone with any part of my body.
+誰にでもそういうことするわけじゃないのだけれど…。\n強いあなたには、そういう手段も使ってあげる❤,They aren't techniques I perform on just anyone... But against someone strong like you; I think it'll be a worthy cause~❤
+そういうとムサシは刀を半身で振りかぶった。普通の剣法と違い、体を軽くしならせ、女体のメリハリを強調するような構えだ。,With that; Musashi raised her blade in front her; with one leg bent in front and the other behind. Unlike normal swordsmanship; she arched her body gracefully; striking a pose that emphasized the curves of her feminine figure.
+刃先に集中するべきなのかもしれないが、否応なしに胸や腰、脇などに視線を吸い寄せられてしまう。,"I should be focusing on her blade; but my gaze was helplessly drawn to her seductive curves; breasts, and exposed armpits..."
+うふふ❤見たければ見ていいのよ。\n剣と体と、どちらもわたしの武器なのだから、\n体に集中するのも悪い判断じゃないわ❤,Ufufu.❤ Go ahead and look if you want to~ Both my sword and my body are weapons; so focusing on my body isn't a bad strategy either.❤
+ゆっくり揺れる胸を、じっと見つめて、\nほら、集中…❤集中…❤\nくすくす❤,Stare at the gentle sway of my breasts; that's it~ Focus on how they sway…❤ Back and forth…❤ Back and forth…❤ *Giggle*❤
+そんな誘惑には負けません！,I won't fall for such temptation!
+（あううっ、エロい・・・❤）,(Ahh... the way she moves her tits is so sexy…❤)
+あら、勇ましい。\nいいわ。どちらが強いのか、バトルではっきりさせましょう。,Oh my; how valiant. Very well. Let's settle this in battle to see who's stronger.
+わたしの動きについてこれるかしら！\n剣の錆びにしてあげる！,Let's see if you can keep up with my movements! I'll turn you into rust on my blade!
+くす❤前かがみになっちゃって、\nさっそく妄想しちゃったのかしら❤,*Giggle*❤ Your battle stance is showing a little more than you should. Are you imagining something?❤
+剣士の前で身動きとれなくなるなんて、自殺行為ね。\nさあ、固くなったあなたのソレを、\nすぐし楽にてあげるわ！,Exposing your weaknesses in front of a swordswoman is a quick way to lose; you know. Now then; time to give your little hard-on some immediate relief!
+これはムサシ選手、耐えられないー！\n決着！{主人公}選手の勝利です！,Musashi can't fight anymore; and that's game! {主人公} reigns victorious!
+ムサシ選手がどれだけ武装を固めようがおかまいなし！\n怒涛の猛攻で一気に勝負を決めました！\n無敗のルーキー、圧倒的な実力です！,No matter how much Musashi fortified her defenses; it didn't matter! With his torrential assaults; the match was decided in one swift blow! There's no topping this undefeated rookie's overwhelming skill!
+ムサシ選手の多彩な攻撃に追い詰められた{主人公}選手ですが、\n接戦を見事制しました！\n無敗記録を今日も更新です！,Even though {主人公} was cornered by Musashi's diverse attacks; he just won out in this brilliantly close battle! His undefeated record continues!
+ムサシ選手の多彩な攻撃を見事にさばききり、\n危なげなく勝利を飾りました！\nさすがは無敗のルーキー、連勝記録を今日も更新です！,He skillfully handled Musashi's diverse attacks and achieved victory without breaking a sweat! As expected of the undefeated rookie; his winning streak continues today!
+ううっ、負けたかぁ・・・。\n久しぶりの負けだわ。ほんとに強いわね。,Uugh; I lost… It's been a while since I've tasted defeat. You really are strong; huh.
+昇格はぜひともしたかったのだけれど、\nあなたに負けるのなら仕方ないとも思えるわ。\n昇格試合、わたしの分もがんばってきなさいね。,I desperately wanted that promotion; but if I have to lose to someone; I suppose it might as well be you. Do your best in the promotion match now—for my sake too; ok?
+闘技場Bランク昇格戦に挑戦できるようになりました。,You can now challenge the Arena B-rank promotion battle.
+闘技場の勝利報酬を得た！,You obtained the arena victory reward!
+先攻はあなたからね。どう展開してくるかしら？お手並み拝見ね。,You go first. I wonder what strategy you'll use? Let me see what you're made of.
+先攻はわたしからね。\n行くわよ！,I'll go first. Here I go!
+(ううっ・・・・❤),(Ahh...❤)
+（あらあら、すっかり心ここにあらずじゃない❤\nあんな状態でまともにカードをプレイできるのかしら？\nくすくす・・・❤）,(Oh my; your mind really is elsewhere else; isn't it?❤ I wonder if you can even properly play your cards in that state... *Giggle*❤)
+ドローするわ。,I'll draw.
+わたしのターンね。ドロー！,My turn now. Draw!
+モンスターをコストにして、{使用カード}を上級召喚する！,I'll use a monster as tribute to advance summon {使用カード}!
+{使用カード}を召喚！,I summon {使用カード}!
+ううっ、あうう・・・❤,Uuu; auuu…❤
+あらあら❤わたしに気持ちよく負けたときのこと、\nばっちり覚えちゃってるみたいね❤\n蘇って出てきても何の役にも立たなそう❤,Oh my.❤ It seems you remember exactly how good it felt when you lost to me~❤ Even if you revive and come back; you don't look like you'll be any use❤
+また気持ちよくイかせてあげようかしら。\n今度は刀の錆にするのもいいわね❤\n棒立ちで腑抜けているあなたをさっさと始末してあげる❤,Should I pleasure you until you cum again? Leaving you as rust on my blade isn't a bad idea.❤ I'll quickly finish off your pathetic self; as you stand there all empty-headed.❤
+さらにもう1枚発動！,I activate one more card!
+{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,I activate {使用カード}!\nIf there are no monsters on my field at the start of the next turn;\nI can draw 2 additional cards!
+魔法カード、{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,I activate the magic card; {使用カード}!\nIf there are no monsters on my field at the start of the next turn;\nI can draw 2 additional cards!
+切り裂いてあげる！{使用カード}を発動！\n墓地に眠る装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I'll slice you apart! I activate {使用カード}!\nFor each equipment card sleeping in my graveyard;\nI deal 300 points of damage to random enemy monsters!
+{使用カード}を発動！\n自分の墓地にある装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I activate {使用カード}!\nFor each equipment card in my graveyard;\nI deal 300 points of damage to random enemy monsters!
+邪魔なものは破壊してしまうわ！\n{使用カード}を発動！,I'll destroy anything that gets in my way!\nI activate {使用カード}!
+自分の装備カードを１枚破壊する代わりに、\n相手の魔法トラップカードをすべて破壊する！,By destroying one of my equipment cards;\nI destroy all of your magic and trap cards!
+自分が装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nとどめを刺せた場合さらにカードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I activate {使用カード}!\nI deal damage equal to my attack power to you twice!\nIf I land the finishing blow; I draw an additional card!
+装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nさらに、とどめを刺せた場合カードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I activate {使用カード}!\nI deal damage equal to my attack power to you twice!\nFurthermore; if I land the finishing blow; I draw a card!
+自分の墓地に装備カードが３種類以上存在し、\nモンスターカードが１枚も存在しないとき、{使用カード}を発動！,When there are 3 or more different types of equipment cards in my graveyard;\nand no monster cards exist there; I activate {使用カード}!
+デッキからカードを１枚ドローし、そのカードが装備カードだった場合\nわたしの攻撃宣言回数を5ターンの間１回増加させるわ！,I draw one card from my deck; and if that card is an equipment card;\nI increase my number of attack declarations by 1 for 5 turns!
+甘いわね。相手の攻撃宣言時、{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,How naive. When you declare an attack; I activate {使用カード}!\nI negate your attack and deal damage equal to your attack power to you!\nFurthermore; I inflict inability to counterattack!
 無駄よ！攻撃宣言時に{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,
 {使用カード}を装備！\n攻撃力を300ポイントアップ！,
 {使用カード}を装備！,
