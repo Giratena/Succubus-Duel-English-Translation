@@ -11,19 +11,19 @@ F11_paizuriWing,
 OPイベントをスキップしますか？,Do you want to skip the opening event?
 ランクポイントが貯まった僕は、ランクアップのために再びギルドの建物を訪れていた。,After I had finally gathered enough rank points; I went to the guild to increase my rank.
 新人マスターさん、ギルドへようこそ！\nお元気そうですね。,Welcome to the guild; Newbie! You seem in good spirits today!
-Dランクの昇格に来ました。,I've arrived to apply for D-rank.
+Dランクの昇格に来ました。,I'd like to apply for D-rank, please
 もうランクアップ試験ですか？\nこの短い期間で、さすがです！,You're here for the next rank exam already? It hasn’t even been that long since your last one. Impressive!
-EランクからDランクに昇格するためには、\nクエストを１つクリアしてもらうのが条件です。,To advance from E rank to D rank; you'll need to clear one guild quest.
+EランクからDランクに昇格するためには、\nクエストを１つクリアしてもらうのが条件です。,To advance from E-rank to D-rank; you'll need to clear one guild quest.
 ちょうどあなた宛てに依頼が届いているので、\n今回はそれをこなしてもらうことにしましょう。,And it just so happens a request has just arrived addressed to you; so let's have you handle that this time.
-クエストの内容は\n「街付近に現れたサキュバスの調査」です。,The quest details are to; "Investigate the succubus appearance near the town".
+クエストの内容は\n「街付近に現れたサキュバスの調査」です。,The quest details are to "Look into the appearance of the succubus that was spotted outside town".
 そのサキュバスって…。,A succubus? Could it be...
 はい。あなたが街の近くで出会ったというサキュバスですね。\n衛兵へ報告いただきありがとうございました。\nそのときの報告がギルドにも上がってきています。,Correct; it’s about the succubus you encountered near the town. We’re thankful that you reported it to the guards; and that report was sent to the guild.
 情報を見る限り下級のサキュバスのようですが…。\n普段この辺りにサキュバスは現れませんし、出現したのがたとえ下級サキュバスであったとしても注意すべき事態であるとギルドは考えます。,Based on that information; it seems to be a lower-class succubus... Succubi don’t normally appear around the town; which is why the guild considers this a matter of high importance; even if it only involves a lower-class succubus.
-そこで、目撃者であるあなたに、\nこの件のくわしい調査をお願いしたいわけです。,So we'd like to request that you, as a witness, conduct a detailed investigation of this matter.
-なるほど。,I see!
+そこで、目撃者であるあなたに、\nこの件のくわしい調査をお願いしたいわけです。,So we'd like to request that you; as a witness; conduct a detailed investigation of this matter.
+なるほど。,Got it!
 とはいえ新人マスターさんはまだ調査などは不慣れでしょうから、\n今回はパートナーをつけさせてもらいますね。,That being said; a newbie cardmaster might not be familiar with how to do investigations. That’s why we brought you a partner to help.
 そう言うと受付のお姉さんは、部屋の奥の方を見て手招きをした。,As the receptionist lady says that; she signaled to someone else in the room.
-こんにちは。わたしはエルル。\nDランクのカードマスターよ。はじめまして。,Hello; I’m Eruru. A D-rank cardmaster. Nice to meet you.
+こんにちは。わたしはエルル。\nDランクのカードマスターよ。はじめまして。,Hello; I’m Eruru. A D-rank cardmaster. Heya.
 あなたは、まだこの街に来たばかりでしょう？\nカードも初心者なんだっけ？,Didn’t you just come to this town recently? And you’re a newbie cardmaster too?
 ふむふむ。なるほど。修行は長くやってきたけど、\n実戦経験はあまりない感じなのね。\nわかったわ。,Hmm; I see. You’ve been training for a long time, but you don’t have much actual combat experience.
 まあ、FランクからDランクに\nあっという間に上がってきているんだし、実力は間違いなさそうね。\n期待してるわ。,Well; if you got from F-rank to D-rank in such a short time then I’m sure you’ve got the strength to back it up. I’m expecting a lot from you.
@@ -31,7 +31,7 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 今回のクエストでは、君が戦ったっていうサキュバスのことを\nわたしの能力で調べようってわけ。わかった？,For this quest; I’ll be using my abilities to investigate more about that succubus you fought. Got it?
 こんにちは。わたしはエルル。\nDランクのカードマスターよ。って、あら…。,Hello; I’m Eruru. A D-rank cardmaster. Good to meet... wait...
 あなた、わたしと何回か戦ったことがあるわね。\n覚えている？ほら…❤,We’ve fought multiple times before; right? You remember right? Look...❤
-エルルはにやにやした顔で、手でわっかを作り、からかうように上下に動かして見せつけてきた。,Eruru formed a ring with her fingers with a wide grin on her face; and began to teasingly pumping it up and down right in front of me.
+エルルはにやにやした顔で、手でわっかを作り、からかうように上下に動かして見せつけてきた。,Eruru formed a ring using her fingers with a wide grin on her face; and began to teasingly pumping it up and down right in front of me.
 うふふ。わたしの手コキでイかされちゃってた子が、\nもうＤランクに挑戦かぁ…。\nずいぶんと頑張ったじゃない♪,Ufufu; the kid who came from my handjob is now about to try getting D-rank... You must’ve worked so hard～♪
 そうだ。頑張ったあなたに、\nあとで気持ちいい"ご・ほ・う・び"あげよっか？\nくすくす❤,Right; since you’ve worked so hard; how about I give you a pleasurable “reward” after this? Teehee～
 あううっ・・・・❤,Ahh...
@@ -56,13 +56,13 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 僕は、サキュバスは小柄な少女の姿をしていたこと、スライム系のカードを使ってきたことなどを説明した。また戦いの様子も思い出せる限りエルルに話した。エルルさんはそれを聞いてしきりにうなずいている。,I explained to her that the succubus took the form of a girl with a small stature and used slime-type cards. I also told her as much as I could remember about my fight with the succubus. Eruru listened to the story and nodded multiple times.
 なるほどねー。ってことは…。,I see. Then in that case...
 たぶんこれがそのときの魔力の跡かな。,These are probably the traces of magic energy from then.
-そう言ってエルルさんは地面の一か所を指さしてみせた。僕はその場所を目を凝らして見てみたが何も見えない。ただの地面だ。,As Eruru says that; she pointed at a location on the ground. I tried to take a hard look; but I couldn't see anything.
+そう言ってエルルさんは地面の一か所を指さしてみせた。僕はその場所を目を凝らして見てみたが何も見えない。ただの地面だ。,As Eruru said that; she pointed at a location on the ground. I tried to take a hard look; but I couldn't see anything.
 んふふ。そんな簡単にわかるものなのかって？\nなにせわたし天才だからさー。ランクこそDだけど、\n調査の実力だけで言えばBランクぐらいの能力があるのよ。,Hehe; how could I easily find it? Well; I am a genius after all. My rank might only be D; but when it comes to pure investigation skills; I'm easily B-rank!
 ただ…。うーん、少し気になる部分もあるし、\nもうちょっと詳しく見たほうがいいかもね。カードを使うわよ。,It’s just that... Hmm; something still feels a little off. It might be worthwhile to look into it further. I’m going to use my card.
 わたしたちを対象にカードを発動、「アナライズ」！,Magic card; “Analyze” activate!
 エルルさんがカードを発動させると、目がほんのり熱を帯びてくるのを感じる。すると、さっきまで見えなかった魔力の痕跡がはっきりと視界に浮かび上がってきた。,When Eruru used her card; I could feel a faint heat in my eyes; and the traces of magical energy that weren't visible to me earlier gradually came into view.
 ふふ、便利な魔法でしょ？そこの岩についた青色の魔力が見えるかしら。\n道端にこんなに濃く魔力が付くことは普通ないから、\nあなたが戦闘したときの跡で間違いないと思うわ。,Fufu. Useful spell; ain't it? Do you see that blue-colored magic energy on that rock over there? A strong trace like that on the side of the road isn’t normal at all. It was definitely left behind during your fight.
-サキュバス特有の邪気も感じるし、\n水属性の魔力だってのも一致しているわね。,I can even feel an aura commonly associated with succubus here; and it's also water-attribute; which matches your story.
+サキュバス特有の邪気も感じるし、\n水属性の魔力だってのも一致しているわね。,I can even feel an aura commonly associated with succubi here; and it's also Water Attribute; which matches your story.
 問題は、こっちの青い跡。\n同じサキュバスの魔力だと思うんだけど…、\nそれにしてはこれ、かなり新しいの。,The problem is these blue traces; though. I think they’re traces of magical energy from the same succubus... but they seem pretty new.
 新しい？,They’re new?
 うん。跡がついたのは半日前ってところかな…？\n明らかにあなたとの戦闘より後に付着しているわ。,Yep. These energy traces are probably left from half a day ago...? I’m confident that these are from after your fight.
@@ -105,7 +105,7 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 援護します！,I’ll back you up!
 僕は敵のスライムサキュバスめがけて魔法カードで攻撃をしかけた！,I aimed at the enemy slime succubus with my spell cards and launched an attack!
 きゃあ！うそ、フラワーちゃん負けちゃったの！,Kyaa! Unbelievable; how could Mycella lose!?
-わたしのモンスターたち、チャンスよ！\n相手プレイヤーにダイレクトアタック！,Now’s our chance! Monsters; do a direct attack on the opponent!
+わたしのモンスターたち、チャンスよ！\n相手プレイヤーにダイレクトアタック！,Now’s our chance! Monsters; launch a direct attack on the opponent!
 あうう、復活してすぐじゃなければ…。,Augh; if only I hadn't just been resurrected...
 エルルの指示でモンスターたちがとどめをさす。エルルに倒されたサキュバスは、その場で霧のように消えてしまった。,The monsters ordered by Eruru landed the finishing blow. The defeated succubus vanished into mist.
 はぁ、ふう…。なんとかなったわね…。そっちは大丈夫？,Phew... Somehow we managed to scrape by...Are you alright?
@@ -120,13 +120,13 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 目を丸くしている受付さんに、僕たちは森の中で起きたできごとを詳しく説明した。,The guild receptionist was taken aback as we explained what happened inside of the forest in detail.
 倒したはずのスライムサキュバスが生きていたこと、別のサキュバスが森の中にいてそのサキュバスに挟み撃ちにされたこと。,About how the slain slime succubus was still alive and about how you were ambushed by another succubus inside of the forest.
 受付さんは僕たちの話をとても信じられないという様子で聞いていた。EランクとDランクの二人で２体のサキュバスに勝つなんて普通ありえないことらしい。,The guild receptionist seemed to be in disbelief as she listened to our explanations. Normally; an E-rank and D-rank winning against two succubi would be impossible.
-なるほど…。\nにわかには信じられませんが、だいたいの事情はわかりました。,I see... As unbelievable as it sounds; I think I roughly have an idea of the whole situation now.
-魔族領から遠く離れたこの地に\n複数体のサキュバスがいるのはとても稀なことです。\nなぜサキュバスがこの街に…。,It’s quite rare to find multiple succubi in a place so distant from demon territory. And why near this town; too...?
+なるほど…。\nにわかには信じられませんが、だいたいの事情はわかりました。,I see... As unbelievable as it sounds; I think I have a rough idea of the whole situation now.
+魔族領から遠く離れたこの地に\n複数体のサキュバスがいるのはとても稀なことです。\nなぜサキュバスがこの街に…。,It’s quite rare to find multiple succubi in a place so far from demon territory. And why near this town; too...?
 それに倒されたサキュバスが復活するだなんて…。\nうーん、これはしっかりとした調査が必要ですね。,And a slain succubus being resurrected... Hmm; this must be investigated even further.
 いずれにしても、今回はお疲れさまでした。\nクエストは無事達成です。\nランクの昇格を行いますので指輪をこちらへお渡しください。,At any rate; good work you two. You’ve both completed the quest safely. Your rank will be promoted; so please hold out your ring.
 ランクがDランクにアップした！,Obtained D-rank!
 ランクアップおめでとう。\n大変な任務になっちゃったわね。,Congratulations on your rank-up. The mission turned out to be tougher than I thought.
-それにしてもなんでサキュバスたちがモルゲンの近くにいたのかしら。\n国境からここまで侵入するのだってそう簡単じゃないと思うのだけど。,Still; I wonder why those succubi were so close to Morgen. I didn’t think it’d be that easy to infiltrate this city all the way from the border.
+それにしてもなんでサキュバスたちがモルゲンの近くにいたのかしら。\n国境からここまで侵入するのだってそう簡単じゃないと思うのだけど。,Still; I wonder why those succubi were so close to Morgen. I don't think it would be easy to infiltrate this city all the way from the border.
 カードマスターがこの街に集まっているから…？,Maybe it's because of all the cardmasters in town...?
 ただの偶然…？,Maybe it's just a coincidence...?
 僕がこの街にいるから…？,Is it because I’m in this town...?
@@ -376,7 +376,7 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 いつまでもわたしにパイズリされてないで❤おちんちんの先っぽ、いっぱいズリズリされてないでさぁ❤,How long are you gonna let me squeeze your dick?❤ Come on; don’t let me rub the tip of your dick~❤
 あっ、あひぃっ❤あぐぅ、ううっ・・・❤,Ahh～❤ Ahiee～❤ Agh～❤ Uuu...❤
 あはは❤自分から腰、へこへこしちゃってる❤これが反撃なの？もっと気持ちよくしてーって、言ってるだけじゃないのかな❤,Ahaha～❤You’re thrusting on your own now～❤ Is this supposed to be you fighting back? It looks more like you’re asking to be pleasured even more～❤
-だって・・・❤うっ❤ううっ❤きもち、よすぎてぇ・・・❤,But...❤ Uuuu～❤ It feels soo good...❤
+だって・・・❤うっ❤ううっ❤きもち、よすぎてぇ・・・❤,But...❤ Uuuu～❤ It feels too good...❤
 あーあ、完全に顔がとろけちゃった❤おっぱいに降伏❤仲間も裏切って、マスターとしての頑張りも捨てて、へこへこパイズリおねだり❤,Aww; you’ve been completely charmed～❤ Surrendered completely to my breasts～❤ You betrayed your ally; and threw away all your hard work just to beg and thrust your dick between my boobs～❤
 もう限界だね❤ちょっとパイズリしてあげただけなのに、ちょろマゾおちんちんがビクビクしてる❤射精１０秒前って感じ？,Looks like you’re at your limit~❤ I wanted to squeeze you even more; but looks like your pushover masochist dick is already twitching~❤ Maybe you’ll last for another 10 seconds?
 わたしってとってもやさしいからさー、きもちよーく射精できるるように思いっきりぎゅ～ってしてあげるね❤,I’m a very kind succubus~ So I’ll make sure to squeeze your dick and make that ejaculation feel so good you’ll never ever forget it~❤
