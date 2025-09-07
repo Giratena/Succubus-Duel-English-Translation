@@ -57,47 +57,47 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 あらあら❤わたしに気持ちよく負けたときのこと、\nばっちり覚えちゃってるみたいね❤\n蘇って出てきても何の役にも立たなそう❤,Oh my.❤ It seems you remember exactly how good it felt when you lost to me~❤ Even if you revive and come back; you don't look like you'll be any use❤
 また気持ちよくイかせてあげようかしら。\n今度は刀の錆にするのもいいわね❤\n棒立ちで腑抜けているあなたをさっさと始末してあげる❤,Should I pleasure you until you cum again? Leaving you as rust on my blade isn't a bad idea.❤ I'll quickly finish off your pathetic self; as you stand there all empty-headed.❤
 さらにもう1枚発動！,I activate one more card!
-{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,I activate {使用カード}!\nIf there are no monsters on my field at the start of the next turn;\nI can draw 2 additional cards!
-魔法カード、{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,I activate the magic card; {使用カード}!\nIf there are no monsters on my field at the start of the next turn;\nI can draw 2 additional cards!
-切り裂いてあげる！{使用カード}を発動！\n墓地に眠る装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I'll slice you apart! I activate {使用カード}!\nFor each equipment card sleeping in my graveyard;\nI deal 300 points of damage to random enemy monsters!
-{使用カード}を発動！\n自分の墓地にある装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I activate {使用カード}!\nFor each equipment card in my graveyard;\nI deal 300 points of damage to random enemy monsters!
-邪魔なものは破壊してしまうわ！\n{使用カード}を発動！,I'll destroy anything that gets in my way!\nI activate {使用カード}!
-自分の装備カードを１枚破壊する代わりに、\n相手の魔法トラップカードをすべて破壊する！,By destroying one of my equipment cards;\nI destroy all of your magic and trap cards!
-自分が装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nとどめを刺せた場合さらにカードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I activate {使用カード}!\nI deal damage equal to my attack power to you twice!\nIf I land the finishing blow; I draw an additional card!
-装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nさらに、とどめを刺せた場合カードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I activate {使用カード}!\nI deal damage equal to my attack power to you twice!\nFurthermore; if I land the finishing blow; I draw a card!
-自分の墓地に装備カードが３種類以上存在し、\nモンスターカードが１枚も存在しないとき、{使用カード}を発動！,When there are 3 or more different types of equipment cards in my graveyard;\nand no monster cards exist there; I activate {使用カード}!
-デッキからカードを１枚ドローし、そのカードが装備カードだった場合\nわたしの攻撃宣言回数を5ターンの間１回増加させるわ！,I draw one card from my deck; and if that card is an equipment card;\nI increase my number of attack declarations by 1 for 5 turns!
-甘いわね。相手の攻撃宣言時、{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,How naive. When you declare an attack; I activate {使用カード}!\nI negate your attack and deal damage equal to your attack power to you!\nFurthermore; I inflict inability to counterattack!
-無駄よ！攻撃宣言時に{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,
-{使用カード}を装備！\n攻撃力を300ポイントアップ！,
-{使用カード}を装備！,
-ターン終了時に{使用カード}の効果発動！\n自壊して新しい装備カードを手札に加えるわ。\nさらにわたしの攻撃力を100ポイントアップ！,
-ターン終了時に{使用カード}の効果発動！\n自壊する代わりに、新しい装備カードをランダムに手札に加えるわ。\nさらにわたしの攻撃力を100ポイントアップ！,
-{使用カード}を装備！\nわたしが受ける戦闘ダメージ・効果ダメージを800ポイントカットする盾よ！,
-{使用カード}を装備！\nこの盾がある限り、ダメージを800ポイントカットするわ！,
-ターン終了時に{使用カード}の効果発動！\n自壊して新しい装備カードを手札に加えるわ。\nさらにわたしの最大HPを500ポイントアップ！,
-ターン終了時に{使用カード}の効果発動！\n自壊して、ランダムな装備カードをデッキからサーチよ。\nさらにわたしの最大HPを500ポイントアップ！,
-ぐっ、一時しのぎだけど、手札から{使用カード}を発動！\n１ターンに3000ポイント以上のダメージを受けたとき、\nこのカードを捨てて、ターン終了時までる戦闘ダメージを0にするわ！,
-{使用カード}を装備！\n攻撃力を300ポイントアップする！,
-攻撃宣言時に{使用カード}の効果を発動！\n相手から受けるダメージを０にし、\nさらに反撃を行うわ！,
-無駄よ！攻撃宣言時に{使用カード}の効果を発動！\n相手から受けるダメージを０にし、\nさらに反撃を行うわ！,
-装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-魔法カードを発動！{使用カード}！,
-トラップカードを発動！{使用カード}！,
-カードをセットする。,
-カードを伏せる。,
-気持ちよくしてあげるわね❤{防御カード}を攻撃！,
-行くわ！{防御カード}へ攻撃！,
-切り刻んであげるわ。{防御カード}を攻撃！,
-行きなさい！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
-ううっ、追い詰められてしまったようね…。ターンエンド…。,
-この手札では…。くっ、ターンエンド…。,
-ターン終了。,
-わたしのターンは終わりね。ターンエンド。,End turn.
-これで終わりよ。ターンエンド。,End turn.
-組み伏せてあげる❤\nほら！,
-ふふ、手を捕まえれば相手を地面に投げるのは簡単よ。\nこのまま胸で拘束して搾り取ってあげるわね❤,
-弾むように上下に動かされたら、\n気持ちよくて腰がとろけちゃうでしょ？\nぱんぱんぱん♪ってリズミカルに擦られてあっという間に天国行き❤,
+{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,{使用カード} activate! If there are no monsters on my field at the start of the next turn; I can draw 2 additional cards!
+魔法カード、{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,I activate the magic card; {使用カード}! If there are no monsters on my field at the start of the next turn; I can draw 2 additional cards!
+切り裂いてあげる！{使用カード}を発動！\n墓地に眠る装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I'll slice you apart! I activate {使用カード}! I deal 300 points of damage to random enemy monsters for each equipment card in my graveyard!
+{使用カード}を発動！\n自分の墓地にある装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I activate {使用カード}!  I deal 300 points of damage to random enemy monsters for each equipment card in my graveyard!
+邪魔なものは破壊してしまうわ！\n{使用カード}を発動！,I'll destroy anything that gets in my way! {使用カード} activate!
+自分の装備カードを１枚破壊する代わりに、\n相手の魔法トラップカードをすべて破壊する！,By destroying one of my equipment cards; I can destroy all of your magic and trap cards!
+自分が装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nとどめを刺せた場合さらにカードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I can activate {使用カード}; which lets me deal damage equal to twice my attack power! Furthermore; if I land the finishing blow; I draw an additional card!
+装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nさらに、とどめを刺せた場合カードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I activate {使用カード}! I deal damage equal to my attack power to you twice! And; if I land the finishing blow; I draw a card!
+自分の墓地に装備カードが３種類以上存在し、\nモンスターカードが１枚も存在しないとき、{使用カード}を発動！,When there are 3 or more different types of equipment cards in my graveyard; and no monster cards exist there; I can activate {使用カード}!
+デッキからカードを１枚ドローし、そのカードが装備カードだった場合\nわたしの攻撃宣言回数を5ターンの間１回増加させるわ！,I draw one card from my deck; and if that card is an equipment card; I can declare an additional attack for 5 turns!
+甘いわね。相手の攻撃宣言時、{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,How naive of you~ When you declare an attack; I can activate {使用カード} to negate your attack and reflect that damage back to you! Furthermore; I also inflict a status that prevents the attacker from counterattacking!
+無駄よ！攻撃宣言時に{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,It's no use! I activate {使用カード} when you declare an attack to negate it and deal damage equal to your attack power! Not only that; they can't attack after either!
+{使用カード}を装備！\n攻撃力を300ポイントアップ！,I equip {使用カード}! My attack power increases by 300 points!
+{使用カード}を装備！,I equip {使用カード}!
+ターン終了時に{使用カード}の効果発動！\n自壊して新しい装備カードを手札に加えるわ。\nさらにわたしの攻撃力を100ポイントアップ！,At the end of my turn; {使用カード}'s effect activates! It destroys itself; I add a new equipment card to my hand; and my attack power increases by 100 points!
+ターン終了時に{使用カード}の効果発動！\n自壊する代わりに、新しい装備カードをランダムに手札に加えるわ。\nさらにわたしの攻撃力を100ポイントアップ！,At the end of my turn; {使用カード}'s effect activates! Instead of self-destructing; I randomly add a new equipment card to my hand and also increase my attack power by 100 points!
+{使用カード}を装備！\nわたしが受ける戦闘ダメージ・効果ダメージを800ポイントカットする盾よ！,I equip {使用カード}! This shield reduces all battle damage and effect damage I take by 800 points!
+{使用カード}を装備！\nこの盾がある限り、ダメージを800ポイントカットするわ！,I equip {使用カード}! As long as I have this shield; all damage I take is reduced by 800 points!
+ターン終了時に{使用カード}の効果発動！\n自壊して新しい装備カードを手札に加えるわ。\nさらにわたしの最大HPを500ポイントアップ！,At the end of my turn; {使用カード}'s effect activates! It destroys itself and I add a new equipment card to my hand.\nFurthermore; my maximum HP increases by 500 points!
+ターン終了時に{使用カード}の効果発動！\n自壊して、ランダムな装備カードをデッキからサーチよ。\nさらにわたしの最大HPを500ポイントアップ！,At the end of my turn; {使用カード}'s effect activates!\nIt destroys itself and I search my deck for a random equipment card.\nFurthermore; my maximum HP increases by 500 points!
+ぐっ、一時しのぎだけど、手札から{使用カード}を発動！\n１ターンに3000ポイント以上のダメージを受けたとき、\nこのカードを捨てて、ターン終了時までる戦闘ダメージを0にするわ！,Ugh; it's just a temporary measure; but I activate {使用カード} from my hand!\nWhen I take 3000 or more damage in one turn;\nI discard this card and reduce all battle damage to 0 until the end of the turn!
+{使用カード}を装備！\n攻撃力を300ポイントアップする！,I equip {使用カード}!\nMy attack power increases by 300 points!
+攻撃宣言時に{使用カード}の効果を発動！\n相手から受けるダメージを０にし、\nさらに反撃を行うわ！,When I declare an attack; I activate {使用カード}'s effect!\nI reduce all damage I take to 0;\nand launch a counterattack!
+無駄よ！攻撃宣言時に{使用カード}の効果を発動！\n相手から受けるダメージを０にし、\nさらに反撃を行うわ！,It's useless! When I declare an attack; I activate {使用カード}'s effect!\nI reduce all damage I take to 0;\nand launch a counterattack!
+装備魔法カード発動！{使用カード}！,I activate the equipment spell card {使用カード}!
+魔法カードを発動！{使用カード}！,I activate the spell card {使用カード}!
+トラップカードを発動！{使用カード}！,I activate the trap card {使用カード}!
+カードをセットする。,I set a card.
+カードを伏せる。,I place a card face-down.
+気持ちよくしてあげるわね❤{防御カード}を攻撃！,I'll make you feel so good.❤ Attacking {防御カード}!
+行くわ！{防御カード}へ攻撃！,Here I go! Attacking {防御カード}!
+切り刻んであげるわ。{防御カード}を攻撃！,I'll slice you to ribbons. Attacking {防御カード}!
+行きなさい！{使用カード}で{防御カード}を攻撃！,Go forth! {使用カード} attacks {防御カード}!
+ううっ、追い詰められてしまったようね…。ターンエンド…。,Ugh; it seems I've been cornered… Turn end…
+この手札では…。くっ、ターンエンド…。,With this hand… Damn; turn end…
+ターン終了。,Turn end.
+わたしのターンは終わりね。ターンエンド。,My turn is over. Turn end.
+これで終わりよ。ターンエンド。,This is the end. Turn end.
+組み伏せてあげる❤\nほら！,I'll pin you down.❤\nHora!
+ふふ、手を捕まえれば相手を地面に投げるのは簡単よ。\nこのまま胸で拘束して搾り取ってあげるわね❤,Fufu; once I grab your hands; throwing you to the ground is easy.\nI'll restrain you with my breasts and milk you dry.❤
+弾むように上下に動かされたら、\n気持ちよくて腰がとろけちゃうでしょ？\nぱんぱんぱん♪ってリズミカルに擦られてあっという間に天国行き❤,When I bounce up and down like this;\nyour hips will melt from how good it feels; won't they?\nPap pap pap♪ Getting rubbed rhythmically like this will send you straight to heaven.❤
 ほらほら、どんどん力が抜けて\nされるがままになっちゃう❤\nそのまま腑抜けていていいのかしら❤くすくす❤,
 攻撃をいなしたあと腰に抱き着いてっと・・・❤,
 正面からあなたの大事なところ、\nおっぱいで挟み込んであげるわ❤\nわたしに組みつかれて振りほどけるかしら？,
