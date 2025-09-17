@@ -16,6 +16,8 @@ F21_paizuriAnime,
 また今度、時間が合えばバトルしましょう。\n上を目指して、一緒に切磋琢磨していきましょうね。,Let's battle again sometime when we both have time. Let's work hard together as we aim for the top; OK?
 うふ、今日はわたしの勝ちみたい❤\nわたしのテクニック、やっぱりなかなかのものでしょう？\nあなたのこと気持ちよくできたみたいでうれしいわ❤,Ufufu; looks like I won today.❤ My techniques are pretty impressive; aren't they? I'm so happy I could make you feel good~❤
 それじゃまた、時間が合えばバトルしましょうね。\n上を目指して、一緒に切磋琢磨していきましょう。,Well then; let's battle again when we have the time; OK? Let's work hard together as we aim for the top!
+闘技場に挑戦する(必要ランクポイント:{$needPoint}),Challenge the arena (Required rank points: {$needPoint})
+今はやめておく,Not right now
 挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You haven't reached the rank points needed to challenge (Current rank points: {ランクポイント}).
 さあ無敗のルーキーの試合が今日も始まります。\n今日はどんなバトルを見せてくれるのか！,And now... The undefeated rookie's match is upon us! What kind of battle will he show us today!?
 おっとファンの歓声が割れんばかりに響いていますね！\nつい最近まで無名だったというのに、{主人公}選手、\nもはやすっかりモルゲンの有名人！素晴らしい人気です！,Oh my! The fans' cheers are echoing so loudly they might just shatter the arena! Even though he was unknown until recently; contestant {主人公} has become a household name in Morgen! What incredible popularity!
