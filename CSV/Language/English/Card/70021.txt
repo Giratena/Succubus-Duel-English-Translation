@@ -50,19 +50,19 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 先攻はあなたからね。どう展開してくるかしら？お手並み拝見ね。,You go first. I wonder what strategy you'll use? Let me see what you're made of.
 先攻はわたしからね。\n行くわよ！,I'll go first. Here I go!
 (ううっ・・・・❤),(Ahh...❤)
-（あらあら、すっかり心ここにあらずじゃない❤\nあんな状態でまともにカードをプレイできるのかしら？\nくすくす・・・❤）,(Oh my; your mind really is elsewhere else; isn't it?❤ I wonder if you can even properly play your cards in that state... *Giggle*❤)
+（あらあら、すっかり心ここにあらずじゃない❤\nあんな状態でまともにカードをプレイできるのかしら？\nくすくす・・・❤）,(Oh my; his mind really is elsewhere else!❤ I wonder he can even properly play his cards in that state... *Giggle*❤)
 ドローするわ。,I'll draw.
 わたしのターンね。ドロー！,My turn now. Draw!
 モンスターをコストにして、{使用カード}を上級召喚する！,I'll use a monster as tribute to advance summon {使用カード}!
 {使用カード}を召喚！,I summon {使用カード}!
 ううっ、あうう・・・❤,Uuu; auuu...❤
-あらあら❤わたしに気持ちよく負けたときのこと、\nばっちり覚えちゃってるみたいね❤\n蘇って出てきても何の役にも立たなそう❤,Oh my.❤ It seems you remember exactly how good it felt when you lost to me~❤ Even if you revive and come back; you don't look like you'll be any use.❤
+あらあら❤わたしに気持ちよく負けたときのこと、\nばっちり覚えちゃってるみたいね❤\n蘇って出てきても何の役にも立たなそう❤,Oh my~❤ It seems you remember exactly how good it felt when you lost to me~❤ Even if you revive and come back; you don't look like you'll be any use.❤
 また気持ちよくイかせてあげようかしら。\n今度は刀の錆にするのもいいわね❤\n棒立ちで腑抜けているあなたをさっさと始末してあげる❤,Should I pleasure you until you cum again? I don't mind leaving you as rust on my blade.❤ I'll quickly finish off your pathetic form; as you stand there all empty-headed.❤
 さらにもう1枚発動！,I activate one more card!
 {使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,{使用カード} activate! If there are no monsters on my field at the start of the next turn; I can draw 2 additional cards!
 魔法カード、{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,I activate the magic card; {使用カード}! If there are no monsters on my field at the start of the next turn; I can draw 2 additional cards!
-切り裂いてあげる！{使用カード}を発動！\n墓地に眠る装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I'll slice you apart! I activate {使用カード}! I deal 300 points of damage to random enemy monsters for each equipment card in my graveyard!
-{使用カード}を発動！\n自分の墓地にある装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I activate {使用カード}!  I deal 300 points of damage to random enemy monsters for each equipment card in my graveyard!
+切り裂いてあげる！{使用カード}を発動！\n墓地に眠る装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I'll slice you apart! I activate {使用カード}! I deal 300 points of damage to a random enemy monster for each equipment card in my graveyard!
+{使用カード}を発動！\n自分の墓地にある装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I activate {使用カード}!  I deal 300 points of damage a random enemy monster for each equipment card in my graveyard!
 邪魔なものは破壊してしまうわ！\n{使用カード}を発動！,I'll destroy anything that gets in my way! {使用カード} activate!
 自分の装備カードを１枚破壊する代わりに、\n相手の魔法トラップカードをすべて破壊する！,By destroying one of my equipment cards; I can destroy all of your magic and trap cards!
 自分が装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nとどめを刺せた場合さらにカードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I can activate {使用カード}; which lets me deal damage equal to twice my attack power! Furthermore; if I land the finishing blow; I draw an additional card!
