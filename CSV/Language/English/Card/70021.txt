@@ -59,27 +59,27 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 あらあら❤わたしに気持ちよく負けたときのこと、\nばっちり覚えちゃってるみたいね❤\n蘇って出てきても何の役にも立たなそう❤,Oh my~❤ It seems you remember exactly how good it felt when you lost to me~❤ Even if you revive and come back; you don't look like you'll be any use.❤
 また気持ちよくイかせてあげようかしら。\n今度は刀の錆にするのもいいわね❤\n棒立ちで腑抜けているあなたをさっさと始末してあげる❤,Should I pleasure you until you cum again? I don't mind leaving you as rust on my blade.❤ I'll quickly finish off your pathetic form; as you stand there all empty-headed.❤
 さらにもう1枚発動！,I activate one more card!
-{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,{使用カード} activate! If there are no monsters on my field at the start of the next turn; I can draw 2 additional cards!
+{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,{使用カード}; activate! If there are no monsters on my field at the start of the next turn; I can draw 2 additional cards!
 魔法カード、{使用カード}を発動！\n次のターン開始時に、わたしのフィールドにモンスターがいない場合、\nわたしは追加でカードを２枚ドローできる！,I activate the magic card; {使用カード}! If there are no monsters on my field at the start of the next turn; I can draw 2 additional cards!
 切り裂いてあげる！{使用カード}を発動！\n墓地に眠る装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I'll slice you apart! I activate {使用カード}! I deal 300 points of damage to a random enemy monster for each equipment card in my graveyard!
 {使用カード}を発動！\n自分の墓地にある装備カードの数だけ、\nランダムな相手モンスターに300ポイントのダメージを与える！,I activate {使用カード}!  I deal 300 points of damage a random enemy monster for each equipment card in my graveyard!
-邪魔なものは破壊してしまうわ！\n{使用カード}を発動！,I'll destroy anything that gets in my way! {使用カード} activate!
+邪魔なものは破壊してしまうわ！\n{使用カード}を発動！,I'll destroy anything that gets in my way! {使用カード}; activate!
 自分の装備カードを１枚破壊する代わりに、\n相手の魔法トラップカードをすべて破壊する！,By destroying one of my equipment cards; I can destroy all of your magic and trap cards!
-自分が装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nとどめを刺せた場合さらにカードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I can activate {使用カード}; which lets me deal damage equal to twice my attack power! Furthermore; if I land the finishing blow; I draw an additional card!
+自分が装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nとどめを刺せた場合さらにカードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I can activate {使用カード}; which lets me deal damage equal to twice my attack power! Also; if I land the finishing blow; I draw an additional card!
 装備カードを２枚以上装備しているとき、{使用カード}を発動！\n相手に攻撃力分のダメージを２回与える！\nさらに、とどめを刺せた場合カードを１枚ドローよ！,When I have 2 or more equipment cards equipped; I activate {使用カード}! I deal damage equal to my attack power to you twice! And; if I land the finishing blow; I draw a card!
-自分の墓地に装備カードが３種類以上存在し、\nモンスターカードが１枚も存在しないとき、{使用カード}を発動！,When there are 3 or more different types of equipment cards in my graveyard; and no monster cards exist there; I can activate {使用カード}!
+自分の墓地に装備カードが３種類以上存在し、\nモンスターカードが１枚も存在しないとき、{使用カード}を発動！,When there are 3 or more different types of equipment cards and no monster cards in my graveyard; I can activate {使用カード}!
 デッキからカードを１枚ドローし、そのカードが装備カードだった場合\nわたしの攻撃宣言回数を5ターンの間１回増加させるわ！,I draw one card from my deck; and if that card is an equipment card; I can declare an additional attack for 5 turns!
-甘いわね。相手の攻撃宣言時、{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,How naive of you~ When you declare an attack; I can activate {使用カード} to negate your attack and reflect that damage back to you! Furthermore; I also inflict a status that prevents the attacker from counterattacking!
-無駄よ！攻撃宣言時に{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,It's no use! I activate {使用カード} when you declare an attack to negate it and deal damage equal to your attack power! Not only that; they can't attack after either!
+甘いわね。相手の攻撃宣言時、{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,How naive of you~ When you declare an attack; I can activate {使用カード} to negate it and reflect that damage back to you! Furthermore; I also inflict a status that prevents the attacker from counterattacking!
+無駄よ！攻撃宣言時に{使用カード}を発動！\n攻撃を無効にして、相手の攻撃力分のダメージを与えるわ！\nさらに反撃不能を付与する！,It's no use! I activate {使用カード} when you declare an attack to negate it and send it back at you! Not only that; they can't attack after either!
 {使用カード}を装備！\n攻撃力を300ポイントアップ！,I equip {使用カード}! My attack power increases by 300 points!
 {使用カード}を装備！,I equip {使用カード}!
 ターン終了時に{使用カード}の効果発動！\n自壊して新しい装備カードを手札に加えるわ。\nさらにわたしの攻撃力を100ポイントアップ！,At the end of my turn; {使用カード}'s effect activates! It destroys itself; I add a new equipment card to my hand; and my attack power increases by 100 points!
-ターン終了時に{使用カード}の効果発動！\n自壊する代わりに、新しい装備カードをランダムに手札に加えるわ。\nさらにわたしの攻撃力を100ポイントアップ！,At the end of my turn; {使用カード}'s effect activates! Instead of self-destructing; I randomly add a new equipment card to my hand and also increase my attack power by 100 points!
+ターン終了時に{使用カード}の効果発動！\n自壊する代わりに、新しい装備カードをランダムに手札に加えるわ。\nさらにわたしの攻撃力を100ポイントアップ！,At the end of my turn; {使用カード}'s effect activates! In exchange for being sent to the graveyard; I randomly add a new equipment card to my hand and also increase my attack power by 100 points!
 {使用カード}を装備！\nわたしが受ける戦闘ダメージ・効果ダメージを800ポイントカットする盾よ！,I equip {使用カード}! This shield reduces all battle damage and effect damage I take by 800 points!
 {使用カード}を装備！\nこの盾がある限り、ダメージを800ポイントカットするわ！,I equip {使用カード}! As long as I have this shield; all damage I take is reduced by 800 points!
 ターン終了時に{使用カード}の効果発動！\n自壊して新しい装備カードを手札に加えるわ。\nさらにわたしの最大HPを500ポイントアップ！,At the end of my turn; {使用カード}'s effect activates! It destroys itself and I add a new equipment card to my hand. Then; my maximum HP increases by 500 points!
-ターン終了時に{使用カード}の効果発動！\n自壊して、ランダムな装備カードをデッキからサーチよ。\nさらにわたしの最大HPを500ポイントアップ！,At the end of my turn; {使用カード}'s effect activates! It destroys itself and I search my deck for a random equipment card; and my maximum HP increases by 500 points!
-ぐっ、一時しのぎだけど、手札から{使用カード}を発動！\n１ターンに3000ポイント以上のダメージを受けたとき、\nこのカードを捨てて、ターン終了時までる戦闘ダメージを0にするわ！,Tch; it's only temporary; but I activate {使用カード} from my hand! When I take 3000 or more damage in one turn; I discard this card and reduce all battle damage to 0 until the end of the turn!
+ターン終了時に{使用カード}の効果発動！\n自壊して、ランダムな装備カードをデッキからサーチよ。\nさらにわたしの最大HPを500ポイントアップ！,At the end of my turn; {使用カード}'s effect activates! I send it to the graveyard; I search my deck for a random equipment card; and my maximum HP increases by 500 points!
+ぐっ、一時しのぎだけど、手札から{使用カード}を発動！\n１ターンに3000ポイント以上のダメージを受けたとき、\nこのカードを捨てて、ターン終了時までる戦闘ダメージを0にするわ！,Tch; it's only temporary defense measure; but I activate {使用カード} from my hand! When I take 3000 or more damage in one turn; I discard this card and reduce all battle damage to 0 until the end of the turn!
 {使用カード}を装備！\n攻撃力を300ポイントアップする！,I equip {使用カード} and increase my attack power by 300 points!
 攻撃宣言時に{使用カード}の効果を発動！\n相手から受けるダメージを０にし、\nさらに反撃を行うわ！,When you declare an attack; I activate {使用カード}'s effect! All damage I take is reduced to 0; and I can also counterattack!
 無駄よ！攻撃宣言時に{使用カード}の効果を発動！\n相手から受けるダメージを０にし、\nさらに反撃を行うわ！,It's no use! When you declare an attack; I activate {使用カード} to I reduce all damage I take to 0 and launch a counterattack!
@@ -99,53 +99,53 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 これで終わりよ。ターンエンド。,This match is nearly over! Turn end.
 組み伏せてあげる❤\nほら！,I'll pin you down.❤ Take this!
 ふふ、手を捕まえれば相手を地面に投げるのは簡単よ。\nこのまま胸で拘束して搾り取ってあげるわね❤,Fufu; with your hands bound; throwing you to the ground is easy. Now to restrain your penis between my breasts and milk you dry.❤
-弾むように上下に動かされたら、\n気持ちよくて腰がとろけちゃうでしょ？\nぱんぱんぱん♪ってリズミカルに擦られてあっという間に天国行き❤,Can you feel how your hips melt when I bounce up and down on your dick like this? Slap slap slap~♪ This kind of rhythm will send anyone straight to heaven.❤
+弾むように上下に動かされたら、\n気持ちよくて腰がとろけちゃうでしょ？\nぱんぱんぱん♪ってリズミカルに擦られてあっという間に天国行き❤,Can you feel how your hips start to melt when I bounce up and down on your dick like this? Slap slap slap~♪ This kind of rhythm will send anyone straight to heaven.❤
 ほらほら、どんどん力が抜けて\nされるがままになっちゃう❤\nそのまま腑抜けていていいのかしら❤くすくす❤,That's it; give in to it~ Your strength is draining away more and more; and you're becoming completely helpless.❤ Are you really OK with letting me take your mana like this?❤ *Giggle*❤
 攻撃をいなしたあと腰に抱き着いてっと・・・❤,After deflecting your attack; all I have to do is reach around your waist and...❤
-正面からあなたの大事なところ、\nおっぱいで挟み込んであげるわ❤\nわたしに組みつかれて振りほどけるかしら？,I'll sandwich your precious weapon between my breasts~❤ Do you think you can break free from this grapple?
-全力を出してもがかないといけないのに、\nチンポが気持ちよくてそれどころじゃないでしょ？\n腰が震えてるわよ。くすくす❤,Even though you need to struggle with all your might; I bet your dick feels so good you can't focus on anything else~ Your hips are already starting to tremble. *Giggle*❤
+正面からあなたの大事なところ、\nおっぱいで挟み込んであげるわ❤\nわたしに組みつかれて振りほどけるかしら？,I'll sandwich your precious 'weapon' between my breasts~❤ Do you think you can break free from this grapple?
+全力を出してもがかないといけないのに、\nチンポが気持ちよくてそれどころじゃないでしょ？\n腰が震えてるわよ。くすくす❤,Even though should be struggling with all your might; I bet your dick feels so good you can't focus on anything else~ Your hips are already starting to tremble. *Giggle*❤
 ステップを踏むと、胸が揺れて、なかなかにセクシーでしょ？\nあら、そんなに見とれて隙だらけよ。せいっ！,Stepping like this causes my breasts to bounce. Quite sexy; don't you think? ...Oh my; you were so focused on looking you left yourself open! Hah!
 あっけなく足払いを決められて、カッコ悪いわね。\nほら、地面に倒れたあなたにおっぱいで追撃❤,How pathetic; getting taken down by a simple leg sweep. I'm not done yet though. Now that you're on the ground; I'll attack you with my breasts next~❤
 これに見惚れたせいで転ばされたんですもの。\n挟んでもらえてうれしいわよね❤\nおっぱいフェチのまぬけさん❤くすくす❤,You got knocked down all because you couldn't take your eyes off my tits. You must be glad I'm rubbing your penis between them.❤ You boob-obsessed fool~❤ *Giggle*❤
 胸でされるのは好きかしら？\n私の胸、他のマスターと比べたらわりと小ぶりだけど、\n案外、悪くないわよ❤,Do you like the feeling of having your dick massaged by a pair of breasts? Mine are rather modest compared to other cardmasters; but size isn't everything~❤
 このサイズでも挟んでこすってあげれば、\n男の子を簡単に腰砕けにできちゃうんだから❤\nね、一回やってみる？,Even at this cup size; if I sandwich and rub someone's dick between them in just the right way; I can easily make any boy's hips twitch~❤ Well? Want to try it?
 服越しにむにゅって挟まれ、そのままスリスリ❤\nほら、今の話で勃起しちゃったアソコ、気持ちよくしてあげる❤,Your dick got rock hard just from my words; so it's only fair I take care of it~❤  Come on~ I can squeeze and rub your dick with my breasts through my clothes like this~❤
-パイズリしてあげるわね。ほら・・・❤,I'll give you paizuri. Hora...❤
-張りがあるでしょ？わたしの胸❤\n大きさは爆乳ってほどじゃないけれど、\n体を鍛えている分おっぱいだってぷるんぷるんの弾力なのよ❤,My breasts are nice and firm; aren't they?❤ They aren't exactly a massive rack or anything; but because I train my body; my boobs have this bouncy; bouncy feel to them.❤
-テンポよくこすり上げてあげれば、\nほら、ほら❤気持ちよくて腰が動いちゃうわよね❤\n服の上にいっぱい出していいのよ。ふふふ❤,If I use my tits to rub your dick with just the right tempo; the pleasure will naturally cause your hips start moving~❤ It's OK if you want to let out a huge load over my clothes. Fufufu~❤
+パイズリしてあげるわね。ほら・・・❤,I'll massage your cock between my breasts. Watch this...❤
+張りがあるでしょ？わたしの胸❤\n大きさは爆乳ってほどじゃないけれど、\n体を鍛えている分おっぱいだってぷるんぷるんの弾力なのよ❤,My breasts are nice and firm; aren't they?❤ They aren't exactly a massive rack or anything; but because I train my body; my boobs have this tight; bouncy feel to them.❤
+テンポよくこすり上げてあげれば、\nほら、ほら❤気持ちよくて腰が動いちゃうわよね❤\n服の上にいっぱい出していいのよ。ふふふ❤,If I use my tits to rub your dick with just the right tempo; the pleasure will naturally cause your hips to start moving~❤ It's OK if you want to let out a huge load over my clothes. Fufufu~❤
 胸で挟んであげるわ。\n好きでしょ？こういうの。えいっ❤,I'll sandwich your penis between my breasts. You like this sort of thing; don't you? Hah!❤
-うふふ、顔が蕩けちゃっている❤\n服越しなのに、そんなに気持ちいいの？\nアソコがおっぱいに包まれて、幸せいっぱいって感じかしら。,Ufufu; your expression is loosening.❤ Even through my clothes; do my breasts feel that good? You must be enjoying yourself now that your dick is between them.
-試合中でも男の子は単純でいいわよね❤\nほらほら❤ぎゅって押し付けながら勢いよく擦ってあげる❤\nもっと夢見心地になりなさい❤谷間にどぴゅってしていいわよ❤,Even during a match; boys are still so simple minded.❤ Come~ Just give in~❤ I'll squeeze my breasts together tightly as I rub your dick.❤ Fall deeper under my spell~❤ Empty your load between my tits...❤
+うふふ、顔が蕩けちゃっている❤\n服越しなのに、そんなに気持ちいいの？\nアソコがおっぱいに包まれて、幸せいっぱいって感じかしら。,Ufufu; your expression is relaxing.❤ Even through my clothes; do my breasts feel that good? You must be enjoying yourself now that your dick is between them.
+試合中でも男の子は単純でいいわよね❤\nほらほら❤ぎゅって押し付けながら勢いよく擦ってあげる❤\nもっと夢見心地になりなさい❤谷間にどぴゅってしていいわよ❤,Even during a match; boys are still so simple minded.❤ Come; just give in~❤ I'll squeeze my breasts together tightly as I rub your dick.❤ Fall deeper under my spell~❤ Empty your load between my tits...❤
 武器をさばくので精一杯でしょう？\nがら空きのここを捕まえてっと…❤,Too busy fending off my weapon? Then you've left this part of you wide-open...❤
 ふふ、脇で挟まれるなんて予想してなかったかしら。\n二の腕のぷにってした感触が\n意外と男には効くのよ❤,Fufu; didn't expect to get caught in an armpit hold; did you? The soft; squishy sensation of upper arms is surprisingly effective on men.❤
-体ごと前後に動かして、\n足がガクガクになるぐらい気持ちよくしてあげる❤\nわたしのテクを味わいなさい❤,By moving my whole body back and forth; I'll make you feel so good your legs go weak.❤ Feel my technique~❤
+体ごと前後に動かして、\n足がガクガクになるぐらい気持ちよくしてあげる❤\nわたしのテクを味わいなさい❤,By moving my whole body back and forth; I'll make you feel so good your legs go weak.❤ Taste my technique~❤
 わきを使ってかける関節技はいろいろあるけれど、\n男の子相手ならこういう技もあるのよ❤,There are various joint locks that make use of one's armpits; but when dealing with boys; there are techniques that exist like this too.❤
-敏感な弱点を、脇で挟んでむぎゅむぎゅ…❤\n強い力を込めなくても、これだけで簡単に行動不能にできちゃう❤,I'll squeeze your sensitive weak point between my armpits with a tight embracing pressure...❤ It doesn't take much force to make you helpless by doing this.❤
+敏感な弱点を、脇で挟んでむぎゅむぎゅ…❤\n強い力を込めなくても、これだけで簡単に行動不能にできちゃう❤,I'll squeeze your sensitive weak point between the tight embracing pressure of my armpit...❤ It doesn't take much force to make you helpless by doing this.❤
 手足は自由なのだから、ほら振り払ってみたら？\n気持ちいい時間は終わってしまうけれどね。くすくす❤,Your hands and feet are free; so why don't you try to shake me off? Though that would also stop me from pleasuring you; wouldn't it? *Giggle*❤
 剣で斬りつけてあげる！せや！,I'll slash at you with my sword! Hah!
-くす、防ぐので手一杯よね。ここから一気にかがみこんで、\n男の弱点を締めあげれば…❤,*Giggle* Too busy defending yourself? Then I crouch down from here and give your male weak point a little squeeze...❤
+くす、防ぐので手一杯よね。ここから一気にかがみこんで、\n男の弱点を締めあげれば…❤,*Giggle* Too busy defending yourself? Then I'll crouch down from here and give your male 'weak point' a little squeeze...❤
 ほら、たちどころに脱力しちゃった❤\n予想してないタイミングで快感を叩きこめば、\n脳がフリーズしてなにもできなくなるの❤,Look; you've instantly gone limp.❤ All it takes is me pleasuring you during an unexpected moment; and your brain freezes and can't do anything.❤
-ぎゅうって締め付けながら、前後に扱いてあげるわ。\nわけもわからないまま、\n脇なんかで射精しちゃいなさい❤くすくす❤,I'll grip your dick tightly while stroking it back and forth. You don't need to understand what's happening~ Just go ahead and ejaculate from just my armpits.❤ *Giggle*❤
-うふ、こんな服を着ているせいかしら、\nわたしのファンの中に、\n脇で挟まれたいって思う男の子が結構いるみたいなのよね。,Fufu; maybe it's due to the clothes I wear; but it seems I have many male fans who want me to jerk them off with my armpit.
-パイズリとかフェラなら分かるけれど、\n脇で挟んで扱くなんて、ほんと男って考えることが変態だわ❤\nねえ、あなたはそんな変態じゃないわよね？,I understand things like titjobs or blowjobs; but having their dick squeezed and stroked under my armpit? Men really think of the most perverted things.❤ Say; you're not that kind of pervert; are you?
+ぎゅうって締め付けながら、前後に扱いてあげるわ。\nわけもわからないまま、\n脇なんかで射精しちゃいなさい❤くすくす❤,I'll grip your dick tightly while stroking it back and forth. You don't need to understand what's happening. Just go ahead and ejaculate from my armpit~❤ *Giggle*❤
+うふ、こんな服を着ているせいかしら、\nわたしのファンの中に、\n脇で挟まれたいって思う男の子が結構いるみたいなのよね。,Fufu; maybe it's due to the clothes I wear; but I heard I have many male fans who want me to jerk them off with my armpit.
+パイズリとかフェラなら分かるけれど、\n脇で挟んで扱くなんて、ほんと男って考えることが変態だわ❤\nねえ、あなたはそんな変態じゃないわよね？,I understand things like titjobs or blowjobs; but having their dick squeezed and stroked under my armpit? Men really think of the most perverted things.❤ Say; you're not really like that; are you?
 こうやって、脇でぎゅって扱かれても、我慢できる？\nふふ、ペニスがビンビン❤あなたも普通の男の子みたい❤,Can you endure having your dick stroked tightly under my armpit like this? Fufu; your penis is rock hard.❤ It seems you're just like the rest.❤
 ほら、めったにこんなことしてもらえないでしょ？\n竿を締め付けながら、前後に扱いてあげる❤\nイクまで楽しんじゃいなさい❤くすくす❤,Look; you don't get to experience something like this very often; do you? I'll squeeze the shaft while stroking it back and forth.❤ Just enjoy it until you cum.❤ *Giggle*❤
-油断大敵よ。ほら・・・❤,Never underestimate your opponent. Hora...❤
+油断大敵よ。ほら・・・❤,Never underestimate your opponent. Watch this...❤
 あなたの大事な弱点を、わたしの腕で捕まえた❤\nどう？意外といい圧力でしょう？アソコをむぎゅってされて、\n腰がしびれるぐらい気持ちいいんじゃない？,Your precious weak point has been captured under my arm.❤ How does it feel? The pressure is surprisingly comfortable; isn't it? With your dick squeezed tight like this; you can feel the pleasure flowing through your hips; right?
 温度もまるで女性器に挿れたみたいな温かさよね❤\nこうやって体を前後に揺らせば、\nあんっ❤、中に出たり入ったり…❤脇まんこで疑似セックス♪,The warmth of my armpit feels just like being inside a pussy; doesn't it?❤ When I rock my body back and forth like this; ahn~❤ Sliding in and out...❤ It's like your dick thinks it's having sex with my armpit~♪
-あは、「あんっ」って声でチンポ反応してる❤嘘の喘ぎ声でも興奮しちゃうの？\nくすくす❤童貞くんかわいい❤ほら、あなたのチンポで\n脇まんことセックスしましょ？あんっ、あんっ❤あん❤くすくす❤,Aha; your cock's reacting to my little moans~❤ Do fake moans still turn you on? *Giggle*❤ You're such a cute virgin.❤ Come; mate with my armpit~ Ahn; ahn~❤ Ahn~❤ *Giggle*❤
-マスター君には特別サービス。\n剣は使わずにたくさん気持ちいいことしてあげるわ❤,For you special cardmaster; I'll give you special service. I won't use my sword; and just make you feel really good.❤
-くす、期待してたのかしら。アソコがギンギンね❤\n脇で挟みやすくて助かっちゃう❤,*Snicker* were you looking forward to this? Your dick's already rock hard.❤ It makes it all the easier to squeeze under my arm~❤
+あは、「あんっ」って声でチンポ反応してる❤嘘の喘ぎ声でも興奮しちゃうの？\nくすくす❤童貞くんかわいい❤ほら、あなたのチンポで\n脇まんことセックスしましょ？あんっ、あんっ❤あん❤くすくす❤,Aha; your cock's reacting to my little moans~❤ Do fake moans turn you on even if they're fake? *Giggle*❤ You're such a cute virgin.❤ Come; mate with my armpit~ Ahn; ahn~❤ Ahn~❤ *Giggle*❤
+マスター君には特別サービス。\n剣は使わずにたくさん気持ちいいことしてあげるわ❤,A special cardmaster deserves a special service. I won't use my sword; and just make you feel really good.❤
+くす、期待してたのかしら。アソコがギンギンね❤\n脇で挟みやすくて助かっちゃう❤,*Snicker* Were you looking forward to this? Your dick's already rock hard.❤ It makes it all the easier to squeeze under my arm~❤
 ねえ、このままわたしといいことして試合は終わりにしましょ？\n逃げずにじっとしててくれれば、\nあなたがイクまで何度もチンポを扱いてあげる❤,Hey; why don't we just have fun together and end this match right here? If you stay still and don't try to escape; I'll stroke your cock over and over until you cum.❤
 ほら、こんな風にぎゅっと締めながら、\n根元から先端まで、すりすり❤こすこす❤\n腰がとろけてきたでしょう？そのまま負けていいのよ❤うふふ❤,Look; I'm tightly squeezing it from the base to the tip. Rubbing~❤ Grinding~❤ Your hips are melting; aren't they? It's okay to just give up~❤ Ufufu~❤
 あら、剣にばかり気を取られてはダメよ。\n剣士は蹴り技だって上手に使うの。\nせいやっ！,Oh my; you can't just focus on my sword. Swordswomen have some pretty good kicks too. Seiya!
-うふふ。地面に尻もちついちゃったわね。\n早く起き上がらないと、ほら・・・❤,Ufufu. You've fallen flat on your butt. If you don't get up quickly; watch this...❤
+うふふ。地面に尻もちついちゃったわね。\n早く起き上がらないと、ほら・・・❤,Ufufu. You've fallen flat on your butt. If you don't get up quickly; I might do something like... This~❤
 あなたの大事なところが足の下敷き❤\nとっても敏感な場所、ブーツで踏みにじられて耐えられるかしら？\nぐり♪ぐりぐりぐり♪,Your precious spot is trapped under my foot.❤ Can you endure having such a sensitive place rubbed from under my boot? Squish~♪ Squish squish squish~♪
 （はぐぅぅっ・・・❤）,(Haaaighh...❤)
 あはは❤ビクンビクン悶えることしかできないわね❤\n戦闘中にチンポ踏まれて気持ちよくなっちゃうんだ？\n無敗のルーキーくんってマゾなのね❤くすくす❤,Ahaha~❤ Look at you; can't do anything except writhe and twitch under my foot.❤ What's the matter? Getting turned on from having your cock stepped on during battle? Turns out the Undefeated Rookie is a masochist.❤ *Giggle*❤
 早く抜け出さないと負けちゃうのに、\n気持ちよくて気持ちよくて、力が入らない❤\nそのまま足の下で悶えて、カッコ悪く射精しちゃっていいのよ？,Even though you'll eventually lose if you don't break free; it's clear this feels so good that you can't muster the strength.❤ It's OK. Struggle as much as you like as you cum beneath my foot; alright?
 あなたは気持ちよくびゅって出せる❤わたしは昇格戦に挑める♪\nいいことずくめね。\n文句ないでしょ？ほらほらほら❤,You get to shoot your load; and I get to advance in the tournament~♪ It's a win-win situation. You don't have any complaints; do you? Come on; that's it~❤
-ほらいいことしてあげるわ❤\n体を密着させて・・❤,Come; I'll make it feel even better.❤ I'll press my body close against yours and...❤
+ほらいいことしてあげるわ❤\n体を密着させて・・❤,Here; I'll make it feel even better.❤ I'll press my body close against yours and...❤
 うふ、こんなに顔を近づけられたらドキドキしちゃう？\nこの状態で・・・❤\n膝を押し当ててぐり❤ぐり❤ぐり❤,Ufu; does having my face this close make your heart race? In this position...❤ I'll press my knee against you and grind; grind; grind~❤
 はぐぅっ・・・❤,Haaaighh...❤
 くすくす❤キスしてもらえると思った？\n残念。わたし、キスは大事な時までとっておく主義なの。\nもしあなたがわたしに勝てたなら、考えてあげる❤,*Giggle*❤ Did you think you were going to get a kiss? Too bad. I save my kisses for special occasions. But if you can beat me; I might consider it.❤
@@ -156,34 +156,34 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 気持ちいいことしてあげるのは、マスター君に対してだけよ。あなたには剣で十分。\nてやぁっ！,I only do pleasurable things for cardmasters. My sword is plenty for you. Teyah!
 モンスター相手には剣で十分よね。\nほら、剣の錆にしてあげる！せいっ！,A sword is more than enough for monsters like you. Come; I'll make you rust on my blade! Sei!
 食らいなさい！せやっ！,Take this! Seyah!
-あらあら❤わたしに技をかけてほしいの？\n自分から頼み込んで、ずいぶん変態なのね❤,Oh my~❤ You want me to use a technique on you? Begging for something like that of your own will... what a pervert you are~❤
-ほら、何をしてほしいか言いなさい❤\n無敗のルーキーくん❤\nあなたの無敗の記録、どうやって終わりにしたいの？,Don't be shy now; what do you want me to do; Undefeated Rookie?❤ How do you want your winning streak to end?
+あらあら❤わたしに技をかけてほしいの？\n自分から頼み込んで、ずいぶん変態なのね❤,Oh my~❤ You want me to use a technique on you? Begging for something like that of your own will... What a pervert you are~❤
+ほら、何をしてほしいか言いなさい❤\n無敗のルーキーくん❤\nあなたの無敗の記録、どうやって終わりにしたいの？,Don't be shy now. What do you want me to do; Undefeated Rookie?❤ How do you want your winning streak to end?
 ほら、何をしてほしいか言いなさい❤\n裏切り者のモンスターくん❤,Come; tell me what you want me to do to you.❤ You traitorous monster.❤
 組み伏せパイズリ,Pinned-down Tittyfuck
 不意打ち脇コキ,Surprise Attack Armpit Pleasuring
 足技いじめ,Foot Teasing
 なんでも,You decide
 ふふ、組み伏せられながら、胸で挟んでほしいの？\nいいわよ。わたしの胸で天国を見せてあげる❤,Fufu; you want me to squeeze your dick between my breasts while you're pinned down? Very well then. I'll show you what heaven is like.❤
-ふふ、この脇で挟んでほしいんだ。\nわざわざ脇を選ぶだなんて、\n変わった趣味ね、あなた❤,Fufu; so you want to be squeezed between my armpits. You must have an unusual fetish to choose my armpits specifically.❤
-足で責められたいの？\nくすくす❤マゾっ気が強いのね。\nいいわよ。踏んだり押しつぶしたりして、楽しませてあげる❤,You want to be tormented with my feet? *Giggle*❤ You're quite the masochist; aren't you? That's fine. I'll enjoy stepping on you and crushing you.❤
-はい、おっぱいで瞬殺ね❤\nわたしの胸さばき、なかなかのものだったでしょう？,There; my breasts are always an instant kill.❤ My breast techniques are pretty impressive; aren’t they?
-サイズは爆乳な子たちには負けるけど、\nテクニックだったら負けてないわ。\nふふふ、蕩け顔になっちゃってカッコ悪い❤,Those big chested cardmasters might have me beat in size; but when it comes to technique; I'm the best~ Fufufu; the sloppy expression you're making now looks so pathetic.❤
+ふふ、この脇で挟んでほしいんだ。\nわざわざ脇を選ぶだなんて、\n変わった趣味ね、あなた❤,Fufu; so you want to be squeezed between my armpit. You must have an unusual fetish to choose that specifically.❤
+足で責められたいの？\nくすくす❤マゾっ気が強いのね。\nいいわよ。踏んだり押しつぶしたりして、楽しませてあげる❤,You want to be tormented with my feet? *Giggle*❤ You're quite the masochist; aren't you? That's fine. I'll enjoy stepping on and trampling your penis.❤
+はい、おっぱいで瞬殺ね❤\nわたしの胸さばき、なかなかのものだったでしょう？,There; an instant kill with my breasts.❤ My titty techniques are pretty impressive; aren’t they?
+サイズは爆乳な子たちには負けるけど、\nテクニックだったら負けてないわ。\nふふふ、蕩け顔になっちゃってカッコ悪い❤,Those big-chested cardmasters might have me beat in size; but when it comes to technique; I'm the best~ Fufufu; the sloppy expression you're making now looks so pathetic.❤
 あは、どぴゅって射精しちゃった❤\nだいぶ早かったじゃない❤,Aha; you went and shot your load.❤ That was pretty quick; wasn't it?❤
-男の子って挟まれて圧迫されさえすれば、\nどこでもチンポ気持ちよくなっちゃうのね。\n脇なんかで簡単にこんな濃いの出しちゃうんだもの。くすくす❤,Boys dicks feel good no matter where they're squeezed; as long as there's pressure. You shot such a thick load so easily just from my armpits. *Giggle*❤
+男の子って挟まれて圧迫されさえすれば、\nどこでもチンポ気持ちよくなっちゃうのね。\n脇なんかで簡単にこんな濃いの出しちゃうんだもの。くすくす❤,Boys' dicks feel good no matter where they're squeezed; as long as there's pressure. You shot such a thick load so easily just from my armpits. *Giggle*❤
 くす❤踏みつけられて、喘ぎながら出しちゃった❤\nわたしのブーツにぐりぐりされて、\nマゾなあなたにはたまらなかったみたいね。,*Giggle*❤ You moaned and came while being stepped on.❤ It seems a masochist like you just couldn't resist having their cock massaged under my boot.
-こんな弱点抱えながら戦わなきゃいけないなんて、\n男も大変よね。ほらほら、イったあとも踏んで遊んであげる❤\nくすくす❤ビクビク跳ねちゃって、オーバーなんだから。,Men really have it rough having to fight while carrying such a weakness as this. Take this and this! Even though you just came; I won't stop.❤ *Giggle*❤ You're twitching and jerking so much; how dramatic.
-あは、わたしに見つめられながら\n膝に押しつぶされて射精❤\nびゅくびゅくって、ずいぶんたくさん出ているわ❤,Aha; you ejaculated as I pressed my leg against your dick while I was staring at you...❤ You're spurting out quite a lot.❤
+こんな弱点抱えながら戦わなきゃいけないなんて、\n男も大変よね。ほらほら、イったあとも踏んで遊んであげる❤\nくすくす❤ビクビク跳ねちゃって、オーバーなんだから。,Men really have it rough having to fight while carrying such a weakness as this. Take this and this! Even though you just came; I won't stop.❤ *Giggle*❤ You're so dramatic; twitching and jerking like that.
+あは、わたしに見つめられながら\n膝に押しつぶされて射精❤\nびゅくびゅくって、ずいぶんたくさん出ているわ❤,Aha; you ejaculated as I was pressing my leg against your dick while staring at you...❤ And it seems you're spurting out quite a lot.❤
 男の一番大事なところをつぶされているのに、\nそんな喜んだ顔をしちゃうんですもの。\nあなたってプライドないのね。くすくす❤,Even though your most important place is being crushed; you're making such a happy face. You really have no pride; do you? *Giggle*❤
 あぅぅ……❤,Auuugh...❤
-あらあら❤わたしの前に急にひざまづいたと思ったら、\nくすくす❤オナニーしはじめちゃうんだ❤,Ara ara~❤ So you've suddenly knelt before me; and *Giggle*❤ You started masturbating.❤
-試合前からすでにわたしの体にメロメロだったけれど、\nまさかオナニーするぐらい興奮してるだなんてね❤,You were already head over heels for my body before the match; but to think you'd be so excited that you'd start masturbating!❤
+あらあら❤わたしの前に急にひざまづいたと思ったら、\nくすくす❤オナニーしはじめちゃうんだ❤,Oh my~❤ So you've suddenly knelt before me; and *Giggle*❤ You started masturbating.❤
+試合前からすでにわたしの体にメロメロだったけれど、\nまさかオナニーするぐらい興奮してるだなんてね❤,You were already head-over-heels for my body before the match; but to think you'd be so excited that you'd start masturbating!❤
 そんなにわたしのこと好みだった？\n一目惚れってやつかしら。うふふ❤,Did you like me that much? Perhaps it's love at first sight. Ufufu.❤
 わたしが体を動かすたびに、\n弾むように揺れる胸、誘うように動くお尻…❤\n男の性欲を刺激して理性をにぶらせるための構えだけれど…。,Every time I move my body; my bouncing breasts; the inviting sway of my ass...❤ It's all part of my stance designed to stimulate male lust and dull their reasoning...
 それにしても、ね❤\n自分からいじりだしちゃうなんて、理性が弱すぎて笑っちゃう❤,But that's all it is; isn't it?❤ So to start playing with yourself like that... It's laughable how weak your willpower is.❤
 大事な大事な試合を、オナニーで棒に振るんだもの。\nくすくす❤強いって前評判は誇張が入っていたみたい❤,You're throwing away such an important match just to masturbate. *Giggle*❤ It seems like those convincing rumors about you were greatly exaggerated.❤
 大事な大事な試合を、オナニーで棒に振るんだもの。\nくすくす❤強いって前評判は誇張が入っていたみたい❤\n手下がこの程度じゃたかが知れているわ❤,You're throwing away such an important match just to masturbate. *Giggle*❤ It seems like those convincing rumors were greatly exaggerated.❤ It's clear to me now just how 'capable' all of you are.❤
-ねえどうする？\nあなたが見たいところ、そばで見せつけてあげてもいいわよ。\nもちろん、あなたが情けなくおねだりしたらだけど❤,So what will you do? I could show you whatever you want to see up close if you'd like. Of course; only if you pathetically beg for it.❤
-恥も外聞もなく、頼み込んじゃうのかしら。\n性欲に負けたって言っても、そこまで堕ちてないわよね？\nくすくす❤,Will you throw away all shame and dignity to plead with me? Surely though you've lost to your sexual desires; you haven't fallen that far yet; have you? *Giggle*❤
+ねえどうする？\nあなたが見たいところ、そばで見せつけてあげてもいいわよ。\nもちろん、あなたが情けなくおねだりしたらだけど❤,So what will you do? I could show you whatever you want to see up close if you'd like. Of course; only if you beg pathetically for it.❤
+恥も外聞もなく、頼み込んじゃうのかしら。\n性欲に負けたって言っても、そこまで堕ちてないわよね？\nくすくす❤,Will you throw away all shame and dignity to plead with me? Though you've lost to your sexual desires; surely you haven't fallen that far yet; have you? *Giggle*❤
 ううっ…❤❤,Uugh...❤❤
 胸を見せてほしい,I want to see your breasts...
 お尻を見せてほしい,I want to see your ass...
@@ -193,13 +193,13 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 あはは、顔が真っ赤になってる❤\nそんなになるぐらいなら頼まなければいいのに。,Ahaha; your face is turning bright red.❤ If it embarrasses you that much; you shouldn't have asked!
 でもどうしてもおっぱいを近くで見たかったのよね❤\nほら、お望みのおっぱいよ。\n前かがみになって、顔の近くに持ってきて・・・♪,But you just had to see my breasts up close; didn't you?❤ Look; here are my breasts; just as you asked. I'll lean forward and bring them close to your face...♪
 左右にちょっと揺らしてあげる❤,I'll sway them back and forth a little for you.❤
-あっ…❤ああっ…、すごいぃ…❤❤,Ahh...❤ Aahh...; incredible...❤❤
-くすくす❤火でも起こしそうなぐらい、一生懸命扱いてる❤\nわたしの服、けっこうぴっちりしてるから、\nそこまで激しくは揺れないでしょ？,*Giggle*❤ You're stroking so frantically; you could start a fire.❤ My outfit is pretty tight-fitting; so they won't bounce around so wildly unlike other girls; huh?
-でも顔の近くでこれだけ動かされたら、\nぷるんぷるんって波打ってセクシーよね❤\n目で必死に追っちゃって、バカみたい❤,But when I move them this much right in front of your face;  the way they ripple and sway is so sexy.❤ Your eyes are glued to them; and you can't look away... How pathetic.❤
+あっ…❤ああっ…、すごいぃ…❤❤,Ahh...❤ Aahh... Incredible...❤❤
+くすくす❤火でも起こしそうなぐらい、一生懸命扱いてる❤\nわたしの服、けっこうぴっちりしてるから、\nそこまで激しくは揺れないでしょ？,*Giggle*❤ You're stroking so frantically; you could start a fire.❤ Unlike other girls; I like my clothes tight; so my breasts don't bounce as wildly as theirs; do they?
+でも顔の近くでこれだけ動かされたら、\nぷるんぷるんって波打ってセクシーよね❤\n目で必死に追っちゃって、バカみたい❤,But when I move them this much right in front of your face;  the way they jiggle and sway is so sexy.❤ Your eyes are glued to them; and you can't look away... How pathetic.❤
 ほら、とどめよ❤\n横のスキマから手を入れて、おっぱいをむぎゅって揉むの❤\n顔の目の前でエアパイズリね❤,Come; here's the finishing move.❤ By slipping my hands through the gaps in my clothing; I'll squeeze my tits together just like this.❤ An air titjob right in front of your face~❤
-ピチピチの服がむにゅうって押し上がって…❤\nあはん❤エローい谷間がゆさゆさゆさ♪\nイってしまいなさい❤,As my tight outfit bulges upward...❤ Aahn~❤ My sexy cleavage jiggles and bounces~♪~Cum for me now~❤
+ピチピチの服がむにゅうって押し上がって…❤\nあはん❤エローい谷間がゆさゆさゆさ♪\nイってしまいなさい❤,As my tight outfit bulges upward...❤ Aahn~❤ My sexy cleavage jiggles and bounces~♪ Go on; cum for me~❤
 うあっ…❤えろくてぇっ…❤だめ、出るぅ…❤❤❤,Aahh...~❤ It's so sexy...❤ Oh no; I'm cumming...❤❤❤
-ふふっ、胸まで飛んできた❤\nほら、出したあとの精液、谷間でぐちゅうって潰してあげる❤,Fufu; your load shot so far it reached my chest.❤ Look; after you've finished cumming; I'll squish all your cum between my cleavage.❤
+ふふっ、胸まで飛んできた❤\nほら、出したあとの精液、谷間でぐちゅうって潰してあげる❤,Fufu; your load shot so far it reached my chest.❤ And after you've finished cumming; I'll squish my breasts together so you can watch all your cum drip out~❤
 どうせ魔力に変えて吸収しちゃうけれど、\nこうやって見せつけられるとかなりエロいわよね❤\nあは、射精したあともチンポひくつかせちゃってるわ❤,
 負けた悔しさより、おっぱいのエロさが完全に勝っちゃってるわね。\n無敗の称号がなくなったのに、\nそんな反応でいいのかしら。くすくす❤,
 ねえ、他の男たちも、わたしの体に負けたい？\n望むなら、この子みたいにオナニーさせてあげてもいいわよ❤\nくすくす❤,
