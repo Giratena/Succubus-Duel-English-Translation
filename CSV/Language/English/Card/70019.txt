@@ -1,48 +1,53 @@
 default
 エイライラ,
 F19_paizuriAnime,
-挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,
-闘技場で試合の申し込みをするために手続きをしていると、後ろから誰かが肩を叩いて僕に話しかけてきた。,
-やっほー。{主人公}。久しぶりね。\nいまちょっといい？,
-・・・？,
-この間いっしょに行ったクエストで、\nあなたが倒したはずのスライムサキュバスが、\nなぜか復活していたでしょう？,
-あの件について調べてたんだけど、\n新しく分かったことがあるの。,
-・・・!,
-だからちょっと来てくれる？\n詳しいことはわたしの先生が教えてくれるから。\nほら、こっちよ。,
-エルルさんが僕を手招きしている。倒したはずのサキュバスがなぜ蘇っていたのか。僕もずっと疑問に思っていた。,
-僕は試合の申し込みをやめて、エルルさんと一緒に目的地へ向かうことにしたのだった。,
-エルルさんに連れられて来たのは、モルゲンにあるカードマスター学園だった。,
-モルゲンは国の中でも有数のカードマスターの街で、ギルド本部に加えて、カードマスターのための大きな学園もある。ここにエルルさんの言う「先生」がいるのだろうか。,
-わたしもこの学園の生徒なのよ。\nだから、ここの先生には何人か知り合いがいるの。,
-最近は他の生徒たちの間でも、あなたのこと、結構噂になっているわ。\n男のカードマスターたちからは、\n「俺たちの希望だ」なんて声もあがっているし、,
-女のカードマスターたちの中には、\nあなたのこと「かっこいい」って言って、\n狙っている子もそれなりにいたり、ね。,
-ん、こういう話は慣れてない？\n耳が赤くなっているわよ❤\n{主人公}って、色恋とか、疎そうだもんね。,
-・・・・。,
-へえ、子供のときからずっと修行ばっかりしてきたんだ。\nえ？村が襲われて・・・、家族と離れ離れに？,
-いまは妹を探すために頑張っている、か。\n偉いわね。,
-わたしなんてカードマスターの才能を活かして、\nただ裕福に暮らしていきたいぐらいしか考えてないし、\nちょっと引け目を感じちゃう。,
-普通はね、闘技場で勝率５割を維持するのだって難しいのよ。\n自分と同格かそれ以上の相手と戦うんですもの。\n当然、負けたり勝ったり、するわよね。,
-でもあなたにはそんな常識は当てはまらないみたい。\n公式戦では無敗で、連戦連勝。,
-あなたが努力でそれだけ強くなったのなら、\nわたしも努力で強くなれるかしら。\n才能の壁って分厚いけど、頑張らなくちゃ。,
-いっしょに頑張りましょう,
-エルルさんにはもう負けませんよ,
-ふふ、ありがと。\nお互いに切磋琢磨していけるといいわね。,
-へえ、ついこの間わたしに負けたのに、そういうこと言うんだ。\nあとでたっぷり、わたしのテクをその体に教えてあげようかしら❤,
-ううっ・・・・❤,
-くす❤思い出して興奮してきちゃった？\nでも、おっきくしたらダメよ。今から先生に会うんだから。,
-ほら、早く精神統一、精神統一。\nエッチなことは頭から追い出しなさい。,
-うっ、たしかに勝てないかも。\n前はわたしが勝ったけれど、すでに実力が全然違うでしょうし。,
-まあでも、新しく仕入れたカードとかもあるし、\nそう簡単には負けないわよ。\nわたしだって成長しているんだから。,
-ううっ、そんな風に言われちゃうのは悔しいわね。\n確かに勝ち目は薄いかもだけど・・・。,
-でも、新しく仕入れた上級モンスターもいるし、\nそう簡単には負けないわよ。\nわたしだって成長しているんだから。,
-あっ、話をしてたら着いたわね。\n先生はこの部屋の中よ。,
-重々しいドアを開くとそこは立派な図書室だった。数えきれないほどの本が、辺り一面の空間を埋めている。天井は見上げるほどに広く、３階建てぐらいのスペースがあった。,
-闘技場横の図書館も大きかったが、ここも負けず劣らずの規模だ。分厚い本を読んで勉強している頭のよさそうな生徒たちがあちこちにいる。,
-おや、君がエルルの言っていた{主人公}くんかい？\nはじめまして。わたしはエイライラ。\nモルゲンカード学園で教鞭を取っている、しがない教師だよ。,
-こんにちは。エイライラ先生。\n「しがない」なんて謙遜しないでくださいよ。\nモルゲンで１、２を争うAランクのカードマスターじゃないですか。,
-{主人公}、こちらがエイライラ先生よ。\nわたしが初等部だったころに担任をしてくださったの。,
-長命のエルフで、この学校の設立者の一人。\nモルゲンの中でもとっても偉い先生なのよ。,
-いやぁ、そういわれると照れるね。うん。,
+　モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。\n　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。\n　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。\n　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild, making her one of the people who laid the foundation for Morgen to become the cardmaster mecca it is today.\n　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. When she arrived; this place was just a small settlement. It was here she built the Cardmaster Academy; which became the center around which Morgen developed. Even now; she is occasionally spotted flying through the sky alongside summoned harpies.\n　Though she has worked as a teacher for many years; she has a caring personality and is popular among the underclassmen. To protect the students; she conducts research on enemy succubi; and even invented the recent tactics used by cardmasters that apply the succubus energy drain technique. However; this has made her feel somewhat responsible for the current state of affairs; as this technology has resulted in female students becoming much stronger; making it difficult for male students to find opportunities to shine.\n　Despite living for an extremely long time; she has never married and remains a virgin. She had no practical experience with sexual matters until she began researching succubi. In recent years; however; with her natural intelligence and powerful magic; she has rapidly acquired new techniques; and can now supposedly give men pleasure that melts them in ways even experienced prostitutes cannot match.
+モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。,A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild, making her one of the people who laid the foundation for Morgen to become the cardmaster mecca it is today.
+　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。,　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. When she arrived; this place was just a small settlement. It was here she built the Cardmaster Academy; which became the center around which Morgen developed. Even now; she is occasionally spotted flying through the sky alongside summoned harpies.
+　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。,　Though she has worked as a teacher for many years; she has a caring personality and is popular among the underclassmen. To protect the students; she conducts research on enemy succubi; and even invented the recent tactics used by cardmasters that apply the succubus energy drain technique. However; this has made her feel somewhat responsible for the current state of affairs; as this technology has resulted in female students becoming much stronger; making it difficult for male students to find opportunities to shine.
+　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　Despite living for an extremely long time; she has never married and remains a virgin. She had no practical experience with sexual matters until she began researching succubi. In recent years; however; with her natural intelligence and powerful magic; she has rapidly acquired new techniques; and can now supposedly give men pleasure that melts them in ways even experienced prostitutes cannot match.
+挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You haven't reached the rank points required to challenge this match (current rank points:{ランクポイント})
+闘技場で試合の申し込みをするために手続きをしていると、後ろから誰かが肩を叩いて僕に話しかけてきた。,While I was processing the paperwork to apply for my next match in the arena; someone tapped me on the shoulder from behind and started speaking
+やっほー。{主人公}。久しぶりね。\nいまちょっといい？,Yoohoo! {主人公}. Long time no see. Do you have a second?
+・・・？,...?
+この間いっしょに行ったクエストで、\nあなたが倒したはずのスライムサキュバスが、\nなぜか復活していたでしょう？,You remember how; when we went on that quest together the other day; that Slime Succubus you killed somehow came back to life?
+あの件について調べてたんだけど、\n新しく分かったことがあるの。,Well I've been looking into it; and I've learned something.
+・・・!,...!
+だからちょっと来てくれる？\n詳しいことはわたしの先生が教えてくれるから。\nほら、こっちよ。,So can you come with me? My teacher will explain the details. Come on; this way.
+エルルさんが僕を手招きしている。倒したはずのサキュバスがなぜ蘇っていたのか。僕もずっと疑問に思っていた。,Elulu gestured for me to follow. How had the Succubus I thought I'd defeated come back to life? I had been wondering about that myself.
+僕は試合の申し込みをやめて、エルルさんと一緒に目的地へ向かうことにしたのだった。,I decided to abandon my match application and follow Elulu.
+エルルさんに連れられて来たのは、モルゲンにあるカードマスター学園だった。,Elulu brought me to the Morgen Cardmaster Academy.
+モルゲンは国の中でも有数のカードマスターの街で、ギルド本部に加えて、カードマスターのための大きな学園もある。ここにエルルさんの言う「先生」がいるのだろうか。,Morgen is one of the country's premier Cardmaster cities; with not only a guild headquarters but a large academy for Cardmasters; too. I wonder if Elulu's "teacher" is here.
+わたしもこの学園の生徒なのよ。\nだから、ここの先生には何人か知り合いがいるの。,I'm a student at this academy too; you know. That's why I know a bunch of the teachers here.
+最近は他の生徒たちの間でも、あなたのこと、結構噂になっているわ。\n男のカードマスターたちからは、\n「俺たちの希望だ」なんて声もあがっているし、,Recently; you've become quite the hot topic among the other students. The male Cardmasters have been saying things like "he's our hope;"
+女のカードマスターたちの中には、\nあなたのこと「かっこいい」って言って、\n狙っている子もそれなりにいたり、ね。,And among the female Cardmasters; there are quite a few who think you're "cool" and have their eyes on you.
+ん、こういう話は慣れてない？\n耳が赤くなっているわよ❤\n{主人公}って、色恋とか、疎そうだもんね。,Hmm; you're not used to this kind of talk? Oh wow; your ears are turning red!❤ You're pretty inexperienced in romance stuff; aren't ya {主人公}?
+・・・・。,....
+へえ、子供のときからずっと修行ばっかりしてきたんだ。\nえ？村が襲われて・・・、家族と離れ離れに？,Oh; so you've been training since you were a child? What? Your village was attacked... and you were separated from your family?
+いまは妹を探すために頑張っている、か。\n偉いわね。,And now you're working hard to find your sister; huh? That's really admirable.
+わたしなんてカードマスターの才能を活かして、\nただ裕福に暮らしていきたいぐらいしか考えてないし、\nちょっと引け目を感じちゃう。,I only think about using my Cardmaster talent to live a comfortable life; so I feel a bit inferior.
+普通はね、闘技場で勝率５割を維持するのだって難しいのよ。\n自分と同格かそれ以上の相手と戦うんですもの。\n当然、負けたり勝ったり、するわよね。,Normally; it's pretty difficult to maintain a 50% win rate in the arena. You're fighting opponents who are on the same level or higher as you; after all. Naturally; you win some; you lose some.
+でもあなたにはそんな常識は当てはまらないみたい。\n公式戦では無敗で、連戦連勝。,But it seems that common sense doesn't apply to you. Totally undefeated in official matches; just winning battle after battle.
+あなたが努力でそれだけ強くなったのなら、\nわたしも努力で強くなれるかしら。\n才能の壁って分厚いけど、頑張らなくちゃ。,If you got that strong through effort; I wonder if I could do the same. The wall of talent is thick; but I have to try my best.
+いっしょに頑張りましょう,Let's work hard together
+エルルさんにはもう負けませんよ,I won't lose to you anymore; Elulu
+ふふ、ありがと。\nお互いに切磋琢磨していけるといいわね。,Fufu; thanks. It would be nice if we could improve by competing with each other.
+へえ、ついこの間わたしに負けたのに、そういうこと言うんだ。\nあとでたっぷり、わたしのテクをその体に教えてあげようかしら❤,Oh? Even after losing to me not that long ago you still have the guts to say stuff like that? Maybe I should thoroughly teach your body my special skills later~❤
+ううっ・・・・❤,Ugh...❤
+くす❤思い出して興奮してきちゃった？\nでも、おっきくしたらダメよ。今から先生に会うんだから。,*Giggle*❤ Are you getting excited just remembering it? Well don't go getting hard or anything. We're about to meet my teacher.
+ほら、早く精神統一、精神統一。\nエッチなことは頭から追い出しなさい。,Come on; clear your mind now. Focus. Get those naughty thoughts out of your head.
+うっ、たしかに勝てないかも。\n前はわたしが勝ったけれど、すでに実力が全然違うでしょうし。,Ugh; I might not be able to win. I managed to beat you before; but our abilities are totally different now.
+まあでも、新しく仕入れたカードとかもあるし、\nそう簡単には負けないわよ。\nわたしだって成長しているんだから。,But I have some new cards I've acquired; so I won't lose so easily. I've been growing too; you know.
+ううっ、そんな風に言われちゃうのは悔しいわね。\n確かに勝ち目は薄いかもだけど・・・。,Ugh; hearing you say something like that is so frustrating. I may not have much of a chance of winning; but...
+でも、新しく仕入れた上級モンスターもいるし、\nそう簡単には負けないわよ。\nわたしだって成長しているんだから。,But I have some new advanced-level monsters I've managed to pick up; so I won't lose so easily. I've been growing too; you know!
+あっ、話をしてたら着いたわね。\n先生はこの部屋の中よ。,Ah; we walked all the way here while we were talking. My teacher's in this room.
+重々しいドアを開くとそこは立派な図書室だった。数えきれないほどの本が、辺り一面の空間を埋めている。天井は見上げるほどに広く、３階建てぐらいのスペースがあった。,As the heavy door opened in front of me; an impressive library stretched out beyond. Countless books filled the space all around. The ceiling was so high that it looked like there was about three floors worth of space above us.
+闘技場横の図書館も大きかったが、ここも負けず劣らずの規模だ。分厚い本を読んで勉強している頭のよさそうな生徒たちがあちこちにいる。,The library next to the arena was large; but this one was equally impressive in scale. Intelligent-looking students were dotted all around; studying with thick books.
+おや、君がエルルの言っていた{主人公}くんかい？\nはじめまして。わたしはエイライラ。\nモルゲンカード学園で教鞭を取っている、しがない教師だよ。,Oh hello. Are you {主人公}? Elulu's told me so much about you. It's nice to meet you. I'm Eilaira. I'm just a humble teacher at Morgen Card Academy.
+こんにちは。エイライラ先生。\n「しがない」なんて謙遜しないでくださいよ。\nモルゲンで１、２を争うAランクのカードマスターじゃないですか。,Hello; Professor Eilaira. There's no need to be so modest with that "humble" talk. You're one of the top A-rank Cardmasters in Morgen; aren't you?
+{主人公}、こちらがエイライラ先生よ。\nわたしが初等部だったころに担任をしてくださったの。,{主人公}; this is Professor Eilaira. She was my homeroom teacher when I was in elementary school.
+長命のエルフで、この学校の設立者の一人。\nモルゲンの中でもとっても偉い先生なのよ。,She's an elf; and actually one of the founders of this school. She's a super important teacher in Morgen.
+いやぁ、そういわれると照れるね。うん。,I get so embarrassed when you say it like that.
 まあ、自己紹介はさておき。本題に入ろう。\n{主人公}くん、きみが倒したサキュバスが\n時間が経ってから復活した件だがね。,
 エルルから相談を受けて、\nわたしの方でいろいろ調べさせてもらったんだ。\nギルドの記録を調べたり、君の師匠に問い合わせたり…。,
 それでまあ、おおよその仮説は立ったんだが…。\nそれを話す前に、一度わたしと手合わせしてもらえないかな。,
