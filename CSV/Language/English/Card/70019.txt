@@ -48,31 +48,31 @@ F19_paizuriAnime,
 {主人公}、こちらがエイライラ先生よ。\nわたしが初等部だったころに担任をしてくださったの。,{主人公}; this is Professor Eilaira. She was my homeroom teacher when I was in elementary school.
 長命のエルフで、この学校の設立者の一人。\nモルゲンの中でもとっても偉い先生なのよ。,She's an elf; and actually one of the founders of this school. She's a super important teacher in Morgen.
 いやぁ、そういわれると照れるね。うん。,I get so embarrassed when you say it like that.
-まあ、自己紹介はさておき。本題に入ろう。\n{主人公}くん、きみが倒したサキュバスが\n時間が経ってから復活した件だがね。,
-エルルから相談を受けて、\nわたしの方でいろいろ調べさせてもらったんだ。\nギルドの記録を調べたり、君の師匠に問い合わせたり…。,
-それでまあ、おおよその仮説は立ったんだが…。\nそれを話す前に、一度わたしと手合わせしてもらえないかな。,
-確証もなしに言うにはちょっと重い話になりそうだからね。\nキミとバトルをして、色々確かめたいのさ。,
-よくわからないが、Aランクのマスターと戦えるというのならこれ以上の機会はない。胸を借りるつもりで勝負をさせてもらおう。,
-僕たちは図書室の中央辺りにあるバトル用のスペースに移動する。周りに結界が張られていて本が傷つかないようになっているようだ。,
-こんなところにもバトル用の場所があるだなんて、さすがはカードマスターの学校というところだろうか。,
-さて、{主人公}くん。君にはこの指輪をはめた状態でバトルをしてもらう。,
-そう言ってエイライラ先生は僕に小さな水晶がついた指輪を投げ渡した。特に色もついていない透明な水晶の指輪だ。,
-さあ、準備はいいかな。\n手を抜かず全力で行かせてもらうよ。,
-よろしくお願いします！,
-負けません！僕が勝ちます！,
-ふふ、闘志に溢れたいい目だね。Aランク上位と聞いても\nまったく物怖じしないその姿勢、花丸をあげよう。\nしかし、実力はどの程度かな？,
-わたしのハーピーたちの猛攻を前に、\n君はちゃんと立っていられるかな！\nバトル開始だ！,
-うぐっ、すごいな…。\nまさか負けるとは思っていなかった。,
-すごいすごい！\nエイライラ先生に勝つなんて！\n{主人公}、凄すぎよ！,
-エルルさんが興奮気味に驚いている。Aランクマスターに勝てて、僕も鼻高々だ。,
-ふと周りを見ると、他の生徒たちが何人か僕たちの戦いを観戦していたようだ。彼ら彼女らも興奮気味に手を叩いている。,
-・・・♪,
-これだけの才能があるのか…。\nうむ、それだけに非常に惜しい…。,
-ここで話すのも人目があるね。わたしの研究室までついておいで。,
-さて、今のバトルで分かったことを話そう。\n今日来てもらった本題の、\nなぜサキュバスが復活していたかについて、だね。,
-あううぅ・・・・❤,
-ふむ、なかなかやるじゃないか。\n本気で行ったのに結構ダメージをもらってしまったよ。\nまあしかし・・・,
-{主人公}くんは、まだまだ自制心を鍛えないといけないね❤,
+まあ、自己紹介はさておき。本題に入ろう。\n{主人公}くん、きみが倒したサキュバスが\n時間が経ってから復活した件だがね。,Introductions aside; let's get to the main topic. {主人公}; about the Succubus you defeated. The one that somehow came back.
+エルルから相談を受けて、\nわたしの方でいろいろ調べさせてもらったんだ。\nギルドの記録を調べたり、君の師匠に問い合わせたり…。,After Eluru consulted me; I explored various leads on my end. I checked the guild records; contacted your master...
+それでまあ、おおよその仮説は立ったんだが…。\nそれを話す前に、一度わたしと手合わせしてもらえないかな。,And well… I've formed a general hypothesis... But before we discuss it; would you mind having a match with me?
+確証もなしに言うにはちょっと重い話になりそうだからね。\nキミとバトルをして、色々確かめたいのさ。,This might be too large a topic to discuss without more data. I'd like to battle with you to verify a few things.
+よくわからないが、Aランクのマスターと戦えるというのならこれ以上の機会はない。胸を借りるつもりで勝負をさせてもらおう。,I don't quite understand; but I if nothing else; this could be my best chance to face an A-rank master. I accepted the challenge; planning to use it as a learning opportunity.
+僕たちは図書室の中央辺りにあるバトル用のスペースに移動する。周りに結界が張られていて本が傷つかないようになっているようだ。,We moved to a battle space located near the center of the library. It seemed there was a barrier around it to prevent the books from being damaged.
+こんなところにもバトル用の場所があるだなんて、さすがはカードマスターの学校というところだろうか。,To think there's a battle arena here of all places. I'd expect nothing less from the Cardmaster Academy.
+さて、{主人公}くん。君にはこの指輪をはめた状態でバトルをしてもらう。,Now; {主人公}. I want you to wear this ring during our match.
+そう言ってエイライラ先生は僕に小さな水晶がついた指輪を投げ渡した。特に色もついていない透明な水晶の指輪だ。,Saying that; Professor Eilaira tossed me a ring with a small crystal attached to it. The gem was transparent without any particular color.
+さあ、準備はいいかな。\n手を抜かず全力で行かせてもらうよ。,Well; are you ready? I'll be going all out; so don't hold anything back.
+よろしくお願いします！,Let's have a good fight!
+負けません！僕が勝ちます！,I'm not gonna lose!
+ふふ、闘志に溢れたいい目だね。Aランク上位と聞いても\nまったく物怖じしないその姿勢、花丸をあげよう。\nしかし、実力はどの程度かな？,Fufu; your eyes are so full of fighting spirit. Managing to face an A-rank elite without a hint of fear… I'll give you a gold star for that at least. But let's see if your abilities keep up with your bravery.
+わたしのハーピーたちの猛攻を前に、\n君はちゃんと立っていられるかな！\nバトル開始だ！,How long can you last in the face of my Harpies' assault? Let the battle begin!
+うぐっ、すごいな…。\nまさか負けるとは思っていなかった。,Ugh; amazing... I never dreamed I would lose.
+すごいすごい！\nエイライラ先生に勝つなんて！\n{主人公}、凄すぎよ！,Oh wow; amazing! To think you'd beat Professor Eilaira! {主人公}; you're incredible!
+エルルさんが興奮気味に驚いている。Aランクマスターに勝てて、僕も鼻高々だ。,Eluru cheered me with both surprise and excitement. I couldn't help but feel proud to have beaten an A-rank Master.
+ふと周りを見ると、他の生徒たちが何人か僕たちの戦いを観戦していたようだ。彼ら彼女らも興奮気味に手を叩いている。,Looking around; it seemed several other students had been watching our battle as well. They'd all burst into excited applause.
+・・・♪,...♪
+これだけの才能があるのか…。\nうむ、それだけに非常に惜しい…。,To think he has this much talent... Hmm; all the more regrettable...
+ここで話すのも人目があるね。わたしの研究室までついておいで。,Though it wouldn't be wise to speak about this with so many people around. Come with me to my research lab.
+さて、今のバトルで分かったことを話そう。\n今日来てもらった本題の、\nなぜサキュバスが復活していたかについて、だね。,Now; let's discuss what I learned from our battle. We'll start with today's main topic; how the Succubus was revived.
+あううぅ・・・・❤,Ahhh...❤
+ふむ、なかなかやるじゃないか。\n本気で行ったのに結構ダメージをもらってしまったよ。\nまあしかし・・・,Hmm; you're pretty good. Even going all out I still took quite a bit of damage. However...
+{主人公}くんは、まだまだ自制心を鍛えないといけないね❤,{主人公}; you need to train your self-control quite a bit~❤
 最後は自分で扱いて負けてしまうなんて、なかなか恥ずかしい負け方だよ。\n性欲に打ち勝てるように、心をしっかり持つことだ。,
 どれだけムラムラしたとしても、自分で触るなんてもってのほかだ。\n若い男の子には酷な話かもしれないけどね。くすくす❤,
 おっぱいは気持ちよかったかい？\nふふ、いまだに胸に甘えたい年頃なのかな？くすくす❤,
