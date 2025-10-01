@@ -2,8 +2,9 @@ default
 踊り子サキュバス,Dancer Succubus
 踊り子がサキュバスになったモンスター。素早い動きで相手を翻弄し、攻撃をかわしながらセクシーな踊りでこちらの理性を削ってくる。気が付けば攻撃している側の動きは遅くなり、いつの間にか踊りに見とれて棒立ちになってしまっているという。,A dancer who; though once human; has been turned into a succubus. She uses her swift movements to bewilder her targets; dodging their attacks while slowly eroding their reason with her alluring dance. Without even realizing; her victims' attacks become more and more sluggish; until they find themselves standing there; motionless; completely mesmerized by her hypnotic performance.
 EU84_footJobAnime,
-[1].相手フィールド上のキャラクターの攻撃力がダウンした時発動する。相手フィールド上のすべてのキャラクターに「発情(200)」(4ターン)を付与する。,When a character on the opponent's field has their attack power reduced; inflict "Arousal (200)" (4 turns) on all characters on the opponent's field.
-[2].「発情」状態の相手が攻撃宣言を行った時、１ターンに１度発動できる。そのキャラクターに「攻撃不能」(1ターン)を付与する。,Once per turn when an opponent inflicted with "Arousal" declares an attack; inflict "Unable to Attack" (1 turn) on that character.
+[1].相手フィールド上のキャラクターの攻撃力がダウンした時発動する。相手フィールド上のすべてのキャラクターに「発情(200)」(4ターン)を付与する。\n[2].「発情」状態の相手が攻撃宣言を行った時、１ターンに１度発動できる。そのキャラクターに「攻撃不能」(1ターン)を付与する。,[1]. When a character on the opponent's field has their attack power reduced; inflict "Arousal (200)" (4 turns) on all characters on the opponent's field.\n[2]. Once per turn when an opponent inflicted with "Arousal" declares an attack; inflict "Unable to Attack" (1 turn) on that character.
+[3].このカードが場に出たとき、手札を１枚捨てて発動できる。カードを１枚ドローする。,[3]. When this card is played; you can discard a card to draw one card from your deck.
+このカードは発情状態の相手から戦闘ダメージを受けない。,This card does not take combat damage from opponents with Arousal.
 うふ❤いい音楽ね❤\n合わせてわたしの踊りも見せてあげる❤\nあはーん❤,Ah!❤ What a lovely melody; don't you think?❤ I'll match my dance to the rhythm.❤ Ahaa~❤
 ふふ、みんな前かがみになってる❤\nお姉さんのセクシーな踊りを見てたら、ギンギンに勃起しちゃったんだ？\n男の子って分かりやすい❤,Fufu; everyone's slumped so strangely.❤ Did you all get excited watching my sexy little dance? You boys are so obvious~❤
 そんな状態じゃまともに剣も触れないわよね❤\nシコシコして、一回すっきりした方がいいんじゃない？\nくすくす❤,It's getting difficult to hold onto your swords in that state; isn't it? Why not stroke yourself to help clear your mind? *Giggle*❤
