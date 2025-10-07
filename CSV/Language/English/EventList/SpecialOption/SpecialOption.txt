@@ -1,0 +1,15 @@
+特殊オプション,Special Options
+難易度変更,Change Difficulty
+主人公の弱点無効,Disable Weaknesses
+主人公の弱点全解除,Remove All Weaknesses
+主人公の攻撃力復活,Restore Attack Power
+自動文字送り設定,Auto Text-Advance Settings
+BGM音量設定,BGM Volume
+SE音量設定,SE Volume
+主人公の能力上限,Protagonist Ability Cap
+エロ系効果の表記,Display Erotic Card Effects
+ショップで未所持カード表示,Show Unowned Cards In Shop
+主人公の名前変更,Change Protagonist's Name
+主人公の見た目変更,Change Protagonist's Appearance
+文字音の変更,Change Text Sound
+閉じる,Close
