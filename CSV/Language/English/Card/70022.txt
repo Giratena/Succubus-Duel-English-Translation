@@ -1,156 +1,156 @@
 default
-メロディ,
+メロディ,Melody
 F22_paizuriAnime,
 F22_bustShakeAnime,
-挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,
-OPイベントをスキップしますか？,
+挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You have not reached the required rank points to challenge (Current rank points: {ランクポイント}),
+OPイベントをスキップしますか？,Skip the OP event?
 はい,Yes
 いいえ,No
-決まったー！{主人公}選手の勝利です！,
-Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺です！あっという間に勝負を決めました！\nこれが無敗のルーキーの実力だぁ！,
-無敗でここまで勝ち上がり、Bランクにすら勝ってしまった！\nすごい、すごすぎる！VIP席の観客も唖然として眺めています！\n我々は後世まで語り継がれる、すごい選手の試合に立ち会っているぞ！,
-メロディ選手の人魚たちに苦しめられるも、見事な勝利！！\n追い詰められても負けない、その精神力、\nやはり強い！無敗のルーキー！,
-メロディ選手の人魚たちに苦しめられるも、見事な勝利！！\n危なげなくさばききりました！\nやはり強いぞ、無敗のルーキー！,
-無敗でここまで勝ち上がり、Bランクにすら勝ってしまった！\nVIP席の観客も惜しみない拍手を送っています！\n彼の無敗はどこまでいくのか！今後の試合も楽しみで仕方ありません！,
-あううっ・・・。応援してもらったのに負けちゃった・・・。,
-（あれ・・・。\nわたし何でこんなエッチなこと・・・。\nなんだか最近の記憶があいまいなような・・・。）,
-対戦相手の子が顔を真っ赤にしてしゃがみこんでいる。下位のランカーに負けたのがよほど恥ずかしかったのだろうか。,
-どうやら力が入らず立てないようだから、僕は彼女に手を差し伸べた。,
-えっと、その、ありがとうございます。,
-学園の外にもこんなに強い人がいるんですね。\n学園での順位にあぐらをかかずに、これからはもっと研鑽します。,
-(あ、そうだ、サキュバスのカードを手に入れてからそれから、\nこんな風に戦うようになったんだ・・・。),
-(うん、そうそう・・・❤\n人間の男の子はいじめられて当然だし・・・❤\nエッチなのは悪くない・・・❤),
-対戦相手の子は急にグイっとこちらの腕を引っ張ると、僕の耳元に顔を寄せてきた。,
-ねえ・・・。あとで学園にある、チア部の部室に来てください❤\nそこで、今助けてもらった「お礼」してあげます❤,
-耳にこびりつくような甘い声でそうささやくと、彼女はふらふらとした足取りで出口から闘技場を出て行った。,
-・・・。と、とりあえず、昇格戦に勝利した！これでついにBランクへ昇格できる！,
-闘技場の勝利報酬とBランクに昇格する権利を得た！,
-「クエスト」からギルドに向かうことで昇格の手続きを行うことができます。,
-{主人公}さん、こんにちは！\n今日は昇格試合ですよね？\n応援に来ちゃいました！,
-この間のＣランク昇格戦は見に来れなかったので、\n今日はギルドマスターにお願いしてお休みをもらってきたんです！,
-この試合に勝てばついにＢランクですね！\n大会でこんなに一気にランクを上げる人、わたし初めて見ました。\nなんだかワクワクしちゃいます！,
-そういうと受付さんは、僕の手を両手で握って「がんばってください」と応援の言葉をかけた。にこにこ笑って、とても上機嫌そうだ。,
-カッコいい試合、見れるの楽しみです！\nそれじゃ、また試合が終わったあとに会いましょう。,
-受付さんは手を振り、観客席の方に歩いて行く。彼女と初めて会ったときには自分はまだFランクだった。あのころと比べるとだいぶ強くなれたのではないだろうか。,
-まだここに来て半年程度だが、なんだか感慨深い。そんなことを思っていると、不意に懐かしい声が聞こえてきた。,
-やっほー、弟子♪\nふふ、あんな可愛らしいファンがいるなんて、\nあなたも隅に置けないわね。,
-師匠・・・！,
-久しぶりね、弟子。元気そうじゃない♪,
-ほら、あなたからもらった研究者ネクロについての手紙。\nこの手紙が来たから、あなたの試合観戦もかねて、\nこの街にやってきたの。,
-お、目に見えて魔力の量が増えてる。\n修行をしっかり頑張ってきた証拠ね。えらいわよ。,
-師匠はそう言うやいなや、僕の頭をわしゃわしゃと乱暴になでてきた。小さいころからよく頭をなでてくれたが、さすがに人目のある場所でやられるとちょっと恥ずかしい。,
-え？子ども扱いしないでくれって？くすくす♪\nそうね、あなたもこの試合に勝てばBランク。\nもう立派なカードマスターだものね。,
-今日は弟子の晴れ舞台。\nわたしも観客席から応援しているわ。,
-どれだけあなたが成長したのか、\n師匠にいいところ見せてみなさい！,
-今日の試合は、Bランクへの昇格がかかった大事な一戦だ。,
-この試合に勝てばついにBランク。師匠と同じランクに上がれる。魔族領に行くにはまだ道半ばかもしれないけれど、とても大事な一歩のはずだ。,
-それに今日は応援席に見知った顔が何人もいる。カッコ悪いところは見せられない。,
-絶対に勝たなくては！僕はいつも以上に気合を入れて、控え室へ向かったのだった。,
-さあみなさんお待ちかね！今日のメインイベント、\n無敗のルーキーの昇格試合が始まります！,
-今回の大会が始まったときにはFランクだった{主人公}選手。\nそれがあれよあれよという間に勝利を重ね、\nついに今日！Bランク昇格に王手をかけました！,
-この異例の強さに注目度も抜群！\n今日はなんとギルドマスターのリーフ会長や、リュカ大商会の重役など\n名立たるビッグネームがVIP席に観戦に来ています！,
-そんな彼の対戦相手は、この人！\n人魚モンスターの使い手メロディ選手だ！,
-メロディ選手はカードマスター学園のトップ３選手の一人！\n学生の身でありながらBランクに上り詰めたエリート生徒です！,
-背は小さいですがこれでも最上級生。\n今日は彼女の後輩の生徒たちが多数応援に来ています！\nチア衣装が華やかですねー♪,
-キャー♪メロディーせんぱーい！がんばれー❤,
-（ううっ・・・。あれはさっきの子たち・・・。\n相手選手の応援団だったのか・・・。）,
-（ということはさっきのは僕への妨害…。\nだめだ、まだ収まらない・・・❤\n４人がかりの責めがきもちよすぎて・・・❤）,
-さてここで重要な点ですが、\nBランクの昇格戦は「ランク降格戦」を兼ねていません。\nつまり、落ち目の下位ランカーを倒せばよかった前回とはわけが違う！,
-メロディ選手はBランクの中でも正真正銘、実力者！\n上位ランカーの強敵を打ち破らなければ、\n昇格の権利は得られないのです！,
-さあ、{主人公}選手はこの厚い壁を破れるのか！\nそれとも、無敗の伝説も、エリート学生の前に終わりを迎えるのか！\n熱いバトルが今始まります！,
-はじめまして。メロディです❤\nお手柔らかにお願いしますね❤,
-（別にこの試合に勝たなくてもいいけど…。\nこれだけ注目されてるなら、卒業後の進路もよくなるだろうし…。\nふふ、悪いけど「本気」で行かせてもらうね❤）,
-メロディはおもむろに後ろを向くと観客席へ向かって手を振った。自分の応援団たちに対してファンサービスだろうか。,
-（お、「妨害」モードで行くんだね。了解・・・♪）,
-みんな、いくよー！\nふれーふれー♪メロディせんぱーい♪\n対戦相手の{主人公}選手に負けるなー♪,
-チアガールたちは、大きな声を張り上げると、アクロバティックな動きでダンスを始めた。華やかな声に圧倒されそうになる。それに・・・。,
-(ううっ・・・・❤),
-僕と視線が会うたび、ウインクをしたり、胸を寄せ上げたり、あからさまに挑発をしてきている。,
-だめだと思っても、わざとらしい誘惑につい視線を吸われてしまう。あうっ、今度は脚を上げてスカートの中身を見せつけて…。ううっ…❤,
-くす❤どうしたんですか？\n心ここにあらずといった感じですけど…❤,
-ああ、わたしの応援団の子たち、かわいいですよね。\nでも、みんなちょっとミーハーで、すぐに応援先を変えちゃうんです。,
-例えば、つい５分前まではあなたの大ファンだったかもしれませんが、\n今はわたしの応援団なんですよ❤\nくすくす❤間近で見た応援ダンス、いかがでしたか？,
-（あううっ・・・。この子さっきの控室の件を分かってて・・・。）,
-あん、そんなに睨まないでください❤\nわたしだってあの子たちに負けず、かわいい体をしてるでしょう？\nおっぱいとか、自慢なんですよ❤,
-さっきからズボンを押し上げてる、勃起おちんちん❤\nもう限界なんですよね❤\nわたしがすぐに楽にしてあげます❤うふふ❤,
-ああ、わたしの応援団の子たち、かわいいですよね。\nあんな風に踊ってたら、気移りしちゃいますか？,
-こんな大舞台なのに、\n女の子が足を振り上げて踊っているぐらいで気をそらしちゃうなんて、\nくすくす❤そんな人Bランクに上げられません❤,
-わたしの人魚たちの歌声でメロメロにしてあげます❤\nせいぜいカッコ悪く踊ってくださいね。\n無敗のルーキーさん❤,
-・・・？,
-控え室で試合開始を待っていると、部屋をノックする音がした。,
-師匠たちが差し入れでも持ってきてくれたのだろうか。,
-ドアを開ける,
-無視する,
-(いや、師匠たちにはさっき会ったし、きっと関係ない誰かだろう…。),
-(今は試合前の大事な時間だ。\n悪いけれど、ここは無視して、集中させてもらおう。),
-あのー・・・。開けてくれませんか？,
-ドアの向こうから女の子の声がした。,
-わたし、{主人公}選手のファンなんです。\n昇格戦の前に、一目会いたくて、控室まで来てしまいました。,
-邪魔はしないので、一瞬だけでいいんですぅ…❤\nおねがいします～❤開けてくださぁい❤,
-甘えるような猫なで声が聞こえてくる。,
-(・・・・。),
-何か怪しい気もするし、やめておこう・・・。,
-・・・・。チッ。だめか。,
-よくわからないが、ファンが応援に来てくれたというのなら、歓迎するのが礼儀だろう。,
-それに声からすると、かわいい女の子な気がする。いや、それは別に開けたのとは関係ないんだけれど…。,
-うわぁ、ありがとうございます～❤\nほら、みんな入って入って～♪,
-わわっ・・・。,
-１人だと思っていた来客は、実際は複数人いたらしい。4人のかわいい女の子がどどどっと部屋の中に入ってくる。,
-椅子に座っている僕の目の前に、女の子たちはずらっと並んだ。控室はそれほど広い部屋ではないから、４人もいるとけっこうな圧迫感がある。,
-はじめましてー♪\nわたしたち、モルゲンカードマスター学園の生徒で～、\nチアガールをやってるんです❤,
-{主人公}さんのことカッコいいなぁって思ってて、\n応援しに来ちゃいました❤,
-わたしたち４人とも、{主人公}さんのこと\nだぁい好きなんですよ～❤,
-チアガールっていうのは、踊りと声で応援する女の子たちのこと。\nこのボンボンを振って、にぎやかに踊るの…。,
-短いスカートでぴょんぴょん跳ねるから、\nわたしたちのパンツが見えちゃうかもね❤,
-でもそれで{主人公}くんが元気になってくれるなら、\nわたしたちすっごくうれしい❤\nほら、ぴらり❤なんちゃって❤,
-なっ、ううっ・・・❤,
-くすくす❤パンツって聞いて照れてるんですか？\n{主人公}くん、かわいい～❤,
-連戦連勝のスーパーマスターなのに、\nわたしたちなんかで顔を赤くしてくれるなんて、うれしいです～❤\nあ～ん❤,
-ピンク色の髪をした子は、甘えるような声を出しながら、わざとらしく腕で胸をむぎゅっと寄せた。僕の目はたちどころに吸い寄せられてしまう。,
-だ、だめだ。試合がもうすぐ始まるのに、こんな精神状態じゃ・・・。集中しなきゃ。,
-僕を応援してくれるのはうれしいけれど、早くこの子たちには部屋から帰ってもらおう。,
-あん、ちょっと待ってください❤\n帰る前に、わたしたちの踊り、\n{主人公}さんに見てもらいたいんです❤,
-いきますよ！さん、はい♪,
-僕の意志も聞かず、女の子たちは応援の踊りを始めた。掛け声で拍子をとり、手足を振り上げてリズミカルに踊る。,
-はつらつとしていて、健康的な踊り。しかし短いスカートや、胸元に開いたハート型の穴から見える谷間が、否応なく僕の性欲を煽ってくる。,
-なにより目と鼻の先の距離で踊っているのだ。狭い部屋だから女の子たちの甘い匂いがこもってくるし、ううっ、だめだ、頭がぼーっとしてきた。,
-ふれー、ふれー♪{主人公}！,
-（ううっ、パンツ見えてる・・・❤\nそれに胸もあんなに揺れて・・・❤）,
-（くすくす❤完全に釘付けになってる❤\n無敗のルーキー、ちょろーい❤）,
-{主人公}くんが元気になれるように、\nほらぁ、おっぱいの前で、ぼんぼんをわさわさぁー♪,
-上に大きく足を開いて開脚♪\nえい♪おー❤えい♪おー❤\nどうどう？かわいいでしょ❤,
-くすくす❤{主人公}くん、おちんちんおっきくなってるよ？\n普通の踊りなのに、\n見てたらエッチなこと考えちゃったの…？,
-あう、違う、これは・・・❤,
-わたしたちの踊りを見て、勃起しちゃったんですか？\nきゃ～❤へんた～い❤,
-でもでも、わたしたち{主人公}くんのためなら、\nいっぱいいいことしてあげます❤,
-そのおっきくなったおちんちんにもぉ、\nわたしたちの応援です❤えいやー❤,
-円陣を組んでぇ～❤\nわぁー❤おちんちん頑張れ♪おちんちん頑張れ♪,
-なっ、やめっ❤あひぃっ❤❤,
-ズボンの上からだから、別にだいじょうぶですよー。\n気にしないで、わたしたちの応援受けましょ～❤,
-試合の前にたくさん元気が出るように、\nがんばれ❤がんばれ❤\nわさわさわさ～♪,
-下の方からもやさしく触ってあげる❤\nたまたまさん、がんばれー…❤,
-マッサージしてあげるから、\n元気になって、たくさん白いのつくろー…❤\nもみ、もみ❤えい、えい、おー❤,
-はうっ、はぐぅっ❤❤あっ、ああっ❤,
-あははっ、腰がびくんびくんって跳ねてる～♪\n{主人公}くんも踊りたくなっちゃったの？,
-ほらぁ、リズムに合わせて、びくん♪びくん♪\nわたしたちのボンボンと一緒に上下に跳ねようねー❤,
-いち、に♪いち、に♪\nあは、リズム感ばっちりですね❤\nすごーい❤さすが～❤,
-{主人公}くん、かっこいいー❤\nだぁい好き❤\nがんばれ、がんばれ、もっと元気になっちゃえー❤,
-あっ、ああっ、だめっ❤❤腰がとまらないっ❤,
-あ～ん出ちゃいます❤\nもう発射寸前❤\nお顔もとろとろ～❤,
-たまたまもきゅってなってるよ❤\n出るんだ・・・❤\n服の上からもみもみ、すりすりされて出しちゃうんだ❤,
-くすくす❤{主人公}くん、かっこいいのにー、\nおちんちんよわーい❤\nほら、発射５秒前❤,
-ごぉ～❤よ～ん❤\nさ～ん❤にぃ～❤,
-い～～ち❤,
-はい、ここでおしまい❤,
-あっ、ああっ、なにっ、なんで・・・❤,
-くすくす❤急に気持ちいいの取り上げられちゃって、\nおちんちんがパニックになってるね❤\n椅子の上でヘコヘコってしちゃっておもしろーい❤,
-なんでって言われましてもー❤\nほら、聞こえるでしょう？ドアの外からあなたを呼ぶスタッフの声。,
-もう試合時間ですよー。\n応援を止めるのは当たり前じゃないですか～❤くすくす❤,
-うぐ、あうっ、あううっ❤❤試合・・・❤ううっ・・・❤,
-確かにドアの外から僕の名前を呼ぶ声が聞こえる。いつの間にか開始時間ギリギリだ。早く行かないと・・・。,
-僕は今にも射精しそうな状態で、前かがみになりながら、ひょこひょこと控え室を後にした。後ろからくすくすとチアガールたちの笑い声が聞こえてくる。,
-それじゃ、また試合会場で会おうねー❤\n応援席にいるから、いっぱいわたしたちのこと見ていいよ❤\n{主人公}くん❤,
-先攻は{主人公}さんからですね。よろしくお願いします♪,
+決まったー！{主人公}選手の勝利です！,The match has been decided! The winner is… {主人公}!
+Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺です！あっという間に勝負を決めました！\nこれが無敗のルーキーの実力だぁ！,Looks like even B-rank elites can prove no match for him! It was over in a flash! An instant kill! The match was decided in the blink of an eye! This is the power of the undefeated rookie!
+無敗でここまで勝ち上がり、Bランクにすら勝ってしまった！\nすごい、すごすぎる！VIP席の観客も唖然として眺めています！\n我々は後世まで語り継がれる、すごい選手の試合に立ち会っているぞ！,After climbing the ranks undefeated; he's even beaten a B-rank cardmaster! Amazing! Absolutely amazing! Even the spectators in the VIP seats are gawking at the sight in stunned silence! What we've just witnessed is an incredible match from an inspiring master who will be talked about for generations to come!
+メロディ選手の人魚たちに苦しめられるも、見事な勝利！！\n追い詰められても負けない、その精神力、\nやはり強い！無敗のルーキー！,Despite suffering at the hands of Melody's mermaids; the undefeated rookie achieved a grand victory in the end! He never gave up; even when his back was to the wall… Mental fortitude like that proves just how powerful he truly is! Our undefeated rookie; everyone!
+メロディ選手の人魚たちに苦しめられるも、見事な勝利！！\n危なげなくさばききりました！\nやはり強いぞ、無敗のルーキー！,Despite suffering at the hands of Melody's mermaids; he managed to achieve a grand victory! On top of it all; he handled it all without so much as breaking a sweat! The undefeated rookie truly is a force to be reckoned with!
+無敗でここまで勝ち上がり、Bランクにすら勝ってしまった！\nVIP席の観客も惜しみない拍手を送っています！\n彼の無敗はどこまでいくのか！今後の試合も楽しみで仕方ありません！,After climbing the ranks undefeated; he's even beaten a B-rank cardmaster! Amazing! Absolutely amazing! Even the spectators in the VIP seats have erupted into uproarious applause! How far will his winning streak go?! I for one can't wait to watch his future matches!
+あううっ・・・。応援してもらったのに負けちゃった・・・。,Awh... Even with everyone cheering me on; I still lost…
+（あれ・・・。\nわたし何でこんなエッチなこと・・・。\nなんだか最近の記憶があいまいなような・・・。）,(Oh... Why was I fighting so… naughty…? My memory from the match feels kind of hazy...)
+対戦相手の子が顔を真っ赤にしてしゃがみこんでいる。下位のランカーに負けたのがよほど恥ずかしかったのだろうか。,My opponent is crouched down; her face a bright red. She must feel really embarrassed she lost to a lower-ranked player.
+どうやら力が入らず立てないようだから、僕は彼女に手を差し伸べた。,Since it seemed like she couldn't stand from exhaustion; I offered my hand to help her.
+えっと、その、ありがとうございます。,Oh; um… Thank you.
+学園の外にもこんなに強い人がいるんですね。\n学園での順位にあぐらをかかずに、これからはもっと研鑽します。,I never knew people outside the academy could be so strong. I won't rest on my laurels anymore… I'll train much harder from now on.
+(あ、そうだ、サキュバスのカードを手に入れてからそれから、\nこんな風に戦うようになったんだ・・・。),(Oh. That's right. Ever since I got that succubus card; I've been fighting like this...)
+(うん、そうそう・・・❤\n人間の男の子はいじめられて当然だし・・・❤\nエッチなのは悪くない・・・❤),(Yeah; that's right...❤ Human boys deserve to be bullied...❤ Being naughty isn't bad...❤)
+対戦相手の子は急にグイっとこちらの腕を引っ張ると、僕の耳元に顔を寄せてきた。,Suddenly; my opponent reached out; grabbing my arm and pulling me close; bringing her lips to my ear.
+ねえ・・・。あとで学園にある、チア部の部室に来てください❤\nそこで、今助けてもらった「お礼」してあげます❤,Hey... Come to the cheerleading club at the academy later.❤ I'll give you proper "thank you" for helping me just now~❤
+耳にこびりつくような甘い声でそうささやくと、彼女はふらふらとした足取りで出口から闘技場を出て行った。,After whispering that to me in a sweet voice that clung to my ear; she walked out of the arena with unsteady steps.
+・・・。と、とりあえず、昇格戦に勝利した！これでついにBランクへ昇格できる！,... A-anyway; I won the promotion match! I can finally advance to B-rank!
+闘技場の勝利報酬とBランクに昇格する権利を得た！,You've gained the arena victory reward and the right to advance to B-rank!
+「クエスト」からギルドに向かうことで昇格の手続きを行うことができます。,You can complete the promotion process by going to the guild from "Quest."
+{主人公}さん、こんにちは！\n今日は昇格試合ですよね？\n応援に来ちゃいました！,Good morning; {主人公}! Today's your promotion match; right? I came to cheer you on!
+この間のＣランク昇格戦は見に来れなかったので、\n今日はギルドマスターにお願いしてお休みをもらってきたんです！,I couldn't come watch your C-rank promotion battle due to work; so today I made sure to ask the guildmaster for time off!
+この試合に勝てばついにＢランクですね！\n大会でこんなに一気にランクを上げる人、わたし初めて見ました。\nなんだかワクワクしちゃいます！,If you win this match; you'll finally be B-rank! I've never seen anyone climb the ranks so quickly during the tournament. It's been so exciting to watch!
+そういうと受付さんは、僕の手を両手で握って「がんばってください」と応援の言葉をかけた。にこにこ笑って、とても上機嫌そうだ。,Saying this; the receptionist grabbed my hands with both of hers; offering words of encouragement. She seemed so happy; smiling brightly like that.
+カッコいい試合、見れるの楽しみです！\nそれじゃ、また試合が終わったあとに会いましょう。,I'm looking forward to watching another intense match! Well then; let's meet up again after your fight is over; okay?.
+受付さんは手を振り、観客席の方に歩いて行く。彼女と初めて会ったときには自分はまだFランクだった。あのころと比べるとだいぶ強くなれたのではないだろうか。,The receptionist offered a wave and walked toward the spectator seats. When I first met her; I was still just an F-rank. Compared to back then; I must be pretty strong.
+まだここに来て半年程度だが、なんだか感慨深い。そんなことを思っていると、不意に懐かしい声が聞こえてきた。,I've only been here about six months; but my time here already feels so meaningful. Lost in that thought; I suddenly heard a familiar voice.
+やっほー、弟子♪\nふふ、あんな可愛らしいファンがいるなんて、\nあなたも隅に置けないわね。,There you are; my student~♪ Fufu; to think you'd find such a cute fan… You're quite the charmer; aren't you.
+師匠・・・！,Master...!
+久しぶりね、弟子。元気そうじゃない♪,It's been a while; Apprentice. You look well~♪
+ほら、あなたからもらった研究者ネクロについての手紙。\nこの手紙が来たから、あなたの試合観戦もかねて、\nこの街にやってきたの。,I received the letter you sent me about Necro and her research. After it arrived; I decided to visit town to watch your match.
+お、目に見えて魔力の量が増えてる。\n修行をしっかり頑張ってきた証拠ね。えらいわよ。,Oh my; your magical power has increased noticeably. That tells me you've been working hard in your training. Good work.
+師匠はそう言うやいなや、僕の頭をわしゃわしゃと乱暴になでてきた。小さいころからよく頭をなでてくれたが、さすがに人目のある場所でやられるとちょっと恥ずかしい。,Having said that; my master reached out; tousling my hair roughly. She's always patted my head like that; ever since I was little; but it's a bit embarrassing when she does it in public.
+え？子ども扱いしないでくれって？くすくす♪\nそうね、あなたもこの試合に勝てばBランク。\nもう立派なカードマスターだものね。,What? You want me to stop treating you like a child? *Giggle*♪ That's right. If you win this match you'll be B-rank. You're already a proper cardmaster.
+今日は弟子の晴れ舞台。\nわたしも観客席から応援しているわ。,It's a really big day for you; Apprentice. I'll be cheering you on from the audience.
+どれだけあなたが成長したのか、\n師匠にいいところ見せてみなさい！,Make sure to show your master how much you've grown!
+今日の試合は、Bランクへの昇格がかかった大事な一戦だ。,Today's match is an important battle with B-rank promotion on the line.
+この試合に勝てばついにBランク。師匠と同じランクに上がれる。魔族領に行くにはまだ道半ばかもしれないけれど、とても大事な一歩のはずだ。,If I win this match; I'll finally be B-rank. I'll reach the same rank as my master. It might still only be halfway to reaching the Monster's Domain; but it's a really important step all the same.
+それに今日は応援席に見知った顔が何人もいる。カッコ悪いところは見せられない。,Plus; today there are plenty of familiar faces in the cheering section. I can't let myself look uncool in front of them all.
+絶対に勝たなくては！僕はいつも以上に気合を入れて、控え室へ向かったのだった。,I absolutely must win! That in mind; I psyched myself up more than usual and headed to the waiting room.
+さあみなさんお待ちかね！今日のメインイベント、\n無敗のルーキーの昇格試合が始まります！,Ladies and gentlemen; the moment you've all been waiting for! Today's main event- the undefeated rookie's promotion match!
+今回の大会が始まったときにはFランクだった{主人公}選手。\nそれがあれよあれよという間に勝利を重ね、\nついに今日！Bランク昇格に王手をかけました！,When this tournament started; {主人公} was just a lowly F-rank. But victory after victory has brought him here; and today… he's only one step away from B-rank!
+この異例の強さに注目度も抜群！\n今日はなんとギルドマスターのリーフ会長や、リュカ大商会の重役など\n名立たるビッグネームがVIP席に観戦に来ています！,This exceptional strength has drawn incredible attention! Today; many big names -including Guildmaster Chairman Leaf and some executives from the Luca Trading Company- are watching from the VIP seats!
+そんな彼の対戦相手は、この人！\n人魚モンスターの使い手メロディ選手だ！,Now; let's meet his opponent for today! It's the mermaid-monster-user; Melody!
+メロディ選手はカードマスター学園のトップ３選手の一人！\n学生の身でありながらBランクに上り詰めたエリート生徒です！,Melody is one of the top 3 students at the Cardmaster Academy! Despite being a student; she's already an elite cardmaster who has climbed her way to B-rank!
+背は小さいですがこれでも最上級生。\n今日は彼女の後輩の生徒たちが多数応援に来ています！\nチア衣装が華やかですねー♪,Don't let her height fool you. She's still an upperclassman; and today many of her juniors have come to cheer her on! Those cheerleading outfits sure are colorful~♪
+キャー♪メロディーせんぱーい！がんばれー❤,Kyaa~♪ Lady Melody! Do your best❤
+（ううっ・・・。あれはさっきの子たち・・・。\n相手選手の応援団だったのか・・・。）,(Ugh... Those are the girls from earlier... So they were the opponent's cheering squad...)
+（ということはさっきのは僕への妨害…。\nだめだ、まだ収まらない・・・❤\n４人がかりの責めがきもちよすぎて・・・❤）,(That means what happened earlier was sabotage... This is bad. I still can't calm down...❤ Being attacked by four of them at once felt too good...❤)
+さてここで重要な点ですが、\nBランクの昇格戦は「ランク降格戦」を兼ねていません。\nつまり、落ち目の下位ランカーを倒せばよかった前回とはわけが違う！,An important reminder before the match begins. B-rank promotion matches don't double as rank demotion matches for the opponent. In other words; this is completely different from previous matches where the rookie had to defeat lower-ranked players who'd been in decline!
+メロディ選手はBランクの中でも正真正銘、実力者！\n上位ランカーの強敵を打ち破らなければ、\n昇格の権利は得られないのです！,Melody is a genuine powerhouse among B-rank cardmaster! Unless he can defeat this strong opponent from the upper ranks; our rookie won't earn the right to promotion!
+さあ、{主人公}選手はこの厚い壁を破れるのか！\nそれとも、無敗の伝説も、エリート学生の前に終わりを迎えるのか！\n熱いバトルが今始まります！,So can {主人○} break through this thick wall! Or will the legend of the undefeated rookie finally come to an end at the hands of this elite student! The heated battle begins now!
+はじめまして。メロディです❤\nお手柔らかにお願いしますね❤,Nice to meet you. I'm Melody.❤ Go easy on me; okay?❤
+（別にこの試合に勝たなくてもいいけど…。\nこれだけ注目されてるなら、卒業後の進路もよくなるだろうし…。\nふふ、悪いけど「本気」で行かせてもらうね❤）,(I don't really need to win this match... But with this much attention; it might open some doors for me after I graduate... Fufu; sorry; but I'm going all out~❤)
+メロディはおもむろに後ろを向くと観客席へ向かって手を振った。自分の応援団たちに対してファンサービスだろうか。,Melody casually turned around and waved to the audience. Fan service for her cheering squad; maybe?
+（お、「妨害」モードで行くんだね。了解・・・♪）,(Oh; she wants us in "interference" mode; huh? Got it...♪)
+みんな、いくよー！\nふれーふれー♪メロディせんぱーい♪\n対戦相手の{主人公}選手に負けるなー♪,Everyone; let's go! Rah rah~♪ Melody~♪ Knock {主人公} backd down to C~♪
+チアガールたちは、大きな声を張り上げると、アクロバティックな動きでダンスを始めた。華やかな声に圧倒されそうになる。それに・・・。,The cheerleaders raised their voices loudly and began dancing with acrobatic movements. The vibrant cheering was a little overwhelming. What was even worse...
+(ううっ・・・・❤),(Ugh...❤)
+僕と視線が会うたび、ウインクをしたり、胸を寄せ上げたり、あからさまに挑発をしてきている。,Every time our eyes met; they winked; pushed their chests together; and openly teased me.
+だめだと思っても、わざとらしい誘惑につい視線を吸われてしまう。あうっ、今度は脚を上げてスカートの中身を見せつけて…。ううっ…❤,Even though I knew it was wrong; my gaze was drawn to their obvious seduction. Ah; now they're lifting their legs and giving peaks under their skirts... Ugh...❤
+くす❤どうしたんですか？\n心ここにあらずといった感じですけど…❤,*Giggle*❤ What's wrong? You look distracted...❤
+ああ、わたしの応援団の子たち、かわいいですよね。\nでも、みんなちょっとミーハーで、すぐに応援先を変えちゃうんです。,Ah; my cheering squad girls are cute; aren't they? But they're all a bit fickle and tend to change who they're supporting pretty quick.
+例えば、つい５分前まではあなたの大ファンだったかもしれませんが、\n今はわたしの応援団なんですよ❤\nくすくす❤間近で見た応援ダンス、いかがでしたか？,For instance; they might have been your biggest fans just five minutes ago; but now they're cheering me on instead.❤ *Giggle*❤ You got to see their routine up close; right? How was it?
+（あううっ・・・。この子さっきの控室の件を分かってて・・・。）,(Ahhh... This girl knows about what happened in the waiting room...)
+あん、そんなに睨まないでください❤\nわたしだってあの子たちに負けず、かわいい体をしてるでしょう？\nおっぱいとか、自慢なんですよ❤,Aww; don't glare at me like that.❤ My body's just as cute as theirs; don't you think? I'm particularly proud of my breasts~❤
+さっきからズボンを押し上げてる、勃起おちんちん❤\nもう限界なんですよね❤\nわたしがすぐに楽にしてあげます❤うふふ❤,Your erect penis has been pushing at your pants for a little while now.❤ You're at your limit; aren't you?❤ I'll be happy to give you the relief you need right away~❤ Ufufu~❤
+ああ、わたしの応援団の子たち、かわいいですよね。\nあんな風に踊ってたら、気移りしちゃいますか？,Ah; my cheering squad girls are cute; aren't they? Does watching them dance like that make it a little hard to focus?
+こんな大舞台なのに、\n女の子が足を振り上げて踊っているぐらいで気をそらしちゃうなんて、\nくすくす❤そんな人Bランクに上げられません❤,To get distracted on such a big stage just because a few cute girls are kicking their legs up and dancing... *Giggle*❤ I can't let someone like that advance to B-rank.❤
+わたしの人魚たちの歌声でメロメロにしてあげます❤\nせいぜいカッコ悪く踊ってくださいね。\n無敗のルーキーさん❤,My mermaids' songs will leave you head-over heals.❤ Dance as pathetically as you can; okay? Mr. Undefeated Rookie~❤
+・・・？,...?
+控え室で試合開始を待っていると、部屋をノックする音がした。,While preparing for my match in the waiting room; I suddenly heard a knock at the door.
+師匠たちが差し入れでも持ってきてくれたのだろうか。,Maybe Master and the others brought me some refreshments or something.
+ドアを開ける,Open the door
+無視する,Ignore it
+(いや、師匠たちにはさっき会ったし、きっと関係ない誰かだろう…。),(No; I just saw Master and the others. It's probably someone else...)
+(今は試合前の大事な時間だ。\n悪いけれど、ここは無視して、集中させてもらおう。),(The prep time before my match is too critical for distractions. Sorry whoever you are; but I have to ignore you and focus on my fight.)
+あのー・・・。開けてくれませんか？,Um... Could you open the door please?
+ドアの向こうから女の子の声がした。,I heard a girl's voice from the other side of the door.
+わたし、{主人公}選手のファンなんです。\n昇格戦の前に、一目会いたくて、控室まで来てしまいました。,{主人公}; I'm such a big fan. I wanted to see you before your big promotion match; so I came all this way.
+邪魔はしないので、一瞬だけでいいんですぅ…❤\nおねがいします～❤開けてくださぁい❤,I won't get in your way. I promise. Just a moment of your time would be more than enough...❤ Please~❤ Open the door~❤
+甘えるような猫なで声が聞こえてくる。,I could hear a sweet voice pleading from the hallway.
+(・・・・。),(...)
+何か怪しい気もするし、やめておこう・・・。,Something seems suspicious. I probably shouldn't...
+・・・・。チッ。だめか。,... Tch. No good.
+よくわからないが、ファンが応援に来てくれたというのなら、歓迎するのが礼儀だろう。,I don't really get it; but if a fan came to cheer me on; it would only be polite to let them in.
+それに声からすると、かわいい女の子な気がする。いや、それは別に開けたのとは関係ないんだけれど…。,Plus from her voice; she sounds cute. Not that that's related to me opening the door or anything...
+うわぁ、ありがとうございます～❤\nほら、みんな入って入って～♪,Wow; thank you so much~❤ Come on everyone! Come in; come in~♪
+わわっ・・・。,Wha...
+１人だと思っていた来客は、実際は複数人いたらしい。4人のかわいい女の子がどどどっと部屋の中に入ってくる。,My visitor turned out to be more than the one person I was expecting. Four cute girls came bustling into the room all at once.
+椅子に座っている僕の目の前に、女の子たちはずらっと並んだ。控室はそれほど広い部屋ではないから、４人もいるとけっこうな圧迫感がある。,The girls lined up right in front of me as I sat back in a chair. The waiting room wasn't very big; so having four extra people made the space feel cramped and overwhelming.
+はじめましてー♪\nわたしたち、モルゲンカードマスター学園の生徒で～、\nチアガールをやってるんです❤,Nice to meet you~♪ We're students from Morgen Cardmaster Academy~ And we're cheerleaders; too~❤
+{主人公}さんのことカッコいいなぁって思ってて、\n応援しに来ちゃいました❤,We just think you're so cool; so we came to cheer you on today~❤
+わたしたち４人とも、{主人公}さんのこと\nだぁい好きなんですよ～❤,All four of us just totally adore you; {主人公}~❤
+チアガールっていうのは、踊りと声で応援する女の子たちのこと。\nこのボンボンを振って、にぎやかに踊るの…。,Cheerleaders are girls who support people with cheers and routines. We shake these pom-poms and dance around super energetically...
+短いスカートでぴょんぴょん跳ねるから、\nわたしたちのパンツが見えちゃうかもね❤,Since we have to wear these short skirts and while we're bouncing around; you might get a peek at our panties…❤
+でもそれで{主人公}くんが元気になってくれるなら、\nわたしたちすっごくうれしい❤\nほら、ぴらり❤なんちゃって❤,But if that helps cheer you on for your match; we don't mind at all!❤ Here; have a little peek~❤*Giggle* Just kidding!❤
+なっ、ううっ・・・❤,Nnh; uhhh...❤
+くすくす❤パンツって聞いて照れてるんですか？\n{主人公}くん、かわいい～❤,*Giggle*❤ Is hearing about panties making you embarrassed? {主人公}; you're so cute~❤
+連戦連勝のスーパーマスターなのに、\nわたしたちなんかで顔を赤くしてくれるなんて、うれしいです～❤\nあ～ん❤,Even though you're this undefeated super cardmaster; you're still blushing over girls like us! That makes us soo happy~❤ Ahhn~❤
+ピンク色の髪をした子は、甘えるような声を出しながら、わざとらしく腕で胸をむぎゅっと寄せた。僕の目はたちどころに吸い寄せられてしまう。,The pink-haired girl let out a sweet voice while deliberately squeezing her breasts together with her arms. My eyes were immediately drawn to her chest.
+だ、だめだ。試合がもうすぐ始まるのに、こんな精神状態じゃ・・・。集中しなきゃ。,N-no; this is bad. The match is starting soon; but I can't think straight... I need to focus.
+僕を応援してくれるのはうれしいけれど、早くこの子たちには部屋から帰ってもらおう。,I appreciate them cheering for me; but I should get these girls to leave my room as soon as possible.
+あん、ちょっと待ってください❤\n帰る前に、わたしたちの踊り、\n{主人公}さんに見てもらいたいんです❤,Ahn; please; just wait a minute!❤ Before we go; we really want you to watch our dance~❤
+いきますよ！さん、はい♪,Here we go! Three; two; one~♪
+僕の意志も聞かず、女の子たちは応援の踊りを始めた。掛け声で拍子をとり、手足を振り上げてリズミカルに踊る。,Ignoring my wishes; the girls started their cheerleading routine. They kept time with chants; rhythmically dancing as they raised arms and legs.
+はつらつとしていて、健康的な踊り。しかし短いスカートや、胸元に開いたハート型の穴から見える谷間が、否応なく僕の性欲を煽ってくる。,Their routine was lively and wholesome, but combined with the sight of their short skirts and the cleavage visible through the heart-shaped cut-outs on their chests, I could feel my lust beginning to stir..."
+なにより目と鼻の先の距離で踊っているのだ。狭い部屋だから女の子たちの甘い匂いがこもってくるし、ううっ、だめだ、頭がぼーっとしてきた。,More than anything; they were dancing so close. The sweet scent of the girls filled the cramped room; and ugh; no good; my head was getting fuzzy.
+ふれー、ふれー♪{主人公}！,Fight; fight♪ {主人公}!
+（ううっ、パンツ見えてる・・・❤\nそれに胸もあんなに揺れて・・・❤）,(Uhhh; I can see their panties...❤ And their breasts are bouncing so much...❤)
+（くすくす❤完全に釘付けになってる❤\n無敗のルーキー、ちょろーい❤）,(*Giggle*❤ He's totally mesmerized!❤ Mister Undefeated Rookie is so easy~❤)
+{主人公}くんが元気になれるように、\nほらぁ、おっぱいの前で、ぼんぼんをわさわさぁー♪,To make sure {主人公} really gets energized; look~❤ We'll shake our pom-poms in front of our chests~♪
+上に大きく足を開いて開脚♪\nえい♪おー❤えい♪おー❤\nどうどう？かわいいでしょ❤,And kick our legs up nice and high~♪ Eei~♪ Oh~❤ Eei~♪ Oh~~❤ How's that? Cute; right?.❤
+くすくす❤{主人公}くん、おちんちんおっきくなってるよ？\n普通の踊りなのに、\n見てたらエッチなこと考えちゃったの…？,*Giggle*❤ Hey; {主人公}; is your penis getting hard? It's just our normal routine; but did watching us make you think naughty thoughts...?
+あう、違う、これは・・・❤,Ahh; no; that's not...❤
+わたしたちの踊りを見て、勃起しちゃったんですか？\nきゃ～❤へんた～い❤,You actually got an erection from watching our dance? Kyah~❤ You pervert!❤
+でもでも、わたしたち{主人公}くんのためなら、\nいっぱいいいことしてあげます❤,But; since it's you; {主人公}; we'll do lots of super nice things for you~❤
+そのおっきくなったおちんちんにもぉ、\nわたしたちの応援です❤えいやー❤,We'll give a chear that big; hard cock of yours; too❤ Eiyah~❤
+円陣を組んでぇ～❤\nわぁー❤おちんちん頑張れ♪おちんちん頑張れ♪,Let's form a circle!❤ Hurray!❤ Go; penis; go~♪ Go; penis; go~♪
+なっ、やめっ❤あひぃっ❤❤,N-no. Stop it!❤ Ahhh!❤❤
+ズボンの上からだから、別にだいじょうぶですよー。\n気にしないで、わたしたちの応援受けましょ～❤,We'll keep it over your pants; so it's totally fine. Just relax and accept our cheering~❤
+試合の前にたくさん元気が出るように、\nがんばれ❤がんばれ❤\nわさわさわさ～♪,We'll make sure you have lots of energy for you match! Go; go~❤ Do your best~❤ Rub rub rub~♪
+下の方からもやさしく触ってあげる❤\nたまたまさん、がんばれー…❤,We'll gently touch down here; too!❤ Good luck; balls...❤
+マッサージしてあげるから、\n元気になって、たくさん白いのつくろー…❤\nもみ、もみ❤えい、えい、おー❤,We'll massage you plenty; so get energized and make lots of white stuff...❤ Squeeze; squeeze~❤ Ehh; ahh; oh…❤
+はうっ、はぐぅっ❤❤あっ、ああっ❤,Haah; ugh….❤❤ Ahh; ahhh…❤
+あははっ、腰がびくんびくんって跳ねてる～♪\n{主人公}くんも踊りたくなっちゃったの？,Ahahah; your hips are twitching and bouncing~♪ Did you want to try dancing; too?
+ほらぁ、リズムに合わせて、びくん♪びくん♪\nわたしたちのボンボンと一緒に上下に跳ねようねー❤,Here; try and match our rhythm! Twitch~♪ Twitch~♪ Try bouncing in time with our pom-poms~❤
+いち、に♪いち、に♪\nあは、リズム感ばっちりですね❤\nすごーい❤さすが～❤,One; two~♪ One and two~♪ Aha; you have perfect rhythm; you know?❤ Amazing!❤ As expected~❤
+{主人公}くん、かっこいいー❤\nだぁい好き❤\nがんばれ、がんばれ、もっと元気になっちゃえー❤,{主人公}; you're so cool!❤ We love you~❤ Go go; get even more energized~❤
+あっ、ああっ、だめっ❤❤腰がとまらないっ❤,Ahh; ahhh; no.❤❤ My hips won't stop!❤
+あ～ん出ちゃいます❤\nもう発射寸前❤\nお顔もとろとろ～❤,Ahhn; you're so close!❤ Almost ready to shoot it all out~❤ Your face is totally melted~❤
+たまたまもきゅってなってるよ❤\n出るんだ・・・❤\n服の上からもみもみ、すりすりされて出しちゃうんだ❤,Your balls are getting so tight; too!❤ You're going to cum...❤ When a boy gets rubbed and stroked over his clothes like this; he can't help but cum; right?❤
+くすくす❤{主人公}くん、かっこいいのにー、\nおちんちんよわーい❤\nほら、発射５秒前❤,*Giggle*❤ {主人公}; you're so cool; but your dick is so weak~❤ Look; 5 seconds until blast off~❤
+ごぉ～❤よ～ん❤\nさ～ん❤にぃ～❤,Five~❤ Four~❤ Three~❤ Two~❤
+い～～ち❤,One~~❤
+はい、ここでおしまい❤,Aaand stop.❤
+あっ、ああっ、なにっ、なんで・・・❤,Ahh; ahhh; what? W-why…?❤
+くすくす❤急に気持ちいいの取り上げられちゃって、\nおちんちんがパニックになってるね❤\n椅子の上でヘコヘコってしちゃっておもしろーい❤,*Giggle*❤ Your dick is panicking from the good feelings just stopping; isn't it?❤ It's actually so funny watching you wiggle in the chair like that~❤
+なんでって言われましてもー❤\nほら、聞こえるでしょう？ドアの外からあなたを呼ぶスタッフの声。,What do you mean why?❤ Look; can't you hear it? The staff's calling your name from outside the door.
+もう試合時間ですよー。\n応援を止めるのは当たり前じゃないですか～❤くすくす❤,It's already match time. Stopping our cheering is only natural; don't you think?❤ *Giggle*❤
+うぐ、あうっ、あううっ❤❤試合・・・❤ううっ・・・❤,Ugh; ahh; ahhh.❤❤ The match...❤ Uhhh...❤
+確かにドアの外から僕の名前を呼ぶ声が聞こえる。いつの間にか開始時間ギリギリだ。早く行かないと・・・。,I could indeed hear my name being called from outside the door. Without me realizing; it was already almost time to start. I had to hurry...
+僕は今にも射精しそうな状態で、前かがみになりながら、ひょこひょこと控え室を後にした。後ろからくすくすとチアガールたちの笑い声が聞こえてくる。,Still on the verge of ejaculation; I hobbled out of the waiting room hunched over. Behind me; I could hear the cheerleaders' giggling laughter.
+それじゃ、また試合会場で会おうねー❤\n応援席にいるから、いっぱいわたしたちのこと見ていいよ❤\n{主人公}くん❤,See you again at the match venue!❤ We'll be in the cheering section; so feel free to look our way as much as you want~❤ Okay; {主人公}?❤
+先攻は{主人公}さんからですね。よろしくお願いします♪,Looks like it's {主人公}' turn first! Let's get started~♪
 ふれー、ふれー♪メロディせんぱーい♪\nほらほら、{主人公}くんもこっち見てぇ❤,
 わたしたちみんなで、んーっちゅ❤\n投げキスで応援しちゃう❤\n{主人公}くんもがんばれー❤,
 （はひぃっ…❤❤かわいい…❤）,
