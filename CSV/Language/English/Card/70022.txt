@@ -151,160 +151,160 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 僕は今にも射精しそうな状態で、前かがみになりながら、ひょこひょこと控え室を後にした。後ろからくすくすとチアガールたちの笑い声が聞こえてくる。,Still on the verge of ejaculation; I hobbled out of the waiting room hunched over. Behind me; I could hear the cheerleaders' giggling laughter.
 それじゃ、また試合会場で会おうねー❤\n応援席にいるから、いっぱいわたしたちのこと見ていいよ❤\n{主人公}くん❤,See you again at the match venue!❤ We'll be in the cheering section; so feel free to look our way as much as you want~❤ Okay; {主人公}?❤
 先攻は{主人公}さんからですね。よろしくお願いします♪,Looks like it's {主人公}' turn first! Let's get started~♪
-ふれー、ふれー♪メロディせんぱーい♪\nほらほら、{主人公}くんもこっち見てぇ❤,
-わたしたちみんなで、んーっちゅ❤\n投げキスで応援しちゃう❤\n{主人公}くんもがんばれー❤,
-（はひぃっ…❤❤かわいい…❤）,
-くすくす❤踊りに釘付けでぼーっとしちゃってますね❤\n隙だらけのあなたに一方的に攻撃させてもらいます❤\nわたしのターンからです！,
-先攻はわたしからですね。\nよろしくお願いします♪,
-ドローします。,
-わたしのターンですね。ドロー！,
-モンスターをコストにして、{使用カード}を上級召喚します！,
-{使用カード}を召喚です！,
-ううっ、あうう・・・❤,
-くす❤蘇ってもまだメロメロじゃないですか❤\n理性の弱いモンスターって全然脅威にならないですよね❤,
-{主人公}さんもこのモンスターみたいに、\nメロメロになってみますか？\n快楽に流されるのはとっても気持ちいいですよ。うふふふ♪,
-さらにもう1枚発動！,
-１ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンさせます！\nさらに攻撃力がこのカード以下になった相手に魅了を付与します！,
-１ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンです！\nさらに攻撃力がこのカード以下になった相手に魅了を付与します！,
-{使用カード}が手札から捨てられたとき効果発動！\n相手フィールド上の攻撃力0のモンスター１体をゲームから除外し、\nこのカードを墓地から特殊召喚します！,
-手札から捨てられたとき{使用カード}の効果発動！\n相手フィールド上の攻撃力0のモンスター１体をゲームから除外し、\nこのカードを墓地から特殊召喚します！,
-手札から水属性カードを捨てたとき、{使用カード}の効果発動！\nすべての相手キャラクターの攻撃力を100ポイントダウンです！,
-１ターンに１度、{使用カード}の効果を発動！\n相手モンスター１体の攻撃力を200ポイントダウンです！\nさらに攻撃力がこのカード以下になった相手のコントロールを奪います！,
-１ターンに１度、{使用カード}の効果を発動！\n相手モンスター１体の攻撃力を200ポイントダウンです！\nさらに攻撃力がこのカード以下になった相手を私側に裏切らせちゃいます❤,
-{使用カード}が手札から捨てられたとき効果発動！\nこのカードを墓地から特殊召喚します！,
-手札から捨てられたとき{使用カード}の効果発動！\nこのカードを墓地から特殊召喚します！,
-手札から水属性カードを捨てたとき、{使用カード}の効果発動！\nすべての相手キャラクターの攻撃力を100ポイントダウン！,
-１ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンさせます！\nさらにこのカード以下の攻撃力の相手をおっぱいに弱くしちゃいます！,
-１ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンです！\nさらにこのカード以下の攻撃力の相手をおっぱいに弱くしちゃいます！,
-手札から水属性カードを捨てたとき、{使用カード}の効果発動！\nすべての相手キャラクターの攻撃力を100ポイントダウンさせます！,
-相手の攻撃力が低下したとき{使用カード}の効果を発動します！\n挑発の踊りですべての相手キャラクターに「発情」を付与します！,
-相手の攻撃宣言時に{使用カード}の効果を発動！\n踊りで「発情」してるあなたの視線を釘付けにしちゃいます❤,
-そんなにムラムラしてて、まともに攻撃できますか？\n相手の攻撃宣言時に{使用カード}の効果を発動！\n踊りで「発情」してるあなたの視線を釘付けにしちゃいます❤,
-{使用カード}が場に出たとき、効果発動！\n手札からカードを１枚捨てて、カードを１枚ドローします！,
-墓地から水属性カードを７枚取り除き、さらに手札を１枚捨てて\n{使用カード}を発動！\n相手の魔法トラップカードをすべて破壊します！,
-手札からカードを1枚捨てて、{使用カード}を発動！\n相手モンスターに300ポイントのダメージを与えます！\nさらに捨てたのが水属性カードだった場合、１枚ドローです！,
-手札のカードを1枚コストにして、{使用カード}を発動！\n相手モンスターに300ポイントのダメージを与えます！\nさらに捨てたカードが水属性だった場合、１枚ドローです！,
-LPを2000払って{使用カード}を発動します！,
-手札からカードを1枚捨てて、{使用カード}を発動！\nデッキからカードを１枚ドローします！,
-手札のカードを1枚捨てて、{使用カード}を発動！\nデッキからカードを１枚ドローします！,
-人魚をパワーアップするカードです。\n手札を１枚捨て、永続魔法、{使用カード}を発動！,
-人魚に惑わされた魂は、楽園に囚われる…❤\n永続魔法「{使用カード}」発動！\n墓地に行ったモンスターを除外し、LPを500回復します！,
-攻撃力がダウンした相手モンスターが墓地へ送られたとき、\n永続魔法「{使用カード}」発動！\n墓地に行ったモンスターを除外し、LPを500回復します！,
-{使用カード}が手札から捨てられたとき効果発動！\nデッキから「マーメイド」カードを１枚手札に加えます！,
-{使用カード}を手札から捨てたとき効果発動！\nデッキから「マーメイド」カードを１枚手札に加えます！,
-残念ですが、そのカード無効にしちゃいます！\n手札の水属性カードを捨てて{使用カード}を発動！,
-氷漬けにして無効にしちゃいます！\n手札の水属性カードを１枚捨てて{使用カード}を発動！,
-モンスターが場に出たとき、{使用カード}を発動！\n相手のすべてのモンスターに500ポイントダメージと\n「凍結」を与えます！,
-モンスターが場に出たとき{使用カード}を発動！\n相手のすべてのモンスターに\n500ポイントダメージと「凍結」を与えます！,
-攻撃宣言時に、永続トラップ{使用カード}を発動！\nこのカードがある限り、あなたのモンスターの攻撃力は\nマーメイドモンスターの数×200ポイントダウンします！,
-１ターンに１度、{使用カード}を発動！\nすべてのマーメイドモンスターの攻撃力を\n200ポイントアップします！,
-１ターンに１度、{使用カード}を発動！\nわたしのマーメイドモンスターの攻撃力を\n全員200ポイントアップです！,
-装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-魔法カードを発動！{使用カード}！,
-トラップカードを発動！{使用カード}！,
-カードをセットします。,
-カードを伏せます。,I'll place this card face down.
-ふふ、気持ちいいことしてあげますね❤\n{防御カード}を攻撃します！,
-わたしからも攻撃です。{防御カード}へ攻撃！,
-行きなさい！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
-ううっ、何もできません…。ターンエンド…。,
-どうしようもないですね…。ううっ、ターンエンド…。,
-ターン終了です。, My turn is over.,
-わたしのターンは終わりです。ターンエンド。,End turn.
-これでおしまいです。ターンエンド。,End turn.
-わたし、背の割におっぱいが大きいですよね？\nこの胸、ずっとコンプレックスだったんです。,
-でも、最近エッチな戦法を覚えてからは、\nすっかり私の武器になっちゃいました❤\nこうやっておっぱいでおちんちんを甘やかしてあげれば・・・❤,
-ね？抵抗できなくなっちゃうでしょ？\nくすくす❤こんなやわらかいものに負けちゃうなんて、\n男の人って面白いです❤,
-胸が大きいと色々得ですよね。\n例えばこうやって前かがみで谷間をちょっと見せてあげるだけで…❤,
-普通なら聞いてもらえないような頼み事も、\nみんなコクコクうなずいて聞いてくれるんです❤\nそんなにおっぱい見れてうれしいのかなぁ❤,
-ねえ、あなたもわたしのお願い聞いてくれますか？\nここで自分でしごいて負けてください❤しごいてくれれば、\nこの深ーい谷間、いっぱい見せてあげますよ❤くすくす❤,
-わたし小さいころから巨乳なんです。赤ちゃんがいるわけでもないのに\nなんでこんなにおっぱいが大きくなるんだろうって、\nちょっと嫌だったんですけど・・・。,
-最近わかっちゃいました。おっぱいって母乳をあげるだけじゃなくて、\nこんな風にも使えるんですよね❤えいっ❤,
-強いカードマスターの人でも、おっぱいで挟んであげると、\nすぐふにゃふにゃになっちゃうんです❤\n魔力でバリアを張っても、気持ちいいのには抗えないんですね。,
-おちんちん、むにゅって包まれ気持ちいいでしょ？\nそのまま骨抜きになって負けちゃってくださいね❤くすくす❤,
-あは、メロメロになって、無抵抗ですね❤,
-それならほら、おっぱいに埋もれてしまったおちんちん、\nぎゅってしめつけながら、\nたくさん擦り上げて可愛がってあげます❤,
-おっぱいが上下するたびに、おちんちん気持ちよくて\n脳みそとろとろになっちゃいますね❤\n快感に負けてびゅーって出しちゃっていいんですよ❤うふふふ❤,
-ふふ、おっぱいにメロメロになっちゃってますね❤\nダメなじゃないですか。上位ランカーの前で\nそんな隙だらけになっちゃ❤,
-ほら、逃げられないうちに顔を服の中に捕まえちゃいますね❤\nカーディガンをひっぱって・・・、はい、どうぞ❤,
-くすくす❤服の中から見上げるおっぱいはすごいでしょう？\n上からお顔にむぎゅーって押し付けてあげます❤\nおっぱいの甘い匂いでとろとろになっちゃってください❤,
-ううっ、気持ちよくしてください…❤\nおねがいします・・・❤,
-くすくす❤\nおちんちん、もう我慢できなくなっちゃったんですか？,
-チアの子たちの応援、効きすぎちゃいましたね❤\nほら、わたしの圧勝がまわりによく分かるように、\nカッコ悪く屈服しちゃってください❤,
-くすくす❤\nモンスターに命令を出す立場のはずなのに、\n敵のマスターにおねがいなんてしちゃうんですね❤,
-「無敗」なんて呼ばれてるのに、カッコ悪い❤\nぽっと出のあなたとエリートの私と、どっちが上かよくわかりました？\nちゃんとおねだりできたご褒美に、気持ちよくイかせてあげます❤,
-くすくす❤\n敵のマスターにおねだりですか？,
-自分のマスターを裏切って、\nこのおっぱいに甘えに来ちゃうなんて、わるいモンスターさん♪,
-ぶるんぶるんって揺れるおっぱい見てたら、\n頭空っぽになっちゃいました？\nふふ、それじゃあたっぷり気持ちよくしてあげますね❤,
-あは、谷間がどろどろです❤\n魔法でエナジーを吸収できるからいいですけど、\n普通だったらこんなに汚したら怒られちゃいますよ❤,
-くすくす❤あんまり話が頭に入ってなさそうですね❤\nまだおっぱいの感触が頭に残ってるんですか？\nとろーんってしちゃって、かわいい❤ふふ❤,
-あは、おちんちんからびゅくびゅーって出ちゃってます❤\n顔におっぱいをのせられて、\n頭の中しあわせになっちゃいました？,
-ほら、中身を全部出し切るまで、\n服の中でぎゅって抱きしめててあげますね❤\nエナジー空っぽになるまで、わたしに出しちゃってください❤,
-あは、ちょっと谷間見せただけで射精しちゃいました❤\nせっかくおねだりしたのに、\nパイズリとかで射精できなくて残念でしたね。,
-ちょっとからかって焦らしたあとは、\n挟んでむぎゅうってしてあげようと思ったのに❤\nなんて、早漏なあなたの前じゃ、ちょっと厳しかったでしょうか。くすくす❤,
-くすくす❤抵抗する力がとっても弱いですよ❤\nチアの子たちにいっぱい触られて、\nおちんちん敏感になっているんですか？,
-ほら、イキたくて仕方がないおちんちんに\nとどめを刺してあげますね❤\nわたしの大きなおっぱいで天国を味わってください❤,
-くすくす❤おっぱいに弱いの丸わかりです❤\nさっさと逃げないで、とろーんとしてるから、\nほら、追撃のパイズリされちゃった❤,
-そのまま蕩けていていいですよ❤\nあなたが大好きなおっぱいで、きもちよーくイかせてあげます❤,
-あん、びくびくって震えて、\nもうイっちゃいますね❤\nほら、むぎゅうってしてあげるから出してください❤むぎゅううぅ❤,
-わわっ、突き飛ばすなんて危ないじゃないですか。\nむぅ・・・。,
-わたしのおっぱい、とても気持ちよかったでしょう？\nそのまま骨抜きになって、寝転んでればいいのに…。\nしょうがない。すぐにまた挟んでイかせてあげます❤,
-わっ、そんなに暴れないでくださいよ。\nなかなか頑張りますね。,
-おちんちんから我慢汁垂らして、\nいまにも謝しそうなのに…。\n強がらなくてこのおっぱいに負けちゃっていいんですよ？くすくす❤,
-わたしのおっぱい、もちもちしてて気持ちいいですよね❤,
-おちんちん、とっても喜んでるみたいですよ❤逃げないでじっとしてましょう？,
-ふふ、声が漏れちゃってます❤気持ちいいの抑えられませんね❤,
-わたしみたいなか弱い女の子も振り払えないんですか？くすくす❤,
-パイズリでイっちゃう❤パイズリで出しちゃう❤\nくす❤パイズリって言うたび興奮してる❤,
-昇格戦でも、気持ちいいのには勝てないんですね。逃げないであへぇって言っちゃってます❤,
-おちんちん負けてください❤おねがいします❤ほら、ずりずりずり♪,
-服の中で何されてるか見えませんね❤服をめくってもおっぱいに完全に埋もれちゃってますけど♪,
-押し付けるみたいに、おちんちんをむぎゅむぎゅう～❤,
-わたしに勝てばＢランクですよ。ほらほら、がんばって❤,
-負けちゃったら昇格できないですね。\nでもびゅーって出したいの、我慢できますか？くす❤,
-おちんちんで、ヘコヘコ～っておっぱい突いてもいいですよ❤,
-くす❤モンスターさん、すっかり顔が蕩けちゃってます❤マスターのことなんて忘れちゃってますね❤,
-これがＢランクマスターのおっぱいですよ❤モンスターさんに振り払えますか？,
-あなたのおちんちん、ぜーんぶ包まれちゃいましたね❤あったかくて気持ちいいでしょ？うふふ❤,
-メロディを見てオナニーした,
-チアガールを見てオナニーした,
-はぁ、はぁ・・・❤がまんできないっ・・・❤,
-ふふ、くすくす❤あははっ❤\nまさか昇格戦で２ターン目からオナニーしちゃうだなんて❤\n無敗のルーキーさんって全然我慢ができないんですね❤,
-１ターン目にわたしたちにいじめられて、\nもうおちんちん限界ですか？\nいまにも射精しちゃいそうに、おちんちんひくひくひく♪くすくす❤,
-ううっ、それはぁ…❤試合前に卑怯なことをされたからぁ…❤,
-へー、そうなんですか。\n何をされたかなんて知りませんけど、\nたいへんでしたねー❤,
-でもでも、あのチアの子たち、\nカードの腕前はそんなに強くないんですよ？\nせいぜいＤランクぐらいしかないんです。,
-それなのに、そんなたいしたことない女の子たちに囲まれて、\n「応援」されちゃっただけで、\nもうすっかりぼろぼろ❤,
-Bランク昇格戦に無敗で挑むようなつよーいマスターのはずなのに、\nぷっ、くすくす❤\nぜんぜんたいしたことないんですね❤,
-あの子たちの中にタイプの子でもいましたか？\nそれともこんなにかわいいファンが出来たって、\n舞い上がっちゃったんですか？バカみたい♪,
-うぐぅっ、ううっ…❤くそぉ…❤❤,
-いまもそうですよね。こんなに馬鹿にされてるのに、\nおちんちんを触る手、止められてませんよ❤,
-しこしこ❤しこしこって、わたしのこと見ながら\nなさけなーくしごいちゃってます❤,
-ほら、このおっぱいが気になるんですよね。\n身長に不釣り合いに、大きく育っちゃたおっぱい❤,
-さすがにキャミー選手とかには少しサイズで負けるんですけど\nでも、触り心地なら負けてないと思います♪\nあん❤手の平で揉んだら、こんなに柔らかい❤,
-・・・くすくす❤ガン見しすぎです❤へんたい❤\n卑怯だなんだって言いながら、\n結局、おっぱいに夢中なだけじゃないですか❤,
-ほらほら、たくさんしこしこしていいんですよ❤\nわたしのおっぱいオカズにして、\n自分の欲望に素直になって、おちんちんをしこしこしこ～❤,
-はううぅっ、だめなのにっ…❤ああ、きもちいいっ…❤❤,
-くす❤いっぱい手を動かして、\nどんどん蕩けた顔になって、\nもう射精して負けちゃいますね❤,
-いいですよ。ほら、おっぱいゆさゆさって軽く揺らしてあげます❤\nここまで頑張って飛ばしてください。\nちょろーいマスターさん♪くすくすくす❤,
-あは、くすくす❤\nまさか昇格戦で最初のターンからオナニーしちゃうだなんて❤\n無敗のルーキーさんって全然我慢ができないんですね❤,
-チアの子たちの踊りを見て興奮しちゃいました？\nあんなちょっとパンツが見えるぐらいの踊りでシコシコし始めて、\nふふ❤そんなにうぶだなんてびっくりです❤,
-それともわたしのおっぱいが気になりましたか？\nたいていの人より大きいこのおっぱい❤\nどんと張り出していて、とっても存在感がありますよね❤,
-ううっ・・・❤❤どっちもえろくてぇ・・・❤,
-そうなんですか❤\n色んな女の子に目移りしながら、しこしこしこ♪\n欲望に素直で最低です❤,
-あの子たちが部屋での作戦に失敗したって言ってたので、\nちょっと心配してたんですよ。\nああ、やっぱり無敗のルーキーって用心深いんだなぁって。,
-でもでも、蓋を開けてみれば、いきなりオナニーです❤\nわたしの前でひざまづいて、おちんちんをシコシコシコ❤\n夢中で触っちゃってます❤,
-うぐうっ・・・❤❤それはぁ・・・❤,
-{主人公}さんがおかずにしてるこのおっぱい、\n昔は嫌いだったんですけど、\nいまじゃ自慢なんです❤ほら・・・♪,
-軽く体を前かがみにすれば、\n深ーい谷間が出来ちゃうでしょう？\nこうしてあげれば男の人はみんな釘付けになっちゃう❤,
-相手が手札にたくさんカードを持っていたとしても\n関係ありません❤\nおっぱいひとつで５枚分のカードよりも強いんです❤,
-リボンがあると見えないでしょうから、\nちょっと首元緩めて見せてあげますね❤,
-くすくす❤{主人公}さんもおっぱいに夢中ですね❤\nはぁはぁ言いながら谷間をじーっと見て、\nそんなに「これ」がいいですか？,
-{主人公}さんのおちんちんのサイズなら\nぜーんぶこの中に挟めちゃいますよ❤,
-もし挟まれたらどうなっちゃうんでしょう❤\n中にしっかり包まれて、\n両側からずりずりずりってされちゃうんです❤,
-あは、想像しちゃってますね♪\nおちんちん扱くのもっと早くなって、\nあん❤もう出ちゃう❤射精しちゃう❤,
-ぷぷ、おさるさんみたい❤,
-ほら、出してください❤\nわたしの谷間にめがけて、どびゅーって射精❤\n大事な昇格戦をオナニーでだいなしにしてください❤マゾルーキーさん❤,
+ふれー、ふれー♪メロディせんぱーい♪\nほらほら、{主人公}くんもこっち見てぇ❤,Fight; fight♪ Lady Melody fight!♪ Hey; hey; {主人公}; look over here~❤
+わたしたちみんなで、んーっちゅ❤\n投げキスで応援しちゃう❤\n{主人公}くんもがんばれー❤,All together now; mwah~❤ We'll cheer you on by blowing you kisses~❤ You can do it; {主人公}~❤
+（はひぃっ…❤❤かわいい…❤）,(Hah hah...❤❤ So cute...❤)
+くすくす❤踊りに釘付けでぼーっとしちゃってますね❤\n隙だらけのあなたに一方的に攻撃させてもらいます❤\nわたしのターンからです！,*Giggle*❤ You're completely transfixed by their dancing; you're totally spacing out~❤While you're this full of openings; I'll attack you with no chance for you to fight back!❤ It's my turn!
+先攻はわたしからですね。\nよろしくお願いします♪,I'll go first. Go easy on me; okay?♪
+ドローします。,I'll draw.
+わたしのターンですね。ドロー！,It's my turn. Draw!
+モンスターをコストにして、{使用カード}を上級召喚します！,By sacrificing a monster; I advance summon {使用カード}!
+{使用カード}を召喚です！,I summon {使用カード}!
+ううっ、あうう・・・❤,Uuhh; ahhh...❤
+くす❤蘇ってもまだメロメロじゃないですか❤\n理性の弱いモンスターって全然脅威にならないですよね❤,*Giggle*❤ Even after losing and coming back; you're still totally head-over-heels.❤ Monsters like you with such weak willpower pose no threat at all~❤
+{主人公}さんもこのモンスターみたいに、\nメロメロになってみますか？\n快楽に流されるのはとっても気持ちいいですよ。うふふふ♪,Wouldn't you like to try falling for my charms like your monster ahve: {主人公}? Being swept away by pleasure feels soo good. Ufufufu♪
+さらにもう1枚発動！,I'll activate one more card!
+１ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンさせます！\nさらに攻撃力がこのカード以下になった相手に魅了を付与します！,Once per turn; I can activate {使用カード}'s effect! It decreases the attack power of all opponent characters by 200 points! Additionally; it inflicts charm on opponents whose attack power becomes equal to or less than its own!
+１ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンです！\nさらに攻撃力がこのカード以下になった相手に魅了を付与します！,Once per turn; I can activate {使用カード}'s effect! It decreases the attack power of all opponent characters by 200 points! Additionally; it inflicts charm on opponents whose attack power becomes equal to or less than its own!
+{使用カード}が手札から捨てられたとき効果発動！\n相手フィールド上の攻撃力0のモンスター１体をゲームから除外し、\nこのカードを墓地から特殊召喚します！,When {使用カード} is discarded from hand; its effect activates! I banish one of my opponent;s monsters with 0 attack power from the field and special summon it from the graveyard!
+手札から捨てられたとき{使用カード}の効果発動！\n相手フィールド上の攻撃力0のモンスター１体をゲームから除外し、\nこのカードを墓地から特殊召喚します！,When it gets discarded from my hand; {使用カード}'s effect activates! I banish one of my opponent's monsters with 0 attack power from the field and special summon it from the graveyard!
+手札から水属性カードを捨てたとき、{使用カード}の効果発動！\nすべての相手キャラクターの攻撃力を100ポイントダウンです！,Whenever I discard a Water attribute card from my hand; {使用カード}'s effect activates! It decreases the attack power of all opponent characters by 100 points!
+１ターンに１度、{使用カード}の効果を発動！\n相手モンスター１体の攻撃力を200ポイントダウンです！\nさらに攻撃力がこのカード以下になった相手のコントロールを奪います！,Once per turn; I can activate {使用カード}'s effect! It decreases one of my opponent's monster's attack power by 200 points! Additionally; if that monster's attack power becomes equal to or less than this card's attack power; I take control of it!
+１ターンに１度、{使用カード}の効果を発動！\n相手モンスター１体の攻撃力を200ポイントダウンです！\nさらに攻撃力がこのカード以下になった相手を私側に裏切らせちゃいます❤,Once per turn; I can activate {使用カード}'s effect! Ir decreases the attack power of one of my opponent's monsters by 200 points! Additionally; if that monster's attack power becomes equal to or less than this card's; it betrays my opponent and joins my side~❤
+{使用カード}が手札から捨てられたとき効果発動！\nこのカードを墓地から特殊召喚します！,When {使用カード} is discarded from my hand; its effect activates! I special summon it from the graveyard!
+手札から捨てられたとき{使用カード}の効果発動！\nこのカードを墓地から特殊召喚します！,When discarded from hand; {使用カード}'s effect activates! I special summon it from the graveyard!
+手札から水属性カードを捨てたとき、{使用カード}の効果発動！\nすべての相手キャラクターの攻撃力を100ポイントダウン！,Whenever I discard a Water attribute card from my hand; {使用カード}'s effect activates! It decreases all the attack power of all opponent characters by 100 points!
+１ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンさせます！\nさらにこのカード以下の攻撃力の相手をおっぱいに弱くしちゃいます！,Once per turn; I can activate {使用カード}'s effect! It decreases the attack power of all opponent characters by 200 points! Additionally; I make opponents with attack power equal to or less than this card's weak to breasts!
+１ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンです！\nさらにこのカード以下の攻撃力の相手をおっぱいに弱くしちゃいます！,Once per turn; I can activate {使用カード}'s effect! It decreases the attack power of all opponent characters by 200 points! Additionally; I make opponents with attack power equal to or less than this card's weak to breasts!
+手札から水属性カードを捨てたとき、{使用カード}の効果発動！\nすべての相手キャラクターの攻撃力を100ポイントダウンさせます！,Whenever I discard a Water attribute card from my hand; {使用カード}'s effect activates! It decreases all opponent characters' attack power by 200 points!
+相手の攻撃力が低下したとき{使用カード}の効果を発動します！\n挑発の踊りですべての相手キャラクターに「発情」を付与します！,When an opponent's attack power decreases; I can activate {使用カード}'s effect! With her suggestive dance; I can inflict "arousal" on all opponent characters!
+相手の攻撃宣言時に{使用カード}の効果を発動！\n踊りで「発情」してるあなたの視線を釘付けにしちゃいます❤,When an opponent declares an attack; I can activate {使用カード}'s effect! With her dance; I'll captivate the gaze of any of you who are "aroused"~❤
+そんなにムラムラしてて、まともに攻撃できますか？\n相手の攻撃宣言時に{使用カード}の効果を発動！\n踊りで「発情」してるあなたの視線を釘付けにしちゃいます❤,Can you even attack properly when you're already so excited? When an opponent declares an attack; I can activate {使用カード}'s effect! With her dance; I'll captivate the gaze of you who are "aroused"~❤
+{使用カード}が場に出たとき、効果発動！\n手札からカードを１枚捨てて、カードを１枚ドローします！,When {使用カード} enters the field; its effect activates! I discard one card from my hand and draw one card!
+墓地から水属性カードを７枚取り除き、さらに手札を１枚捨てて\n{使用カード}を発動！\n相手の魔法トラップカードをすべて破壊します！,Removing seven Water attribute cards from my graveyard and discarding one card from my hand; I activate {使用カード}! I destroy all my opponent spell and trap cards!
+手札からカードを1枚捨てて、{使用カード}を発動！\n相手モンスターに300ポイントのダメージを与えます！\nさらに捨てたのが水属性カードだった場合、１枚ドローです！,By discarding one card from my hand; I can activate {使用カード}! I deal 300 points of damage to an opponent monster! Additionally; if the discarded card was Water attribute; I draw one card!
+手札のカードを1枚コストにして、{使用カード}を発動！\n相手モンスターに300ポイントのダメージを与えます！\nさらに捨てたカードが水属性だった場合、１枚ドローです！,I'll discard a card from my hand in order to activate {使用カード}! It deals 300 points of damage to your monster! Then; if the discarded card was Water attribute; I draw one card!
+LPを2000払って{使用カード}を発動します！,I'll pay 2000 LP to activate {使用カード}!
+手札からカードを1枚捨てて、{使用カード}を発動！\nデッキからカードを１枚ドローします！,I'll discard a card from my hand to activate {使用カード}! I draw one card from my deck!
+手札のカードを1枚捨てて、{使用カード}を発動！\nデッキからカードを１枚ドローします！,I'll discard a card from my hand to activate {使用カード}! I draw one card from my deck!
+人魚をパワーアップするカードです。\n手札を１枚捨て、永続魔法、{使用カード}を発動！,Time to power up my mermaids. I'll discard a card from my hand and activate the continuous spell {使用カード}!
+人魚に惑わされた魂は、楽園に囚われる…❤\n永続魔法「{使用カード}」発動！\n墓地に行ったモンスターを除外し、LPを500回復します！,Any soul entranced by mermaids becomes trapped in paradise...❤ I activate the continuous spell {使用カード}! It banishes the monster that just went to your graveyard and I recover 500 LP!
+攻撃力がダウンした相手モンスターが墓地へ送られたとき、\n永続魔法「{使用カード}」発動！\n墓地に行ったモンスターを除外し、LPを500回復します！,When an opponent's monster with reduced attack is sent to the graveyard; I can activate the continuous spell {使用カード}! It banishes that monster from the graveyard and I recover 500 LP!
+{使用カード}が手札から捨てられたとき効果発動！\nデッキから「マーメイド」カードを１枚手札に加えます！,When {使用カード} gets discarded from my hand; its effect activates! I add one "Mermaid" card from my deck to my hand!
+{使用カード}を手札から捨てたとき効果発動！\nデッキから「マーメイド」カードを１枚手札に加えます！,When I discard {使用カード} from my hand; its effect activates! I add one "Mermaid" card from my deck to my hand!
+残念ですが、そのカード無効にしちゃいます！\n手札の水属性カードを捨てて{使用カード}を発動！,Sorry; but I'm going to negate that! I'll discard a Water attribute card from my hand to activate {使用カード}!
+氷漬けにして無効にしちゃいます！\n手札の水属性カードを１枚捨てて{使用カード}を発動！,I'll freeze that card solid and negate its effect! I'll discard one Water attribute card from my hand to activate {使用カード}!
+モンスターが場に出たとき、{使用カード}を発動！\n相手のすべてのモンスターに500ポイントダメージと\n「凍結」を与えます！,When a monster is summoned to the field; I can activate {使用カード}! This deals 500 points of damage to all of your monsters and inflicts "Freeze"!
+モンスターが場に出たとき{使用カード}を発動！\n相手のすべてのモンスターに\n500ポイントダメージと「凍結」を与えます！,When you summon a monster to the field; I activate {使用カード}! This deals 500 points of damage to all your monsters and inflicts "Freeze"!
+攻撃宣言時に、永続トラップ{使用カード}を発動！\nこのカードがある限り、あなたのモンスターの攻撃力は\nマーメイドモンスターの数×200ポイントダウンします！,When you declare an attack; I activate the continuous trap {使用カード}! As long as this card remains on my field; your monsters' attack power decreases by the number of Mermaid monsters I control times 200!
+１ターンに１度、{使用カード}を発動！\nすべてのマーメイドモンスターの攻撃力を\n200ポイントアップします！,Once per turn; I can activate {使用カード}! The attack of all my Mermaids increases by 200 points!
+１ターンに１度、{使用カード}を発動！\nわたしのマーメイドモンスターの攻撃力を\n全員200ポイントアップです！,Once per turn; I can activate {使用カード}! All my Mermaid monsters' attack increases by 200 points each!
+装備魔法カード発動！{使用カード}！,I activate the equip spell card {使用カード}!
+魔法カードを発動！{使用カード}！,I activate the magic card {使用カード}!
+トラップカードを発動！{使用カード}！,I activate the trap card {使用カード}!
+カードをセットします。,I'll set a card.
+カードを伏せます。,II'll place this card face down.
+ふふ、気持ちいいことしてあげますね❤\n{防御カード}を攻撃します！,Fufu; don't worry; {防御カード}; I'll make you feel really good!❤
+わたしからも攻撃です。{防御カード}へ攻撃！,I get to attack; too. {防御カード}; here I come!
+行きなさい！{使用カード}で{防御カード}を攻撃！,{Go forth! {使用カード}; attack {防御カード}!
+ううっ、何もできません…。ターンエンド…。,Ugh; I can't do anything... Pass turn...
+どうしようもないですね…。ううっ、ターンエンド…。,There's nothing I can do... Ugh; I'll end my turn...
+ターン終了です。, My turn is over.
+わたしのターンは終わりです。ターンエンド。,EMy turn ends. Pass turn.
+これでおしまいです。ターンエンド。,EThat's everything. Pass turn.
+わたし、背の割におっぱいが大きいですよね？\nこの胸、ずっとコンプレックスだったんです。,My breasts are pretty big for someone my height; don't you think? I actually used to be a little self-conscious about them…
+でも、最近エッチな戦法を覚えてからは、\nすっかり私の武器になっちゃいました❤\nこうやっておっぱいでおちんちんを甘やかしてあげれば・・・❤,But ever since I learned some naughty battle tactics; they've become my greatest weapon~❤ If I pamper your cock with my breasts like this...❤
+ね？抵抗できなくなっちゃうでしょ？\nくすくす❤こんなやわらかいものに負けちゃうなんて、\n男の人って面白いです❤,See? You can't resist anymore; can you? *Giggle*❤ It's so funny how men lose to something this soft~❤
+胸が大きいと色々得ですよね。\n例えばこうやって前かがみで谷間をちょっと見せてあげるだけで…❤,Having big breasts is actually really convenient. For example; just by leaning forward and showing a little cleavage like this...❤
+普通なら聞いてもらえないような頼み事も、\nみんなコクコクうなずいて聞いてくれるんです❤\nそんなにおっぱい見れてうれしいのかなぁ❤,Everyone just nods along eagerly to everything I say; even to the silliest requests~❤ Are you really that happy to see my breasts?❤
+ねえ、あなたもわたしのお願い聞いてくれますか？\nここで自分でしごいて負けてください❤しごいてくれれば、\nこの深ーい谷間、いっぱい見せてあげますよ❤くすくす❤,Hey; will you listen to my request; too? Stroke yourself and lose; right here; right now.❤ If you stroke your cock for me; I'll show you plenty of my deep; soft cleavage~❤ *Giggle*❤
+わたし小さいころから巨乳なんです。赤ちゃんがいるわけでもないのに\nなんでこんなにおっぱいが大きくなるんだろうって、\nちょっと嫌だったんですけど・・・。,I've had large breasts since I was little. It wasn't like I was nursing a child or anything; so I always wondered why my breasts got so big. It was actually kind of annoying...
+最近わかっちゃいました。おっぱいって母乳をあげるだけじゃなくて、\nこんな風にも使えるんですよね❤えいっ❤,But recently I finally understood. Breasts aren't just for giving milk… They can be used like this too~❤ Here I go!❤
+強いカードマスターの人でも、おっぱいで挟んであげると、\nすぐふにゃふにゃになっちゃうんです❤\n魔力でバリアを張っても、気持ちいいのには抗えないんですね。,Even the strongest cardmasters become weak and helpless when I sandwich them with my breasts~❤ No matter how much magic they have protecting them; they just can't resist the pleasure.
+おちんちん、むにゅって包まれ気持ちいいでしょ？\nそのまま骨抜きになって負けちゃってくださいね❤くすくす❤,Your cock feels good being wrapped up in all this plush softness; doesn't it? So just let the pleasure overwhelm you and surrender; okay?❤ *Giggle*❤
+あは、メロメロになって、無抵抗ですね❤,Aha; you're totally charmed and completely defenseless~❤
+それならほら、おっぱいに埋もれてしまったおちんちん、\nぎゅってしめつけながら、\nたくさん擦り上げて可愛がってあげます❤,Well then; here. I'll squeeze your buried cock between my breasts nice and tight while stroking it up and down over and over~❤
+おっぱいが上下するたびに、おちんちん気持ちよくて\n脳みそとろとろになっちゃいますね❤\n快感に負けてびゅーって出しちゃっていいんですよ❤うふふふ❤,Each time my breasts move up and down; your cock feels so good your just brain turns to mush; doesn't it?❤ It's okay. Lose to the pleasure and shoot it all out.❤ Ufufufu~❤
+ふふ、おっぱいにメロメロになっちゃってますね❤\nダメなじゃないですか。上位ランカーの前で\nそんな隙だらけになっちゃ❤,Fufu; you're completely head-over-heels for my breasts; aren't you?❤ That's not good. You shouldn't be so careless in front of such a dangerous opponent~❤
+ほら、逃げられないうちに顔を服の中に捕まえちゃいますね❤\nカーディガンをひっぱって・・・、はい、どうぞ❤,Here; while you're helpless; I'll trap your face inside my clothes.❤ I'll just pull you into my cardigan and... there you go~❤
+くすくす❤服の中から見上げるおっぱいはすごいでしょう？\n上からお顔にむぎゅーって押し付けてあげます❤\nおっぱいの甘い匂いでとろとろになっちゃってください❤,*Giggle*❤ My breasts look amazing from inside my clothes; don't they? I'll press them against your face from above with a tight squeeze~❤ Let the sweet scent of my breasts melt your mind away~❤
+ううっ、気持ちよくしてください…❤\nおねがいします・・・❤,Ugh; p-lease… Make me feel good...❤ Please...❤
+くすくす❤\nおちんちん、もう我慢できなくなっちゃったんですか？,*Giggle*❤ Your cock can't hold back anymore; can it?
+チアの子たちの応援、効きすぎちゃいましたね❤\nほら、わたしの圧勝がまわりによく分かるように、\nカッコ悪く屈服しちゃってください❤,My cheerleaders' 'support' was a bit too effective; wasn't it?❤ Then go on; surrender pathetically so everyone can clearly see my overwhelming victory~❤
+くすくす❤\nモンスターに命令を出す立場のはずなのに、\n敵のマスターにおねがいなんてしちゃうんですね❤,*Giggle*❤ You're supposed to be the one giving orders to monsters; but here you are begging the enemy master instead~❤
+「無敗」なんて呼ばれてるのに、カッコ悪い❤\nぽっと出のあなたとエリートの私と、どっちが上かよくわかりました？\nちゃんとおねだりできたご褒美に、気持ちよくイかせてあげます❤,For someone "undefeated;" you're pretty pathetic❤ Between a newcomer like you and an elite like me; it's finally clear to you who's superior; isn't it? As a reward for begging like you should; I'll let you cum so nicely~❤
+くすくす❤\n敵のマスターにおねだりですか？,*Giggle*❤ Are you really begging the enemy master?
+自分のマスターを裏切って、\nこのおっぱいに甘えに来ちゃうなんて、わるいモンスターさん♪,Betraying your own master to come cozy up to these breasts… What a naughty monster~♪
+ぶるんぶるんって揺れるおっぱい見てたら、\n頭空っぽになっちゃいました？\nふふ、それじゃあたっぷり気持ちよくしてあげますね❤,Watching my breasts bounce up and down just made your head totally empty; didn't it? Fufu; then I'll make you feel really good~❤
+あは、谷間がどろどろです❤\n魔法でエナジーを吸収できるからいいですけど、\n普通だったらこんなに汚したら怒られちゃいますよ❤,Aha; you got my cleavage all sticky!❤ Normally you'd get scolded for making such a mess; but I can use magic to absorb your energy; so I'll forgive you this time~❤
+くすくす❤あんまり話が頭に入ってなさそうですね❤\nまだおっぱいの感触が頭に残ってるんですか？\nとろーんってしちゃって、かわいい❤ふふ❤,*Giggle*❤ Not that you're listening at all.❤ Is the feeling of my breasts still lingering in your mind? You look so cute; all dazed like that~❤ Fufu~❤
+あは、おちんちんからびゅくびゅーって出ちゃってます❤\n顔におっぱいをのせられて、\n頭の中しあわせになっちゃいました？,Aha; your cock is spurting out so much~❤ Having my breasts pressed against your face filled your head with such bliss; didn't it?
+ほら、中身を全部出し切るまで、\n服の中でぎゅって抱きしめててあげますね❤\nエナジー空っぽになるまで、わたしに出しちゃってください❤,Here; I'll keep hugging you tight inside my clothes until you've let out everything you have.❤ Give me all your energy until you're totally empty~❤
+あは、ちょっと谷間見せただけで射精しちゃいました❤\nせっかくおねだりしたのに、\nパイズリとかで射精できなくて残念でしたね。,Aha; you came just from seeing a little cleavage!❤ Too bad. You didn't get a chance to experience a proper after begging so nicely.
+ちょっとからかって焦らしたあとは、\n挟んでむぎゅうってしてあげようと思ったのに❤\nなんて、早漏なあなたの前じゃ、ちょっと厳しかったでしょうか。くすくす❤,I was planning to tease and edge you a bit; then squeeze you tight!❤ But I guess that was asking too much from a premature ejaculator like you. *Giggle*❤
+くすくす❤抵抗する力がとっても弱いですよ❤\nチアの子たちにいっぱい触られて、\nおちんちん敏感になっているんですか？,*Giggle*❤ Your resistance is so weak!❤ Did all that touching my cheerleaders did make your cock extra sensitive?
+ほら、イキたくて仕方がないおちんちんに\nとどめを刺してあげますね❤\nわたしの大きなおっぱいで天国を味わってください❤,Here; since your cock is so desperate to cum; I'll deliver the finishing blow!❤ I'll use my big breasts to give you a taste of heaven~❤
+くすくす❤おっぱいに弱いの丸わかりです❤\nさっさと逃げないで、とろーんとしてるから、\nほら、追撃のパイズリされちゃった❤,*Giggle*❤ Your weakness to breasts is totally obvious!❤ Instead of running away; you're just standing there all dazed. So I'll follow up with a paizuri attack~❤
+そのまま蕩けていていいですよ❤\nあなたが大好きなおっぱいで、きもちよーくイかせてあげます❤,Just stand there and melt away!❤ I'll make you cum so good with the breasts you love so much~❤
+あん、びくびくって震えて、\nもうイっちゃいますね❤\nほら、むぎゅうってしてあげるから出してください❤むぎゅううぅ❤,Ah; you're trembling so much! You're going to cum soon; aren't you?❤ Come on; I'll squeeze you tight; so let it all out!❤ Squeeeze~❤
+わわっ、突き飛ばすなんて危ないじゃないですか。\nむぅ・・・。,Wah; you shouldn't push people like that. It's dangerous. Hmph...
+わたしのおっぱい、とても気持ちよかったでしょう？\nそのまま骨抜きになって、寝転んでればいいのに…。\nしょうがない。すぐにまた挟んでイかせてあげます❤,My breasts felt really good; didn't they? You really should've just laid there and lost... Oh well. I'll just have to squeeze you between my breasts again and make you cum right away~❤
+わっ、そんなに暴れないでくださいよ。\nなかなか頑張りますね。,Hey; don't thrash around so much. You're resisting way too much.
+おちんちんから我慢汁垂らして、\nいまにも謝しそうなのに…。\n強がらなくてこのおっぱいに負けちゃっていいんですよ？くすくす❤,Your cock is dripping precum and you look like you're going to cum any second... You don't need to act tough. It's okay if you lose to my breasts; alright? Giggle❤
+わたしのおっぱい、もちもちしてて気持ちいいですよね❤,My breasts are so soft and squishy. They feel really good; don't they?❤
+おちんちん、とっても喜んでるみたいですよ❤逃げないでじっとしてましょう？,Your cock seems so happy right now~❤ Don't run away; okay? Just stay still and enjoy.
+ふふ、声が漏れちゃってます❤気持ちいいの抑えられませんね❤,Fufu; your voice is slipping out.❤ You just can't hide how good it feels; can you?❤
+わたしみたいなか弱い女の子も振り払えないんですか？くすくす❤,What's wrong? Can't even shake off a frail girl like me? *Giggle*❤
+パイズリでイっちゃう❤パイズリで出しちゃう❤\nくす❤パイズリって言うたび興奮してる❤,You're going to cum from my paizuri~❤ You're gonna cum from paizuri~❤ *Giggle*❤ You get excited every time I say paizuri; huh?❤
+昇格戦でも、気持ちいいのには勝てないんですね。逃げないであへぇって言っちゃってます❤,Even in an important promotion battle; you just can't win against pleasure. Instead of running; you're just moaning helplessly~❤
+おちんちん負けてください❤おねがいします❤ほら、ずりずりずり♪,Please just let your cock lose to me~❤ Please?❤ Come on; rub rub rub~♪
+服の中で何されてるか見えませんね❤服をめくってもおっぱいに完全に埋もれちゃってますけど♪,You can't see what's going on inside my clothes; can you?❤ But even if I lifted my shirt; your cock is totally hidden between my breasts~♪
+押し付けるみたいに、おちんちんをむぎゅむぎゅう～❤,I'll press them tight against your cock; squish squish squish~❤
+わたしに勝てばＢランクですよ。ほらほら、がんばって❤,You know; if you beat me; you'll reach B-rank. So come on; do your best~❤
+負けちゃったら昇格できないですね。\nでもびゅーって出したいの、我慢できますか？くす❤,If you lose; you can't get promoted. But can you resist wanting to shoot out everything you have? *Giggle*❤
+おちんちんで、ヘコヘコ～っておっぱい突いてもいいですよ❤,You can thrust your cock between my breasts all you want~❤
+くす❤モンスターさん、すっかり顔が蕩けちゃってます❤マスターのことなんて忘れちゃってますね❤,*Giggle*❤ Wow; Mister Monster; your expression has completely melted~❤ You've forgotten all about your master; haven't you?❤
+これがＢランクマスターのおっぱいですよ❤モンスターさんに振り払えますか？,These are the breasts of a B-rank cardmaster❤ Do you think you shake me off; monster?
+あなたのおちんちん、ぜーんぶ包まれちゃいましたね❤あったかくて気持ちいいでしょ？うふふ❤,Your penis is totally covered; isn't it?❤ It feels warm and good; don't you think? Fufufu~❤
+メロディを見てオナニーした,I started masturbating while watching Melody!
+チアガールを見てオナニーした,I started masturbating while watching the cheerleaders!
+はぁ、はぁ・・・❤がまんできないっ・・・❤,Haa; haah...❤ I… I can't hold back...❤
+ふふ、くすくす❤あははっ❤\nまさか昇格戦で２ターン目からオナニーしちゃうだなんて❤\n無敗のルーキーさんって全然我慢ができないんですね❤,Fufu. *Giggle*❤ Ahahaha!❤ I can't believe it's only the second turn of your promotion battle and you're already masturbating!❤ The undefeated rookie has no self control at all; does he?❤
+１ターン目にわたしたちにいじめられて、\nもうおちんちん限界ですか？\nいまにも射精しちゃいそうに、おちんちんひくひくひく♪くすくす❤,Is your penis already at its limit after being teased by us in just the first turn? It's twitching like you're about to cum any second now~♪ *Giggle*❤
+ううっ、それはぁ…❤試合前に卑怯なことをされたからぁ…❤,Uugh; that's...❤ It's because you… You cheated before the match...❤
+へー、そうなんですか。\n何をされたかなんて知りませんけど、\nたいへんでしたねー❤,Oh really? I don't know what they did to you; but that must have been so tough for you~❤
+でもでも、あのチアの子たち、\nカードの腕前はそんなに強くないんですよ？\nせいぜいＤランクぐらいしかないんです。,But those cheerleaders aren't particularly skilled cardmasters; you know? They're only D-rank at best.
+それなのに、そんなたいしたことない女の子たちに囲まれて、\n「応援」されちゃっただけで、\nもうすっかりぼろぼろ❤,And yet; just being surrounded by those mediocre girls and getting "cheered on" by them has left you totally broken~❤
+Bランク昇格戦に無敗で挑むようなつよーいマスターのはずなのに、\nぷっ、くすくす❤\nぜんぜんたいしたことないんですね❤,You're supposed to be a big strong master challenging the B-rank promotion battle undefeated; but… Pfft *Giggle*❤ You're really nothing special at all; are you?❤
+あの子たちの中にタイプの子でもいましたか？\nそれともこんなにかわいいファンが出来たって、\n舞い上がっちゃったんですか？バカみたい♪,Were any of those girls your type? Or did you just get carried away thinking you had such cute fans? How stupid~♪
+うぐぅっ、ううっ…❤くそぉ…❤❤,Uggh; urgh...❤ Damn it...❤❤
+いまもそうですよね。こんなに馬鹿にされてるのに、\nおちんちんを触る手、止められてませんよ❤,Even now it's no different; is it? Even though you're being made fun of like this; you haven't stopped touching yourself this entire time!❤
+しこしこ❤しこしこって、わたしのこと見ながら\nなさけなーくしごいちゃってます❤,Stroke strok~❤ You're jerking yourself off so pathetically while just staring at me~❤
+ほら、このおっぱいが気になるんですよね。\n身長に不釣り合いに、大きく育っちゃたおっぱい❤,Look; my breasts are what caught your eye; aren't they? These breasts that grew so much bigger than you'd expect for a girl my height~❤
+さすがにキャミー選手とかには少しサイズで負けるんですけど\nでも、触り心地なら負けてないと思います♪\nあん❤手の平で揉んだら、こんなに柔らかい❤,I might lose a to players like Cammy a bit in size; but I doubt I'd lose when it comes to how they feel~♪ Ahn~❤ They just feel so soft when you knead them with your palm~❤
+・・・くすくす❤ガン見しすぎです❤へんたい❤\n卑怯だなんだって言いながら、\n結局、おっぱいに夢中なだけじゃないですか❤,...*Giggle*❤ You're staring way too hard!❤ Pervert!❤ You can say I'm cheating all you want; but in the end the truth is you're just obsessed with my breasts; aren't you?❤
+ほらほら、たくさんしこしこしていいんですよ❤\nわたしのおっぱいオカズにして、\n自分の欲望に素直になって、おちんちんをしこしこしこ～❤,Come on; go ahead and stroke keep yourself.❤ Just stand there fantasizing about my breasts; give into your desires; and stroke your cock. Stroke stroke~❤
+はううぅっ、だめなのにっ…❤ああ、きもちいいっ…❤❤,Haahhh; no… I-I shouldn't...❤ Aah; but it feels so good...❤❤
+くす❤いっぱい手を動かして、\nどんどん蕩けた顔になって、\nもう射精して負けちゃいますね❤,*Giggle*❤ You're moving your hand so fast; and your face is melting more and more… You're going to cum soon; aren't you?❤
+いいですよ。ほら、おっぱいゆさゆさって軽く揺らしてあげます❤\nここまで頑張って飛ばしてください。\nちょろーいマスターさん♪くすくすくす❤,That's fine. Look; I'll give my breasts a little jiggle for you~❤ Keep going and shoot it out. Such an easy master♪ *Giggle giggle*❤
+あは、くすくす❤\nまさか昇格戦で最初のターンからオナニーしちゃうだなんて❤\n無敗のルーキーさんって全然我慢ができないんですね❤,Aha! *Giggle*❤ I can't believe it's only the first turn of your promotion battle and you're already masturbating!❤ The undefeated rookie has no self control at all; does he?❤
+チアの子たちの踊りを見て興奮しちゃいました？\nあんなちょっとパンツが見えるぐらいの踊りでシコシコし始めて、\nふふ❤そんなにうぶだなんてびっくりです❤,Did the cheerleaders' routine get you too excited? Starting to stroke yourself just from seeing a little bit of their panties… Fufu~❤ You're so much more innocent than I'd expected.❤
+それともわたしのおっぱいが気になりましたか？\nたいていの人より大きいこのおっぱい❤\nどんと張り出していて、とっても存在感がありますよね❤,Or were you more interested in my breasts? They are far bigger than most other people's~❤ They stick out so boldly and have such a commanding presence; don't you think?❤
+ううっ・・・❤❤どっちもえろくてぇ・・・❤,Uugh...❤❤ It's all so sexy...❤
+そうなんですか❤\n色んな女の子に目移りしながら、しこしこしこ♪\n欲望に素直で最低です❤,You think so?❤ You're just looking between me and them while going ♪ You're being too honest with your desires. So pathetic~❤
+あの子たちが部屋での作戦に失敗したって言ってたので、\nちょっと心配してたんですよ。\nああ、やっぱり無敗のルーキーって用心深いんだなぁって。,Those girls said their ambush in your room failed; so I was actually a bit worried. I thought; "ah; the undefeated rookie really is super cautious after all."
+でもでも、蓋を開けてみれば、いきなりオナニーです❤\nわたしの前でひざまづいて、おちんちんをシコシコシコ❤\n夢中で触っちゃってます❤,But when push came to shove; you immediately started touching yourself!❤ Just kneeling in front of me; stroking your cock.❤ You're totally obsessed~❤
+うぐうっ・・・❤❤それはぁ・・・❤,Ugugh...❤❤ That's...❤
+{主人公}さんがおかずにしてるこのおっぱい、\n昔は嫌いだったんですけど、\nいまじゃ自慢なんです❤ほら・・・♪,You know I used to hate these breasts your fantasizing about; but now they're my pride and joy~❤ Look...♪
+軽く体を前かがみにすれば、\n深ーい谷間が出来ちゃうでしょう？\nこうしてあげれば男の人はみんな釘付けになっちゃう❤,If I lean my body forward just a little; nice; deep cleavage forms; right? Whenever I do this; all the boys become obsessed~❤
+相手が手札にたくさんカードを持っていたとしても\n関係ありません❤\nおっぱいひとつで５枚分のカードよりも強いんです❤,Even if my opponent has lots of cards in their hand; it doesn't matter.❤ My breasts alone are stronger than five cards or more~❤
+リボンがあると見えないでしょうから、\nちょっと首元緩めて見せてあげますね❤,The ribbon makes it hard to see; so I'll loosen my neckline a bit for you❤
+くすくす❤{主人公}さんもおっぱいに夢中ですね❤\nはぁはぁ言いながら谷間をじーっと見て、\nそんなに「これ」がいいですか？,*Giggle*❤ You're totally obsessed with my breasts too; aren't you?❤ You're staring intently at my cleavage and panting so hard. Do you really like them that much?
+{主人公}さんのおちんちんのサイズなら\nぜーんぶこの中に挟めちゃいますよ❤,With how small your peni is; I could fit it completely between my breasts~❤
+もし挟まれたらどうなっちゃうんでしょう❤\n中にしっかり包まれて、\n両側からずりずりずりってされちゃうんです❤,What do you think would happen if you got squeezed between them?❤ You'd be wrapped up snugly inside; getting rubbed from all sides~❤
+あは、想像しちゃってますね♪\nおちんちん扱くのもっと早くなって、\nあん❤もう出ちゃう❤射精しちゃう❤,Aha; you're imagining it; aren't you?♪ You're stroking yourself even faster. Ahn~❤ You're going to cum; aren't you?❤ You're about to burst~❤
+ぷぷ、おさるさんみたい❤,Fufu; you're like a mindless little monkey~❤
+ほら、出してください❤\nわたしの谷間にめがけて、どびゅーって射精❤\n大事な昇格戦をオナニーでだいなしにしてください❤マゾルーキーさん❤,Come on; let it all out!❤ Aim for my cleavage and shoot your load~❤ Throw away your important promotion battle and masturbate!❤ You masochistic rookie~❤
 くすくす❤わたしの前でオナニー始めちゃうんですか？,
 チアの子たちの踊りにやられたのか、\nそれともわたしのおっぱいに見とれて我慢できなくなっちゃったのか…\nどちらにしてもずいぶん理性が弱いんですね❤,
 今日は一世一代の昇格戦。\n勝てばカードマスターとしての栄光が約束されてるのに、\nそんな形で自分から敗北を決めちゃうだなんて、あは、理解できないです❤,
