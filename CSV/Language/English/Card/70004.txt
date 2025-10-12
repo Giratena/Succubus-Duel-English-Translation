@@ -16,8 +16,8 @@ default,
 {使用カード}を上級召喚します。,Advance summoning {使用カード}!
 {使用カード}を召喚です。,Summon; {使用カード}.
 ううっ、あうう・・・❤,Oogh; ooh...❤
-あれあれ、蘇ってきたのに、まだ調子が悪そうですね。\nもしかして負けたときの快感が忘れられないのかな？,Oh oh? You look like you're in pretty bad shape for someone who's just been revived. Maybe it's because you couldn't forget how good losing felt?
-くすくす❤あまり意味のない蘇生になっちゃいましたね。\n蘇らせる相手はもう少し選んだ方がいいと思いますよ。,Teehee.❤ I guess there wasn't really much use in reviving again huh?  I think you should be a little more careful about who you choose to resurrect.
+あれあれ、蘇ってきたのに、まだ調子が悪そうですね。\nもしかして負けたときの快感が忘れられないのかな？,Oh; oh? You look like you're in pretty bad shape for someone who's just been revived. Maybe it's because you couldn't forget how good losing felt?
+くすくす❤あまり意味のない蘇生になっちゃいましたね。\n蘇らせる相手はもう少し選んだ方がいいと思いますよ。,Teehee.❤ I guess there wasn't really much use in reviving again; huh? I think you should be a little more careful about who you choose to resurrect.
 さらにもう1枚発動します.,I have one more thing to activate.
 魔法カード発動！{使用カード}！風の刃で効果ダメージを与えます.,Magic card; activate! {使用カード}! Deal damage using blades of wind!
 風で切り裂きましょう。{使用カード}発動！,Let the wind cut you down! {使用カード} activate!
