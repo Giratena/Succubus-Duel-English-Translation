@@ -26,7 +26,7 @@ Fランクの獣人の少年。獣タイプのモンスターを中心にした�
 魔法カード発動！{使用カード}！デッキから地属性のカードを加えるぜ.,Magic card activate! {使用カード}! I add a monster card to my hand from my deck.
 手札にモンスターを呼ぶぜ。{使用カード}発動！,I'm gonna add a monster card to my hand. {使用カード}; activate!
 魔法カード発動！{使用カード}！HPを強化だ！,Magic card activated! {使用カード}! Increase my HP!
-体力を上げて頑丈にするぜ。{使用カード}を発動！,I'm gonna boost the sturdyness of my monster. Activate {使用カード}!
+体力を上げて頑丈にするぜ。{使用カード}を発動！,I'm gonna boost the sturdiness of my monster. Activate {使用カード}!
 切り札のカードだ！{使用カード}を発動！獣モンスターを永続的にパワーアップ！,This is my trump card! Activate {使用カード}! It will permanently power up my beast monsters!
 永続魔法、{使用カード}を発動！獣モンスターたちの攻撃力を永続的にパワーアップさせる！,Activate permanent spell; {使用カード}! This will power up the attack power of my beast monsters while it remains on the field!
 装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
