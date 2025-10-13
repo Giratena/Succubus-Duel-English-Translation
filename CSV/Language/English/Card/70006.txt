@@ -45,7 +45,7 @@ Sexy01,
 {使用カード}が破壊されたとき効果を発動！罠カードを山札から手札にサーチ！,When that card is destroyed; {使用カード} lets me search for a trap card from my deck to add to my hand!
 魔法カード発動！{使用カード}！手札からレベル4以下の闇属性モンスターを特殊召喚するわ.,Magic card activate! {使用カード}! I special summon one level 4 Dark Attribute monster from my hand.
 {使用カード}発動！手札から闇属性の下級モンスターを特殊召喚するわ。,Activate {使用カード}! Now I can special summon a lower-rank Dark Attribute monster from my hand.
-{使用カード}を発動！強化状態の味方をさらに強化するわ！,{使用カード} activate! This card makes any allies that are buffed to get buffed even further!
+{使用カード}を発動！強化状態の味方をさらに強化するわ！,{使用カード} activate! This card makes any ally that is buffed get buffed even further!
 どんどん強くなりなさい。{使用カード}を発動！,My monsters will only continue to get stronger! {使用カード}; activate!
 {使用カード}を発動！デッキからローグモンスターをサーチさせてもらうわね。,I Activate {使用カード}'s effect! It searches for a Rogue Type monster from my deck and adds it to my hand.
 さあ行くわよ。{使用カード}を発動！連続攻撃してあげる！,Let's go! Activate {使用カード}! Take these successive attacks!
