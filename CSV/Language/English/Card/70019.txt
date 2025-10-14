@@ -1,8 +1,8 @@
-default
+default,
 エイライラ,
 F19_paizuriAnime,
-　モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。\n　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。\n　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。\n　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild, making her one of the people who laid the foundation for Morgen to become the cardmaster mecca it is today.\n　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. When she arrived; this place was just a small settlement. It was here she built the Cardmaster Academy; which became the center around which Morgen developed. Even now; she is occasionally spotted flying through the sky alongside summoned harpies.\n　Though she has worked as a teacher for many years; she has a caring personality and is popular among the underclassmen. To protect the students; she conducts research on enemy succubi; and even invented the recent tactics used by cardmasters that apply the succubus energy drain technique. However; this has made her feel somewhat responsible for the current state of affairs; as this technology has resulted in female students becoming much stronger; making it difficult for male students to find opportunities to shine.\n　Despite living for an extremely long time; she has never married and remains a virgin. She had no practical experience with sexual matters until she began researching succubi. In recent years; however; with her natural intelligence and powerful magic; she has rapidly acquired new techniques; and can now supposedly give men pleasure that melts them in ways even experienced prostitutes cannot match.
-モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。,A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild, making her one of the people who laid the foundation for Morgen to become the cardmaster mecca it is today.
+　モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。\n　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。\n　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。\n　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild;  making her one of the people who laid the foundation for Morgen to become the cardmaster mecca it is today.\n　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. When she arrived; this place was just a small settlement. It was here she built the Cardmaster Academy; which became the center around which Morgen developed. Even now; she is occasionally spotted flying through the sky alongside summoned harpies.\n　Though she has worked as a teacher for many years; she has a caring personality and is popular among the underclassmen. To protect the students; she conducts research on enemy succubi; and even invented the recent tactics used by cardmasters that apply the succubus energy drain technique. However; this has made her feel somewhat responsible for the current state of affairs; as this technology has resulted in female students becoming much stronger; making it difficult for male students to find opportunities to shine.\n　Despite living for an extremely long time; she has never married and remains a virgin. She had no practical experience with sexual matters until she began researching succubi. In recent years; however; with her natural intelligence and powerful magic; she has rapidly acquired new techniques; and can now supposedly give men pleasure that melts them in ways even experienced prostitutes cannot match.
+モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。,A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild;  making her one of the people who laid the foundation for Morgen to become the cardmaster mecca it is today.
 　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。,　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. When she arrived; this place was just a small settlement. It was here she built the Cardmaster Academy; which became the center around which Morgen developed. Even now; she is occasionally spotted flying through the sky alongside summoned harpies.
 　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。,　Though she has worked as a teacher for many years; she has a caring personality and is popular among the underclassmen. To protect the students; she conducts research on enemy succubi; and even invented the recent tactics used by cardmasters that apply the succubus energy drain technique. However; this has made her feel somewhat responsible for the current state of affairs; as this technology has resulted in female students becoming much stronger; making it difficult for male students to find opportunities to shine.
 　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　Despite living for an extremely long time; she has never married and remains a virgin. She had no practical experience with sexual matters until she began researching succubi. In recent years; however; with her natural intelligence and powerful magic; she has rapidly acquired new techniques; and can now supposedly give men pleasure that melts them in ways even experienced prostitutes cannot match.
@@ -17,10 +17,10 @@ F19_paizuriAnime,
 エルルさんが僕を手招きしている。倒したはずのサキュバスがなぜ蘇っていたのか。僕もずっと疑問に思っていた。,Elulu gestured for me to follow. How had the Succubus I thought I'd defeated come back to life? I had been wondering about that myself.
 僕は試合の申し込みをやめて、エルルさんと一緒に目的地へ向かうことにしたのだった。,I decided to abandon my match application and follow Elulu.
 エルルさんに連れられて来たのは、モルゲンにあるカードマスター学園だった。,Elulu brought me to the Morgen Cardmaster Academy.
-モルゲンは国の中でも有数のカードマスターの街で、ギルド本部に加えて、カードマスターのための大きな学園もある。ここにエルルさんの言う「先生」がいるのだろうか。,Morgen is one of the country's premier Cardmaster cities; with not only a guild headquarters but a large academy for Cardmasters; too. I wonder if Elulu's "teacher" is here.
+モルゲンは国の中でも有数のカードマスターの街で、ギルド本部に加えて、カードマスターのための大きな学園もある。ここにエルルさんの言う「先生」がいるのだろうか。,"Morgen is one of the country's premier Cardmaster cities; with not only a guild headquarters but a large academy for Cardmasters; too. I wonder if Elulu's ""teacher"" is here."
 わたしもこの学園の生徒なのよ。\nだから、ここの先生には何人か知り合いがいるの。,I'm a student at this academy too; you know. That's why I know a bunch of the teachers here.
-最近は他の生徒たちの間でも、あなたのこと、結構噂になっているわ。\n男のカードマスターたちからは、\n「俺たちの希望だ」なんて声もあがっているし、,Recently; you've become quite the hot topic among the other students. The male Cardmasters have been saying things like "he's our hope;"
-女のカードマスターたちの中には、\nあなたのこと「かっこいい」って言って、\n狙っている子もそれなりにいたり、ね。,And among the female Cardmasters; there are quite a few who think you're "cool" and have their eyes on you.
+最近は他の生徒たちの間でも、あなたのこと、結構噂になっているわ。\n男のカードマスターたちからは、\n「俺たちの希望だ」なんて声もあがっているし、,"Recently; you've become quite the hot topic among the other students. The male Cardmasters have been saying things like ""he's our hope;"""
+女のカードマスターたちの中には、\nあなたのこと「かっこいい」って言って、\n狙っている子もそれなりにいたり、ね。,"And among the female Cardmasters; there are quite a few who think you're ""cool"" and have their eyes on you."
 ん、こういう話は慣れてない？\n耳が赤くなっているわよ❤\n{主人公}って、色恋とか、疎そうだもんね。,Hmm; you're not used to this kind of talk? Oh wow; your ears are turning red!❤ You're pretty inexperienced in romance stuff; aren't ya {主人公}?
 ・・・・。,....
 へえ、子供のときからずっと修行ばっかりしてきたんだ。\nえ？村が襲われて・・・、家族と離れ離れに？,Oh; so you've been training since you were a child? What? Your village was attacked... and you were separated from your family?
@@ -44,7 +44,7 @@ F19_paizuriAnime,
 重々しいドアを開くとそこは立派な図書室だった。数えきれないほどの本が、辺り一面の空間を埋めている。天井は見上げるほどに広く、３階建てぐらいのスペースがあった。,As the heavy door opened in front of me; an impressive library stretched out beyond. Countless books filled the space all around. The ceiling was so high that it looked like there was about three floors worth of space above us.
 闘技場横の図書館も大きかったが、ここも負けず劣らずの規模だ。分厚い本を読んで勉強している頭のよさそうな生徒たちがあちこちにいる。,The library next to the arena was large; but this one was equally impressive in scale. Intelligent-looking students were dotted all around; studying with thick books.
 おや、君がエルルの言っていた{主人公}くんかい？\nはじめまして。わたしはエイライラ。\nモルゲンカード学園で教鞭を取っている、しがない教師だよ。,Oh hello. Are you {主人公}? Elulu's told me so much about you. It's nice to meet you. I'm Eilaira. I'm just a humble teacher at Morgen Card Academy.
-こんにちは。エイライラ先生。\n「しがない」なんて謙遜しないでくださいよ。\nモルゲンで１、２を争うAランクのカードマスターじゃないですか。,Hello; Professor Eilaira. There's no need to be so modest with that "humble" talk. You're one of the top A-rank Cardmasters in Morgen; aren't you?
+こんにちは。エイライラ先生。\n「しがない」なんて謙遜しないでくださいよ。\nモルゲンで１、２を争うAランクのカードマスターじゃないですか。,"Hello; Professor Eilaira. There's no need to be so modest with that ""humble"" talk. You're one of the top A-rank Cardmasters in Morgen; aren't you?"
 {主人公}、こちらがエイライラ先生よ。\nわたしが初等部だったころに担任をしてくださったの。,{主人公}; this is Professor Eilaira. She was my homeroom teacher when I was in elementary school.
 長命のエルフで、この学校の設立者の一人。\nモルゲンの中でもとっても偉い先生なのよ。,She's an elf; and actually one of the founders of this school. She's a super important teacher in Morgen.
 いやぁ、そういわれると照れるね。うん。,I get so embarrassed when you say it like that.
@@ -73,41 +73,41 @@ F19_paizuriAnime,
 あううぅ・・・・❤,Ahhh...❤
 ふむ、なかなかやるじゃないか。\n本気で行ったのに結構ダメージをもらってしまったよ。\nまあしかし・・・,Hmm; you're pretty good. Even going all out I still took quite a bit of damage. However...
 {主人公}くんは、まだまだ自制心を鍛えないといけないね❤,{主人公}; you need to train your self-control quite a bit~❤
-最後は自分で扱いて負けてしまうなんて、なかなか恥ずかしい負け方だよ。\n性欲に打ち勝てるように、心をしっかり持つことだ。,
-どれだけムラムラしたとしても、自分で触るなんてもってのほかだ。\n若い男の子には酷な話かもしれないけどね。くすくす❤,
-おっぱいは気持ちよかったかい？\nふふ、いまだに胸に甘えたい年頃なのかな？くすくす❤,
-ふとももは気持ちよかったかい？\n密着されて扱かれるのは、若い君には刺激が強かったかな。くすくす❤,
-ううっ・・・❤,
-ふふ、あまりにあっけない❤,
-サキュバスに勝ったと聞いていたから、\nどれほどの若者かと思えば、\n自分の性欲も抑えられず、いきなりオナニーを始めるだなんてね。,
-学園の男子生徒でももうちょっと我慢するよ。\nくすくす❤,
-ううっ・・・ ❤,
-ふふ、わたしの勝ちだね。\n負けたことは、まあそう気にしなくていい。\nわたしは腐ってもAランクマスターで、君はCランクだからね。,
-とはいえオナニーで負けるのはどうかと思うけれど…❤\n勝てないからって勝負を自分で捨てるなんて、\nとても花丸はあげられないな。,
-どれだけムラムラしようとも自分からシコシコしちゃダメだよ。\n若い男の子には酷な話かもしれないけどね。くすくす❤,
-ふふ、わたしの勝ちだね。,
-胸にあっけなく負けてしまったわけだけれど、\nおっぱいは気持ちよかったかい？\nまだまだ胸に甘えたい年頃なのかな？くすくす❤,
-ふとももにあんなに出して、\n密着されて扱かれるのは、若い君には刺激が強かったかな。くすくす❤,
-まあいい。とりあえず今のバトルで分かったことを話そう。\nとはいえ・・・。,
-そういってエイライラ先生は周囲を見渡した。周りには男子生徒や女子生徒が集まっていた。いつの間にか他の生徒たちが僕らの試合を見に来ていたようだ。,
-ここで話すには人目があるね。わたしの研究室までついておいで。,
-さて、今日来てもらった本題の、\nなぜ君が倒したサキュバスが復活していたかについて、だね。,
-さっきのバトルは君の魔力状態を確かめるためのものだったんだ。\nバトル前に渡した君の指輪を見てごらん。,
-・・・・？,
-言われて自分の指に目を向けると、指輪の水晶が紫色の光をほのかに放っていた。ややくすんだ、暗い紫色だ。,
-その指輪はつけたものが魔族であるかどうかを調べるための指輪だ。\n紫色にはっきり光っていたら魔族だと分かる。,
-ただ{主人公}くんの場合、\nほんのりと光っているだけだろう？\nこれは半魔族化状態だ。,
-半魔族化状態！？\nえ、{主人公}、魔族だったの！？,
-まあまあ落ち着きなさい。\n「半」とついているように、\nこの状態は魔族になった状態ではないよ。,
-人間の魔力の一部が魔族に近い状態になっている状態、\nそれを「半魔族化状態」と呼ぶ。\nこれが起きるのは「血縁共鳴」のせいであることが大半だ。,
-血縁共鳴…？,
-そうだ。「血縁共鳴」は血縁者同士、特に兄弟姉妹に起きる現象でね。\n理屈は分かっていないが、遠く離れていても、\n互いの魔力が影響を与え合うんだ。,
-一人が修行をすればもう片方の魔力も少し強くなったり、\n片方が水属性の適性に目覚めたら、\nもう片方の水属性の適性も強化されたり…。,
-それが「血縁共鳴」さ。\n姉や妹がサキュバス化した場合、\n血縁共鳴によって、もう一人が半魔族化することがあるんだ。,
-僕が血縁者から影響を受けて魔族化している？それってつまり・・・。,
-ここから導き出される結論はこうだ。\n{主人公}くん、君の妹は生きている。\nおそらくサキュバス化してね。,
-・・・・！,
-これだけ強い影響を与えているとなると、\n君の妹はかなり強力なサキュバスかもしれない。\n中級サキュバスか下手したら上級サキュバスかもしれないね。,
+最後は自分で扱いて負けてしまうなんて、なかなか恥ずかしい負け方だよ。\n性欲に打ち勝てるように、心をしっかり持つことだ。,To lose by stroking yourself off like that—how embarrassing.\nYou need to steel your resolve so you can overcome your sexual urges.
+どれだけムラムラしたとしても、自分で触るなんてもってのほかだ。\n若い男の子には酷な話かもしれないけどね。くすくす❤,No matter how horny you get; touching yourself is absolutely out of the question.\nThough I suppose that's a bit harsh for a young man like you. Giggle❤
+おっぱいは気持ちよかったかい？\nふふ、いまだに胸に甘えたい年頃なのかな？くすくす❤,Did my breasts feel good?\nFufu; are you still at that age where you want to be pampered by a woman's chest? Giggle❤
+ふとももは気持ちよかったかい？\n密着されて扱かれるのは、若い君には刺激が強かったかな。くすくす❤,Did my thighs feel good?\nBeing stroked while pressed against them must have been too stimulating for someone as young as you. Giggle❤
+ううっ・・・❤,Ungh…❤
+ふふ、あまりにあっけない❤,Fufu; that was far too easy.❤
+サキュバスに勝ったと聞いていたから、\nどれほどの若者かと思えば、\n自分の性欲も抑えられず、いきなりオナニーを始めるだなんてね。,I heard you defeated a succubus;\nso I wondered what kind of young man you were—\nbut to think you couldn't control your own sexual urges and started masturbating right away.
+学園の男子生徒でももうちょっと我慢するよ。\nくすくす❤,Even the male students at the academy have more restraint than that.\nGiggle❤
+ううっ・・・ ❤,Ungh…❤
+ふふ、わたしの勝ちだね。\n負けたことは、まあそう気にしなくていい。\nわたしは腐ってもAランクマスターで、君はCランクだからね。,Fufu; looks like I win.\nDon't feel too bad about losing; though.\nEven if I'm past my prime; I'm still an A-rank Master; and you're only C-rank.
+とはいえオナニーで負けるのはどうかと思うけれど…❤\n勝てないからって勝負を自分で捨てるなんて、\nとても花丸はあげられないな。,That said; losing because you masturbated is quite something…❤\nGiving up on the match yourself because you couldn't win—\nI certainly can't give you a gold star for that.
+どれだけムラムラしようとも自分からシコシコしちゃダメだよ。\n若い男の子には酷な話かもしれないけどね。くすくす❤,No matter how horny you get; you can't start stroking your dick.\nThough I suppose that's a bit harsh for a young man like you. Giggle❤
+ふふ、わたしの勝ちだね。,Fufu; looks like I win.
+胸にあっけなく負けてしまったわけだけれど、\nおっぱいは気持ちよかったかい？\nまだまだ胸に甘えたい年頃なのかな？くすくす❤,You lost so easily to my breasts;\nbut did they feel good?\nAre you still at that age where you want to be pampered by a woman's chest? Giggle❤
+ふとももにあんなに出して、\n密着されて扱かれるのは、若い君には刺激が強かったかな。くすくす❤,You came so much on my thighs;\nbeing stroked while pressed against them must have been too stimulating for someone as young as you. Giggle❤
+まあいい。とりあえず今のバトルで分かったことを話そう。\nとはいえ・・・。,Well; whatever. For now; let me tell you what I learned from that battle.\nThough…
+そういってエイライラ先生は周囲を見渡した。周りには男子生徒や女子生徒が集まっていた。いつの間にか他の生徒たちが僕らの試合を見に来ていたようだ。,With that; Professor Eirara looked around. Male and female students had gathered around us. It seemed other students had come to watch our match at some point.
+ここで話すには人目があるね。わたしの研究室までついておいで。,There are too many eyes here to talk. Follow me to my research lab.
+さて、今日来てもらった本題の、\nなぜ君が倒したサキュバスが復活していたかについて、だね。,Now then; regarding the main reason I asked you to come today—\nwhy the succubus you defeated had been resurrected.
+さっきのバトルは君の魔力状態を確かめるためのものだったんだ。\nバトル前に渡した君の指輪を見てごらん。,That battle just now was to check the state of your magical power.\nTake a look at the ring I gave you before the battle.
+・・・・？,…?
+言われて自分の指に目を向けると、指輪の水晶が紫色の光をほのかに放っていた。ややくすんだ、暗い紫色だ。,When I looked at my finger as instructed; the ring's crystal was faintly emitting a purple light. It was a somewhat dull; dark purple.
+その指輪はつけたものが魔族であるかどうかを調べるための指輪だ。\n紫色にはっきり光っていたら魔族だと分かる。,That ring is designed to determine whether the wearer is a demon.\nIf it glows bright purple; that means they're a demon.
+ただ{主人公}くんの場合、\nほんのりと光っているだけだろう？\nこれは半魔族化状態だ。,However; in {主人公}'s case;\nit's only glowing faintly; right?\nThis is a state of semi-demonization.
+半魔族化状態！？\nえ、{主人公}、魔族だったの！？,Semi-demonization!?\nWait; {主人公}; you're a demon!?
+まあまあ落ち着きなさい。\n「半」とついているように、\nこの状態は魔族になった状態ではないよ。,"Now; now; calm down.\nAs the ""semi"" suggests;\nthis state doesn't mean you've become a demon."
+人間の魔力の一部が魔族に近い状態になっている状態、\nそれを「半魔族化状態」と呼ぶ。\nこれが起きるのは「血縁共鳴」のせいであることが大半だ。,"It's a state where part of a human's magical power has become close to that of a demon;\nwe call this a ""semi-demonized state.""\nThis occurs most often due to ""blood resonance."""
+血縁共鳴…？,Blood resonance…?
+そうだ。「血縁共鳴」は血縁者同士、特に兄弟姉妹に起きる現象でね。\n理屈は分かっていないが、遠く離れていても、\n互いの魔力が影響を与え合うんだ。,"That's right. ""Blood resonance"" is a phenomenon that occurs between blood relatives; especially siblings.\nThe mechanics aren't fully understood; but even when far apart;\ntheir magical powers influence each other."
+一人が修行をすればもう片方の魔力も少し強くなったり、\n片方が水属性の適性に目覚めたら、\nもう片方の水属性の適性も強化されたり…。,If one trains; the other's magical power also grows slightly stronger;\nif one awakens an affinity for water magic;\nthe other's water affinity is also enhanced…
+それが「血縁共鳴」さ。\n姉や妹がサキュバス化した場合、\n血縁共鳴によって、もう一人が半魔族化することがあるんだ。,"That's ""blood resonance.""\nWhen a sister becomes a succubus;\nblood resonance can cause the other sibling to become semi-demonized."
+僕が血縁者から影響を受けて魔族化している？それってつまり・・・。,I'm being influenced by a blood relative and becoming demonized? That means…
+ここから導き出される結論はこうだ。\n{主人公}くん、君の妹は生きている。\nおそらくサキュバス化してね。,The conclusion we can draw from this is simple.\n{主人公}; your sister is alive.\nAnd she's likely been turned into a succubus.
+・・・・！,…!
+これだけ強い影響を与えているとなると、\n君の妹はかなり強力なサキュバスかもしれない。\n中級サキュバスか下手したら上級サキュバスかもしれないね。,Given that she's exerting such a strong influence;\nyour sister might be quite a powerful succubus.\nShe could be a mid-level succubus; or possibly even a high-level succubus.
 実のところ、半魔族化した状態でサキュバスを倒すというケースは\n非常に珍しいんだ。,
 女性が血縁共鳴でサキュバスの影響を受ける場合、\n最悪そのままサキュバスになってしまうことがあるから、\n普通は魔力の流入を止める封印を施す。,
 男が血縁共鳴で半魔族化している場合は害がないので放置するが、\n男のカードマスターは基本的にサキュバスに勝てないからね。,
