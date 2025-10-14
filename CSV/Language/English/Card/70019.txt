@@ -1,11 +1,11 @@
 default,
 エイライラ,
 F19_paizuriAnime,
-　モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。\n　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。\n　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。\n　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild;  making her one of the people who laid the foundation for Morgen to become the cardmaster mecca it is today.\n　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. When she arrived; this place was just a small settlement. It was here she built the Cardmaster Academy; which became the center around which Morgen developed. Even now; she is occasionally spotted flying through the sky alongside summoned harpies.\n　Though she has worked as a teacher for many years; she has a caring personality and is popular among the underclassmen. To protect the students; she conducts research on enemy succubi; and even invented the recent tactics used by cardmasters that apply the succubus energy drain technique. However; this has made her feel somewhat responsible for the current state of affairs; as this technology has resulted in female students becoming much stronger; making it difficult for male students to find opportunities to shine.\n　Despite living for an extremely long time; she has never married and remains a virgin. She had no practical experience with sexual matters until she began researching succubi. In recent years; however; with her natural intelligence and powerful magic; she has rapidly acquired new techniques; and can now supposedly give men pleasure that melts them in ways even experienced prostitutes cannot match.
-モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。,A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild;  making her one of the people who laid the foundation for Morgen to become the cardmaster mecca it is today.
-　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。,　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. When she arrived; this place was just a small settlement. It was here she built the Cardmaster Academy; which became the center around which Morgen developed. Even now; she is occasionally spotted flying through the sky alongside summoned harpies.
-　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。,　Though she has worked as a teacher for many years; she has a caring personality and is popular among the underclassmen. To protect the students; she conducts research on enemy succubi; and even invented the recent tactics used by cardmasters that apply the succubus energy drain technique. However; this has made her feel somewhat responsible for the current state of affairs; as this technology has resulted in female students becoming much stronger; making it difficult for male students to find opportunities to shine.
-　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　Despite living for an extremely long time; she has never married and remains a virgin. She had no practical experience with sexual matters until she began researching succubi. In recent years; however; with her natural intelligence and powerful magic; she has rapidly acquired new techniques; and can now supposedly give men pleasure that melts them in ways even experienced prostitutes cannot match.
+　モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。\n　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。\n　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。\n　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild; making her one of the people who laid the foundation for Morgen to become the cardmaster city it is today.\n　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. In what was then a small village when she arrived; she built the cardmaster's academy; and Morgen developed around it.  Even now; she is occasionally spotted flying through the sky alongside her summoned harpies.\n　Though she has worked as a teacher for many years; she has a caring personality and is popular among the freshmen students. In an effort to protect her students; she  researched the succubi and taught cardmasters how to use their energy drain abilities. However; she now feels partly responsible for the female students becoming much stronger; making it difficult for male students to find opportunities to shine.\n　Despite her long lifespan; she never married and had no sexual experience until she began researching succubi. Now; thanks her natural intelligence and powerful magic; she possesses new potential sexual techniques; and it's said her skills can make men melt away in ways not even the most skilled prostitue can match.
+モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。,
+　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。,
+　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。,
+　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,
 挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You haven't reached the rank points required to challenge this match (current rank points:{ランクポイント})
 闘技場で試合の申し込みをするために手続きをしていると、後ろから誰かが肩を叩いて僕に話しかけてきた。,While I was processing the paperwork to apply for my next match in the arena; someone tapped me on the shoulder from behind and started speaking
 やっほー。{主人公}。久しぶりね。\nいまちょっといい？,Yoohoo! {主人公}. Long time no see. Do you have a second?
@@ -108,96 +108,96 @@ F19_paizuriAnime,
 ここから導き出される結論はこうだ。\n{主人公}くん、君の妹は生きている。\nおそらくサキュバス化してね。,The conclusion we can draw from this is simple.\n{主人公}; your sister is alive.\nAnd she's likely been turned into a succubus.
 ・・・・！,…!
 これだけ強い影響を与えているとなると、\n君の妹はかなり強力なサキュバスかもしれない。\n中級サキュバスか下手したら上級サキュバスかもしれないね。,Given that she's exerting such a strong influence;\nyour sister might be quite a powerful succubus.\nShe could be a mid-level succubus; or possibly even a high-level succubus.
-実のところ、半魔族化した状態でサキュバスを倒すというケースは\n非常に珍しいんだ。,
-女性が血縁共鳴でサキュバスの影響を受ける場合、\n最悪そのままサキュバスになってしまうことがあるから、\n普通は魔力の流入を止める封印を施す。,
-男が血縁共鳴で半魔族化している場合は害がないので放置するが、\n男のカードマスターは基本的にサキュバスに勝てないからね。,
-わたしが知る限り、半魔族化した状態でサキュバスを倒したのは、\n{主人公}くんがはじめてのケースだよ。,
-たしか、学園の授業でサキュバスを倒すには\n「聖なる力」が必要だと習いました。\n赤ん坊のときに神殿で女神さまの祝福を受けてその力を得る、と。,
-サキュバスになるとその力は失われて、\n代わりに魔族の力が宿るんですよね。,
-つまり半分魔族になっている{主人公}は、\nサキュバスを倒すための聖なる力が失われている…？\nだからサキュバスが復活してしまったということですか？,
-そう、その通りだよ。エルル。\nよく勉強しているじゃないか。,
-サキュバスは物理的なダメージだけでは倒せない。\n目に見えない闇属性のコアがあって、それを破壊する必要がある。,
-しかし{主人公}くんの今の状態では、\nサキュバスのコアを破壊することができないんだ。,
-なるほど・・・。,
-君たちがサキュバスを倒したという森に行ってみよう。\n百聞は一見に如かずともいう。わたしの計算が正しければ、\nそろそろそこにサキュバスが復活するはずだ。,
-復活していたとしても、下級サキュバス程度、このメンバーなら大丈夫。\nさあ、少し準備したら森に向かおうか。,
-僕たちは昇格試験のときにサキュバスを倒した森についた。うっそうとして視界はあまりよくない。しかし、エルルさんの魔力探査によって、すぐに戦闘があった場所にたどり着けた。,
-先生、サキュバスと戦ったのはここです。,
-ん・・・？なんだか変な魔力のよどみがありますね。,
-へえ、この魔力が分かるなんて。\n相変わらずたいした観察能力だ。,
-（この辺りは確か、カードパックが出土している遺跡があった場所だが…\nサキュバスはこんなところで何をしていたんだろう…？\nまあ、いい。今は置いておこう）,
-さて、まだ復活には少し早かったみたいだけれど、\nこの感じならもうすぐじゃないかな。\nちょっと魔力を与えて刺激してみようか。,
-エイライラさんは杖から魔力の塊を空間に向かって流し込んだ。はじめは何もないように見えた空間に、だんだんと僕にも見えるような魔力のよどみが現れてくる。そして・・・。,
-ぷはぁ！え、え、いまどういう状況！？\nわたし生きているの？,
-やあ、はじめまして。\nそうだね。きみは生きているよ。\nでも、自由ではない。,
-エイライラさんは、そう言ってサキュバスに杖を突きつけた。片手にはカードを持っており、いつでも強力なカードが使える状況だ。,
-ひえぇっ・・・。,
-ほらほらキビキビ歩く。\n自分で牢屋の中に入るんだ。,
-あうう、わかりましたぁ・・・。,
-３体１の状況でエイライラさんに杖を突きつけられ、キノコ使いのサキュバスは降参した。彼女を尋問してモルゲン付近にいた理由を聞き出すため、エイライラさんはそのまま彼女をモルゲンの牢屋まで連れてきていた。,
-エイライラ先生、サキュバスを生け捕りにするとはさすがですね。\nわたくし看守ヤツメ、この悪党をきっちり見張らせていただきます。,
-うん、よろしく頼むよ。,
-というわけで、仮説はやはり正しそうだね。,
-{主人公}くん、君はサキュバスにとどめを刺せない。\nこのことをしっかり考えておきなさい。,
-下級サキュバス相手だと復活にだいぶ時間がかかるようだけれど、\n中級以上のサキュバスだともっと早いかもしれない。\nまして魔素の濃い魔族領だとさらに早いだろう。,
-だからきみが魔族領への遠征に参加するのは難しいかもしれないよ。\n妹に会いに行きたいきみからすれば、\n少し残酷な現実かもしれないが・・・。,
-・・・。,
-半魔族化した魔力…。サキュバスのコアを破壊せずに取り出す力…。,
-見方によっては「サキュバスにとどめを刺せない」というデメリットかもしれないが、僕は以前読んだ本を思い出していた。,
-サキュバスのコアを露出させれば、サキュバス化の呪いを解くことができるという、１本の論文…。,
-もしかして、僕の状態はむしろ妹を治すための希望なんじゃないか…？,
-君が先攻だね。\nさて、お手並み拝見といこうか。,
-わたしが先攻だね。,
-ドローするよ。,
-わたしのターンだね、ドロー！,
-出でよ！\nモンスターをコストにして、{使用カード}を上級召喚！,
-{使用カード}を召喚！,Summon {使用カード}!
-ううっ、あうう・・・❤,
-おや、肉体は蘇ったようだが、\nどうやらきみの理性はいまだ敗北の中にいるみたいだね❤,
-思考を埋める快楽の中から抜け出せるかい？\nマスターのお荷物にならないよう、少しは頑張ってみせたまえよ。\nくすくす❤,
-さらにもう1枚発動！,
-風属性カードが発動したとき{使用カード}の効果を発動！\n相手のランダムなモンスターに\n連鎖発動した風属性カードの枚数×200ポイントのダメージを与える！,
-風属性カードが発動したとき{使用カード}の効果を発動！\nランダムな相手モンスターに\n連鎖発動した風属性カードの枚数×200ポイントのダメージを与える！,
-１ターンに1度、手札を１枚捨てて{使用カード}の効果を発動！\n相手フィールド上の魔法・トラップカードをランダムに１枚破壊する！,
-相手モンスターを風属性カードで破壊したとき{使用カード}の効果を発動！\n相手のランダムなモンスターに\nこのターン発動した風属性カードの枚数×100ポイントのダメージを与える！,
-１ターンに１度、風属性カードの効果が発動した時、\n{使用カード}の効果を発動！わたしたち全員のHPを\n連鎖発動した風属性カードの枚数×200ポイント回復する！,
-１ターンに１度、風属性カードが発動した時、\n{使用カード}の効果を発動！\n全員のHPを連鎖発動した風属性カードの枚数×200回復する！,
-{使用カード}が場に出たとき、効果発動！\n相手フィールド上の魔法・トラップカードをランダムに１枚破壊し、\nさらに１ドローする！,
-{使用カード}が場に出たとき、効果発動！\n相手の魔法・トラップカードをランダムに１枚破壊し、\nさらに１ドローする！,
-風属性カードの効果が発動したとき、\n{使用カード}の効果発動！\n自分のHP・攻撃力を300ポイントアップ！さらに１枚ドローだ！,
-風属性カードの効果が発動したとき、\n{使用カード}の効果発動！\n自分のHP・攻撃力を300ポイントアップし、さらに１枚ドローする！,
-相手の魔法・トラップカードが破壊されたとき、手札の{使用カード}の効果発動！,
-手札を１枚捨てて、{使用カード}を特殊召喚する！,
-{使用カード}を発動！\n200ポイントの基礎ダメージに加え、\n自分フィールド上の風属性カードの数×300のダメージを与える！,
-{使用カード}を発動！\n自分フィールド上の風属性カードの数に応じたダメージを与える！,
-自分フィールド上にモンスターが存在しないとき、\nLPを500払い{使用カード}を発動！,
-手札からレベル４以下風属性モンスターを特殊召喚し、\nさらに相手の手札をランダムに２枚まで風属性に変化させる！,
-自分フィールド上にモンスターが存在しないとき、\nLPを500払って{使用カード}を発動！,
-レベル４以下の風属性モンスターを手札から特殊召喚し、\nさらに相手の手札をランダムに２枚まで風属性に変化させる！,
-{使用カード}を手札から捨てたときその効果を発動！\nデッキから風属性モンスターを１枚サーチ！,
-風属性カードの効果で手札から捨てられたとき\n{使用カード}の効果を発動！\nデッキから風属性モンスターを１枚手札に加える！,
-相手フィールド上にのみモンスターが存在するとき、\nLPを500払い{使用カード}を発動！\nデッキからハーピーモンスターを２枚手札に加える！,
-戦力を補充しよう。相手フィールド上にのみモンスターが存在するとき\nLPを500払い{使用カード}を発動！\nデッキからハーピーモンスターを２枚手札に加える！,
-{使用カード}を手札から捨てたときその効果を発動！\nデッキからレベル４以下の「ハーピー」モンスターを特殊召喚する！,
-風属性カードの効果で手札から捨てられたとき\n{使用カード}の効果を発動！\nデッキからレベル４以下の「ハーピー」モンスターを特殊召喚する！,
-手札を１枚捨て、LPを3000払い、{使用カード}を発動！,
-このカードは守りに優れたカードでね、\n{主人公}くんが魔法カードを使うたびに、味方にバリアを貼ってくれる。\nさらにわたしのターンごとに味方を回復させる効果もあるんだ。,
-風属性モンスターを守る堅牢な壁、\n上手に突破できるかな？,
-きみが魔法カードを使用したとき、{使用カード}の効果を発動！\n自分の風属性モンスターにダメージ半減のバリアを付与だ！,
-きみの魔法カードに合わせて、{使用カード}の効果が発動！\n自分の風属性モンスターにダメージ半減のバリアを付与!,
-わたしのターン開始時に{使用カード}の効果発動！\nすべての風属性モンスターのHPを300ポイント回復する！,
-自分ターン開始時に{使用カード}の効果発動！\nすべての風属性モンスターのHPを300ポイント回復する！,
-手札から風属性カード１枚を捨て、{使用カード}を発動！,
-風属性カードの効果が発動するたびに力をチャージして、\nターン終了時に相手のモンスターにぶつける爆弾カードさ。\n君のモンスターを吹き飛ばしてあげる！,
-風属性カードが発動した時、{使用カード}の効果を発動！\n自身に風の力をチャージだ！,
-風属性カードが発動した時、{使用カード}の効果を発動！\n風の力を内部にため込む！,
-ターン終了時に{使用カード}の効果を発動！\nため込んだ風の爆風を受けてもらうよ！,
-ターン終了時に{使用カード}の効果を発動！\nため込んだ風の力をランダムな相手モンスターに与える！,
-ふふ、そんなに慌ててとなえては、呪文の詠唱がおろそかになるよ。\n罠カード、{使用カード}を発動！発動した魔法カードを無効にし、\nさらに相手の手札を１枚墓地へ送る！,
-相手がカードの効果で手札を増やしたとき、\nLPを800払い、{使用カード}を発動！\n相手の手札をランダムに２枚デッキの一番上に戻す！,
-相手の妨害はバトルの基本だ。相手がカード効果で手札を増やしたとき\nLPを800払い、{使用カード}を発動！\n相手の手札をランダムに２枚デッキの一番上に戻す！,
-風属性カードが発動した時LPを300払い、{使用カード}を発動！\nデッキからカードを１枚ドロー！,
-風属性カードが発動した時LPを300払い、{使用カード}を発動！\nカードを１枚ドローする！,
+実のところ、半魔族化した状態でサキュバスを倒すというケースは\n非常に珍しいんだ。,Actually; cases where someone defeats a Succubus while in a half-demon state are\nextremely rare.
+女性が血縁共鳴でサキュバスの影響を受ける場合、\n最悪そのままサキュバスになってしまうことがあるから、\n普通は魔力の流入を止める封印を施す。,When a woman is affected by a Succubus through blood resonance;\nin the worst case scenario she might end up becoming a Succubus herself;\nso normally we apply a seal to stop the flow of magical power.
+男が血縁共鳴で半魔族化している場合は害がないので放置するが、\n男のカードマスターは基本的にサキュバスに勝てないからね。,If a man undergoes half-demon transformation through blood resonance; there's no harm in leaving it alone; but\nmale Card Masters fundamentally can't defeat a Succubus anyway.
+わたしが知る限り、半魔族化した状態でサキュバスを倒したのは、\n{主人公}くんがはじめてのケースだよ。,As far as I know; {主人公} is the\nfirst case of someone defeating a Succubus while in a half-demon state.
+たしか、学園の授業でサキュバスを倒すには\n「聖なる力」が必要だと習いました。\n赤ん坊のときに神殿で女神さまの祝福を受けてその力を得る、と。,"I remember learning in the academy's classes that to defeat a Succubus\nyou need ""holy power.""\nAs a baby; you receive the goddess's blessing at the temple to gain that power."
+サキュバスになるとその力は失われて、\n代わりに魔族の力が宿るんですよね。,When someone becomes a Succubus; they lose that power;\nand demon power takes its place instead.
+つまり半分魔族になっている{主人公}は、\nサキュバスを倒すための聖なる力が失われている…？\nだからサキュバスが復活してしまったということですか？,In other words; {主人公} has become half-demon;\nso he's lost the holy power needed to defeat a Succubus…?\nDoes that mean the Succubus revived because of that?
+そう、その通りだよ。エルル。\nよく勉強しているじゃないか。,Exactly right; Eruru.\nYou've been studying well.
+サキュバスは物理的なダメージだけでは倒せない。\n目に見えない闇属性のコアがあって、それを破壊する必要がある。,A Succubus can't be defeated by physical damage alone.\nShe has an invisible dark-attribute core that must be destroyed.
+しかし{主人公}くんの今の状態では、\nサキュバスのコアを破壊することができないんだ。,However; in {主人公}'s current state;\nhe's unable to destroy a Succubus's core.
+なるほど・・・。,I see…
+君たちがサキュバスを倒したという森に行ってみよう。\n百聞は一見に如かずともいう。わたしの計算が正しければ、\nそろそろそこにサキュバスが復活するはずだ。,Let's go to the forest where you all defeated that Succubus.\nSeeing is believing; as they say. If my calculations are correct;\nthe Succubus should be reviving there right about now.
+復活していたとしても、下級サキュバス程度、このメンバーなら大丈夫。\nさあ、少し準備したら森に向かおうか。,Even if she has revived; she's just a low-level Succubus; so with this group we'll be fine.\nNow; let's prepare a bit and then head to the forest.
+僕たちは昇格試験のときにサキュバスを倒した森についた。うっそうとして視界はあまりよくない。しかし、エルルさんの魔力探査によって、すぐに戦闘があった場所にたどり着けた。,We arrived at the forest where we had defeated the Succubus during our promotion exam. The forest was dense and visibility wasn't great. However; thanks to Eruru's magical detection; we quickly reached the location where the battle had taken place.
+先生、サキュバスと戦ったのはここです。,Teacher; this is where we fought the Succubus.
+ん・・・？なんだか変な魔力のよどみがありますね。,Hmm…? There's a strange stagnation of magical power here.
+へえ、この魔力が分かるなんて。\n相変わらずたいした観察能力だ。,Well; well; to be able to sense this magical power…\nYour observational skills are impressive as always.
+（この辺りは確か、カードパックが出土している遺跡があった場所だが…\nサキュバスはこんなところで何をしていたんだろう…？\nまあ、いい。今は置いておこう）,(If I recall correctly; this area had ruins where card packs were excavated; but…\nwhat was a Succubus doing in a place like this…?\nWell; whatever. I'll set that aside for now)
+さて、まだ復活には少し早かったみたいだけれど、\nこの感じならもうすぐじゃないかな。\nちょっと魔力を与えて刺激してみようか。,Now then; it seems it's still a bit early for the revival;\nbut from what I'm sensing; it should be soon.\nLet me stimulate it a bit by giving it some magical power.
+エイライラさんは杖から魔力の塊を空間に向かって流し込んだ。はじめは何もないように見えた空間に、だんだんと僕にも見えるような魔力のよどみが現れてくる。そして・・・。,Eilaira released a mass of magical power from her staff toward the empty space. At first; the space appeared empty; but gradually a stagnation of magical power that even I could see began to appear. And then…
+ぷはぁ！え、え、いまどういう状況！？\nわたし生きているの？,Puha! Huh; w-what's going on!?\nAm I alive?
+やあ、はじめまして。\nそうだね。きみは生きているよ。\nでも、自由ではない。,Hello; nice to meet you.\nYes; you're alive.\nBut you're not free.
+エイライラさんは、そう言ってサキュバスに杖を突きつけた。片手にはカードを持っており、いつでも強力なカードが使える状況だ。,Eilaira said this while pointing her staff at the Succubus. In her other hand she held a card; ready to use a powerful card at any moment.
+ひえぇっ・・・。,Hieee…
+ほらほらキビキビ歩く。\n自分で牢屋の中に入るんだ。,Now; now; move along briskly.\nGet yourself into that prison cell.
+あうう、わかりましたぁ・・・。,Auuu; I understand…
+３体１の状況でエイライラさんに杖を突きつけられ、キノコ使いのサキュバスは降参した。彼女を尋問してモルゲン付近にいた理由を聞き出すため、エイライラさんはそのまま彼女をモルゲンの牢屋まで連れてきていた。,In a three-on-one situation with Eilaira pointing her staff at her; the mushroom-using Succubus surrendered. To interrogate her and find out why she had been near Morgen; Eilaira brought her directly to Morgen's prison.
+エイライラ先生、サキュバスを生け捕りにするとはさすがですね。\nわたくし看守ヤツメ、この悪党をきっちり見張らせていただきます。,Teacher Eilaira; capturing a Succubus alive is impressive indeed.\nI; Warden Yatsume; will make sure to watch this villain closely.
+うん、よろしく頼むよ。,Yes; I'm counting on you.
+というわけで、仮説はやはり正しそうだね。,And with that; my hypothesis seems to be correct after all.
+{主人公}くん、君はサキュバスにとどめを刺せない。\nこのことをしっかり考えておきなさい。,{主人公}くん; you can't deal the finishing blow to a succubus.\nYou need to think carefully about this.
+下級サキュバス相手だと復活にだいぶ時間がかかるようだけれど、\n中級以上のサキュバスだともっと早いかもしれない。\nまして魔素の濃い魔族領だとさらに早いだろう。,It seems lower-class succubi take quite a while to revive;\nbut mid-tier succubi and above might revive much faster.\nAnd in the Monster's Domain where magical essence is thick; they'll revive even faster.
+だからきみが魔族領への遠征に参加するのは難しいかもしれないよ。\n妹に会いに行きたいきみからすれば、\n少し残酷な現実かもしれないが・・・。,So it might be difficult for you to participate in expeditions to the Monster's Domain.\nFrom your perspective—wanting to go see your sister—\nthis might be a cruel reality…
+・・・。,…
+半魔族化した魔力…。サキュバスのコアを破壊せずに取り出す力…。,Semi-monster magical power… The ability to extract a succubus's core without destroying it…
+見方によっては「サキュバスにとどめを刺せない」というデメリットかもしれないが、僕は以前読んだ本を思い出していた。,"Depending on how you look at it; ""being unable to deal the finishing blow to a succubus"" could be seen as a disadvantage; but I recalled a book I'd read before."
+サキュバスのコアを露出させれば、サキュバス化の呪いを解くことができるという、１本の論文…。,A single research paper about how exposing a succubus's core could break the curse of succubification…
+もしかして、僕の状態はむしろ妹を治すための希望なんじゃないか…？,Could it be that my condition is actually hope for curing my sister…?
+君が先攻だね。\nさて、お手並み拝見といこうか。,You have the first move.\nNow then; let's see what you can do.
+わたしが先攻だね。,I have the first move.
+ドローするよ。,I'm drawing.
+わたしのターンだね、ドロー！,My turn; draw!
+出でよ！\nモンスターをコストにして、{使用カード}を上級召喚！,Come forth!\nI'll tribute a monster to advance summon {使用カード}!
+{使用カード}を召喚！,I summon {使用カード}!
+ううっ、あうう・・・❤,Mmnh; ahhh…❤
+おや、肉体は蘇ったようだが、\nどうやらきみの理性はいまだ敗北の中にいるみたいだね❤,Oh my; it looks like your body has revived;\nbut it seems your reasoning is still lost in defeat.❤
+思考を埋める快楽の中から抜け出せるかい？\nマスターのお荷物にならないよう、少しは頑張ってみせたまえよ。\nくすくす❤,Can you escape from the pleasure filling your thoughts?\nTry not to be a burden to your master and put in some effort.\nTehehe.❤
+さらにもう1枚発動！,I'm activating another card!
+風属性カードが発動したとき{使用カード}の効果を発動！\n相手のランダムなモンスターに\n連鎖発動した風属性カードの枚数×200ポイントのダメージを与える！,When a wind attribute card is activated; {使用カード}'s effect triggers!\nDeal damage to a random enemy monster equal to\nthe number of chain-activated wind attribute cards × 200 points!
+風属性カードが発動したとき{使用カード}の効果を発動！\nランダムな相手モンスターに\n連鎖発動した風属性カードの枚数×200ポイントのダメージを与える！,When a wind attribute card is activated; {使用カード}'s effect triggers!\nDeal damage to a random enemy monster equal to\nthe number of chain-activated wind attribute cards × 200 points!
+１ターンに1度、手札を１枚捨てて{使用カード}の効果を発動！\n相手フィールド上の魔法・トラップカードをランダムに１枚破壊する！,Once per turn; I'll discard one card from my hand to activate {使用カード}'s effect!\nDestroy one random spell or trap card on the opponent's field!
+相手モンスターを風属性カードで破壊したとき{使用カード}の効果を発動！\n相手のランダムなモンスターに\nこのターン発動した風属性カードの枚数×100ポイントのダメージを与える！,When an opponent's monster is destroyed by a wind attribute card; {使用カード}'s effect activates!\nDeal damage to a random enemy monster equal to\nthe number of wind attribute cards activated this turn × 100 points!
+１ターンに１度、風属性カードの効果が発動した時、\n{使用カード}の効果を発動！わたしたち全員のHPを\n連鎖発動した風属性カードの枚数×200ポイント回復する！,Once per turn; when a wind attribute card's effect is activated;\n{使用カード}'s effect triggers! Recover HP for all of us equal to\nthe number of chain-activated wind attribute cards × 200 points!
+１ターンに１度、風属性カードが発動した時、\n{使用カード}の効果を発動！\n全員のHPを連鎖発動した風属性カードの枚数×200回復する！,Once per turn; when a wind attribute card is activated;\n{使用カード}'s effect triggers!\nRecover everyone's HP by the number of chain-activated wind attribute cards × 200!
+{使用カード}が場に出たとき、効果発動！\n相手フィールド上の魔法・トラップカードをランダムに１枚破壊し、\nさらに１ドローする！,When {使用カード} appears on the field; its effect activates!\nDestroy one random spell or trap card on the opponent's field;\nand then draw one card!
+{使用カード}が場に出たとき、効果発動！\n相手の魔法・トラップカードをランダムに１枚破壊し、\nさらに１ドローする！,When {使用カード} appears on the field; its effect activates!\nDestroy one random opponent's spell or trap card;\nand then draw one card!
+風属性カードの効果が発動したとき、\n{使用カード}の効果発動！\n自分のHP・攻撃力を300ポイントアップ！さらに１枚ドローだ！,When a wind attribute card's effect is activated;\n{使用カード}'s effect triggers!\nIncrease my HP and attack power by 300 points! Plus; I draw a card!
+風属性カードの効果が発動したとき、\n{使用カード}の効果発動！\n自分のHP・攻撃力を300ポイントアップし、さらに１枚ドローする！,When a wind attribute card's effect is activated;\n{使用カード}'s effect triggers!\nIncrease my HP and attack power by 300 points; and draw one card!
+相手の魔法・トラップカードが破壊されたとき、手札の{使用カード}の効果発動！,When an opponent's spell or trap card is destroyed; {使用カード}'s effect in my hand activates!
+手札を１枚捨てて、{使用カード}を特殊召喚する！,I'll discard one card from my hand to special summon {使用カード}!
+{使用カード}を発動！\n200ポイントの基礎ダメージに加え、\n自分フィールド上の風属性カードの数×300のダメージを与える！,I activate {使用カード}!\nIn addition to 200 points of base damage;\ndeal damage equal to the number of wind attribute cards on my field × 300!
+{使用カード}を発動！\n自分フィールド上の風属性カードの数に応じたダメージを与える！,I activate {使用カード}!\nDeal damage based on the number of wind attribute cards on my field!
+自分フィールド上にモンスターが存在しないとき、\nLPを500払い{使用カード}を発動！,When there are no monsters on my field;\nI'll pay 500 LP to activate {使用カード}!
+手札からレベル４以下風属性モンスターを特殊召喚し、\nさらに相手の手札をランダムに２枚まで風属性に変化させる！,Special summon a level 4 or lower wind attribute monster from my hand;\nand also change up to 2 random cards in the opponent's hand to wind attribute!
+自分フィールド上にモンスターが存在しないとき、\nLPを500払って{使用カード}を発動！,When there are no monsters on my field;\nI'll pay 500 LP to activate {使用カード}!
+レベル４以下の風属性モンスターを手札から特殊召喚し、\nさらに相手の手札をランダムに２枚まで風属性に変化させる！,Special summon a level 4 or lower wind attribute monster from my hand;\nand also change up to 2 random cards in the opponent's hand to wind attribute!
+{使用カード}を手札から捨てたときその効果を発動！\nデッキから風属性モンスターを１枚サーチ！,When {使用カード} is discarded from my hand; its effect activates!\nSearch for one wind attribute monster from my deck!
+風属性カードの効果で手札から捨てられたとき\n{使用カード}の効果を発動！\nデッキから風属性モンスターを１枚手札に加える！,When discarded from my hand by a wind attribute card's effect;\n{使用カード}'s effect activates!\nAdd one wind attribute monster from my deck to my hand!
+相手フィールド上にのみモンスターが存在するとき、\nLPを500払い{使用カード}を発動！\nデッキからハーピーモンスターを２枚手札に加える！,When monsters only exist on the opponent's field;\nI'll pay 500 LP to activate {使用カード}!\nAdd two Harpy monsters from my deck to my hand!
+戦力を補充しよう。相手フィールド上にのみモンスターが存在するとき\nLPを500払い{使用カード}を発動！\nデッキからハーピーモンスターを２枚手札に加える！,Let's replenish my forces. When monsters only exist on the opponent's field;\nI'll pay 500 LP to activate {使用カード}!\nAdd two Harpy monsters from my deck to my hand!
+{使用カード}を手札から捨てたときその効果を発動！\nデッキからレベル４以下の「ハーピー」モンスターを特殊召喚する！,"When I discard {使用カード} from my hand; I activate its effect!\nI Special Summon a Level 4 or lower ""Harpie"" monster from my Deck!"
+風属性カードの効果で手札から捨てられたとき\n{使用カード}の効果を発動！\nデッキからレベル４以下の「ハーピー」モンスターを特殊召喚する！,"When discarded from my hand by a Wind Attribute card effect;\nI activate {使用カード}'s effect!\nI Special Summon a Level 4 or lower ""Harpie"" monster from my Deck!"
+手札を１枚捨て、LPを3000払い、{使用カード}を発動！,I discard 1 card from my hand; pay 3000 LP; and activate {使用カード}!
+このカードは守りに優れたカードでね、\n{主人公}くんが魔法カードを使うたびに、味方にバリアを貼ってくれる。\nさらにわたしのターンごとに味方を回復させる効果もあるんだ。,This card excels at defense;\nwhenever you use a Spell Card; {主人公}; it places a barrier on my allies.\nPlus; it has an effect that recovers my allies' HP each of my turns.
+風属性モンスターを守る堅牢な壁、\n上手に突破できるかな？,It's a sturdy wall that protects Wind Attribute monsters;\nthink you can break through it?
+きみが魔法カードを使用したとき、{使用カード}の効果を発動！\n自分の風属性モンスターにダメージ半減のバリアを付与だ！,When you use a Spell Card; I activate {使用カード}'s effect!\nI grant my Wind Attribute monsters a barrier that halves damage!
+きみの魔法カードに合わせて、{使用カード}の効果が発動！\n自分の風属性モンスターにダメージ半減のバリアを付与!,In response to your Spell Card; {使用カード}'s effect activates!\nMy Wind Attribute monsters are granted a barrier that halves damage!
+わたしのターン開始時に{使用カード}の効果発動！\nすべての風属性モンスターのHPを300ポイント回復する！,At the start of my turn; I activate {使用カード}'s effect!\nAll Wind Attribute monsters recover 300 HP!
+自分ターン開始時に{使用カード}の効果発動！\nすべての風属性モンスターのHPを300ポイント回復する！,At the start of my turn; I activate {使用カード}'s effect!\nAll Wind Attribute monsters recover 300 HP!
+手札から風属性カード１枚を捨て、{使用カード}を発動！,I discard 1 Wind Attribute card from my hand and activate {使用カード}!
+風属性カードの効果が発動するたびに力をチャージして、\nターン終了時に相手のモンスターにぶつける爆弾カードさ。\n君のモンスターを吹き飛ばしてあげる！,This bomb card charges up power each time a Wind Attribute card effect activates;\nthen at the End Phase; it unleashes it on your monsters.\nI'll blow your monsters away!
+風属性カードが発動した時、{使用カード}の効果を発動！\n自身に風の力をチャージだ！,When a Wind Attribute card activates; I activate {使用カード}'s effect!\nIt charges itself with Wind power!
+風属性カードが発動した時、{使用カード}の効果を発動！\n風の力を内部にため込む！,When a Wind Attribute card activates; I activate {使用カード}'s effect!\nIt stores Wind power within itself!
+ターン終了時に{使用カード}の効果を発動！\nため込んだ風の爆風を受けてもらうよ！,At the end of the turn; I activate {使用カード}'s effect!\nYou'll receive the full force of the stored Wind blast!
+ターン終了時に{使用カード}の効果を発動！\nため込んだ風の力をランダムな相手モンスターに与える！,At the end of the turn; I activate {使用カード}'s effect!\nIt inflicts the stored Wind power on a random enemy monster!
+ふふ、そんなに慌ててとなえては、呪文の詠唱がおろそかになるよ。\n罠カード、{使用カード}を発動！発動した魔法カードを無効にし、\nさらに相手の手札を１枚墓地へ送る！,Fufu; if you rush through your incantations like that; your spell casting will be sloppy.\nI activate the Trap Card {使用カード}! It negates the activated Spell Card;\nand sends 1 card from your hand to the Graveyard!
+相手がカードの効果で手札を増やしたとき、\nLPを800払い、{使用カード}を発動！\n相手の手札をランダムに２枚デッキの一番上に戻す！,When my opponent increases their hand with a card effect;\nI pay 800 LP and activate {使用カード}!\nI return 2 random cards from your hand to the top of your Deck!
+相手の妨害はバトルの基本だ。相手がカード効果で手札を増やしたとき\nLPを800払い、{使用カード}を発動！\n相手の手札をランダムに２枚デッキの一番上に戻す！,Disrupting your opponent is a battle fundamental. When my opponent increases their hand with a card effect;\nI pay 800 LP and activate {使用カード}!\nI return 2 random cards from your hand to the top of your Deck!
+風属性カードが発動した時LPを300払い、{使用カード}を発動！\nデッキからカードを１枚ドロー！,When a Wind Attribute card activates; I pay 300 LP and activate {使用カード}!\nI draw 1 card from my Deck!
+風属性カードが発動した時LPを300払い、{使用カード}を発動！\nカードを１枚ドローする！,When a Wind Attribute card activates; I pay 300 LP and activate {使用カード}!\nI draw 1 card!
 装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
 魔法カードを発動！{使用カード}！,
 トラップカードを発動！{使用カード}！,
@@ -212,99 +212,99 @@ F19_paizuriAnime,
 ターン終了。,
 わたしのターンは終わりだね。ターンエンド。,End turn.
 これでおしまいかな。ターンエンド。,End turn.
-わたしは別にエッチな技術でAランクに上がったわけじゃないから、\nあまりこういうことには慣れていないんだけれど・・・。\nえっとこうかな？,
-胸に挟んで擦ってあげればいいんだろ？\n両手でタイミングを合わせて、ペニスを潰すように上下にっ、と♪,
-ふふ、その反応❤これで当たりみたいだね。\nおっぱいに魔力をまとわせて、さらに快感を増幅させてあげるよ❤\nほらっ❤,
-戦闘中の性行為で魔力を奪う戦法は、\nサキュバスたちが現れてから研究が始まった分野なんだ。\nだからまだまだ研究も不十分でね。,
-君の体にも実験台になってもらおう。\n例えば胸で挟みながらペニスに魔力を流し込んで、\n快感神経を直接刺激したらどうなるかな？ほら・・・❤,
-ひぐぅっ・・❤はひぃっつ❤,
-あはは、腰がのけぞっているよ❤顔もとろけているし、\n効果はてきめんのようだね。このままイくまで続けてあげる❤\n胸の間に全部出してしまうといい❤,
-正直、性的なことにはあまり興味がなかったのだけど、\nここ数年サキュバス相手の研究でそうも言っていられなくなってね。,
-はじめはサキュバスから男性マスターを守るために、\nエナジードレインの研究をしていた。しかしこれが意外と実用的で、\n魔族でない女性が使っても強い戦法なことが分かったんだ。,
-例えば、ほら…❤こうやって、胸に魔力をまとわせながら\n相手の顔を挟むんだ❤こんな簡単な動作で、\n鋼のように固い魔力のバリアーを簡単に破れてしまう❤,
-この戦法が世に広まってから男の勝率は落ちるばかりだよ。\n君はどうかな？\nおっぱいで顔をむにむにされても平静を保てるだろうか❤ふふふ❤,
-この戦法が世に広まってから男の勝率は落ちるばかりだよ。\n君はどうかな？使い魔くん。\nおっぱいで顔をむにむにされても平静を保てるだろうか❤ふふふ❤,
-わたしの体、昔から男に好奇の目で見られるんだ。\n特にこの胸。とっても大きいだろう？,
-昔はどう言い寄られても袖にしてきたけれど、\n最近はエッチな攻撃で相手の魔力を奪えるのが分かってしまったからね、\nわたしも戦闘中に限り、そういう行為をすることにしているよ。,
-つまり、君がこの胸を楽しめるのは今だけというわけさ❤\nこっちへおいで❤\n君の頭よりも大きな胸で挟んで、天国を見せてあげる❤,
-ふむ。思ったより強敵なようだし、\n少し本気を出さないといけないね。,
-手を使わなくても、\n魔力を上手に操ればそれだけで男の子は骨抜きにできる❤,
-ノーハンドで胸を上下に揺さぶるだけの動きだが、\nキミは耐えられるかな？ほら❤ほら❤,
-ふふ、やっぱり耐えられないみたいだね❤\nさあ、出してごらん、我慢は無駄だよ。ほらほらほら！,
-おっと、これだけの快楽を与えられて、まだ振りほどけるなんて、\nたいしたものじゃないか。,
-さすが、男の身で下級サキュバスを倒しただけはあるね。\nでも、だいぶ限界が近いように見える。\nあと何回わたしたちの攻撃を耐えられるかな？ふふふ❤,
-わたしの胸、相当気持ちいいだろう？,
-Aランク相手にここまでよく頑張ったさ❤\nもう負けてしまっても恥ずかしくはない❤,
-肌が吸い付くようで、腰が抜けてしまいそうかい？,
-ふふ、どんどん顔が蕩けてしまっているね❤,
-サキュバスの技を研究してる分、なかなかのテクニックのはずさ❤,
-快感に圧倒されて、頭真っ白になるといい❤,
-強い理性で抗えば、なんとか耐えられるかな？ふふふ❤,
-ここまで十分頑張ったさ。後は快楽を楽しんでしまってもいいんだよ❤,
-エルフの胸はとてもいい肌ざわりだろう❤,
-もう何も考えなくていい❤快楽に呑まれて、負けてしまいなさい❤,
-くすくす❤一切逃げようとしないじゃないか❤,
-暴れるのをやめて快感に身を任せる選択をしたようだね❤,
-逃げる気がないなら、ほらほら、動きを早くしてあげよう❤,
-力が抜けて動けないのかい？くすくす❤,
-ふふ、全くの無抵抗とは。もう完全に堕ちてしまったかな❤,
-おや抵抗はもうおしまいかい？\n気持ちよすぎて力が抜けてしまったようだね❤,
-Ｂランクのマスターでもきっとこのパイズリには耐えられないよ❤Ｃならなおさらだ❤,
-主人のことは頭からなくなりそうかい？\nずいぶんメロメロになってるじゃないか❤,
-おっと、わたしへおねだりしてしまうのかい？,
-まだはじまったばかりだというのに、はぁ…。\n噂で聞いていたよりずいぶんと理性が弱いんだね。,
-わたしの胸にムラムラしてしまったのかい？\n確かに人並み以上に大きいとは思うけれど…。\nまあいい、それじゃあさっさと搾り取ってあげよう。,
-相手に自分から攻撃をねだるだなんて、\n{主人公}くんは理性をもうちょっと鍛えないといけないね。\nそれでよくサキュバスに勝てたものだ。,
-さっきからチラチラ見ていた、この胸で気持ちよくしてほしいんだろう？\nふふ、視線はバレバレだよ❤\nそれじゃあさっさと搾り取ってあげよう。,
-相手に自分から攻撃をねだるだなんて、\nマスターを裏切る悪いモンスターだね。\nまあいい、さっさと搾り取ってあげよう❤,
-ふふ、案の定耐えられなかったね❤\n魔力をまとわせながらのぱふぱふ、\nなかなかの威力だろう？,
-ん？何を言っているかわからないよ。\nあへぇって蕩けた声を出して・・・、くすくす❤\n呂律が回らなくなっているじゃないか❤,
-ふふ、わたしのパイズリは気持ちよかったかな❤\n真面目な人生を生きてきたけど、\n意外とこういう方面の才能もあるみたいなんだ❤,
-ん？気持ちよすぎて腰が抜けて立てないのかい？\nくすくす❤それだけ喜んでもらえたなら、まあ悪い気はしないね。,
-あぅぅ……❤,
-ん・・・？\nまさか自分でいじり始めてしまったのかい？,
-エルルから聞いていた話では、\n「理性の強い無敗のマスター」という話だったのだけれど、\nまさか自分から敗北を選ぶなんてね。ちょっとがっかりだよ。,
-まあキミと同い年ぐらいの男の子なんて、\nみんなチラチラわたしの胸を見てくるし、\n性欲を抑えるの難しさは理解しているつもりだけれど…。,
-それにしても、くすくす❤\n実にみっともない姿だ❤\nわたしの胸がそんなに気になるのかい❤,
-ほら、一度扱き始めたらもうバトルなんて無理だろう？\nさっさと終わらせてあげるよ❤,
-「無敗のルーキー」、なんて触れ込みの割には、\n手下のモンスターはずいぶんと理性が弱いんだね。,
-敵のマスターの前に膝まづいて、\nしこしこ、しこしこ、一生懸命しごいている❤\nきみのご主人様がかわいそうになってくるよ❤,
-ううっ、それはぁ・・・❤,
-くすくす❤まあ、仕方ないよ。学校でも街でも\nわたしの胸をみんなチラチラ見てくるし、\nこれだけ大きいとどうしても気になるんだろう？,
-意識しないようにしても、いつの間にか目で追って…❤\n揺れているのを見ているうちに段々何も考えられなくなって…❤,
-教え子たちでも授業中に急に前かがみになる男の子は多くてね。\n気づかないようにするのが大変なんだ。\nふふふ❤,
-ほら、一度自分で触りはじめちゃったら\nもうバトルなんて無理だろう？\nさっさと終わらせてあげるよ❤,
-きみたち男の子が大好きな胸を、\n肘でぎゅっと寄せ上げて強調してあげよう。\nこれを見て、一生懸命オナニーに励むといい❤,
-あうぅっ、すごい……❤,
-くすくす❤とんだ蕩け顔だね。\n胸を見せつけただけで、\nそんな顔をしてしまうなんて、恥ずかしくないのかい？,
-揺らしてあげるともっと効くんだろう？\n肘で挟んだまま上下に弾ませてあげよう。,
-服の上からでも分かるこのだぷんだぷんって動き…❤\nたっぷり目に焼き付けて、パイズリでもぱふぱふでも、\n頭の中で妄想しなさい❤,
-ほら、全部出すんだ。我慢はもう無意味だよ❤\nくすくす❤,
-あっ、あっ、ああっ❤❤えろすぎるっ、あひぃっ❤❤,
-んっ、だいぶ出たね❤\nエナジーをこんなに敵マスターに渡して、\nほんとに悪い子だ❤,
-魔力の質は非常にいいようだし、\nもっと修行に励めば強くなれる。\n精進しなさい。分かったね。,
-さて、このエナジーは魔力に変えて吸収して\n早くバトルの続きをするとしよう。\nいいかい、他の子たちは真面目に戦うんだよ？,
-はぁ、そろいもそろって何をやっているのかな？,
-ん、まさか君も自分でいじり始めちゃったのかい？,
-エルルから聞いていた話では、\n「理性の強い無敗のマスター」って話だったんだけど、\nまさか自分から敗北を選ぶなんてね。,
-自分のモンスターがわたしの胸でオナニーしているのを見て、\nうらやましくなっちゃったのかな。\nはぁ、ちょっとがっかりだよ。,
-まあキミと同い年ぐらいの男の子なんて、\nみんなチラチラわたしの胸を見てくるし、,
-すぐそばでさっきみたいな挑発的な動きをされれば、\n理性が飛んじゃうのも仕方ないかもしれないけれど。\nくすくす❤,
-次から次に敵のマスターの前に膝まづいて、\nしこしこ、しこしこ、オナニーで連続自滅❤,
-おっぱいに夢中になるのは結構だけれど、\n少しはご主人に申し訳ないと思わないのかい？\nモンスターくん。,
-くすくす❤まあ、あまりいじめても意味がないか。\nこの胸を見てたら\nどうにも抑えられなくなったんだろう？,
-君の頭以上の大きさがあるものね。気になるのも仕方がない。,
-気がづいたら手が自分の性器に伸びていて、\nしこしこ、しこしこ、止まらなくなってしまったというわけだ❤,
-そんな状態じゃ、もうバトルなんて無理だろう？\nさっさと終わらせてあげるよ❤,
-きみたちが次々負けているこの胸を、\n腕で抱きかかえて強調してあげよう。\nこれを見て、一生懸命オナニーに励むといい❤,
-腕を胸の下に通してっと…❤\nほら、こうすると持ち上げられた胸がむにゅうっと上に膨らんで\nとても扇情的な見た目になるだろう？,
-くすくす❤とんだ蕩け顔だね。\n胸を見せつけられただけで、そんな顔をしてしまうなんて、\n恥ずかしくないのかい？,
-腕に乗せてみると分かりやすいけれど、\nほら、わたしの胸は前に厚みがあるから\nおっぱいがだいぶ腕を乗り越えてしまうんだ…❤,
-もしここに何かを差し込んだとしても、\nたいていは奥まで届かないよ。\n真ん中あたりが限界で、そこで飲み込まれてしまう❤,
-ふふ、きみはなにを差し込むのを想像したのかな。\n手で扱きながら腰がヘコヘコと小刻みに動いている❤,
-妄想の中でおっぱいをたっぷり堪能しているようだね。\n君のチンポを挟んでいる、空想のわたしのおっぱいは、\nしっかり柔らかいかい？\nくすくす❤,
-ほら、もう限界なんだろう？全部出すんだ。\nわたしのおっぱいに頭のなか支配されてしまいなさい❤,
-あうっ、ううっ、あああっ❤❤,
-ふふっ、想像の中では谷間の奥に出しているのかな❤\nエナジーをこんなに敵マスターに渡して、\nほんとに悪い子だ❤,
-魔力の質は非常にいいようだし、\nもうちょっと修行に励みなさい。\n目の前にどれだけ大きいおっぱいがあっても負けないようにね。,
-さて、このエナジーは魔力に変えて吸収して\n早くバトルの続きをするとしよう。\nいい加減、他の子たちは真面目に戦うんだよ？,
+わたしは別にエッチな技術でAランクに上がったわけじゃないから、\nあまりこういうことには慣れていないんだけれど・・・。\nえっとこうかな？,I didn't rise to A-rank through sexual techniques; so I'm not that experienced with this sort of thing…\nLet's see; is this how you do it? 
+胸に挟んで擦ってあげればいいんだろ？\n両手でタイミングを合わせて、ペニスを潰すように上下にっ、と♪,I just need to wrap my breasts around it and rub; right?\nUsing both hands to match the timing; I'll crush your penis as I move up and down like this~♪
+ふふ、その反応❤これで当たりみたいだね。\nおっぱいに魔力をまとわせて、さらに快感を増幅させてあげるよ❤\nほらっ❤,Fufu; that reaction.❤ Looks like I'm doing it right.\nI'll channel my magic into my breasts to amplify the pleasure even more.❤\nThere~❤
+戦闘中の性行為で魔力を奪う戦法は、\nサキュバスたちが現れてから研究が始まった分野なんだ。\nだからまだまだ研究も不十分でね。,Sexual combat techniques that drain magic through intercourse—research into that only began after succubi appeared.\nSo the field is still fairly underdeveloped.
+君の体にも実験台になってもらおう。\n例えば胸で挟みながらペニスに魔力を流し込んで、\n快感神経を直接刺激したらどうなるかな？ほら・・・❤,Your body will serve as my test subject.\nFor example; what happens if I channel magic into your penis while it's between my breasts;\nand directly stimulate your pleasure nerves? Here…❤
+ひぐぅっ・・❤はひぃっつ❤,Higuu…❤ Hahii…❤
+あはは、腰がのけぞっているよ❤顔もとろけているし、\n効果はてきめんのようだね。このままイくまで続けてあげる❤\n胸の間に全部出してしまうといい❤,Ahaha; your hips are arching back.❤ And your face is melting too;\nseems it's quite effective. I'll keep going until you cum.❤\nGo ahead and release it all between my breasts.❤
+正直、性的なことにはあまり興味がなかったのだけど、\nここ数年サキュバス相手の研究でそうも言っていられなくなってね。,Honestly; I wasn't particularly interested in sexual matters;\nbut these past few years researching succubi; I haven't had much choice.
+はじめはサキュバスから男性マスターを守るために、\nエナジードレインの研究をしていた。しかしこれが意外と実用的で、\n魔族でない女性が使っても強い戦法なことが分かったんだ。,At first; I was researching energy drain to protect male Masters from succubi.\nBut it turned out to be surprisingly practical—even non-monster women can use it as a powerful tactic.
+例えば、ほら…❤こうやって、胸に魔力をまとわせながら\n相手の顔を挟むんだ❤こんな簡単な動作で、\n鋼のように固い魔力のバリアーを簡単に破れてしまう❤,For example; look…❤ Like this; I channel magic into my breasts\nand press them against your face.❤ Such a simple motion;\nyet it can easily shatter a barrier of magic as hard as steel.❤
+この戦法が世に広まってから男の勝率は落ちるばかりだよ。\n君はどうかな？\nおっぱいで顔をむにむにされても平静を保てるだろうか❤ふふふ❤,Ever since this tactic became widespread; men's win rates have been plummeting.\nHow about you?\nCan you stay calm even while my tits are squishing against your face?❤ Fufufu.❤
+この戦法が世に広まってから男の勝率は落ちるばかりだよ。\n君はどうかな？使い魔くん。\nおっぱいで顔をむにむにされても平静を保てるだろうか❤ふふふ❤,Ever since this tactic became widespread; men's win rates have been plummeting.\nHow about you? Familiar.\nCan you stay calm even while my tits are squishing against your face?❤ Fufufu.❤
+わたしの体、昔から男に好奇の目で見られるんだ。\n特にこの胸。とっても大きいだろう？,My body has always drawn curious stares from men.\nEspecially these breasts. They're enormous; aren't they?
+昔はどう言い寄られても袖にしてきたけれど、\n最近はエッチな攻撃で相手の魔力を奪えるのが分かってしまったからね、\nわたしも戦闘中に限り、そういう行為をすることにしているよ。,I used to reject every advance;\nbut recently I learned that sexual attacks can drain an opponent's magic;\nso now I've decided to engage in such acts—but only during combat.
+つまり、君がこの胸を楽しめるのは今だけというわけさ❤\nこっちへおいで❤\n君の頭よりも大きな胸で挟んで、天国を見せてあげる❤,In other words; you can only enjoy these breasts right now.❤\nCome here.❤\nI'll wrap you between these tits bigger than your head and show you heaven.❤
+ふむ。思ったより強敵なようだし、\n少し本気を出さないといけないね。,Hmm. You're a tougher opponent than I expected;\nso I'll need to get a bit serious.
+手を使わなくても、\n魔力を上手に操ればそれだけで男の子は骨抜きにできる❤,Even without using my hands;\nif I control my magic properly; I can make any boy weak in the knees.❤
+ノーハンドで胸を上下に揺さぶるだけの動きだが、\nキミは耐えられるかな？ほら❤ほら❤,Just bouncing my breasts up and down with no hands—\ncan you withstand it? Here~❤ Here~❤
+ふふ、やっぱり耐えられないみたいだね❤\nさあ、出してごらん、我慢は無駄だよ。ほらほらほら！,Fufu; looks like you can't handle it after all.❤\nGo on; let it out. Resisting is pointless. Here; here; here!
+おっと、これだけの快楽を与えられて、まだ振りほどけるなんて、\nたいしたものじゃないか。,Oh my; to break free even after all that pleasure—\nthat's quite impressive.
+さすが、男の身で下級サキュバスを倒しただけはあるね。\nでも、だいぶ限界が近いように見える。\nあと何回わたしたちの攻撃を耐えられるかな？ふふふ❤,As expected of a man who defeated a lower-level succubus.\nBut you look like you're reaching your limit.\nHow many more of our attacks can you endure? Fufufu.❤
+わたしの胸、相当気持ちいいだろう？,My breasts feel incredible; don't they?
+Aランク相手にここまでよく頑張ったさ❤\nもう負けてしまっても恥ずかしくはない❤,You've done well holding out this long against an A-rank.❤\nYou wouldn't be ashamed to lose now.❤
+肌が吸い付くようで、腰が抜けてしまいそうかい？,Does my skin cling to you so much that your legs are giving out?
+ふふ、どんどん顔が蕩けてしまっているね❤,Fufu; your face is melting more and more.❤
+サキュバスの技を研究してる分、なかなかのテクニックのはずさ❤,Since I've been researching succubus techniques; my skills should be quite impressive.❤
+快感に圧倒されて、頭真っ白になるといい❤,Give in to the pleasure and let your mind go blank.❤
+強い理性で抗えば、なんとか耐えられるかな？ふふふ❤,Can you resist if you hold onto your willpower? Fufufu.❤
+ここまで十分頑張ったさ。後は快楽を楽しんでしまってもいいんだよ❤,You've fought hard enough already. Just give in and enjoy the pleasure now.❤
+エルフの胸はとてもいい肌ざわりだろう❤,An elf's breasts feel incredible; don't they?❤
+もう何も考えなくていい❤快楽に呑まれて、負けてしまいなさい❤,Don't think about anything anymore.❤ Drown in pleasure and submit to me.❤
+くすくす❤一切逃げようとしないじゃないか❤,Giggle❤ You're not even trying to escape anymore.❤
+暴れるのをやめて快感に身を任せる選択をしたようだね❤,Looks like you've stopped struggling and chosen to give in to the pleasure.❤
+逃げる気がないなら、ほらほら、動きを早くしてあげよう❤,Since you're not going to run; hora hora; I'll pick up the pace.❤
+力が抜けて動けないのかい？くすくす❤,Can't move because all your strength is gone? Giggle❤
+ふふ、全くの無抵抗とは。もう完全に堕ちてしまったかな❤,Fufu; you're completely defenseless. Have you fallen completely under my spell?❤
+おや抵抗はもうおしまいかい？\n気持ちよすぎて力が抜けてしまったようだね❤,Oh? Done resisting already?\nLooks like the pleasure drained all your strength away.❤
+Ｂランクのマスターでもきっとこのパイズリには耐えられないよ❤Ｃならなおさらだ❤,Even a B-rank master couldn't withstand this titfuck.❤ A C-rank certainly can't!❤
+主人のことは頭からなくなりそうかい？\nずいぶんメロメロになってるじゃないか❤,Forgetting all about your master?\nYou're completely head over heels for me; aren't you?❤
+おっと、わたしへおねだりしてしまうのかい？,Oh my; are you begging me for more?
+まだはじまったばかりだというのに、はぁ…。\n噂で聞いていたよりずいぶんと理性が弱いんだね。,We've only just started and you're already… haah…\nYour willpower is much weaker than the rumors suggested.
+わたしの胸にムラムラしてしまったのかい？\n確かに人並み以上に大きいとは思うけれど…。\nまあいい、それじゃあさっさと搾り取ってあげよう。,Did my breasts get you all worked up?\nI suppose they are bigger than average…\nWell then; I'll just have to drain you quickly.
+相手に自分から攻撃をねだるだなんて、\n{主人公}くんは理性をもうちょっと鍛えないといけないね。\nそれでよくサキュバスに勝てたものだ。,Begging your opponent to attack you…\n{主人公}-kun; you really need to train your willpower more.\nI'm surprised you managed to defeat any succubi at all.
+さっきからチラチラ見ていた、この胸で気持ちよくしてほしいんだろう？\nふふ、視線はバレバレだよ❤\nそれじゃあさっさと搾り取ってあげよう。,You've been stealing glances at my chest this whole time; haven't you? You want me to pleasure you with them; right?\nFufu; your stares were completely obvious.❤\nWell then; I'll just drain you quickly.
+相手に自分から攻撃をねだるだなんて、\nマスターを裏切る悪いモンスターだね。\nまあいい、さっさと搾り取ってあげよう❤,Begging your opponent to attack you…\nWhat a naughty monster; betraying your master like that.\nWell fine; I'll drain you quickly.❤
+ふふ、案の定耐えられなかったね❤\n魔力をまとわせながらのぱふぱふ、\nなかなかの威力だろう？,Fufu; just as I expected; you couldn't hold out.❤\nA puff-puff infused with magical energy…\nIt's quite powerful; isn't it?
+ん？何を言っているかわからないよ。\nあへぇって蕩けた声を出して・・・、くすくす❤\n呂律が回らなくなっているじゃないか❤,"Hm? I can't understand what you're saying.\nMaking those melted ""ahee"" sounds… giggle❤\nYou can't even speak properly anymore.❤"
+ふふ、わたしのパイズリは気持ちよかったかな❤\n真面目な人生を生きてきたけど、\n意外とこういう方面の才能もあるみたいなんだ❤,Fufu; did my titfuck feel good?❤\nI've lived a serious life up until now;\nbut it seems I have some hidden talent in this area.❤
+ん？気持ちよすぎて腰が抜けて立てないのかい？\nくすくす❤それだけ喜んでもらえたなら、まあ悪い気はしないね。,Hm? Felt so good your legs gave out and you can't stand?\nGiggle❤ Well; I don't mind if you enjoyed it that much.
+あぅぅ……❤,Auuu…❤
+ん・・・？\nまさか自分でいじり始めてしまったのかい？,Hm…?\nDon't tell me you've started touching yourself?
+エルルから聞いていた話では、\n「理性の強い無敗のマスター」という話だったのだけれど、\nまさか自分から敗北を選ぶなんてね。ちょっとがっかりだよ。,"According to what I heard from Eruru;\nyou were supposed to be an ""undefeated master with strong willpower;""\nbut here you are choosing defeat on your own. I'm a bit disappointed."
+まあキミと同い年ぐらいの男の子なんて、\nみんなチラチラわたしの胸を見てくるし、\n性欲を抑えるの難しさは理解しているつもりだけれど…。,Well; boys around your age\nall steal glances at my chest anyway;\nso I understand how difficult it is to control your urges…
+それにしても、くすくす❤\n実にみっともない姿だ❤\nわたしの胸がそんなに気になるのかい❤,Still; giggle❤\nwhat a pathetic sight.❤\nAre my breasts really that distracting?❤
+ほら、一度扱き始めたらもうバトルなんて無理だろう？\nさっさと終わらせてあげるよ❤,Hora; once you start stroking yourself; there's no way you can battle anymore; right?\nLet me finish you off quickly.❤
+「無敗のルーキー」、なんて触れ込みの割には、\n手下のモンスターはずいぶんと理性が弱いんだね。,"For someone called the ""undefeated rookie;""\nyour underling monsters have surprisingly weak willpower; don't they?"
+敵のマスターの前に膝まづいて、\nしこしこ、しこしこ、一生懸命しごいている❤\nきみのご主人様がかわいそうになってくるよ❤,Kneeling before the enemy master;\nstroking and stroking your cock so desperately.❤\nI'm starting to feel sorry for your master.❤
+ううっ、それはぁ・・・❤,Unngh; that's…❤
+くすくす❤まあ、仕方ないよ。学校でも街でも\nわたしの胸をみんなチラチラ見てくるし、\nこれだけ大きいとどうしても気になるんだろう？,Ehehe.❤ Well; I can't blame you. Whether at school or around town;\neveryone sneaks glances at my breasts.\nWith how big they are; it's impossible not to notice; right?
+意識しないようにしても、いつの間にか目で追って…❤\n揺れているのを見ているうちに段々何も考えられなくなって…❤,Even when you try not to think about it; your eyes wander before you realize it…❤\nAnd as you watch them bounce; you gradually lose all ability to think…❤
+教え子たちでも授業中に急に前かがみになる男の子は多くてね。\n気づかないようにするのが大変なんだ。\nふふふ❤,Even my students—plenty of boys suddenly lean forward during class.\nIt's quite difficult pretending not to notice.\nFufufu.❤
+ほら、一度自分で触りはじめちゃったら\nもうバトルなんて無理だろう？\nさっさと終わらせてあげるよ❤,Hora; once you start touching yourself;\nthere's no way you can continue battling; right?\nLet me finish you off quickly.❤
+きみたち男の子が大好きな胸を、\n肘でぎゅっと寄せ上げて強調してあげよう。\nこれを見て、一生懸命オナニーに励むといい❤,I'll use my elbows to squeeze together these breasts you boys love so much;\nemphasizing them just for you.\nStare at them while you masturbate desperately.❤
+あうぅっ、すごい……❤,Ahhh; it's incredible…❤
+くすくす❤とんだ蕩け顔だね。\n胸を見せつけただけで、\nそんな顔をしてしまうなんて、恥ずかしくないのかい？,Ehehe.❤ What a melted expression.\nJust from showing you my breasts;\nyou make such a face—aren't you embarrassed?
+揺らしてあげるともっと効くんだろう？\n肘で挟んだまま上下に弾ませてあげよう。,It'll be even more effective if I bounce them; won't it?\nI'll make them jiggle up and down while squeezing them with my elbows.
+服の上からでも分かるこのだぷんだぷんって動き…❤\nたっぷり目に焼き付けて、パイズリでもぱふぱふでも、\n頭の中で妄想しなさい❤,Even through my clothes; you can see them bouncing so heavily…❤\nBurn this image into your memory; and fantasize about paizuri or puff-puff;\nwhatever you want in your head.❤
+ほら、全部出すんだ。我慢はもう無意味だよ❤\nくすくす❤,Hora; let it all out. There's no point in holding back anymore.❤\nEhehe.❤
+あっ、あっ、ああっ❤❤えろすぎるっ、あひぃっ❤❤,Ah; ah; ahhh!❤❤ It's too erotic; ahhhh!❤❤
+んっ、だいぶ出たね❤\nエナジーをこんなに敵マスターに渡して、\nほんとに悪い子だ❤,Mmm; you came quite a lot.❤\nGiving so much energy to an enemy master;\nyou're such a naughty boy.❤
+魔力の質は非常にいいようだし、\nもっと修行に励めば強くなれる。\n精進しなさい。分かったね。,Your magical quality seems quite high;\nso if you train harder; you'll become stronger.\nWork hard at it. Understood?
+さて、このエナジーは魔力に変えて吸収して\n早くバトルの続きをするとしよう。\nいいかい、他の子たちは真面目に戦うんだよ？,Now then; I'll convert this energy into magical power and absorb it;\nso we can continue our battle.\nListen; the rest of you need to fight seriously; okay?
+はぁ、そろいもそろって何をやっているのかな？,Sigh What on earth are you all doing?
+ん、まさか君も自分でいじり始めちゃったのかい？,Hm; don't tell me you've started touching yourself too?
+エルルから聞いていた話では、\n「理性の強い無敗のマスター」って話だったんだけど、\nまさか自分から敗北を選ぶなんてね。,"According to what I heard from Eruru;\nyou're supposed to be the ""undefeated master with strong willpower;""\nbut here you are choosing defeat on your own."
+自分のモンスターがわたしの胸でオナニーしているのを見て、\nうらやましくなっちゃったのかな。\nはぁ、ちょっとがっかりだよ。,Did you get jealous watching your own monster masturbate to my breasts?\nSigh I'm a bit disappointed.
+まあキミと同い年ぐらいの男の子なんて、\nみんなチラチラわたしの胸を見てくるし、,Well; boys your age are all constantly sneaking glances at my breasts;
+すぐそばでさっきみたいな挑発的な動きをされれば、\n理性が飛んじゃうのも仕方ないかもしれないけれど。\nくすくす❤,so if I make provocative movements like that right in front of you;\nI suppose it's inevitable that your reason would fly away.\nEhehe.❤
+次から次に敵のマスターの前に膝まづいて、\nしこしこ、しこしこ、オナニーで連続自滅❤,One after another; kneeling before the enemy master;\nstroking and stroking; masturbating yourselves into continuous defeat.❤
+おっぱいに夢中になるのは結構だけれど、\n少しはご主人に申し訳ないと思わないのかい？\nモンスターくん。,It's fine to be captivated by my breasts;\nbut don't you feel even a little bad for your master?\nMonster boy.
+くすくす❤まあ、あまりいじめても意味がないか。\nこの胸を見てたら\nどうにも抑えられなくなったんだろう？,Ehehe.❤ Well; there's no point teasing you too much. After seeing these breasts;\nyou just couldn't control yourself anymore; could you?
+君の頭以上の大きさがあるものね。気になるのも仕方がない。,They're bigger than your head after all. It's natural to be curious.
+気がづいたら手が自分の性器に伸びていて、\nしこしこ、しこしこ、止まらなくなってしまったというわけだ❤,Before you knew it; your hand reached for your genitals;\nstroking and stroking; unable to stop.❤
+そんな状態じゃ、もうバトルなんて無理だろう？\nさっさと終わらせてあげるよ❤,In that state; there's no way you can continue battling; right?\nLet me finish you off quickly.❤
+きみたちが次々負けているこの胸を、\n腕で抱きかかえて強調してあげよう。\nこれを見て、一生懸命オナニーに励むといい❤,I'll cradle these breasts that have been defeating you one after another in my arms;\nemphasizing them for you.\nStare at them while you masturbate desperately.❤
+腕を胸の下に通してっと…❤\nほら、こうすると持ち上げられた胸がむにゅうっと上に膨らんで\nとても扇情的な見た目になるだろう？,I'll slide my arms under my breasts and…❤\nHora; when I do this; my lifted breasts bulge upward;\ncreating a very provocative sight; don't they?
+くすくす❤とんだ蕩け顔だね。\n胸を見せつけられただけで、そんな顔をしてしまうなんて、\n恥ずかしくないのかい？,Giggle❤ What a melted expression.\nJust from being shown my breasts; you're already making that face.\nAren't you embarrassed?
+腕に乗せてみると分かりやすいけれど、\nほら、わたしの胸は前に厚みがあるから\nおっぱいがだいぶ腕を乗り越えてしまうんだ…❤,If I rest them on my arm; you can see just how much thickness my breasts have.\nLook; they spill over my arm so much…❤
+もしここに何かを差し込んだとしても、\nたいていは奥まで届かないよ。\n真ん中あたりが限界で、そこで飲み込まれてしまう❤,Even if you were to slip something between them;\nit probably wouldn't reach all the way through.\nIt would only make it halfway before being swallowed up.❤
+ふふ、きみはなにを差し込むのを想像したのかな。\n手で扱きながら腰がヘコヘコと小刻みに動いている❤,Fufu; I wonder what you're imagining slipping between them.\nYour hips are twitching back and forth as you stroke yourself.❤
+妄想の中でおっぱいをたっぷり堪能しているようだね。\n君のチンポを挟んでいる、空想のわたしのおっぱいは、\nしっかり柔らかいかい？\nくすくす❤,You're thoroughly enjoying my breasts in your fantasy; aren't you?\nThe imaginary version of my breasts wrapped around your cock—\nare they nice and soft?\nGiggle❤
+ほら、もう限界なんだろう？全部出すんだ。\nわたしのおっぱいに頭のなか支配されてしまいなさい❤,Come on; you're at your limit; right? Let it all out.\nLet my breasts take over your mind completely.❤
+あうっ、ううっ、あああっ❤❤,Aahh; mmm; aaaah~❤❤
+ふふっ、想像の中では谷間の奥に出しているのかな❤\nエナジーをこんなに敵マスターに渡して、\nほんとに悪い子だ❤,Fufu; in your imagination; did you cum deep in my cleavage?❤\nGiving so much energy to an enemy master;\nyou're such a naughty boy.❤
+魔力の質は非常にいいようだし、\nもうちょっと修行に励みなさい。\n目の前にどれだけ大きいおっぱいがあっても負けないようにね。,The quality of your magical power seems quite good;\nso keep training a bit more.\nMake sure you won't lose no matter how big the breasts in front of you are.
+さて、このエナジーは魔力に変えて吸収して\n早くバトルの続きをするとしよう。\nいい加減、他の子たちは真面目に戦うんだよ？,Now then; I'll convert this energy into magical power and absorb it;\nso let's hurry and continue our battle.\nSeriously; you other guys need to fight properly; okay?
