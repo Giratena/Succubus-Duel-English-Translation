@@ -1,6 +1,6 @@
 default
 タイガ,Taiga
-Fランクの獣人の少年。獣タイプのモンスターを中心にしたデッキを使用する。まだカードを使い始めたばかりで、あまり強いモンスターを扱うことができない。Cランクの姉にカードの使い方を教わって、日々修行中である。,A young foxkin F-rank cardmaster who's deck specializes in beast-type monsters. He's just starting out with card battles and can't handle stronger monsters very well. His sister; who is a C-rank card master; teaches him how to use cards and trains with him every day.
+Fランクの獣人の少年。獣タイプのモンスターを中心にしたデッキを使用する。まだカードを使い始めたばかりで、あまり強いモンスターを扱うことができない。Cランクの姉にカードの使い方を教わって、日々修行中である。,A young foxkin F-rank cardmaster whose deck specializes in Beast-type monsters. He's just starting out with card battles and can't handle stronger monsters very well. His sister; who is a C-rank card master; teaches him how to use cards and trains with him every day.
 わわ、兄ちゃん、もしかして無敗のルーキーか？\nすげぇ、こんなところで会えるなんてびっくりだぜ。,Whoa; aren't you the undefeated rookie? That's awesome! I'm surprised to see you here.
 ボクはタイガ。ギルドに入って3ヵ月のF級カードマスターだ！,My name's Taiga. I'm an F-rank cardmaster; and I've been in the guild for three months!
 ボクの姉ちゃんはC級のカードマスターなんだぜ。\n姉ちゃんに追いつくためにもこの大会で絶対に勝ちまくる！,My sister is a C-rank cardmaster. I'm going to win this tournament and catch up with her!
@@ -26,7 +26,7 @@ Fランクの獣人の少年。獣タイプのモンスターを中心にした�
 魔法カード発動！{使用カード}！デッキから地属性のカードを加えるぜ.,Magic card activate! {使用カード}! I add a monster card to my hand from my deck.
 手札にモンスターを呼ぶぜ。{使用カード}発動！,I'm gonna add a monster card to my hand. {使用カード}; activate!
 魔法カード発動！{使用カード}！HPを強化だ！,Magic card activated! {使用カード}! Increase my HP!
-体力を上げて頑丈にするぜ。{使用カード}を発動！,I'm gonna boost the sturdyness of my monster. Activate {使用カード}!
+体力を上げて頑丈にするぜ。{使用カード}を発動！,I'm gonna boost the sturdiness of my monster. Activate {使用カード}!
 切り札のカードだ！{使用カード}を発動！獣モンスターを永続的にパワーアップ！,This is my trump card! Activate {使用カード}! It will permanently power up my beast monsters!
 永続魔法、{使用カード}を発動！獣モンスターたちの攻撃力を永続的にパワーアップさせる！,Activate permanent spell; {使用カード}! This will power up the attack power of my beast monsters while it remains on the field!
 装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
