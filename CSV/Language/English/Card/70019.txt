@@ -1,5 +1,5 @@
 default,
-エイライラ,Eliara
+エイライラ,Elaira
 F19_paizuriAnime,
 　モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。\n　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。\n　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。\n　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild; making her one of the people who laid the foundation for Morgen to become the cardmaster city it is today.\n　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. In what was then a small village when she arrived; she built the cardmaster's academy; and Morgen developed around it.  Even now; she is occasionally spotted flying through the sky alongside her summoned harpies.\n　Though she has worked as a teacher for many years; she has a caring personality and is popular among the freshmen students. In an effort to protect her students; she  researched the succubi and taught cardmasters how to use their energy drain abilities. However; she now feels partly responsible for the female students becoming much stronger; making it difficult for male students to find opportunities to shine.\n　Despite her long lifespan; she never married and had no sexual experience until she began researching succubi. Now; thanks her natural intelligence and powerful magic; she possesses new potential sexual techniques; and it's said her skills can make men melt away in ways not even the most skilled prostitue can match.
 モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。,　A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild; making her one of the people who laid the foundation for Morgen to become the cardmaster city it is today.
@@ -43,9 +43,9 @@ F19_paizuriAnime,
 あっ、話をしてたら着いたわね。\n先生はこの部屋の中よ。,Ah; we walked all the way here while we were talking. My teacher's in this room.
 重々しいドアを開くとそこは立派な図書室だった。数えきれないほどの本が、辺り一面の空間を埋めている。天井は見上げるほどに広く、３階建てぐらいのスペースがあった。,As the heavy door opened in front of me; an impressive library stretched out beyond. Countless books filled the space all around. The ceiling was so high that it looked like there was about three floors worth of space above us.
 闘技場横の図書館も大きかったが、ここも負けず劣らずの規模だ。分厚い本を読んで勉強している頭のよさそうな生徒たちがあちこちにいる。,The library next to the arena was large; but this one was equally impressive in scale. Intelligent-looking students were dotted all around; studying with thick books.
-おや、君がエルルの言っていた{主人公}くんかい？\nはじめまして。わたしはエイライラ。\nモルゲンカード学園で教鞭を取っている、しがない教師だよ。,Oh hello. Are you {主人公}? Elulu's told me so much about you. It's nice to meet you. I'm Eilaira. I a humble teacher at Morgen Card Academy.
-こんにちは。エイライラ先生。\n「しがない」なんて謙遜しないでくださいよ。\nモルゲンで１、２を争うAランクのカードマスターじゃないですか。,Hello; Professor Eilaira. There's no need to be so modest with that humble talk. You're one of the top A-rank Cardmasters in Morgen after all!
-{主人公}、こちらがエイライラ先生よ。\nわたしが初等部だったころに担任をしてくださったの。,{主人公}; this is Professor Eilaira. She was my homeroom teacher when I was in elementary school.
+おや、君がエルルの言っていた{主人公}くんかい？\nはじめまして。わたしはエイライラ。\nモルゲンカード学園で教鞭を取っている、しがない教師だよ。,Oh hello. Are you {主人公}? Elulu's told me so much about you. It's nice to meet you. I'm Elaira. I a humble teacher at Morgen Card Academy.
+こんにちは。エイライラ先生。\n「しがない」なんて謙遜しないでくださいよ。\nモルゲンで１、２を争うAランクのカードマスターじゃないですか。,Hello; Professor Elaira. There's no need to be so modest with that humble talk. You're one of the top A-rank Cardmasters in Morgen after all!
+{主人公}、こちらがエイライラ先生よ。\nわたしが初等部だったころに担任をしてくださったの。,{主人公}; this is Professor Elaira. She was my homeroom teacher when I was in elementary school.
 長命のエルフで、この学校の設立者の一人。\nモルゲンの中でもとっても偉い先生なのよ。,She's an elf; and actually one of the founders of this school. She's a super important teacher in Morgen.
 いやぁ、そういわれると照れるね。うん。,Oh Elulu; you'll get me all flustered if you say things like that!
 まあ、自己紹介はさておき。本題に入ろう。\n{主人公}くん、きみが倒したサキュバスが\n時間が経ってから復活した件だがね。,Introductions aside; let's get to the main topic. {主人公}; about the Succubus you defeated. The one that somehow came back.
@@ -56,14 +56,14 @@ F19_paizuriAnime,
 僕たちは図書室の中央辺りにあるバトル用のスペースに移動する。周りに結界が張られていて本が傷つかないようになっているようだ。,We moved to a battle space located near the center of the library. It seemed there was a barrier around it to prevent the books from being damaged.
 こんなところにもバトル用の場所があるだなんて、さすがはカードマスターの学校というところだろうか。,To think there's a battle arena here of all places. I'd expect nothing less from the Cardmaster Academy.
 さて、{主人公}くん。君にはこの指輪をはめた状態でバトルをしてもらう。,Now; {主人公}. I want you to wear this ring during our match.
-そう言ってエイライラ先生は僕に小さな水晶がついた指輪を投げ渡した。特に色もついていない透明な水晶の指輪だ。,Saying that; Professor Eilaira tossed me a ring with a small crystal attached to it. The gem was transparent without any particular color.
+そう言ってエイライラ先生は僕に小さな水晶がついた指輪を投げ渡した。特に色もついていない透明な水晶の指輪だ。,Saying that; Professor Elaira tossed me a ring with a small crystal attached to it. The gem was transparent without any particular color.
 さあ、準備はいいかな。\n手を抜かず全力で行かせてもらうよ。,Well; are you ready? I'll be going all out; so don't hold anything back.
 よろしくお願いします！,Let's have a good fight!
 負けません！僕が勝ちます！,I'm not gonna lose!
 ふふ、闘志に溢れたいい目だね。Aランク上位と聞いても\nまったく物怖じしないその姿勢、花丸をあげよう。\nしかし、実力はどの程度かな？,Fufu; your eyes are so full of fighting spirit. Managing to face an A-rank elite without a hint of fear… I'll give you a gold star for that at least. But let's see if your abilities keep up with your bravery.
 わたしのハーピーたちの猛攻を前に、\n君はちゃんと立っていられるかな！\nバトル開始だ！,How long can you last in the face of my Harpies' assault? Let the battle begin!
 うぐっ、すごいな…。\nまさか負けるとは思っていなかった。,Ugh; amazing... I never dreamed I would lose.
-すごいすごい！\nエイライラ先生に勝つなんて！\n{主人公}、凄すぎよ！,Oh wow; amazing! To think you'd beat Professor Eilaira! {主人公}; you're incredible!
+すごいすごい！\nエイライラ先生に勝つなんて！\n{主人公}、凄すぎよ！,Oh wow; amazing! To think you'd beat Professor Elaira! {主人公}; you're incredible!
 エルルさんが興奮気味に驚いている。Aランクマスターに勝てて、僕も鼻高々だ。,Eluru cheered me with both surprise and excitement. I couldn't help but feel proud to have beaten an A-rank Master.
 ふと周りを見ると、他の生徒たちが何人か僕たちの戦いを観戦していたようだ。彼ら彼女らも興奮気味に手を叩いている。,Looking around; it seemed several other students had been watching our battle as well. They'd all burst into excited applause.
 ・・・♪,...♪
@@ -122,20 +122,20 @@ F19_paizuriAnime,
 君たちがサキュバスを倒したという森に行ってみよう。\n百聞は一見に如かずともいう。わたしの計算が正しければ、\nそろそろそこにサキュバスが復活するはずだ。,Let's go to the forest where you all defeated one of the Succubi in your earlier battle. Seeing is believing; as they say. If my calculations are correct; she should be reviving there right about now.
 復活していたとしても、下級サキュバス程度、このメンバーなら大丈夫。\nさあ、少し準備したら森に向かおうか。,Even if she has revived; she's just a low-level Succubus; so with this group we'll be fine. Now; let's prepare a bit and then head to the forest.
 僕たちは昇格試験のときにサキュバスを倒した森についた。うっそうとして視界はあまりよくない。しかし、エルルさんの魔力探査によって、すぐに戦闘があった場所にたどり着けた。,We arrived at the forest where we had defeated the Succubus during our promotion exam. The forest was dense and visibility wasn't great. However; thanks to Eruru's magical detection; we quickly reached the location where the battle had taken place.
-先生、サキュバスと戦ったのはここです。,Miss Eliara; this is where we fought the Succubus.
+先生、サキュバスと戦ったのはここです。,Miss Elaira; this is where we fought the Succubus.
 ん・・・？なんだか変な魔力のよどみがありますね。,Hmm…? There's a strange stagnation of magical power here.
 へえ、この魔力が分かるなんて。\n相変わらずたいした観察能力だ。,Goodness! To be able to sense this magical power... Your observational skills are impressive as always Elulu.
 （この辺りは確か、カードパックが出土している遺跡があった場所だが…\nサキュバスはこんなところで何をしていたんだろう…？\nまあ、いい。今は置いておこう）,(If I recall correctly; this area had ruins where card packs were excavated; but... what was a Succubus doing in a place like this…? Well; whatever. I'll set that aside for now)
 さて、まだ復活には少し早かったみたいだけれど、\nこの感じならもうすぐじゃないかな。\nちょっと魔力を与えて刺激してみようか。,Now then; it seems it's still a bit early for the revival; but from what I'm sensing; it should be soon. Let me apply a casalyst by giving it a little magical power.
-エイライラさんは杖から魔力の塊を空間に向かって流し込んだ。はじめは何もないように見えた空間に、だんだんと僕にも見えるような魔力のよどみが現れてくる。そして・・・。,Eilaira released a mass of magical power from her staff toward the empty space. At first; the space appeared empty; but gradually a stagnation of magical power that even I could see began to appear. And then...
+エイライラさんは杖から魔力の塊を空間に向かって流し込んだ。はじめは何もないように見えた空間に、だんだんと僕にも見えるような魔力のよどみが現れてくる。そして・・・。,Elaira released a mass of magical power from her staff toward the empty space. At first; the space appeared empty; but gradually a stagnation of magical power that even I could see began to appear. And then...
 ぷはぁ！え、え、いまどういう状況！？\nわたし生きているの？,Puha! Huh; w-what's going on!? Am I alive?
 やあ、はじめまして。\nそうだね。きみは生きているよ。\nでも、自由ではない。,Hello; nice to meet you. Yes; you're alive. But you're not free.
-エイライラさんは、そう言ってサキュバスに杖を突きつけた。片手にはカードを持っており、いつでも強力なカードが使える状況だ。,Eilaira pointed her staff at the Succubus. In her other hand she held a powerful card; ready to use it at any moment.
+エイライラさんは、そう言ってサキュバスに杖を突きつけた。片手にはカードを持っており、いつでも強力なカードが使える状況だ。,Elaira pointed her staff at the Succubus. In her other hand she held a powerful card; ready to use it at any moment.
 ひえぇっ・・・。,Awwh...
 ほらほらキビキビ歩く。\n自分で牢屋の中に入るんだ。,Now; now; move along briskly. Get yourself into that prison cell.
 あうう、わかりましたぁ・・・。,Mmgh. Fine....
-３体１の状況でエイライラさんに杖を突きつけられ、キノコ使いのサキュバスは降参した。彼女を尋問してモルゲン付近にいた理由を聞き出すため、エイライラさんはそのまま彼女をモルゲンの牢屋まで連れてきていた。,In a three-on-one situation with Eilaira pointing her staff at her; the mushroom-using Succubus surrendered. Eilaira brought her directly to Morgen's prison to interrogate her and find out why she had been near Morgen.
-エイライラ先生、サキュバスを生け捕りにするとはさすがですね。\nわたくし看守ヤツメ、この悪党をきっちり見張らせていただきます。,Miss Eilaira; capturing a Succubus alive is impressive indeed. I; Yatsume of Morgen prison; will make sure to watch this villain closely.
+３体１の状況でエイライラさんに杖を突きつけられ、キノコ使いのサキュバスは降参した。彼女を尋問してモルゲン付近にいた理由を聞き出すため、エイライラさんはそのまま彼女をモルゲンの牢屋まで連れてきていた。,In a three-on-one situation with Elaira pointing her staff at her; the mushroom-using Succubus surrendered. Elaira brought her directly to Morgen's prison to interrogate her and find out why she had been near Morgen.
+エイライラ先生、サキュバスを生け捕りにするとはさすがですね。\nわたくし看守ヤツメ、この悪党をきっちり見張らせていただきます。,Miss Elaira; capturing a Succubus alive is impressive indeed. I; Yatsume of Morgen prison; will make sure to watch this villain closely.
 うん、よろしく頼むよ。,Thank you Yatsume; I'm counting on you.
 というわけで、仮説はやはり正しそうだね。,And with that; my hypothesis seems to be correct after all.
 {主人公}くん、君はサキュバスにとどめを刺せない。\nこのことをしっかり考えておきなさい。,{主人公}; if you can't deal the finishing blow to a succubus; you'll need to think carefully about what you do.
