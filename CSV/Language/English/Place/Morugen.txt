@@ -47,7 +47,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 これはありがたい申し出だ。僕はさっそく受付さんに探している本について伝えた。,I quickly accept the generous offer; telling the receptionist about the type of book I was looking for.
 なるほど。サキュバスについての本を探しているんですね。\nそれならこのあたりはどうでしょうか。,I see. So you are looking for a book about succubi? How about this one then?
 そう言って受付さんは僕に一冊の本を手渡した。『サキュバスの生態入門』というタイトルだ。,Saying this; the receptionist handed me a book. It's called ‘An Introduction to Succubus Ecology’.
-この街にいるエイライラという高名なマスターが書いた本です。\nサキュバスの分類などについて、短くまとまっていて、\nとてもいい本ですよ。,It's a book written by a highly respected master in this city named Elaila. It's a very good book; with a short summary of the classification of succubi and so on.
+この街にいるエイライラという高名なマスターが書いた本です。\nサキュバスの分類などについて、短くまとまっていて、\nとてもいい本ですよ。,It's a book written by a highly respected master in this city named Elaira. It's a very good book; with a short summary of the classification of succubi and so on.
 他には…。え？サキュバス化した人間を元に戻すための本ですか？\nうーん…。本はたくさん読んでいますが、\n残念ながら知っている本にはないと思います。,You're looking for other books? A book on how to restore a succubus-ified human? Hmmm... I've read a lot of books; but unfortunately I don't think it's in any book that I know of.
 そういうことを研究している人が以前この街にいた、\nとは聞いたことがありますが、\nまだ成功した人はいないみたいですね。,I've heard that there used to be people in this city who were researching such things; but nobody seems to have succeeded yet.
 ・・・・。,
@@ -104,8 +104,8 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 妹を助ける手段が見つかる日も近いかもしれない。手紙の返事が来るまで、せっせと修行に励んで、少しでも上のランクを目指すことにしよう！,The day may soon come when I will find the means to help my sister. Until I receive a reply to my letter; I'll continue to train and hopefully reach a higher rank!
 僕はサキュバス化治療術を練習するため、ネクロさんのいる牢屋に来ていた。,I had come to visit Necro in the prison to practise the succubusification healing technique.
 うふふ、楽しい実験の時間ね。\nこうやって研究に没頭できるなら、牢屋も案外悪くないわ。\nってあら・・・？誰かしら？,Ufufu; it's time for some fun experiments. Prison is not so bad if I can get absorbed in my research like this. Oh...? Who is it?
-ネクロさんに言われて振り向くと、後ろから誰かがこちらにやってきている。あの緑色の髪と長い耳、エイライラ先生だ。,I turn around at Necro's question to see someone coming up behind me. It's Elaila; her green hair and long ears showing. (translator: might need a check on this)
-やぁ、はじめまして。ネクロくん。\nわたしはエイライラ。\nモルゲンの学園でサキュバスについて研究しているものだよ。,Hello. Nice to meet you; Necro. My name is Elaila. I'm studying succubi at the Academy of Morgen.
+ネクロさんに言われて振り向くと、後ろから誰かがこちらにやってきている。あの緑色の髪と長い耳、エイライラ先生だ。,I turn around at Necro's question to see someone coming up behind me. It's Elaira; her green hair and long ears showing. (translator: might need a check on this)
+やぁ、はじめまして。ネクロくん。\nわたしはエイライラ。\nモルゲンの学園でサキュバスについて研究しているものだよ。,Hello. Nice to meet you; Necro. My name is Elaira. I'm studying succubi at the Academy of Morgen.
 きみの研究の話を聞いて、\nわたしも研究者のはしくれとして、\n大変興味深く思ってね。見学に来たんだ。,When I heard about your research; I; as a researcher myself; was very interested. I came to observe.
 はわぁ、あっ、えっと・・・。\nその、ありがとうございます。あわわ・・・。,Hah wow; oh; um... Well; thank you very much. Umm...
 ネクロさんはしどろもどろになっている。知らない人が苦手だとは聞いていたが、ここまでわたわたするとは。,Necro is floundering. I had heard that she was not good with strangers; but I never thought she would be so flustered.
@@ -121,7 +121,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 術者が限られるのがネックだが…。\nそれでも、サキュバス化しても治療できる可能性があるというのは、\nみなにとって大きな希望になるだろうね。,The problem is that the number of practitioners is limited... Still; the possibility of being able to cure succubusification is a great hope for all of us.
 わたしは今から転移陣を使って王都に行かないといけないんだ。\nネクロくん、その前にきみのような研究者と談義できたこと、\n実に有意義な時間だったよ。,I have to leave for the royal capital through the teleportation circle now. Necro; before I go; I'd like to say it was really useful for me to have a discussion with a researcher like you.
 さて、それではこの辺でおいとまさせてもらおう。\nふたりともありがとう。,Now then; I'll leave you to it. Thank you both.
-そういってエイライラ先生は去っていった。今日はもう遅い。僕もこの辺で終わりにして宿屋に戻るとしよう。,With that; Elaila left. It's already late today. I'm going to finish up here and go back to the inn.
+そういってエイライラ先生は去っていった。今日はもう遅い。僕もこの辺で終わりにして宿屋に戻るとしよう。,With that; Elaira left. It's already late today. I'm going to finish up here and go back to the inn.
 ・・・。,
 ベッドの上に腰かけながら、僕は今日の成果を振り返っていた。,As I sat on my bed; I reflected on my day's achievements.
 サキュバス化の治療術に確かな手ごたえを感じる。これなら、妹を本当の意味で助けられるかもしれない。,I feel a definite sense of control over the succubusification healing technique. This could help my sister in a real way.
