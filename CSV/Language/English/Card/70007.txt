@@ -19,8 +19,8 @@ EP07_PaizuriAnime,
 やっほー！わたしがEランクの昇格試験を担当する試験官だよ。よろしくね！,Hi there! I'll be your examiner for the E-rank promotion test. It's nice to meet you!
 ギルドに入りたてのあなたに、Fランクに見合った戦闘力があるかどうか、試させてもらうよ。,Considering you've only recently joined the guild; I'll test whether you have the combat power befitting an F-rank.
 剣士とハンターを組み合わせたわたしのデッキにうまく対処できるかな？さあ、バトルを始めよう！,Do you think you have what it takes to deal with my swordswoman and huntress deck? If you're ready; let's start the battle!
-お、また来たね。ランク昇格試験、もう一回受ける？,Oh; you've come again. Are you here to take the rank examination test again?
-わたしのデッキは、1体1体の戦闘力はそこまでないけど盤面にカードを多く出すから、魔法の全体攻撃とかを使うと戦いやすいと思うよ。,The cards in my deck don't have much power; but I can use them to easily populate my field; so magic cards that are good at hitting many cards at once might give you an advantage.
+お、また来たね。ランク昇格試験、もう一回受ける？,Oh; you've come again. Are you here to take the E-rank examination test again?
+わたしのデッキは、1体1体の戦闘力はそこまでないけど盤面にカードを多く出すから、魔法の全体攻撃とかを使うと戦いやすいと思うよ。,The cards in my deck don't have much power; but I can use them to easily populate my field; so Spell Cards that are good at hitting many cards at once might give you an advantage.
 いてて、これはお見事。\n新人マスターくん、なかなか強いねぇ。,Ouch! Nicely done. You’re quite strong for a rookie cardmaster; aren't you?
 うん、これだけの実力があれば十分だよ。\nあなたは試験に合格。これからEランクだね！,Mhm. You've passed with flying colors. You're now an E-rank cardmaster!
 Eランク昇格おめでとうございます！さすがですね。,Congratulations on your E-rank promotion! I had no doubts about you.
@@ -68,7 +68,7 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 僕は誰もいなくなった家で、戸棚の奥に隠れ続けて、そのまま夜を過ごした。怖さで震え、兄として妹を助けられなかったことの悔しさにしばらく泣いていたんじゃないかと思う。,I hid in the back of the cupboard and spent the night there; trembling with fear. I cried for a while; perhaps out of frustration for not being able to protect my sister as a brother should.
 ……それからどれだけ時間が経ったのか。何日か後、戸棚の中で弱り切っていた僕を、ギルドからサキュバス討伐に派遣されたコノハ師匠が助けてくれた。,I don't know how much time passed after that. A few days later; Master Konoha; who had been sent by the guild to hunt succubi; found and rescued me from the back of the cupboard; where I had grown weak.
 師匠が抱きとめてくれたとき、僕はすでに気を失っていたという。,By the time Master Konoha took me into her arms; I had already lost conciousness.
-何度も何度も夢に見る、自分の情けない過去。兄としてあまりに無力だった苦い記憶。,Since then, I have been haunted by recurring nightmares about my past. The bitter memory of being a powerless; helpless older brother.
+何度も何度も夢に見る、自分の情けない過去。兄としてあまりに無力だった苦い記憶。,Since then; I have been haunted by recurring nightmares about my past. The bitter memory of being a powerless; helpless older brother.
 でも今は違う。無力なんかじゃない。だからこそ僕は、必ず…。,But now things are different. I'm not powerless anymore. That's why I must...
 朝、目を覚ますと手には汗がびっしょりついていた。,When I woke up in the morning; my hands were drenched in sweat.
 村が襲われたのはもう何年も昔の話だ。時間の経過を考えれば、妹は無事ではないかもしれない。サキュバスにエナジーを吸い尽くされたか、あるいはサキュバス化させられて、既に人間ではなくなっているのかも…。,It has already been many years since the village was attacked. Considering how much time has passed; my sister likely isn't safe. She might have been drained of her energy by succubi; or maybe they even turned her into a succubus herself; no longer human...
@@ -80,25 +80,25 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 {使用カード}を上級召喚するよ。,Special summon {使用カード}!
 {使用カード}を召喚するよ！,Summoning; {使用カード}!
 ううっ、あうう・・・❤,Uogh... Ahh...❤
-あはっ、試験中に自滅しちゃうような子はだめだねー。\n復活してもらったのに、まだうっとりした顔しちゃってる❤,Aha! You know; it's not good for you kids to be self-destructing like this...❤ Even though you've just been summoned; you still have a dazed expression.❤
+あはっ、試験中に自滅しちゃうような子はだめだねー。\n復活してもらったのに、まだうっとりした顔しちゃってる❤,Aha! You know; it's not good for you kids to be self-destructing like this...❤ Even though you've just been Summoned; you still have a dazed expression.❤
 そんなんじゃ、マスターくんの命令も耳に入らないんじゃない？\n情けない男の子だなー。くすくす❤,In that state; are you even able to hear your master's orders anymore? What a pathetic boy... *Giggle*❤
 さらにもう1枚発動！,I activate another card!
-{使用カード}の召喚時効果発動！手札を1枚捨てて、大剣の女戦士を特殊召喚！,I activate {使用カード}'s summon effect! I discard 1 card from my hand and Special Summon Greatsword Guardian!
-{使用カード}の召喚時効果を発動！手札を1枚捨てて護衛のモンスターを特殊召喚！,I activate {使用カード}'s summon effect! I discard 1 card from my hand and Special Summon a Warrior monster!
+{使用カード}の召喚時効果発動！手札を1枚捨てて、大剣の女戦士を特殊召喚！,I activate {使用カード}'s Summon effect! I discard 1 card from my hand and Special Summon {%%10018}!
+{使用カード}の召喚時効果を発動！手札を1枚捨てて護衛のモンスターを特殊召喚！,I activate {使用カード}'s Summon effect! I discard 1 card from my hand and Special Summon a Warrior monster!
 手札を２枚捨てて{使用カード}の効果発動！魅了を付与させてもらうわね！,I discard 2 cards from my hand and activate {使用カード}'s effect and cast Charm!
 魔法の弓矢でくらくらさせてあげる。手札を２枚捨てて{使用カード}の効果を発動！,I'll make your head spin with my Magical Arrows! I discard 2 cards from my hand and activate {使用カード}'s effect!
-召喚に成功したとき{使用カード}の効果発動！デッキからハンタータイプのモンスターをサーチ！,After a successful summon; I can activate {使用カード}'s effect and search my deck for a Hunter-type monster!
-仲間を呼ぶよ！{使用カード}の召喚時効果を発動！,Calling all allies! I activate {使用カード}'s summon effect!
+召喚に成功したとき{使用カード}の効果発動！デッキからハンタータイプのモンスターをサーチ！,After a successful Summon; I can activate {使用カード}'s effect and search my deck for a Hunter-type monster!
+仲間を呼ぶよ！{使用カード}の召喚時効果を発動！,Calling all allies! I activate {使用カード}'s Summon effect!
 墓地に送られたとき{使用カード}の効果発動！デッキから永続魔法をサーチ！,When {使用カード} is sent to the graveyard; I can activate its effect and search my deck for a Continuous Spell Card!
 {使用カード}の効果を発動！デッキから永続魔法を手札に加えるよ！,I activate {使用カード}'s effect and add a Continuous Spell Card from the deck to my hand!
 手札を2枚捨て永続魔法カード発動！{使用カード}！,I discard 2 cards from my hand and activate a Continuous Spell Card! {使用カード}! 
 相手モンスター1体を選び、その種族に対してハンターが与えるダメージを倍増させるよ。,I also choose 1 of my opponent's monsters and double the damage that hunters deal to that type.
-さらに望むならデッキからハンターモンスター1体を特殊召喚できる！,Additionally; I can also special summon 1 Hunter monster from my deck!
+さらに望むならデッキからハンターモンスター1体を特殊召喚できる！,Additionally; I can also special Summon 1 Hunter monster from my deck!
 あなたのモンスター1体を選び、その種族に対してハンタータイプの与えるダメージが倍になるよ！,I can choose 1 of your monsters and double the damage that my Hunter-types deal to that type!
 {使用カード}を発動！ハンターモンスター1体を効果の対象に選択できなくする！,I activate {使用カード} and make 1 Hunter immune to effects!
 {使用カード}を発動！これでこの子は効果の対象に選択できない！,I activate {使用カード}'s effect! This will make this monster immune to effects!
 ハンタータイプが攻撃されたとき、{使用カード}を発動！戦闘前に1000ダメージだよ！,When a Hunter-type is attacked; I can activate {使用カード}'s effect to inflict 1000 damage on the attacking monster before battle!
-{使用カード}を発動！手札にいるハンタータイプモンスターを特殊召喚！,I activate {使用カード}! I special summon a Hunter-type monster from my hand!
+{使用カード}を発動！手札にいるハンタータイプモンスターを特殊召喚！,I activate {使用カード}! I special Summon a Hunter-type monster from my hand!
 {使用カード}を発動！手札にハンターがいないときデッキからハンタータイプをサーチ！,I activate {使用カード}! If there are no Hunters in my hand; I can search my deck for a Hunter-type monster!
 特殊召喚に対して{使用カード}を発動！大ダメージを与えちゃうよ！,I activate {使用カード} in response to a Special Summon and inflict massive damage!
 装備魔法カード発動！{使用カード}！,Equipment Spell Card activate! {使用カード}!
@@ -107,7 +107,7 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 カードをセット。,Card set.
 カードを伏せる。,Setting this card face down.
 わたしからも気持ちいいことしてあげる。{防御カード}を攻撃！,I'll make make sure you feel good as well. I attack {防御カード}!
-わたしだって攻撃するよ。{防御カード}を攻撃！,I can attack; too!  I attack {防御カード}!
+わたしだって攻撃するよ。{防御カード}を攻撃！,I can attack; too! I attack {防御カード}!
 行くよ！{使用カード}で{防御カード}を攻撃！,Let's go! {使用カード}; attack {防御カード}!
 どう？快楽攻撃されて心は乱れてない？,What do you think? You won't get distracted by these pleasure attacks; will you?
 昔はもっと剣と剣のぶつかり合いって感じだったんだけどね、\nここ最近はこういうエッチな攻撃に耐えられないと\n男のカードマスターはだいぶ厳しいよ。,Duels used to be about the clashing of swords... but if male cardmasters can't withstand these types of attacks; then they are going to have a "hard" time.
@@ -142,26 +142,26 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 マスターなら分かってると思うけど、\n魔力を搾られてカードを使えなくなったら、もう勝ち目なんてないよ？,As a cardmaster; you should know better than anyone else that you won't have any chance of winning if you can't use your cards from having your magic squeezed out of you; yes?
 それでも我慢できない？\nうーん、しょうがないなー❤,And even so; you still can't stand it? Mm; well I guess it can't be helped then~❤
 それじゃあお望み通り、さくっと抜いてあげる❤\nちなみにどうやってイかされたいのかな？\n言ってみてよ❤,Well then. As you desire; I will extract your mana right away.❤ By the way; how would you like to cum? Tell me.❤
-あれー、試験中なのにわたしにおねだりしちゃうの？\nマスターくんの昇級がかかってるのに、\n我慢できなくなっちゃったんだ❤くすくす❤,What's this? Are you asking me to do things to you; in the middle of your examination? Even though your master's promotion is stake; you can't help it; can you?❤ *Giggle*❤
+あれー、試験中なのにわたしにおねだりしちゃうの？\nマスターくんの昇級がかかってるのに、\n我慢できなくなっちゃったんだ❤くすくす❤,What's this? Are you asking me to do things to you; in the middle of your examination? Even though your master's promotion is at stake; you can't help it; can you?❤ *Giggle*❤
 それじゃあさくっと魔力を吐き出させてあげる❤\nキミはどうやってイかされたいのかな？裏切り者くん❤,Well then; I'd better make sure you let out your mana right away.❤ How would you like to cum; Mr. Traitor?❤
 からかいパイズリ,Teasing Paizuri
 狩人の手コキ,Hunter's Handjob
 なんでも,You decide
-そっか❤おっぱいでしてほしいんだね❤\nちょっと谷間を強調してあげれば、\n男の子ってすぐここに夢中になっちゃうんだから❤かわいい❤,Oh I see.❤ So you'd like me to use my boobs on you?❤ Just a little emphasis on my cleavage; and no boy can stop themself from becoming entranced by them.❤ It's so cute!❤
-そっか❤手でシコシコしてほしいんだね❤\nわたしの手コキはオナニーするよりもずっと気持ちいいよ❤\nすぐイかせてあげる❤,Oh I see.❤ So you'd like me to stroke your dick with my hand?❤ My handjob technique feels much better than masturbating.❤ I'll make you cum before you know it.❤
+そっか❤おっぱいでしてほしいんだね❤\nちょっと谷間を強調してあげれば、\n男の子ってすぐここに夢中になっちゃうんだから❤かわいい❤,Oh; I see.❤ So you'd like me to use my boobs on you?❤ Just a little emphasis on my cleavage; and no boy can stop himself from becoming entranced by them.❤ It's so cute!❤
+そっか❤手でシコシコしてほしいんだね❤\nわたしの手コキはオナニーするよりもずっと気持ちいいよ❤\nすぐイかせてあげる❤,Oh; I see.❤ So you'd like me to stroke your dick with my hand?❤ My handjob technique feels much better than masturbating.❤ I'll make you cum before you know it.❤
 あは❤気持ちよさそうな顔で射精しちゃった❤\n試験を放り出してしてもらったパイズリはそんなによかった？\nマスターくんを裏切っちゃって最低だね❤,Aha!❤ You ejaculated with such a happy expression on your face.❤ Were you that happy to give up on the examination match while indulging in my paizuri? A monster who betrays their master is the lowest of the low.❤
 モンスターくんのせいでわたしの体力もすっかり回復したし、\n試験の突破はずっと難しくなったんじゃないかな？\nくすくす❤,Due to your monster completely restoring my strength; I think you'll have a much harder time getting through the exam now. *Giggle*❤
-ふふ、どうだったわたしの手コキテク❤\n試験官として君たちより実力はあるつもりだけど、\n手コキも上手だったでしょ？,Fufu; how do you like my handjob technique?❤ You would expect that as an examiner I'm far more skilled than you; but my handjobs are quite good too; don't you think?
+ふふ、どうだったわたしの手コキテク❤\n試験官として君たちより実力はあるつもりだけど、\n手コキも上手だったでしょ？,Fufu; how do you like my handjob technique?❤ You would expect that as an examiner I'm far more skilled than you; but my handjobs are quite good; too; don't you think?
 その気持ちよさそうなとろけ顔が答えだね❤\n試験中なのに、口が半開きになってアヘアヘになっちゃってる❤\nくすくす❤,That look of ecstasy on your face says it all.❤ Even during the test; you've ended up with your mouth half-open and moaning like a slut.❤ *Giggle*❤
 あっ、ああっ・・・。,Ah; ahh...
 ありゃりゃ、自分からオナニー始めちゃった。今回も試験は失敗だね。,Oh; no; no! You started masturbating? You've failed the exam yet again.
-もしかして、わたしの谷間見てたら興奮抑えられなくなっちゃった？うーん、おっぱいに負けるの癖になっちゃったのかなー。,Could it be that just looking at my cleavage is making you uncontrolaby aroused? Hmm; maybe you've accidentally gotten a habit of losing to my tits...
+もしかして、わたしの谷間見てたら興奮抑えられなくなっちゃった？うーん、おっぱいに負けるの癖になっちゃったのかなー。,Could it be that just looking at my cleavage is making you uncontrollaby aroused? Hmm; maybe you've accidentally gotten into the habit of losing to my tits...
 え？オナニーしちゃうの？今試験中だよ？,What? You started masturbating? In the middle of the exam?
 もしかして、わたしの谷間見てたら興奮抑えられなくなっちゃった？うーん、たまにいるんだよねー、そういう人。,Could it be that you can't contain you arousal when seeing my cleavage? Well; I guess people do get like that from time to time.
 たしかにガッツリ露出しているけどさ、これぐらいの谷間で動揺してちゃ、サキュバスの相手なんて無理だよ？おっぱいだってサキュバスの方がずっと大きいし…。,Sure; you can clearly see my cleavage here; but if this is getting to you; you won't be able to handle a succubus. Their tits are much bigger; after all...
 戦闘中に激しく動いたから、こんな風にゆさゆさ揺れたかもしれないけど…❤その程度ガマンガマン。,Because I've been making large movements during battle; my boobs might have ended up jiggling; just like this...❤ But you'll have to bear with it and hold your feelings in.
 ううっ…❤,Nngh...❤
-え？わざわざ揺らさないでくれって？うそだー、うれしいくせに。,What? "Don't jiggle your boobs like that"? Awh; but you look so happy!
+え？わざわざ揺らさないでくれって？うそだー、うれしいくせに。,What? "Don't jiggle your boobs like that?" Awh; but you look so happy!
 こうやって前屈みになって、体を左右に揺らしているだけなのに、ほら、手が止まらない❤シコシコシコシコ気持ちいいねー❤,I'm only leaning over and rocking my body from side to side; just like this; but it seems you can't stop your hand.❤ All you can do is stroke; pump; and rub your cock~❤
 くすくす。試験に来たばかりの初心者の子を、こうやっておっぱいに夢中にさせちゃうの、楽しいんだよね❤,*Giggle*❤ It's always fun to see a new rookie who has taken the test for the very first time become enthralled by my breasts like this.❤
 もう出ちゃいそうなんでしょ？シコシコ止められなくて、試験落ちちゃうね。自分から負けちゃうね❤,You're already about to come; aren't you? It seems you'll have no choice but to fail the exam because you can't stop rubbing your dick. You're going to lose on your own accord~❤
@@ -191,18 +191,18 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 マスターのランクアップがかかった大事な試験だっていうのに、みんなしてわたしの前にやってきてシコシコ始めちゃうなんて…❤ぷぷぷ❤,Even though this is an important exam in order for your master to rank up... To think everyone is coming up to me while stroking their dicks...❤ Fufu~❤
 あなたもわたしのおっぱい見てたらムラムラ抑えられなくなっちゃった？モンスターのくせに情けないなー❤,So you couldn't stop getting turned on after looking at my tits; too? Even though you're a monster; you're really pathetic~❤
 たしかにガッツリ露出しているけどさ、これぐらいの谷間で動揺してちゃ、サキュバスの相手なんて無理。おっぱいだってサキュバスの方がずっと大きいし…。,I know my boobs are exposed and in plain sight; but if this much cleavage is making you flustered; then you'll be no match for a succubus; you know? Their boobs are much bigger; after all...
-え？わざわざ揺らさないでくれって？うそだー、あなたもうれしいくせに。,Eh? Stop swaying your tits like that? No way~ You look really happy.
+え？わざわざ揺らさないでくれって？うそだー、あなたもうれしいくせに。,Eh? "Stop swaying your tits like that?" No way~ You look really happy.
 ねえねえ。次々オナニーで仲間が負けていくのってどんな気持ち？他の仲間がオナニーしてたから自分もやりたいって我慢できなくなっちゃった？,Hey; hey. How does it feel to lose your allies one after the other through weak-willed masturbation? Did you stop resisting because you saw your allies doing it?
 くすくす❤情けないよねー。おっぱい１つで戦意喪失して、どんどん降参しちゃうんだもん。,*Giggle*❤ How pathetic~ All it takes is taking one tit out; and eventually everyone loses the will to fight.
 ほら、笑われてシコシコ早くなってきた。もう出ちゃいそうなんでしょ？オナニー止められなくて、おっぱいに負けちゃうね❤,Look; you're stroking faster while being made fun of. You're going to cum soon; right? You're going to lose to my tits because you couldn't stop touching yourself.❤
 谷間寄せてあげるから、ここに出していいよ❤びゅーっていっぱいかけちゃえ❤,I'll come a bit closer so you can let it all out on my boobs.❤ Give it your best shot and unload as much as you can!❤
-こんな調子で大丈夫？こんなに自爆ばっかりしていたら、すぐに全滅して試験に落ちちゃうんじゃない？くすくす❤,Are you sure you can handle this? If you keep giving in like this; it's only a matter of time before you are all wiped out and unable to pass the test you know? *Giggle*❤
+こんな調子で大丈夫？こんなに自爆ばっかりしていたら、すぐに全滅して試験に落ちちゃうんじゃない？くすくす❤,Are you sure you can handle this? If you keep giving in like this; it's only a matter of time before you're all wiped out and unable to pass the test you know? *Giggle*❤
 試験は残念ながら不合格。おっぱいでオナニーなんてしちゃうんだから、当たり前だよね？くすくす❤,I'm sorry to say you have failed your exam. A natural outcome after jerking off to my boobs. *Giggle*❤
 ふふ、手にたっぷり出しちゃったねー。それじゃまたの機会をお待ちしてまーす。,Fufu. You came a lot in my hand didn't you? I'll be waiting patiently for your next atttempt at passing the exam.
 あん❤胸の間に出しすぎだよー。新人マスターくんにはわたしのおっぱいは気持ちよすぎたかなー。,Ahn~❤ You poured out a lot into my cleavage... Perhaps my boobs were just too confortable for a new cardmaster such as yourself.
 勝負に負け動けなくなった僕は、試験官の女性の前で膝をついていた。,After losing the match; I was left unable to move and fell to my knees before the examiner.
 うふふ、わたしの勝ちだね。受付ちゃんが期待しているって言ってたから楽しみだったんだけど、思ったほどじゃないのかな？,Ufufu. Looks like I win. The receptionist said you were quite promising; so I was looking forward to our battle. But I guess my hopes were a little too high.
-言っとくけど、わたし本気出してないよ？これ初心者向けの試験だし。,And just so you know; I wasn't even taking the battle too seriously either. This is a beginners exam; after all.
+言っとくけど、わたし本気出してないよ？これ初心者向けの試験だし。,And just so you know; I wasn't even taking the battle too seriously either. This is a beginner's exam; after all.
 ううっ…。,Dammit...
 カードの使い方はうまいみたいだけど、エッチなことにまだ全然慣れてないって感じだよね。,You do seem to be quite good at using your cards; but you're not used to resisting any kind of sexual influence at all.
 わたしのおっぱい見てたら、勝手にオナニーして自爆しちゃうしさ。くすくす❤,The moment you start staring at my boobs; you can't stop touching yourself; which leads to your defeat. *Giggle*❤
@@ -218,20 +218,20 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 おっぱいで挟んで、擦り上げて…。こうしてあげると気持ちよすぎて腰がふるえてきちゃうよね。くすくす❤,Pinching your dick between my boobs... Rubbing it up and down... When I do this; it feels so good that your hips begin to shake; don't they? *Giggle*❤
 あっ…❤ああっぁ…❤すごいっ…❤やわらかくてぇ❤,Ahh...❤ Oohhh❤ N-Noo...❤ They're so s-soft...❤
 柔らかい？そっかー、うれしいなぁ❤,You like how soft they are? I see... I'm so glad to hear~❤
-たくさん楽しんでいいんだよ。どうせ勝負はもう終わったんだし、あとは気持ちよーく負けちゃうだけ。,It's OK to enjoy them as much as you like. The match is already over anyway; so the least you can do is feel good during your defeat~.
+たくさん楽しんでいいんだよ。どうせ勝負はもう終わったんだし、あとは気持ちよーく負けちゃうだけ。,It's OK to enjoy them as much as you like. The match is already over anyway; so the least you can do is feel good during your defeat~
 おっぱいに挟まれて、男の子の弱点でおっぱいのやわらかさをたーっぷり味わって、それでわたしに魔力を出しておしまい❤,I'm going to immerse your dick between my tits now; so get a good taste of my soft boobs with your male weakpoint as you let out all your mana for me~❤
 ほら、おちんちんの感触に集中して？あなたが快感に喘げば喘ぐだけ、魔力が精液に溶けていくから…。,Come on~ Concentrate on how good your dick feels; OK? The more you moan; the more magic will dissolve into your balls...
 ちなみに、魔力をたくさん溶かした方が射精するときは気持ちいいらしいよ？女のわたしには分からないけど、魔力を込めた分だけ感覚が敏感になっちゃうからかな？,I heard that it feels really good when a man shoots out a lot of magical energy during ejaculation. Maybe it's because the more magic fills your cock and balls; the more sensitive they become?
 あは、言われてちょっと魔力を込めたでしょ？すっかり期待しちゃって、このえっちー❤,Aha! I felt your magic suddenly build up a little more when I said that. You're looking forward to it; aren't you? You slutty cardmaster~❤
 あっ…❤ち、ちがっ…❤,Ahh...❤ N-No that's not tru-❤
 別にいいんだよ。いまは試験中じゃないし、わたしのおっぱいの感触しっかり味わっちゃえばいいじゃん❤,I don't care~ You're not under examination right now; so why don't you just enjoy the feeling of my tits around your penis~ There's no need to think about anything else~❤
-あんまりわたしのおっぱいにメロメロにされたら、この先試験に勝てなくなっちゃうかもしれないけど…❤ま、それは知ったことじゃないし❤,Though; if you become too enamoured with my breasts; you might not be able to overcome your next examination...❤ Oh well; it's not like you would care much about that right now~❤
+あんまりわたしのおっぱいにメロメロにされたら、この先試験に勝てなくなっちゃうかもしれないけど…❤ま、それは知ったことじゃないし❤,Though; if you become too enamored with my breasts; you might not be able to overcome your next examination...❤ Oh well; it's not like you would care much about that right now~❤
 うりうりー❤おっぱいでいっぱいこすられて、とろとろになるまで気持ちよくなっちゃえ❤,Squish squish~❤ You're going to have your dick rubbed lots by my soft tits and feel good until you melt away into a wet puddle~❤
-あっ❤ああっ❤❤❤だめ、これっ、あああっ…❤,Ahh~❤ Ahhh~❤❤❤ N-Noo.. This... T-hi... Oohhhh...❤
+あっ❤ああっ❤❤❤だめ、これっ、あああっ…❤,Ahh~❤ Ahhh~❤❤❤ N-Noo... This... Th-... Oohhhh...❤
 あはは、もう射精しちゃうね❤それじゃ、終わりにぎゅーってしてあげるから、閉じてる谷間にどぷって出しちゃっていいよ。,Ahaha~ You're going to ejaculate already; aren't you?❤ Well then; I'll give you one final squeeze. Go ahead and ejaculate into my tightly closed cleavage.
 イっちゃえ、新人マスターくん❤気持ちいい気持ちいい乳内射精で、わたしに魔力渡しちゃえ❤むぎゅー❤,Cum; new cardmaster~ Cum~❤ Hand over your mana to me with my blissful; magic-stealing boobie-massage~❤ Squeeze~❤
 あっ❤あぐあっ❤❤❤,Ahh❤ Ahhoogh...❤❤❤
 んふふ、たくさん出てる。谷間の中が白いのでドロドロ❤,Fufu. You shot out a whole lot. My cleavage is filled with creamy mana~❤
 あー、この精液、普通の射精3回分ぐらいは魔力が溶けちゃってるんじゃないかな❤ずいぶんエッチなことに魔力使っちゃったみたいだね。すけべ❤,My~ This semen must contain three ejaculations worth of magical energy.❤ Such a slut; using your magic for something so sexual~❤
 精液に溶けてる魔力はなかなか良質だね。きっとキミ、才能あるよ。さすがはコノハさんのところのお弟子さん。,The magic in this semen is quite potent. It seems you possess more ability than what I gave you credit for. You're certainly Ms. Konoha's disciple alright.
-まあどれだけ才能があっても、エッチなことに弱いようじゃ、今の時代やってけないんだけどね。次挑んでくるときは少しはおっぱいに勝てるように頑張れー♪くすくす❤,But no matter how talented you are; you'll never make it in this day and age if you're weak to sexual acts. The next time you try to challenge me; try to resist my boobs a little now; OK?♪ *Giggle*❤
+まあどれだけ才能があっても、エッチなことに弱いようじゃ、今の時代やってけないんだけどね。次挑んでくるときは少しはおっぱいに勝てるように頑張れー♪くすくす❤,But no matter how talented you are; you'll never make it in this day and age if you're weak to sexual acts. The next time you try to challenge me; try to resist my boobs a little; now; OK?♪ *Giggle*❤
