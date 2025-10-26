@@ -39,7 +39,7 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 まだここに来て半年程度だが、なんだか感慨深い。そんなことを思っていると、不意に懐かしい声が聞こえてきた。,I've only been here about six months; but my time here already feels so meaningful. Lost in that thought; I suddenly heard a familiar voice.
 やっほー、弟子♪\nふふ、あんな可愛らしいファンがいるなんて、\nあなたも隅に置けないわね。,There you are; my student~♪ Fufu; to think you'd get yourself such a cute fan... You're quite the charmer; aren't you?
 師匠・・・！,Master...!
-久しぶりね、弟子。元気そうじゃない♪,Long time no see; my apprentice. You Look well~♪
+久しぶりね、弟子。元気そうじゃない♪,Long time no see; my apprentice. You look well~♪
 ほら、あなたからもらった研究者ネクロについての手紙。\nこの手紙が来たから、あなたの試合観戦もかねて、\nこの街にやってきたの。,I received the letter you sent me about Necro and her research. After it arrived; I decided to visit town to watch your match.
 お、目に見えて魔力の量が増えてる。\n修行をしっかり頑張ってきた証拠ね。えらいわよ。,Oh my; your magical power has increased noticeably. That tells me you've been working hard in your training. Good work!
 師匠はそう言うやいなや、僕の頭をわしゃわしゃと乱暴になでてきた。小さいころからよく頭をなでてくれたが、さすがに人目のある場所でやられるとちょっと恥ずかしい。,Having said that; my master reached out; tousling my hair roughly. She's always patted my head like that; ever since I was little; but it's a bit embarrassing when she does it in public.
@@ -48,11 +48,11 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 どれだけあなたが成長したのか、\n師匠にいいところ見せてみなさい！,Make sure to show your master how much you've grown!
 今日の試合は、Bランクへの昇格がかかった大事な一戦だ。,Today's match is an important battle with a possible B-rank promotion on the line.
 この試合に勝てばついにBランク。師匠と同じランクに上がれる。魔族領に行くにはまだ道半ばかもしれないけれど、とても大事な一歩のはずだ。,If I win this match; I'll finally be B-rank. I'll reach the same rank as my master. It might still only be the midpoint in my journey to reaching the Monster's Domain; but it's an important step all the same.
-それに今日は応援席に見知った顔が何人もいる。カッコ悪いところは見せられない。,Plus; there are plenty of familiar faces in the cheering section today. I can't make a fool of myself
+それに今日は応援席に見知った顔が何人もいる。カッコ悪いところは見せられない。,Plus; there are plenty of familiar faces in the cheering section today. I can't make a fool of myself.
 絶対に勝たなくては！僕はいつも以上に気合を入れて、控え室へ向かったのだった。,I have to win; no matter what! With that in mind; I psyched myself up and headed to the waiting room.
 さあみなさんお待ちかね！今日のメインイベント、\n無敗のルーキーの昇格試合が始まります！,Ladies and gentlemen; the moment you've all been waiting for! Today's main event—the undefeated rookie's promotion match!
 今回の大会が始まったときにはFランクだった{主人公}選手。\nそれがあれよあれよという間に勝利を重ね、\nついに今日！Bランク昇格に王手をかけました！,When this tournament started; {主人公} was just a lowly F-rank. But victory after victory has brought him here; and today... he's only one step away from B-rank!
-この異例の強さに注目度も抜群！\n今日はなんとギルドマスターのリーフ会長や、リュカ大商会の重役など\n名立たるビッグネームがVIP席に観戦に来ています！,This exceptional strength has drawn incredible attention! Today; many big names—including Guildmaster Chairman Leaf and some executives from the Luca Trading Company— are watching from the VIP seats!
+この異例の強さに注目度も抜群！\n今日はなんとギルドマスターのリーフ会長や、リュカ大商会の重役など\n名立たるビッグネームがVIP席に観戦に来ています！,This exceptional strength has drawn incredible attention! Today; many big names—including Guildmaster Chairman Leaf and some executives from the Luca Trading Company—are watching from the VIP seats!
 そんな彼の対戦相手は、この人！\n人魚モンスターの使い手メロディ選手だ！,Now; let's meet his opponent for today! It's the mermaid-monster master; Melody!
 メロディ選手はカードマスター学園のトップ３選手の一人！\n学生の身でありながらBランクに上り詰めたエリート生徒です！,Melody is one of the top 3 students at the Cardmaster Academy! Despite being a student; she's already an elite cardmaster who has climbed her way to B-rank!
 背は小さいですがこれでも最上級生。\n今日は彼女の後輩の生徒たちが多数応援に来ています！\nチア衣装が華やかですねー♪,Don't let her height fool you. She's still an upperclassman; and today many of her juniors have come to cheer her on! Those cheerleading outfits sure are colorful~♪
@@ -116,7 +116,7 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 あん、ちょっと待ってください❤\n帰る前に、わたしたちの踊り、\n{主人公}さんに見てもらいたいんです❤,Ahn; please; just wait a minute!❤ Before we go; we really want you to watch our dance~❤
 いきますよ！さん、はい♪,Here we go! Three; two; one~♪
 僕の意志も聞かず、女の子たちは応援の踊りを始めた。掛け声で拍子をとり、手足を振り上げてリズミカルに踊る。,Ignoring my wishes; the girls started their cheerleading routine. They kept time with chants; rhythmically dancing as they raised arms and legs.
-はつらつとしていて、健康的な踊り。しかし短いスカートや、胸元に開いたハート型の穴から見える谷間が、否応なく僕の性欲を煽ってくる。,Their routine was lively and wholesome; but combined with the sight of their short skirts and the cleavage visible through the heart-shaped cut-outs on their chests; I could feel... urges beginning to stir...
+はつらつとしていて、健康的な踊り。しかし短いスカートや、胸元に開いたハート型の穴から見える谷間が、否応なく僕の性欲を煽ってくる。,Their routine was lively and wholesome; but combined with the sight of their short skirts and the cleavage visible through the heart-shaped cut-outs on their chests; I could feel urges beginning to stir...
 なにより目と鼻の先の距離で踊っているのだ。狭い部屋だから女の子たちの甘い匂いがこもってくるし、ううっ、だめだ、頭がぼーっとしてきた。,What was worse; they were dancing so close. The sweet scent of the girls filled the cramped room; and ugh; no good; my head was getting fuzzy.
 ふれー、ふれー♪{主人公}！,Fight; {主人公}; fight! Fight with all your might~♪
 （ううっ、パンツ見えてる・・・❤\nそれに胸もあんなに揺れて・・・❤）,(Ughh; I can see their panties...❤ And their breasts are bouncing so much...❤)
@@ -170,13 +170,13 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 さらにもう1枚発動！,I'll activate one more card!
 １ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンさせます！\nさらに攻撃力がこのカード以下になった相手に魅了を付与します！,Once per turn; I can activate {使用カード}'s effect! That lets me decrease the attack power of all opponents by 200 points! Additionally; it inflicts charm on opponents whose attack power becomes equal to or less than its own!
 １ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンです！\nさらに攻撃力がこのカード以下になった相手に魅了を付与します！,Once per turn; I can activate {使用カード}'s effect! It decreases the attack power of all opponents by 200 points! Additionally; it inflicts charm on opponents whose attack power becomes equal to or less than its own!
-{使用カード}が手札から捨てられたとき効果発動！\n相手フィールド上の攻撃力0のモンスター１体をゲームから除外し、\nこのカードを墓地から特殊召喚します！,When {使用カード} is discarded from hand; its effect activates! I banish one of my opponent's monsters with 0 attack power from the field and Special Summon it from the graveyard!
-手札から捨てられたとき{使用カード}の効果発動！\n相手フィールド上の攻撃力0のモンスター１体をゲームから除外し、\nこのカードを墓地から特殊召喚します！,When it gets discarded from my hand; {使用カード}'s effect activates! I banish one of my opponent's monsters with 0 attack power from the field and Special Summon it from the graveyard!
+{使用カード}が手札から捨てられたとき効果発動！\n相手フィールド上の攻撃力0のモンスター１体をゲームから除外し、\nこのカードを墓地から特殊召喚します！,When {使用カード} is discarded from hand; its effect activates! I banish one of my opponent's monsters with 0 attack power from the field and special summon it from the graveyard!
+手札から捨てられたとき{使用カード}の効果発動！\n相手フィールド上の攻撃力0のモンスター１体をゲームから除外し、\nこのカードを墓地から特殊召喚します！,When it gets discarded from my hand; {使用カード}'s effect activates! I banish one of my opponent's monsters with 0 attack power from the field and special summon it from the graveyard!
 手札から水属性カードを捨てたとき、{使用カード}の効果発動！\nすべての相手キャラクターの攻撃力を100ポイントダウンです！,Whenever I discard a Water Attribute card from my hand; {使用カード}'s effect activates! It decreases the attack power of all opponents by 100 points!
 １ターンに１度、{使用カード}の効果を発動！\n相手モンスター１体の攻撃力を200ポイントダウンです！\nさらに攻撃力がこのカード以下になった相手のコントロールを奪います！,Once per turn; I can activate {使用カード}'s effect! It decreases one of my opponent's monster's attack power by 200 points! Additionally; if that monster's attack power becomes equal to or less than this card's attack power; I take control of it!
 １ターンに１度、{使用カード}の効果を発動！\n相手モンスター１体の攻撃力を200ポイントダウンです！\nさらに攻撃力がこのカード以下になった相手を私側に裏切らせちゃいます❤,Once per turn; I can activate {使用カード}'s effect! It decreases the attack power of one of my opponent's monsters by 200 points! Additionally; if that monster's attack power becomes equal to or less than this card's; it betrays my opponent and joins my side~❤
-{使用カード}が手札から捨てられたとき効果発動！\nこのカードを墓地から特殊召喚します！,When {使用カード} is discarded from my hand; its effect activates! I Special Summon it from the graveyard!
-手札から捨てられたとき{使用カード}の効果発動！\nこのカードを墓地から特殊召喚します！,When discarded from hand; {使用カード}'s effect activates! I Special Summon it from the graveyard!
+{使用カード}が手札から捨てられたとき効果発動！\nこのカードを墓地から特殊召喚します！,When {使用カード} is discarded from my hand; its effect activates! I special summon it from the graveyard!
+手札から捨てられたとき{使用カード}の効果発動！\nこのカードを墓地から特殊召喚します！,When discarded from hand; {使用カード}'s effect activates! I special summon it from the graveyard!
 手札から水属性カードを捨てたとき、{使用カード}の効果発動！\nすべての相手キャラクターの攻撃力を100ポイントダウン！,Whenever I discard a Water Attribute card from my hand; {使用カード}'s effect activates! It decreases all the attack power of all opponents by 100 points!
 １ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンさせます！\nさらにこのカード以下の攻撃力の相手をおっぱいに弱くしちゃいます！,Once per turn; I can activate {使用カード}'s effect! It decreases the attack power of all opponents by 200 points! Additionally; I make opponents with attack power equal to or less than this card's weak to breasts!
 １ターンに１度、{使用カード}の効果を発動！\nすべての相手キャラクターの攻撃力を200ポイントダウンです！\nさらにこのカード以下の攻撃力の相手をおっぱいに弱くしちゃいます！,Once per turn; I can activate {使用カード}'s effect! It decreases the attack power of all opponents by 200 points! Additionally; I make opponents with attack power equal to or less than this card's weak to breasts!
