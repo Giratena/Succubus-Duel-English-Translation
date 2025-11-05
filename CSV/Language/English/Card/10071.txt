@@ -3,9 +3,9 @@ default
 EU71_paizuriAnime,
 EU71_bustShakeAnime,
 　生意気キャロルがサキュバス化した姿。もともと大きかった胸はさらに二回りほど大きくなり、その圧倒的な質量は暴力的なほどの快楽を生み出す。胸をわざとらしく揺らすだけで相手をすぐに前かがみにさせることができ、動きが鈍ったところを胸で捕まえてしまえば、顔や性器を挟まれ男はなすすべもなくエナジーを漏らすことになるだろう。,
-[1].１ターンに１度発動できる。相手フィールド上のすべての「おっぱいに弱い」状態のモンスターに「見惚れ」（この状態のモンスターはプレイヤーへの攻撃を防げない）状態を付与する。すでに「見惚れ」状態の場合、「魅了」状態を付与する。,
-[2].1ターンに１度、相手がモンスターを場に出したとき発動できる。そのモンスターに「おっぱいに弱い」を付与する。,
-(戦闘時に弱点を付与する。このカードは「おっぱいに弱い」相手から受ける戦闘ダメージが半分になる。),
+[1].１ターンに１度発動できる。相手フィールド上のすべての「おっぱいに弱い」状態のモンスターに「見惚れ」（この状態のモンスターはプレイヤーへの攻撃を防げない）状態を付与する。すでに「見惚れ」状態の場合、「魅了」状態を付与する。\n[2].1ターンに１度、相手がモンスターを場に出したとき発動できる。そのモンスターに「おっぱいに弱い」を付与する。,[1]. Once per turn; you can activate this effect. Apply the “Mesmerized” effect to all monsters on your opponent's field that are in the “Weak to Breasts” condition. Monsters already in the “Mesmerized” condition instead gain the "Charm" effect. [2]. Once per turn; you can activate this effect when your opponent summons a monster. Apply the “Weak to Breasts” condition to that monster.
+戦闘時に弱点を付与する。,Inflicts a weakness during combat.
+このカードは「おっぱいに弱い」相手から受ける戦闘ダメージが半分になる。,This card halves the combat damage you take from opponents who are weak to breasts.
 あはん❤おっぱいマゾども～❤見てぇ❤\n超爆乳で、前かがみ❤\n深すぎる谷間見せつけながら～、ゆさゆさゆさぁ❤,
 両手でむにゅうっておっぱい持ち上げてぇ❤\nほらぁ、おっぱいマゾども、目そらしてみろよぉ❤\n今からこのおっぱい、どぷんって落としちゃうよ～❤,
 あは、おっぱいばっかり見てるのバレバレなんですけどー❤\nエアパイズリで脳みそバカにしたげるよ、うりうり～❤,

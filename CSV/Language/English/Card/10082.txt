@@ -1,11 +1,10 @@
-default
-蠱惑のマーメイド,Enchanting Mermaid
+default,
+蠱惑のマーメイド,Enchanting Mermaid,
 EU82_blowJob,
 Music,
-小さな体のマーメイド。あまり強い力は持っていないが、かわいらしい歌声は聞くものの庇護欲を刺激し、いつの間にか彼女のことを好きにされてしまう。理性の弱いものから敵に取り込まれてしまうので、同士討ちが発生しないよう味方の配置には注意が必要である。\n つやつやした髪をつかった責めと小さな口にめいっぱい頬張るフェラが得意。唇できゅっと締め付けながら頭を上下に振れば、たいていの男はイかせることができると思っている。実際、その唇と舌の使い方は巧みで、必死に射精をこらえなければすぐ彼女にエナジーを吐き出すことになるだろう。,A petite mermaid with a small body. While lacking in strength; her adorable singing voice stimulates the protective instincts of those who hear it; making them fall for her before they can realize what's happening. Those with weak wills turn against their own allies to keep her safe; so carefull deployment is a neccesity in order to prevent infighting.\nShe specializes in teasing men with her lustrous hair as well as taking as much of her opponent's penis into her tiny mouth as she can during fellatio. She believes that by tightening her lips and bobbing her head up and down; she can bring any man to climax. In fact; her skill with her mouth and tongue is so great that unless her opponent resists with everything he has; he'll end up releasing his energy between her lips immediately.
-[1].１ターンに１度、相手モンスター１体を選択して発動できる。そのモンスターの攻撃力を200ポイントダウンさせる。その後相手の攻撃力が100以下である場合、そのカードのコントロールを得てその攻撃力を800ポイントアップする。,[1]. Once per turn; reduce the attack power of a target monster on your opponent's field by 200. If this ability drops a monster's attack to 100 or less; gain control of that card and increase its attack power by 800.
-[2].このカードが手札から捨てられたとき発動する。このカードを墓地から特殊召喚する。,[2]. When this card is discarded from your hand; special summon it from the graveyard.
-[3].自分が手札から水属性カードを捨てたとき発動する。すべての相手キャラクターの攻撃力を100ポイントダウンさせる。,[3]. Discard a Water attribute card from your hand and reduce all opponent characters' attack power by 100 points.
+小さな体のマーメイド。あまり強い力は持っていないが、かわいらしい歌声は聞くものの庇護欲を刺激し、いつの間にか彼女のことを好きにされてしまう。理性の弱いものから敵に取り込まれてしまうので、同士討ちが発生しないよう味方の配置には注意が必要である。\n つやつやした髪をつかった責めと小さな口にめいっぱい頬張るフェラが得意。唇できゅっと締め付けながら頭を上下に振れば、たいていの男はイかせることができると思っている。実際、その唇と舌の使い方は巧みで、必死に射精をこらえなければすぐ彼女にエナジーを吐き出すことになるだろう。,A petite mermaid with a small body. While lacking in strength; her adorable singing voice stimulates the protective instincts of those who hear it; making them fall for her before they can realize what's happening. Those with weak wills turn against their own allies to keep her safe; so carefull deployment is a neccesity in order to prevent infighting.She specializes in teasing men with her lustrous hair as well as taking as much of her opponent's penis into her tiny mouth as she can during fellatio. She believes that by tightening her lips and bobbing her head up and down; she can bring any man to climax. In fact; her skill with her mouth and tongue is so great that unless her opponent resists with everything he has; he'll end up releasing his energy between her lips immediately.,
+[1].１ターンに１度、相手モンスター１体を選択して発動できる。そのモンスターの攻撃力を200ポイントダウンさせる。その後相手の攻撃力が100以下である場合、そのカードのコントロールを得てその攻撃力を800ポイントアップする。\n[2].このカードが手札から捨てられたとき発動する。このカードを墓地から特殊召喚する。,[1]. Once per turn; reduce the attack power of a target monster on your opponent's field by 200. If this ability drops a monster's attack to 100 or less; gain control of that card and increase its attack power by 800.\n[2]. When this card is discarded from your hand; special summon it from the graveyard.
+[3].自分が手札から水属性カードを捨てたとき発動する。すべての相手キャラクターの攻撃力を100ポイントダウンさせる。,[3]. Discard a Water attribute card from your hand and reduce all opponent characters' attack power by 100 points.,
 わたしの歌を聞いて、メロメロになってほしいな❤\nら～♪ら～♪,Listen to my song and fall head-over-heels for me!❤ La~♪ La~♪
 あは❤わたしの仲間になってくれるの？\nでも残念、こっちの場所はいっぱいみたい❤,Aha~❤ You wanna join my team; huh? Too bad; looks like there's no room~❤
 だから、代わりにオナニーして、わたしにエナジーちょうだい❤\nそうそう、じょうずだねー❤,So hey; why not just masturbate and give me your energy instead?❤ That's it; you're so good this~❤
@@ -73,7 +72,7 @@ Music,
 あれあれー❤もしかしてきみもオナニーしたいの？\n必死になっておちんちんいじってる～。\nくすくす❤,Oh my~❤ Do you want to masturbate; too? You're rubbing your penis so desperately! *Giggle*❤
 ねーねー、きみもさっきの人みたいに、\nわたしにシコシコって言ってほしいのかなー。\nんふふ、こくこくってうなずいちゃって、すなおー❤,Hey hey; do you want me to tell you to stroke yourself; like I did for that last guy? Mmfufu; you're actually nodding! You're being so honest~❤
 耳元にわたしの口を近づけて・・・❤\nほら、ささやきサービスだよ・・・❤,I'll bring my lips close to your ear then...❤ Here; listen to my sweet whispers...❤
-声に合わせてしこしこ、気持ちいいねー…❤\n男の子はわたしの声だいすきなんだよね…❤\nしこしこって言われるたび、頭のなかふわぁってなっちゃう…❤,Stroking in time with my voice feels good; doesn't it?❤ Boys like you just love my voice~❤ Every time I say "stroke;" your head goes all fuzzy...❤
+声に合わせてしこしこ、気持ちいいねー…❤\n男の子はわたしの声だいすきなんだよね…❤\nしこしこって言われるたび、頭のなかふわぁってなっちゃう…❤,"Stroking in time with my voice feels good; doesn't it?❤ Boys like you just love my voice~❤ Every time I say ""stroke;"" your head goes all fuzzy...❤"
 お顔も力が入らなくなって、とろとろ❤ふにゃふにゃ❤\nわたしのこと好きってこと以外、なにも考えられないね…❤\nかわいいから、しこしこ少し早くしてあげる❤,Your face is starting to relax.❤ Getting all loose~❤ You can't think of anything except how much you like me; can you?❤ You're so cute! Here; I'll speed up the stroking a little~❤
 言うとおりに動かすんだよ❤\nしこしこしこ♪、しこしこしこ♪\nイキそうになっても手を止めちゃダメ。しこしこしこ～❤,Stroke yourself in time to my words.❤ Stroke stroke stroke~♪; Stroke stroke stroke~♪ Don't you dare stop your hand; even if you're about to cum. Stroke stroke stroke~❤
 もう出ちゃうの？\nみんな早いんだね❤\nくすくす❤,Cumming already? You're all so quick~❤ *Giggle*❤
@@ -93,7 +92,7 @@ Music,
 しこしこ❤しこしこ❤\n髪の毛しゅりしゅり当たって気持ちいい？,I'll stroke you with my silky smooth hair~❤ Stroke stroke stroke~❤ Does my hair feel nice brushing against you like this?
 あうっ…あうっ❤これ刺激が意外とつよくてっ…❤❤,Ahh... Ahhh...❤ It's more stimulating than I expected...❤❤
 でしょでしょ❤\n普通の手コキだとぷにぷにおてての感触だけど、\nいまはすべすべ髪の毛に包まれてるから、まさつが強いの❤,It is; isn't it?❤ A normal handjob just gives you the soft feeling of my fingers; but right now my silky hair's wrapped around you; so the friction is so much stronger!❤
-たまにほぐれた髪の毛が、\n亀さんの出っぱりにこすれたりして、\nそれがとっても気持ちいいんだ～❤,Whenever the loose strands of my hair rub against the head of your penis; it feels really; really good~❤
+たまにほぐれた髪の毛が、\n亀さんの出っぱりにこすれたりして、\nそれがとっても気持ちいいんだ～❤,Sometimes loose strands of hair rub against the head of your penis; and that feels really; really good~❤
 よかったねー。力を抜いてわたしにとどめを刺すのをやめて。\nそのおかげで、こんなに気持ちよくなれてるんだよ❤\nくすくす❤,You're so happy; right? You let your guard down and didn't finish me off. Thanks to that; you get to feel this good now~❤ *Giggle*❤
 ほら、もうすぐ出しちゃうね。\nわたしに勝てそうだったのに、\nおちんちん髪にくるくる巻きにされただけで、逆転負けしちゃうね❤,See? You're gonna cum soon; aren't you? You could have defeated me; but just wrapping your penis in my hair has totally turned the tables!❤
 負けちゃうのは悔しい？\nでもおちんちん気持ちよくなりたくて、\n何もできなくなっちゃったんでしょ？,Are you feeling frustrated about losing? But your penis wanted to feel good so badly you couldn't do anything; right?
@@ -136,13 +135,13 @@ Music,
 {自分}は勝った喜びでぴょんぴょんと跳ねて観客席に手を振っている。チアガールの女の子たちも大きな声で勝利のダンスを踊り、大盛り上がりだ。,{自分} waved to the audience; bouncing with excitement from her victory. Her cheerleaders joined in; performing a victory dance and cheering loudly; creating a large celebration in the stands.
 {主人公}・・・。,{主人公}...
 ううっ・・・。,Uhh...
-師匠と受付さんは、心配そうに観客席から僕の方を見ている。ううっ、せっかく応援に来てくれたのに、負けてしまうなんて・・・。,My master and the receptionist looked at me from their seats in the audience with concern in their eyes.. Ugh; they came all this way to cheer me on; but in the end, all I could do was lose...
+師匠と受付さんは、心配そうに観客席から僕の方を見ている。ううっ、せっかく応援に来てくれたのに、負けてしまうなんて・・・。,My master and the receptionist looked at me from their seats in the audience with concern in their eyes.. Ugh; they came all this way to cheer me on; but in the end  all I could do was lose…
 だめだ、せめてこのモンスターだけでも倒してみせないと・・・。,Not... Not like this. I have to at least defeat this one monster...
 あら、まだ立とうとする気力があるんですね。,Oh my; you still have enough spirit in you to try to get back up; do you?
 徹底的にここで嬲ってあげてもいいんですが、\nあんまりそういうことする子だって、\n周りに思われたくないので・・・。,While I could torment you relentlessly right here and now; I don't want people around to think I'm that kind of girl...
-{自分}、「眠りの歌」を歌ってあげて。,{自分}; sing him your "lullaby."
+{自分}、「眠りの歌」を歌ってあげて。,"{自分}; sing him your ""lullaby."""
 はーい。それじゃ、耳の近くで歌っちゃうね❤,Okay. In that case; I'll sing my song right into your ear; okay?❤
-マスターが「眠りの歌」って言うときは、\nただの眠りの歌じゃなくて、\nほんとは「催眠の歌」なの。,You know; my master called it a "lullaby;" but that's not quite right. It's really a "hypnotic song."
+マスターが「眠りの歌」って言うときは、\nただの眠りの歌じゃなくて、\nほんとは「催眠の歌」なの。,"You know; my master called it a ""lullaby;"" but that's not quite right. It's really a ""hypnotic song."""
 なんのことか今は分からないと思うけれど、\nあとですぐに分かるよ。くすくす❤,You might not understand what that means right now; but you'll know soon enough. *Giggle*❤
 やめ、離れて・・・。,N-no. Get away...
 ダメ。離れない❤\nほら、わたしの歌を聞いて？\nら～♪ら～♪,I'm not going anwhere.❤ So just relax and listen to my song; okay? La~♪ La~♪
@@ -215,23 +214,23 @@ Music,
 ううっ・・・❤❤やめて、その声でばかにしないで・・・❤,Nngh...❤❤ Stop... D-don't mock me with that voice...❤
 くすくす❤おちんちん喜びすぎじゃないですか？\nマゾとかザコって言われるたびに\n釣竿みたいに跳ねてますよ❤,*Giggle*❤ Isn't your penis getting a little too excited? Every time I call you a masochist or weakling; it bounces like a fishing rod!❤
 早くまた、\n人魚ちゃんにパクッて食べてほしいのかもしれないですけど、\nそれはいったんおあずけです❤,You probably want my mermaid to gobble you up again; but that'll have to wait~❤
-先に二回目の「眠りの歌」から❤\nほら、人魚ちゃん、お願いしますね。,First; another "lullaby."❤ Go on; mermaid. Sing for him; alright?
+先に二回目の「眠りの歌」から❤\nほら、人魚ちゃん、お願いしますね。,"First; another ""lullaby.""❤ Go on; mermaid. Sing for him; alright?"
 はーい❤\nまた{主人公}くんのお耳を借りちゃうね。\nる～♪る～♪る～♪,I'd be happy to~!❤ I'll just borrow your ear again; {主人公}. La~♪ La~♪ La~♪
 あう・・・・❤ああ・・・・。,Ahh...❤ Ahhh...
 {自分}が僕の耳に甘い歌声を流し込んでくる。僕の意識は一瞬で桃色に染まり、また何も考えられなくなる。,As {自分} pours her sweet singing voice into my ear once more; my mind floods in a pink haze; leaving me unable to focus yet again.
 くすくす❤あっという間にお目目がとろーん❤\nこの催眠は、射精した直後じゃないと深くはかからないんですよ。,*Giggle*❤ Your eyes glazed over so quickly!❤ My hypnosis only works this deeply right after ejaculation.
 おちんちんいじめられて、ぽんぽん射精しちゃうような、\nちょろーい男の子じゃないと、\nあんまり意味のない技なんです。,It's a pretty useless skill unless it's used on weak little boys who cum easily from just having their penis teased.
 さっきは「場所」の暗示をかけてあげました。\n次は、こうしましょうか・・・❤,Earlier I gave you a suggestion to come to my room. Next; let's try this...❤
-「あなたはわたしたちの声が気持ちいい…❤」\n「あなたはわたしたちの声で射精させられてしまう…❤」,"Our voices make you feel soo good...❤" "Just hearing them will make you cum...❤"
+「あなたはわたしたちの声が気持ちいい…❤」\n「あなたはわたしたちの声で射精させられてしまう…❤」,"Our voices make you feel soo good...❤"" ""Just hearing them will make you cum...❤"
 あう、あううっ・・・❤❤,Ahh; ahhh...❤❤
 ほら、お耳がどんどん蕩けてきた…❤\nわたしたちの声気持ちいいですもんね❤,That's it; your ears are melting more and more...❤ Our voices feel so good; don't they?❤
-「あなたはわたしたちの声が好き❤」\n「わたしたちの声がないと射精できない…❤」,"You love our voices~❤" "You can't cum without our voices...❤"
-「あなたはわたしたちに、イケと言われたら、射精してしまう…❤」\nくすくす❤この暗示を入れるのは少しかわいそうかも❤,"When we tell you to; you'll cum immediatily...❤" *Giggle*❤ It might actually be a little cruel to implant a suggestion like that~❤
+「あなたはわたしたちの声が好き❤」\n「わたしたちの声がないと射精できない…❤」,"You love our voices~❤"" ""You can't cum without our voices...❤"
+「あなたはわたしたちに、イケと言われたら、射精してしまう…❤」\nくすくす❤この暗示を入れるのは少しかわいそうかも❤,"""When we tell you to; you'll cum immediatily...❤"" *Giggle*❤ It might actually be a little cruel to implant a suggestion like that~❤"
 でも別にいいですよね。\n男の子なんてわたしたちの栄養になるぐらいの価値しかないですから❤\nね？よわーい、ルーキーさん❤ほら、指をパチン♪,But that's okay; right? Boys are only good for giving girls like us nutrients anyways~❤ Isn't that right; weak little rookie?❤ And now... Snap! ♪
 はう、ううっ、また・・・。なにが・・・。,Hah; mmph; it happened again... What... What's going...
 ねーねー、マスター、\nさっきの暗示、わたしがやってみてもいい？,Hey hey; Master; can I try out that suggestion now?
 んふふ❤{主人公}くん❤\nわたしの声をよーく聞いてね…❤\nお耳のそばで…❤,Ufufu~❤ Hey; {主人公}~❤ Listen carefully to my voice...❤ I'll whisper this in your ear...❤
-「イ・ケ❤」,"C-U-M~"❤
+「イ・ケ❤」,"""C-U-M~""❤"
 あひっ、、あっ、ああっ❤❤なんでっ❤❤❤,Ahii; ahh; ahhh!❤❤ W-why am I...!❤❤❤
 {自分}にささやかれた途端、全身を途方もない恍惚感が襲った。耳から言葉が入り、そのまま脳が快感で真っ白に染まってしまう。,The moment {自分} whispered that word in my ear; tremendous ecstasy assaulted my entire body. The word echoed through my ears; dying my brain in pure white pleasure.
 あぐぅっ、あへぇあ、きもちいいぃ❤❤,Aghhh; ahhh; i-it feels so good!❤❤
@@ -244,21 +243,21 @@ Music,
 ぷぷっ、男の子をおもちゃにするのはいつ見てもおもしろいです❤,Pupu; toying with boys is always so much fun to watch~❤
 ほら、あなたが今まで受けた中で\n一番気持ちいい射精をさせてあげます❤,Here; I'll give you the most pleasant orgasm you've ever had~❤
 わたしと{自分}で左右からサンドイッチして・・・❤,{自分} and I will squeeze close to you on either side of you...❤
-両耳同時に、\n「イケ❤」「イケ❤」マーゾ❤,And then; together; we'll both whisper... "Cum!❤" "Cum!❤" You masochist!❤
-「イケ❤」ま～ぞ❤\n「イケ❤」「イケ❤」きゃはは❤,"Cum!❤" Ma~sochist!❤ "Cum!❤" "Cum!❤" Kyahaha!❤
+両耳同時に、\n「イケ❤」「イケ❤」マーゾ❤,"And then; together; we'll both whisper... ""Cum!❤"" ""Cum!❤"" You masochist!❤"
+「イケ❤」ま～ぞ❤\n「イケ❤」「イケ❤」きゃはは❤,"""Cum!❤"" Ma~sochist!❤ ""Cum!❤"" ""Cum!❤"" Kyahaha!❤"
 あっ、あああああっ❤❤❤,Ahh; ahhhhhh!❤❤❤
-くす❤お射精びゅーびゅー止まらないですね❤\n「イケ❤」「イケ❤」って言われるたび、びゅくびゅくっておもらし❤\n我慢できるならしていいんですよ？,*Giggle*❤ Your penis just won't stop spurting!❤ Every time we say "Cum!❤" "Cum!❤"; you shoot out so much!❤ You should at least try to hold back; you know.
-言うだけで射精しちゃうの、おもしろーい❤\n「イケ❤」「イーケ❤」\nきゃはは、うずくまりながら、びくんびくんって何回も出してる～❤,The way that one word makes you finish in an instant is so funny!❤ "Cum!❤" "Cu-u-um!❤" Kyahaha; you're doubled over; twitching and cumming again and again!❤
+くす❤お射精びゅーびゅー止まらないですね❤\n「イケ❤」「イケ❤」って言われるたび、びゅくびゅくっておもらし❤\n我慢できるならしていいんですよ？,"*Giggle*❤ Your penis just won't stop spurting!❤ Every time we say ""Cum!❤"" ""Cum!❤""; you shoot out so much!❤ You should at least try to hold back; you know."
+言うだけで射精しちゃうの、おもしろーい❤\n「イケ❤」「イーケ❤」\nきゃはは、うずくまりながら、びくんびくんって何回も出してる～❤,"The way that one word makes you finish in an instant is so funny!❤ ""Cum!❤"" ""Cu-u-um!❤"" Kyahaha; you're doubled over; twitching and cumming again and again!❤"
 くす❤これで打ち止めでしょうか。\nんふふ❤ほんとかなりおいしい精液ですね❤\nすごい魔力の濃度です❤,*Giggle*❤ I guess that's the end. Ufufu~❤ This semen really is tasty; though!❤ So much yummy magical power~❤
-それじゃあ、もう一回催眠をかけて…❤\nわたしたちの永続的な奴隷にしちゃいましょう❤\nキーワードは「朝」とかにしておきましょうか。,Now; let's just hypnotize you one more time...❤ We'll turn you into our permanent slave~❤ How about we make the keyword "morning" or something?
+それじゃあ、もう一回催眠をかけて…❤\nわたしたちの永続的な奴隷にしちゃいましょう❤\nキーワードは「朝」とかにしておきましょうか。,"Now; let's just hypnotize you one more time...❤ We'll turn you into our permanent slave~❤ How about we make the keyword ""morning"" or something?"
 体がぴくりとも動かなくなるまで射精させられ、僕は気絶してしまった。気絶して動けなくなった僕は、スタッフに発見され、あとで闘技場の医務室に運ばれたらしい。,After being made to ejaculate until my body couldn't move anymore; I blacked out. Unconscious and unresponsive ; I was discovered by staff and carried to the arena's medical room.
 それからというもの、僕の体は完全におかしくなってしまった。,From that day on; there was something seriously wrong with my body.
 なにをしても、彼女たちに囁かれたときよりも気持ちよくなることはできず、射精すらできない。,No matter what I did; nothing could feel better than when those two had whispered in my ears; and I couldn't ejaculate no matter how hard I tried.
 四六時中彼女たちのことが頭に思い浮かんで集中できず、カードを使う魔力も十分に練れなくなってしまった。,I thought about them constantly and couldn't concentrate on anything else. I couldn't even channel my magical power into my cards well enough to use them anymore.
 師匠たちは僕のことを心配してくれたが、師匠たちを裏切って彼女たちに気持ちよくされていた引け目もあり、僕は自分の状況を言い出すことはできなかった。,My master worried about me; but with the guilt of having betrayed them by letting those girls play with me like that; I couldn't bring myself to explain my situation.
-ううっ・・・・。会わなきゃ・・・。\n「朝」だから・・・。そう、行かないと・・・。,Mmph... I have to meet them... It's "morning"... I... I have to go...
+ううっ・・・・。会わなきゃ・・・。\n「朝」だから・・・。そう、行かないと・・・。,"Mmph... I have to meet them... It's ""morning""... I... I have to go..."
 試合の後から数日して、不意に僕は記憶を失うことが増えた。ギルドや闘技場にいたはずなのに、ふと気が付くと、僕は知らない部屋の中にいた。そこにはメロディが{自分}を召喚して待ち構えている。,Several days have passed since that match; I seem to be losing more and more of my memory. When I should have been at the guild or arena; everything would just go black. When I came to my senses; I found myself in an unfamiliar room. There; Melody was waiting with {自分} already summoned.
-夢なのか現実なのかも分からない空間で、僕は彼女たちに魔力を搾り取られた。くすくす笑われながら、「イケ」と命令されただけで射精し・・・。,In that place; trapped somewhere between dream and reality; my magical power was drained by those two. I was forced to climax at just the command to "cum;" my attackers giggling at me the entire time...
+夢なのか現実なのかも分からない空間で、僕は彼女たちに魔力を搾り取られた。くすくす笑われながら、「イケ」と命令されただけで射精し・・・。,"In that place; trapped somewhere between dream and reality; my magical power was drained by those two. I was forced to climax at just the command to ""cum;"" my attackers giggling at me the entire time..."
 射精したあとのペニスを{自分}になめとられ、僕がカラカラになるまで、なんども、なんども精液を飲み干された。,After each ejaculation; my penis would be licked clean by {自分}; my semen drank over and over until I was completely drained.
 極楽のような、そんな時間。だがいつ終わったのかも認識できないまま、いつもいつの間にか僕は自分の部屋に戻っていた。,Each time was like heaven. But before I could even realize it was over; I somehow always found myself back in my own room.
 体はクタクタに疲れ、カード１枚すら召喚することもできない。あまりに彼女たちに夢中になって、僕はおかしくなってしまったのだろうか。いったい何が現実なのか、頭がぐちゃぐちゃになりそうな中、僕はそんな日は魔力の回復のため寝て過ごすほかなかった。,My body was completely exhausted; and I was unable to summon even a single card. Had my obsession with them driven me insane? On days like that; I had no choice but to sleep and recover my magical power; my head a mess as it tried to understand what was real.
@@ -266,5 +265,5 @@ Music,
 そう思っているはずなのに、頭の中に浮かぶのは彼女たちの鈴のように響く声と、可愛らしい容姿だけで・・・。,And while I knew that was where my thoughts should be; all that floated in my mind were the bell-like voices and cute appearances of those two girls...
 ああ、だめだ。明日の朝もまた、彼女たちに会いに行かないと・・・。,Ah; no good. Tomorrow morning I have to go meet them again...
 ・・・その後、数か月して、街で一人の男が廃人のようになっているのが発見された。やせこけすぎていて、はじめ彼が誰なのか街の人には分からなかったが、あとでその男があの無敗のルーキーだったと判明した。,... A few months later; a man would be discovered in the city; seeming broken and confused. He was so emaciated that the townspeople couldn't tell who he was at first; but they soon realized he was the once-undefeated rookie.
-彼のファンの人たちはその見た目の変わりように驚いたという。彼はうつろに「会わなきゃ、会わなきゃ」とだけ繰り返し、その場をふらふらと後にした。,His fans were said to have been shocked by how much his appearance had changed. All he managed to do was repeat the words "I have to meet them; I have to meet them;" vacantly before wandering away from the scene.
+彼のファンの人たちはその見た目の変わりように驚いたという。彼はうつろに「会わなきゃ、会わなきゃ」とだけ繰り返し、その場をふらふらと後にした。,"His fans were said to have been shocked by how much his appearance had changed. All he managed to do was repeat the words ""I have to meet them; I have to meet them;"" vacantly before wandering away from the scene."
 その後主人公の姿を見たものはいない。こうして、主人公の物語は、その幕を閉じたのだった。,No one saw our hero after that. And thus; his story came to its close.

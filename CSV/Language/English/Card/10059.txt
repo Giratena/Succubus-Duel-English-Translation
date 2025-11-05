@@ -3,12 +3,9 @@ default
 EU59_bustShowAnime,
 EU59_paizuriAnime,
 EU59_paizuriAuraAnime,
-　相手を魅了し、弱体化させることが得意な下級のサキュバス。魅了の呪いが込められたペンダントを、犬の首輪のように男にかけてくる。ペンダントを身に着けさせられた者は、首から上に常に快感が送られ、目の前にいるサキュバスたちの姿が通常よりもさらに美しく見えるようになり、抗うことができなくなってしまうのだという。,
-\n　サキュバスであるため、当然さまざまな性技も人間よりはるかにうまく、魅了された状態で彼女の愛撫を受ければ、男はたちどころに彼女にエナジーを献上してしまうだろう。,[1].このカードが場に出たとき発動する。デッキから「チャームペンダント」を１枚手札に加える。,
-[2].1ターンに１度、相手フィールド上の「魅了」状態のキャラクターを選択して発動できる。そのキャラクターに「早漏化」を付与する。,
-[3].相手の「魅了」状態のモンスターが破壊されたとき発動する。カードを1枚ドローする。,
-[4].このカードが存在する限り、相手は「魅了」状態のモンスターを上級召喚のコストにすることはできない。,
-(戦闘時に弱点を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。),
+[1].このカードが場に出たとき発動する。デッキから「チャームペンダント」を１枚手札に加える。\n[2].1ターンに１度、相手フィールド上の「魅了」状態のキャラクターを選択して発動できる。そのキャラクターに「早漏化」を付与する。\n[3].相手の「魅了」状態のモンスターが破壊されたとき発動する。カードを1枚ドローする。,[1].When this card is put onto the field; you can activate this effect. Add 1 "{%%60023}" from your Deck to your hand. \n[2].Once per turn; you can activate this effect by selecting a character on your opponent's field that is in the "Charm" state. Apply (Premature Ejaculation) to that character. \n[3].When an opponent's monster in the “Charm” state is destroyed; you can activate this effect. Draw 1 card.
+[4].このカードが存在する限り、相手は「魅了」状態のモンスターを上級召喚のコストにすることはできない。,[4].As long as this card is in play; your opponent cannot use monsters in the "Charm" state as costs for higher level Summons.
+戦闘時に弱点を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。,Inflicts a weakness during combat. If the target's current HP is 2 times or less than your attack power while under the effect of “Premature Ejaculation” it will attempt to seduce them into masturbation.
 魅了されて魔力抵抗が弱ってるあなたに、\n素敵な呪いをかけてあげる❤,
 あなたのおちんちんが弱くなって、\nすぐにイっちゃうようになる呪いよ❤\nほら、指先からハートを飛ばして・・・♪,
 わたしからもあなたにプレゼント❤,

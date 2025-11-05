@@ -2,9 +2,8 @@ default
 死を振りまくもの,Death Sprite
 EU56_handJobAnime,
 闇属性の妖精のモンスター。妖精だが大きさは普通の人間と変わらない。死者を現世へ導き、生者を冥界へ導く。混乱した状況が好きであり、世の中を混沌とさせて楽しむために死者と生者を本来の居場所と違う場所へ導いている。甘い声でからかいながら快楽を与えてくるが、ふらふらと誘われるまま彼女についていくと死の世界に連れていかれてしまう。,
-[1].このカードが場に出たとき発動する。「ゾンビ」状態でないランダムな相手キャラクターに「ゾンビ」状態を付与する。,
-[2].自分の闇属性キャラクターが相手モンスターを破壊したとき発動する。デッキから「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」を１枚手札に加える。,
-[3].このカードが破壊され墓地へ送られたとき、手札に「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」がいる場合に発動する。手札の「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」を可能な限り自分フィールド上に特殊召喚する。,
+[1].このカードが場に出たとき発動する。「ゾンビ」状態でないランダムな相手キャラクターに「ゾンビ」状態を付与する。\n[2].自分の闇属性キャラクターが相手モンスターを破壊したとき発動する。デッキから「{%%10053}」を１枚手札に加える。,[1]. When this card enters the field; activate this effect. Apply the "Zombie" status to a random opponent's character that is not in the "Zombie" status. \n[2]. When your Dark attribute character destroys an opponent's monster; activate this effect. Add one {%%10053} from your deck to your hand.
+[3].このカードが破壊され墓地へ送られたとき、手札に「{%%10053}」がいる場合に発動する。手札の「{%%10053}」を可能な限り自分フィールド上に特殊召喚する。,[3]. When this card is destroyed and sent to the Graveyard; activate this effect if you have {%%10053} in your hand. Special Summon as many copies of {%%10053} from your hand as possible to your field.,
 わたしのウイルス玉をくらえー❤,
 このもやもやには色んなウイルスが入ってるんだよ。\n死につながる病気とかもあるけど、\n今はゾンビになっちゃうやつをプレゼントしてあげる❤,
 飲みにくい薬を飲ませるときみたいに、\nわたしの甘い香りがブレンドしてあるから、\n勝手に吸い込んじゃうよねー❤くすくす❤,

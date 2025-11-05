@@ -4,9 +4,8 @@ EU72_paizuriAnime,
 EU72_bustShakeAnime,
 EU72_bustShowShakeAnime,
 エルルが使用していたカード「シャドー」がサキュバス化した姿。元々女の子だったが、サキュバス化によって魅力的な体を手に入れ、色気がそなわった。影の姿をしていたときは誰も女の子扱いをしてくれないのを気にしていたので、サキュバス化したことを小躍りして喜んでいる。\n胸が豊かに育ち、その感触は極上の一言。エルルやキャロルの動きを見ていたので、パイズリや手コキなども上手にこなす。うかつに挟まれてしまえば、蕩けるような快楽で動けなくなり、そのまま深い影の中にひきずり込まれてしまうだろう。,
-[1].このカードが場に出たとき発動する。ランダムな自分フィールド上の闇属性モンスターの攻撃力を300ポイントアップし、そのモンスターに「隠密(4ターン)」を付与する。,
-[2].このカードが破壊され墓地へ送られたとき発動する。デッキからトラップカードをランダムに１枚手札に加える。,
-[3].手札にこのカードが存在する場合、自分の墓地からトラップカードを2枚取り除いて発動できる。このカードを手札から特殊召喚する。,
+[1].このカードが場に出たとき発動する。ランダムな自分フィールド上の闇属性モンスターの攻撃力を300ポイントアップし、そのモンスターに「隠密(4ターン)」を付与する。\n[2].このカードが破壊され墓地へ送られたとき発動する。デッキからトラップカードをランダムに１枚手札に加える。,[1]. Activate when this card is put on the field. Increase the ATK of a random Dark-Attribute monster on your side of the field by 300 points and give that monster “Stealth (4 turns)”. \n[2]. Activate when this card is destroyed and sent to the Graveyard. Add 1 Trap Card from your Deck to your hand at random.
+[3].手札にこのカードが存在する場合、自分の墓地からトラップカードを2枚取り除いて発動できる。このカードを手札から特殊召喚する。,[3]. If this card is in your hand; you can remove 2 Trap Cards from your Graveyard to activate this effect. Special Summon this card from your hand.
 ボクのこと覚えてる？\nちんちくりんな影のモンスターだったのに、\nサキュバス化したらこんなエッチな体もらっちゃった❤,
 うわぁー、見てみて♪\nボク、ちんちくりんな影のモンスターだったのに、\nサキュバス化したらこんなエッチな体もらっちゃった❤,
 ほらぁ、おっぱいもすごいでしょぉ❤\nかなりおっきくて、それを服でぎゅって締め付けてるからぁ、\n谷間の乳圧もすごいんだよぉ❤,

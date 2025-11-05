@@ -3,13 +3,9 @@ default
 EU57_paizuriAnime,
 EU57_bustShakeAnime,
 EU57_footShakeAnime,
-　道化の姿をしたモンスター。つかみどころのない態度であちこち動き回り、気が付けばこちらのそばにいてふところに潜り込んでいる。,
-\nどこか憎めない愛嬌のある様子に油断すれば、その時点で彼女の手の平の上であり、主人であるはずのものがかえって召使いに操られ、いつの間にか言われるがまま精も何もかも彼女に搾り取られてしまっているだろう。,
-\n　道化として数々の「芸」を身に着けている彼女は、手コキも足コキもパイズリも得意である。ご主人の好みに合わせて、胸での奉仕を望まれれば弾力たっぷりの胸で愛撫し、足での奉仕を望まれれば絶妙な力加減でぐりぐりと踏みしごいてくれる。のちのことを考えないのであれば、頭を空っぽにし彼女に楽しませてもらうことはとても幸福なことかもしれない。,[1].このカードは「隠密」「弱点付与」を持つ。,
-[2].このカードが通常召喚に成功したとき、LPを800払って発動する。相手フィールド上の最もレベルが低いモンスター（このカードと同名のカードは除く）とこのカードのコントロールを入れ替える。その後、そのモンスターに「攻撃不能（1ターン）」を付与する。,
-[3].このカードのコントローラーが元々の持ち主と違う場合、このカードは相手キャラクターに攻撃できず、自分キャラクターに対してのみ攻撃できる。このときこのカードは反撃されない。,
-[4].このカードのコントローラーが元々の持ち主と違う場合、自分ターン終了時に発動する。相手はカードを１枚ドローする。,
-(戦闘時に弱点を付与する。),
+[1].このカードは「隠密」「弱点付与」を持つ。\n[2].このカードが通常召喚に成功したとき、LPを800払って発動する。相手フィールド上の最もレベルが低いモンスター（このカードと同名のカードは除く）とこのカードのコントロールを入れ替える。その後、そのモンスターに「攻撃不能（1ターン）」を付与する。\n[3].このカードのコントローラーが元々の持ち主と違う場合、このカードは相手キャラクターに攻撃できず、自分キャラクターに対してのみ攻撃できる。このときこのカードは反撃されない。特性：「潛行」「弱點賦予」。,[1].This card has Stealth and Weakness Assignment \n[2]. When this card successfully Normal Summons pay 800 LP to activate. Swap control between this card and the monster on your opponent's field with the lowest Level (excluding cards with the same name as this card). Then; inflict “Cannot Attack" (1 Turn) on that monster. If this card's controller is different from its original owner; this card cannot attack your opponent's character and can only attack your own character. In this case; this card cannot be counterattacked.
+[4].このカードのコントローラーが元々の持ち主と違う場合、自分ターン終了時に発動する。相手はカードを１枚ドローする。,[3].If this card's controller is different from its original owner; activate this effect at the end of your turn. Your opponent draws one card.
+戦闘時に弱点を付与する。,Inflicts a Weakness during battle.
 じゃじゃーん、道化めの登場です～❤\nではでは、いきますよ～、いち、にの、さーん❤,
 どうもどうも～。はじめまして主様ぁ❤\nわたくしは、これから主様にお仕えいたしますゆえー、\nよろしくお願いいたします～❤,
 向こうに行ったお仲間さまは、\nわたくしがちょっと、ごにょごにょいたしましたので、\nすっかり敵のマスターにメロメロですよぉ。こちらには戻りません❤,
