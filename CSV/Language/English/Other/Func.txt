@@ -95,4 +95,12 @@ HP8000/Atk1300,Limit to HP8000/Atk1300
 画像閲覧,Artwork
 ドロー,Draw
 閉じる,Close
+闘技場バトル回想\n(イベントあり),Recall Arena Battle\n(with events)
+闘技場バトル回想\n(イベント省略),Recall Arena Battle\n(without events)
+イベントバトル回想\n(イベントあり),Recall Event Battle\n(with events)
+イベントバトル回想\n(イベント省略),Recall Event Battle\n(without events)
+街バトル回想\n(イベントあり),Recall Town Battle\n(with events)
+街ババトル回想\n(イベント省略),Recall Town Battle\n(without events)
+クエストバトル回想\n(イベントあり),Recall Quest Battle\n(with events)
+クエストバトル回想\n(イベント省略),Recall Quest Battle\n(without events)
 
