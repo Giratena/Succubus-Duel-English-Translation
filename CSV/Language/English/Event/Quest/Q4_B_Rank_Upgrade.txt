@@ -38,12 +38,12 @@ Aランクを目指しなさいって言って、村から見送ったけれど�
 あのバカ、どうやら盗賊団に加入して手を貸しているみたい。\nお金がないって言ってたけど、\nまさかそんなことになっているなんて。,That idiot apparently joined a bandit group and is helping them out. They said they had no money; but I never imagined things would turn out like this.
 ・・・。盗賊団退治、わたしがついて行ってあげてもいいけど、\nあなたももうBランクよね。なら一人で任せた方がいいか。,...I could accompany you to subjugate the bandits; but you're B-rank now; right? So I should probably let you handle it alone.
 ・・・！,...!
-というわけで、盗賊団が活動している地域の情報をあげるから、\nあなた一人で行って、盗賊団を壊滅させてきなさい。\nそしてわたしの古い友人、「死霊術師のネクロ」を連れ戻してくるの。,"So here's the deal—I'll give you information about the region where the bandit group is active; and you'll go alone to wipe them out. Then bring back my old friend; ""Necro the Necromancer."""
+というわけで、盗賊団が活動している地域の情報をあげるから、\nあなた一人で行って、盗賊団を壊滅させてきなさい。\nそしてわたしの古い友人、「死霊術師のネクロ」を連れ戻してくるの。,So here's the deal—I'll give you information about the region where the bandit group is active; and you'll go alone to wipe them out. Then bring back my old friend; "Necro the Necromancer."
 盗賊団退治のクエストがギルドから出てたはずだし、\nギルドポイント稼ぎも兼ねて、いい修行になるわね。\nBランクでの初仕事、こなしてみせなさい！,There should be a bandit subjugation quest from the guild; so this'll be good training while also earning guild points. Show me you can handle your first job as a B-rank!
-師匠から、盗賊のいる地域や「死霊術師ネクロ」の見た目についての情報を教えてもらった。,"My master gave me information about the bandits' location and what ""Necro the Necromancer"" looks like."
+師匠から、盗賊のいる地域や「死霊術師ネクロ」の見た目についての情報を教えてもらった。,"My master gave me information about the bandits' location and what "Necro the Necromancer" looks like.
 ネクロは髪色が紫で身長が高めの女性であり、アンデッドカードを使うカードマスターだそうだ。師匠と同じぐらいの実力があったというからBランクぐらいはあると思った方がいいだろう。,Necro is a tall woman with purple hair and a card master who uses undead cards. Apparently she had skill comparable to my master's; so I should assume she's around B-rank level.
 相手がBランク相当となると気を引き締めてかからなくては！十分に準備をしてから盗賊退治に向かうことにしよう。,With an opponent at B-rank level; I need to be on guard! I'll make thorough preparations before heading out to subjugate the bandits.
-「盗賊退治」のクエストを受けられるようになった！,"The ""Bandit Subjugation"" quest is now available!"
+「盗賊退治」のクエストを受けられるようになった！,The quest; "Bandit Subjugation" is now available!
 Aランクに上がったら、侵攻作戦に参加…。\nううっ、応援したい気持ちと、\n参加せずに安全なところにいてほしい気持ち、両方あって複雑です。,Once you reach A-rank and join the invasion operation... Ugh; I have mixed feelings—wanting to cheer you on but also wanting you to stay somewhere safe.
 だから、わたし、応援することにします！\nBランクからAランクに上がれるよう頑張ってください！,So I've decided—I'm going to cheer you on! Do your best to rise from B-rank to A-rank!
 クエストも試合も今まで以上の強敵ぞろいだと思いますが\n{主人公}さんならきっと乗り越えられます！,I think your quests and matches will feature even tougher enemies from now on; but I'm sure you can overcome them; {主人公}!
