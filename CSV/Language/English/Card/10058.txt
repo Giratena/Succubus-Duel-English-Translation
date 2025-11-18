@@ -1,7 +1,7 @@
 default,
 ロリ巨乳サキュバス,Shortstack Succubus
 EU58_bustZoomAnime,
-[1].１ターンに１度、相手キャラクターを選択して発動できる。そのキャラクターに「おっぱいに弱い」を付与する。すでに「おっぱいに弱い」状態だった場合、「魅了」を付与する。すでに「魅了」状態だった場合、「早漏化」を付与する。,[1]. Once per turn; you can select an opponent's character to activate this effect. Apply “Weak to Breasts” to that character. If the character already has “Weak to Breasts” apply “Charm” instead. If the target is already Charmed; apply Premature Ejaculation.
+[1].１ターンに１度、相手キャラクターを選択して発動できる。そのキャラクターに「おっぱいに弱い」を付与する。すでに「おっぱいに弱い」状態だった場合、「魅了」を付与する。すでに「魅了」状態だった場合、「早漏化」を付与する。,[1]. Once per turn; you can select an opponent's monster to activate this effect. Apply “Weak to Breasts” to that monster. If the monster already has “Weak to Breasts” apply “Charm” instead. If the target monster is already Charmed; apply Premature Ejaculation.
 [2].このカードは「おっぱいに弱い」相手から戦闘・効果ダメージを受けない。,[2]. This card takes no combat or effect damage from opponents with “Weak to Breasts”. During combat; apply “Weak to Breasts”.
 戦闘時に「おっぱいに弱い」を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。,If an opponent with Premature Ejaculation has current HP equal to or less than twice your ATK; perform Masturbation Temptation.
 あはぁん、ほらぁ見てぇ❤,

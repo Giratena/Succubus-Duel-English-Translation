@@ -2,9 +2,9 @@ default,
 死神少女,Reaper Girl
 EU55_thighJobAnime,
 死の世界を司る上級モンスター。肉体を離れた魂は彼女のもとに強く惹き寄せられ、決して逃れることはできない。\n　現世に未練がある魂は冥界に行くことを拒むことがあるが、魂を彼女に愛撫されるとその快感はとてつもないもので、すぐに未練を考えることもできなくなり、恍惚のなか彼女に言われるがまま冥界にわたってしまうのだという。,She is a high ranking monster in charge of the underworld. Souls that have left their bodies are strongly drawn to her and can never escape.
-[1].１ターンに１度、LPを500払い相手フィールド上の「ゾンビ」状態のモンスター１体を選択して発動できる。そのモンスターに2000ポイントのダメージを与える。相手フィールド上にモンスターが存在しない場合、この効果は相手プレイヤーを対象に発動することもできる。\n[2].相手が墓地からモンスターを特殊召喚したとき発動する。そのモンスターに2000ポイントのダメージを与える。,"[1].Once per turn; pay 500 LP and select a ""Zombie"" monster on your opponent's field. Deal 2000 points of damage to that monster. If there is no monster on your opponent's field; this effect can also target an opposing player directly.\n[2]. Activate when your opponent Special Summons a monster from the Graveyard. Deal 2000 points of damage to that monster."
+[1].１ターンに１度、LPを500払い相手フィールド上の「ゾンビ」状態のモンスター１体を選択して発動できる。そのモンスターに2000ポイントのダメージを与える。相手フィールド上にモンスターが存在しない場合、この効果は相手プレイヤーを対象に発動することもできる。\n[2].相手が墓地からモンスターを特殊召喚したとき発動する。そのモンスターに2000ポイントのダメージを与える。,[1].Once per turn; pay 500 LP and select a "Zombie" monster on your opponent's field. Deal 2000 points of damage to that monster. If there is no monster on your opponent's field; this effect can also target an opposing player directly.\n[2]. Activate when your opponent Special Summons a monster from the Graveyard. Deal 2000 points of damage to that monster."
 [3].このカードが手札に存在し相手フィールド上にアンデッドタイプのモンスターが2体以上存在する場合、自分フィールド上のモンスター１体をコストにして発動できる。このカードを手札から特殊召喚する。,[3]. If this card is in your hand and there are 2 or more Undead-type monsters on your opponent's field; you can sacrifice 1 monster on your field and special Summon this card from your hand.
-(ふとももコキで弱点攻撃時に拘束攻撃を行う。),(A binding attack is performed at the time of a weak attack with a futomokjoki.)
+(ふとももコキで弱点攻撃時に拘束攻撃を行う。),(A binding attack is performed at the time of a weak attack with a Thigh squeeze.)
 あなた、死に穢されているわね…。,
 あなたも、死に穢されているわね…。,
 あなたのいるべき場所は死の世界よ。\n甘いキスで昇天させて、すぐに送ってあげる…❤,
