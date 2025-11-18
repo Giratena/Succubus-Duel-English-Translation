@@ -1,49 +1,49 @@
-default
-{主人公}さん、こんにちは！\n昇格試合お疲れさまでした！\nBランクの強敵相手に見事な勝利。さすがでしたね！,
-・・・・♪,
-さて、それではBランク昇格の手続きを行いますね。\nいつものようにギルドリングを預からせていただきます。,
-僕がギルドリングを受付さんに渡すと、彼女は奥の部屋へ入って行った。,
-お待たせしました。これがBランクの証のギルドリングです。\nBランクはオレンジ色です。これもきれいな色ですね♪,
-そういえば、あの張り紙を見ましたか？\n近々魔族領への侵攻作戦が計画されているそうです。\nギルドでも実力のあるカードマスターへの参加を呼びかけていますよ。,
-そう言うと受付さんは入口近くにある掲示板を指さした。張り紙の前には人だかりができており、参加するかどうか話し合っている人たちの会話が聞こえてくる。,
-遠征に参加すれば、しばらくは魔族領での活動です。\n{主人公}さんも参加するおつもりですか？\nもしそうなら、寂しくなりますね。,
-・・・本格的な侵攻となれば、犠牲も少なからず出るでしょう。\n{主人公}さんのこと、わたし心配です。,
-受付さんは僕の手を両手で握ると、上目づかいでじっとこちらを見つめてくる。,
-こんな風に心配されると少し心苦しいが、それでも妹のことを思うと、魔族領に行かないわけにはいかない。僕は受付さんに自分の事情について話した。,
-魔族に襲われて妹さんと離れ離れに・・・。\nそうだったんですね。,
-小さいころに魔族の被害にあって、きっとこれまで大変だったでしょう。,
-そんな状況でも、めげずに一生懸命強くなっている、\n{主人公}さんのこと、かっこいいと思います。\nわたし、尊敬しちゃいます。,
-あら、{主人公}。来てたのね。\nBランクの昇格手続き？,
-ギルドマスターのリーフさんが、ちょうど奥の部屋から出てきた。,
-ふふ、この間Cになったばかりなのに、たいしたものだわ。\nこれでわたしから出した目標達成ね\nって言ってあげたいところだけれど…。,
-{主人公}、\nあなたがサキュバスにとどめを刺せない件について\nエイライラとコノハからそれぞれ聞いているわ。,
-エイライラが言うように、\n相手が復活する可能性があるのは大きなマイナスね。\nただコノハが言うように、,
-そのマイナスを上回るメリットがあるなら、\n作戦への参加も可能よ。,
-サキュバス化の治療について、\nきっちり調べてきなさい。\nギルドとしても協力は惜しまないわ。,
-・・・♪,
-Bランクへの昇格もおめでとう。\nこれはわたしから孫弟子へのお祝いよ。,
-リーフさんは金貨が詰まった袋を僕に手渡した。ずしりとした重みがする。かなりの額が入っているようだ。,
-それじゃあね。\nわたしはまたしばらくしたら王都に行かないといけないから、\nたまにはコノハと二人で顔を見せに来なさい。,
-そう言い終わると、リーフさんは外へ出て行った。書類を脇に抱えていたし、何かと忙しいのだろう。,
-サキュバス化の治療法が分かったら、侵攻作戦に参加…。\nううっ、応援したい気持ちと、\n参加せずに安全なところにいてほしい気持ち、両方あって複雑です。,
-でも、ここまでサキュバスにだって勝ってきた\n{主人公}さんですものね。\n侵攻作戦に参加しても、きっと無事に戦果を上げられると思います。,
-Bランク昇格おめでとうございます。\nクエストも試合も今まで以上の強敵ぞろいだと思いますが\n{主人公}さん、頑張ってください！,
-ランクがBランクにアップした！,
-宿屋に戻ると師匠が部屋の中で待ち構えていた。師匠には鍵を渡しておいたので先に入って待っていたらしい。,
-Ｂランク昇格おめでとう。弟子♪,
-いやぁー、これであなたもとうとうBランクか。\nわたしと同じランクに並ばれちゃうなんて、\nなんだか感慨深いわね。,
-Aランクを目指しなさいって言って、村から見送ったけれど、\nこんなに早くランクが上がっていくとは思ってなかったわ。\n２、３年ぐらいは修行させるつもりで見送ったのに。,
-ま、いい意味で期待を裏切ってくれて、師匠として鼻高々よ。,
-それで、この間話した、\nサキュバス化を治す方法を研究している呪術師のことだけれど、\n居場所が分かったわ。,
-あのバカ、どうやら盗賊団に加入して手を貸しているみたい。\nお金がないって言ってたけど、\nまさかそんなことになっているなんて。,
-・・・。盗賊団退治、わたしがついて行ってあげてもいいけど、\nあなたももうBランクよね。なら一人で任せた方がいいか。,
-・・・！,
-というわけで、盗賊団が活動している地域の情報をあげるから、\nあなた一人で行って、盗賊団を壊滅させてきなさい。\nそしてわたしの古い友人、「死霊術師のネクロ」を連れ戻してくるの。,
-盗賊団退治のクエストがギルドから出てたはずだし、\nギルドポイント稼ぎも兼ねて、いい修行になるわね。\nBランクでの初仕事、こなしてみせなさい！,
-師匠から、盗賊のいる地域や「死霊術師ネクロ」の見た目についての情報を教えてもらった。,
-ネクロは髪色が紫で身長が高めの女性であり、アンデッドカードを使うカードマスターだそうだ。師匠と同じぐらいの実力があったというからBランクぐらいはあると思った方がいいだろう。,
-相手がBランク相当となると気を引き締めてかからなくては！十分に準備をしてから盗賊退治に向かうことにしよう。,
-「盗賊退治」のクエストを受けられるようになった！,
-Aランクに上がったら、侵攻作戦に参加…。\nううっ、応援したい気持ちと、\n参加せずに安全なところにいてほしい気持ち、両方あって複雑です。,
-だから、わたし、応援することにします！\nBランクからAランクに上がれるよう頑張ってください！,
-クエストも試合も今まで以上の強敵ぞろいだと思いますが\n{主人公}さんならきっと乗り越えられます！,
+default,
+{主人公}さん、こんにちは！\n昇格試合お疲れさまでした！\nBランクの強敵相手に見事な勝利。さすがでしたね！,Hello; {主人公}! Congratulations on your promotion match! A stellar victory against that tough B-rank opponent. I knew you could do it!
+・・・・♪,...♪
+さて、それではBランク昇格の手続きを行いますね。\nいつものようにギルドリングを預からせていただきます。,Now then; let's get your B-rank promotion processed. I'll need to borrow your guild ring as usual.
+僕がギルドリングを受付さんに渡すと、彼女は奥の部屋へ入って行った。,When I handed my guild ring to the receptionist; she headed into the back room.
+お待たせしました。これがBランクの証のギルドリングです。\nBランクはオレンジ色です。これもきれいな色ですね♪,Sorry for the wait. Here's your B-rank guild ring. B-rank rings are orange; and such a pretty color too. You don't see them often~♪
+そういえば、あの張り紙を見ましたか？\n近々魔族領への侵攻作戦が計画されているそうです。\nギルドでも実力のあるカードマスターへの参加を呼びかけていますよ。,Oh; that reminds me—have you seen that notice? Apparently there's an invasion operation into the Monster's Domain being planned soon. The guild is calling for skilled card masters to participate.
+そう言うと受付さんは入口近くにある掲示板を指さした。張り紙の前には人だかりができており、参加するかどうか話し合っている人たちの会話が聞こえてくる。,The receptionist pointed toward the bulletin board near the entrance. A crowd had gathered in front of the notice; and I could hear people discussing whether or not to join.
+遠征に参加すれば、しばらくは魔族領での活動です。\n{主人公}さんも参加するおつもりですか？\nもしそうなら、寂しくなりますね。,If you join the expedition; you'll be operating in the Monster's Domain for quite a while. Are you planning to participate; {主人公}? If you go; you will certainly be missed.
+・・・本格的な侵攻となれば、犠牲も少なからず出るでしょう。\n{主人公}さんのこと、わたし心配です。,And... a full-scale invasion will surely result in casualties.  I would hate to see anything bad to happen to you; {主人公}.
+受付さんは僕の手を両手で握ると、上目づかいでじっとこちらを見つめてくる。,The receptionist grasped my hands with both of hers and gazed up at me with a serious expression.
+こんな風に心配されると少し心苦しいが、それでも妹のことを思うと、魔族領に行かないわけにはいかない。僕は受付さんに自分の事情について話した。,Being worried about like this made me feel a bit guilty; but thinking of my sister; I had no choice but to go to the Monster's Domain. I explained my circumstances to the receptionist.
+魔族に襲われて妹さんと離れ離れに・・・。\nそうだったんですね。,Ah; you were attacked by monsters and separated from your sister... Is that so? I had no idea.
+小さいころに魔族の被害にあって、きっとこれまで大変だったでしょう。,Being victimized by monsters when you were young—I can imagine it would be quite difficult; wouldn't it?
+そんな状況でも、めげずに一生懸命強くなっている、\n{主人公}さんのこと、かっこいいと思います。\nわたし、尊敬しちゃいます。,And despite all that; you didn't give up and worked so hard to become stronger... that's honestly really dashing of you to do so. I feel like I've gained a new respect for you; {主人公}.
+あら、{主人公}。来てたのね。\nBランクの昇格手続き？,Ah; {主人公}. You've arrived! Here for your B-rank promotion?
+ギルドマスターのリーフさんが、ちょうど奥の部屋から出てきた。,Guildmaster Leaf had just emerged from the back room.
+ふふ、この間Cになったばかりなのに、たいしたものだわ。\nこれでわたしから出した目標達成ね\nって言ってあげたいところだけれど…。,Ha ha. You only just became C-rank the other day; yet here you are! Quite impressive. Though it appears the situation is more complicated than I thought...
+{主人公}、\nあなたがサキュバスにとどめを刺せない件について\nエイライラとコノハからそれぞれ聞いているわ。,{主人公}; I've heard from both Eiraira and Konoha about your inability to finish off succubi.
+エイライラが言うように、\n相手が復活する可能性があるのは大きなマイナスね。\nただコノハが言うように、,As Eiraira says; the possibility of your opponents reviving is a significant drawback.
+そのマイナスを上回るメリットがあるなら、\n作戦への参加も可能よ。,But Konoha has said to allow your presence in the operation; if there are benefits that outweigh that drawback.
+サキュバス化の治療について、\nきっちり調べてきなさい。\nギルドとしても協力は惜しまないわ。,I'd like you to look into any kind of treament for you succubus transformation condition. Maybe there is something out there that can help. The guild won't hesitate to support you.
+・・・♪,...♪
+Bランクへの昇格もおめでとう。\nこれはわたしから孫弟子へのお祝いよ。,And; congratulations on your promotion to B-rank. Concider it a gift from me to my grand-student.
+リーフさんは金貨が詰まった袋を僕に手渡した。ずしりとした重みがする。かなりの額が入っているようだ。,Leaf handed me a bag filled with gold coins. It had a hefty weight to it. Quite a substantial amount seemed to be inside.
+それじゃあね。\nわたしはまたしばらくしたら王都に行かないといけないから、\nたまにはコノハと二人で顔を見せに来なさい。,Well then. I'll need to head to the royal capital again soon; so come visit with Konoha once in a while.
+そう言い終わると、リーフさんは外へ出て行った。書類を脇に抱えていたし、何かと忙しいのだろう。,Having said that; Leaf headed outside. She was carrying documents under her arm; so she must be quite busy.
+サキュバス化の治療法が分かったら、侵攻作戦に参加…。\nううっ、応援したい気持ちと、\n参加せずに安全なところにいてほしい気持ち、両方あって複雑です。,If you can find a solution for the succubus transformation issue; I guess you can join the invasion mission... But ooghh I have mixed feelings—wanting to cheer you on but also wanting you to stay somewhere safe.
+でも、ここまでサキュバスにだって勝ってきた\n{主人公}さんですものね。\n侵攻作戦に参加しても、きっと無事に戦果を上げられると思います。,But you've defeated even succubi up to this point; {主人公}. I'm sure you'll return safely with great achievements even if you join the invasion operation!
+Bランク昇格おめでとうございます。\nクエストも試合も今まで以上の強敵ぞろいだと思いますが\n{主人公}さん、頑張ってください！,Congratulations on your B-rank promotion. I think your quests and matches will feature even tougher enemies from now on; but do your best; {主人公}!
+ランクがBランクにアップした！,Your rank has increased to B-rank!
+宿屋に戻ると師匠が部屋の中で待ち構えていた。師匠には鍵を渡しておいたので先に入って待っていたらしい。,When I returned to the inn; my master was waiting inside the room. I did give her my spare key; so she likely let herself in.
+Ｂランク昇格おめでとう。弟子♪,Congratulations on your B-rank promotion; my student♪
+いやぁー、これであなたもとうとうBランクか。\nわたしと同じランクに並ばれちゃうなんて、\nなんだか感慨深いわね。,Wow; so you've finally reached B-rank. To think you'd catch up to the same rank as me—it's rather moving.
+Aランクを目指しなさいって言って、村から見送ったけれど、\nこんなに早くランクが上がっていくとは思ってなかったわ。\n２、３年ぐらいは修行させるつもりで見送ったのに。,I sent you off from the village telling you to aim for A-rank; but I never expected your rank to rise this quickly. I sent you off thinking I'd have you train for two or three years.
+ま、いい意味で期待を裏切ってくれて、師匠として鼻高々よ。,Well; you've exceeded my expectations in a good way; and I'm proud as your master.
+それで、この間話した、\nサキュバス化を治す方法を研究している呪術師のことだけれど、\n居場所が分かったわ。,Now; about that curse specialist researching methods to cure succubus transformation that I mentioned before—I found out where they are.
+あのバカ、どうやら盗賊団に加入して手を貸しているみたい。\nお金がないって言ってたけど、\nまさかそんなことになっているなんて。,That idiot apparently joined a bandit group and is helping them out. They said they had no money; but I never imagined things would turn out like this.
+・・・。盗賊団退治、わたしがついて行ってあげてもいいけど、\nあなたももうBランクよね。なら一人で任せた方がいいか。,...I could accompany you to subjugate the bandits; but you're B-rank now; right? So I should probably let you handle it alone.
+・・・！,...!
+というわけで、盗賊団が活動している地域の情報をあげるから、\nあなた一人で行って、盗賊団を壊滅させてきなさい。\nそしてわたしの古い友人、「死霊術師のネクロ」を連れ戻してくるの。,"So here's the deal—I'll give you information about the region where the bandit group is active; and you'll go alone to wipe them out. Then bring back my old friend; ""Necro the Necromancer."""
+盗賊団退治のクエストがギルドから出てたはずだし、\nギルドポイント稼ぎも兼ねて、いい修行になるわね。\nBランクでの初仕事、こなしてみせなさい！,There should be a bandit subjugation quest from the guild; so this'll be good training while also earning guild points. Show me you can handle your first job as a B-rank!
+師匠から、盗賊のいる地域や「死霊術師ネクロ」の見た目についての情報を教えてもらった。,"My master gave me information about the bandits' location and what ""Necro the Necromancer"" looks like."
+ネクロは髪色が紫で身長が高めの女性であり、アンデッドカードを使うカードマスターだそうだ。師匠と同じぐらいの実力があったというからBランクぐらいはあると思った方がいいだろう。,Necro is a tall woman with purple hair and a card master who uses undead cards. Apparently she had skill comparable to my master's; so I should assume she's around B-rank level.
+相手がBランク相当となると気を引き締めてかからなくては！十分に準備をしてから盗賊退治に向かうことにしよう。,With an opponent at B-rank level; I need to be on guard! I'll make thorough preparations before heading out to subjugate the bandits.
+「盗賊退治」のクエストを受けられるようになった！,"The ""Bandit Subjugation"" quest is now available!"
+Aランクに上がったら、侵攻作戦に参加…。\nううっ、応援したい気持ちと、\n参加せずに安全なところにいてほしい気持ち、両方あって複雑です。,Once you reach A-rank and join the invasion operation... Ugh; I have mixed feelings—wanting to cheer you on but also wanting you to stay somewhere safe.
+だから、わたし、応援することにします！\nBランクからAランクに上がれるよう頑張ってください！,So I've decided—I'm going to cheer you on! Do your best to rise from B-rank to A-rank!
+クエストも試合も今まで以上の強敵ぞろいだと思いますが\n{主人公}さんならきっと乗り越えられます！,I think your quests and matches will feature even tougher enemies from now on; but I'm sure you can overcome them; {主人公}!
