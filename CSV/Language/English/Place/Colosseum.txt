@@ -239,7 +239,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 多くの場合、\n特定のカードがないと発動できないような強い制約のあるカードは\n強力な効果を持っています。,In many cases; cards with strong restrictions that can't be activated without other specific cards often have powerful effects.
 しかしだからといって、考えなしにデッキに入れると、\n手札事故を引き起こしかねません。コンボ用のカードがそろわなければ\n何の役にも立たないカードになってしまうからです。,However; if you put them in your deck carelessly; you might run into some issues with your hand. If you don't have the combo cards ready; they can become totally useless!
 コンボカードを活かすためには、ドローカードを追加で入れたり、\n属性やレベルでデッキからサーチするようなカードを入れると、\n動きが安定しますね。,To make the most of combo cards; try adding draw cards or cards that search your deck by attribute or level to help make your deck more consistent; okay?
-強力なカードと潤滑油になるようなカード、\nそのどちらもが強いデッキを作るうえでは欠かせないと言えるでしょう。,Powerful cards and the commbo cards that fuel them... Both are essential for building a strong deck.
+強力なカードと潤滑油になるようなカード、\nそのどちらもが強いデッキを作るうえでは欠かせないと言えるでしょう。,Powerful cards and the combo cards that fuel them... Both are essential for building a strong deck.
 「メタカード」というのをご存じでしょうか。,Do you know what a 'meta card' is?
 メタカードは特定の種類のデッキに対してよく刺さるカードのことで\n例えば魔法の「武装放棄」がそうですね。,A meta card is a card that works especially well against specific types of decks; such as the spell 'Abandon Weapons.'
 このカードはわずか500のLPコストで、\n相手の装備カードをすべて破壊してしまいます。\n１枚で最大３枚破壊できるわけですから、きわめて強力です。,This card; at the small cost of 500 LP; can destroy all of the opponent's equipped cards. Since it can destroy up to three of their cards for just one of your own; it's extremely powerful.
