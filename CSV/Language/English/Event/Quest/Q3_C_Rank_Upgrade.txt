@@ -1,12 +1,12 @@
 default,
-Cランクに昇格する権利を得た僕は、ギルドリングをCランクのものに変えてもらうため、ギルドを訪れていた。,After becoming eligible to become a C-rank cardmaster; I visited the guild to in order to have my ring upgraded.
+Cランクに昇格する権利を得た僕は、ギルドリングをCランクのものに変えてもらうため、ギルドを訪れていた。,After becoming eligible to become a C-rank cardmaster; I visited the guild in order to have my ring upgraded.
 ギルドに入ると受付さんがニコニコとした表情で僕を迎えてくれた。\nどうやら僕が勝ったという話をすでに誰かから聞いていたようだ。,The receptionist greeted me with a beaming smile as I entered the guild. She likely already heard about my victory from someone.
 {主人公}さん、おめでとうございます！\nCランクへの昇格戦も見事に勝ちましたね！,Congradulations on reaching C-rank; {主人公}! I heard you won your promotion match spectacularly! 
 本当はわたしも応援に行きたかったのですが、\n試合の日はお仕事の都合がつかなくて・・・・。\n{主人公}さんが活躍するところちゃんと見たかったです。,I really wanted to come cheer you on in person; but I had work that day and couldn't get away... I would have loved to see you in action; {主人公}.
 Fランクのころから活躍を見ているので、\nすっかりわたしも{主人公}さんのファンになっちゃいました。\nこの先、Cランクでの試合も頑張ってくださいね！,I've been keeping an eye on your progress ever since you were F-rank. You could say I've become quite the fan! I'm sure you'll have no trouble during your C-Rank matches as well!
 はい、勝ちまくります！,You bet! I'll win them all!
 強い人揃いだと思いますが頑張ります！,There will be many strong foes ahead; but I'll do my best!
-ふふ、頼もしいですね。\n本当にそれを実現してしまいそうだから、{主人公}さんはすごいです。,Fufu; I would expect nothing less. If anyone can pull it off; it's you {主人公}—You're really a one of a kind cardmaster.
+ふふ、頼もしいですね。\n本当にそれを実現してしまいそうだから、{主人公}さんはすごいです。,Fufu; I would expect nothing less. You're an incredible cardmaster {主人公}. If anyone can pull it off; it's you!
 Cランクともなれば手練れ揃いですが、\n{主人公}さんならきっと勝てますよ！\n試合が楽しみです。,C-rank is filled with seasoned fighters; but I'm sure you can win; {主人公}! I'm looking forward to your matches.
 さて、それでは昇格の手続きをしますね。\nギルドリングをこちらにお渡しください。,Now then; let's process your promotion. Please hand over your guild ring.
 僕はギルドリングを受付さんに手渡した。彼女は作業をするため、リングを持ってギルドの奥に入っていく。,I handed my guild ring to the receptionist. She took the ring and headed to the back of the guild to process it.
@@ -25,13 +25,13 @@ Cランクともなれば手練れ揃いですが、\n{主人公}さんならき
 {主人公}さん、お待たせしました。\nCランクの色に変化したギルドリングです。\nCランクはきれいな黄色なんですよ。ってあれ・・・、,{主人公}; sorry for the wait. Here's your guild ring; now changed to the C-rank color. As you can see; C-rank is a beautiful yellow. ...Oh?
 ギルドマスター！\nお戻りになられていたんですね。,Guild Master! You've returned.
 転移陣を使って王都から今日戻られたのでしょうか。\nお久しぶりにお会いできてうれしいです。,Did you come back from the royal capital using the teleportation circle today? It's so good to see you after so long.
-わたしもよ。\nいつも受付と事務作業ごくろうさま。,The feeling is mutual. I appreciate you handling the reception desk and paperwork.
+わたしもよ。\nいつも受付と事務作業ごくろうさま。,The feeling is mutual. I appreciate your handling of the reception desk and paperwork.
 それにしてもこの短い期間でCランクになるだなんて、\nコノハの弟子もなかなかやるじゃない。\n名前は{主人公}ね？覚えたわ。,Still; to reach C-rank in such a short time—Konoha's disciple is quite impressive. Your name is {主人公}; right? I'll remember it.
 コノハによればあなたは魔族領に行って妹さんを探したいんだそうね。,Konoha told me you want to go to the Monster's Domain to search for your sister.
 ふむ。ちょうどいいわ。ちょっとわたしの部屋に来なさい。,Hmm. Perfect timing. Come to my office for a moment.
 僕は言われるままギルドマスターの後についていった。,I followed the guild master as instructed.
 さて。これはまだ正式に発表されてないから、\n内密にしておいてほしんだけど。,Now then. This hasn't been officially announced yet; so keep it confidential.
-今度魔族領への進攻が計画されているの。\n遅くとも1年以内に。,An invasion of the Monster's Domain is being planned. Within a year at the latest.
+今度魔族領への進攻が計画されているの。\n遅くとも1年以内に。,An invasion of the Monster's Domain is being planned. Within a year at most.
 ・・・・・！,...!
 サキュバスの女王が\nまだ完全には力を取り戻していないって話は知ってるかしら？,By any chance... are you aware the Succubus Queen hasn't fully recovered her power yet?
 本で読んだことがあります。,I read about it in a book.
@@ -53,13 +53,13 @@ Cランクともなれば手練れ揃いですが、\n{主人公}さんならき
 Cランクでの試合が楽しみですね！応援してます！,I'm looking forward to your C-rank matches! I'll be rooting for you!
 ランクがCランクにアップした！,Rank increased to C-rank!
 その日の夜。僕はまた昔の夢を見ていた。,That night; I had another dream...
-これは確か、村がサキュバスたちに襲撃される前、まだ村が平和だったときの記憶だ。,It was from before the succubi attacked our village—back when the village was still peaceful.
+これは確か、村がサキュバスたちに襲撃される前、まだ村が平和だったときの記憶だ。,It was from before the succubi attacked our village—back when it was still peaceful.
 もうすぐ始まるお祭りにそなえて、二人で飾りを作っていた。子供だった僕たちはよく二人きりで留守番をしていたから、こういう手作業もよく二人でやったものだ。,We were making decorations together in preparation for the upcoming festival. Since we were children; the two of us often looked after the house alone; so we frequently did this kind of handiwork together.
 ふふ、お兄ちゃん、下手っぴだね。\nわたしより年上なのに、こういうのはわたしの方が上手♪\nほら見て、すごいでしょ！,Teehee; you're so clumsy Brother! Mine is made is far better than yours♪ Look at this; amazing right!?
 そう言って僕に出来た飾りを見せつける。僕はすごいねと言って、彼女の頭をなでてあげた。,She showed off the decoration she'd made. I told her it was amazing and patted her head.
 えへへ…。,Ehehe...
 ねえねえ、お兄ちゃん。\n「作る」って言えばさ、\nカードって、どうやってできているんだろうね？,Hey you know what Brother. Speaking of "making" things; I wonder how cards are created?
-わたし不思議なんだ。カードはモンスターのお腹の中から出てきたり、\n古い遺跡から見つかったりするらしいけど…。\n昔の人やモンスターはカードを作ることができたのかな？,It's all so mysterious! Cards apparently come from inside monster bellies or are discovered in ancient ruins... Do you think people were really making cards so long ago?
+わたし不思議なんだ。カードはモンスターのお腹の中から出てきたり、\n古い遺跡から見つかったりするらしいけど…。\n昔の人やモンスターはカードを作ることができたのかな？,It's all so mysterious! Cards apparently come from inside monster bellies or are discovered in ancient ruins... Do you cards really came from monster and humans so long ago?
 ねえ、もしもカードを作ることができるのならね、\nわたし、お兄ちゃんとお父さんが使うカードを作りたい！\nわたしの作ったカードで、お兄ちゃんたちを助けるの！,Someday; I want to make cards for you and Dad to use! Then I can help you both with the cards I created!
 わたし、お父さんの子供なのに、全然カードが使えないから…。\nその分、カードのこといっぱい勉強して、\nお兄ちゃんたちと一緒に悪いモンスターと戦うんだ。,Even though our dad is a really strong cardmaster; I know I can't use cards at all... So instead; I'll study cards as much as I can so I can fight evil monsters alongside you!
 わたしがカードを作れたら、ぜったい使ってね！お兄ちゃん！,If I ever make a card; you'll definitely use it; right? Promise me; OK!
@@ -74,8 +74,8 @@ Cランクでの試合が楽しみですね！応援してます！,I'm looking 
 賢かった妹に恥じないだけの、立派な自分でありたい。僕は気合を入れなおして、今日もカードバトルに向かうのだった。,I want to be someone worthy enough to not shame my brilliant sister. With renewed determination; I headed out for today's card battles.
 そのころ、魔王城にて。,Meanwhile; at the Demon King's castle.
 ユイ様、転送陣についての調査が完了しました。,Lady Yui; the investigation into the teleportation circle is complete.
-順調にいけばやはり利用できそうです。\nまた例の計画について報告がありましたが・・・。,If all goes well; it will prove very helpful in our plan. Though we have been recieving reports again...
-数名連絡が取れなくなった者が出ているものの、\nおおむね順調に進んでいるようです。,A few of our members have lost contact; but other than that things seem to be progressing smoothly.
+順調にいけばやはり利用できそうです。\nまた例の計画について報告がありましたが・・・。,If all goes well; it will prove very helpful in our plan. Though we have been receiving  reports again...
+数名連絡が取れなくなった者が出ているものの、\nおおむね順調に進んでいるようです。,A few of our members have lost contact; but other than that things seem to be progressing relatively smoothly.
 ふふ、それはよかった…❤,Fufufu; that's wonderful...❤
 お兄ちゃん、生きているのかな？\nわたしこんなに強くなったよ。,I wonder if my Brother is still alive? I've become stronger... stronger than ever before.
 きっと迎えに行くからね・・・❤\nずっとずっと一緒にいるために・・・❤,I will stop at nothing to find you...❤ I'll come find you so we can be together... Forever and ever...❤

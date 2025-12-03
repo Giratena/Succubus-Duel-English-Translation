@@ -9,7 +9,7 @@ default,
 遠征に参加すれば、しばらくは魔族領での活動です。\n{主人公}さんも参加するおつもりですか？\nもしそうなら、寂しくなりますね。,If you join the expedition; you'll be operating in the Monster's Domain for quite a while. Are you planning to participate; {主人公}? If you go; you will certainly be missed.
 ・・・本格的な侵攻となれば、犠牲も少なからず出るでしょう。\n{主人公}さんのこと、わたし心配です。,And... a full-scale invasion will surely result in casualties.  I would hate to see anything bad to happen to you; {主人公}.
 受付さんは僕の手を両手で握ると、上目づかいでじっとこちらを見つめてくる。,The receptionist grasped my hands with both of hers and gazed up at me with a serious expression.
-こんな風に心配されると少し心苦しいが、それでも妹のことを思うと、魔族領に行かないわけにはいかない。僕は受付さんに自分の事情について話した。,Being worried about like this made me feel a bit guilty; but thinking of my sister; I had no choice but to go to the Monster's Domain. I explained my circumstances to the receptionist.
+こんな風に心配されると少し心苦しいが、それでも妹のことを思うと、魔族領に行かないわけにはいかない。僕は受付さんに自分の事情について話した。,I felt guilty seeing her worry about me like this; but I had no choice but to go to the Monster's Domain for my sister's sake. I explained my circumstances to the receptionist.
 魔族に襲われて妹さんと離れ離れに・・・。\nそうだったんですね。,Ah; you were attacked by monsters and separated from your sister... Is that so? I had no idea.
 小さいころに魔族の被害にあって、きっとこれまで大変だったでしょう。,Being victimized by monsters when you were young—I can imagine it would be quite difficult; wouldn't it?
 そんな状況でも、めげずに一生懸命強くなっている、\n{主人公}さんのこと、かっこいいと思います。\nわたし、尊敬しちゃいます。,And despite all that; you didn't give up and worked so hard to become stronger... that's honestly really dashing of you to do so. I feel like I've gained a new respect for you; {主人公}.
@@ -19,9 +19,9 @@ default,
 {主人公}、\nあなたがサキュバスにとどめを刺せない件について\nエイライラとコノハからそれぞれ聞いているわ。,{主人公}; I've heard from both Eiraira and Konoha about your inability to finish off succubi.
 エイライラが言うように、\n相手が復活する可能性があるのは大きなマイナスね。\nただコノハが言うように、,As Eiraira says; the possibility of your opponents reviving is a significant drawback.
 そのマイナスを上回るメリットがあるなら、\n作戦への参加も可能よ。,But Konoha has said to allow your presence in the operation; if there are benefits that outweigh that drawback.
-サキュバス化の治療について、\nきっちり調べてきなさい。\nギルドとしても協力は惜しまないわ。,I'd like you to look into any kind of treament for you succubus transformation condition. Maybe there is something out there that can help. The guild won't hesitate to support you.
+サキュバス化の治療について、\nきっちり調べてきなさい。\nギルドとしても協力は惜しまないわ。,I'd like you to look into any kind of treament for your succubus transformation condition. Maybe there is something out there that can help. The guild won't hesitate to support you.
 ・・・♪,...♪
-Bランクへの昇格もおめでとう。\nこれはわたしから孫弟子へのお祝いよ。,And; congratulations on your promotion to B-rank. Concider it a gift from me to my grand-student.
+Bランクへの昇格もおめでとう。\nこれはわたしから孫弟子へのお祝いよ。,And; congratulations on your promotion to B-rank. Consider it a gift from me to my grand-student.
 リーフさんは金貨が詰まった袋を僕に手渡した。ずしりとした重みがする。かなりの額が入っているようだ。,Leaf handed me a bag filled with gold coins. It had a hefty weight to it. Quite a substantial amount seemed to be inside.
 それじゃあね。\nわたしはまたしばらくしたら王都に行かないといけないから、\nたまにはコノハと二人で顔を見せに来なさい。,Well then. I'll need to head to the royal capital again soon; so come visit with Konoha once in a while.
 そう言い終わると、リーフさんは外へ出て行った。書類を脇に抱えていたし、何かと忙しいのだろう。,Having said that; Leaf headed outside. She was carrying documents under her arm; so she must be quite busy.
