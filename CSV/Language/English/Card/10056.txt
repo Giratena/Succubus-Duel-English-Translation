@@ -1,26 +1,26 @@
 default
 死を振りまくもの,Death Sprite
 EU56_handJobAnime,
-闇属性の妖精のモンスター。妖精だが大きさは普通の人間と変わらない。死者を現世へ導き、生者を冥界へ導く。混乱した状況が好きであり、世の中を混沌とさせて楽しむために死者と生者を本来の居場所と違う場所へ導いている。甘い声でからかいながら快楽を与えてくるが、ふらふらと誘われるまま彼女についていくと死の世界に連れていかれてしまう。,
-[1].このカードが場に出たとき発動する。「ゾンビ」状態でないランダムな相手キャラクターに「ゾンビ」状態を付与する。,
-[2].自分の闇属性キャラクターが相手モンスターを破壊したとき発動する。デッキから「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」を１枚手札に加える。,
-[3].このカードが破壊され墓地へ送られたとき、手札に「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」がいる場合に発動する。手札の「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」を可能な限り自分フィールド上に特殊召喚する。,
-わたしのウイルス玉をくらえー❤,
-このもやもやには色んなウイルスが入ってるんだよ。\n死につながる病気とかもあるけど、\n今はゾンビになっちゃうやつをプレゼントしてあげる❤,
-飲みにくい薬を飲ませるときみたいに、\nわたしの甘い香りがブレンドしてあるから、\n勝手に吸い込んじゃうよねー❤くすくす❤,
-わたしは冥府の導きの妖精。\n死んだ人を現世に引き連れてきたらねー、\n代わりに生きてる人を死の世界に連れて行かないといけないの。,
-みんな冥府になんて行きたくないって嫌がるんだけど、\nそういうときは手をおちんちんに当てて、\n亀頭をぐりぐりぐり～ってしながら、おねがいするんだ❤,
-若い男の子が一番簡単❤\nまだまだ寿命があって長生きできたはずなのに\nみんなわたしのおねがいを聞いてくれるんだよ❤,
-ふふ、あなたにもやってあげるねー❤\n手をぴたっておちんちんに当てて、ぐりぐりぐり～♪\nねえ、死んで死んで、おねがーい❤,
-男ってチンポ触ってあげればすぐ負けちゃうよねー。\n片手で雑に、シコシコ♪シコシコってするだけで、\nほおら、気持ちよくて頭がとろけちゃう❤,
-あなたが射精したら、\nエナジーぜんぶもらってあげる❤\nうりうり～♪わたしの手コキでさっさと屈服しちゃえ❤ザコチンポ❤,
-手でいじめてあげる～❤\nほら、亀頭に手をかぶせて、ぐりぐりぐり～❤,
-きゃはは❤変な声出しちゃっておもしろーい❤\nいっしょに竿もシコシコしてあげたらどうなるのかなぁ❤\n気持ちよすぎて、そのまま射精して死んじゃう？死んじゃう？,
-亀頭を胸に押し付けて、ぷにぷに❤むにむに❤\nあは、わたしみたいな小さいおっぱいでも、\nおちんちんに擦りつけられると気持ちいいんだー❤,
-ほら、根元を手コキしながらぁ、\nもっとぐいっておっぱいに押し付けてあげるねー❤\n柔らかいのに包まれながらシコシコされて、たっぷり射精しちゃえ❤,
-踏んづけてあげるね。えい❤,
-あは、ブーツで踏まれて喘いでるし❤\nチンポ踏まれてうれしいんだー❤へんたーい♪,
-死者の世界に人を迷わせるのが、わたしの趣味なの❤\n暗い森で野宿している人を見かけたら、そばまで行って・・・。,
+闇属性の妖精のモンスター。妖精だが大きさは普通の人間と変わらない。死者を現世へ導き、生者を冥界へ導く。混乱した状況が好きであり、世の中を混沌とさせて楽しむために死者と生者を本来の居場所と違う場所へ導いている。甘い声でからかいながら快楽を与えてくるが、ふらふらと誘われるまま彼女についていくと死の世界に連れていかれてしまう。,A dark attribute fairy monster. Although she is a fairy; her size is the same as that of a normal human. She guides the deceased to the living world, and the living to the underworld. She loves chaos; and will delight in creating such chaos in the world by misleading both the dead and the alive away from where they belong. While teasing you with a pleasurably sweet voice; if you are lured in by it and wander in her steps; she will take you to the underworld. 
+[1].このカードが場に出たとき発動する。「ゾンビ」状態でないランダムな相手キャラクターに「ゾンビ」状態を付与する。,[1]. Activate this effect when this card is summoned. Inflict a random opponent monster that is not already a "zombie" with the "zombie" status.
+[2].自分の闇属性キャラクターが相手モンスターを破壊したとき発動する。デッキから「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」を１枚手札に加える。,[2]. Whenever one of your dark attribute monster destroys an opponent monster; add a "<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>" from your deck to your hand.
+[3].このカードが破壊され墓地へ送られたとき、手札に「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」がいる場合に発動する。手札の「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」を可能な限り自分フィールド上に特殊召喚する。,[3]. When this card is destroyed and sent to the graveyard and you have, from your hand special summon as many "<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>" as possible.
+わたしのウイルス玉をくらえー❤,Take my virus ball~❤
+このもやもやには色んなウイルスが入ってるんだよ。\n死につながる病気とかもあるけど、\n今はゾンビになっちゃうやつをプレゼントしてあげる~❤,There are lots of viruses in this mist.\nThere are diseases that lead to death, but I added one that turns you into a zombie as a present~❤
+飲みにくい薬を飲ませるときみたいに、\nわたしの甘い香りがブレンドしてあるから、\n勝手に吸い込んじゃうよねー❤くすくす❤,Just like medecine that is hard to swallow, my sweet scent is blended in;\nBreath it in plenty~❤ Hehe~
+わたしは冥府の導きの妖精。\n死んだ人を現世に引き連れてきたらねー、\n代わりに生きてる人を死の世界に連れて行かないといけないの。,I am a fairy that guides people to the underworld.\nI bring the dead to the living world~\nBut I also have to bring the living to the underworld when they die.
+みんな冥府になんて行きたくないって嫌がるんだけど、\nそういうときは手をおちんちんに当てて、\n亀頭をぐりぐりぐり～ってしながら、おねがいするんだ❤,Nobody likes having to go to the underworld;\nbut when that happens I hold their penis with my hand; and I beg them while I grind; grind; grind~ on the tip~❤ 
+若い男の子が一番簡単❤\nまだまだ寿命があって長生きできたはずなのに\nみんなわたしのおねがいを聞いてくれるんだよ❤,It's the easiest for young men❤\nEven though they still have a long time to live\nThey all listen to my requests❤
+ふふ、あなたにもやってあげるねー❤\n手をぴたっておちんちんに当てて、ぐりぐりぐり～♪\nねえ、死んで死んで、おねがーい❤,Hehe, I'll do it to you too~❤\nI'll grab your penis with my hand, and I'll tease your tip~♪\nHey, please, die, die~❤
+男ってチンポ触ってあげればすぐ負けちゃうよねー。\n片手で雑に、シコシコ♪シコシコってするだけで、\nほおら、気持ちよくて頭がとろけちゃう❤,Men lose as soon as you touch their penis~.\nWith only one hand, roughly stroking you;\nSee~It feels so good that you can't think~❤
+あなたが射精したら、\nエナジーぜんぶもらってあげる❤\nうりうり～♪わたしの手コキでさっさと屈服しちゃえ❤ザコチンポ❤,If you cum;\nI'll take all your energy~❤Go!Go!~♪ Quickly submit to my hand~❤ Weak penis~❤
+手でいじめてあげる～❤\nほら、亀頭に手をかぶせて、ぐりぐりぐり～❤,I'll tease you with my hand~❤Here; I'll cover your tip with my hand; and I'll twist and turn and grind~❤
+きゃはは❤変な声出しちゃっておもしろーい❤\nいっしょに竿もシコシコしてあげたらどうなるのかなぁ❤\n気持ちよすぎて、そのまま射精して死んじゃう？死んじゃう？,Ahaha~❤Wha~t a funny weird voice you made~❤\nI wooooonder what will happen if I stroke your shaft at the same time~❤Will you feel too good; cum and die on the spot? Hey let's die?
+亀頭を胸に押し付けて、ぷにぷに❤むにむに❤\nあは、わたしみたいな小さいおっぱいでも、\nおちんちんに擦りつけられると気持ちいいんだー❤,I'll press your tip into my breasts; and squish them again and again~❤\nAha; even with my small breasts; it feels good when they rub on your pernis~❤
+ほら、根元を手コキしながらぁ、\nもっとぐいっておっぱいに押し付けてあげるねー❤\n柔らかいのに包まれながらシコシコされて、たっぷり射精しちゃえ❤,Here; while I stroke the base of your penis...;\nI'll press my breasts even harder~❤\nWrapped in softness as I stroke you, cum a lot!❤
+踏んづけてあげるね。えい❤,I'll step on you, take this!❤
+あは、ブーツで踏まれて喘いでるし❤\nチンポ踏まれてうれしいんだー❤へんたーい♪,Aha; you're moaning when I press on you with my boots!❤\nYou're happy when I step on you~❤ You per-vert♪
+死者の世界に人を迷わせるのが、わたしの趣味なの❤\n暗い森で野宿している人を見かけたら、そばまで行って・・・。,Leading people astray to the world of the dead is my hobby!❤If I find people camping in a dark forest, I go to their side and say...
 「ねえ、あっちで気持ちいいことしよ…❤」って甘えてあげて\n死者の世界までふらふらーって連れて行っちゃうんだよ❤,
 途中で怖くなって逃げようとしてもねー、\n足とか手でちょっとおちんちんなでてあげれば、\n結局みんな断れないんだー❤,
 くすくす❤聞いてたら興味出てきた？\nほらあなたのおちんちんにもわたしの足コキ楽しませてあげるね❤\nブーツを脱いで、生足ですりすりすり～♪,
