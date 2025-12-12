@@ -2,22 +2,22 @@ default
 カーバンクル,Carbuncle
 EU64_paizuriAnime,
 EU64_paizuriFlashAnime,
-　宝石の精霊のモンスター。宝石を持つものに幸運をもたらすと言われているが、実際は宝石の美しさを増幅させ持ち主に強い幸福感を与えるだけで、何か運勢を好転させる力があるわけではない。人によってはかえって宝石の美しさに魅入られることとなり、彼女との接触が順調だった人生を転落させてしまうきっかけになることもある。,
-\n　額の宝石を使って相手を魅了することができ、それを活かした攻撃が得意。しかし宝石を使わずともその体は扇情的で、柔らかな胸や健やかな足で責められれば並みの男は快楽に喘がされてしまう。彼女にぎゅっと密着された状態で宝石の光と女体の快楽を同時に受ければ、熟練の戦士であろうと敗北は必至である。,
-[1].「ジェム」カードが発動したとき発動する。チャージを+1する。,
-[2].１ターンに１度、相手との戦闘開始時、チャージを２つ消費して発動できる。その相手キャラクターに「魅了」を付与する。,
-[3].自分の墓地に「ジェム」カードが５種類枚以上ある場合、相手ターン開始時に発動する。自分フィールド上のすべてのモンスターに「次受ける戦闘ダメージまたは効果ダメージを0にする」を付与する。,
-(相手が魅了またはおっぱいに弱い状態のとき、パイズリ攻撃時に追加ダメージを与えることがある。),
-わたしはカーバンクル、宝石の精霊なの。\nこの額の宝石があなたに幸福をもたらすんだよ。\nほら、見て・・・❤,
-はうぅ、きれい・・・・❤,
-くすくす❤光を当てられるだけで、幸せになってきたよね❤\n宝石には人間を惑わす不思議な力がある。\n宝石の魅力に取りつかれて、死ぬまで支配されるの、気持ちいいよ？,
-きらきらキレイな光、それを身に着けた女の子の美しさ♪\nメロメロになっちゃったあなたの体にも、\nたっぷり教えてあげるね❤,
-あなたにも宝石の魅力を教えてあげるね❤\nこの額の宝石があなたに幸福をもたらすんだよ。\nほら、見て・・・❤,
-はうぅ・・・・❤,
-くすくす❤あなたも宝石の光の虜だね❤,
-きらきらキレイな光、それを身に着けた女の子の美しさ♪\n男の子はみんな宝石でうっとりさせてあげる❤,
-宝石の美しさにあてられて、頭くらくらする？\n地面にへたぁって座りこんじゃったね❤,
-ほら、隙だらけになったあなたにパイズリご奉仕だよ❤\n今よりもっと、体に力が入らなくしてあげる❤,
+宝石の精霊のモンスター。宝石を持つものに幸運をもたらすと言われているが、実際は宝石の美しさを増幅させ持ち主に強い幸福感を与えるだけで、何か運勢を好転させる力があるわけではない。人によってはかえって宝石の美しさに魅入られることとなり、彼女との接触が順調だった人生を転落させてしまうきっかけになることもある。,A monster embodying the spirit of a gemstone. While said to bring good fortune to those with jewels; in reality she only amplifies their beauty and gives the owner intense feelings of euphoria; possessing no actual power to change one's luck. Some people become entranced by the beauty of the gems instead; and meeting her can become the catalyst that causes a previously successful life to fall into ruin.
+\n　額の宝石を使って相手を魅了することができ、それを活かした攻撃が得意。しかし宝石を使わずともその体は扇情的で、柔らかな胸や健やかな足で責められれば並みの男は快楽に喘がされてしまう。彼女にぎゅっと密着された状態で宝石の光と女体の快楽を同時に受ければ、熟練の戦士であろうと敗北は必至である。,She can charm opponents using the gem on her forehead; and is skilled in any attack that utilizes this ability. Even without her gem; however; her body is incredibly seductive; and any ordinary man would be left gasping in pleasure if tormented by her plush breasts or toned legs. If a man were to find himself held tight by a carbuncle; receiving the gem's light and the pleasure of her feminine body at the same time; even a seasoned warrior's defeat would be inevitable.
+[1].「ジェム」カードが発動したとき発動する。チャージを+1する。,[1].Trigger when a "Gem" card is activated: Gain +1 Charge.
+[2].１ターンに１度、相手との戦闘開始時、チャージを２つ消費して発動できる。その相手キャラクターに「魅了」を付与する。,[2].Once per turn; at the start of battle with an opponent; you may consume 2 Charges and activate this ability: Grant the opposing character "Charm."
+[3].自分の墓地に「ジェム」カードが５種類枚以上ある場合、相手ターン開始時に発動する。自分フィールド上のすべてのモンスターに「次受ける戦闘ダメージまたは効果ダメージを0にする」を付与する。,[3].If there are 5 or more different "Gem" cards in your graveyard; activate this ability at the start of the opponent's turn: Grant all monsters on your field "Nullify the next combat damage or effect damage received."
+(相手が魅了またはおっぱいに弱い状態のとき、パイズリ攻撃時に追加ダメージを与えることがある。),(If an opponent has "Charm" or "Weak to Breasts"; additional damage may be dealt during titjob attacks.)
+わたしはカーバンクル、宝石の精霊なの。\nこの額の宝石があなたに幸福をもたらすんだよ。\nほら、見て・・・❤,I'm Carbuncle; a spirit of gemstones. This gem on my forehead will bring you happiness. Here; take a look...❤
+はうぅ、きれい・・・・❤,Hahh; it's beautiful...❤
+くすくす❤光を当てられるだけで、幸せになってきたよね❤\n宝石には人間を惑わす不思議な力がある。\n宝石の魅力に取りつかれて、死ぬまで支配されるの、気持ちいいよ？,*Giggle*❤ Just being caught in the glow of my gem makes you happy; right?❤ Gems have this mysterious power that mesmerizes humans. Being captivated by the charm of a gem and being led to your death feels so good; doesn't it?
+きらきらキレイな光、それを身に着けた女の子の美しさ♪\nメロメロになっちゃったあなたの体にも、\nたっぷり教えてあげるね❤,The sparkling; beautiful light and the beauty of the girl wearing it…♪ Now that your body's fallen head-over-heels for me; I'll teach you a thing or two about pleasure; too~❤
+あなたにも宝石の魅力を教えてあげるね❤\nこの額の宝石があなたに幸福をもたらすんだよ。\nほら、見て・・・❤,I'll teach you the charm of gems; too!❤ This gem on my forehead will bring you happiness. Here; just look...❤
+はうぅ・・・・❤,Hahh...❤
+くすくす❤あなたも宝石の光の虜だね❤,*Giggle*❤ You're captivated by the gem's light too; aren't you?❤
+きらきらキレイな光、それを身に着けた女の子の美しさ♪\n男の子はみんな宝石でうっとりさせてあげる❤,The sparkling beautiful light; and the beauty of the girl wearing it…♪ I'll make sure all you boys are totally mesmerized by my gems~❤
+宝石の美しさにあてられて、頭くらくらする？\n地面にへたぁって座りこんじゃったね❤,Awh; is your head getting all dizzy from the beauty of my gem? You've totally plopped yourself on the ground~❤
+ほら、隙だらけになったあなたにパイズリご奉仕だよ❤\n今よりもっと、体に力が入らなくしてあげる❤,Here; now that you're all vulnerable; I'll go ahead and give you a titjob.❤ I'll just make your body even weaker than it already is; okay?❤
 わたしのおっぱいとってもやわらかいでしょう？\n額の宝石をじっと見ながら、\nおっぱいをゆさゆさされるの気持ちいいねー❤,
 うふふ❤幸福感で動けないあなたに、\nパイズリで追撃してあげる・・・❤\n嫌なら逃げてね？,
 くす❤マスターなのに逃げないんだ？\n完全に棒立ちだね。もう試合のことどうでもよくなっちゃった？,
