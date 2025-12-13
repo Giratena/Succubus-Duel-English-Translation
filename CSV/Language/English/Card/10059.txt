@@ -5,11 +5,11 @@ EU59_paizuriAnime,
 EU59_paizuriAuraAnime,
 　相手を魅了し、弱体化させることが得意な下級のサキュバス。魅了の呪いが込められたペンダントを、犬の首輪のように男にかけてくる。ペンダントを身に着けさせられた者は、首から上に常に快感が送られ、目の前にいるサキュバスたちの姿が通常よりもさらに美しく見えるようになり、抗うことができなくなってしまうのだという。,A lower-level succubus skilled at charming and weakening opponents. She places an enchanted pendant around men's necks like a dog collar. Those who wear the pendant experience constant pleasure from the neck up; causing any succubus before them to appear even more beautiful than normal; making resistance impossible. 
 \n　サキュバスであるため、当然さまざまな性技も人間よりはるかにうまく、魅了された状態で彼女の愛撫を受ければ、男はたちどころに彼女にエナジーを献上してしまうだろう。,As a succubus; she's naturally far more skilled at various sexual techniques than any human; and men who receive her caresses while charmed will instantly surrender their energy to her.
-[1].このカードが場に出たとき発動する。デッキから「チャームペンダント」を１枚手札に加える。,"[1]. When this card enters the field; add one ""Charm Pendant"" from your deck to your hand."
-[2].1ターンに１度、相手フィールド上の「魅了」状態のキャラクターを選択して発動できる。そのキャラクターに「早漏化」を付与する。,"[2]. Once per turn; select one ""Charmed"" character on your opponent's field. Inflict ""Premature Ejaculation"" on that character."
-[3].相手の「魅了」状態のモンスターが破壊されたとき発動する。カードを1枚ドローする。,"[3]. When your opponent's ""Charmed"" monster is destroyed; draw 1 card."
-[4].このカードが存在する限り、相手は「魅了」状態のモンスターを上級召喚のコストにすることはできない。,"[4]. While this card is on the field; your opponent cannot use ""Charmed"" monsters as tribute for an advanced summon."
-(戦闘時に弱点を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。),"(Applies weakness during battle. If the opponent with ""Premature Ejaculation"" has current HP equal to or less than twice this card's attack; perform Masturbation Temptation.)"
+[1].このカードが場に出たとき発動する。デッキから「チャームペンダント」を１枚手札に加える。,[1]. When this card enters the field; add one ""Charm Pendant"" from your deck to your hand.
+[2].1ターンに１度、相手フィールド上の「魅了」状態のキャラクターを選択して発動できる。そのキャラクターに「早漏化」を付与する。,[2]. Once per turn; select one "Charmed" character on your opponent's field. Inflict "Premature Ejaculation" on that character.
+[3].相手の「魅了」状態のモンスターが破壊されたとき発動する。カードを1枚ドローする。,[3]. When your opponent's "Charmed" monster is destroyed; draw 1 card.
+[4].このカードが存在する限り、相手は「魅了」状態のモンスターを上級召喚のコストにすることはできない。,[4]. While this card is on the field; your opponent cannot use "Charmed" monsters as tribute for an advanced summon.
+(戦闘時に弱点を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。),(Applies weakness during battle. If the opponent with "Premature Ejaculation" has current HP equal to or less than twice this card's attack; perform Masturbation Temptation.)
 魅了されて魔力抵抗が弱ってるあなたに、\n素敵な呪いをかけてあげる❤,Now that you're charmed and your magic resistance has weakened; I'll place a wonderful curse on you.❤
 あなたのおちんちんが弱くなって、\nすぐにイっちゃうようになる呪いよ❤\nほら、指先からハートを飛ばして・・・♪,A curse that'll make your dick weaker; causing you to cum instantly~❤ Look; I'll send hearts flying from my fingertips...♪
 わたしからもあなたにプレゼント❤,Here's my gift to you too.❤
