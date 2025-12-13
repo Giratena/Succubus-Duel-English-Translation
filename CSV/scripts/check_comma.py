@@ -8,12 +8,17 @@ def check_line(line: str, line_number: int) -> bool:
         # a correctly formatted CSV is the original text, a comma and the translation
         return True
     elif parts_number == 1:
+        # note that this does accurately detect missing translations, because a line that is missing a translation would be:
+        # something,
+        # which is composed of two parts "something" and '' (which is nothing)
         print(f"The line {line_number} is missing a translation or is incorrectly formatted")
     elif parts_number > 2:
         # there is at least one comma that shouldn't be there
         print_wrong_comma(parts, line_number)
     else:
         print(f"There seems to be an unknown issue with the parsing of line {line_number}")
+    # print a blank line to separate lines more easily (if there are multiple errors in a line, it's better like that)
+    print("")
     return False
 
 def print_wrong_comma(parts, line_number: int):
@@ -25,8 +30,6 @@ def print_wrong_comma(parts, line_number: int):
         words = splited_part.split(' ') # split on space
         printed_words = ' '.join(words[-printed_word_number:])
         print(f"On line {line_number}, after \"{printed_words}\" : consider using ; instead of a comma")
-    # print a blank line to separate lines more easily (if there are multiple errors in a line, it's better like that)
-    print("")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
