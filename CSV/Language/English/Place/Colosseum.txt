@@ -194,7 +194,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 聞けば、わしらのような老人であっても、\nサキュバスを目にすると快楽に呑まれてしまうらしい。\n性別年齢を問わず本能を直接刺激してくるということなのじゃろう。,I've heard that even old folks aren't safe from their wiles. It seems that regardless of gender or age; they manage to stimulate the human senses.
 生き物である以上、性欲からは逃れられん。\n実に厄介な相手じゃのう。,As long as we're warm-blooded creatures; we can't escape sexual desire. Truly a tricky opponent.
 うわあ、無敗のルーキーだ！！\nすげー、本物だ！,Wow; it's the undefeated rookie!! Amazing; you're the real deal!
-こんどAランクの昇格戦に出るんだろ！\n俺ぜったい見に行くぜ。こづかい全部使ってチケット買うんだ！,You're going to be in the A-rank promotion match next time; right? I'm definitely gonna be watching; even if I ahve to spend all my allowance on a ticket!
+こんどAランクの昇格戦に出るんだろ！\n俺ぜったい見に行くぜ。こづかい全部使ってチケット買うんだ！,You're going to be in the A-rank promotion match next time; right? I'm definitely gonna be watching; even if I have to spend all my allowance on a ticket!
 なんだろう、体がむずむずする・・・。,I don't know why; but my body feels restless...
 体が熱いというかなんというか。\n魔力が体からあふれ出しそうな、変な感じ・・・。,It's kinda... hot; or something. It feels strange; like my magical power is about to overflow from my body...
 んー、昨日サキュバスカードで男マスターをこてんぱんに負かして、\n魔力を搾りすぎたかしら？\n魔力の過剰摂取って体に悪いんだっけ。不安になってきちゃった。,Hmm; did I squeeze too much magical power out of the male master with my succubus card yesterday? Is excessive intake of magical power bad for the body? I'm starting to feel anxious.
@@ -239,7 +239,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 多くの場合、\n特定のカードがないと発動できないような強い制約のあるカードは\n強力な効果を持っています。,In many cases; cards with strong restrictions that can't be activated without other specific cards often have powerful effects.
 しかしだからといって、考えなしにデッキに入れると、\n手札事故を引き起こしかねません。コンボ用のカードがそろわなければ\n何の役にも立たないカードになってしまうからです。,However; if you put them in your deck carelessly; you might run into some issues with your hand. If you don't have the combo cards ready; they can become totally useless!
 コンボカードを活かすためには、ドローカードを追加で入れたり、\n属性やレベルでデッキからサーチするようなカードを入れると、\n動きが安定しますね。,To make the most of combo cards; try adding draw cards or cards that search your deck by attribute or level to help make your deck more consistent; okay?
-強力なカードと潤滑油になるようなカード、\nそのどちらもが強いデッキを作るうえでは欠かせないと言えるでしょう。,Powerful cards and the commbo cards that fuel them... Both are essential for building a strong deck.
+強力なカードと潤滑油になるようなカード、\nそのどちらもが強いデッキを作るうえでは欠かせないと言えるでしょう。,Powerful cards and the combo cards that fuel them... Both are essential for building a strong deck.
 「メタカード」というのをご存じでしょうか。,Do you know what a 'meta card' is?
 メタカードは特定の種類のデッキに対してよく刺さるカードのことで\n例えば魔法の「武装放棄」がそうですね。,A meta card is a card that works especially well against specific types of decks; such as the spell 'Abandon Weapons.'
 このカードはわずか500のLPコストで、\n相手の装備カードをすべて破壊してしまいます。\n１枚で最大３枚破壊できるわけですから、きわめて強力です。,This card; at the small cost of 500 LP; can destroy all of the opponent's equipped cards. Since it can destroy up to three of their cards for just one of your own; it's extremely powerful.
