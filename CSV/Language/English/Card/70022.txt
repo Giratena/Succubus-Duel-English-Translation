@@ -10,6 +10,8 @@ F22_bustShakeAnime,
 OPイベントをスキップしますか？,Skip the OP event?
 はい,Yes
 いいえ,No
+闘技場に挑戦する(必要ランクポイント:{$needPoint}),Challenge the arena (Required rank points: {$needPoint})
+今はやめておく,Not right now
 決まったー！{主人公}選手の勝利です！,The match has been decided! The winner is... {主人公}!
 Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺です！あっという間に勝負を決めました！\nこれが無敗のルーキーの実力だぁ！,Looks like even a B-rank elite proves no match for our up-and-coming star! It was over in a flash! An instant kill! The match was decided in the blink of an eye! This is the power of the undefeated rookie!
 無敗でここまで勝ち上がり、Bランクにすら勝ってしまった！\nすごい、すごすぎる！VIP席の観客も唖然として眺めています！\n我々は後世まで語り継がれる、すごい選手の試合に立ち会っているぞ！,After climbing the ranks undefeated; he's even managed to defeat a B-rank cardmaster! Amazing! Absolutely amazing! Even the spectators in the VIP seats are gawking at the sight in stunned silence! What we've just witnessed is an incredible match from an inspiring master who will be talked about for generations to come!
@@ -118,7 +120,7 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 僕の意志も聞かず、女の子たちは応援の踊りを始めた。掛け声で拍子をとり、手足を振り上げてリズミカルに踊る。,Ignoring my wishes; the girls started their cheerleading routine. They kept time with chants; rhythmically dancing as they raised arms and legs.
 はつらつとしていて、健康的な踊り。しかし短いスカートや、胸元に開いたハート型の穴から見える谷間が、否応なく僕の性欲を煽ってくる。,Their routine was lively and wholesome; but combined with the sight of their short skirts and the cleavage visible through the heart-shaped cut-outs on their chests; I could feel my lust beginning to stir..."
 なにより目と鼻の先の距離で踊っているのだ。狭い部屋だから女の子たちの甘い匂いがこもってくるし、ううっ、だめだ、頭がぼーっとしてきた。,More than anything; they were dancing so close. The sweet scent of the girls filled the cramped room; and ugh; no good; my head was getting fuzzy.
-ふれー、ふー♪{主人公}！,Fight; {主人公}; fight! Fight with all your might~♪
+ふれー、ふれー♪{主人公}！,Fight; {主人公}; fight! Fight with all your might~♪
 （ううっ、パンツ見えてる・・・❤\nそれに胸もあんなに揺れて・・・❤）,(Ughh; I can see their panties...❤ And their breasts are bouncing so much...❤)
 （くすくす❤完全に釘付けになってる❤\n無敗のルーキー、ちょろーい❤）,(*Giggle*❤ He's totally mesmerized!❤ Mister Undefeated Rookie is so easy~❤)
 {主人公}くんが元気になれるように、\nほらぁ、おっぱいの前で、ぼんぼんをわさわさぁー♪,To make sure {主人公} really gets energized; look~❤ We'll shake our pom-poms in front of our chests~♪
@@ -192,14 +194,16 @@ LPを2000払って{使用カード}を発動します！,I'll pay 2000 LP to act
 手札からカードを1枚捨てて、{使用カード}を発動！\nデッキからカードを１枚ドローします！,I'll discard a card from my hand to activate {使用カード}! I draw one card from my deck!
 手札のカードを1枚捨てて、{使用カード}を発動！\nデッキからカードを１枚ドローします！,I'll discard a card from my hand to activate {使用カード}! I draw one card from my deck!
 人魚をパワーアップするカードです。\n手札を１枚捨て、永続魔法、{使用カード}を発動！,Time to power up my mermaids. I'll discard a card from my hand and activate the Continuous Spell {使用カード}!
-人魚に惑わされた魂は、楽園に囚われる…❤\n永続魔法「{使用カード}」発動！\n墓地に行ったモンスターを除外し、LPを500回復します！,Any soul entranced by mermaids becomes trapped in paradise...❤ I activate the Continuous Spell {使用カード}! It banishes the monster that just went to your graveyard and I recover 500 LP!
-攻撃力がダウンした相手モンスターが墓地へ送られたとき、\n永続魔法「{使用カード}」発動！\n墓地に行ったモンスターを除外し、LPを500回復します！,When an opponent's monster with reduced attack is sent to the graveyard; I can activate the Continuous Spell {使用カード}! It banishes that monster from the graveyard and I recover 500 LP!
+人魚に惑わされた魂は、楽園に囚われる…❤\n永続魔法「{使用カード}」発動！\n墓地に行ったモンスターを除外し、LPを800回復します！,Any soul entranced by mermaids becomes trapped in paradise...❤ I activate the Continuous Spell {使用カード}! It banishes the monster that just went to your graveyard and I recover 800 LP!
+攻撃力がダウンした相手モンスターが墓地へ送られたとき、\n永続魔法「{使用カード}」発動！\n墓地に行ったモンスターを除外し、LPを800回復します！,When an opponent's monster with reduced attack is sent to the graveyard; I can activate the Continuous Spell {使用カード}! It banishes that monster from the graveyard and I recover 800 LP!
 {使用カード}が手札から捨てられたとき効果発動！\nデッキから「マーメイド」カードを１枚手札に加えます！,When {使用カード} gets discarded from my hand; its effect activates! I add one "Mermaid" card from my deck to my hand!
 {使用カード}を手札から捨てたとき効果発動！\nデッキから「マーメイド」カードを１枚手札に加えます！,When I discard {使用カード} from my hand; its effect activates! I add one "Mermaid" card from my deck to my hand!
 残念ですが、そのカード無効にしちゃいます！\n手札の水属性カードを捨てて{使用カード}を発動！,Sorry; but I'm going to negate that! I'll discard a Water Attribute card from my hand to activate {使用カード}!
 氷漬けにして無効にしちゃいます！\n手札の水属性カードを１枚捨てて{使用カード}を発動！,I'll freeze that card solid and negate its effect! I'll discard one Water Attribute card from my hand to activate {使用カード}!
 モンスターが場に出たとき、{使用カード}を発動！\n相手のすべてのモンスターに500ポイントダメージと\n「凍結」を与えます！,When a monster is summoned to the field; I can activate {使用カード}! This deals 500 points of damage to all of your monsters and inflicts "Freeze"!
 モンスターが場に出たとき{使用カード}を発動！\n相手のすべてのモンスターに\n500ポイントダメージと「凍結」を与えます！,When you summon a monster to the field; I activate {使用カード}! This deals 500 points of damage to all your monsters and inflicts "Freeze"!
+攻撃宣言時に、トラップ「{使用カード}」を発動！\n美しい歌であなたたちのことメロメロにしちゃいます❤,When you attack; I activate my trap; {使用カード}! I'll charm you with a beautiful song.❤
+脳を蕩けさせてあげますね❤\n攻撃宣言時に、トラップ「{使用カード}」を発動！\n人魚モンスターの数だけ魅了を付与します！,I'll melt your brain.❤ When an attack is declared; I can activate the trap {使用カード} to charm an enemy for every mermaid I control.
 攻撃宣言時に、永続トラップ{使用カード}を発動！\nこのカードがある限り、あなたのモンスターの攻撃力は\nマーメイドモンスターの数×200ポイントダウンします！,When you declare an attack; I activate the Continuous Trap {使用カード}! As long as this card remains on my field; your monsters' attack power decreases by the number of Mermaid monsters I control times 200!
 １ターンに１度、{使用カード}を発動！\nすべてのマーメイドモンスターの攻撃力を\n200ポイントアップします！,Once per turn; I can activate {使用カード}! The attack of all my Mermaids increases by 200 points!
 １ターンに１度、{使用カード}を発動！\nわたしのマーメイドモンスターの攻撃力を\n全員200ポイントアップです！,Once per turn; I can activate {使用カード}! All my Mermaid monsters' attack increases by 200 points each!
@@ -461,7 +465,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 ぷぷっ、パイズリされながら囁かれて、\nずいぶんだらしない顔になっちゃっていますね❤,Pupu; getting a paizuri while being whispered to is making you make such a pathetic face!❤
 口は半開きで目もうつろになって、\n人には見せられないひどい顔❤,Your mouths half-open and your eyes are totally vacant... You look awful! You really shouldn't ever let anyone see your face like that~❤
 ああ、そうそう❤快感を満喫してるところ悪いんですけど、\n大事なことを言っていませんでした。,Ah; that's right!❤ Sorry to interrupt you while you're lost in pleasure; but I forgot to mention something important.
-あなたが射精をすると、\nそのお耳の魔術、持続時間が三日伸びるんです❤,Every time you ejaculate; the magic on ear gets its duration extends by three days.❤
+あなたが射精をすると、\nそのお耳の魔術、持続時間が三日伸びるんです❤,Every time you ejaculate; the magic on your ear gets its duration extends by three days.❤
 あなたが放出した魔力を吸収して、持続時間を伸ばす仕組みなので…♪\nだから、その魔術を解除しようと思ったら、\nお射精は我慢しないとダメですよ❤,It absorbs the magical power you release to let it last longer...♪ So if you want to dispel that magic; you can't cum at all!❤
 こんな風にぱんぱんぱん♪っておっぱいでいじめられても、\n射精したらダメ❤,No matter how much my breasts torment you like this; you can't cum~❤
 （わたしから、お耳をれろぉってなめあげられても、\n射精したらダメ❤ダメなんだよ…❤？\nくすくす❤）,(Even when I lick your ears with a wet slurrrp; you can't cum~❤ You can't; okay...?❤ *Giggle*❤)
@@ -489,7 +493,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 時折、クエストや買い物などで雑用係が欲しいときに、メロディは耳にかけた魔術に指示を出して、僕に命令をささやかせる。,Occasionally; when Melody wanted an errand boy for quests or shopping; she would use the magic on my ear to whisper commands to me.
 彼女の言葉を聞くことが、最大の喜びになってしまっている僕にとって、その命令は至福にも似ていて、命令されたら最後夢うつつのまま下僕のように彼女に尽くしてしまうのだった。,For someone like me-who found pleasure in listening to that sweet voice-those orders were like bliss. Once commanded; I would serve her like a vassal; lost in a dream.
 こうして僕は、やわらかいおっぱいと甘いささやきによってすっかり彼女の魅力にとりつかれてしまい、修行どころではなくなってしまった。,Thus; through sweet whispers and soft breasts; I became completely captivated by Melody's charm; unable to focus on my training at all.
-魔力も時間も彼女に吸い取られて、僕の妹を探すための物語はその幕を閉じたのだった。,With my magical power and time both being drained by her; story of my search for my sister came to an end.
+魔力も時間も彼女に吸い取られて、僕の妹を探すための物語はその幕を閉じたのだった。,With my magical power and time both being drained by her; the story of my search for my sister came to an end.
 チアガールたち相手に理性を失い、みじめに自滅してしまった僕は、エナジーを失って闘技場の地面に膝をついていた。,Having lost all my willpower watching Melody's cheerleaders and stroking myself to exhaustion; I was left kneeling on the arena floor; my energy lost.
 くすくす❤あの子たちにちょっかいを出すように頼んでましたけど、\nまさかオナニーをはじめて自滅してしまうなんて❤,*Giggle*❤ I asked those girls to mess with you; but I never imagined you'd just start masturbating and throw the match like that~❤
 無敗のルーキーさんって、思ったよりも弱い人だったんですね。\nちょっと失望しちゃいました。\nがっかりです❤,The undefeated rookie turned out to be weaker than I thought. I'm actually a little disappointed~❤
