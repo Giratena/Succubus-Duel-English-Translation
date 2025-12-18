@@ -1,423 +1,423 @@
 default
-ネクロ,Necoro
+ネクロ,Necro
 F23_paizuriAnime,
-　死霊術を得意とするカードマスター。好んで悪事に手を貸しているわけではないが、金欠のところを盗賊たちに拾われ、一時的に護衛の仕事を請け負っている。生活力が弱く、よく金欠に陥っており、昔から面倒見がよいコノハにいろいろと助けられていた。\n　研究以外のことに関しては総じていいかげんな性格であるが、実力は本物で、Bランク相当の能力がある（ギルドでの手続きをしていないため正式なBランクではない）。墓地からモンスターを次々と復活させ、物量で押し切る戦術は、単純ながら強力。こちらも相応にモンスターを展開するか、範囲魔法攻撃で敵を一掃しなければ、対抗することは難しい。あるいは墓地のモンスターを取り除くことができれば相手の復活を止めることができるかもしれない。\n　周囲から「頼りない、いいかげんだ」とよく言われているため、その反動からか年下の男の子にお姉ちゃんと呼ばれたいと思っている。男の子を快感で甘やかすだけ甘やかして、自分に依存させ、自分なしではいられない体にしたいらしい。ぴったりとした服の下は意外と巨乳であり、顔やペニスを挟んで甘やかしてくるので、彼女の虜にならないように気を付けなければならない。虜になってしまえば、彼女との堕落した生活が待っているだろう。,
-死霊術を得意とするカードマスター。好んで悪事に手を貸しているわけではないが、金欠のところを盗賊たちに拾われ、一時的に護衛の仕事を請け負っている。生活力が弱く、よく金欠に陥っており、昔から面倒見がよいコノハにいろいろと助けられていた。,
-　研究以外のことに関しては総じていいかげんな性格であるが、実力は本物で、Bランク相当の能力がある（ギルドでの手続きをしていないため正式なBランクではない）。墓地からモンスターを次々と復活させ、物量で押し切る戦術は、単純ながら強力。こちらも相応にモンスターを展開するか、範囲魔法攻撃で敵を一掃しなければ、対抗することは難しい。あるいは墓地のモンスターを取り除くことができれば相手の復活を止めることができるかもしれない。,
-　周囲から「頼りない、いいかげんだ」とよく言われているため、その反動からか年下の男の子にお姉ちゃんと呼ばれたいと思っている。男の子を快感で甘やかすだけ甘やかして、自分に依存させ、自分なしではいられない体にしたいらしい。ぴったりとした服の下は意外と巨乳であり、顔やペニスを挟んで甘やかしてくるので、彼女の虜にならないように気を付けなければならない。虜になってしまえば、彼女との堕落した生活が待っているだろう。,
-(一定確率で魅了を付与する攻撃を行う。パイズリで弱点攻撃時に拘束攻撃を行う。拘束攻撃で相手を破壊した場合、自身の攻撃力を300ポイントアップする。),
-OPイベントをスキップしますか？,
-情報を聞いて回った結果、どうやら盗賊たちは北の山を根城にしているらしい。,
-村人たちで一度討伐隊を組んで討伐に向かったが、そこにいた紫髪のカードマスターに返り討ちにあったとのことだった。,
-敵の本拠地が判明しているなら話は早い。乗り込んで直接戦闘をし、盗賊たちをこらしめればいい。紫髪のカードマスターについても、師匠から聞いていた特徴に合致しているし、この人が「死霊術師ネクロ」で間違いないだろう。,
-僕は目的地を定め、村人から聞いた場所を頼りに、盗賊たちの根城に向かったのだった。,
-（ここが村の人たちが言っていた場所か。廃坑を根城に使っているんだな）,
-盗賊たちが何人か見張りに立っている。人数は２、３人だが、中にまだ何人もいるのだろう。,
-（隙をついて、カードでダメージを与えれば…。\nばれずに一気に行ける）,
-（いまだ・・・！）,
-僕はカードを駆使しながら廃坑の奥へと向かって一気に進んだ。,
-盗賊といっても、カードを使えない相手だ。まともに戦う限り、十数人ぐらいなら僕一人で気絶させられる。,
-カードマスターは魔力で体を守っており、弓でも剣でも、普通に攻撃される分にはほとんどダメージを受けない。だから多少の人数差があっても相手にならないのだ。,
-やべえ、侵入者だ！\n強いカードマスターをギルドが送り込んできやがった！,
-おい、用心棒の姉さん、頼むぜ！\nこのままじゃ全滅しちまう！,
-はぁ、また仕事・・・？\nめんどくさいなぁ・・・。,
-ふふ、お前も運が悪いな。\nふつうの盗賊団ならいざ知らず、\nあたしたちの団にはネクロ姐さんが付いている！,
-お前みたいな若い男じゃ、絶対勝てねえぜ。\n地面に這いつくばらせて、あたしたちを襲ったこと、\n後悔させてやるよ！,
-ま、そういうわけだから、\nあなたに恨みはないけど、動けなくなるまで搾り取らせてもらうわね❤,
-・・・・・。,
-僕は戦いを始める前に、目の前のカードマスターに僕がコノハの弟子であること、そしてサキュバス化の治療方法のためにネクロさんを探していたことを話した。,
-そのうえで犯罪行為をやめて自首してほしいと訴えた。彼女にも何か事情があるかもしれないが、戦わずに済むのならそれに越したことはないはずだ。,
-え？コノハちゃんの弟子？\nうわー、なつかしいなぁー。コノハちゃん元気にしてるの？,
-それに君、見る目あるねー。\nわたしの研究のこと見つけてくれて、\nそのうえ頼ってくれるなんてちょっとうれしいかも。,
-うーん、でも、わたし今の生活に割と満足してるし・・・。\n受けた仕事はちゃんと達成する主義だからぁ、\n戦わずに降参って選択肢はないかなぁ。,
-やめさせたければ、わたしをあなたの実力で屈服させてみせて？\nあ、それよりも・・・❤,
-むしろあなたが降参して、\nお姉さんと怠惰でわるーい生活、いっしょに過ごすのもいいかも❤,
-盗賊生活も案外いいもんだよぉ❤\n味方になってくれるなら、\n朝も夜も、たくさん気持ちいいことしてあげる❤,
-そういうとネクロは、ローブを軽くはだけて、自分の体を見せつけてきた。,
-ローブで隠れていてわかりにくかったが、スレンダーな体つきで、胸も大きい。ぴったりと張り付いた黒い服が体のラインを強調して、余計に色気を感じさせている。,
-ほら、お姉さんの胸の間においで？\n抱きしめてあげる❤,
-・・・っ。,
-彼女の提案に対して僕は・・・。,
-強く突っぱねた,
-心が揺れてしまった,
-そんな誘いに乗るわけにはいかない！僕は彼女に「ふざけないでください」とはっきり言うと、剣をかまえ、戦闘の意思を示した。,
-あん、そんなに怒らなくてもいいのに。,
-まあ、いいわ。それなら戦闘ではっきりさせるだけね。\n負けたらこの仕事もおしまいにするから、\nあなたも悪いお姉さんに屈服しないよう、がんばってね❤うふふ❤,
-悪いことに手を貸すなんて、あってはならないことだ。しかし、彼女の体も魅力的で・・・❤,
-僕は一瞬、彼女の胸に視線を吸い寄せられてしまった。そしてその隙をネクロは見逃さなかった。,
-はい❤おっぱいで捕まえた❤\n隙だらけになっちゃってかわいいねー❤,
-あなたの師匠と同じぐらい強いマスターを前に、\n棒立ちになるなんて、油断が過ぎるんじゃないかなぁ。\nそんなにわたしの体、気になっちゃった？くすくす❤,
-むぐぅうう❤はわぁ・・・❤,
-むにゅり、むにゅりと顔面におっぱいが押し付けられる。谷間の甘い匂いとやわらかい感触に、どんどん体の力が抜けてしまう。,
-ほら、ほら、ぱふぱふ❤ぱふぱふ・・・❤,
-わたしねー、特別な香水を体につけてるの。\nだからこんな風に匂いを嗅いじゃったら、\n頭がピンク色に染まっちゃうよね❤,
-戦えなくなるまで、うっとりしちゃっていいよ❤\n一回射精しちゃったら、しばらく抵抗できなくなるでしょ？,
-ローブであなたのこと完全に包んであげる❤\n周りのことなんて忘れて、わたしの体に溺れちゃおう・・・？,
-あっ、ああっ、もうダメ❤\nまだ戦ってもいないのにっ、ああっ・・・❤。,
-きゃん、もう突き飛ばさなくてもいいじゃない。,
-わたしに抱っこされるのは嫌だった？\nくすくす❤それにしてはずいぶんと蕩けた顔・・・❤,
-おっぱいに顔を埋められて、頭とろとろになっているのに、\n頑張ってわたしのこと跳ね除けたんだね❤\nコノハちゃんの弟子はえらいなー❤,
-でも、そんなにふらふらでどれだけ戦えるのかな？\nすぐにイかせてあげる❤,
-きゃあ！\nううっ、こんなに強いなんて・・・。,
-あん、分かったわよ。降参するわ。\nこれ以上の抵抗は無意味よね。,
-ネクロはその場にぺたんと座り込み、両手をあげて降参の意志を示した。,
-用心棒を失った盗賊は、慌てふためいている。僕は盗賊たちを残った力でなんとか押さえ込み、そのままこのアジトを制圧したのだった。,
-その後、村の衛兵に盗賊たちを引き渡すと、僕はネクロさんを連れてモルゲンの街へと向かった。,
-ガチャンと牢屋の扉が閉じる音がする。,
-あうう・・・。\n牢屋に入れないでぇ❤って何度も馬車でおねがいしたのに・・・。\nコノハちゃんの弟子くんは真面目過ぎるよ～。,
-彼女の手を縛り、馬車でモルゲンまで護送してきたが、街に着くまでの間、散々体を押し付けて誘惑されて、かなり大変だった…。,
-接触してこないように距離をとっても、狭い馬車の中では逃げられない。手は縛られて使えなくても口で色々とささやいてくるし…。ここまで我ながらよく我慢したと思う。,
-お疲れ。弟子。\nよくやったわね。\n無事盗賊団を討伐できたようで、さすがBランクになっただけあるわ。,
-それとネクロ。あんた何やっているのよ。\n前から危なっかしい子だとは思ってたけど、\nまさか盗賊にまで落ちぶれているとは思わなかったわ。,
-あーん、コノハちゃん、\n久しぶりなんだからそんなに怒らないでよぉ。\n悪いことしちゃったなぁって思ってるからぁ。,
-僕は師匠と一緒に、ネクロにこれまでの事情を尋ねた。また、戦いの前にも言ったように自分たちがサキュバス化を治すためにネクロの研究をあてにしていることも説明した。,
-ネクロが犯罪に手を染めた理由は、研究に没頭していたら資金が底をつき、飢えて死にそうになっているところを盗賊たちに拾われたらしい。,
-実力があるのだからクエストを受ければいいはずなのだが、知らない相手と話すのが億劫で、事務手続きもなんだか怖くて、それでギルドになかなか行けなかったそうだ。,
-盗賊たちに手は貸したが、殺しはやらないなど自分なりに線を引いていた、と言い訳をしているが、犯罪は犯罪だ。しばらく牢屋に入れられるのは避けられないだろう。,
-はあ…。思ったより同情できない理由だったわ…。\n昔から手続きはわたしが一緒についていかないとダメだったけど、\nだからって飢え死にしそうになるまで行かないなんて。,
-弟子、あなたはこんなダメな大人になっちゃダメよ。,
-・・・・。,
-ううっ、だって何か怖いんだもん。\n闘技場も観客が多くて絶対むりだし・・・。,
-それで研究については、どういう感じなの？,
-あなた、たしか\n「サキュバスと親和性の高い闇属性の持ち主さえいれば」\nサキュバス化の治療のめどが立つって言ってたわよね。,
-えっと、うん。\nまずはサキュバス化の原理についてだけどね。\n弟子くんはどうやって人間がサキュバスになっちゃうか知ってる？,
-・・・・？,
-うふ、それじゃあお姉さんが教えてあげる❤\nよいしょっと・・・。,
-そういうとネクロは、突然牢屋越しに手を伸ばし、僕のへその下あたりをくるくるとなでまわしてきた。,
-・・・・っ❤,
-くすくす❤これぐらいでビクンってしちゃってかわいいなぁ。,
-それでね。いまわたしが撫でているここ、\nここには目に見えない、魔力を練るための核があるの。\n人によってはこれを「魂」って呼んでいるわ。,
-人間も魔族もここに魔力が宿っていて、\n地、水、火、風、光、闇の六属性を\nここで練り上げて使用している・・・。,
-この魔力器官は、普段は本人にしかコントロールできないんだけれど、\n唯一、そのコントロールがゆるんでしまうときがあるの。\nそれが性的に絶頂してしまう時❤,
-イっちゃう瞬間は、魔力器官を操ることができなくて、\n完全に無防備になる。魔力が射精でぴゅって出ちゃうのも、\n魔力器官と精巣の場所が近いからなんだよ❤,
-な、なるほど・・・❤あうぅ・・❤,
-大事な話をされているのに、ずっとへその下を指でくるくると撫でられていて、集中できない・・・❤,
-馬車でもずっと生殺しだったし、うう、なんだかお腹がジンジンしてきた・・・❤,
-(くす、かわいい❤),
-それでね・・・。サキュバス化の仕方だけど、\nサキュバスは人間の女の子をイかせたときに、\nこの魔力の核を体の外に取り出して、呪いを刻んでしまうの。,
-人間を悪魔に作り変えて、女王サキュバスに従順にしてしまう呪い。\nそのうえその呪いには、解除しようとすると\n魔力器官を粉々にしちゃう厄介な機能も付いてる。,
-{主人公}くんには一度体験してもらった方が早いよね。\n魔力器官を引っ張りだされて、そこに呪いを刻まれる感覚・・・❤,
-例えばこんな風に・・・❤\nえい・・・❤,
-そういうと、ネクロはお腹をなでながらもう片方の手で、僕のペニスをすっとひと撫でした。,
-勝負のときから我慢して、ここまで散々焦らされていた僕は、たったそれだけの刺激なのに、一気に頭を真っ白にされてしまう。,
-あっ、ま、まって、師匠が見てるのに・・❤ああっ❤,
-くすくす❤馬車の中でも両手が使えれば簡単だったのになぁ❤\nそれじゃ射精して無防備になったところで、えい・・・❤,
-ネクロは僕のお腹に当てている手に複雑な魔力を込めた。すると僕の体の中から、何かが吸い上げられそうな感覚に襲われる。,
-射精とはまた違う不思議な感覚。ふわっとした恍惚感に、頭の中が桃色に染められてしまう。ああ、気持ちいいぃ・・・❤,
-これが魔力の核が引っ張り出される感覚だよ。\nいまから少しだけきみの魔力の核に呪いを刻んであげる。,
-そうだなぁ。\n「ネクロお姉さんが好きで好きでたまらなくなる呪い」とかいいかも❤,
-って、あいた！ちょっとごめんごめん、冗談だって。\nコノハちゃん叩かないでよ。,
-ふう・・・。まあとにかく、\nこんな感じで相手の魔力器官を引っぱり出す技術を磨けば、\n呪いの付与や解除ができるようになるの。,
-あとはサキュバスの術式を理解して、\n{主人公}くんの半魔族化した魔力で\n呪いの防御機構にバレないように解呪できれば、,
-サキュバス化も治療できるってわけ。,
-人間の魔力に反発しちゃう防御機構だけが\nどうしてもクリアできなくてねー。それで研究がずっと止まってたの。\nあなたのおかげで一気に可能性が開けたわ。,
-はぁ、はぁ・・・❤あううっ・・・❤,
-あは、まだ恍惚感が抜けない？\n男の子はこのイキ方癖にならない方がいいと思うなぁ❤,
-だっておへその下をくるくるなでられてイかされたんだよ？\n女の子はそこが敏感な子多いけどね、ふふふ・・・❤,
-で、どうだった？\nわたしの説、なかなかおもしろかったでしょ？\nコノハちゃんも感心しちゃったんじゃない？,
-うん、確かに興味深いわね。,
-でも、サキュバスとの戦闘中にそんなことしている余裕あるの？\n人間がサキュバスをイかせるなんて不可能だろうし…。,
-ああ、それは大丈夫。サキュバスってダメージをたくさん受けると、\n霧になって消えちゃうでしょ？\nあれって体内の魔力がバラバラになっているってことだから、,
-つまり魔族はダメージを受けると魔力の結合がゆるむってわけ。\nだから、相手が動けなくなるぐらいまで戦って弱らせて、\nそのあとでお腹の下から魔力の核を引き抜けばいいんだよ。,
-ううっ・・・❤なるほど・・・・・。,
-それにしても血縁共鳴でサキュバスの影響を受けた人間かぁ。\nそれは思いつかなかったなぁ。うーん、盲点だった。,
-ネクロさんの話を聞く限り、理屈は通っているように感じる。魂を引き抜くなんてこと、ほんとにできるのだろうかと思わなくもないが、今実際にやられて抜き取られかけたわけだし…。,
-僕もネクロさんに教わって術を学べば、サキュバス化した人間から、サキュバスの魔力を抜き取ることができるかもしれない。,
-コノハちゃんの弟子くんが望むなら、\nちゃんと手取り足取りやり方を教えてあげるよ❤\n研究がきちんと形になるか、わたしも気になってしょうがないしねー。,
-その後、僕は牢屋に何度も通い、ネクロからサキュバス化の治療術について学んだのだった。,
-サキュバス化治療の知識を得た！,
-盗賊討伐クエストの報酬を得た！,
-きみのターンからだね。,
-こっちのターンからだね。,
-ねえ、もう限界なんでしょ？\nわたしのマントにくるまれて、\nたくさんお姉さんの体の気持ちよさ、味合わされちゃったもんね？,
-いいんだよ？わたしの胸に戻ってきても❤\n素直に降参すれば、やさしく抱きしめて、天国に送ってあげる❤,
-(ううっ・・・・❤),
-コノハちゃんの弟子くんは\nわたしの死霊モンスター相手にどれぐらい戦えるのかな？,
-何度でも蘇るモンスターの恐ろしさ、たっぷり味わってね❤,
-ドロー。,
-ドローするわ。,
-さあおいで。\nモンスターをコストにして、{使用カード}を上級召喚！,
-モンスターをコストにして、{使用カード}を上級召喚！,
-{使用カード}を召喚よ。,
-ううっ、あうう・・・❤,
-あら、わたしのゾンビたちと違って、\nあなたのモンスターは復活しても役に立たなそうね❤\nさっき受けた快感を引きずって、心ここにあらずだわ❤,
-肉体に受けたダメージは癒せても、\n記憶にこびりついた快感は簡単にはぬぐえない❤\nその子はすぐまた墓場送りにしてあげる❤,
-さらにもう1枚発動！,
-{使用カード}が墓地から特殊召喚されたとき、効果発動よ。\nフィールド上の「ゾンビ」状態のモンスター１体につき\n攻撃力を100ポイントアップ！,
-復活したとき、{使用カード}の効果発動！\nフィールド上の「ゾンビ」状態のモンスター１体につき\n攻撃力を100ポイントアップするわ！,
-{使用カード}が相手モンスターを戦闘で破壊したとき、効果発動！\nゾンビガールを自分フィールド上に１体増やすわ！,
-{使用カード}が相手モンスターを戦闘で破壊したとき、効果発動！\nゾンビガールを生成して特殊召喚する！,
-１ターンに１度、{使用カード}の効果を発動！\nすべての相手モンスターのHPを500回復させる代わりに、\n自分モンスターの攻撃力を200ポイントアップする！,
-１ターンに１度、{使用カード}の効果を発動！\n相手のHPを500回復させる代わりに、自分フィールド上の\nすべてのモンスターの攻撃力を200ポイントアップする！,
-召喚に成功した時、{使用カード}の効果発動！\nデッキから闇属性の魔法カードを１枚手札に加える！,
-召喚に成功した時、{使用カード}の効果発動！\nデッキから闇属性の魔法カードを１枚サーチ！,
-１ターンに１度、500LPを払い相手のゾンビモンスターを対象にして\n{使用カード}の効果を発動！\n＜葬送のくちづけ＞！対象に2000ポイントのダメージを与えるわ！,
-そしてこの効果は相手にモンスターがいない場合、\nゾンビ状態の相手プレイヤーにも発動できるの。\nさあ、弟子くんをくちづけでとろけさせてあげる❤,
-１ターンに１度、500LPを払い相手のゾンビモンスターを対象にして\n{使用カード}の効果を発動！\n対象に2000ポイントの効果ダメージを与えるわ！,
-相手が墓地からモンスターを特殊召喚したとき、\n{使用カード}の効果発動！\n蘇生したモンスターに2000ポイントのダメージを与えるわ！,
-相手フィールド上にアンデッドモンスターが２体以上存在するとき、\n手札の{使用カード}の効果を発動！,
-自分フィールド上のモンスター１体をコストにして、\n手札から{使用カード}を特殊召喚よ！,
-{使用カード}が場に出たとき、効果を発動！\n相手フィールド上の「ゾンビ」状態でないキャラクターに\n「ゾンビ」状態を付与するわ。,
-{使用カード}が場に出たとき、効果を発動！\n相手フィールド上の「ゾンビ」状態でないキャラクターを\n「ゾンビ」状態に変えるわ！,
-自分の闇属性キャラクターが相手モンスターで破壊した時、\n{使用カード}の効果を発動！\nデッキから「{%%10053}」を１体サーチ！,
-破壊されたとき{使用カード}の効果発動！\n手札から可能な限り{%%10053}を特殊召喚するわ！,
-永続魔法{使用カード}を発動！\n墓地からモンスターが蘇るたびに\nわたしのライフを800ポイント回復するわ。,
-墓地から特殊召喚されたモンスターを対象に、{使用カード}を発動！\nダメージを１回無効にするバリアを張り、\nさらに最大HPを500ポイントアップするわ！,
-{使用カード}を発動！ダメージを１回無効にするバリアを\n墓地から特殊召喚されたモンスターに付与し、\nさらに最大HPを500ポイントアップするわ！,
-蘇りなさい。{使用カード}を発動！\n自分の墓地からランダムな闇属性下級モンスターを特殊召喚よ！,
-わたしのしもべは何度でも戦えるわ。{使用カード}を発動！\n自分の墓地からランダムな闇属性下級モンスターを\n「ゾンビ」状態を付与して特殊召喚よ！,
-奥の手を使うしかないようね。\nLPが2000以下で、自分フィールド上にモンスターが存在しないとき、\n{使用カード}を発動！,
-ライフを残り100になるまで支払い、手札を全て捨てるわ。\n代わりに、墓地から最も攻撃力の高い闇属性モンスターを\n可能な限り特殊召喚する！,
-自分の闇属性モンスターが破壊されたとき、{使用カード}を発動！\n自分の墓地からレベル４以下の闇属性モンスターを\n「ゾンビ」と「再生」状態を付与して可能な限り特殊召喚する！,
-墓場から溢れだしなさい！{使用カード}を発動！\n自分の墓地からレベル４以下の闇属性モンスターを\n「ゾンビ」と「再生」状態を付与して可能な限り特殊召喚するわ！,
-モンスターが場に出た時、永続トラップ「{使用カード}」を発動！\n場にゾンビ状態のモンスターがいるとき、\n新たに出てきたモンスターにも「ゾンビ」状態を付与するわ。,
-装備魔法カード発動！{使用カード}！,Magic card activate! {使用カード}!
-魔法カードを発動！{使用カード}！,
-トラップカードを発動！{使用カード}！,
-カードをセットするわ。,
-カードをセット。,Card set.
-ふふ、かわいがってあげる❤\n{防御カード}へ攻撃！,
-わたしも気持ちよくしてあげる。\n{防御カード}へ攻撃！,
-行きなさい！{使用カード}で{防御カード}を攻撃！,{使用カード}; attack {防御カード}!
-うっ、打つ手がないわね…。ターンエンド…。,
-この手札じゃ…。どうしようもないわ。ターンエンド。,End turn.
-ターン終了よ。, I end my turn.
-わたしのターンは終わり。ターンエンド。,End turn.
-これでおわりね。ターンエンド。,End turn.
-わたしの胸、脱ぐとけっこうすごいのよ？\nほら・・・❤,
-むにゅうって挟まれて、あなたのチンポ埋もれちゃったわね❤\nおっぱいに包まれると、天国でしょう？\n優しくずりずり動かして、気持ちよくイかせてあげる❤,
-胸でされるのは好き？\nそう、パイズリよ、パイズリ❤,
-男の子はみんなこれをしてあげると、すぐに骨抜きになるの。\n柔らかすぎるおっぱいで、あっという間に戦意喪失❤\nお姉さんの言うことを聞く、「いい子」になっちゃう❤,
-コノハちゃんの弟子くんも「いい子」になってくれる？\nほら、うんって言えば、たくさんズリズリしてあげるわよ❤\nくすくす❤,
-あなたも「いい子」になってくれる？\nほら、うんって言えば、たくさんズリズリしてあげるわよ❤\nくすくす❤,
-ふふ、体術だってそれなりにできるのよ。攻撃を防ぎながら、\n一気に相手に接近して・・・。\nはい、捕まえた❤,
-お姉さんの胸で顔をぎゅー❤\nくすくす❤挟まれた瞬間に体がふにゃ～って蕩けちゃったわね❤\nわたしのおっぱい、気持ちいい？,
-戦っていたことなんて、わたしのぱふぱふで忘れさせてあげる❤\nほら、ぱふぱふ❤ぱふぱふ❤\nうふふ♪おちんちんおっきくしちゃって、かわいい❤,
-男の子っておもしろいわよね。\nどんなにしっかりした顔で「悪いことは許せない」って強がっても…。\n指先で敏感なところをなでてあげるだけで、すぐに蕩けてしまうの❤,
-こうやって、くるくるくる❤って、服の上からなぞれば・・・❤\nほら、あなたもかわいらしい表情になってきた❤\nもっとちゃんと扱いてほしい？なら、お姉さんに屈服しなさい？くすくす❤,
-んふふ。もうすっかりメロメロね❤\nほら、もっと魅了を深くしてあげる。\n唇に魔力を集めて・・・❤んっちゅ❤,
-唇に魔力を集めて・・・❤\nんっちゅ❤魅了してあげる❤,
-ううっ、気持ちよくしてください…❤\nおねがいします・・・❤,
-くす❤わたしに抱き寄せられて、\nムラムラ抑えられなくなっちゃったのかしら。\n子犬みたいに媚びてかわいいのね❤,
-いいわよ。お姉さんがちゃんと気持ちよくしてあげる。\nほら、どうしてほしいのか言ってごらんなさい？,
-うふふ❤わたしにおねだりしちゃうんだ。\n盗賊の用心棒にそんなお願いするなんて、\nコノハちゃんが聞いたら卒倒しちゃいそう❤,
-自分の師匠のことなんてどうでもよくなって、\nお姉さんの体にメロメロになっちゃった？\nほら、どうしてほしいのか言ってごらんなさい？してあげるわよ。,
-うふふ❤敵のマスターにおねだりするなんて、ダメなモンスターね❤\nコノハちゃんの弟子くんは、\n自分のモンスターも十分に操れていないみたい。,
-自分のマスターのことなんてどうでもよくなって、\nお姉さんの体にメロメロになっちゃった？\nほら、どうしてほしいのか言ってごらんなさい？してあげるわよ。,
-屍術師のパイズリ,
-屍術師のぱふぱふ,
-弄ぶ指先,
-屍術師の投げキッス,
+死霊術を得意とするカードマスター。好んで悪事に手を貸しているわけではないが、金欠のところを盗賊たちに拾われ、一時的に護衛の仕事を請け負っている。生活力が弱く、よく金欠に陥っており、昔から面倒見がよいコノハにいろいろと助けられていた。\n　研究以外のことに関しては総じていいかげんな性格であるが、実力は本物で、Bランク相当の能力がある（ギルドでの手続きをしていないため正式なBランクではない）。墓地からモンスターを次々と復活させ、物量で押し切る戦術は、単純ながら強力。こちらも相応にモンスターを展開するか、範囲魔法攻撃で敵を一掃しなければ、対抗することは難しい。あるいは墓地のモンスターを取り除くことができれば相手の復活を止めることができるかもしれない。\n　周囲から「頼りない、いいかげんだ」とよく言われているため、その反動からか年下の男の子にお姉ちゃんと呼ばれたいと思っている。男の子を快感で甘やかすだけ甘やかして、自分に依存させ、自分なしではいられない体にしたいらしい。ぴったりとした服の下は意外と巨乳であり、顔やペニスを挟んで甘やかしてくるので、彼女の虜にならないように気を付けなければならない。虜になってしまえば、彼女との堕落した生活が待っているだろう。,A cardmaster specializing in necromancy magic. While not one to involve herself in evil deeds willingly; she was found by bandits while down on her luck; and ended up working as their temporary bodyguard. Due to her poor life skills and tendancy of falling into financial troubles; Konoha-who has always been good at taking care of others-has been habitually helping her out here and there.\n Though generally apathetic in nature when it comes to anything other than research; her abilities are genuine and she possesses skills equal to those of a B-rank cardmaster (though she was never officially granted the rank since she hasn't completed the proper guild paperwork). Her tactic of continuously reviving monsters from her graveyard and overwhelming her opponents with sheer numbers is simple yet powerful; which is difficult to counter unless you deploy a corresponding number of monsters or sweep her zombies away with field-wide magic. Alternatively; you could also remove monsters from her graveyard; which would prevent her from resurrecting her monsters as well./n Possibly as a result of many people often calling her "cold and unreliable"; she has developed a habit of targeting younger boys in hopes to demonstrate what she is capable of; wanting nothing more than to pamper them with pleasure; make them dependent on her; and ensure their bodies can't live without her. She's unexpectedly busty under her tight-fitting clothes; and she enjoys pampering boys by squeezing their faces and penises between her breasts. Caution is advised as to not become captivated by her; lest a debauched life with her surely awaits you.
+死霊術を得意とするカードマスター。好んで悪事に手を貸しているわけではないが、金欠のところを盗賊たちに拾われ、一時的に護衛の仕事を請け負っている。生活力が弱く、よく金欠に陥っており、昔から面倒見がよいコノハにいろいろと助けられていた。,A cardmaster specializing in necromancy magic. While not one to involve herself in evil deeds willingly; she was found by bandits while down on her luck; and ended up working as their temporary bodyguard. Due to her poor life skills and tendancy of falling into financial troubles; Konoha—who has always been good at taking care of others—has been habitually helping her out here and there.
+研究以外のことに関しては総じていいかげんな性格であるが、実力は本物で、Bランク相当の能力がある（ギルドでの手続きをしていないため正式なBランクではない）。墓地からモンスターを次々と復活させ、物量で押し切る戦術は、単純ながら強力。こちらも相応にモンスターを展開するか、範囲魔法攻撃で敵を一掃しなければ、対抗することは難しい。あるいは墓地のモンスターを取り除くことができれば相手の復活を止めることができるかもしれない。,Though generally apathetic in nature when it comes to anything other than research; her abilities are genuine and she possesses skills equal to those of a B-rank cardmaster (though she was never officially granted the rank since she hasn't completed the proper guild paperwork). Her tactic of continuously reviving monsters from her graveyard and overwhelming her opponents with sheer numbers is simple yet powerful; which is difficult to counter unless you deploy a corresponding number of monsters or sweep her zombies away with field-wide magic. Alternatively; you could also remove monsters from her graveyard; which would prevent her from resurrecting her monsters as well.
+周囲から「頼りない、いいかげんだ」とよく言われているため、その反動からか年下の男の子にお姉ちゃんと呼ばれたいと思っている。男の子を快感で甘やかすだけ甘やかして、自分に依存させ、自分なしではいられない体にしたいらしい。ぴったりとした服の下は意外と巨乳であり、顔やペニスを挟んで甘やかしてくるので、彼女の虜にならないように気を付けなければならない。虜になってしまえば、彼女との堕落した生活が待っているだろう。,Possibly as a result of many people often calling her "cold and unreliable"; she has developed a habit of targeting younger boys in hopes to demonstrate what she is capable of; wanting nothing more than to pamper them with pleasure; make them dependent on her; and ensure their bodies can't live without her. She's unexpectedly busty under her tight-fitting clothes; and she enjoys pampering boys by squeezing their faces and penises between her breasts. Caution is advised as to not become captivated by her; lest a debauched life with her surely awaits you.
+(一定確率で魅了を付与する攻撃を行う。パイズリで弱点攻撃時に拘束攻撃を行う。拘束攻撃で相手を破壊した場合、自身の攻撃力を300ポイントアップする。),(Performs attacks that have a chance to inflict "Charm". Performs restraint attacks when using paizuri to attack weak points. If an opponent is defeated by restraint attacks; increases own attack power by 300 points.)
+OPイベントをスキップしますか？,Skip the opening event?
+情報を聞いて回った結果、どうやら盗賊たちは北の山を根城にしているらしい。,After taking time to gather information; I learned the bandits were likely using the northern mountains as their base.
+村人たちで一度討伐隊を組んで討伐に向かったが、そこにいた紫髪のカードマスターに返り討ちにあったとのことだった。,Apparently; the villagers had organized a hunting party once before; but they were counterattacked by a purple-haired cardmaster who'd fought with the bandits.
+敵の本拠地が判明しているなら話は早い。乗り込んで直接戦闘をし、盗賊たちをこらしめればいい。紫髪のカードマスターについても、師匠から聞いていた特徴に合致しているし、この人が「死霊術師ネクロ」で間違いないだろう。,Knowing the location should hopefully make this fairly straightforward. I'll storm in; engage them in direct combat; and neutralize the bandits. The purple-haired cardmaster also matched the description I'd heard from my master; leaving no doubt she was the necromancer; Necro.
+僕は目的地を定め、村人から聞いた場所を頼りに、盗賊たちの根城に向かったのだった。,I set my sights on the northern mountains and headed toward the bandits' hideout; relying on the location the villagers had given me to find my way.
+（ここが村の人たちが言っていた場所か。廃坑を根城に使っているんだな）,(This looks like the place the villagers mentioned. It seems they're using an abandoned mine as their base.)
+盗賊たちが何人か見張りに立っている。人数は２、３人だが、中にまだ何人もいるのだろう。,From where I was; I could see a few bandits standing guard. There were only 2 or 3 of them outside the entrance; but there were probably quite a few inside as well.
+（隙をついて、カードでダメージを与えれば…。\nばれずに一気に行ける）,(If I can find an opening and strike fast with my cards... I can probably get inside without alerting the others.)
+（いまだ・・・！）,(Now...!)
+僕はカードを駆使しながら廃坑の奥へと向かって一気に進んだ。,Seeing my chance; I rushed toward the depths of the abandoned mine; casting cards as I pushed my way deeper.
+盗賊といっても、カードを使えない相手だ。まともに戦う限り、十数人ぐらいなら僕一人で気絶させられる。,Despite the danger the bandits posed; they were enemies who couldn't use cards. As long as I fought carefully; I figured I could likely handle about ten or so by myself.
+カードマスターは魔力で体を守っており、弓でも剣でも、普通に攻撃される分にはほとんどダメージを受けない。だから多少の人数差があっても相手にならないのだ。,Cardmasters protect their bodies with magical power; and whether it's bows or swords; they receive almost no damage from normal attacks. Thanks to that they didn't stand a chance; even with their strength in numbers.
+やべえ、侵入者だ！\n強いカードマスターをギルドが送り込んできやがった！,Damn; it's an intruder! The guild sent a strong cardmaster to take us down!
+おい、用心棒の姉さん、頼むぜ！\nこのままじゃ全滅しちまう！,Hey; bodyguard lady! You're up! If you don't do something; we'll be wiped out!
+はぁ、また仕事・・・？\nめんどくさいなぁ・・・。,*Sigh* More work...? How troublesome...
+ふふ、お前も運が悪いな。\nふつうの盗賊団ならいざ知らず、\nあたしたちの団にはネクロ姐さんが付いている！,Heheh; looks like your luck's run out; kid. You might've been fine against any other group of bandits; but we've got Miss Necro on our side!
+お前みたいな若い男じゃ、絶対勝てねえぜ。\n地面に這いつくばらせて、あたしたちを襲ったこと、\n後悔させてやるよ！,A little boy like you doesn't stand a chance. We'll make you regret ever coming here!
+ま、そういうわけだから、\nあなたに恨みはないけど、動けなくなるまで搾り取らせてもらうわね❤,Well; you heard the man. While I bear you no ill will; I'm afraid I'll have to drain you until you can't move a muscle~❤
+・・・・・。,...
+僕は戦いを始める前に、目の前のカードマスターに僕がコノハの弟子であること、そしてサキュバス化の治療方法のためにネクロさんを探していたことを話した。,Before the battle could start; I tried reasoning with Necro; telling her I was Konoha's disciple; and that I was searching for her in hopes of finding a treatment for succubus transformation.
+そのうえで犯罪行為をやめて自首してほしいと訴えた。彼女にも何か事情があるかもしれないが、戦わずに済むのならそれに越したことはないはずだ。,On top of that; I pleaded for her to stop her criminal acts and turn herself in. She may have had her reasons; but if we could avoid fighting; that would be for the best.
+え？コノハちゃんの弟子？\nうわー、なつかしいなぁー。コノハちゃん元気にしてるの？,Eh? You're Konoha's disciple? Wow; that name takes me back. How's she doing these days?
+それに君、見る目あるねー。\nわたしの研究のこと見つけてくれて、\nそのうえ頼ってくれるなんてちょっとうれしいかも。,And you... You have such kind eyes. Knowing you found out about my research and want to rely on me... It makes me sorta happy.
+うーん、でも、わたし今の生活に割と満足してるし・・・。\n受けた仕事はちゃんと達成する主義だからぁ、\n戦わずに降参って選択肢はないかなぁ。,Hmm; but I'm actually pretty happy with my current lifestyle here... And since I have a policy about seeing any jobs I accept through to the end; surrendering without a fight isn't really an option.
+やめさせたければ、わたしをあなたの実力で屈服させてみせて？\nあ、それよりも・・・❤,If you want to stop me; you'll just have to overpower me. Or ...❤
+むしろあなたが降参して、\nお姉さんと怠惰でわるーい生活、いっしょに過ごすのもいいかも❤,Why not just surrender and spend a naughty; lazy life together with me?❤
+盗賊生活も案外いいもんだよぉ❤\n味方になってくれるなら、\n朝も夜も、たくさん気持ちいいことしてあげる❤,Bandit life is surprisingly comfortable.❤ If you become my ally; I'll do lots of pleasurable things for you; day and night~❤
+そういうとネクロは、ローブを軽くはだけて、自分の体を見せつけてきた。,Saying this; Necro gently opened her robe; showing off her body.
+ローブで隠れていてわかりにくかったが、スレンダーな体つきで、胸も大きい。ぴったりと張り付いた黒い服が体のラインを強調して、余計に色気を感じさせている。,It was hard to tell when her robe was closed; but she had a slender figure with large breasts. The way her tight black clothing clung to her body emphasized her curves and made her seem even more alluring.
+ほら、お姉さんの胸の間においで？\n抱きしめてあげる❤,Here; let me welcome you between my breasts. I'll embrace you nice and tight~❤
+・・・っ。,...!
+彼女の提案に対して僕は・・・。,At her offer; I...
+強く突っぱねた,Firmly rejected it
+心が揺れてしまった,'That... does sound nice...'
+そんな誘いに乗るわけにはいかない！僕は彼女に「ふざけないでください」とはっきり言うと、剣をかまえ、戦闘の意思を示した。,I could never go along with such an offer! I firmly asked her to take this seriously as I drew my sword; showing my intent to fight.
+あん、そんなに怒らなくてもいいのに。,Awh; no need to get so angry.
+まあ、いいわ。それなら戦闘ではっきりさせるだけね。\n負けたらこの仕事もおしまいにするから、\nあなたも悪いお姉さんに屈服しないよう、がんばってね❤うふふ❤,Well; fine then. We'll just settle this with a fight. And if I lose; I'll even give this job up; so you'd better work hard not to succumb to this naughty bandit.❤ Ufufu~❤
+悪いことに手を貸すなんて、あってはならないことだ。しかし、彼女の体も魅力的で・・・❤,The idea of being a part of such evil deeds was absolutely unacceptable. But... her body was just so alluring...❤
+僕は一瞬、彼女の胸に視線を吸い寄せられてしまった。そしてその隙をネクロは見逃さなかった。,For a moment; my gaze was drawn to her chest. An opening Necro didn't miss.
+はい❤おっぱいで捕まえた❤\n隙だらけになっちゃってかわいいねー❤,Aha!❤ Caught you with my breasts!❤ You just left yourself wide open; didn't you? So cute~❤
+あなたの師匠と同じぐらい強いマスターを前に、\n棒立ちになるなんて、油断が過ぎるんじゃないかなぁ。\nそんなにわたしの体、気になっちゃった？くすくす❤,You just stood there like a statue in front of a cardmaster almost as strong as your teacher. Isn't that being a bit too careless? Did my body catch your eye that much? *Giggle*❤
+むぐぅうう❤はわぁ・・・❤,Mmmph...❤ Hah...❤
+むにゅり、むにゅりと顔面におっぱいが押し付けられる。谷間の甘い匂いとやわらかい感触に、どんどん体の力が抜けてしまう。,Her soft breasts squished against my face as the sweet scent of her cleavage gradually drained the strength from my body.
+ほら、ほら、ぱふぱふ❤ぱふぱふ・・・❤,Here you go. Puff-puff~❤ Puff-puff...❤
+わたしねー、特別な香水を体につけてるの。\nだからこんな風に匂いを嗅いじゃったら、\n頭がピンク色に染まっちゃうよね❤,You know; I actually wear a very special perfume. When you breathe in the scent like you are right now; it turns your mind all pink; doesn't it?❤
+戦えなくなるまで、うっとりしちゃっていいよ❤\n一回射精しちゃったら、しばらく抵抗できなくなるでしょ？,It's okay. Let yourself become so entranced you lose the will to fight~❤ Once I make you cum; you won't be able to resist for a while; will you?
+ローブであなたのこと完全に包んであげる❤\n周りのことなんて忘れて、わたしの体に溺れちゃおう・・・？,Then I'll cocoon you in my robe~❤ Forget about everything around you and drown in my body...
+あっ、ああっ、もうダメ❤\nまだ戦ってもいないのにっ、ああっ・・・❤。,Ah; aah; I can't take it anymore!❤ We haven't even started fighting yet and I... I...❤
+きゃん、もう突き飛ばさなくてもいいじゃない。,Kya; no need to push me away now.
+わたしに抱っこされるのは嫌だった？\nくすくす❤それにしてはずいぶんと蕩けた顔・・・❤,Did you hate being hugged by me that much? *Giggle*❤ You say that; but your expression has melted so nicely...❤
+おっぱいに顔を埋められて、頭とろとろになっているのに、\n頑張ってわたしのこと跳ね除けたんだね❤\nコノハちゃんの弟子はえらいなー❤,Despite your mind melting so much from having your face buried in my breasts; you worked so hard to push me away.❤ Konoha really found herself such an admirable disciple~❤
+でも、そんなにふらふらでどれだけ戦えるのかな？\nすぐにイかせてあげる❤,But how much of a fight can you offer when you're this unsteady? I bet I'll make you cum in no time~❤
+きゃあ！\nううっ、こんなに強いなんて・・・。,Kyaa! Ugh; I can't believe you're this strong...
+あん、分かったわよ。降参するわ。\nこれ以上の抵抗は無意味よね。,Ah; okay; okay! I surrender. Any more fighting would just be pointless; wouldn't it?
+ネクロはその場にぺたんと座り込み、両手をあげて降参の意志を示した。,Necro sat down on the spot and raised both hands to show her intent to surrender.
+用心棒を失った盗賊は、慌てふためいている。僕は盗賊たちを残った力でなんとか押さえ込み、そのままこのアジトを制圧したのだった。,Having lost their bodyguard; the bandits began to panic. Somehow; with my remaining strength; I managed to subdue them and finish capturing their hideout.
+その後、村の衛兵に盗賊たちを引き渡すと、僕はネクロさんを連れてモルゲンの街へと向かった。,Afterward; I handed the bandits over to the village guards and headed to Morgen city with Necro in tow.
+ガチャンと牢屋の扉が閉じる音がする。,The prison door closed with a loud clang.
+あうう・・・。\n牢屋に入れないでぇ❤って何度も馬車でおねがいしたのに・・・。\nコノハちゃんの弟子くんは真面目過ぎるよ～。,Awh... I spent the whole carriage ride begging you not to lock me up; and you just threw me in here anyways...❤ You're way too serious; Little Disciple.
+彼女の手を縛り、馬車でモルゲンまで護送してきたが、街に着くまでの間、散々体を押し付けて誘惑されて、かなり大変だった…。,I had tied her hands and escorted her to Morgen by carriage; but during the journey to the city; she had constantly pressed her body against me and tried to seduce me; which made the trip rather difficult...
+接触してこないように距離をとっても、狭い馬車の中では逃げられない。手は縛られて使えなくても口で色々とささやいてくるし…。ここまで我ながらよく我慢したと思う。,I tried to keep my distance to prevent contact; but there was no escaping her in the narrow carriage. And while her hands may have been tied and unusable; she could still whisper temptations to me from her lips... I think I resisted quite well; all things considered.
+お疲れ。弟子。\nよくやったわね。\n無事盗賊団を討伐できたようで、さすがBランクになっただけあるわ。,Good work; Disciple. You did well. It seems you successfully subjugated the bandit group; as expected of a B-rank master like you.
+それとネクロ。あんた何やっているのよ。\n前から危なっかしい子だとは思ってたけど、\nまさか盗賊にまで落ちぶれているとは思わなかったわ。,And Necro... What were you thinking? You were always getting into trouble as a kid; but I never imagined you'd sink so low as to become a bandit.
+あーん、コノハちゃん、\n久しぶりなんだからそんなに怒らないでよぉ。\n悪いことしちゃったなぁって思ってるからぁ。,Awh; Konoha; it's been so long since we've seen each other. Let's not start our reunion with you being mad at me. I know I did something bad.
+僕は師匠と一緒に、ネクロにこれまでの事情を尋ねた。また、戦いの前にも言ったように自分たちがサキュバス化を治すためにネクロの研究をあてにしていることも説明した。,Together; my master and I began to question Necro about the circumstances that led her to where we found her. Also; as I had said before the battle; I explained that we were hoping Necro's research would be the key to curing succubus transformation.
+ネクロが犯罪に手を染めた理由は、研究に没頭していたら資金が底をつき、飢えて死にそうになっているところを盗賊たちに拾われたらしい。,Apparently; Necro had become so absorbed in her research that she ran out of funds and turned to crime for more; getting picked up by bandits when she was just about to starve to death.
+実力があるのだからクエストを受ければいいはずなのだが、知らない相手と話すのが億劫で、事務手続きもなんだか怖くて、それでギルドになかなか行けなかったそうだ。,Since she could summon cards; she should have been able to take quests; but she found talking to strangers troublesome and was actually afraid of paperwork; so she couldn't bring herself to go to the guild.
+盗賊たちに手は貸したが、殺しはやらないなど自分なりに線を引いていた、と言い訳をしているが、犯罪は犯罪だ。しばらく牢屋に入れられるのは避けられないだろう。,She tried to make excuses; like how while she might've helped the bandits; she still drew her own lines; like not killing; but she'd still broken the law. I doubted she could avoid being imprisoned for at least a little while.
+はあ…。思ったより同情できない理由だったわ…。\n昔から手続きはわたしが一緒についていかないとダメだったけど、\nだからって飢え死にしそうになるまで行かないなんて。,*Sigh* Your reasons were less sympathetic than I'd expected... I know I always had to help you with your paperwork; but I never thought; even on the verge of starving to death; you still wouldn't do it yourself.
+弟子、あなたはこんなダメな大人になっちゃダメよ。,Disciple; you mustn't grow up to be as hopeless as her; okay?
+・・・・。,...
+ううっ、だって何か怖いんだもん。\n闘技場も観客が多くて絶対むりだし・・・。,Ugh; but it's scary. And the arena has too many spectators; so it was totally out of the question...
+それで研究については、どういう感じなの？,So regarding your research; how is it going?
+あなた、たしか\n「サキュバスと親和性の高い闇属性の持ち主さえいれば」\nサキュバス化の治療のめどが立つって言ってたわよね。,You said before that as long as there's someone with an affinity for dark energy who's compatible with succubi; there'd be hope for treating succubus transformation; right?
+えっと、うん。\nまずはサキュバス化の原理についてだけどね。\n弟子くんはどうやって人間がサキュバスになっちゃうか知ってる？,Mhm; that's right. But first I should go over the principles of succubus transformation. Hey; Little Disciple; do you know how a human becomes a succubus?
+・・・・？,...?
+うふ、それじゃあお姉さんが教えてあげる❤\nよいしょっと・・・。,Ufu; that's ok. I don't mind teaching you~❤ We'll start here...
+そういうとネクロは、突然牢屋越しに手を伸ばし、僕のへその下あたりをくるくるとなでまわしてきた。,Saying that; Necro suddenly reached through the prison bars; letting her fingers circle the area below my naval.
+・・・・っ❤,...!❤
+くすくす❤これぐらいでビクンってしちゃってかわいいなぁ。,*Giggle*❤ Even just this makes you twitch? How cute.
+それでね。いまわたしが撫でているここ、\nここには目に見えない、魔力を練るための核があるの。\n人によってはこれを「魂」って呼んでいるわ。,Alright. So; this place I'm stroking right now; there's an invisible core here that our bodies use to refine magical power. Some people call this the "soul."
+人間も魔族もここに魔力が宿っていて、\n地、水、火、風、光、闇の六属性を\nここで練り上げて使用している・・・。,Humans and demon races alike have magical power dwelling here; and it's where they change and channel magical energy into the six attributes of earth; water; fire; wind; light; and darkness...
+この魔力器官は、普段は本人にしかコントロールできないんだけれど、\n唯一、そのコントロールがゆるんでしまうときがあるの。\nそれが性的に絶頂してしまう時❤,Normally; this magical organ can only be controlled by the person themselves; but there's one time when that control weakens: when they reach sexual climax.❤
+イっちゃう瞬間は、魔力器官を操ることができなくて、\n完全に無防備になる。魔力が射精でぴゅって出ちゃうのも、\n魔力器官と精巣の場所が近いからなんだよ❤,The moment you cum; you lose control over your magical organ and become completely defenseless. The reason magical power spurts out when you ejaculate is because the magical organ and testicles are so close.❤
+な、なるほど・・・❤あうぅ・・❤,I-I see...❤ Ahhh...❤
+大事な話をされているのに、ずっとへその下を指でくるくると撫でられていて、集中できない・・・❤,Despite being told such important information; Necro's continued strokes against the area below my naval made it impossible to concentrate...❤
+馬車でもずっと生殺しだったし、うう、なんだかお腹がジンジンしてきた・・・❤,I had been teased constantly in the carriage too; and now; ugh; for some reason my stomach was starting to tingle...❤
+(くす、かわいい❤),(*Giggle*; cute~❤)
+それでね・・・。サキュバス化の仕方だけど、\nサキュバスは人間の女の子をイかせたときに、\nこの魔力の核を体の外に取り出して、呪いを刻んでしまうの。,Next; I'll talk about how succubus transformation works. When a succubus makes a human girl climax; they remove their magical core from their body and carve a curse into it.
+人間を悪魔に作り変えて、女王サキュバスに従順にしてしまう呪い。\nそのうえその呪いには、解除しようとすると\n魔力器官を粉々にしちゃう厄介な機能も付いてる。,It's this curse that transforms humans into demons and makes them loyal to the Succubus Queen. On top of that; this curse has a failsafe that shatters your magical core to pieces if you try to dispel it.
+{主人公}くんには一度体験してもらった方が早いよね。\n魔力器官を引っ張りだされて、そこに呪いを刻まれる感覚・・・❤,It would be so much faster for you to just experience it once firsthand; don't you think? The sensation of having your magical core pulled from your body and a curse carved into it...❤
+例えばこんな風に・・・❤\nえい・・・❤,Oh; say... Like this...❤ Mmm...❤
+そういうと、ネクロはお腹をなでながらもう片方の手で、僕のペニスをすっとひと撫でした。,With that; Necro stroked my stomach with one hand while giving my cock a smooth caress with the other.
+勝負のときから我慢して、ここまで散々焦らされていた僕は、たったそれだけの刺激なのに、一気に頭を真っ白にされてしまう。,I had been holding back since our battle and had been teased nonstop up until now. Just that simple stimulation was enough to make my mind go completely blank.
+あっ、ま、まって、師匠が見てるのに・・❤ああっ❤,Ah; w-wait... M-my master is watching...❤ Ahhh!❤
+くすくす❤馬車の中でも両手が使えれば簡単だったのになぁ❤\nそれじゃ射精して無防備になったところで、えい・・・❤,*Giggle*❤ If I had had my hands free on the carriage; you would've been such easy prey~❤ Now that you're defenseless from cumming...❤
+ネクロは僕のお腹に当てている手に複雑な魔力を込めた。すると僕の体の中から、何かが吸い上げられそうな感覚に襲われる。,Necro channeled complex magic into the hand she had placed on my stomach. I was suddenly overcome by the sensation of something being sucked from inside my body.
+射精とはまた違う不思議な感覚。ふわっとした恍惚感に、頭の中が桃色に染められてしまう。ああ、気持ちいいぃ・・・❤,A strange sensation completely different from ejaculation. My mind was dyed pink with a plush euphoria. Ahh; it feels so gooood...❤
+これが魔力の核が引っ張り出される感覚だよ。\nいまから少しだけきみの魔力の核に呪いを刻んであげる。,This is the sensation of your magical core being pulled out. Now; I'm just gonna carve a little curse onto your it.
+そうだなぁ。\n「ネクロお姉さんが好きで好きでたまらなくなる呪い」とかいいかも❤,Let's see... "A curse that makes you irresistibly head-over-heels for Necro" might be nice~❤
+って、あいた！ちょっとごめんごめん、冗談だって。\nコノハちゃん叩かないでよ。,Ow! Okay; okay; I'm sorry; I was just kidding. Jeez; Konoha; you don't have to hit me.
+ふう・・・。まあとにかく、\nこんな感じで相手の魔力器官を引っぱり出す技術を磨けば、\n呪いの付与や解除ができるようになるの。,Whew... Well anyway; if you can master the technique of pulling out an opponent's magical core like this; you'll be able to cast and dispel curses.
+あとはサキュバスの術式を理解して、\n{主人公}くんの半魔族化した魔力で\n呪いの防御機構にバレないように解呪できれば、,If you can also understand formulas of succubus magic; you might be able to use your half-demon mana to dispel curses without triggering their failsafe.
+サキュバス化も治療できるってわけ。,Maybe then you can cure their succubus transformation.
+人間の魔力に反発しちゃう防御機構だけが\nどうしてもクリアできなくてねー。それで研究がずっと止まってたの。\nあなたのおかげで一気に可能性が開けたわ。,The only thing I could never overcome was the defense mechanism that repels human magic. That's what kept my research stalled for so long. Thanks to you; though; so many possibilities have opened up all at once.
+はぁ、はぁ・・・❤あううっ・・・❤,Haa; haa...❤ Ahhh...❤
+あは、まだ恍惚感が抜けない？\n男の子はこのイキ方癖にならない方がいいと思うなぁ❤,Aha; looks like you still haven't shaken off the euphoria just yet; have you? Boys like you need to be careful not to get hooked on cumming like this~❤
+だっておへその下をくるくるなでられてイかされたんだよ？\n女の子はそこが敏感な子多いけどね、ふふふ・・・❤,I mean; you came from just having the area below your naval rubbed in circles; right? Though; I suppose a lot of girls are pretty sensitive there too; aren't they? Fufufu...❤
+で、どうだった？\nわたしの説、なかなかおもしろかったでしょ？\nコノハちゃんも感心しちゃったんじゃない？,So; how was it? My theory was pretty interesting; don't you think? I bet even you were impressed by it; Konoha; right?
+うん、確かに興味深いわね。,Yes; it certainly was fascinating.
+でも、サキュバスとの戦闘中にそんなことしている余裕あるの？\n人間がサキュバスをイかせるなんて不可能だろうし…。,But would you really have time to do something like that while fighting a succubus? It would be impossible for a human to make a succubus climax...
+ああ、それは大丈夫。サキュバスってダメージをたくさん受けると、\n霧になって消えちゃうでしょ？\nあれって体内の魔力がバラバラになっているってことだから、,Ah; that's fine. When succubi take a lot of damage; they turn into mist and disappear; right? That means the magic inside their bodies becomes scattered.
+つまり魔族はダメージを受けると魔力の結合がゆるむってわけ。\nだから、相手が動けなくなるぐらいまで戦って弱らせて、\nそのあとでお腹の下から魔力の核を引き抜けばいいんだよ。,So if a demon's magical bonds loosen when they take damage; you just have to fight and weaken them until they can't move anymore; then pull out their mana core through their stomach!
+ううっ・・・❤なるほど・・・・・。,Ugh...❤ I see...
+それにしても血縁共鳴でサキュバスの影響を受けた人間かぁ。\nそれは思いつかなかったなぁ。うーん、盲点だった。,Still; a human affected by succubus influence through blood resonance... I never even considered that. Hmm; that was a pretty big oversight on my part.
+ネクロさんの話を聞く限り、理屈は通っているように感じる。魂を引き抜くなんてこと、ほんとにできるのだろうかと思わなくもないが、今実際にやられて抜き取られかけたわけだし…。,From what Necro was saying; the logic seemed sound. It was still hard for me to imagine it being possible to extract a soul; but seeing as how I very nearly experienced it myself...
+僕もネクロさんに教わって術を学べば、サキュバス化した人間から、サキュバスの魔力を抜き取ることができるかもしれない。,If I can learn that techniques from her; I might be able to extract succubus magic from humans who have been transformed into succubi.
+コノハちゃんの弟子くんが望むなら、\nちゃんと手取り足取りやり方を教えてあげるよ❤\n研究がきちんと形になるか、わたしも気になってしょうがないしねー。,If you want; Little Disciple; I can teach you the technique hands-on!❤ I'm dying to see my research finally be used in practice; after all.
+その後、僕は牢屋に何度も通い、ネクロからサキュバス化の治療術について学んだのだった。,After that; I visited Necro's prison cell a number of times and learned about succubus transformation treatment techniques.
+サキュバス化治療の知識を得た！,Obtained knowledge of succubus transformation treatment!
+盗賊討伐クエストの報酬を得た！,Received bandit subjugation quest reward!
+きみのターンからだね。,It's your turn.
+こっちのターンからだね。,It's my turn.
+ねえ、もう限界なんでしょ？\nわたしのマントにくるまれて、\nたくさんお姉さんの体の気持ちよさ、味合わされちゃったもんね？,Hey; aren't you at your limit? After all; you got to experience the pleasure of my body all wrapped up tightly in my cloak; didn't you?
+いいんだよ？わたしの胸に戻ってきても❤\n素直に降参すれば、やさしく抱きしめて、天国に送ってあげる❤,It's okay; okay? Come lose yourself in my chest again~❤ If you're honest with your feelings and surrender; I'll hold you gently and send you to heaven!❤
+(ううっ・・・・❤),(Ooh...❤)
+コノハちゃんの弟子くんは\nわたしの死霊モンスター相手にどれぐらい戦えるのかな？,I wonder... Just how well can Konoha's little disciple fight against my undead horde?
+何度でも蘇るモンスターの恐ろしさ、たっぷり味わってね❤,Enjoy the terror of monsters that never truly die!❤
+ドロー。,Draw.
+ドローするわ。,I draw.
+さあおいで。\nモンスターをコストにして、{使用カード}を上級召喚！,Here I go. I'll tribute a monster to advance summon {使用カード}!
+モンスターをコストにして、{使用カード}を上級召喚！,I tribute a monster to advance summon {使用カード}!
+{使用カード}を召喚よ。,I summon {使用カード}.
+ううっ、あうう・・・❤,Uhh; ahhh...❤
+あら、わたしのゾンビたちと違って、\nあなたのモンスターは復活しても役に立たなそうね❤\nさっき受けた快感を引きずって、心ここにあらずだわ❤,Oh my; unlike my zombies; your monster isn't much use after reviving; is it?❤ It's still so lost in the pleasure it received earlier~❤
+肉体に受けたダメージは癒せても、\n記憶にこびりついた快感は簡単にはぬぐえない❤\nその子はすぐまた墓場送りにしてあげる❤,While physical damage can be healed; the pleasure seared into its memory isn't so easily erased~❤ I'll send that one back to the graveyard right away!❤
+さらにもう1枚発動！,I'll activate another card!
+{使用カード}が墓地から特殊召喚されたとき、効果発動よ。\nフィールド上の「ゾンビ」状態のモンスター１体につき\n攻撃力を100ポイントアップ！,When {使用カード} is special summoned from the graveyard; its effect activates. Its attack power increases by 100 points for each monster with the "Zombie" status on the field!
+復活したとき、{使用カード}の効果発動！\nフィールド上の「ゾンビ」状態のモンスター１体につき\n攻撃力を100ポイントアップするわ！,When revived; {使用カード}'s effect activates! Its attack power increases by 100 points for each monster with the "Zombie" status on the field!
+{使用カード}が相手モンスターを戦闘で破壊したとき、効果発動！\nゾンビガールを自分フィールド上に１体増やすわ！,When {使用カード} destroys an opponent's monster in battle; its effect activates! I add one Zombie Girl to my field!
+{使用カード}が相手モンスターを戦闘で破壊したとき、効果発動！\nゾンビガールを生成して特殊召喚する！,When {使用カード} destroys an opponent's monster in battle; its effect activates! I create and special summon a Zombie Girl!
+１ターンに１度、{使用カード}の効果を発動！\nすべての相手モンスターのHPを500回復させる代わりに、\n自分モンスターの攻撃力を200ポイントアップする！,Once per turn; I activate {使用カード}'s effect! I restore 500 HP to all my opponent's monsters in exchange for boosting my monster's attack power by 200 points!
+１ターンに１度、{使用カード}の効果を発動！\n相手のHPを500回復させる代わりに、自分フィールド上の\nすべてのモンスターの攻撃力を200ポイントアップする！,Once per turn; I can activate {使用カード}'s effect! It restores 500 HP to my opponent's monsters in exchange for boosting all my monsters' attack power by 200 points!
+召喚に成功した時、{使用カード}の効果発動！\nデッキから闇属性の魔法カードを１枚手札に加える！,When she's successfully summoned; {使用カード}'s effect activates! I add one Darkness Attribute magic card from my deck to my hand!
+召喚に成功した時、{使用カード}の効果発動！\nデッキから闇属性の魔法カードを１枚サーチ！,When she's successfully summoned; {使用カード}'s effect activates! I get to search for one Darkness Attribute magic card from my deck and add it to my hand!
+１ターンに１度、500LPを払い相手のゾンビモンスターを対象にして\n{使用カード}の効果を発動！\n＜葬送のくちづけ＞！対象に2000ポイントのダメージを与えるわ！,Once per turn; I can pay 500 LP and target an opponent's zombie monster to activate {使用カード}'s effect—Funeral Kiss—to deal 2000 points of damage to it!
+そしてこの効果は相手にモンスターがいない場合、\nゾンビ状態の相手プレイヤーにも発動できるの。\nさあ、弟子くんをくちづけでとろけさせてあげる❤,Also; this effect can also target the opponent player if they have the "Zombie" status and no monsters on their side of the field. Now; Little Disciple; I'll melt you with a kiss~❤
+１ターンに１度、500LPを払い相手のゾンビモンスターを対象にして\n{使用カード}の効果を発動！\n対象に2000ポイントの効果ダメージを与えるわ！,Once per turn; I can pay 500 LP and target an opponent's zombie monster to activate {使用カード}'s effect! I deal 2000 points of damage to it!
+相手が墓地からモンスターを特殊召喚したとき、\n{使用カード}の効果発動！\n蘇生したモンスターに2000ポイントのダメージを与えるわ！,When my opponent special summons a monster from their graveyard; {使用カード}'s effect activates! I deal 2000 points of damage to the revived monster!
+相手フィールド上にアンデッドモンスターが２体以上存在するとき、\n手札の{使用カード}の効果を発動！,When there are two or more monsters with "Zombie" on my opponent's field; I can activate {使用カード}'s effect from my hand!
+自分フィールド上のモンスター１体をコストにして、\n手札から{使用カード}を特殊召喚よ！,I tribute one monster on my field to special summon {使用カード} from my hand!
+{使用カード}が場に出たとき、効果を発動！\n相手フィールド上の「ゾンビ」状態でないキャラクターに\n「ゾンビ」状態を付与するわ。,When {使用カード} enters the field; its effect activates! I grant the "Zombie" status to all characters on my opponent's field that don't already have it.
+{使用カード}が場に出たとき、効果を発動！\n相手フィールド上の「ゾンビ」状態でないキャラクターを\n「ゾンビ」状態に変えるわ！,When {使用カード} enters the field; its effect activates! I give all characters on my opponent's field that don't already have it the "Zombie" status!
+自分の闇属性キャラクターが相手モンスターで破壊した時、\n{使用カード}の効果を発動！\nデッキから「{%%10053}」を１体サーチ！,When my Darkness Attribute monster destroys an opponent's monster; I can activate {使用カード}'s effect! I search for one "{%%10053}" from my deck!
+破壊されたとき{使用カード}の効果発動！\n手札から可能な限り{%%10053}を特殊召喚するわ！,When destroyed; {使用カード}'s effect activates! I special summon as many {%%10053} as I have in my hand to the field!
+永続魔法{使用カード}を発動！\n墓地からモンスターが蘇るたびに\nわたしのライフを800ポイント回復するわ。,I activate the continuous magic card; {使用カード}! Every time a monster revives from the graveyard; I gain 800 LP.
+墓地から特殊召喚されたモンスターを対象に、{使用カード}を発動！\nダメージを１回無効にするバリアを張り、\nさらに最大HPを500ポイントアップするわ！,Since this monster was special summoned from the graveyard; I target it with {使用カード}! It creates a barrier that negates damage once and increases maximum HP by 500 points!
+{使用カード}を発動！ダメージを１回無効にするバリアを\n墓地から特殊召喚されたモンスターに付与し、\nさらに最大HPを500ポイントアップするわ！,I activate {使用カード}! I grant a barrier that negates damage once to a monster that was special summoned from the graveyard and increase maximum HP by 500 points!
+蘇りなさい。{使用カード}を発動！\n自分の墓地からランダムな闇属性下級モンスターを特殊召喚よ！,Rise again. I activate {使用カード}; special summoning a random lower-level Darkness Attribute monster from my graveyard!
+わたしのしもべは何度でも戦えるわ。{使用カード}を発動！\n自分の墓地からランダムな闇属性下級モンスターを\n「ゾンビ」状態を付与して特殊召喚よ！,My servants never truly die! I activate {使用カード} to special summon a random lower-level Darkness Attribute monster from my graveyard and grant it the "Zombie" status!
+奥の手を使うしかないようね。\nLPが2000以下で、自分フィールド上にモンスターが存在しないとき、\n{使用カード}を発動！,Looks like I don't have a choice. I'll use my trump card. When my LP is 2000 or less and I have no monsters on my field; I can activate {使用カード}!
+ライフを残り100になるまで支払い、手札を全て捨てるわ。\n代わりに、墓地から最も攻撃力の高い闇属性モンスターを\n可能な限り特殊召喚する！,I drop myself to 100 LP and discard my entire hand. Doing this lets me special summon all my strongest Darkness Attribute monsters from my graveyard!
+自分の闇属性モンスターが破壊されたとき、{使用カード}を発動！\n自分の墓地からレベル４以下の闇属性モンスターを\n「ゾンビ」と「再生」状態を付与して可能な限り特殊召喚する！,When a Darkness Attribute monster I control is destroyed; I can activate {使用カード}! I special summon as many level-4 or lower Darkness Attribute monsters as possible from my graveyard; granting them the "Zombie" and "Regeneration" statuses!
+墓場から溢れだしなさい！{使用カード}を発動！\n自分の墓地からレベル４以下の闇属性モンスターを\n「ゾンビ」と「再生」状態を付与して可能な限り特殊召喚するわ！,Flow forth from the graveyard! I activate {使用カード} to special summon as many level-4 or lower Darkness Attribute monsters as possible from my graveyard; granting them the "Zombie" and "Regeneration" statuses!
+モンスターが場に出た時、永続トラップ「{使用カード}」を発動！\n場にゾンビ状態のモンスターがいるとき、\n新たに出てきたモンスターにも「ゾンビ」状態を付与するわ。,When a monster enters the field; I can activate the continuous Trap "{使用カード}"! As long as there are monsters with the "Zombie" status on the field; I can grant "Zombie" to any newly summoned monsters as well.
+装備魔法カード発動！{使用カード}！,I activate equip Magic Card {使用カード}!
+魔法カードを発動！{使用カード}！,I activate Magic Card {使用カード}!
+トラップカードを発動！{使用カード}！,I activate Trap Card {使用カード}!
+カードをセットするわ。,I set a card.
+カードをセット。,Set a card.
+ふふ、かわいがってあげる❤\n{防御カード}へ攻撃！,Fufufu; don't worry; {防御カード}. I'll take good care of you~❤
+わたしも気持ちよくしてあげる。\n{防御カード}へ攻撃！,I'll make you feel good; too. Here I come; {防御カード}!
+行きなさい！{使用カード}で{防御カード}を攻撃！,Go {使用カード}! Attack {防御カード}!
+うっ、打つ手がないわね…。ターンエンド…。,Ugh; I have no moves left.... Turn end...
+この手札じゃ…。どうしようもないわ。ターンエンド。,Ugh... I can't do anything with these cards. Turn end.
+ターン終了よ。, Turn over.
+わたしのターンは終わり。ターンエンド。,My turn is finished. Turn end.
+これでおわりね。ターンエンド。,That's everything. Turn end.
+わたしの胸、脱ぐとけっこうすごいのよ？\nほら・・・❤,My breasts are actually pretty amazing when I take this off. Look...❤
+むにゅうって挟まれて、あなたのチンポ埋もれちゃったわね❤\nおっぱいに包まれると、天国でしょう？\n優しくずりずり動かして、気持ちよくイかせてあげる❤,When I squeeze your cock between my breasts it gets completely buried.❤ Being wrapped up in my chest feels like heaven; doesn't it? I'll stroke you gently with them until you cum~❤
+胸でされるのは好き？\nそう、パイズリよ、パイズリ❤,Do you like being teased by my chest? That's it; just relax and enjoy my paizuri~❤
+男の子はみんなこれをしてあげると、すぐに骨抜きになるの。\n柔らかすぎるおっぱいで、あっという間に戦意喪失❤\nお姉さんの言うことを聞く、「いい子」になっちゃう❤,All boys become putty in my hands when I do this to them. My breasts are so soft that they instantly lose their will to fight.❤ They become "good boys" who listen to anything I say~❤
+コノハちゃんの弟子くんも「いい子」になってくれる？\nほら、うんって言えば、たくさんズリズリしてあげるわよ❤\nくすくす❤,Will Konoha's little disciple become a "good boy" for me; too? Come on; if you say yes; I'll rub you lots and lots~❤ *Giggle*❤
+あなたも「いい子」になってくれる？\nほら、うんって言えば、たくさんズリズリしてあげるわよ❤\nくすくす❤,Will you become a "good boy" for me; too? Come on; if you say yes; I'll rub you lots and lots~❤ *Giggle*❤
+ふふ、体術だってそれなりにできるのよ。攻撃を防ぎながら、\n一気に相手に接近して・・・。\nはい、捕まえた❤,Fufu; I'm pretty good at martial arts too; you know. I can close in on my opponent in an instant while still blocking their attacks... There; caught you~❤
+お姉さんの胸で顔をぎゅー❤\nくすくす❤挟まれた瞬間に体がふにゃ～って蕩けちゃったわね❤\nわたしのおっぱい、気持ちいい？,I'll just squeeze your face against my chest like this.❤ *Giggle*❤ Your body went all limp the moment you were caught between them; didn't it?❤ Do my breasts feel good?
+戦っていたことなんて、わたしのぱふぱふで忘れさせてあげる❤\nほら、ぱふぱふ❤ぱふぱふ❤\nうふふ♪おちんちんおっきくしちゃって、かわいい❤,I'll make you forget all about fighting with my Puff-Puff.❤ Come on; puff-puff~❤ Puff-puff~❤ Ufufu~♪ Look how big your little cock has gotten. So cute~❤
+男の子っておもしろいわよね。\nどんなにしっかりした顔で「悪いことは許せない」って強がっても…。\n指先で敏感なところをなでてあげるだけで、すぐに蕩けてしまうの❤,Boys are such curious creatures. No matter how serious they look when they say "I have to stop you"... Just stroking their sensitive spots with my fingertips makes them melt in an instant~❤
+こうやって、くるくるくる❤って、服の上からなぞれば・・・❤\nほら、あなたもかわいらしい表情になってきた❤\nもっとちゃんと扱いてほしい？なら、お姉さんに屈服しなさい？くすくす❤,Little strokes; just like this. Going round and round~❤ Tracing over your clothes...❤ Look; you're already starting to make such an adorable little expression.❤ Do you want me to stroke you properly? Then just submit to me; okay? *Giggle*❤
+んふふ。もうすっかりメロメロね❤\nほら、もっと魅了を深くしてあげる。\n唇に魔力を集めて・・・❤んっちゅ❤,Nfufu; you're already completely head-over-heels; aren't you?❤ Come here; and let me deepen your obsession. I'll gather my magical power in my lips; and...❤ Mmchu~❤
+唇に魔力を集めて・・・❤\nんっちゅ❤魅了してあげる❤,I'll gather my magical power in my lips; and...❤ Mmchu~❤ I'll charm you with a kiss~❤
+ううっ、気持ちよくしてください…❤\nおねがいします・・・❤,Ugh; please make me feel good...❤ P-please...❤
+くす❤わたしに抱き寄せられて、\nムラムラ抑えられなくなっちゃったのかしら。\n子犬みたいに媚びてかわいいのね❤,*Giggle*❤ You just couldn't suppress your arousal after being pulled into my embrace; could you? You're fawning over me like a little puppy... So cute~❤
+いいわよ。お姉さんがちゃんと気持ちよくしてあげる。\nほら、どうしてほしいのか言ってごらんなさい？,That's okay. Just let Miss Necro make you feel good. Come on; tell me. What do you want me to do to you?
+うふふ❤わたしにおねだりしちゃうんだ。\n盗賊の用心棒にそんなお願いするなんて、\nコノハちゃんが聞いたら卒倒しちゃいそう❤,Ufufu~❤ Now you're begging me? Making a request like that to a bandit's bodyguard... Konoha would faint if she could hear you now~❤
+自分の師匠のことなんてどうでもよくなって、\nお姉さんの体にメロメロになっちゃった？\nほら、どうしてほしいのか言ってごらんなさい？してあげるわよ。,Have you stopped caring about your master and fallen head-over-heels for my body? Come on; tell me. What do you want me to do to you? I'll do anything you ask.
+うふふ❤敵のマスターにおねだりするなんて、ダメなモンスターね❤\nコノハちゃんの弟子くんは、\n自分のモンスターも十分に操れていないみたい。,Ufufu~❤ Begging an enemy master like that... What a naughty monster~❤ It seems Konoha's disciple can't even control his own minions properly.
+自分のマスターのことなんてどうでもよくなって、\nお姉さんの体にメロメロになっちゃった？\nほら、どうしてほしいのか言ってごらんなさい？してあげるわよ。,Have you stopped caring about your own master and fallen head-over-heels for my body? Come on; tell me. What do you want me to do to you? I'll do anything you ask.
+屍術師のパイズリ,Necromancer's Titfuck
+屍術師のぱふぱふ,Necromancer's Puff-Puff
+弄ぶ指先,Teasing Fingertips
+屍術師の投げキッス,Necromancer's Blown Kiss
 なんでも,You decide
-お姉さんの柔らかいおっぱいで挟んでほしいの？\nおっぱいで気持ちよくなりたいなんて、まだまだ甘えんぼうなのね❤,
-お姉さんの柔らかいおっぱいに顔を埋めたいの？\nさっきは頑張って逃げ出したのに、帰ってきたくなっちゃったのね❤\n暖かくていい匂いがするお姉さんの谷間、忘れられなかったんでしょう？,
-おっぱいを恋しがる甘えんぼうのあなたを、\nたっぷり気持ちよくしてあげるわ❤\n今度はもう逃げなくていいのよ。ふふふ♪,
-お姉さんの柔らかいおっぱいに顔を埋めたいの？\nおっぱいで気持ちよくなりたいなんて、まだまだ甘えんぼうなのね❤,
-手で気持ちよくしてほしいの？\nイくまで扱いたりせずに、たっぷり焦らしてあげる❤,
-あら、投げキスでイかされたいだなんて、変わってるのね❤\n魔力を込めた投げキスを、\n頭とおちんちんがバカになっちゃうまで何度も浴びせてあげる❤,
-うふふ❤わたしの胸がどろどろね❤\n服で分かりづらいけど、やわらかくて大きな胸だったでしょ？\nおちんちん挟まれて、幸せそうにすぐ射精しちゃったわ❤,
-くすくす❤お姉さんのおっぱいは気持ちよかった？\n抱き寄せられて甘くささやかれて、\n立っていられないぐらいふにゃふにゃになっちゃった❤,
-悪いことをしてるかどうかなんて、どうでもいいでしょう？\nわたしを止めるよりわたしに甘えるほうがずっといい❤\nあなたの心、すっかり陥落しちゃったわね❤,
-あは❤服の中でびゅくびゅくびゅく～❤\nズボンにシミができちゃったわね。\n指で焦らされただけでこんなに出して情けない・・・♪,
-お姉さんの指先、白くてほっそりしてて、\n上からなでられたらぞくぞくしちゃったんでしょ？\nくすくす❤男の子って簡単ね❤,
-ふふ❤あへぇって蕩けた顔で射精しちゃった❤\nお姉さんの投げキスは気持ちよかった？,
-おちんちんに指一本触れられずに\nそんなふにゃふにゃにされて負けて・・・❤\nとってもカッコ悪いわね。くすくす❤,
-はぁ、はぁ・・・❤がまんできないっ・・・❤,
-くすくす❤どうしたのコノハちゃんの弟子くん。\nお姉さんの前でしゃがみこんで、\n一生懸命おちんちん触っちゃって❤,
-試合前にわたしにハグされて、\nバトルのことなんて考えられなくなっちゃった？\nわたしのカラダ、柔らかくていい匂いがして、たまらなかったでしょ？,
-だからといって、\nバトルが始まってすぐにオナニー始めちゃうだなんて。\nふふ❤コノハちゃんが知ったら、あなたのこと勘当しちゃうかもね。,
-わたしのあふれ出る色気に魅了されちゃった？\n服で分かりづらいけど、胸とかけっこう大きいし…❤\nきみみたいな男の子がメロメロになるのも無理ないのかも❤,
-だからといって、バトルが始まって\nすぐオナニーしちゃうのはどうかと思うけれど♪\nふふ❤コノハちゃんが知ったら、あなたのこと勘当しちゃうかもね。,
-戦っているうちにムラムラが貯まって我慢できなくなっちゃった？\nわたしのモンスターたちのしつこい攻撃に、ムラムラさせられて、\nお姉さんの大きなおっぱいから段々視線が外せなくなって…❤,
-おちんちんに気が付いたら手が伸びてて、\nしこしこ止められなくなっちゃったのよね？\nくすくす❤,
-あううっ、ダメなのに・・・❤,
-そうよ。お姉さんは盗賊の用心棒なんてやってる、\nわるーいマスターなんだから、\nおちんちんシコシコなんてしてちゃダメなのよ❤,
-でも男の子はおちんちんがぴーんっておっきくなっちゃうと、\n射精するまで頭がおバカになっちゃうのよね❤\nあら、「バカ」って言われて反応してるの？,
-コノハちゃんに色々なことを教わって、闘技場でも大活躍して・・・\n「立派な」弟子くんなのに、\nバカって言われて喜んじゃうんだ。ふふ❤,
-ほら、あなたの耳元で言ってあげる❤\n頭がバカになって・・・、おちんちんもバカになって・・・、\n悪いお姉さんに負けちゃうわね。くすくす・・・❤,
-はぅうっ❤ううっ…❤くそぉ…❤❤,
-あはは、悔しがってるのにおちんちん気持ちよくなっちゃうわね❤\nしこしこ早くなっておもしろい❤,
-わたし、コノハちゃんに勝ってるところ、全然なかったからなぁ…。\nこうやってその弟子くんをいじめれるなんて、ちょっと楽しいかも♪,
-コノハちゃんには恩があるから、\nあなたのこと壊したりはしないわ。\nでも、少しの間おもちゃにするぐらいいいわよね❤,
-耳元でいじわるにささやきながら、\n顔の目の前におっぱいを持ってきて…❤,
-ほら、わたしの胸の甘い匂いを嗅いで？\n呪術で使うお香をいつも体に塗っているから、\nいい匂いがするでしょう？,
-はううっ・・・❤すごい、いい匂い・・・❤あへぇ・・・❤,
-シコシコしながら嗅ぐとすごいわよね、\n頭の中がどんどんとろんとしてきちゃう❤,
-ほら、とろけた脳に吹き込んであげる❤\nあなたはとっても頭が悪い、マゾの男の子…❤\nわたしには絶対に勝てない…❤,
-お姉さんの体を見てるだけで幸せ…❤\nおちんちんすぐ勃起しちゃって、何も考えられなくなっちゃう…❤,
-勝てない・・・❤しあわせ・・・❤,
-ふふ❤ゆるんだ顔で言われるがまま聞き入れちゃってる❤\n何も考えられないから、ぜんぶ頭の中に入ってきちゃうのよね…❤,
-おっぱいを目の前に置かれてシコシコして、\nおちんちんもそろそろ限界でしょ？\nお姉さん優しいから、ちゃんと気持ちよくイかせてあげるわ❤,
-あなたの頭を抱き寄せて・・・♪\nさ、おっぱいに顔をうずめながら、\nしこしこ続けて射精しちゃいなさい❤,
-しこしこしこ❤そう、上手上手❤\nほら、びゅっびゅっー❤\nおバカなおちんちんから出ちゃうねー❤,
-はひぃ・・・❤❤,
-くすくす❤あへぇってなりながらこんなに射精して、\nすごく幸せそう❤\nコノハちゃんの弟子くんは、敵のお姉さんに甘えきって、悪い子ね❤,
-ほら、あなたのおかげでダメージも回復よ。\nって言っても、全然ダメージ受けてないけど。ふふふ❤,
-ほら、あなたのおかげでダメージも回復よ。\n頑張って戦ったのに、全部無駄になっちゃったわね。ふふふ❤,
-くすくす❤わたしの前に来ておちんちん触りだしちゃった。\nマスターくんの言うことを聞かなくていいの？\nちゃんと武器を持って戦わないとダメじゃない❤,
-お姉さんの体がエロくて辛抱できなくなったのかもしれないけれど、\nモンスターは自分のマスターを守らないと。\nほらほら、気合を入れなおして？ふふふ❤,
-あううっ❤ううっ、そう、こんなことしてちゃ・・・❤,
-そうそう、がんばれー❤\n段々おちんちんシコシコゆっくりになってきたわ。\nえらいじゃない。理性を取り戻してきたのね。,
-ほら、そんなあなたにご褒美❤\n魔力を込めた状態で、投げキスしてあげる。\nんっちゅ❤,
-はひぃっ❤❤あああっ❤❤,
-くすくす❤せっかくゆっくりになってたのに、\nすごい勢いでしごき出しちゃった❤,
-お姉さんのキス、そんなに魅力的だった？\n目にハートを浮かべちゃって、かわいいのね❤,
-ん？なになに？わたしのことが好き？\nふふ、ありがと❤面白いぐらい魅了の影響を受けてくれて、\nわたしもちょっとうれしいわ❤,
-男の子を実験台にするのって、とっても楽しいから♪\nほら、逝くまで何発耐えられるかしら？んっちゅ❤,
-あひぃ・・・❤❤,
-くすくす❤あなたみたいにバカみたいに強化をしていても、\n結局投げキスに負けて射精しちゃったわね❤,
-たっぷり下準備をして強くなったのに、\n投げキスで頭ずーっとメロメロにされて、\nしこしこ止まらなくて、どうにもならない❤,
-強い相手でも魅了でハメてあげれば、楽勝なのよね❤\n面白いデータが取れて、満足よ❤\nふふふ❤,
-あん❤{$count}回も耐えたけど、結局射精しちゃったわね❤\nずーっとシコシコ止まらなくてバカみたい❤,
-ふふ❤{$count}回投げキスされただけで射精しちゃったわ。\n少しは耐えたけど、まだ全然ね❤,
-ふふ❤１回投げキスされただけで射精しちゃったわ。\nずいぶんとちょろいおちんちんね❤,
-魅了されながらの射精は、頭の中が真っ白になって\n気持ちよかったでしょ？自分のマスターを裏切った\n背徳の気持ちよさ。楽しめたようでなによりだわ。くすくす❤,
-はぁ、はぁ・・・❤とめられないぃ・・・❤,
-くすくす❤弟子くんもわたしに投げキスしてほしくなっちゃったの？\n仲間が投げキスを浴びせられてアヘアへにされちゃったのを見て、\nうらやましくなってしまったのね❤,
-くすくす❤あなたもわたしに投げキスをしてほしいの？\nマスターくんの言うことも聞かずに\nお姉さんの前でシコシコ始めちゃって❤とっても悪い子ね❤,
-おちんちんをぐちゅぐちゅって音をさせながら扱いて…❤\n投げキスをしてほしくて、媚びた犬みたいな目でわたしを見てる❤\nふふふ、すっごく情けない❤,
-どうしようかしら。このまま放っておいても、\n勝手に射精しちゃいそうな気がするわ。\nわざわざ投げキスなんてしてあげる必要ないのかも❤,
-だって、わたしのことを見ながらおちんちんを触ってるだけで、\nもう頭がとろとろになりそうなぐらい気持ちいいのよね？\nくすくす❤なにもされないでオナニーだけで負けそうなんだ❤,
-あううっ❤それはぁ・・・❤,
-ふふ、そんな心配そうな顔をしなくてもだいじょうぶよ。\nちゃんと投げキスをしてあげるわ❤,
-ほら、頭の中メロメロにされて、さっさと射精しなさい。\nんっちゅ❤,
-魅了されながらの射精は、\n頭の中が真っ白になって気持ちよかったでしょ？\nあは、すっごくアヘアへってなってる❤敵の前でとろけすぎよ❤,
-こんな恥ずかしい負け方しちゃったら、\nコノハちゃんの弟子なのに、師匠の面目まるつぶれね❤\nくすくす❤,
-あうう・・・。痛いわ。\nあん、このままじゃボロボロになって死んじゃう・・・。,
-ほら見て。この腕、ちょっと血が出ているでしょう？\nお姉さんの魔力、あなたが思っているほど強くないの。\nだから魔力のバリアを貫通してこんなダメージを受けちゃった…。,
-ねえおねがい。降参するから、わたしに少しだけ魔力をちょうだい？\nそうじゃないとお姉さん死んじゃうわ。\nちょっとだけ、ちょっとだけでいいから・・・。,
-わたし、相手を射精させなくても少しなら魔力を取れるの。\nおねがい…。このおっぱいで挟ませて…❤\n挟んでる間にドレインするから…❤,
-だいじょうぶ、いつでも振り払えばいいだけよ。\nね、わたしを殺すつもりはないんでしょ？\nそれなら、ほら、おねがい・・・❤,
-{自分}は胸を肘で挟んで見せつけてくる！,
-ううっ・・・❤,
-彼女の言葉を無視して攻撃した,
-攻撃をやめてしまった,
-あん！いったぁい・・・。\nうう、こんな嘘じゃバレバレかぁ・・・。\nゾンビちゃんの血を腕につけただけじゃわかっちゃうよね・・・。,
-うふふ❤じーっとおっぱい見てるってことは、\nわたしにドレインさせてくれるってことよね？,
-あん❤ありがとう～❤あなたとっても優しいのね❤\nお姉さん、あなたみたいに優しい人、大好きよ♪,
-ほら、服をはだけて・・・❤\n生おっぱいでたっぷり挟んであげる❤,
-はぐぅうう・・・❤❤,
-うふふ❤いつでも振り払っていいわよ❤\n最低限だけ、最低限だけエナジーをちょうだいね❤,
-あらあら❤ちょっとのエナジーじゃなくて、\n魔力を全部くれるの？おちんちんが膨らんで、\nほら、びゅううって出ちゃうわね❤,
-くすくす❤おちんちん我慢できないなら、\nこんな誘惑に乗らなければいいのに。\nわたしを追い詰めたのが台無し❤,
-ほかの子たちも、あなたが射精させられたのを見て、\nギンギンになっちゃってる❤\nあなたたちもおっぱいで挟んでほしい？くすくす❤,
-やん、突きとばしたら危ないわ。\nもう終わりにしてわたしを捕まえることにしたの？\nきゃっ！,
-あいたた…。\nふふ、でもそれぐらいの攻撃なら耐えられるわ。\nあなたからたっぷり魔力をもらっちゃったから❤,
-なっ・・・。,
-くすくす❤なに驚いた顔してるのよ。\n気持ちよすぎてどれぐらい魔力吸われてるのかも自覚できなかった？\nとどめを刺せるせっかくのチャンスを棒に振っちゃったわね❤,
-そのうえ、わたしにねっとりとパイズリで責められて、\nあなたのおちんちん、おっぱいにすっかり弱くなっちゃったみたい❤\nこのあとちゃんと戦えるのかしら？うふふ❤,
-あっ、ちょっとまだ待って。きゃん!,
-ううっ、もうちょっと吸えれば、この攻撃も耐えられたのに…。\n惜しかったなぁ…。,
-ゆっくり動かされて気持ちいいでしょ？,
-わたしに最低限の魔力をちょうだい？あん❤吸ったのが入ってくる…❤,
-優しいあなたにはおっぱいの快感をプレゼントよ…❤,
-あとちょっと、あとちょっとだけ楽しみましょ？,
-魔力を吸い出されるの、気持ちいいわよね❤ふふふ❤,
-そのままじっとしてていいのよ。あなたはもう勝ったんだから…❤,
-くすくす❤気持ちよさそうな顔ね。,
-あなたの魔力がじわーって吸い取られていくわね❤うっとりしてきちゃうでしょ❤,
-優しくたぷたぷたぷ…♪,
-とどめを刺す前にお姉さんのおっぱいで気持ちよくなってね❤,
-うふふ❤少しづつ早くしてあげる❤,
-もっともっと魔力を吸われたいでしょ？暴れちゃダメよ❤,
-こんなに吸わせてくれるなんて、とっても優しいのね❤,
-魔力を吸い出されて、どんどん力が抜けてくる❤,
-おっぱいでずりずり、むにゅむにゅ♪うふふふ❤,
-くすくす❤もう何も考えられない？,
-頭空っぽになっていいのよ❤お姉さんのパイズリを楽しんで❤,
-激しく、ゆさゆさゆさ♪,
-イクまでパイズリされちゃう？射精できたらきっと気持ちいいと思うわ❤,
-投げキスを浴びて、顔がとろとろね❤\nコノハちゃんの弟子なのに、お姉さんの方が好きになっちゃった？\n理性が弱くてかわいいわ❤くすくす❤,
-くすくす❤倒れ込んでるのに、\nうっとりした顔でお姉さんのこと見つめてる❤\nオナニー気持ちよかった？すっかりメロメロじゃない❤,
-優しいのはいいけれど、女の嘘は見抜けないとダメよ？\nほら、この腕の血、これゾンビちゃんのなの。\n騙されてドレインされちゃって、素直なんだから❤,
-それとも単純に、おっぱいで挟まれたくて、もう限界だった？\nうふふ❤谷間がどろどろ❤\nエナジーたっぷり溶けだしてるわね❤,
-くすくす❤投げキスされただけでnあへぇって射精しちゃったわ❤\n目にハートを浮かべちゃって、かわいいのね❤,
-あは❤コクコク頷きながらパイズリで射精しちゃった❤\n柔らかいおっぱいでねっとり責められて、\nお姉さんの言うことを聞く「いい子」にされちゃったわね❤くすくす❤,
-くすくす❤パイズリに耐えられなくて、あへぇって射精❤,
-おっぱいをこんなに汚して、ずいぶん気持ちよさそうね❤\n男の子ってほんとこれが好きなんだから❤,
-あらあら❤抱っこしてあげてるだけで射精しちゃった❤\nやわらかおっぱいで骨抜きにされて、\n射精をこらえる力も、ふにゃぁって抜けちゃったわね❤,
-力が入らなくてふらふらでしょう？\nもっと甘えていいのよ。あなたの体重、ちゃんと支えてあげる❤\nふふふ♪,
-くすくす❤ズボンの上からくるくるしてるだけで、\nこんなに射精しちゃった❤\n焦らされただけでイっちゃうなんて弱いおちんちんね❤,
-死霊術師のマスターに敗れた僕は、エナジーを奪われ地面に膝をついていた。,
-うぐうっ・・・❤,
-くすくす❤弟子くんの負けね。\nお姉さんの実力、まだまだ錆びついてはいないみたい。,
-昔はね。コノハちゃんともよくバトルしたの。\n戦績は六対四ぐらいでコノハちゃんの方が勝ち越してたけど、\nそれでもお姉さんもけっこう強かったのよ。,
-さて、それじゃお仕事ね。\nあなたには盗賊退治を諦めてもらわないといけないから。\nあなたを「教育」してあげる❤,
-ねえ、あなたは、どうやって諦めさせられたい？\nゾンビちゃんに噛み付かせたり、死神ちゃんに斬らせたり、\n痛みを使うような手もあるけれど・・・。,
-やっぱり気持ちいいのがいいわよね？\nほら、お姉さんのおっぱいでかわいがってあげる❤,
-はぅううっ・・・❤きもちいいぃ・・・❤,
-くすくす❤１回射精させてあげたからかしら。\nずいぶん素直に喘いじゃうのね❤,
-お姉さんのおっぱい、肌が白くてキレイでしょう？\n日に当たらない生活をしてるから、\n真っ白できれいなのよ。,
-肌の質感も抜群❤しっとりしてて、\nおちんちんに吸い付くみたいにやわらかいでしょ❤\n挟まれるだけであなたがうっとりしちゃうのも分かるわ。,
-でも、それで満足してたらもったいないわよ。ほら・・・❤,
-ずりずり上下に動かしてあげるから、\n骨の髄まで快感にひたりなさい❤\nお姉さんのおっぱいの虜になるの❤,
-あっ、あっ、ああっ・・・❤とけそうで、はひぃ・・・❤,
-ふふふ、お姉さんは盗賊団の用心棒。わるーいカードマスターなのにね♪\nそれなのに、おっぱいでむにむにってされちゃうと、\nおちんちんからメロメロにされちゃう❤,
-おちんちんが気持ちよさでいっぱいになると、\n脳まで気持ちいいのが溢れてきて、\nどんどん、どんどん、お姉さんのこと敵だなんて思えなくなる❤,
-男の子の脳みそって単純よね❤\nゾンビちゃんよりも頭が空っぽなんじゃないかしら❤\nくすくす❤,
-あう、あううぅ❤だって、❤きもちよくてぇ・・・❤,
-ふふ、そんなの言い訳になっていないわよ。\nどれだけ気持ちよくされても、ほんとは耐えないとダメなの。\n悪いお姉さんにそそのかされたりしちゃダメ❤,
-理性では分かってるんでしょ？\nこんなのダメだ、盗賊団を止めなくちゃって…❤,
-でもその理性があまりにもちっぽけだから、\nおっぱいなんかに負けちゃうの❤,
-きっとあなたの理性はおちんちんより小さいんでしょうね。\nだってパイズリで挟みつぶされちゃうぐらいですもの❤\nね？こうやってしたら理性なんてなくなっちゃうんでしょ？,
-あっ、あっ、ああっ❤❤だめ、だめっ❤きもちいいっ❤あひぃっ❤,
-喘ぎ声が坑道の中に響いちゃうわね❤\nおちんちんからもぐちゅぐちゅぐちゅっていやらしい音させて\n腰もガクガクふるえてる❤,
-おちんちん、もう射精したいのよね❤\n敵のお姉さんにおっぱいで搾り取られたいのよね❤,
-依頼をしてくれた村の人たちの期待を裏切って射精❤\n師匠の期待も裏切って射精❤\n盗賊を止めるどころか、快楽でふにゃふにゃにされて負けちゃう❤,
-ほら、イく、イっちゃう❤\n２回目なのにあっさり射精させられちゃう❤\n射精、出る、３、２、１・・・・❤,
-はい♪ここでおしまい❤,
-あっ、あああっ、なんでっ❤はひっ、あとちょっとで❤,
-くすくす❤おあずけされて、涙目になっちゃうんだ❤\nかわいい❤,
-ねえ、お姉さんから弟子くんにおねがいがあるの❤\n今からまたパイズリしてあげるから、\nわたしのこと「好き」って言って？,
-いい？分かった？\nほら・・・❤,
-あ、えっ❤ああっ・・❤,
-ほら、なんて言うんだった？,
-（あっ、ああっ・・・❤言わないとまた止められるかもっ❤）,
-すき、すきですっ❤ネクロさんのことがすきっ❤❤,
-よく言えました❤えらいわね❤,
-あひぃつ❤すきっ❤そんなにはげしくされたらっ❤すき❤ああっ、もうでちゃうっ❤❤,
-いいのよ射精しなさい❤\n従順な子にはいじわるはしないわ❤,
-ちゃんとおっぱいでなでてほめてあげる❤\nわたし、男の子を甘やかすのは得意だから、\nあなたのこと、あなたの師匠よりもたっぷり甘やかしてあげる❤,
-おちんちんで覚えなさい。誰があなたの主人なのか❤\nさあ、今度こそ射精よ❤\n出る、出ちゃう、３，２，１・・・❤ぜろ❤,
-はひぃっ❤❤❤,
-あっ、あっ、とまらない・・・❤すきぃ❤すきぃ❤❤,
-ふふ、おっぱいがどろどろ❤\nあなたもあんまり出し過ぎて、足腰が立たないんじゃない？\nほら、パイズリ終わったのに、まだ痙攣してる❤,
-ねえ、弟子くん。\nあなたはわたしのこと好き？,
-あう、あうう・・・❤すき・・・❤すき・・・❤,
-わたしが悪いことしてても好き？,
-ううう・・・・❤すきです・・・❤ネクロさんが、すき・・・・❤,
-くすくす❤好きって言うだび、おちんちんがひくひくしてる❤\n好きって言葉と気持ちよさが頭の中でつながっちゃったわね❤,
-ここまで深く快感に堕ちているなら、\n呪いをかけるまでもない。\nあなたはもう、わたしのものよ❤,
-ほら、こっちに来なさい。\nお姉さんの部屋でこのあともじっくり、可愛がってあげる。,
-お姉さんの名前と、「好き」って言葉以外忘れちゃうぐらいに、\n濃厚にみっちりと、ね❤,
-はうぅう・・・・・❤,
-その後僕は数日間にわたり、彼女の部屋の中で夢のような快楽を与えられた。パイズリで疲れ果てるまで搾り取られたり、やさしく授乳手コキでかわいがられたり…。,
-特に僕が彼女に向かって「好き」と言ったときは、とびきり優しく愛撫された。彼女のそばにいると幸せにされて、彼女に「好き」と伝えると気持ちよくなれる。僕の脳にそう深く刻まれるまであまり時間はかからなかった。,
-甘い甘い快楽漬けの日々は、確実に僕の理性を蝕み、今まで何のためにカードの修行をしていたのかも、段々とぼやけていった。,
-あうう、ネクロさん・・・。すきぃ・・・❤,
-うふふ❤おっぱいに顔をすりすりしながら甘えちゃって、\n初めて会ったときは強そうだったのに、今じゃすっかり形無しね。,
-ねえ、わたしたちそろそろこの村をあとにするのだけど、\nあなたもわたしと一緒に来ない？\nあなたの実力なら、用心棒として一緒に働いていけると思うの。,
-たまに来る侵入者を退治するだけで\nおいしい食事も珍しい魔道具も手に入る。\n用心棒ってなかなかいい生活なのよ。,
-あなたのこと個人的に気に入ってるし、\n置いていきたくないわ。\nね、お姉さんと一緒に堕落した生活を送りましょう？,
-もしOKなら、好きって３回言いなさい。\n分かった？,
-そう言いながらネクロさんは僕の頭をすりすりとなでる。手の平で頭を軽く押され、顔がゆっくりとおっぱいに沈み込んで行く。,
-あうう…❤ネクロさん、すき・・・❤すき・・・❤すきぃ・・・❤,
-くすくす❤よく言えました❤\nわたしも好きよ。ペットとして、だけどね❤,
-さ、それじゃ一回すっきりさせてから、\n旅支度を整えるとしましょか。ふふふ♪,
-こうしてすっかり彼女の虜になってしまった主人公は、盗賊団の用心棒となり、各地を転々としていくことになるのだった。,
-その後、彼らがどうなったのか誰も知らない。死霊術師の与える快楽に堕とされて、主人公の物語はその幕を閉じた。,
-くすくす❤もう出しちゃったの？\nわたしが悪いマスターだって分かってるのに\n心を許しちゃってダメな子❤,
-魔力がたっぷり溶けた精液が脚にかかってるわ❤\nほら・・・❤,
-こんなにたくさん❤,
-ううっ、あううぅ・・・❤❤,
-これだけ出しちゃったら、もうカードを使えないわよね？\nまだ一枚も召喚してないのに、あなたの負け❤\nコノハちゃんが知ったらきっと悲しむわね❤,
-だって、あなた、その辺の村人より弱かったんだもの❤\nくす、くすくすくす❤,
-洞窟の中にネクロの小馬鹿にした笑い声が反響する。艶やかで色気のある声が耳に絡みつくようだ。,
-あらあら顔が真っ赤ね❤\nそんなに恥ずかしがらなくてもだいじょうぶよ❤\nもうコノハちゃんに会わずに暮らせばいいだけだもの。,
-わたし、一人で用心棒するのも大変だし、\n優秀な部下が欲しかったの。,
-このままあなたのこと連れ去ってあげるから、\nこれからはお姉さんと一緒に、わるーい生活送りましょうね❤\nほら・・・❤,
-まずはもっと快楽を深くしみこませてあげる❤\nあなたがわたしに従順になれるように、\nわたしから離れられなくなるように・・・❤,
-ぱふぱふ❤ぱふぱふ❤\nマントの中で甘い匂いと体温に包まれて、\n存分に快楽におぼれてしまいなさい❤,
-はひっ、あう、あううぅ❤❤,
-くすくす❤また出してる❤\n従順な男の子は好きよ？\nほら、ぱふぱふ❤ぱふぱふ❤もっと出しなさい❤,
-コノハちゃんにはたくさん正しいことを教わったんでしょう？\nお姉さんがこれから「いけない」ことを\nいっぱいあなたに教えてあげるわね。うふふふ❤,
+お姉さんの柔らかいおっぱいで挟んでほしいの？\nおっぱいで気持ちよくなりたいなんて、まだまだ甘えんぼうなのね❤,So you want me to squeeze you between my soft breasts? Wanting to me to pleasure you with my breasts... You're such a spoiled little boy~❤
+お姉さんの柔らかいおっぱいに顔を埋めたいの？\nさっきは頑張って逃げ出したのに、帰ってきたくなっちゃったのね❤\n暖かくていい匂いがするお姉さんの谷間、忘れられなかったんでしょう？,You want to bury your face in my soft breasts? You worked so hard to escape them earlier; but now all you want is to come back; isn't it?❤ You just couldn't forget the warm; sweet-smelling valley between my breasts; could you?
+おっぱいを恋しがる甘えんぼうのあなたを、\nたっぷり気持ちよくしてあげるわ❤\n今度はもう逃げなくていいのよ。ふふふ♪,I'll make you feel absolutely wonderful with the breasts you long for; you spoiled little boy~❤ You don't need to run away anymore! Fufufu~♪
+お姉さんの柔らかいおっぱいに顔を埋めたいの？\nおっぱいで気持ちよくなりたいなんて、まだまだ甘えんぼうなのね❤,You want to bury your face in my soft breasts? Wanting my chest to make you feel good... You're such a spoiled little boy~❤
+手で気持ちよくしてほしいの？\nイくまで扱いたりせずに、たっぷり焦らしてあげる❤,You want me to make you feel good with my hands? Just so you know; I won't let you cum right away. I plan to tease you thoroughly~❤
+あら、投げキスでイかされたいだなんて、変わってるのね❤\n魔力を込めた投げキスを、\n頭とおちんちんがバカになっちゃうまで何度も浴びせてあげる❤,Oh my; wanting me to make you cum by using only my blown kisses... How peculiar!❤ But in that case; I'm happy to shower you with magic-infused blown kisses over and over until your head and cock both go completely crazy~❤
+うふふ❤わたしの胸がどろどろね❤\n服で分かりづらいけど、やわらかくて大きな胸だったでしょ？\nおちんちん挟まれて、幸せそうにすぐ射精しちゃったわ❤,Ufufu~❤ You made my chest all sticky~❤ I know you couldn't tell through my clothes; but my breasts were just so big and soft; weren't they? You looked so happy being squeezed between them; and you ejaculated so quickly~❤
+くすくす❤お姉さんのおっぱいは気持ちよかった？\n抱き寄せられて甘くささやかれて、\n立っていられないぐらいふにゃふにゃになっちゃった❤,*Giggle*❤ Did my breasts feel good? When I held you close and whispered to you sweetly; you went so limp you could barely stand~❤
+悪いことをしてるかどうかなんて、どうでもいいでしょう？\nわたしを止めるよりわたしに甘えるほうがずっといい❤\nあなたの心、すっかり陥落しちゃったわね❤,It doesn't really matter if I'm doing something bad; does it? It's so much better to just depend on me than to try stopping me~❤ Your heart's fallen for me completely; hasn't it?❤
+あは❤服の中でびゅくびゅくびゅく～❤\nズボンにシミができちゃったわね。\n指で焦らされただけでこんなに出して情けない・・・♪,Aha~❤ You're just spurting away in your clothes! Spurt spurt spurt~❤ You've made a stain on your pants. You got so worked up from just being teased by my fingers... How pathetic!♪
+お姉さんの指先、白くてほっそりしてて、\n上からなでられたらぞくぞくしちゃったんでしょ？\nくすくす❤男の子って簡単ね❤,My fingertips are so pale and slender; and when they stroke you from over your clothes; it just makes you shiver; doesn't it? *Giggle*❤ Boys are so easy~❤
+ふふ❤あへぇって蕩けた顔で射精しちゃった❤\nお姉さんの投げキスは気持ちよかった？,Fufu~❤ You came with such a melted; stupid expression on your face~❤ Did my blown kisses feel that good?
+おちんちんに指一本触れられずに\nそんなふにゃふにゃにされて負けて・・・❤\nとってもカッコ悪いわね。くすくす❤,Being made so weak you lose without me so much as lifting a finger to touch your cock...❤ So lame! *Giggle*❤
+はぁ、はぁ・・・❤がまんできないっ・・・❤,Hah; hah...❤ I can't hold back anymore...❤
+くすくす❤どうしたのコノハちゃんの弟子くん。\nお姉さんの前でしゃがみこんで、\n一生懸命おちんちん触っちゃって❤,*Giggle*❤ What's wrong; Little Disciple? You're kneeling in front of me; stroking your cock so desperately~❤
+試合前にわたしにハグされて、\nバトルのことなんて考えられなくなっちゃった？\nわたしのカラダ、柔らかくていい匂いがして、たまらなかったでしょ？,Did my embrace earlier chase away all those silly little thoughts about fighting? My body was so soft and sweet-smelling... It was just unbearable; wasn't it?
+だからといって、\nバトルが始まってすぐにオナニー始めちゃうだなんて。\nふふ❤コノハちゃんが知ったら、あなたのこと勘当しちゃうかもね。,But still; to start masturbating the moment the battle begins... Fufu~❤ If Konoha found out; she'd probably disown you; wouldn't she?
+わたしのあふれ出る色気に魅了されちゃった？\n服で分かりづらいけど、胸とかけっこう大きいし…❤\nきみみたいな男の子がメロメロになるのも無理ないのかも❤,Were you charmed by my overflowing sex appeal? Even though it's hard to tell through my clothes; my breasts are sooo big...❤ I guess it's no wonder a boy like you would fall head-over-heels for me~❤
+だからといって、バトルが始まって\nすぐオナニーしちゃうのはどうかと思うけれど♪\nふふ❤コノハちゃんが知ったら、あなたのこと勘当しちゃうかもね。,But still; starting to masturbate the moment the battle begins is a bit much~♪ Fufu~❤ If Konoha found out; she'd probably disown you; wouldn't she?
+戦っているうちにムラムラが貯まって我慢できなくなっちゃった？\nわたしのモンスターたちのしつこい攻撃に、ムラムラさせられて、\nお姉さんの大きなおっぱいから段々視線が外せなくなって…❤,Did your arousal keep just building during the fight until you couldn't stand it anymore? My monsters' relentless attacks got you all worked up; and slowly but surely you just couldn't take your eyes off my big; soft breasts...❤
+おちんちんに気が付いたら手が伸びてて、\nしこしこ止められなくなっちゃったのよね？\nくすくす❤,Before you knew it; your hand reached for your cock; and you couldn't stop stroking; could you? *Giggle*❤
+あううっ、ダメなのに・・・❤,Ahh; I... I can't...❤
+そうよ。お姉さんは盗賊の用心棒なんてやってる、\nわるーいマスターなんだから、\nおちんちんシコシコなんてしてちゃダメなのよ❤,That's right. Miss Necro's doing such bad things; being a bodyguard for the big bad bandits; so you shouldn't be stroking your cock!❤
+でも男の子はおちんちんがぴーんっておっきくなっちゃうと、\n射精するまで頭がおバカになっちゃうのよね❤\nあら、「バカ」って言われて反応してるの？,But when boys' cocks get all hard and aroused; their heads just get so stupid until they ejaculate; don't they?❤ Oh my; are you getting excited being called stupid like this?
+コノハちゃんに色々なことを教わって、闘技場でも大活躍して・・・\n「立派な」弟子くんなのに、\nバカって言われて喜んじゃうんだ。ふふ❤,Even though Konoha taught you so much and you're a big success in the arena... You're such a splendid little disciple; and yet you get excited when someone calls you stupid. Fufu~❤
+ほら、あなたの耳元で言ってあげる❤\n頭がバカになって・・・、おちんちんもバカになって・・・、\n悪いお姉さんに負けちゃうわね。くすくす・・・❤,Come here. I'll whisper it right in your ear~❤ Your head is going stupid... Your cock is going stupid; too... And you're going to lose to the naughty; naughty cardmaster... *Giggle*❤
+はぅうっ❤ううっ…❤くそぉ…❤❤,Hahh...❤ Ugh...❤ Damn it...❤❤
+あはは、悔しがってるのにおちんちん気持ちよくなっちゃうわね❤\nしこしこ早くなっておもしろい❤,Ahaha; you're so frustrated; but your cock feels so good; doesn't it?❤ You're stroking it faster and faster... It's laughable~❤
+わたし、コノハちゃんに勝ってるところ、全然なかったからなぁ…。\nこうやってその弟子くんをいじめれるなんて、ちょっと楽しいかも♪,I could never beat Konoha at anything... Being able to tease her disciple like this is actually kind of fun~♪
+コノハちゃんには恩があるから、\nあなたのこと壊したりはしないわ。\nでも、少しの間おもちゃにするぐらいいいわよね❤,I owe Konoha a debt; so I won't break you. But using you as a toy for a little while should be fine; right?❤
+耳元でいじわるにささやきながら、\n顔の目の前におっぱいを持ってきて…❤,Whispering such mean things in your ear while bringing my breasts so close to your face...❤
+ほら、わたしの胸の甘い匂いを嗅いで？\n呪術で使うお香をいつも体に塗っているから、\nいい匂いがするでしょう？,Come on; do you smell that sweet scent of my chest? I always have incense I use for my sorcery applied to my body; so it smells nice; doesn't it?
+はううっ・・・❤すごい、いい匂い・・・❤あへぇ・・・❤,Hahh...❤ Such an amazing smell...❤ Ahhh...❤
+シコシコしながら嗅ぐとすごいわよね、\n頭の中がどんどんとろんとしてきちゃう❤,Smelling it while stroking yourself makes it feel incredible; doesn't it? Your mind keeps getting more and more dreamy~❤
+ほら、とろけた脳に吹き込んであげる❤\nあなたはとっても頭が悪い、マゾの男の子…❤\nわたしには絶対に勝てない…❤,Come here; and let me whisper to your melted mind~❤ You're a stupid; masochistic little boy...❤ You could never beat me...❤
+お姉さんの体を見てるだけで幸せ…❤\nおちんちんすぐ勃起しちゃって、何も考えられなくなっちゃう…❤,Just looking at my body makes you so happy...❤ Your cock gets hard right away; and you can't think about anything else...❤
+勝てない・・・❤しあわせ・・・❤,Can't win...❤ Happy...❤
+ふふ❤ゆるんだ顔で言われるがまま聞き入れちゃってる❤\n何も考えられないから、ぜんぶ頭の中に入ってきちゃうのよね…❤,Fufu~❤ Your face looks so slack and you're listening so obediently.❤ Since you can't think about anything; it all just goes straight into your mind; doesn't it...?❤
+おっぱいを目の前に置かれてシコシコして、\nおちんちんもそろそろ限界でしょ？\nお姉さん優しいから、ちゃんと気持ちよくイかせてあげるわ❤,With my breasts right in front of you while you stroke; your cock must almost be at its limit; right? I'm a kind person; so I'll make sure you cum nice and happy~❤
+あなたの頭を抱き寄せて・・・♪\nさ、おっぱいに顔をうずめながら、\nしこしこ続けて射精しちゃいなさい❤,I'll pull your head close...♪ So bury your face in my breasts and keep stroking until you ejaculate~❤
+しこしこしこ❤そう、上手上手❤\nほら、びゅっびゅっー❤\nおバカなおちんちんから出ちゃうねー❤,Stroke stroke stroke~❤ That's it; good boy.❤ Come on; spurt spurt~❤ Shoot it all out of your stupid little cock~❤
+はひぃ・・・❤❤,Hah; haaah...❤❤
+くすくす❤あへぇってなりながらこんなに射精して、\nすごく幸せそう❤\nコノハちゃんの弟子くんは、敵のお姉さんに甘えきって、悪い子ね❤,*Giggle*❤ You look so happy; cumming with such a stupid look on your face.❤ Konoha's little disciple is letting an enemy spoil him completely. What a bad boy~❤
+ほら、あなたのおかげでダメージも回復よ。\nって言っても、全然ダメージ受けてないけど。ふふふ❤,Look; thanks to you; all that damage just disappeared. Though I guess I wasn't really that hurt to begin with. Fufufu~❤
+ほら、あなたのおかげでダメージも回復よ。\n頑張って戦ったのに、全部無駄になっちゃったわね。ふふふ❤,Look; thanks to you; all that damage just disappeared. You fought so hard; but now it's all been for nothing; hasn't it? Fufufu~❤
+くすくす❤わたしの前に来ておちんちん触りだしちゃった。\nマスターくんの言うことを聞かなくていいの？\nちゃんと武器を持って戦わないとダメじゃない❤,*Giggle*❤ You came up to me and just started touching your cock. Shouldn't you be listening to your master? You should pick your weapon back up and fight!❤
+お姉さんの体がエロくて辛抱できなくなったのかもしれないけれど、\nモンスターは自分のマスターを守らないと。\nほらほら、気合を入れなおして？ふふふ❤,I know my body is just too erotic for you to resist; but monsters really need to protect their masters. Come on; why not pull yourself together? Fufufu~❤
+あううっ❤ううっ、そう、こんなことしてちゃ・・・❤,Ahh...❤ Ugh; you're right. I... I shouldn't be doing this...❤
+そうそう、がんばれー❤\n段々おちんちんシコシコゆっくりになってきたわ。\nえらいじゃない。理性を取り戻してきたのね。,That's it; you can do it!❤ Your frantic stroking is starting to slow down some. Such a good job. You're starting to regain a bit of composure; aren't you?
+ほら、そんなあなたにご褒美❤\n魔力を込めた状態で、投げキスしてあげる。\nんっちゅ❤,Here; let me give you a reward for such good behavior!❤ I'll blow you a kiss infused with my magical power. Mmchu~❤
+はひぃっ❤❤あああっ❤❤,Haah...❤❤ Ahhh!❤❤
+くすくす❤せっかくゆっくりになってたのに、\nすごい勢いでしごき出しちゃった❤,*Giggle*❤ You've started stroking yourself so intently again! And just when you were starting to slow down; too~❤
+お姉さんのキス、そんなに魅力的だった？\n目にハートを浮かべちゃって、かわいいのね❤,Was my kiss really that enchanting? You look like you have hearts floating in your eyes. How adorable~❤
+ん？なになに？わたしのことが好き？\nふふ、ありがと❤面白いぐらい魅了の影響を受けてくれて、\nわたしもちょっとうれしいわ❤,Hm? What's that? You're falling for me? Fufu; awh; thank you!❤ Your response to my charm magic is so amusing; it's actually making me a little happy~❤
+男の子を実験台にするのって、とっても楽しいから♪\nほら、逝くまで何発耐えられるかしら？んっちゅ❤,Using boys as test subjects is so much fun~♪ Here; let's see how many of my kisses you can endure before cumming. Mmchu~❤
+あひぃ・・・❤❤,Ahhh...❤❤
+くすくす❤あなたみたいにバカみたいに強化をしていても、\n結局投げキスに負けて射精しちゃったわね❤,*Giggle*❤ Even with all your ridiculous training; you still ended up losing to my kiss and cumming everywhere; didn't you?❤
+たっぷり下準備をして強くなったのに、\n投げキスで頭ずーっとメロメロにされて、\nしこしこ止まらなくて、どうにもならない❤,You prepared so much and got so strong; yet my kiss left your head entirely spellbound; unable to stop stroking yourself; completely helpless~❤
+強い相手でも魅了でハメてあげれば、楽勝なのよね❤\n面白いデータが取れて、満足よ❤\nふふふ❤,Even against strong opponents; if I catch them with my charm magic; it's always so easy~❤ I got some interesting data; too; so I'm satisfied!❤ Fufufu~❤
+あん❤{$count}回も耐えたけど、結局射精しちゃったわね❤\nずーっとシコシコ止まらなくてバカみたい❤,Ahn~❤ You managed to endure {$count} kisses; but you still ended up ejaculating; didn't you?❤ You just couldn't stop mindlessly stroking yourself~❤
+ふふ❤{$count}回投げキスされただけで射精しちゃったわ。\n少しは耐えたけど、まだ全然ね❤,Fufu~❤ You ejaculated after just {$count} kisses. You showed some endurance; but it still wasn't nearly enough; was it?❤
+ふふ❤１回投げキスされただけで射精しちゃったわ。\nずいぶんとちょろいおちんちんね❤,Fufu~❤ You ejaculated after just one kiss. Your cock's pretty pathetic; isn't it?❤
+魅了されながらの射精は、頭の中が真っ白になって\n気持ちよかったでしょ？自分のマスターを裏切った\n背徳の気持ちよさ。楽しめたようでなによりだわ。くすくす❤,Wasn't it amazing; cumming under the effects of my charm magic; your mind completely blank? Betraying your own master is such a sinful pleasure; don't you think? I'm glad you seemed to enjoy it. *Giggle*❤
+はぁ、はぁ・・・❤とめられないぃ・・・❤,Hah; hah...❤ I... I can't stop...❤
+くすくす❤弟子くんもわたしに投げキスしてほしくなっちゃったの？\n仲間が投げキスを浴びせられてアヘアへにされちゃったのを見て、\nうらやましくなってしまったのね❤,*Giggle*❤ Does the little disciple want me to blow him a kiss; too? Watching your companion turn into a drooling mess in a shower of blown kisses made you jealous; didn't it?❤
+くすくす❤あなたもわたしに投げキスをしてほしいの？\nマスターくんの言うことも聞かずに\nお姉さんの前でシコシコ始めちゃって❤とっても悪い子ね❤,*Giggle*❤ Do you want me to blow you a kiss; too? You're ignoring your master's orders and stroking yourself in front of the enemy~❤ You're a naughty boy; aren't you?❤
+おちんちんをぐちゅぐちゅって音をさせながら扱いて…❤\n投げキスをしてほしくて、媚びた犬みたいな目でわたしを見てる❤\nふふふ、すっごく情けない❤,Stroking your cock; making it make those lewd; squishy sounds...❤ Staring at me with those pleading puppy-dog eyes; just begging for a kiss...❤ Fufufu; how pathetic~❤
+どうしようかしら。このまま放っておいても、\n勝手に射精しちゃいそうな気がするわ。\nわざわざ投げキスなんてしてあげる必要ないのかも❤,What should I do? At this rate; it seems like you'll ejaculate all on your own anyway. I might not even need to bother blowing you a kiss~❤
+だって、わたしのことを見ながらおちんちんを触ってるだけで、\nもう頭がとろとろになりそうなぐらい気持ちいいのよね？\nくすくす❤なにもされないでオナニーだけで負けそうなんだ❤,After all; just watching me while touching your cock already feels so good your mind is melting; right? *Giggle*❤ You're about to lose from masturbating; and I don't even need to do anything~❤
+あううっ❤それはぁ・・・❤,Ahhh...❤ Th-that's...❤
+ふふ、そんな心配そうな顔をしなくてもだいじょうぶよ。\nちゃんと投げキスをしてあげるわ❤,Fufu; awh; don't look so disappointed! I'll still blow you a kiss~❤
+ほら、頭の中メロメロにされて、さっさと射精しなさい。\nんっちゅ❤,Here; let your mind become completely lovestruck. Hurry up and cum. Mmwah~❤
+魅了されながらの射精は、\n頭の中が真っ白になって気持ちよかったでしょ？\nあは、すっごくアヘアへってなってる❤敵の前でとろけすぎよ❤,Wasn't it amazing; cumming under the effects of my charm magic; your mind completely blank? Aha; your face looks so sloppy!❤ You let yourself melt way too much in front of your enemy!❤
+こんな恥ずかしい負け方しちゃったら、\nコノハちゃんの弟子なのに、師匠の面目まるつぶれね❤\nくすくす❤,You're supposed to be Konoha's disciple; but losing in such an humiliating way... You're more of an embarrassment to your master than anything~❤ *Giggle*❤
+あうう・・・。痛いわ。\nあん、このままじゃボロボロになって死んじゃう・・・。,Oww... That hurt. Ah; at this rate I'll be torn to pieces...
+ほら見て。この腕、ちょっと血が出ているでしょう？\nお姉さんの魔力、あなたが思っているほど強くないの。\nだから魔力のバリアを貫通してこんなダメージを受けちゃった…。,Look. See my arm? It's actually bleeding a little. I guess my magical power isn't as strong as I thought; if your attacks were able to penetrate my barrier like that...
+ねえおねがい。降参するから、わたしに少しだけ魔力をちょうだい？\nそうじゃないとお姉さん死んじゃうわ。\nちょっとだけ、ちょっとだけでいいから・・・。,Hey; would you help me out? Please? I surrender; okay? So could you give me just a little bit of your magical power? Otherwise I might die. Just a little; tiny bit...
+わたし、相手を射精させなくても少しなら魔力を取れるの。\nおねがい…。このおっぱいで挟ませて…❤\n挟んでる間にドレインするから…❤,I'm able to absorb a small amount of magical power without making my opponent ejaculate. So pleeease... Just let me wrap my breasts around you...❤ I'll drain just a bit while you're all wrapped up; nice and tight...❤
+だいじょうぶ、いつでも振り払えばいいだけよ。\nね、わたしを殺すつもりはないんでしょ？\nそれなら、ほら、おねがい・・・❤,It'll be okay. You can just push me away anytime you want! You don't want to kill me; do you? In that case; come here; please...❤
+{自分}は胸を肘で挟んで見せつけてくる！,{自分} presses her breasts together with her elbows; showing them off!
+ううっ・・・❤,Ugh...❤
+彼女の言葉を無視して攻撃した,Ignore her words and attack
+攻撃をやめてしまった,'They look so soft...'
+あん！いったぁい・・・。\nうう、こんな嘘じゃバレバレかぁ・・・。\nゾンビちゃんの血を腕につけただけじゃわかっちゃうよね・・・。,Ah! Owww... Ugh; guess a lie that obvious wouldn't fool anyone... Putting zombie blood on my arm probably wasn't very convincing; was it...?
+うふふ❤じーっとおっぱい見てるってことは、\nわたしにドレインさせてくれるってことよね？,Ufufu~❤ You staring so intently at my breasts like that means you'll let me drain you; right?
+あん❤ありがとう～❤あなたとっても優しいのね❤\nお姉さん、あなたみたいに優しい人、大好きよ♪,Ahn~❤ Thank you!❤ You're so kind~❤ I absolutely love gentle people like you~♪
+ほら、服をはだけて・・・❤\n生おっぱいでたっぷり挟んであげる❤,Here; let me just undo my clothes...❤ Then I'll wrap my bare breasts around you as much as you want~❤
+はぐぅうう・・・❤❤,Hah; ahh...❤❤
+うふふ❤いつでも振り払っていいわよ❤\n最低限だけ、最低限だけエナジーをちょうだいね❤,Ufufu~❤ You can push me away anytime; okay?❤ I'll just take the bare minimum; just enough energy to heal myself; okay?❤
+あらあら❤ちょっとのエナジーじゃなくて、\n魔力を全部くれるの？おちんちんが膨らんで、\nほら、びゅううって出ちゃうわね❤,Oh my!❤ I just asked for a little bit; but are you going to give me all your magical power? Your cock is swelling up so much. Look; it's about to burst; isn't it?❤
+くすくす❤おちんちん我慢できないなら、\nこんな誘惑に乗らなければいいのに。\nわたしを追い詰めたのが台無し❤,*Giggle*❤ If you can't control your cock; you really shouldn't have fallen for such an obvious temptation. You've wasted all that effort you put into cornering me~❤
+ほかの子たちも、あなたが射精させられたのを見て、\nギンギンになっちゃってる❤\nあなたたちもおっぱいで挟んでほしい？くすくす❤,Looks like all the other boys got excited watching me make your friend ejaculate~❤ Do you all want to be wrapped up between my breasts; too? *Giggle*❤
+やん、突きとばしたら危ないわ。\nもう終わりにしてわたしを捕まえることにしたの？\nきゃっ！,Hey; it's dangerous to push me away like that. Have you decided to stop playing and arrest me now? Kyah!
+あいたた…。\nふふ、でもそれぐらいの攻撃なら耐えられるわ。\nあなたからたっぷり魔力をもらっちゃったから❤,Ouch... Fufu; but that's okay. I can endure an attack like that now. After all; I absorbed plenty of magical power from you~❤
+なっ・・・。,Wha...
+くすくす❤なに驚いた顔してるのよ。\n気持ちよすぎてどれぐらい魔力吸われてるのかも自覚できなかった？\nとどめを刺せるせっかくのチャンスを棒に振っちゃったわね❤,*Giggle*❤ Why do you look so surprised? Did it feel so good that you couldn't even tell how much magical power I was draining from you? You've blown your perfect chance to finish me off~❤
+そのうえ、わたしにねっとりとパイズリで責められて、\nあなたのおちんちん、おっぱいにすっかり弱くなっちゃったみたい❤\nこのあとちゃんと戦えるのかしら？うふふ❤,On top of that; after being thoroughly tormented by my sticky paizuri; your cock has become completely weak to breasts~❤ Are you even able to put up a fight anymore? Ufufu~❤
+あっ、ちょっとまだ待って。きゃん!,Ah; wait! Kyan!
+ううっ、もうちょっと吸えれば、この攻撃も耐えられたのに…。\n惜しかったなぁ…。,Ugh; if I could have absorbed just a little more; I could have endured that attack... So close...
+ゆっくり動かされて気持ちいいでしょ？,It feels good when I move slowly; doesn't it?
+わたしに最低限の魔力をちょうだい？あん❤吸ったのが入ってくる…❤,Why don't you go ahead and give me that little bit of energy now? Ahh~❤ I can feel your magic flowing into me...❤
+優しいあなたにはおっぱいの快感をプレゼントよ…❤,For someone as kind as you; I'll give you the gift of pleasure with my breasts...❤
+あとちょっと、あとちょっとだけ楽しみましょ？,Just a little more; okay? Let's enjoy ourselves just a little longer.
+魔力を吸い出されるの、気持ちいいわよね❤ふふふ❤,Having your magical power drained feels so good; doesn't it?❤ Fufufu~❤
+そのままじっとしてていいのよ。あなたはもう勝ったんだから…❤,Just stay still like that! You've already won; right...?❤
+くすくす❤気持ちよさそうな顔ね。,*Giggle*❤ You're lost in the pleasure; aren't you?
+あなたの魔力がじわーって吸い取られていくわね❤うっとりしてきちゃうでしょ❤,Your magical power is slowly being drained away~❤ You're getting mesmerized; aren't you?❤
+優しくたぷたぷたぷ…♪,Feeling my breasts gently bounce; bounce; bounce...♪
+とどめを刺す前にお姉さんのおっぱいで気持ちよくなってね❤,Enjoy my breasts before you finish me off; okay?❤
+うふふ❤少しづつ早くしてあげる❤,Ufufu~❤ I'll start to speed up a little now.❤
+もっともっと魔力を吸われたいでしょ？暴れちゃダメよ❤,You want to have even more magical power drained; don't you? Don't resist!❤
+こんなに吸わせてくれるなんて、とっても優しいのね❤,You're letting me absorb so much. You're so kind; aren't you?❤
+魔力を吸い出されて、どんどん力が抜けてくる❤,Having your magical power drained like this; your strength must be fading more and more~❤
+おっぱいでずりずり、むにゅむにゅ♪うふふふ❤,Just feel my breasts; sliding and squishing around you~♪ Ufufufu~❤
+くすくす❤もう何も考えられない？,*Giggle*❤ Can't think of anything else anymore; can you?
+頭空っぽになっていいのよ❤お姉さんのパイズリを楽しんで❤,It's okay if you want to let your mind go empty!❤ Just lay back and enjoy my paizuri~❤
+激しく、ゆさゆさゆさ♪,Now I'll bounce; bounce; bounce them harder and harder~♪
+イクまでパイズリされちゃう？射精できたらきっと気持ちいいと思うわ❤,Are you going to let me keep going until you cum? I'm sure it'll feel amazing when you ejaculate from my paizuri like this~❤
+投げキスを浴びて、顔がとろとろね❤\nコノハちゃんの弟子なのに、お姉さんの方が好きになっちゃった？\n理性が弱くてかわいいわ❤くすくす❤,Your face melted as soon as you got hit by my kiss~❤ Even though you're Konoha's disciple; did you end up liking me more? Your weak willpower is so cute~❤ *Giggle*❤
+くすくす❤倒れ込んでるのに、\nうっとりした顔でお姉さんのこと見つめてる❤\nオナニー気持ちよかった？すっかりメロメロじゃない❤,*Giggle*❤ Even though you've collapsed; you're still staring at me with that bewitched expression~❤ Did masturbating feel good? You're completely lovestruck; aren't you?❤
+優しいのはいいけれど、女の嘘は見抜けないとダメよ？\nほら、この腕の血、これゾンビちゃんのなの。\n騙されてドレインされちゃって、素直なんだから❤,Being kind is fine; but you need to be able to see through a woman's lies; you know? Look; the blood on my arm... This is from one of my zombies. Getting tricked and drained like that... You're way too naive~❤
+それとも単純に、おっぱいで挟まれたくて、もう限界だった？\nうふふ❤谷間がどろどろ❤\nエナジーたっぷり溶けだしてるわね❤,Or were you simply at your limit; desperate to be wrapped up in my breasts? Ufufu~❤ You filled my cleavage with so much sticky cum~❤ You really put a lot of your energy into it; didnt you?❤
+くすくす❤投げキスされただけでnあへぇって射精しちゃったわ❤\n目にハートを浮かべちゃって、かわいいのね❤,*Giggle*❤ Just one kiss and you ejaculated with such a cute little sound~❤ You even still have hearts floating in your eyes. How adorable~❤
+あは❤コクコク頷きながらパイズリで射精しちゃった❤\n柔らかいおっぱいでねっとり責められて、\nお姉さんの言うことを聞く「いい子」にされちゃったわね❤くすくす❤,Aha~❤You ejaculated from my paizuri while nodding along to anything I said~❤ Getting tormented by my soft breasts so thoroughly's turned you into such an obedient little "good boy"~❤ Giggle❤
+くすくす❤パイズリに耐えられなくて、あへぇって射精❤,*Giggle*❤ You just couldn't resist my paizuri and ended up ejaculating with such a cute little cry~❤
+おっぱいをこんなに汚して、ずいぶん気持ちよさそうね❤\n男の子ってほんとこれが好きなんだから❤,Making such a mess on my breasts... You must've really enjoyed that; didn't you?❤ Boys like you just love this kind of stuff~❤
+あらあら❤抱っこしてあげてるだけで射精しちゃった❤\nやわらかおっぱいで骨抜きにされて、\n射精をこらえる力も、ふにゃぁって抜けちゃったわね❤,Oh my!❤ You ejaculated just from me hugging you!❤ My soft breasts must have put you completely under my spell; and all your will to resist just melted away; didn't it?❤
+力が入らなくてふらふらでしょう？\nもっと甘えていいのよ。あなたの体重、ちゃんと支えてあげる❤\nふふふ♪,You've lost so much strength you can't even stand straight; can you? That's okay; let me spoil you. I'll support your weight~❤ Fufufu♪
+くすくす❤ズボンの上からくるくるしてるだけで、\nこんなに射精しちゃった❤\n焦らされただけでイっちゃうなんて弱いおちんちんね❤,*Giggle*❤ You ejaculated so much from me just rubbing you through your pants!❤ Cumming from just a tease like that... Your cock's really weak; isn't it?❤
+死霊術師のマスターに敗れた僕は、エナジーを奪われ地面に膝をついていた。,After being defeated by the necromancer cardmaster; I was left kneeling on the ground; my energy drained.
+うぐうっ・・・❤,Ughh...❤
+くすくす❤弟子くんの負けね。\nお姉さんの実力、まだまだ錆びついてはいないみたい。,*Giggle*❤ Looks like the little disciple lost. Guess my skills haven't gone rusty just yet.
+昔はね。コノハちゃんともよくバトルしたの。\n戦績は六対四ぐらいでコノハちゃんの方が勝ち越してたけど、\nそれでもお姉さんもけっこう強かったのよ。,Back in the day; I used to battle with Konoha a lot. Our record was about six to four in Konoha's favor; but I was still pretty strong too; you know!
+さて、それじゃお仕事ね。\nあなたには盗賊退治を諦めてもらわないといけないから。\nあなたを「教育」してあげる❤,Now then; time for the real work. I need to get you to give up on this whole "bandit extermination" idea. I'll just have to "re-educate" you~❤
+ねえ、あなたは、どうやって諦めさせられたい？\nゾンビちゃんに噛み付かせたり、死神ちゃんに斬らせたり、\n痛みを使うような手もあるけれど・・・。,Hey; how would you like me to make you give up your mission? I could have my zombie bite you; or maybe make my reaper cut you; or use other painful methods but...
+やっぱり気持ちいいのがいいわよね？\nほら、お姉さんのおっぱいでかわいがってあげる❤,Feeling good sounds so much better; doesn't it? Here; I'll pamper you with my breasts~❤
+はぅううっ・・・❤きもちいいぃ・・・❤,Hahhh...❤ It feels so good...❤
+くすくす❤１回射精させてあげたからかしら。\nずいぶん素直に喘いじゃうのね❤,*Giggle*❤ You're already moaning so obediently~❤ Is your will still weak from me making you ejaculate once already?
+お姉さんのおっぱい、肌が白くてキレイでしょう？\n日に当たらない生活をしてるから、\n真っ白できれいなのよ。,My breasts are such a pretty pale shade; don't you think? Since I live a life locked away from the sun; they're such a pure white; and so beautiful!
+肌の質感も抜群❤しっとりしてて、\nおちんちんに吸い付くみたいにやわらかいでしょ❤\n挟まれるだけであなたがうっとりしちゃうのも分かるわ。,And they feel amazing too~❤ So smooth and soft; wrapping around your cock almost like they're pulling it in~❤ I can see why you're getting so enraptured from just being squeezed between them.
+でも、それで満足してたらもったいないわよ。ほら・・・❤,But it'd be such a waste to be satisfied with just this! Here...❤
+ずりずり上下に動かしてあげるから、\n骨の髄まで快感にひたりなさい❤\nお姉さんのおっぱいの虜になるの❤,I'll slide them up and down for you; so let the pleasure soak into your very bones.❤ Become completely captivated by my breasts~❤
+あっ、あっ、ああっ・・・❤とけそうで、はひぃ・・・❤,Ahh; ahh; ahhh...❤ S-so good... Hah; ahhh...❤
+ふふふ、お姉さんは盗賊団の用心棒。わるーいカードマスターなのにね♪\nそれなのに、おっぱいでむにむにってされちゃうと、\nおちんちんからメロメロにされちゃう❤,Fufufu; did you forget already? I'm a bad bandit's bodyguard. A wicked; evil cardmaster~♪ But when my breasts squeeze and caress you like this; your dick falls head-over-heels for me; doesn't it?❤
+おちんちんが気持ちよさでいっぱいになると、\n脳まで気持ちいいのが溢れてきて、\nどんどん、どんどん、お姉さんのこと敵だなんて思えなくなる❤,When your cock's filled with so much pleasure; those good feelings overflow into your mind; and bit by bit; you just can't think of me as your enemy anymore~❤
+男の子の脳みそって単純よね❤\nゾンビちゃんよりも頭が空っぽなんじゃないかしら❤\nくすくす❤,Boys' brains are way too simple; don't you think?❤ They might even be more empty than my zombie girls'!❤ *Giggle*❤
+あう、あううぅ❤だって、❤きもちよくてぇ・・・❤,Ahh; ahhh...❤ I can't...❤ But it... It feels so good...❤
+ふふ、そんなの言い訳になっていないわよ。\nどれだけ気持ちよくされても、ほんとは耐えないとダメなの。\n悪いお姉さんにそそのかされたりしちゃダメ❤,Fufu; that's no excuse! No matter how good it feels; you should really be putting up more of a fight. You shouldn't let a bad woman like me seduce you like this~❤
+理性では分かってるんでしょ？\nこんなのダメだ、盗賊団を止めなくちゃって…❤,Your rational mind knows that; doesn't it? That this is wrong. That you have to stop the bandits...❤
+でもその理性があまりにもちっぽけだから、\nおっぱいなんかに負けちゃうの❤,But that part of your mind is so tiny that it can't help but lose to my chest~❤
+きっとあなたの理性はおちんちんより小さいんでしょうね。\nだってパイズリで挟みつぶされちゃうぐらいですもの❤\nね？こうやってしたら理性なんてなくなっちゃうんでしょ？,Your reason must be even smaller than your dick. After all; it got crushed so easily between my breasts during my paizuri~❤ See? When I do this; your rationality disappears; doesn't it?
+あっ、あっ、ああっ❤❤だめ、だめっ❤きもちいいっ❤あひぃっ❤,Ahh; ahh; ahhh!❤❤ N-no!❤ It feels too good!❤ Ahhh!❤
+喘ぎ声が坑道の中に響いちゃうわね❤\nおちんちんからもぐちゅぐちゅぐちゅっていやらしい音させて\n腰もガクガクふるえてる❤,You're moaning so loud it's echoing through the mineshaft!❤ Not to mention your dick is making such lewd sounds; and your hips are starting to tremble~❤
+おちんちん、もう射精したいのよね❤\n敵のお姉さんにおっぱいで搾り取られたいのよね❤,Your cock's already so desperate to cum; isn't it?❤ You want to be milked dry by your enemy's breasts; don't you?❤
+依頼をしてくれた村の人たちの期待を裏切って射精❤\n師匠の期待も裏切って射精❤\n盗賊を止めるどころか、快楽でふにゃふにゃにされて負けちゃう❤,Betraying the hopes of the villagers who gave you this quest by cumming.❤ Betraying the expectations of your master; too.❤ Instead of stopping the bandits; their bodyguard is making you so weak and defeating you with such sweet pleasure~❤
+ほら、イく、イっちゃう❤\n２回目なのにあっさり射精させられちゃう❤\n射精、出る、３、２、１・・・・❤,Look; you're already so close!!❤ It's even your second time; and you're still so easy to please~❤ It's coming out in 3; 2; 1....❤
+はい♪ここでおしまい❤,Okay~♪ That's enough for now.❤
+あっ、あああっ、なんでっ❤はひっ、あとちょっとで❤,Ahh; ahhh; wh-what?!❤ Hah; I was so... so close...❤
+くすくす❤おあずけされて、涙目になっちゃうんだ❤\nかわいい❤,*Giggle*❤ Your eyes are actually starting to water from getting denied like that; aren't they?❤ So cute~❤
+ねえ、お姉さんから弟子くんにおねがいがあるの❤\n今からまたパイズリしてあげるから、\nわたしのこと「好き」って言って？,Hey; I have a favor to ask; okay?❤ I'm going to give you another paizuri; so would you say you "love" me?
+いい？分かった？\nほら・・・❤,Okay? Got it? Here I go...❤
+あ、えっ❤ああっ・・❤,Ah; huh?❤ Ahhh...❤
+ほら、なんて言うんだった？,Go on; what were you supposed to say?
+（あっ、ああっ・・・❤言わないとまた止められるかもっ❤）,(Ahh; ahhh...❤ If I don't say it; she might stop again!❤)
+すき、すきですっ❤ネクロさんのことがすきっ❤❤,I love... I love you!❤ I love you; Miss Necro!❤❤
+よく言えました❤えらいわね❤,That's it!❤ You're such a good boy~❤
+あひぃつ❤すきっ❤そんなにはげしくされたらっ❤すき❤ああっ、もうでちゃうっ❤❤,Ahhh!❤ I love you!❤ If you do it that roughly...!❤ I love you!❤ Ahh; I'm gonna cum!❤❤
+いいのよ射精しなさい❤\n従順な子にはいじわるはしないわ❤,It's okay; go ahead and let it all out!❤ I'm not mean to obedient little boys like you~❤
+ちゃんとおっぱいでなでてほめてあげる❤\nわたし、男の子を甘やかすのは得意だから、\nあなたのこと、あなたの師匠よりもたっぷり甘やかしてあげる❤,I'll use my breasts to stroke and praise you properly~❤ I'm good at spoiling boys; so I'll spoil you way more than your master ever did.❤
+おちんちんで覚えなさい。誰があなたの主人なのか❤\nさあ、今度こそ射精よ❤\n出る、出ちゃう、３，２，１・・・❤ぜろ❤,So let your needy cock remind you who your real master is; okay?❤ Now; this time; I'll let you cum for real!❤ Shoot it all out in 3; 2; 1...❤ Zero~❤
+はひぃっ❤❤❤,Hahhhh!❤❤❤
+あっ、あっ、とまらない・・・❤すきぃ❤すきぃ❤❤,Ahh; ahh; it won't stop...❤ I love you!❤ I love you!❤❤
+ふふ、おっぱいがどろどろ❤\nあなたもあんまり出し過ぎて、足腰が立たないんじゃない？\nほら、パイズリ終わったのに、まだ痙攣してる❤,Fufu; my breasts are all messy now~❤ You came so much that you can't even stand up; can you? Look; the paizuri is over; but you're still twitching so much~❤
+ねえ、弟子くん。\nあなたはわたしのこと好き？,Hey; Little Disciple. Do you love me?
+あう、あうう・・・❤すき・・・❤すき・・・❤,Ahh; ahhh...❤ I love...❤ I love...❤
+わたしが悪いことしてても好き？,Will you love me always? Even if I do bad things?
+ううう・・・・❤すきです・・・❤ネクロさんが、すき・・・・❤,Ugh....❤ I love you...❤ I love you; Miss Necro....❤
+くすくす❤好きって言うだび、おちんちんがひくひくしてる❤\n好きって言葉と気持ちよさが頭の中でつながっちゃったわね❤,*Giggle*❤ Every time you say you love me; your dick twitches~❤ Guess I've connected the word "love" and pleasure in your head; huh?❤
+ここまで深く快感に堕ちているなら、\n呪いをかけるまでもない。\nあなたはもう、わたしのものよ❤,If you've fallen this deep into pleasure; there's really no need for me to cast a curse on you. You're already mine!❤
+ほら、こっちに来なさい。\nお姉さんの部屋でこのあともじっくり、可愛がってあげる。,Here; come with me. Follow me to my room; and I'll take such special care of you.
+お姉さんの名前と、「好き」って言葉以外忘れちゃうぐらいに、\n濃厚にみっちりと、ね❤,I'll care for you so thoroughly and intensely that you'll forget everything except my name and the word "love;" okay?❤
+はうぅう・・・・・❤,Hahhh.....❤
+その後僕は数日間にわたり、彼女の部屋の中で夢のような快楽を与えられた。パイズリで疲れ果てるまで搾り取られたり、やさしく授乳手コキでかわいがられたり…。,After that; I was locked away in Necro's room and offered dreamlike pleasure for several days. I was either milked dry by paizuris until I was exhausted; or gently cared for with nursing handjobs...
+特に僕が彼女に向かって「好き」と言ったときは、とびきり優しく愛撫された。彼女のそばにいると幸せにされて、彼女に「好き」と伝えると気持ちよくなれる。僕の脳にそう深く刻まれるまであまり時間はかからなかった。,Whenever I told her how much I loved her; I was caressed with exceptional tenderness. Being by her side made me happy; and telling her "I love you" felt so nice. It didn't take long for that to be deeply carved into my soul.
+甘い甘い快楽漬けの日々は、確実に僕の理性を蝕み、今まで何のためにカードの修行をしていたのかも、段々とぼやけていった。,Those sweet; pleasure-soaked days steadily eroded my reason; and all the training I had done with my cards gradually became hazy.
+あうう、ネクロさん・・・。すきぃ・・・❤,Ahhh; Miss Necro... I love you...❤
+うふふ❤おっぱいに顔をすりすりしながら甘えちゃって、\n初めて会ったときは強そうだったのに、今じゃすっかり形無しね。,Ufufu~❤ Nuzzling your face against my breasts and acting so spoiled... You seemed so strong when we first met; but now you're completely helpless.
+ねえ、わたしたちそろそろこの村をあとにするのだけど、\nあなたもわたしと一緒に来ない？\nあなたの実力なら、用心棒として一緒に働いていけると思うの。,Hey; we're going to leave this village soon; so won't you please come with me? With your talent; I think you'd be so good; working alongside me as a bodyguard.
+たまに来る侵入者を退治するだけで\nおいしい食事も珍しい魔道具も手に入る。\n用心棒ってなかなかいい生活なのよ。,Just by defeating the occasional intruder; you get delicious meals and rare magical tools. Being a bodyguard is such a good life!
+あなたのこと個人的に気に入ってるし、\n置いていきたくないわ。\nね、お姉さんと一緒に堕落した生活を送りましょう？,I've taken an interest in you; and I don't want to leave you behind. Come on; let's live a life of crime. Together.
+もしOKなら、好きって３回言いなさい。\n分かった？,If that's what you want; just say you love me three times. Got it?
+そう言いながらネクロさんは僕の頭をすりすりとなでる。手の平で頭を軽く押され、顔がゆっくりとおっぱいに沈み込んで行く。,While saying this; Necro gently stroked my head. Her palm lightly pushed against the top of my head; and my face slowly sank into her breasts.
+あうう…❤ネクロさん、すき・・・❤すき・・・❤すきぃ・・・❤,Ahhh...❤ Miss Necro; I love you...❤ I love you...❤ I love you...❤
+くすくす❤よく言えました❤\nわたしも好きよ。ペットとして、だけどね❤,*Giggle*❤ Such a good boy~❤ I love you too. But just as a pet; okay?❤
+さ、それじゃ一回すっきりさせてから、\n旅支度を整えるとしましょか。ふふふ♪,Well then; let me make you feel good one more time; then we'll prepare for our journey; okay? Fufufu~♪
+こうしてすっかり彼女の虜になってしまった主人公は、盗賊団の用心棒となり、各地を転々としていくことになるのだった。,And so the protagonist; completely captivated by the cardmaster Necro; became a bandit bodyguard and wandered from place to place by her side.
+その後、彼らがどうなったのか誰も知らない。死霊術師の与える快楽に堕とされて、主人公の物語はその幕を閉じた。,After that; no one knows what became of them. Corrupted by the necromancer's pleasure; the protagonist's story came to an end.
+くすくす❤もう出しちゃったの？\nわたしが悪いマスターだって分かってるのに\n心を許しちゃってダメな子❤,*Giggle*❤ You came already? You know I'm a bad; bad cardmaster; and yet you let your guard down. What a naughty boy~❤
+魔力がたっぷり溶けた精液が脚にかかってるわ❤\nほら・・・❤,My legs are covered in magical power-filled cum~❤ Look...❤
+こんなにたくさん❤,There's so much~❤
+ううっ、あううぅ・・・❤❤,Ugh; ahhh...❤❤
+これだけ出しちゃったら、もうカードを使えないわよね？\nまだ一枚も召喚してないのに、あなたの負け❤\nコノハちゃんが知ったらきっと悲しむわね❤,After cumming this much; there's no way you could still use cards; isn't that right? You already lost; and you haven't even summoned a single monster!❤ Konoha would be so disappointed if she knew~❤
+だって、あなた、その辺の村人より弱かったんだもの❤\nくす、くすくすくす❤,Not to mention; you were even weaker than some random villager!❤ Ufu~❤ Ufufufufu~❤
+洞窟の中にネクロの小馬鹿にした笑い声が反響する。艶やかで色気のある声が耳に絡みつくようだ。,Necro's mocking laughter echoed through the cave. Her glamorous and seductive voice clinged to my ears.
+あらあら顔が真っ赤ね❤\nそんなに恥ずかしがらなくてもだいじょうぶよ❤\nもうコノハちゃんに会わずに暮らせばいいだけだもの。,Oh my; your face is bright red!❤ You don't need to be so embarrassed~❤ You'll just have to live your life never being able to face Konoha again.
+わたし、一人で用心棒するのも大変だし、\n優秀な部下が欲しかったの。,Being a solo bodyguard is tough; and I've always wanted a reliable subordinate.
+このままあなたのこと連れ去ってあげるから、\nこれからはお姉さんと一緒に、わるーい生活送りましょうね❤\nほら・・・❤,I'll take you away with me; just like this; so from now on; let's live a wicked life together; okay?❤ Here...❤
+まずはもっと快楽を深くしみこませてあげる❤\nあなたがわたしに従順になれるように、\nわたしから離れられなくなるように・・・❤,First; I'll let your mind soak in this pleasure even deeper~❤ So deep you'll become completely obedient to me; and so you can never; ever leave me...❤
+ぱふぱふ❤ぱふぱふ❤\nマントの中で甘い匂いと体温に包まれて、\n存分に快楽におぼれてしまいなさい❤,Puff-puff~❤ Puff-puff~❤ Trapped in my cloak; surrounded by the sweet scent of my perfume and the warmth of my body; drown yourself completely in pleasure~❤
+はひっ、あう、あううぅ❤❤,Hahh; ahh; ahhh...❤❤
+くすくす❤また出してる❤\n従順な男の子は好きよ？\nほら、ぱふぱふ❤ぱふぱふ❤もっと出しなさい❤,*Giggle*❤ Are you cumming again already?❤ That's okay. I like obedient little boys like you. Here; puff-puff~❤ Puff-puff~❤ Cum for me more~❤
+コノハちゃんにはたくさん正しいことを教わったんでしょう？\nお姉さんがこれから「いけない」ことを\nいっぱいあなたに教えてあげるわね。うふふふ❤,Konoha taught you lots of proper things; didn't she? Let me teach you the "naughty" things she never did; okay? Ufufufu~❤
