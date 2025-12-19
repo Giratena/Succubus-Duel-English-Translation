@@ -53,5 +53,5 @@ if __name__ == "__main__":
     if correctly_formatted:
         print("All lines are correctly formatted, nothing to change!")
     else:
-        sys.exit("There is at least one line that does not respect the CSV format, please refer to the log above, exiting with error")
+        sys.exit("There is at least one line that does not respect the CSV format, please refer to the log, exiting with error")
 
