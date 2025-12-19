@@ -30,6 +30,7 @@ jobs:
     needs: detect-changed-files
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
         file: ${{ fromJson(needs.detect-changed-files.outputs.files) }}
 
