@@ -18,8 +18,9 @@ jobs:
       - name: Get changes
         id: set-matrix
         run: |
+          git fetch origin develop
           #get all changed files between current head and base of branch (between PR and the base on develop)
-          files=$(git --no-pager diff --name-only HEAD $(git merge-base HEAD develop)\
+          files=$(git --no-pager diff --name-only HEAD $(git merge-base HEAD origin/develop)\
             | jq -R -s -c 'split("\n")[:-1]')
           #-R read raw strings, -s get all lines, -c compact format, split on new lines to convert to array, ignore last empty line
           echo "$files"
