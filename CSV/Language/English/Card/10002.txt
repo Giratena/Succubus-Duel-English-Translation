@@ -1,7 +1,7 @@
 default
 サムライガール,Samurai Girl
 修行中の侍の少女。武技に優れるが夜伽も得意。相手の隙をついてふところに飛び込み、快楽や武力であっという間に相手を制圧してしまう。,A samurai girl in training; skilled in martial arts but also adept in various bedroom arts. She takes advantage of her opponent's openings to swiftly move in close; using both pleasure and martial prowess to quickly dominate them. She's also quite skilled with pleasure attacks. Once she spots an opening in her opponent; she swiftly takes advantage of it.
-パイズリ攻撃のとき「おっぱいに弱い」を付与する。,When performing a breast attack; applies the “Weak to Breasts” status.
+パイズリ攻撃のとき「おっぱいに弱い」を付与する。,When performing a breast attack; inflicts "Breast Fetish" on foe.
 EU2_paizuriAnime,
 くく、すっかりメロメロのようでござるな❤\n拙者の体を見てはぁはぁ息を荒げおって。,Kuhu; you appear to be completely infatuated; breathing heavily while staring at my body like that.❤
 魅了状態でパイズリしてやれば、それは極楽❤\n頭の中が真っ白に溶けてしまうほどに気持ちいい❤,Being given a paizuri while captivated is pure bliss.❤ It feels so good that your mind will go completely blank and melt away.❤
@@ -112,3 +112,4 @@ EU2_paizuriAnime,
 ん、勢いよく出したござるな。\nまたエナジーを無駄に消費しているでござる。,I'll admit that you're full of mana. However; you must realize that you're wasting it once again.
 ちょっと誘惑されればこのありさま。\nどうせこのまま拙者たちの勝ちでござろうな。間抜けなマスター❤,A little temptation and you give in. I guess we're going to win in the end. Foolish master.❤
 ククク、みっともない最後であったのう。そんなにたくさん出して気持ちよかったか？,Kukuku; what a shameful defeat. Did it feel good to cum so much?
+
