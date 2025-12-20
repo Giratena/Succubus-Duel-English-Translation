@@ -1,248 +1,249 @@
 default
 お嬢様サキュバス,Elegant Succubus
 EU60_handJobAnime,
-　転移魔術が使えるエリートなサキュバス。優れた血統に生まれた自分に誇りを持っており、人に守ってもらうのが当然だと思っている。戦闘能力は決して高くないが、仲間の陰に隠れながらこちらの指揮官を直接攻撃することができ、想像以上に厄介な相手である。,
-\n　基本的に自分勝手な性格で召使いを大事にすることもないが、粗暴なふるまいとは裏腹にその手さばきは繊細であり、男の反応を知り尽くした動きで、彼女のことを気に入らないと思っている相手でさえ簡単に「喜ばせて」しまう。彼女の手に弱点をつかまれてしまえば、どんなリーダーであれ冷静な思考を保つことは難しいだろう。
-[1].このカードが場に出たとき発動する。デッキからこのカード名以外の「サキュバス」モンスターをランダムに１枚手札に加える。\n[2].このカードは相手プレイヤーに直接攻撃できる。自分フィールド上に「{%%10060}」以外のモンスターがいる限り、相手はこのモンスターを攻撃対象に選択できない。,[1]. When this card is put onto the field; add 1 random “Succubus” monster with a different name from this card from your Deck to your hand. \n[2]. This card can attack your opponent directly. As long as you have a monster on your field that is not “{%%10060}”; your opponent cannot select this monster as an attack target.
-魅了状態のモンスターとの戦闘後、「身代わり」を付与する。,After battling a monster under the Charm status effect; grants the “Substitute” effect.
-あら❤理性が弱いのね。所詮は庶民ということかしら。\nわたしのマスターの胸、そんなに見つめてバカみたい❤,
-アナタがおっぱいに見とれている間に、\n遠くからペニスをいじめさせてもらうわ。\n好きなだけアホ面さらしておっぱい見てなさい❤,
-クス❤手の中ですごく固くなってる。\nほんの数回しごいただけよ❤\nもうイきそうなんだ？早漏❤,
-とどめ刺してあげるわ❤\nわたしの小さい手で、カリ首の裏を、\nほら、細かくシコシコシコシコ❤耐えられないでしょ？イ・ケ❤,
-くす❤マスターに見限られてかわいそう❤\nあなたのマスターは、あなたのことより大きなおっぱいが大事みたいよ❤,
-呆然として隙だらけね。\nこの隙に、あなたの下半身を術で呼び寄せてっと・・・❤,
-ほら、シコシコシコ♪シコシコシコ❤\nこうなったらもう抵抗できないわ。\n下半身を捕らえられて、一方的にされるがまま❤,
-攻撃の命令を途中で止めるマスターが悪いのよ。\nあなたは悪くないわ。\nだから、責任を感じず、わたしの手に屈服していいの❤,
-小さな女の子の、非力な手なんかに、\nつよーい男が屈服していいの。\nくす❤下半身は正直ね。わたしに服従できることを喜んでる❤,
-さ、果てなさい❤\n最後は指で裏筋を、\nつーっと❤撫でて、はい、終わり❤,
-敵マスターのあなたに、わたしの魔術を見せてあげる。\nさあ、ゲートよ開きなさい❤,
-あなたの下半身をここに呼び寄せたわ。\nあは、自分の体が光に包まれて変な感じがする？\nそんなの気にしなくていいわよ。だって・・・。,
-こうやって扱いてあげれば、\nゲートに体を入れた感じなんてどうでもよくなるでしょう？\nシコシコ❤シコシコ❤ほら、気持ちよくて腰が浮いてきた❤,
-守りのモンスターが何体いても関係ない。\nわたしはあなたを一方的に攻撃できるの。\nほら、エナジーをわたしに献上しなさい❤シコシコシコシコ❤,
-守りを固めても無駄よ。\nゲートを使って、あなたのチンポをこちらへ招けばいいんだから♪,
-平民が、貴族のもとに自ら来るのは当然のことよね。\nわたしは一歩も動かずに、\nチンポだけご案内。さあ、扱いて気持ちよくしてあげる❤,
-あら、武器を構えちゃてこわい❤\nでも、そんなの無意味だわ。ほら・・・❤,
-下半身だけこちらに召喚❤\nさあ、無防備な平民チンポ、\nわたしが扱いて一方的に搾取してあげる❤,
-あら、もう戦う気力を失って棒立ちなのね。\nそれならぞんざいに搾り取ってあげるわ。\n足であなたのおちんちんを踏みつけてっと❤,
-まるで虫でも踏みつぶすみたいに、ぐりぐりぐり❤\nあは、喘ぎ声あげちゃって、こんな風にされるのがうれしいんだ❤\nこのロリコンマゾ❤,
-ぷぷ、あんあん、あんあん女みたいに喘いじゃって、カッコ悪い❤\nほら、ロリコンマゾ❤わたしの高貴な足に屈服なさい❤\n命を吐き出すまで踏みにじってあげるわ❤,
-平民は近寄らないで。\nそれ以上来るなら、えいっ❤\n足で踏んで痛い目を見せてあげる❤,
-ちょっと何期待してるのよ。足の下で固くなっているじゃない。\nなに？小さい女の子に踏まれて興奮しちゃう変態なの？\nこうやって股間をぐりぐりぐり❤ってされるのがうれしいんだ？,
-くすくす❤それならたっぷり踏んであげる❤\n身分が上の存在に、卑しいものを踏みつぶしてもらえること、\n感謝しなさい、平民❤,
-わたしの胸じゃパイズリはできないわ…。\nでもこのすべすべのドレスに擦り付けながら、手コキしてあげると\nとっても気持ちいいのよ❤,
-ほら、先っぽをおっぱいに押し付けながら、\n根元をシコシコシコ♪\nおっぱいの感触、少しは感じるかしら？,
-ふふ、明らかに喜んでるわね❤\nちっちゃいおっぱいでもいいなんて、見境がないのね。この変態❤\n目をハートにして小さい手にされるがまま。,
-いいわよ。出しなさい❤\n胸に向かって射精することを許してあげる。\n精液は吸収できるから服も汚れないし、胸にかけなさい。ロリコン❤,
-手で根元をいじめながら、\n先っぽをなめてあげるわ。,
-男ってバカだから、こうやって上目遣いで舐めてあげると、\n勝手にわたしのこと好きになって、快感に弱くなるの。\nんっちゅ❤れぇろ❤えろれろ～❤,
-ねえ、あなたもわたしのこと守ってあげたいとか思っちゃった？\nくすくす❤そのチンポの動きが返事代わりね。\n根元をシコりながら、ほらもっと好きになれ、先っぽに、んっちゅ❤,
-アナタなんか足で十分よ。足で。\n手で触らなくても、両足で挟んで扱いてあげれば、\nすぐ喘いでイっちゃうでしょ？,
-ふふ、目にハートを浮かべて完全に無抵抗❤\n足で挟んで、激しく上下に、しゅこしゅこしゅこ❤\n強い快感で速攻でイかせてあげるわ❤,
-え？そんなことないって？\nふふ、ならその自信へし折ってあげる。\n服の上からでいいいわ。足で挟んで、ほら、すりすりすり・・❤気持ちよくなっちゃえ❤,
-くす、魅了されてもうふらふらね。\nあなたなんて投げキッスで十分。,
-わたしのこと好きになっていいわよ。\nんっちゅっぱ❤,
-あん、攻撃なんて野蛮なことはやめなさい。\nほら、スカートをゆっくりめくって・・・。チラ❤,
-くす❤わたしみたいな小さい女の子パンツでも、気になっちゃうのね❤\n手が止まって目が釘付けだわ❤,
-ねえその止めた手、武器なんて捨てて、\n自分のチンポを握ったらいかが？わたしの高貴な下着を見て、\nロリコンマゾオナニー❤きっと気持ちいいわよ？,
-ううっ・・・❤,
-うふふ❤魅了状態で気持ちよくされて、\nわたしのナイトになりたくなっちゃったんでしょ。\nいいわよ、わたしを守ることを許してあげる❤,
-うふふ❤魅了状態で気持ちよくされて、\nわたしのナイトになりたくなっちゃったの？,
-マスターを裏切らせちゃうなんて、わたしが可愛すぎるのも罪ね❤\nいいわよ、わたしを守ることを許してあげる❤,
-さあ、そこにかしづきなさい❤\nこれは叙勲代わりの刻印♪\nあなたの額に、んっちゅ❤,
-はひっ・・・❤お嬢さま・・・❤お守りします・・・❤,
-くすくす❤頭にかわいいキスマークを付けて、\nなんとも滑稽な騎士様ね❤\nせいぜい身を粉にしてわたしに尽くしなさい❤,
-あら、あなたもわたしの騎士になりたいの？\nくすくす❤人気者で困っちゃう❤\nいいわよ、わたしを守ることを許してあげる❤,
-うふふ、頭にかわいいキスマークを付けて、\nなんとも滑稽な騎士様ね❤\nせいぜいあなたも、身を粉にしてわたしに尽くしなさい❤,
-なに？さっきダメって言ったのが聞こえなかったの？\nこのバカ犬。,
-性欲に脳をやられて、動物以下の思考力になってるのかしら。\nまったく男ってこれだから嫌よね。,
-ご褒美が欲しければ、きちんと働くのよ。それぐらい犬でも分かるわ。\nほら・・・❤,
-あなたの額にもっと服従の証を刻んであげたわ。\nさっさと同士討ちでもなんでもしてわたしに尽くしなさい。\nわたしの騎士として、ね❤くすくす❤,
-ふふ❤なに？\nマスター自らわたしに「気持ちよく」してくださいって言っちゃうの？\nあはは、平民ってプライドとかないのね❤,
-モンスターの守りをすり抜けて攻撃できるわたしの能力。\nでも、それを使う必要もなかったわ❤\nだってわたしの元に自分で攻撃を受けに来ちゃうんですもの❤,
-わたしみたいな小さな女の子に、\n必死にぺこぺこして快楽をねだって、とってもみじめだわ❤\nチンポに脳みそ支配された存在って、本当にあわれ❤,
-ふふ❤なに？\nわたしに「気持ちよく」してくださいって言っちゃうの？\nあはは、平民ってプライドとかないのね❤,
-でもダメよ。あなたはわたしの騎士なんでしょう？\nそれなら最後までわたしの盾として働きなさい❤,
-あはは❤泣きそうな目をしちゃってかわいそう❤\nそんなにわたしに気持ちよくされたいのね。\nけれどダメなものはダメ❤アナタは黙って服従なさい、ふふふ❤,
-それじゃあ特別に快楽を与えてあげる❤\n対価はあなたの命よ❤わたしにエナジーすべて寄越しなさい❤,
-ふふ、これでおしまいよ。え？イクまでしてくれないのかって？\n何言ってるのよ。アナタはわたしの騎士になったんでしょ？\nそれなら、アナタは生かしておかないとダメじゃない。,
-射精しそうなチンポ抱えながら、せいぜいわたしに尽くしなさい❤\nわたしのために動けば動くほど、その額の証が、\nあなたを気持ちよくしてくれるわ。うふふふ❤,
-ふふ❤手で少しかわいがってあげただけでイっちゃった❤\n平民はチンポも弱いのね❤\n小さなおっぱいにこすりつけられてたまらなかった？,
-大きくなくてもぷにぷにしてて気持ちよかったでしょ❤\nくすくす、蕩けた顔しちゃって❤このロリコン❤,
-んふ❤おいしい❤\n小さい唇にちゅーちゅー吸い付かれて、全然耐えられなかったわね❤,
-高貴なお口に吸ってもらえてうれしいでしょ❤\nあは、ほんとに幸せそうな顔してるし❤\nやっぱり平民ってプライドないのね。くすくす❤,
-あら、足の裏でびゅくびゅく震えてる❤\nわたしの高貴な足に踏まれてイっちゃったの？\nロリコンなだけじゃなくてマゾなのね、あなた。,
-わたしのぷにぷにとした足は気持ちよかったかしら。\n残っているのが全部出るように、ほらグリグリってしてあげる❤\nふふふ❤喘いじゃって気持ちよさそ❤,
-あら❤投げキスで射精しちゃった❤\nわたしのとびきりの可愛さにやられちゃったのね❤\nくすくす❤,
-あは、もしかしてパンツ見せられただけでイっちゃったの？\nくすくす❤チンポしこるかどうか悩んでるうちに、\n目の刺激だけで我慢できなくなっちゃったのね❤,
-女の子のパンツ見てるだけで射精するなんて、とんだ早漏チンポだわ❤\nふふ、さすがは平民。チンポもずいぶん粗末にできているのね。\nくすくす❤,
-ううっ・・・❤だめなのに・・・❤,
-あら、平民が何をし始めるのかと思ったら、\n急にオナニーを始めちゃったわ。,
-まったく、わたしに忠誠を誓うってのはどこへ行っちゃったのかしら？\nチンポを押さえて必死にシコシコシコ❤\nわたしが可愛すぎて脳みそ何も考えられなくなっちゃった？,
-こうなってしまったらもうダメね。\n盾にするにしてもチンポシコってまともに動けないんじゃ、\n何の役にも立たないわ。,
-ほら、それならもう、さっさとわたしの体力に変えてあげる❤\nエナジー出して、わたしに貢献なさい❤\nあなたの額に、んっちゅ❤,
-はひぃ、あひぃいっ、お嬢さまぁ❤❤,
-くす、忠誠の証の上に、キスマークを重ねがけされるの、\n気持ちいいでしょ？\nわたしの唇で脳みその奥までジンジン溶かしてあげる❤,
-これでとどめよ。むちゅって押し付けるみたいに、\nんっ、ちゅう❤,
-あへぇぇ・・・・❤❤,
-くすくす❤幸せそうに崩れ落ちちゃった❤\nあなたの濃い精液、なかなか悪くない味よ。\nわたしに心酔してた分、よく魔力が溶けてるわ。,
-小さな女の子にいいように使われて、\nそれを最上の喜びとばかりに射精までして、\nふふ、平民ってほんとにわたしに尽くすために生まれてきたのね❤,
-わたしを遠目に見ながらシコシコシコ❤\nくす、戦闘中だって分かってるのかしら。,
-わたしを守るモンスターの壁が多くて、もう無理だって思っちゃった？\nふふ、平民にふさわしい意志の弱さね。\n勝てない相手にはすぐこびへつらう、それでこそ平民よ❤,
-ほら、わたしに剣が届かなかった分、\nこうやってかわいがってあげる❤,
-あひぃっ、手に急に握られてぇっ、はううっ❤❤,
-ふふ、オナニー中のところ、おチンポ取り上げちゃってごめんなさい❤\nでも、自分の手なんかでイくより、わたしの美しい指で扱かれる方が\nあなたもうれしいでしょう？,
-こうやってシコシコシコって動かしてあげれば、\nくす、もう我慢汁を漏らしてる❤,
-平民のザコチンポ、ずいぶん敏感なのね❤\nサキュバスの手に握られたら、ほんの１分も耐えられない❤,
-ほらほらほら❤\n扱くの早くしてあげるからさっさと果ててしまいなさい❤\n女の子の手に負けてエナジー吐き出してしまいなさい❤,
-わたしの小さな手の平に、\nその無駄に大きな体から、エナジーを吸い取られてしまうの❤\nほら、イケ❤果てろ❤ロリコンマゾチンポ❤,
-あひぃ・・・・❤❤,
-くすくす❤どろどろの濃い精液がたくさん出てる❤\nよかったわね、遠くの地面に無駄撃ちするはめにならなくて。\nちゃんとわたしに吸収してもらえるのよ？感謝なさい❤,
-もちろんそのせいでわたしの体力が回復して、\n状況はもっと悪くなってしまうのだけど。\nあなたの仲間からしたらたまったものじゃないわね。ふふふ❤,
-わたしを守るモンスターがいなくて、\nようやくわたしに刃が届きそうだというのに、\nふふ、よりによってオナニーしちゃうなんて、何を考えているのかしら。,
-いえ、きっと何も考えていないのね❤\nわたしのそばまで来たら、可愛すぎるわたしの姿に\n理性がどこかに行ってしまって、我慢ができなくなったのでしょう？,
-大きな胸で谷間を見せてあげたわけでもない。\nただ可愛いわたしを見てるだけで興奮しちゃうなんて、\nあなた、ロリコンね❤くすくす❤,
-あら、わたしにくすくす笑われてうれしいの？\n戦いもしないで自滅するだけあるわ。\nマゾでロリコンなんて救いようがない変態じゃない❤,
-ううぅっ・・・❤,
-ふふ、そのうめき声はなに？\nバカにされて悔しいの？それとも嬉しいの？\nロリコンマゾなんですもの、きっと嬉しいのよね❤,
-その証拠におちんちんますます固くしちゃってる❤\nビンビンになってシコシコするたびに、\nあっ、あっ、って短い喘ぎ声あげて。あはは、醜悪だわ❤,
-ほら、わたしが飽きないうちに、さっさと果ててしまいなさい。\n今ならあなたが扱くところジーって見ててあげる。\n出すところ、見ててほしいんでしょ？,
-あは、こうやって言ったら、扱くの早くなった❤\nそんなに自分が負けるところ見ててほしいんだ❤\nヘンタイ❤,
-しこしこしこ❤しこしこしこ❤\n腰がどんどん浮いてきて、ほらもう出ちゃう❤出しちゃう❤\nいいわよ❤イケ❤ロリコンマゾ❤,
-あひぃぃ・・・・❤❤,
-くすくす❤なんともみっともない姿ね❤\nせっかくの攻撃チャンスをふいにして、\n敵にエナジー貢いじゃうなんて❤,
-シコシコオナニー気持ちよかったかしら？\nわたしに見ててもらえてよかったわね❤\nくすくすくす・・・❤,
-あら、あなたもオナニーしちゃうの？\nふふ、みんなで仲良くしこしこしこ❤\n平民って団結感が強いのね。ぷっ、くすくすくす❤,
-それにしても、私に忠誠を誓ったのはどこへ行っちゃったのかしら？\nチンポを押さえて必死に扱いて、\nわたしが可愛すぎて脳みそ何も考えられなくなっちゃった？,
-わたしを遠目に見ながら一生懸命手を動かして、\n今が戦闘中だって分かってるのかしら。,
-わたしの小さな手の平に、\nその無駄に大きな体から、エナジーを吸い取られてしまうの❤\nほら、白旗上げて屈服するのよ❤ロリコンマゾチンポ❤,
-男ってみんなそうなのかしら。\n次々とオナニーで負けて、ふふ、みっともない❤,
-くうっ、ひどいじゃない。\nこんなかよわいレディに暴力をふるうだなんて。\n平民ってやっぱり野蛮だわ。,
-こうなったらやけくそよ。\nほら、見なさい。わたしのスカート。\n今からめくってあなたにわたしの下着を見せてあげる❤,
-こんな誘惑で攻撃が止まるわけなんてないけど・・・。\nってあら？意外と葛藤してる？ふふ、\nとどめを刺す前にわたしのパンツちょっと見たいなって思ってるんだ❤,
-いいわよ。わたしはここから一歩も動かないわ。\nあなたはとどめの前に、好きなだけ女の子のパンツを楽しめばいい❤\nね、悪い話ではないでしょう？,
-じっとして、そこでわたしの脚を見ていなさい❤くすくす❤,
-理性を振り絞ってとどめを刺した,
-彼女の提案に心惹かれてしまった,
-きゃん！あうう、足が止まったからいけると思ったのに・・・。,
-ふふ、悩んで一歩も動けなくなるなんて、\nずいぶんとかわいいいじゃない。さっきまで\nあんなに怖い顔をしてたのに、ずいぶんと情けない顔になったわね❤,
-ふふ、コクンって頷いちゃって、\nそれはわたしのパンツを見たいってこと？\n強い戦士であっても結局性欲には流されちゃうのね❤,
-ほら、お待ちかねのパンチラよ。\nゆっくり片手でスカートをたくし上げてあげる❤\n好きなだけ見るといいわ。くすくすくす❤,
-はうぅうっ・・・❤,
-ふふ、こんな刺激ぐらいまだ耐えられるわよね？\nなにせわたしを追い詰めたぐらいだもの。\nちょっとパンツを見せたぐらいで負けたりしないはず。,
-ううっ、だめ、もうっ・・・❤ああっ❤,
-え？あは、もうイっちゃうの？\nパンツ見せられただけなのに？\nあんっ❤❤,
-はへぇっ・・・❤,
-くすくすくす❤まさかこんなすぐ出しちゃうなんて、\nわたし、平民のおちんちんの弱さを侮っていたみたい。\n本当に弱いのね❤そんなにパンツが気に入った？,
-なんにしてもこれで体力は回復❤\nこの調子なら多少のダメージは怖がる必要もないのかも。\nだってまたパンツを見せればいいわけだし。ぷっ、くすくす❤,
-だから、もっとじーって見ていいのよ❤\n強いあなたなら、わたしのパンツを見ても、\n理性を保ってまだまだ戦えるわ❤,
-ほら、一回わざとスカートを降ろして、\nもういっかいぴらり❤\nくす、こうやってチラチラ見せられるのがいいのよね❤,
-あは、ぴら、ぴらってするたびに、\nおちんちんがびくん、びくんって大きく動いちゃってる❤\nとっても分かりやすくて素直なチンポ❤,
-「素直」って言われてそんな嬉しそうな顔をしちゃって、\n別に褒めてないのよ❤むしろバカにしてるの❤\nああ、あなた変態だからバカにされた方がうれしいのかしら❤,
-うぐ、そんなことは・・・❤ううっ・・・❤,
-ふふ、そうはいってもそんなにおちんちん反応させてたら\n説得力ないわ。\nパンチラと罵倒、どっちもうれしそうじゃない❤,
-ねえ、そろそろおちんちん限界なんじゃない？\nわたしに何度もパンツを見せられて、\nムラムラがどんどん貯まっていって、今にも溢れだしそうなんでしょ❤,
-ほらそろそろわたしにとどめを刺さなくていいの？\nわたしのパンツを見るのをやめて、\n攻撃再開しなくいいのかしら。ぴらっ❤ちらっ❤,
-あひぃ、ううっ❤もうっ・・・❤,
-くすくす❤武器を振り上げる気配はなさそうね。\nそれどころか、おちんちんが射精の準備始めちゃってる❤\nパンチラに負けて、降参寸前❤,
-小さい女の子にくすくす笑われながら、\nみっともなく負けるの気持ちいいわよ❤\nほら、とどめにもう一回❤ちらっ❤,
-あうう、はへぇ・・・・❤❤,
-んふふ、どろどろの精液にエナジーがたっぷり溶けてる❤\n受けてたダメージもこれで回復ね❤,
-それにしても、すごく間抜けな顔❤\nパンチラなんかで逆転されて、少しは悔しがったらどうなのかしら。\nくすくす❤,
-わたしに臣従して、最後には自らエナジーを差し出して敗北❤\n人間のマスターではサキュバスには勝てないってこと\nよく理解できたかしら❤くすくす❤,
-わたしにオナニー手伝ってもらえてよかったわね❤\nほら、手に精液がべっとり❤\nあなたの濃い魔力、ありがたくもらっておくわ。,
-ちゃんと攻撃すれば、か弱いわたしぐらい倒せたでしょうに。\n人間の男はほんの短い時間ですら、欲情を抑ええられないのかしら。\n浅ましいわ❤くすくす❤,
-ずいぶんカッコ悪い負け方しちゃったわね。\nこんな布切れひとつで射精しゃうなんて、\nほんと人間の男ってバカな生き物❤,
-くすくす❤小さいおっぱいに押し付けられながらの手コキ、\nずいぶん気持ちよかったようね❤\nこんなに出して、このロリコン❤,
-くすくす❤遠隔手コキでなすすべなく搾り取られちゃったわね❤\nこんな小さな手にすら勝てないなんて、\nBランクマスターもたいしたことないわ❤,
-くす❤踏まれて喜んじゃって、このヘンタイ❤\nロリコンマゾのエナジーで足がドロドロよ❤\nこんなに濃いの出すなんてよっぽど気持ちよかったのね❤,
-くすくす❤ちゅってしてあげたのと同時に射精しちゃった❤\n根元からしこしこしこーって精液押し出されて、\n全然耐えられなかったわね❤人間って弱い❤,
-あは、攻撃やめて本当にシコって射精しちゃった❤\nパンチラひとつで脳みそバカにされて、\nくすくす、男ってあわれな生き物ね❤,
-ふふ❤投げキスされただけで、そんなに出しちゃうんだ。\n平民チンポ弱すぎよ。くすくす❤,
-決着ー！！勝者はリュカ・シャルロット選手！,
-まさかあの無敗のルーキーが名誉Ｂランクに敗北してしまうとは！！\n衝撃の結末に会場中がどよめています！,
-レアなサキュバスカードが大量に投入されたシャルロット選手のデッキ、\nこれがその力ということなのでしょうか！,
-くすくす❤あなたが負けたこと、\n会場のみんなが驚いているわ。\nでも、そんなに驚くことじゃないわよね。だって・・・❤,
-サキュバスが人間の男に勝つなんて、当たり前のことですもの。\nほら・・・❤,
-負けたばかりなのに、あなたのチンポはビンビン❤\nまたサキュバスに搾ってもらうことしか頭にないわ。,
-たとえ、みなの期待を裏切ろうが、\nこうやって扱いてほしいんでしょう？,
-ううっ、やめろ・・・❤,
-あら、ほんとにやめてほしいの？\nチンポはそう言っていないみたいだけど。くすくす❤,
-あっ、早く動かされたらっ❤❤あっ、ああっ❤,
-気持ちよさそうな声❤\n小さい女の子にいいように喘がされてみっともないわ❤,
-でもほら、あなたが言うようにちゃんとやめてあげる。\n平民のお願いを聞き入れるなんて、\nわたしって優しいでしょ？,
-うあっ、あう、ううっ・・❤❤,
-うふふ、変な声をあげて、\nもしかしてもうイキそうだったのかしら。\n手でちょっといじめてあげただけでずいぶんと弱いチンポね❤,
-それでどうする？あなたが望むなら、解放してあげてもいいわよ。\nそのヒクヒクさせているものをそのままにして、\n回れ右して会場を立ち去りなさい。,
-もしまたしごいて欲しいのなら、\nふふ、そこで棒立ちになっていればいいわ。\n何も選ばずただ流されればいいの。簡単でしょ❤,
-あ、ああ・・・。ぼくは・・・。,
-そのとき会場にいるファンの人たちの姿が目に入った。そうだ、僕に期待してくれている人たちがいる。ファン以外にも師匠や他の人だって…。妹を救うためにも、こんなところでみっともなく快楽に流されるわけにはいかない！,
-ぼくは、お前には屈しないっ、だから・・・。,
-はい、時間切れ❤,
-あひぃっ❤あっ、あっ、そんなっ❤ああうぅっ❤❤,
-考えてる時間が長いのよ。\n１０秒も２０秒も悩んじゃって、待ちくたびれたわ。\n断るつもりがあるのなら、さっさとしなさい。,
-戦場でそれだけ棒立ちになっていたら、\n一方的に嬲られて当然でしょう？\n今だって同じよ。逆に２０秒も待ってあげて寛大なぐらいだわ❤,
-ああ、そうそう。本気で腰を引けば、\nこの召喚ゲートからは逃げられるから、\nもし脱出する気があるならそうしなさい。といっても・・・❤,
-むしろ快楽をねだって腰を突き出しているようでは、\nとうてい脱出は無理だと思うけど。\nくすくす❤,
-うっ❤ううっ、みんな見てるのにっ❤ああっ、きもちよくてっ❤❤,
-あら先っぽがパンパンね。もう射精しちゃうの？\nほら、その張り詰めた先っぽをわたしの小さな手で、\nシコシコ扱いていじめてあげる❤,
-カリ首の出っ張ったところ、ここが一番弱いのよね❤\n小さな指の強い締め付けで、\n中身を搾りだされてしまいなさい❤ふふふ❤,
-あっ、あっ、ああっ❤こんなのむりっ、もうっ❤❤,
-平民のマゾチンポからわたしにエナジー献上なさい❤\nあなたは小さな女の子の小さな手に弄ばれて、\n一方的に負けるのよ。ほら❤ほらほら❤,
-ふふ、なかなか良質な精液ね。\n精液の質だけは、さすがはBランクマスターというところかしら。,
-あなたのこと、せっかくだからわたしの精液奴隷にしてあげる。\nうれしいでしょう？この手でまた可愛がってもらえるのよ。\nくすくす❤,
-そう言って彼女は、地面に横たわる僕の額に、軽く口づけをした。,
-唇の当たった箇所がじんじんとうずき、何かがすぅーっと染み込んでいくような感覚がする。脳が奥までしびれるような心地よさの中、僕は気絶し、意識を手放したのだった。,
-それから数日後,
-僕は闘技場での初めての敗北のあと、快楽に負けてしまった自分の弱さを反省し、再び修行に励んでいた。,
-大量に搾り取られた魔力もようやく元通りになり、カードの使用も問題なくできるようになった。精神力を鍛え直して、いずれあのマスターにもリベンジをしたいところだ。,
-よし、今日は街にバトルをしに行こう。,
-（ん・・・？なにか体の感じが変なような・・・。）,
-下半身に妙な感覚を感じかと思うと、ズボンの中がわずかに発光した。僕は驚いてズボンの中を見ると、なんと自分のペニスが光のゲートのようなものに飲み込まれている。,
-びっくりしたのも束の間、不意にペニスを誰かに触られている感覚が走った。,
-なっ、この感触っ❤もしかしてこの間のっ❤❤,
-うあっ、指が、からみついてきてっ❤ああっ、きもちいっ❤あっ、あっ❤,
-どこかに召喚されているペニスを、誰かの指がなまめかしく扱き上げてくる。この指の動き、気持ちよさ、おそらく闘技場で戦ったあのサキュバスだ。,
-そんなことを考えているのも束の間、みるみるうちに射精感が高められていく。男のツボを知り尽くしたその手の動きに、僕は全く抗うことができない。,
-うあっ、指の動きが早くなって❤だめっ、そんな先っぽをっ❤あひぃっ❤❤,
-はぁ、はぁ・・・❤ううっ・・・❤,
-ゲートの向こうで何回か射精し、最後に先端に残った精液が、ちゅぱっと唇のような感触に吸い出される。,
-僕は誰もいない宿屋で、床に倒れ伏しながらその快感に喘ぐことしかできなかった。,
-この現象はきっと先日戦ったサキュバスのせいに違いないと思った僕は、リュカ商会の店舗を訪ねていた。,
-商会の店頭は多くのお客さんでにぎわっていた。僕をダシにして宣伝したサキュバスのカードが、飛ぶように売れているようだ。,
-僕が訪ねてきたというのを聞いて、店の奥からリュカ・シャルロットが出てきた。事情を話すと、ああ、そのことね、と分かっていた風の反応を返す。,
-あなたが負けたとき、あの子に支配のマークを付けられていたでしょ？\nたぶんあれの効果だと思うわ。,
-といってもわたし自身、\nサキュバスの子たちの力を全部把握しているわけじゃないのよね。\nま、いいじゃない、気持ちよくしてもらえるなら。,
-いつでもサキュバスに触ってもらえるのよ。\n男にとって夢のような話じゃない。\nくすくす❤,
-え？それじゃ困るって？\nまったく、わがままね。それなら直接交渉しなさい。\nわたしは忙しいの。,
-{自分}を召喚、えい！,
-あら、わざわざ訪ねてきたの？\n朝は精液をごちそうさま❤\nなかなかいい朝食だったわ。,
-ああ、そっか説明しないままだったものね。驚かせちゃったのかしら。\nあなたの体はわたしのものになったの。\nわたしが望めばいつでもあなたの体の一部を召喚できるのよ。,
-わたしがカードの中にいるときでも呼び出せるから、\nふふ、ちょっとお腹が空いたなーって時には便利ね❤\nすぐ射精するから搾るのも楽だし。くすくすくす❤,
-・・・・。,
-ふーん、修行をしたいからやめてほしいの。\nそんなのわたし知らないわ。\nなんで平民の都合を高貴なわたしが気にしないといけないのかしら。,
-ちなみに服従の証はあなたが心から屈服した時にしか刻めないの。\nつまり、闘技場で負けたとき、確かにあなたは\nわたしにすべてを差し出したいって思っていたのよ。,
-もしこの契約を解除してほしいなら、\nわたしを倒してみなさい。そうすれば臣従は解除されるわ。\nま、弱いあなたにそんなことができればだけど❤,
-だって、ほら・・・❤,
-やめてくれっていう話をしているはずなのに、\nさっきからチンポギンギンにしてるじゃない❤,
-わたしの体を見て、わたしの声を聞いて、\nそんなにムラムラしちゃったの？\n節操がないのね。このロリコン❤,
-あっ、ああっ、だめっ・・・❤だめなのにっ・・・❤,
-くすくす❤ロリコンは言うことが口だけね。\nカードを使って下級モンスター１体ぐらい倒せばいいじゃない❤,
-チンポ扱かれて気持ちよくて、\n呪文を十分に唱えることもできない。\nただ腰を突きだしてみっともなくチンポ差し出すだけ❤,
-サキュバスに向かってチンポ差し出せば、\nエナジー搾り取られることなんて、分かり切ってることなのに❤\nほら・・・❤,
-さっさと果てなさい❤ロリコン❤,
-あひっ、激しくされたらっ、ああっ❤❤,
-ふふ、ほんと口ほどにもない❤\n精液の質がいいだけの、ただのマゾ豚ね❤,
-あなたはもうカードマスターなんてやめてしまえばいいのよ。\n体の中で作られた魔力に生命力、\n全部わたしに捧げるためだけに生きなさい❤それがあなたの人生よ❤,
-分かったなら、射精して返事なさい。\nほらほらほら❤,
-あぎぃっ❤❤あっ、ああっ❤❤,
-ふ、他愛もない。\n立場の差が分かったかしら。くすくすくす❤,
-こうして{自分}に徹底的に搾り取られた僕は、彼女の快楽の前に完全に屈してしまった。,
-彼女に絶対に勝てないと心から分からされただけではない、彼女が与える快楽に対してすっかり虜になってしまったのだ。,
-当然、魔力を好きに搾り取られたら、カードを使った修行などできるはずがない。僕はバトルをほとんどできなくなり、腕前もどんどん落ちて行った。それでも。,
-彼女の手で時折可愛がってもらえる、そのことが僕にとって一番の生きる意味になっていた。ほかのことなどすべてどうでもよくなってしまった。,
-彼女は僕をおもちゃ程度にしか思っていないので、たまに扱くだけ扱いたあとに射精をせずに解放されることがあった。,
-その場合、射精をしたくて悶絶する僕の耳が彼女の口元に召喚され、わざとらしく、くすくす、くすくすと笑い声だけを聞かせて、僕を弄び楽しむのだった。,
-お嬢さまの遊び道具にされ、ただただ彼女の都合のいい存在として生きるだけの日々。彼女のあっせんでリュカ商会にタダ働き同然の奴隷として雇われて、僕は死ぬまでそこで働くことになった。,
-こうして無敗を誇っていた最強のルーキーは、下級モンスターのサキュバスに魅了され、その下僕として人生を終えた。サキュバスたちから妹を救うはずだった彼の物語は、逆にサキュバスの奴隷となってその幕を閉じたのだった。,
-わたしを守るモンスターの壁が多くて、もう無理だって思っちゃった？\n平民にふさわしい意志の弱さね。\n勝てない相手にはすぐこびへつらう、それでこそ平民よ❤,
-くすくす❤遠隔手コキでなすすべなく搾り取られちゃったわね❤\nこんな小さな手にすら勝てないなんて、\n{ランク名}ランクマスターもたいしたことないわ❤,
+　転移魔術が使えるエリートなサキュバス。優れた血統に生まれた自分に誇りを持っており、人に守ってもらうのが当然だと思っている。戦闘能力は決して高くないが、仲間の陰に隠れながらこちらの指揮官を直接攻撃することができ、想像以上に厄介な相手である。,An elite succubus who can use teleportation magic. She takes pride in her noble lineage and believes it only natural for others to protect her. Though her combat ability is nothing exceptional; she is able to hide behind her allies while targeting the cardmaster directly; making her a formidable opponent who is not to be underestimated.
+\n　基本的に自分勝手な性格で召使いを大事にすることもないが、粗暴なふるまいとは裏腹にその手さばきは繊細であり、男の反応を知り尽くした動きで、彼女のことを気に入らないと思っている相手でさえ簡単に「喜ばせて」しまう。彼女の手に弱点をつかまれてしまえば、どんなリーダーであれ冷静な思考を保つことは難しいだろう。[1].このカードが場に出たとき発動する。デッキからこのカード名以外の「サキュバス」モンスターをランダムに１枚手札に加える。,\n She is quite selfish and dismissive of her servants; but although her behavior is crass; she is refined in her hand movements. An expert on men's reactions; she can easily "pleasure" even those who despise her. Any leader whose weakness is discovered by her will find it difficult to maintainn their composure. [1] When this card enters the field; you may add 1 random Succubus monster from your deck to your hand; except this card's name.
+[2].このカードは相手プレイヤーに直接攻撃できる。自分フィールド上に「<color=#fd7e00><u><link="10060">Elegant Succubus</link></u></color>」以外のモンスターがいる限り、相手はこのモンスターを攻撃対象に選択できない。,[2] This card can attack your opponent directly. While you control a monster other than 「<color=#fd7e00><u><link="10060">Elegant Succubus</link></u></color>」; this monster cannot be selected as an attack target.
+[3].自分フィールド上にこのカード以外のモンスターが存在しない場合、ターン終了時に発動する。デッキからこのカード名以外の「サキュバス」モンスターをランダムに１体特殊召喚する。,[3] If you control no other monsters except this card at the end of your turn; you may special summon 1 random Succubus monster from your deck; except this card's name.
+(魅了状態のモンスターとの戦闘後、「身代わり」を付与する。),(After combat with a charmed monster; grants "Decoy")
+あら❤理性が弱いのね。所詮は庶民ということかしら。\nわたしのマスターの胸、そんなに見つめてバカみたい❤,Ara~❤ What a weak mind you have. You are merely a commoner; after all. You look so foolish; staring at my master's chest like that.❤
+アナタがおっぱいに見とれている間に、\n遠くからペニスをいじめさせてもらうわ。\n好きなだけアホ面さらしておっぱい見てなさい❤,I'll simply have some fun teasing your penis from afar while you're distracted by her chest. By all means; keep ogling her with that idiotic expression on your face for as long as you like!❤
+クス❤手の中ですごく固くなってる。\nほんの数回しごいただけよ❤\nもうイきそうなんだ？早漏❤,*Giggle*❤ It got so hard in your hands after only a few strokes.❤ Are you already about to cum? Premature ejaculator~❤
+とどめ刺してあげるわ❤\nわたしの小さい手で、カリ首の裏を、\nほら、細かくシコシコシコシコ❤耐えられないでしょ？イ・ケ❤,Allow me to finish you off.❤ Using these small hands of mine; I shall stroke the tip of your penis. Here; I'll stroke it gently.❤ It feels unbearable; doesn't it? Go on. Cum~❤  
+くす❤マスターに見限られてかわいそう❤\nあなたのマスターは、あなたのことより大きなおっぱいが大事みたいよ❤,*Giggle*❤ Poor thing; your master has abandoned you.❤ It seems your master cares more about large breasts than his own monster.❤
+呆然として隙だらけね。\nこの隙に、あなたの下半身を術で呼び寄せてっと・・・❤,You've left yourself wide open; haven't you? In which case; I shall use this chance to call over your lower body with my magic...❤
+ほら、シコシコシコ♪シコシコシコ❤\nこうなったらもう抵抗できないわ。\n下半身を捕らえられて、一方的にされるがまま❤,Take this. Stroke stroke stroke~♪ Stroke stroke stroke~❤ Now you can't resist anymore. Your lower body has been captured; so now you're at my mercy.❤
+攻撃の命令を途中で止めるマスターが悪いのよ。\nあなたは悪くないわ。\nだから、責任を感じず、わたしの手に屈服していいの❤,It's not your fault; it's your master's fault for suddenly going silent mid-command. Therefore; you need not feel any guilt. You can just submit to my hands.❤
+小さな女の子の、非力な手なんかに、\nつよーい男が屈服していいの。\nくす❤下半身は正直ね。わたしに服従できることを喜んでる❤,Is it really okay for such a strong man to submit to the weak hands of a little girl? *Giggle*❤ Your lower body is quite honest; isn't it? It seems you enjoyed submitting to me.❤
+さ、果てなさい❤\n最後は指で裏筋を、\nつーっと❤撫でて、はい、終わり❤,Then; let's finish this.❤ I'll end it by gently stroking the underside of your penis with my fingers.❤ And voila; it's over now.❤
+敵マスターのあなたに、わたしの魔術を見せてあげる。\nさあ、ゲートよ開きなさい❤,Allow me to show you; the enemy master; my magic. Now—Portal open!❤
+あなたの下半身をここに呼び寄せたわ。\nあは、自分の体が光に包まれて変な感じがする？\nそんなの気にしなくていいわよ。だって・・・。,I've now summoned your lower body over to me. Aha; does it feel strange; being enveloped in light like this? You need not concern yourself over that. After all...
+こうやって扱いてあげれば、\nゲートに体を入れた感じなんてどうでもよくなるでしょう？\nシコシコ❤シコシコ❤ほら、気持ちよくて腰が浮いてきた❤,If I treat you like so; then it won't matter that your body is inside a portal. Stroke stroke~❤ Stroke stroke~❤ See? It feels so good that your hips are rising.❤
+守りのモンスターが何体いても関係ない。\nわたしはあなたを一方的に攻撃できるの。\nほら、エナジーをわたしに献上しなさい❤シコシコシコシコ❤,It doesn't matter how many monsters are defending you; attacking you is always in my reach. Now come; feed me your energy.❤ Stroke stroke stroke stroke~❤
+守りを固めても無駄よ。\nゲートを使って、あなたのチンポをこちらへ招けばいいんだから♪,It's useless to defend yourself. I need only open the portal and summon your penis to my side.♪
+平民が、貴族のもとに自ら来るのは当然のことよね。\nわたしは一歩も動かずに、\nチンポだけご案内。さあ、扱いて気持ちよくしてあげる❤,It's only natural for a commoner to answer a noble's summons; isn't it? I won't move an inch; I will merely beckon your penis over. Come; let me stroke it and make you feel good.❤
+あら、武器を構えちゃてこわい❤\nでも、そんなの無意味だわ。ほら・・・❤,Ara~ Brandishing a weapon; how scary.❤ But it's pointless. Here...❤
+下半身だけこちらに召喚❤\nさあ、無防備な平民チンポ、\nわたしが扱いて一方的に搾取してあげる❤,I've summoned just your lower body here.❤ Now; I shall directly play with and exploit this defenseless commoner's penis.❤
+あら、もう戦う気力を失って棒立ちなのね。\nそれならぞんざいに搾り取ってあげるわ。\n足であなたのおちんちんを踏みつけてっと❤,Ara~ You're just standing there; having lost the will to fight; are you? Then I shall give you a crude milking session. Let me step on your dick with my feet.❤
+まるで虫でも踏みつぶすみたいに、ぐりぐりぐり❤\nあは、喘ぎ声あげちゃって、こんな風にされるのがうれしいんだ❤\nこのロリコンマゾ❤,I'll squish it as if I'm squashing a bug between my feet.❤ Aha; you're moaning. It seems you enjoy being treated thsi way.❤ Such a filthy masochist.❤
+ぷぷ、あんあん、あんあん女みたいに喘いじゃって、カッコ悪い❤\nほら、ロリコンマゾ❤わたしの高貴な足に屈服なさい❤\n命を吐き出すまで踏みにじってあげるわ❤,Pfft~ "Ahn~ Ahn~"... Moaning like a woman; you're so lame.❤ Come now; you filthy masochist.❤ Submit to my noble feet.❤ I'll trample you until you've released your essence.❤
+平民は近寄らないで。\nそれ以上来るなら、えいっ❤\n足で踏んで痛い目を見せてあげる❤,You'd best stay back; commoners. If you dare approach me; hmph!❤ I shall trample you and make you suffer.❤
+ちょっと何期待してるのよ。足の下で固くなっているじゃない。\nなに？小さい女の子に踏まれて興奮しちゃう変態なの？\nこうやって股間をぐりぐりぐり❤ってされるのがうれしいんだ？,Hey now; just what are you imagining? I can feel it getting hard under my feet. What? Are you a pervert who gets turned on from being trampled by a younger girl? Do you enjoy it when I rub your genitals like this?
+くすくす❤それならたっぷり踏んであげる❤\n身分が上の存在に、卑しいものを踏みつぶしてもらえること、\n感謝しなさい、平民❤,*Giggle*❤ In that case; I will step on you plenty of times.❤ Be grateful that someone so noble deigns to trample someone as lowly as you; commoner.❤
+わたしの胸じゃパイズリはできないわ…。\nでもこのすべすべのドレスに擦り付けながら、手コキしてあげると\nとっても気持ちいいのよ❤,My breasts are not suitabe for giving a boobjob... However; it will feel good if I rub this dress over your penis with a handjob.❤
+ほら、先っぽをおっぱいに押し付けながら、\n根元をシコシコシコ♪\nおっぱいの感触、少しは感じるかしら？,Here; just place the tip against my breasts as I stroke the base.♪ Can you feel any softness from my breasts?
+ふふ、明らかに喜んでるわね❤\nちっちゃいおっぱいでもいいなんて、見境がないのね。この変態❤\n目をハートにして小さい手にされるがまま。,Fufu; it's clear to see you're enjoying it; aren't you?❤ How broad-minded of you; accepting even small breasts. Such a pervert.❤ Your eyes are glazed over; simply letting my small hands have their way with you.
+いいわよ。出しなさい❤\n胸に向かって射精することを許してあげる。\n精液は吸収できるから服も汚れないし、胸にかけなさい。ロリコン❤,Very well. Let it all out.❤ I grant you permission to ejaculate onto my breasts. Pour your semen directly onto them so it'll get absorbed and not stain my clothes; Mister Epstein*.❤
+手で根元をいじめながら、\n先っぽをなめてあげるわ。,I will tease the base with my hands as I lick the tip.
+男ってバカだから、こうやって上目遣いで舐めてあげると、\n勝手にわたしのこと好きになって、快感に弱くなるの。\nんっちゅ❤れぇろ❤えろれろ～❤,Men are such fools. If I lick them like this while looking at them with upturned eyes; they instantly fall in love and become weak to my pleasure. *Suck*❤ *Lick*❤ *Lick*~❤
+ねえ、あなたもわたしのこと守ってあげたいとか思っちゃった？\nくすくす❤そのチンポの動きが返事代わりね。\n根元をシコりながら、ほらもっと好きになれ、先っぽに、んっちゅ❤,Hey; have you also decided to protect me? *Giggle*❤ Your penis says it all; doesn't it? As I stroke your base... Come; fall for me even more. Next; the tip... *Suck*❤
+アナタなんか足で十分よ。足で。\n手で触らなくても、両足で挟んで扱いてあげれば、\nすぐ喘いでイっちゃうでしょ？,My feet are more than sufficient. Just my feet. I don't even need my hands. Just holding them between my feet and rubbing them will make you moan in no time; won't it?
+ふふ、目にハートを浮かべて完全に無抵抗❤\n足で挟んで、激しく上下に、しゅこしゅこしゅこ❤\n強い快感で速攻でイかせてあげるわ❤,Fufu~ You're completely unguarded; with hearts in your eyes.❤ Let me hold it between my soles and pump it vigorously.❤ I'll make you cum swiftly from the intense pleasure.❤
+え？そんなことないって？\nふふ、ならその自信へし折ってあげる。\n服の上からでいいいわ。足で挟んで、ほら、すりすりすり・・❤気持ちよくなっちゃえ❤,Eh? Am I wrong? Fufu~ Then allow me to crush that confidence of yours. Doing it over your clothes will be enough. I'll hold it between my soles; and... Here I go. Rub rub rub...❤ Enjoy this feeling~❤
+くす、魅了されてもうふらふらね。\nあなたなんて投げキッスで十分。,*Giggle*~ You're so entranced that you can't even keep your head upright; can you? Just blowing a kiss would do you in.
+わたしのこと好きになっていいわよ。\nんっちゅっぱ❤,Go ahead; fall in love with me. Mwah~❤
+あん、攻撃なんて野蛮なことはやめなさい。\nほら、スカートをゆっくりめくって・・・。チラ❤,Ahn~ Cease your barbaric attacks. Here; I'll lift my skirt up just a bit. Peek-a-boo.❤
+くす❤わたしみたいな小さい女の子パンツでも、気になっちゃうのね❤\n手が止まって目が釘付けだわ❤,*Giggle*❤ Even the panties of a younger girl like me is enough to grab your attention; is it?❤ Your hands have stopped; and your eyes are utterly fixated on them.❤
+ねえその止めた手、武器なんて捨てて、\n自分のチンポを握ったらいかが？わたしの高貴な下着を見て、\nロリコンマゾオナニー❤きっと気持ちいいわよ？,Hey; why not lay down your weapons and hold your penis instead? You can admire my elegant underwear and indulge in some naughty masochistic masturbation.❤ Wouldn't that feel amazing?
+ううっ・・・❤,Uu...❤
+うふふ❤魅了状態で気持ちよくされて、\nわたしのナイトになりたくなっちゃったんでしょ。\nいいわよ、わたしを守ることを許してあげる❤,Ufufu~❤ So this lovestruck state feels so euphoric that you've volunteered to be my knight? Very well; I shall allow you to protect me.❤
+うふふ❤魅了状態で気持ちよくされて、\nわたしのナイトになりたくなっちゃったの？,Ufufu~❤ Does being charmed feel so good that you're willing to become my knight?
+マスターを裏切らせちゃうなんて、わたしが可愛すぎるのも罪ね❤\nいいわよ、わたしを守ることを許してあげる❤,My cuteness is practically a sin; getting you to betray your own master. Don't you think so?❤ Very well; I shall allow you to protect me.❤
+さあ、そこにかしづきなさい❤\nこれは叙勲代わりの刻印♪\nあなたの額に、んっちゅ❤,Now; please kneel here.❤ In lieu of a conferment; I shall brand you with this.♪ A kiss atop your forehead; mwah.❤
+はひっ・・・❤お嬢さま・・・❤お守りします・・・❤,Haaah...❤ Milady...❤ I will protect you...❤
+くすくす❤頭にかわいいキスマークを付けて、\nなんとも滑稽な騎士様ね❤\nせいぜい身を粉にしてわたしに尽くしなさい❤,*Giggle*❤ You're quite the silly knight with that kiss mark on your forehead; aren't you?❤ Dedicate your very life in service of me.❤
+あら、あなたもわたしの騎士になりたいの？\nくすくす❤人気者で困っちゃう❤\nいいわよ、わたしを守ることを許してあげる❤,Ara; do you wish to become my knight as well? *Giggle*❤ It's troubling how popular I am.❤ Very well; I shall allow you to protect me.❤
+うふふ、頭にかわいいキスマークを付けて、\nなんとも滑稽な騎士様ね❤\nせいぜいあなたも、身を粉にしてわたしに尽くしなさい❤,Ufufu~ You're such a silly knight; wearing that kiss mark on your forehead.❤ Then to you as well; give your all in service of me.❤
+なに？さっきダメって言ったのが聞こえなかったの？\nこのバカ犬。,What? Did you not hear me say no just now? You stupid mutt.
+性欲に脳をやられて、動物以下の思考力になってるのかしら。\nまったく男ってこれだから嫌よね。,He's totally consumed by his sexual desire; even a beast has more rationality... This is the trouble with men; I suppose.
+ご褒美が欲しければ、きちんと働くのよ。それぐらい犬でも分かるわ。\nほら・・・❤,If you want a reward; then you must work hard for it. Even a dog understands that. Here...❤
+あなたの額にもっと服従の証を刻んであげたわ。\nさっさと同士討ちでもなんでもしてわたしに尽くしなさい。\nわたしの騎士として、ね❤くすくす❤,I've branded another mark of submission onto your forehead. Now go fight your allies or whatever you want for my sake. As my knight; of course.❤ *Giggle*❤
+ふふ❤なに？\nマスター自らわたしに「気持ちよく」してくださいって言っちゃうの？\nあはは、平民ってプライドとかないのね❤,Fufu~❤ What's this? Does the master himself wish for me to "make him feel good"? Ahaha~ Commoners truly are a shameless bunch; aren't they?❤
+モンスターの守りをすり抜けて攻撃できるわたしの能力。\nでも、それを使う必要もなかったわ❤\nだってわたしの元に自分で攻撃を受けに来ちゃうんですもの❤,My ability allows me breach past defending monsters to attack the cardmaster directly; but it turns out it was unnecessary.❤ After all; he'll simply come over to receive my attack.❤
+わたしみたいな小さな女の子に、\n必死にぺこぺこして快楽をねだって、とってもみじめだわ❤\nチンポに脳みそ支配された存在って、本当にあわれ❤,How pathetic you are; bowing so desperately in front of a younger girl like me to beg for pleasure.❤ You creatures; who can only listen to your penises; are truly pitiful.❤
+ふふ❤なに？\nわたしに「気持ちよく」してくださいって言っちゃうの？\nあはは、平民ってプライドとかないのね❤,Fufu~❤ What's this? You wish for me to "make you feel good"? Ahaha~ Commoners truly are a shameless bunch; aren't they?❤
+でもダメよ。あなたはわたしの騎士なんでしょう？\nそれなら最後までわたしの盾として働きなさい❤,However; I refuse. You are my knight; aren't you? Then serve as my shield until the very end.❤
+あはは❤泣きそうな目をしちゃってかわいそう❤\nそんなにわたしに気持ちよくされたいのね。\nけれどダメなものはダメ❤アナタは黙って服従なさい、ふふふ❤,Ahaha~❤ You look as if you're going to cry; poor thing.❤ Do you wish so badly for me to make you feel good? However; no means no.❤ Just shut up and do as I say. Fufufu~❤
+それじゃあ特別に快楽を与えてあげる❤\n対価はあなたの命よ❤わたしにエナジーすべて寄越しなさい❤,Then; in return for your life;❤ I shall give you a special bit of pleasure.❤ Give me all your energy.❤
+ふふ、これでおしまいよ。え？イクまでしてくれないのかって？\n何言ってるのよ。アナタはわたしの騎士になったんでしょ？\nそれなら、アナタは生かしておかないとダメじゃない。,Fufu~ There; finished. Eh? I didn't make you cum? What are you saying? You are my knight; are you not? In that case; I can't allow you to die.
+射精しそうなチンポ抱えながら、せいぜいわたしに尽くしなさい❤\nわたしのために動けば動くほど、その額の証が、\nあなたを気持ちよくしてくれるわ。うふふふ❤,With that penis so close to bursting in your hands; do your best for my sake.❤ The more you act for me; the more that mark on your forehead will make you feel good. Ufufufu~❤
+ふふ❤手で少しかわいがってあげただけでイっちゃった❤\n平民はチンポも弱いのね❤\n小さなおっぱいにこすりつけられてたまらなかった？,Fufu~❤ You came just from a bit of fondling by my hands.❤ It seems commoners also have weak dicks; don't they?❤ Was having it rubbed against my small breasts too much for you?
+大きくなくてもぷにぷにしてて気持ちよかったでしょ❤\nくすくす、蕩けた顔しちゃって❤このロリコン❤,Though they aren't big; they do feel soft and squishy and pleasurable.❤ *Giggle*~ Your face is so blissful.❤ Such a pervert.❤
+んふ❤おいしい❤\n小さい唇にちゅーちゅー吸い付かれて、全然耐えられなかったわね❤,Mph~❤ Delicious~❤ You couldn't handle these small lips sucking on it; could you?❤
+高貴なお口に吸ってもらえてうれしいでしょ❤\nあは、ほんとに幸せそうな顔してるし❤\nやっぱり平民ってプライドないのね。くすくす❤,You must be pleased; getting sucked by these noble lips.❤ Aha~ You certainly look so blissful.❤ It seems commoners truly have no pride; do they? *Giggle*❤
+あら、足の裏でびゅくびゅく震えてる❤\nわたしの高貴な足に踏まれてイっちゃったの？\nロリコンなだけじゃなくてマゾなのね、あなた。,Oh dear; it's pulsating beneath my soles.❤ Did you ejaculate from being stepped on by my noble feet? It seems you're not just some pervert; but also a masochist.
+わたしのぷにぷにとした足は気持ちよかったかしら。\n残っているのが全部出るように、ほらグリグリってしてあげる❤\nふふふ❤喘いじゃって気持ちよさそ❤,Did my soft soles feel that good? I'll give it a good rub to extract the remaining dredges.❤ Fufufu~❤ You're moaning; so I suppose it must feel wonderful.❤
+あら❤投げキスで射精しちゃった❤\nわたしのとびきりの可愛さにやられちゃったのね❤\nくすくす❤,Oh my~❤ I simply blew a kiss and you ejaculated.❤ Were you overwhelmed by how unbearably cute I am?❤ *Giggle*❤
+あは、もしかしてパンツ見せられただけでイっちゃったの？\nくすくす❤チンポしこるかどうか悩んでるうちに、\n目の刺激だけで我慢できなくなっちゃったのね❤,Aha~ Could it be that you ejaculated just from seeing my panties? *Giggle*❤ Here I was wondering whether I ought to stroke your dick for you; but the view alone already forced you past your limits; it seems.❤
+女の子のパンツ見てるだけで射精するなんて、とんだ早漏チンポだわ❤\nふふ、さすがは平民。チンポもずいぶん粗末にできているのね。\nくすくす❤,Ejaculating from the mere sight of a girl's panties; what a premature ejaculator.❤ Fufu; as expected of a commoner. Even your penis is a shoddy product. *Giggle*❤
+ううっ・・・❤だめなのに・・・❤,Ugh...❤ I can't take it...❤
+あら、平民が何をし始めるのかと思ったら、\n急にオナニーを始めちゃったわ。,Oh dear. I was wondering what the commoner would do; yet he suddenly started masturbating.
+まったく、わたしに忠誠を誓うってのはどこへ行っちゃったのかしら？\nチンポを押さえて必死にシコシコシコ❤\nわたしが可愛すぎて脳みそ何も考えられなくなっちゃった？,Goodness; where has his devotion to me gone? He's just grabbing his penis and stroking it so frantically.❤ Has my cuteness eroded his ability to think?
+こうなってしまったらもうダメね。\n盾にするにしてもチンポシコってまともに動けないんじゃ、\n何の役にも立たないわ。,He's no good if he's become like this. With his hand around his dick; he can't even move properly to shield me from harm.
+ほら、それならもう、さっさとわたしの体力に変えてあげる❤\nエナジー出して、わたしに貢献なさい❤\nあなたの額に、んっちゅ❤,Come here. If it's come to this; then I'll quickly convert you into my strength.❤ Release your energy and offer it to me.❤ Here; I'll give your forehead a kiss.❤
+はひぃ、あひぃいっ、お嬢さまぁ❤❤,Hnnngh; haaaaah; Miladyyyy~❤
+くす、忠誠の証の上に、キスマークを重ねがけされるの、\n気持ちいいでしょ？\nわたしの唇で脳みその奥までジンジン溶かしてあげる❤,*Giggle*~ Having kisses planted over your mark of submission feels good; doesn't it? These lips will turn your brain to mush.❤
+これでとどめよ。むちゅって押し付けるみたいに、\nんっ、ちゅう❤,As a final send-off; one firm kiss. Mwaaaaaah~❤
+あへぇぇ・・・・❤❤,Waaaaaah...❤❤
+くすくす❤幸せそうに崩れ落ちちゃった❤\nあなたの濃い精液、なかなか悪くない味よ。\nわたしに心酔してた分、よく魔力が溶けてるわ。,*Giggle*❤ You collapsed so blissfully.❤ Your thick semen is quite delectable. The more infatuated you were with me; the more of your magic is imbued in it.
+小さな女の子にいいように使われて、\nそれを最上の喜びとばかりに射精までして、\nふふ、平民ってほんとにわたしに尽くすために生まれてきたのね❤,To be the plaything of a young girl; and going so far as to ejaculate in utmost bliss... Fufu; commoners truly are born to serve me; aren't they?❤
+わたしを遠目に見ながらシコシコシコ❤\nくす、戦闘中だって分かってるのかしら。,He's masturbating over there while looking in my direction.❤ *Giggle*~ Does he realize we're in the middle of battle?
+わたしを守るモンスターの壁が多くて、もう無理だって思っちゃった？\nふふ、平民にふさわしい意志の弱さね。\n勝てない相手にはすぐこびへつらう、それでこそ平民よ❤,Did you see the wall of monsters defending me; and realize it was hopeless? Fufu; you have a weak will befitting a commoner; don't you? Being quick to suck up those they can't defeat; that's what a commoner is.❤
+ほら、わたしに剣が届かなかった分、\nこうやってかわいがってあげる❤,Here. Since your sword couldn't reach me; I shall give you some love like this.❤
+あひぃっ、手に急に握られてぇっ、はううっ❤❤,Waaah! My hand! Uwaaa...❤❤
+ふふ、オナニー中のところ、おチンポ取り上げちゃってごめんなさい❤\nでも、自分の手なんかでイくより、わたしの美しい指で扱かれる方が\nあなたもうれしいでしょう？,Fufu~ Pardon me for pulling your hand away while you were masturbating;❤ but I'm sure you'd enjoy having your penis stroked by my fingers rather than by your own hand; wouldn't you?
+こうやってシコシコシコって動かしてあげれば、\nくす、もう我慢汁を漏らしてる❤,If I stroke you like this... *Giggle*~ You're already leaking precum.❤
+平民のザコチンポ、ずいぶん敏感なのね❤\nサキュバスの手に握られたら、ほんの１分も耐えられない❤,Your commoner penis is quite sensitive; isn't it?❤ I wouldn't even last a minute being held in the hands of a succubus.❤
+ほらほらほら❤\n扱くの早くしてあげるからさっさと果ててしまいなさい❤\n女の子の手に負けてエナジー吐き出してしまいなさい❤,Come now; take this!❤ I'll stroke it quickly; so hurry up and finish.❤ Give in to these female hands and release all your energy.❤
+わたしの小さな手の平に、\nその無駄に大きな体から、エナジーを吸い取られてしまうの❤\nほら、イケ❤果てろ❤ロリコンマゾチンポ❤,These small palms of mine will suck the energy right out of your needlessly large body.❤ Come now; do it.❤ Ejaculate.❤ You filthy masochist penis.❤
+あひぃ・・・・❤❤,Haaaaah...❤❤
+くすくす❤どろどろの濃い精液がたくさん出てる❤\nよかったわね、遠くの地面に無駄撃ちするはめにならなくて。\nちゃんとわたしに吸収してもらえるのよ？感謝なさい❤,*Giggle*❤ Lots of thick; gooey semen is flowing out.❤ Isn't it great? You won't be wasting it on the floor. I'll properly absorb it all; okay? You should be grateful.❤
+もちろんそのせいでわたしの体力が回復して、\n状況はもっと悪くなってしまうのだけど。\nあなたの仲間からしたらたまったものじゃないわね。ふふふ❤,Naturally; this will allow me to regain my strength and make things worse for your allies; won't it? Fufufu~❤
+わたしを守るモンスターがいなくて、\nようやくわたしに刃が届きそうだというのに、\nふふ、よりによってオナニーしちゃうなんて、何を考えているのかしら。,I have no monsters protecting me; and it seemed like your blade would finally reach me. Yet; of all things; you decided to start masturbating. Just what were you thinking?
+いえ、きっと何も考えていないのね❤\nわたしのそばまで来たら、可愛すぎるわたしの姿に\n理性がどこかに行ってしまって、我慢ができなくなったのでしょう？,No; I suppose you weren't thinking anything.❤ Once you came near me; you couldn't resist how cute I looked and couldn't help yourself; could you?
+大きな胸で谷間を見せてあげたわけでもない。\nただ可愛いわたしを見てるだけで興奮しちゃうなんて、\nあなた、ロリコンね❤くすくす❤,I don't even have any large breasts for you to look at. Just seeing my cute self was enough to arouse you. You're quite the degenerate; aren't you?❤ *Giggle*❤
+あら、わたしにくすくす笑われてうれしいの？\n戦いもしないで自滅するだけあるわ。\nマゾでロリコンなんて救いようがない変態じゃない❤,Oh dear~ Does my mockery excite you? You're just defeating yourself without a fight; aren't you? A masochist on top of a degenerate; you're nothing but a hopeless pervert.❤
+ううぅっ・・・❤,Ugh...❤
+ふふ、そのうめき声はなに？\nバカにされて悔しいの？それとも嬉しいの？\nロリコンマゾなんですもの、きっと嬉しいのよね❤,Fufu; what are you moaning for? Are you upset that I'm making fun of you? Or perhaps you're happy? You're a degenerate and a masochist; so you must be happy; right?❤
+その証拠におちんちんますます固くしちゃってる❤\nビンビンになってシコシコするたびに、\nあっ、あっ、って短い喘ぎ声あげて。あはは、醜悪だわ❤,I can tell by the fact that your dick is getting harder.❤ With each stroke of your hand; it grows harder as you let out another moan. Ahaha~ How unsightly.❤
+ほら、わたしが飽きないうちに、さっさと果ててしまいなさい。\n今ならあなたが扱くところジーって見ててあげる。\n出すところ、見ててほしいんでしょ？,Come now; hurry it up before I grow bored. I'm watching right now as you stroke yourself to my body. Don't you want me to watch over your ejaculation?
+あは、こうやって言ったら、扱くの早くなった❤\nそんなに自分が負けるところ見ててほしいんだ❤\nヘンタイ❤,Aha; your stroking got faster after i said that.❤ You really want me to watch you lose.❤ Pervert.❤
+しこしこしこ❤しこしこしこ❤\n腰がどんどん浮いてきて、ほらもう出ちゃう❤出しちゃう❤\nいいわよ❤イケ❤ロリコンマゾ❤,Stroke stroke stroke~❤ Stroke stroke stroke~❤ Your hips are starting to rise. Look; it's coming out.❤ It came out.❤ That's it.❤ Keep going.❤ Filthy masochist.❤
+あひぃぃ・・・・❤❤,Uwaaaa...❤❤
+くすくす❤なんともみっともない姿ね❤\nせっかくの攻撃チャンスをふいにして、\n敵にエナジー貢いじゃうなんて❤,*Giggle*❤ Such a shameful display; wasn't it?❤ You wasted such a golden opportunity to attack; and instead offered your energy to your opponent.❤
+シコシコオナニー気持ちよかったかしら？\nわたしに見ててもらえてよかったわね❤\nくすくすくす・・・❤,Did you enjoy masturbating? It's good that I was watching; right?❤ *Giggle*...❤
+あら、あなたもオナニーしちゃうの？\nふふ、みんなで仲良くしこしこしこ❤\n平民って団結感が強いのね。ぷっ、くすくすくす❤,Oh my; are you also masturbating? Fufu; it seems everyone's having fun together.❤ Commoners have such a strong sense of unity; don't they? Pfft; *giggle*❤
+それにしても、私に忠誠を誓ったのはどこへ行っちゃったのかしら？\nチンポを押さえて必死に扱いて、\nわたしが可愛すぎて脳みそ何も考えられなくなっちゃった？,That said; just where did your loyalty to me go? Now you're holding your penis and stroking it so desperately; were you so overwhelmed by my cuteness that you couldn't think straight?
+わたしを遠目に見ながら一生懸命手を動かして、\n今が戦闘中だって分かってるのかしら。,He's stroking so furiously over there while looking in my direction. Does he realize we're in the middle of battle?
+わたしの小さな手の平に、\nその無駄に大きな体から、エナジーを吸い取られてしまうの❤\nほら、白旗上げて屈服するのよ❤ロリコンマゾチンポ❤,These small palms of mine will suck the energy right out of your needlessly large body.❤ Come now; shoot your white liquid of surrender.❤ You filthy masochist penis.❤
+男ってみんなそうなのかしら。\n次々とオナニーで負けて、ふふ、みっともない❤,Are all men the same way? Losing one after another by masturbating... Fufu; how embarrassing.❤
+くうっ、ひどいじゃない。\nこんなかよわいレディに暴力をふるうだなんて。\n平民ってやっぱり野蛮だわ。,Kuh-; how terrible. Unleashing violence upon such a weak lady; commoners are truly barbaric.
+こうなったらやけくそよ。\nほら、見なさい。わたしのスカート。\n今からめくってあなたにわたしの下着を見せてあげる❤,It seems I've been driven to a corner. Here; won't you take a look? I'll lift up my skirt and show you my underwear.❤
+こんな誘惑で攻撃が止まるわけなんてないけど・・・。\nってあら？意外と葛藤してる？ふふ、\nとどめを刺す前にわたしのパンツちょっと見たいなって思ってるんだ❤,As if. It's not like a temptation such as this would stop you from attacking... Oh? You seem conflicted? Fufu; I suppose you'd like a quick peek of my panties before finishing me off after all.❤
+いいわよ。わたしはここから一歩も動かないわ。\nあなたはとどめの前に、好きなだけ女の子のパンツを楽しめばいい❤\nね、悪い話ではないでしょう？,Very well. I will not take a single step from this spot; so you may enjoy the sight of my panties as much as you like before finishing me off.❤ Well; not a bad idea; right?
+じっとして、そこでわたしの脚を見ていなさい❤くすくす❤,Just stand there and watch my legs.❤ *Giggle*❤
+理性を振り絞ってとどめを刺した,Push through and strike her down
+彼女の提案に心惹かれてしまった,'Well... Maybe just a peek...'
+きゃん！あうう、足が止まったからいけると思ったのに・・・。,Kyaa! Agh; I thought that since your feet stopped moving...
+ふふ、悩んで一歩も動けなくなるなんて、\nずいぶんとかわいいいじゃない。さっきまで\nあんなに怖い顔をしてたのに、ずいぶんと情けない顔になったわね❤,Fufu~ You're so conflicted that you can't take another step. Isn't that just adorable? You looked so terrifying a moment ago; but now you just seem pathetic; don't you?❤
+ふふ、コクンって頷いちゃって、\nそれはわたしのパンツを見たいってこと？\n強い戦士であっても結局性欲には流されちゃうのね❤,Fufu~ You nodded. Does that mean you'd like to see my panties? Even the most valiant heroes are swayed by their sexual desires; aren't they?❤
+ほら、お待ちかねのパンチラよ。\nゆっくり片手でスカートをたくし上げてあげる❤\n好きなだけ見るといいわ。くすくすくす❤,Here; the panty shot you've been waiting for. I'll slowly lift my skirt up with one hand.❤ Please look to your heart's content. *Giggle*❤
+はうぅうっ・・・❤,Hnnngh...❤
+ふふ、こんな刺激ぐらいまだ耐えられるわよね？\nなにせわたしを追い詰めたぐらいだもの。\nちょっとパンツを見せたぐらいで負けたりしないはず。,Fufu~ You can still endure this level of stimulation; can't you? After all; I'm on the verge of being slain by you. Surely you wouldn't be defeated by a mere flash of my underwear.
+ううっ、だめ、もうっ・・・❤ああっ❤,Uu; I can't... anymore...❤ Aaaah~❤
+え？あは、もうイっちゃうの？\nパンツ見せられただけなのに？\nあんっ❤❤,Eh? Aha~ You're already cumming? Even though I only flashed my panties? Ahn~❤❤
+はへぇっ・・・❤,Hweeeh...❤
+くすくすくす❤まさかこんなすぐ出しちゃうなんて、\nわたし、平民のおちんちんの弱さを侮っていたみたい。\n本当に弱いのね❤そんなにパンツが気に入った？,*Giggle*❤ To think you would ejaculate so soon. I've underestimated just how weak a commoner's dick is. It's truly weak beyond comparison; isn't it?❤ Did you enjoy my panties that much?
+なんにしてもこれで体力は回復❤\nこの調子なら多少のダメージは怖がる必要もないのかも。\nだってまたパンツを見せればいいわけだし。ぷっ、くすくす❤,Regardless; now my strength has been restored.❤ If this is how things will keep playing out; then I need not fear a bit of damage. I can just flash my panties again. Pfft; *giggle*❤
+だから、もっとじーって見ていいのよ❤\n強いあなたなら、わたしのパンツを見ても、\n理性を保ってまだまだ戦えるわ❤,In which case; feel free to stare for a little longer.❤ If you're strong; you should be able to maintain your composure and fight even after looking at my panties.❤
+ほら、一回わざとスカートを降ろして、\nもういっかいぴらり❤\nくす、こうやってチラチラ見せられるのがいいのよね❤,Here; I'll lower my skirt and flash it again.❤ *Giggle*~ Glimpsing it this way feels really nice; doesn't it?❤
+あは、ぴら、ぴらってするたびに、\nおちんちんがびくん、びくんって大きく動いちゃってる❤\nとっても分かりやすくて素直なチンポ❤,Aha~ Each time I flick my skirt up; your dick twitches wildly again.❤ What an honest and obedient penis~❤
+「素直」って言われてそんな嬉しそうな顔をしちゃって、\n別に褒めてないのよ❤むしろバカにしてるの❤\nああ、あなた変態だからバカにされた方がうれしいのかしら❤,You look so pleased at being called "honest"; even though I wasn't praising you.❤ That was intended as mockery.❤ Aah~ As a pervert; I suppose you prefer being mocked; don't you?❤
+うぐ、そんなことは・・・❤ううっ・・・❤,Ugh; there's no way...❤ Uu...❤
+ふふ、そうはいってもそんなにおちんちん反応させてたら\n説得力ないわ。\nパンチラと罵倒、どっちもうれしそうじゃない❤,Fufu~ It's not convincing if your dick keeps twitching in spite of your words. It seems either the panty shots or mockery are enough to please you.❤
+ねえ、そろそろおちんちん限界なんじゃない？\nわたしに何度もパンツを見せられて、\nムラムラがどんどん貯まっていって、今にも溢れだしそうなんでしょ❤,Say; isn't your dick reaching its limits? Your excitement has been increasing from watching me flash my panties so many times; right? Aren't you ready to burst any moment now?❤
+ほらそろそろわたしにとどめを刺さなくていいの？\nわたしのパンツを見るのをやめて、\n攻撃再開しなくいいのかしら。ぴらっ❤ちらっ❤,Hey; isn't it about time to finish me off? You ought to look away from my panties now and resume your attack. Flick~❤ Peek~❤
+あひぃ、ううっ❤もうっ・・・❤,Aaaah; uu...❤ I can't...❤
+くすくす❤武器を振り上げる気配はなさそうね。\nそれどころか、おちんちんが射精の準備始めちゃってる❤\nパンチラに負けて、降参寸前❤,*Giggle*❤ I suppose you won't pick your weapon up; then? Instead; your penis seems ready to ejaculate.❤ Being driven so close to surrender; all from a few panty shots...❤
+小さい女の子にくすくす笑われながら、\nみっともなく負けるの気持ちいいわよ❤\nほら、とどめにもう一回❤ちらっ❤,Doesn't it feel good; losing so shamefully while a young girl laughs at you?❤ Here; I'll give you one more chance to strike me down.❤ Peek~❤
+あうう、はへぇ・・・・❤❤,Aaaah; hweeeeh...❤❤
+んふふ、どろどろの精液にエナジーがたっぷり溶けてる❤\n受けてたダメージもこれで回復ね❤,Mm; there was plenty of energy imbued in that thick semen.❤ It'll also help recover any damage I received; won't it?❤
+それにしても、すごく間抜けな顔❤\nパンチラなんかで逆転されて、少しは悔しがったらどうなのかしら。\nくすくす❤,That said; your face looks truly foolish.❤ Shouldn't you feel more frustrated; being undone by a panty flash? *Giggle*❤
+わたしに臣従して、最後には自らエナジーを差し出して敗北❤\n人間のマスターではサキュバスには勝てないってこと\nよく理解できたかしら❤くすくす❤,You submitted to me; offered up your own energy; and ended up losing to me.❤ Do you understand? A human cardmaster can't beat a succubus.❤
+わたしにオナニー手伝ってもらえてよかったわね❤\nほら、手に精液がべっとり❤\nあなたの濃い魔力、ありがたくもらっておくわ。,Aren't you glad I aided in your masturbation?❤ Look; your hands are covered in semen now.❤ I shall gratefully accept your potent magical power.
+ちゃんと攻撃すれば、か弱いわたしぐらい倒せたでしょうに。\n人間の男はほんの短い時間ですら、欲情を抑ええられないのかしら。\n浅ましいわ❤くすくす❤,If you'd properly attacked; you could have defeated someone as weak as me. But it seems human males are incapable of reigning in their lust for even that short of a time. How shameful.❤ *Giggle*❤
+ずいぶんカッコ悪い負け方しちゃったわね。\nこんな布切れひとつで射精しゃうなんて、\nほんと人間の男ってバカな生き物❤,That's quite a pathetic way to lose; don't you think? Ejaculating from a mere piece of cloth; human males are such foolish creatures.❤  
+くすくす❤小さいおっぱいに押し付けられながらの手コキ、\nずいぶん気持ちよかったようね❤\nこんなに出して、このロリコン❤,*Giggle*❤ You really enjoyed getting a handjob pressed against my small breasts; didn't you?❤ You released so much; you pervert.❤
+くすくす❤遠隔手コキでなすすべなく搾り取られちゃったわね❤\nこんな小さな手にすら勝てないなんて、\nBランクマスターもたいしたことないわ❤,*Giggle*❤ You were helpless to do anything as I milked you dry from here; weren't you?❤ If you can't even beat a small hand; then that B-rank title must be nothing special.❤
+くす❤踏まれて喜んじゃって、このヘンタイ❤\nロリコンマゾのエナジーで足がドロドロよ❤\nこんなに濃いの出すなんてよっぽど気持ちよかったのね❤,*Giggle*❤ This pervert; getting happy from being trampled~❤ My feet are soaked in the energy of a degenerate masochist.❤ You must've felt immense pleasure to produce such thick semen.❤
+くすくす❤ちゅってしてあげたのと同時に射精しちゃった❤\n根元からしこしこしこーって精液押し出されて、\n全然耐えられなかったわね❤人間って弱い❤,*Giggle*❤ You ejaculated just as I gave you a kiss.❤ It seems you couldn't hold back the semen forcing its way from the base of your penis; could you?❤ Humans are so weak.❤
+あは、攻撃やめて本当にシコって射精しちゃった❤\nパンチラひとつで脳みそバカにされて、\nくすくす、男ってあわれな生き物ね❤,Aha~ You actually stopped attacking to masturbate and then ejaculated.❤ Becoming so stupid just from a panty shot; *giggle*~ Males are such pathetic creatures; aren't they?❤
+ふふ❤投げキスされただけで、そんなに出しちゃうんだ。\n平民チンポ弱すぎよ。くすくす❤,Fufu~❤ A mere kiss causes this much semen to shoot out. Commoner penises are so weak. *Giggle*❤
+決着ー！！勝者はリュカ・シャルロット選手！,K.O.!! Charlotte Lucas wins! (Perfect!)*
+まさかあの無敗のルーキーが名誉Ｂランクに敗北してしまうとは！！\n衝撃の結末に会場中がどよめています！,Who could have imagined the undefeated rookie would be defeated by an honorary B-rank!! The whole stadium is roaring from the outcome!
+レアなサキュバスカードが大量に投入されたシャルロット選手のデッキ、\nこれがその力ということなのでしょうか！,Charlotte's deck was filled to the brim with rare succubus cards; is this their true power!?
+くすくす❤あなたが負けたこと、\n会場のみんなが驚いているわ。\nでも、そんなに驚くことじゃないわよね。だって・・・❤,*Giggle*❤ It seems everyone is shocked by your defeat. But it's not that surprising; is it? After all...❤
+サキュバスが人間の男に勝つなんて、当たり前のことですもの。\nほら・・・❤,It's only natural for a succubus to defeat a human male. Look...❤
+負けたばかりなのに、あなたのチンポはビンビン❤\nまたサキュバスに搾ってもらうことしか頭にないわ。,Despite having just lost; your penis is still fully erect.❤ All you can think about is getting milked by that succubus again.
+たとえ、みなの期待を裏切ろうが、\nこうやって扱いてほしいんでしょう？,Even if you were to disappoint everyone in this arena; you'd still like to receive that treatment; wouldn't you?
+ううっ、やめろ・・・❤,Ugh; stop it...❤
+あら、ほんとにやめてほしいの？\nチンポはそう言っていないみたいだけど。くすくす❤,Oh my; are you sure you want me to stop? Your penis doesn't seem to agree. *Giggle*❤
+あっ、早く動かされたらっ❤❤あっ、ああっ❤,Ah; if you move that quickly...❤❤ Ah; aah~❤
+気持ちよさそうな声❤\n小さい女の子にいいように喘がされてみっともないわ❤,You sound quite blissful.❤ That's embarrassing; being made to moan by a young girl.❤
+でもほら、あなたが言うようにちゃんとやめてあげる。\n平民のお願いを聞き入れるなんて、\nわたしって優しいでしょ？,But here; I'll stop just as you asked. Aren't I kind; listening to a commoner's request?
+うあっ、あう、ううっ・・❤❤,Uwa; aah; uu...❤❤
+うふふ、変な声をあげて、\nもしかしてもうイキそうだったのかしら。\n手でちょっといじめてあげただけでずいぶんと弱いチンポね❤,Ufufu; what a strange sound. Were you possibly just about to ejaculate? Your penis is quite weak just from a light teasing by my hand; isn't it?❤
+それでどうする？あなたが望むなら、解放してあげてもいいわよ。\nそのヒクヒクさせているものをそのままにして、\n回れ右して会場を立ち去りなさい。,Then; what should we do now? I could let go; if you'd like; and exit the venue; leaving your twitching thing as it is.
+もしまたしごいて欲しいのなら、\nふふ、そこで棒立ちになっていればいいわ。\n何も選ばずただ流されればいいの。簡単でしょ❤,Or; if you'd like me to stroke it again; all you have to do is stand there. No need to do anything; simply follow my lead. Easy; right?❤
+あ、ああ・・・。ぼくは・・・。,Ah; aah... I...
+そのとき会場にいるファンの人たちの姿が目に入った。そうだ、僕に期待してくれている人たちがいる。ファン以外にも師匠や他の人だって…。妹を救うためにも、こんなところでみっともなく快楽に流されるわけにはいかない！,In that moment; I noticed the fans all around me. That's right; there are people who've placed their hopes in me. And it's not just the fans—my master and everyone else are here; too. For the sake of saving my sister; I can't succumb to some humiliating pleasure here!
+ぼくは、お前には屈しないっ、だから・・・。,I... Refuse to give up; so...
+はい、時間切れ❤,Okay; time's up~❤
+あひぃっ❤あっ、あっ、そんなっ❤ああうぅっ❤❤,Uwaaa!❤ Ah; ah; no wayyy~❤ Aaaaaaghhh~❤
+考えてる時間が長いのよ。\n１０秒も２０秒も悩んじゃって、待ちくたびれたわ。\n断るつもりがあるのなら、さっさとしなさい。,You took too long to decide. I grew bored; watching you deliberate for ten to twenty seconds. If you wished to refuse; you should've done so quickly.
+戦場でそれだけ棒立ちになっていたら、\n一方的に嬲られて当然でしょう？\n今だって同じよ。逆に２０秒も待ってあげて寛大なぐらいだわ❤,If you just stood there like that during battle; then of course you'd get bullied like this; right? It's the same here. Rather; it was gracious of me to even wait twenty seconds.❤
+ああ、そうそう。本気で腰を引けば、\nこの召喚ゲートからは逃げられるから、\nもし脱出する気があるならそうしなさい。といっても・・・❤,Ah; that's right. If you pull back really hard; then you can escape from this summoning portal. If you wish to escape; then please do so. That said...❤
+むしろ快楽をねだって腰を突き出しているようでは、\nとうてい脱出は無理だと思うけど。\nくすくす❤,If; on the contrary; you're begging for pleasure by thrusting your hips forward; I doubt there's any hope of you escaping. *Giggle*❤
+うっ❤ううっ、みんな見てるのにっ❤ああっ、きもちよくてっ❤❤,Uu~❤ Ugh; everyone's watching...❤ Aah; it feels so gooood~❤❤
+あら先っぽがパンパンね。もう射精しちゃうの？\nほら、その張り詰めた先っぽをわたしの小さな手で、\nシコシコ扱いていじめてあげる❤,Oh my; your tip is swelling. Are you already about to cum? Here; I'll tease that strained tip with these little hands of mine.❤
+カリ首の出っ張ったところ、ここが一番弱いのよね❤\n小さな指の強い締め付けで、\n中身を搾りだされてしまいなさい❤ふふふ❤,This protruding part is your weakest point; isn't it?❤ Let my small fingers squeeze out all its contents.❤ Fufufu~❤
+あっ、あっ、ああっ❤こんなのむりっ、もうっ❤❤,Ah; aah; aaaah~❤ I can't take this... anymore~❤❤
+平民のマゾチンポからわたしにエナジー献上なさい❤\nあなたは小さな女の子の小さな手に弄ばれて、\n一方的に負けるのよ。ほら❤ほらほら❤,Give me all the energy inside your masochistic commoner penis.❤ You're about to be toyed with at the hands of a smaller girl and lose wholeheartedly. Here~❤ Take this~❤
+ふふ、なかなか良質な精液ね。\n精液の質だけは、さすがはBランクマスターというところかしら。,Fufu; this is some rich semen; it seems. I suppose the semen; at least; is befitting of a B-rank master.
+あなたのこと、せっかくだからわたしの精液奴隷にしてあげる。\nうれしいでしょう？この手でまた可愛がってもらえるのよ。\nくすくす❤,Since I've done this much; I'll make you into my semen slave as well. Aren't you happy? You'll get to be pampered by these hands once more. *Giggle*❤
+そう言って彼女は、地面に横たわる僕の額に、軽く口づけをした。,Saying that; she kissed my forehead as she lay me on the floor.
+唇の当たった箇所がじんじんとうずき、何かがすぅーっと染み込んでいくような感覚がする。脳が奥までしびれるような心地よさの中、僕は気絶し、意識を手放したのだった。,The spots where her lips touched tingled; and I felt something seeping in. It was a comfortable sensation that numbed the recesses of my brain; and I drifted off to unconsciousness.
+それから数日後,A few days later
+僕は闘技場での初めての敗北のあと、快楽に負けてしまった自分の弱さを反省し、再び修行に励んでいた。,After my first defeat in the arena; I reflected on my weakness in succumbing to pleasure and began training anew.
+大量に搾り取られた魔力もようやく元通りになり、カードの使用も問題なくできるようになった。精神力を鍛え直して、いずれあのマスターにもリベンジをしたいところだ。,I'd finally restored the immense amount of magical energy that had been drained from me; and I could use my cards without any issue. I plan to train my mental fortitude; and then one day get my revenge against that master.
+よし、今日は街にバトルをしに行こう。,Alright; let's go to the city to battle today.
+（ん・・・？なにか体の感じが変なような・・・。）,(Hm...? My body feels strange for some reason...)
+下半身に妙な感覚を感じかと思うと、ズボンの中がわずかに発光した。僕は驚いてズボンの中を見ると、なんと自分のペニスが光のゲートのようなものに飲み込まれている。,I felt a strange sensation in my lower body; and the inside of my pants suddenly started to glow. Startled; I checked inside my pants and saw that my penis had been swallowed by what looked like a portal of light.
+びっくりしたのも束の間、不意にペニスを誰かに触られている感覚が走った。,I was shocked at first; and then I suddenly felt my penis being touched.
+なっ、この感触っ❤もしかしてこの間のっ❤❤,Wh-; this feeling...❤ Could it be; from the other day~?❤❤
+うあっ、指が、からみついてきてっ❤ああっ、きもちいっ❤あっ、あっ❤,Uwa; her fingers; they're wrapping around me~❤ Aah; it feels so goood~❤ Ah; ahh~❤
+どこかに召喚されているペニスを、誰かの指がなまめかしく扱き上げてくる。この指の動き、気持ちよさ、おそらく闘技場で戦ったあのサキュバスだ。,Someone's fingers were seductively stroking my penis that had been summoned elsewhere. These finger movements; this feeling of pleasure; it was reminiscent of the succubus I'd fought in the arena.
+そんなことを考えているのも束の間、みるみるうちに射精感が高められていく。男のツボを知り尽くしたその手の動きに、僕は全く抗うことができない。,While I thought this; the urge to ejaculate was building within me. I was utterly helpless against the movements of her hands which expertly attacked all my weak points.
+うあっ、指の動きが早くなって❤だめっ、そんな先っぽをっ❤あひぃっ❤❤,Uwa; her fingers are moving faster~ No; don't press on the tip like that~❤ Aaaaah~❤❤
+はぁ、はぁ・・・❤ううっ・・・❤,Haa; haa...❤ Uu...❤
+ゲートの向こうで何回か射精し、最後に先端に残った精液が、ちゅぱっと唇のような感触に吸い出される。,I felt myself ejaculate several times on the other side of the portal; and then the semen left at my tip was sucked out by what felt like lips.
+僕は誰もいない宿屋で、床に倒れ伏しながらその快感に喘ぐことしかできなかった。,All I could do was collapse on the floor of the empty inn; moaning in pleasure.
+この現象はきっと先日戦ったサキュバスのせいに違いないと思った僕は、リュカ商会の店舗を訪ねていた。,Thinking this phenomenon must've been the work of the succubus I'd fought the other day; I visited the Lucas Trading Company store.
+商会の店頭は多くのお客さんでにぎわっていた。僕をダシにして宣伝したサキュバスのカードが、飛ぶように売れているようだ。,The shop was bustling with customers. Those succubus cards they'd used me to advertise for were selling like it was black friday*.
+僕が訪ねてきたというのを聞いて、店の奥からリュカ・シャルロットが出てきた。事情を話すと、ああ、そのことね、と分かっていた風の反応を返す。,Upon hearing of my visit; Charlotte Lucas came out from the back of the store. When I explained the situation; she replied; "Oh; I see." as if she already knew what I was talking about.
+あなたが負けたとき、あの子に支配のマークを付けられていたでしょ？\nたぶんあれの効果だと思うわ。,After you'd lost; that girl put a Mark of Domination on you; right? That was most likely the cause.
+といってもわたし自身、\nサキュバスの子たちの力を全部把握しているわけじゃないのよね。\nま、いいじゃない、気持ちよくしてもらえるなら。,That said; I'm personally not too familiar with the powers of a succubus. Well; since you got to feel good from it; isn't it fine?
+いつでもサキュバスに触ってもらえるのよ。\n男にとって夢のような話じゃない。\nくすくす❤,Now you get to have a succubus touch you anytime you'd like. Isn't that every man's fantasy? *Giggle*❤
+え？それじゃ困るって？\nまったく、わがままね。それなら直接交渉しなさい。\nわたしは忙しいの。,Eh? It's bothering you? Goodness; you're quite demanding; aren't you? In that case; please take it up with her. I'm busy.
+{自分}を召喚、えい！,With this treasure; I summon {自分}!!*
+あら、わざわざ訪ねてきたの？\n朝は精液をごちそうさま❤\nなかなかいい朝食だったわ。,Oh my; you came all the way here? Thank you for the morning semen.❤ It made for a delightful breakfast meal.
+ああ、そっか説明しないままだったものね。驚かせちゃったのかしら。\nあなたの体はわたしのものになったの。\nわたしが望めばいつでもあなたの体の一部を召喚できるのよ。,Aah; I never did explain it; did I? It must've alarmed you. You see; your body now belongs to me. I can summon parts of you whenever I please.
+わたしがカードの中にいるときでも呼び出せるから、\nふふ、ちょっとお腹が空いたなーって時には便利ね❤\nすぐ射精するから搾るのも楽だし。くすくすくす❤,I can summon you even while in card form. Fufu; it's convenient for whenever I'm feeling peckish; isn't it?❤ You ejaculate so quickly that it's easy to milk your semen. *Giggle*❤
+・・・・。,...
+ふーん、修行をしたいからやめてほしいの。\nそんなのわたし知らないわ。\nなんで平民の都合を高貴なわたしが気にしないといけないのかしら。,Oh~ You want to train; so you'd like me to refrain? That's none of my concern. Why should a noble like me have to be considerate of some commoner?
+ちなみに服従の証はあなたが心から屈服した時にしか刻めないの。\nつまり、闘技場で負けたとき、確かにあなたは\nわたしにすべてを差し出したいって思っていたのよ。,Incidentally; that mark of submission will only manifest if you've wholeheartedly submitted to me. In other words; back when you'd lost in the arena; you were most certainly thinking only of offering all of yourself to me.
+もしこの契約を解除してほしいなら、\nわたしを倒してみなさい。そうすれば臣従は解除されるわ。\nま、弱いあなたにそんなことができればだけど❤,If you wish to be freed from my control; then defeat me. Then your servitude will be nullified. Well; that's only if a weakling like you can do it.❤
+だって、ほら・・・❤,After all; look...❤
+やめてくれっていう話をしているはずなのに、\nさっきからチンポギンギンにしてるじゃない❤,Despite telling me not to do it anymore; your penis has been fully erect this whole time.❤
+わたしの体を見て、わたしの声を聞いて、\nそんなにムラムラしちゃったの？\n節操がないのね。このロリコン❤,Does seeing my body and hearing my voice turn you on that much? You don't have any integrity; do you? You pervert.❤
+あっ、ああっ、だめっ・・・❤だめなのにっ・・・❤,Ah; aah; no...❤ I can't...❤
+くすくす❤ロリコンは言うことが口だけね。\nカードを使って下級モンスター１体ぐらい倒せばいいじゃない❤,*Giggle*❤ You perverts are all words and no substance; aren't you? Why not just bring out a card to defeat a single low-level monster?❤
+チンポ扱かれて気持ちよくて、\n呪文を十分に唱えることもできない。\nただ腰を突きだしてみっともなくチンポ差し出すだけ❤,Having your penis fondled feels too good for you to even cast a spell properly. All you do is thrust your hips out and offer your dick shamelessly.❤
+サキュバスに向かってチンポ差し出せば、\nエナジー搾り取られることなんて、分かり切ってることなのに❤\nほら・・・❤,It's obvious that if you offer your penis to a succubus; then she'll drain you of your energy.❤ Like so...❤
+さっさと果てなさい❤ロリコン❤,Hurry up and climax.❤ Pervert~❤
+あひっ、激しくされたらっ、ああっ❤❤,Aah; if you do it so roughly... Aaah~❤
+ふふ、ほんと口ほどにもない❤\n精液の質がいいだけの、ただのマゾ豚ね❤,Fufu; it seems you're all talk in the end.❤ You're just a masochistic cow who produces quality semen.❤
+あなたはもうカードマスターなんてやめてしまえばいいのよ。\n体の中で作られた魔力に生命力、\n全部わたしに捧げるためだけに生きなさい❤それがあなたの人生よ❤,You should give up being a card master. Just live solely to offer me all the magic and life force within you.❤ That's all your life is good for.❤
+分かったなら、射精して返事なさい。\nほらほらほら❤,If you finally get it; then respond with your semen. Go on; take this~❤
+あぎぃっ❤❤あっ、ああっ❤❤,Aaaaagh~❤❤ Ah; aaah~❤
+ふ、他愛もない。\n立場の差が分かったかしら。くすくすくす❤,Hmph; how underwhelming. Do you now understand our difference in status? *Giggle*❤
+こうして{自分}に徹底的に搾り取られた僕は、彼女の快楽の前に完全に屈してしまった。,Completely drained by {自分}; I completely succumbed to her pleasure.
+彼女に絶対に勝てないと心から分からされただけではない、彼女が与える快楽に対してすっかり虜になってしまったのだ。,I not only realized I could never win against her; but I also became obsessed with the pleasure she gave me.
+当然、魔力を好きに搾り取られたら、カードを使った修行などできるはずがない。僕はバトルをほとんどできなくなり、腕前もどんどん落ちて行った。それでも。,Naturally; with my magical power being drained whenever she pleased; I couldn't use my cards in training. I was barely able to battle; and my skills steadily worsened.
+彼女の手で時折可愛がってもらえる、そのことが僕にとって一番の生きる意味になっていた。ほかのことなどすべてどうでもよくなってしまった。,Receiving her hands' affection became my life's greatest fulfillment. Nothing else mattered.
+彼女は僕をおもちゃ程度にしか思っていないので、たまに扱くだけ扱いたあとに射精をせずに解放されることがあった。,Since I was merely a toy to her; there were times where she'd jerk me off only to release me before I could cum.
+その場合、射精をしたくて悶絶する僕の耳が彼女の口元に召喚され、わざとらしく、くすくす、くすくすと笑い声だけを聞かせて、僕を弄び楽しむのだった。,Whenever that happened; while I agonized with the urge to cum; she would summon my ears right next to her lips and tease me with nothing but soft giggles.
+お嬢さまの遊び道具にされ、ただただ彼女の都合のいい存在として生きるだけの日々。彼女のあっせんでリュカ商会にタダ働き同然の奴隷として雇われて、僕は死ぬまでそこで働くことになった。,I was used as a plaything by milady; and I lived my days as nothing more than a convenient existence for her. Through her recommendation; I was hired as a slave to the Lucas Trading Company; working for peanuts. I will work here until the day I die.
+こうして無敗を誇っていた最強のルーキーは、下級モンスターのサキュバスに魅了され、その下僕として人生を終えた。サキュバスたちから妹を救うはずだった彼の物語は、逆にサキュバスの奴隷となってその幕を閉じたのだった。,And so; the undefeated rookie fell to the seductions of a low-level monster; a succubus; and lived the rest of his life as her servant. His story; one of saving his sister from the succubi; ended instead with him becoming a slave to a succubus.
+わたしを守るモンスターの壁が多くて、もう無理だって思っちゃった？\n平民にふさわしい意志の弱さね。\n勝てない相手にはすぐこびへつらう、それでこそ平民よ❤,Did you see the wall of monsters defending me; and realize it was hopeless? Fufu; you have a weak will befitting a commoner; don't you? Being quick to suck up those they can't defeat; that's what a commoner is.❤
+くすくす❤遠隔手コキでなすすべなく搾り取られちゃったわね❤\nこんな小さな手にすら勝てないなんて、\n{ランク名}ランクマスターもたいしたことないわ❤,*Giggle*❤ You were helpless to do anything as I milked you dry from here; weren't you?❤ If you can't even beat a small hand; then that {ランク名} title must be nothing special.❤
