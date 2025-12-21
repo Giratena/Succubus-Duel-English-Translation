@@ -147,6 +147,7 @@ OPイベントをスキップしますか？,Skip the opening event?
 復活したとき、{使用カード}の効果発動！\nフィールド上の「ゾンビ」状態のモンスター１体につき\n攻撃力を100ポイントアップするわ！,When revived; {使用カード}'s effect activates! Its attack power increases by 100 points for each monster with the "Zombie" status on the field!
 {使用カード}が相手モンスターを戦闘で破壊したとき、効果発動！\nゾンビガールを自分フィールド上に１体増やすわ！,When {使用カード} destroys an opponent's monster in battle; its effect activates! I add one Zombie Girl to my field!
 {使用カード}が相手モンスターを戦闘で破壊したとき、効果発動！\nゾンビガールを生成して特殊召喚する！,When {使用カード} destroys an opponent's monster in battle; its effect activates! I create and special summon a Zombie Girl!
+{使用カード}が相手モンスターを戦闘で破壊したとき、効果発動！\nゾンビガールを生成して特殊召喚よ！,When {使用カード} destroys an opponent's monster in battle; its effect activates! I create and special summon a Zombie Girl!
 １ターンに１度、{使用カード}の効果を発動！\nすべての相手モンスターのHPを500回復させる代わりに、\n自分モンスターの攻撃力を200ポイントアップする！,Once per turn; I activate {使用カード}'s effect! I restore 500 HP to all my opponent's monsters in exchange for boosting my monster's attack power by 200 points!
 １ターンに１度、{使用カード}の効果を発動！\n相手のHPを500回復させる代わりに、自分フィールド上の\nすべてのモンスターの攻撃力を200ポイントアップする！,Once per turn; I can activate {使用カード}'s effect! It restores 500 HP to my opponent's monsters in exchange for boosting all my monsters' attack power by 200 points!
 召喚に成功した時、{使用カード}の効果発動！\nデッキから闇属性の魔法カードを１枚手札に加える！,When she's successfully summoned; {使用カード}'s effect activates! I add one Darkness Attribute magic card from my deck to my hand!
