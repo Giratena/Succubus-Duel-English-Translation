@@ -3,13 +3,10 @@ default,
 EU59_bustShowAnime,
 EU59_paizuriAnime,
 EU59_paizuriAuraAnime,
-　相手を魅了し、弱体化させることが得意な下級のサキュバス。魅了の呪いが込められたペンダントを、犬の首輪のように男にかけてくる。ペンダントを身に着けさせられた者は、首から上に常に快感が送られ、目の前にいるサキュバスたちの姿が通常よりもさらに美しく見えるようになり、抗うことができなくなってしまうのだという。,A lower-level succubus skilled at charming and weakening opponents. She places an enchanted pendant around men's necks like a dog collar. Those who wear the pendant experience constant pleasure from the neck up; causing any succubus before them to appear even more beautiful than normal; making resistance impossible. 
-\n　サキュバスであるため、当然さまざまな性技も人間よりはるかにうまく、魅了された状態で彼女の愛撫を受ければ、男はたちどころに彼女にエナジーを献上してしまうだろう。,As a succubus; she's naturally far more skilled at various sexual techniques than any human; and men who receive her caresses while charmed will instantly surrender their energy to her.
-[1].このカードが場に出たとき発動する。デッキから「チャームペンダント」を１枚手札に加える。,[1]. When this card enters the field; add one "Charm Pendant" from your deck to your hand.
-[2].1ターンに１度、相手フィールド上の「魅了」状態のキャラクターを選択して発動できる。そのキャラクターに「早漏化」を付与する。,[2]. Once per turn; select one "Charmed" character on your opponent's field. Inflict "Premature Ejaculation" on that character.
-[3].相手の「魅了」状態のモンスターが破壊されたとき発動する。カードを1枚ドローする。,[3]. When your opponent's "Charmed" monster is destroyed; draw 1 card.
+　相手を魅了し、弱体化させることが得意な下級のサキュバス。魅了の呪いが込められたペンダントを、犬の首輪のように男にかけてくる。ペンダントを身に着けさせられた者は、首から上に常に快感が送られ、目の前にいるサキュバスたちの姿が通常よりもさらに美しく見えるようになり、抗うことができなくなってしまうのだという。\n\n　サキュバスであるため、当然さまざまな性技も人間よりはるかにうまく、魅了された状態で彼女の愛撫を受ければ、男はたちどころに彼女にエナジーを献上してしまうだろう。,A lower-level succubus skilled at charming and weakening opponents. She places an enchanted pendant around men's necks like a dog collar. Those who wear the pendant experience constant pleasure from the neck up; causing any succubus before them to appear even more beautiful than normal; making resistance impossible. \n\nAs a succubus; she's naturally far more skilled at various sexual techniques than any human; and men who receive her caresses while charmed will instantly surrender their energy to her.
+[1].このカードが場に出たとき発動する。デッキから「チャームペンダント」を１枚手札に加える。\n[2].1ターンに１度、相手フィールド上の「魅了」状態のキャラクターを選択して発動できる。そのキャラクターに「早漏化」を付与する。\n[3].相手の「魅了」状態のモンスターが破壊されたとき発動する。カードを1枚ドローする。,[1]. When this card enters the field; add one "Charm Pendant" from your deck to your hand.\n[2]. Once per turn; select one "Charmed" character on your opponent's field. Inflict "Premature Ejaculation" on that character.\n[3]. When your opponent's "Charmed" monster is destroyed; draw 1 card.
 [4].このカードが存在する限り、相手は「魅了」状態のモンスターを上級召喚のコストにすることはできない。,[4]. While this card is on the field; your opponent cannot use "Charmed" monsters as tribute for an advanced summon.
-(戦闘時に弱点を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。),(Applies weakness during battle. If the opponent with "Premature Ejaculation" has current HP equal to or less than twice this card's attack; perform Masturbation Temptation.)
+戦闘時に弱点を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。,Applies weakness during battle. If the opponent with "Premature Ejaculation" has current HP equal to or less than twice this card's attack; perform Masturbation Temptation.
 魅了されて魔力抵抗が弱ってるあなたに、\n素敵な呪いをかけてあげる❤,Now that you're charmed and your magic resistance has weakened; I'll place a wonderful curse on you.❤
 あなたのおちんちんが弱くなって、\nすぐにイっちゃうようになる呪いよ❤\nほら、指先からハートを飛ばして・・・♪,A curse that'll make your dick weaker; causing you to cum instantly~❤ Look; I'll send hearts flying from my fingertips...♪
 わたしからもあなたにプレゼント❤,Here's my gift to you too.❤
@@ -209,7 +206,7 @@ Bランクマスターの強いモンスターなんだから、\nこんな誘�
 うふふ❤腰をぐんって突き出して、\nあん、おチンポ入ってきた❤\nそれじゃ、気持ちよくイかせてあげる❤,Ufufu.❤ I'll thrust my hips forward; ah; your dick's sliding in.❤ Now then; I'll make you cum real good.❤
 顔を抱き寄せながら、ぱふぱふ❤ぱふぱふ❤\nふとももも締めて、軽く左右交互に、すりすりすり・・・♪,I'll pull your face close while going puff-puff.❤ Puff-puff.❤ Squeezing my thighs together; rubbing left and right alternately... rub rub rub...♪
 あひぃっ、あっ、あっ、あああっ❤❤❤,Ahiii; ah; ah; aaaah!❤❤❤
-くすくすくす❤男なんてチョロいものね❤\nおっぱい見せてあげたら、すぐに負けちゃう❤\nこんなにエナジーをごちそうしてくれて、体力も元通りだわ❤,*Giggle giggle*.❤ Men are so easy.❤ Show them some tits and they lose immediately.❤ Thanks for the replenishing meal; I'm back to full strength.❤
+くすくすくす❤男なんてチョロいものね❤\nおっぱい見せてあげたら、すぐに負けちゃう❤\nこんなにエナジーをごちそうしてくれて、体力も元通りだわ❤,Ahaha~!*.❤ Men are so easy.❤ Show them some tits and they lose immediately.❤ Thanks for the replenishing meal; I'm back to full strength.❤
 顔を挟まれながらふとももでいじめてもらえるなんて、\n最高の快楽だったでしょう？\n人間がサキュバスに勝てるわけないのよ❤,Having your face squeezed between my breasts while my thighs torment you— that must've been the ultimate pleasure; right? A human could never beat a succubus.❤
 くすくす❤サキュバスとの実力差、体に教え込まれちゃったわね❤\nおっぱい一回揺らしただけでイっちゃうザコマスターくん❤,*Giggle*.❤ I've taught your body the difference in power between us.❤ You're such a weak master; cumming from just one bounce of my tits.❤
 わたしの甘い声で脳みそ蕩けさせられちゃった❤\nくすくす❤オナニーなんかで負けたのに\n気持ちよさそうな顔しちゃって、情けないのね❤,My sweet voice melted your brain.❤ *Giggle*.❤ You lost just from masturbation; yet you're making such a pleased face— how pathetic.❤
