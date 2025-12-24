@@ -1,31 +1,33 @@
 default
-宝石サキュバス,Jewel Succubus
+宝石サキュバス,Gemstone Succubus
 EU61_tailJobAnime,
-　豪華な宝石を身にまとった強力なサキュバス。彼女の美貌は見る者の意識をひきつけ、すべてのマスターは無意識のうちに彼女に対してしか魔術を行使できなくなってしまうのだという。理性を強く保たなければ、味方に使うはずだった強化魔法をいつの間にかすべて彼女に献上することになり、さらに強力になった彼女の手であっという間に昇天させられてしまうことになるだろう。,
-[1].このカードが場に出たとき発動する。自分のデッキから「{%%60022}」を１枚手札に加える。\n[2].このカードがフィールド上に存在する限り、お互いのプレイヤーはこのカードを効果の対象に選択できる場合、このカードしか効果の対象に選択できない。\n[3].このカードが相手モンスターを破壊したとき発動する。そのモンスターをゲームから取り除き、自分の墓地に存在する「ジェム」魔法カードと同種のカードをランダムに１枚生成して手札に加える。,
-[4].「ジェム」カードを発動したとき発動する。ランダムな相手キャラクターの攻撃力を500ポイントダウンする。,
-ホホホ、わらわの美しさに屈したそなたの体、\n我が身を飾る宝石に変えてくれよう。,
-ふむ、悪くない仕上がりよの。さてどこに着けてやろうか。\n首のネックレスに加えて、谷間にでも挟んでやろうか？\nほほほ❤,
-ホホホ、そなたもわらわの宝石コレクションに加わりたいのか？\nほれ、我が身を飾る宝石に変えてくれよう。,
-ふむ、悪くない仕上がりよの。さてどこに着けてやろうか。\nわらわの指にはめられて、手慰みに弄ばれたいか？\nほほほ❤,
-わらわの手は美しかろう？\nほれ、お前の粗末ないちもつを、軽くもてあそんでやろうではないか❤\n指をそっと押し当てて、上にゆっくりなで上げる・・・❤,
-たかがひと撫でされただけで、とろけた顔になっておるぞ？\n快楽で顔がゆるみ、精悍な顔を保つことも難しいのか。\n情けないのう❤,
-よろこべ。お前の粗末なものを\nわらわの胸で挟んで搾り取ってやろう。,
-この胸で挟まれたオスどもは、\n極上の肌ざわりですぐ虜になる❤\nほおら、極楽の世界へいざなってやろうぞ❤,
-両腕でお前をとらえ、\nこの胸に顔をうずめさせてやろう。\nわらわの抱擁を受けられるのだ、光栄に思うがよいぞ❤,
-高級なドレスの肌触りと、わらわの胸の極上の感触。\n男を恍惚にいざなうには十分すぎる極楽であろう？\n脳を蕩けさせながら、わらわの腕の中で果ててしまえ❤,
-恍惚の投げキス,
-くすくす❤もはや風前のともしびじゃな。\nわらわたちの美しさに心を奪われ、立つこともままならんとは。,
-ほれ、わらわがさらに魔力を重ねてやろう。\n唇を指先で弾いて・・・んっちゅぱ❤,
-どうじゃ？脳がとろけるようであろう？\nわらわのような強者に勝つことなど元より不可能。\n恍惚に堕ちてしまうがよい❤,
-下郎の体など、触れるまでもない。\n魔力を込め、唇を弾くだけで十分であろう？\nんっ・・・❤ちゅぱ❤,
-恍惚の魔眼,
-わらわの目は美しかろう？\nこの目で見つめられた男は、触れられもせぬうちから、\nわらわに屈してしまうのだ。,
-はううっ・・・❤,
-ほほほ、口が半開きになって間抜けな顔よの❤\nどうじゃ？その状態でペニスをしごけば、とろけるように気持ちよいぞ？\nわらわの前にひざまずき、見下されながら、果てるがよい。下郎❤,
-ホホホ❤わらわの美しさの虜となり、自ら快楽をねだるか。\nなんとも情けない男よの。\nこれが人類の中でも強者の部類とは。,
-そなたはどのような最期を望む？\nわらわの前で願いを申してみよ。,
-高貴なる愛撫,
+豪華な宝石を身にまとった強力なサキュバス。彼女の美貌は見る者の意識をひきつけ、すべてのマスターは無意識のうちに彼女に対してしか魔術を行使できなくなってしまうのだという。理性を強く保たなければ、味方に使うはずだった強化魔法をいつの間にかすべて彼女に献上することになり、さらに強力になった彼女の手であっという間に昇天させられてしまうことになるだろう。,A powerful succubus adorned with luxurious jewels. Her beauty entraps the minds of all who see her; and every cardmaster she faces unconsciously finds themselves able to only cast upon her. Without maintaining strong willpower; the enhancement spells meant for allies will unknowingly be offered to her; and in the hands of her now-even-more-powerful form; you'll be brought to climax in an instant.
+[1].このカードが場に出たとき発動する。自分のデッキから「<color=#fd7e00><u><link="60022">Supreme Jewel Necklace</link></u></color>」を１枚手札に加える。,[1]. When this card enters the field; add 1 "<color=#fd7e00><u><link="60022">Supreme Jewel Necklace</link></u></color>" from your deck to your hand.
+[2].このカードがフィールド上に存在する限り、お互いのプレイヤーはこのカードを効果の対象に選択できる場合、このカードしか効果の対象に選択できない。,[2].While this card exists on the field; if either player is able to select this card as a target for an effect; they must do so.
+[3].このカードが相手モンスターを破壊したとき発動する。そのモンスターをゲームから取り除き、自分の墓地に存在する「ジェム」魔法カードと同種のカードをランダムに１枚生成して手札に加える。,[3]. When this card destroys an enemy monster; remove that monster from the game; and randomly generate 1 "Gem" magic card of the same type from your graveyard and add it to your hand.
+[4].「ジェム」カードを発動したとき発動する。ランダムな相手キャラクターの攻撃力を500ポイントダウンする。,[4]. Whenever you activate a "Gem" card; decrease a random opponent character's attack power by 500 points.
+ホホホ、わらわの美しさに屈したそなたの体、\n我が身を飾る宝石に変えてくれよう。,Hohoho; your body that has surrendered to my beauty. Then I shall transform it into a jewel and adorn myself with it.
+ふむ、悪くない仕上がりよの。さてどこに着けてやろうか。\n首のネックレスに加えて、谷間にでも挟んでやろうか？\nほほほ❤,Hmm; not a bad finish. Now where shall I place you? Perhaps alongside my necklace; or maybe I'll tuck you between my breasts? Hohoho~❤
+ホホホ、そなたもわらわの宝石コレクションに加わりたいのか？\nほれ、我が身を飾る宝石に変えてくれよう。,Hohoho; do you also wish to join my collection of gems? Come; I'll transform you into jewels to adorn my body.
+ふむ、悪くない仕上がりよの。さてどこに着けてやろうか。\nわらわの指にはめられて、手慰みに弄ばれたいか？\nほほほ❤,Hmm; not a bad finish. Now where shall I place you? Would you like to be worn on my finger; toyed with for my amusement? Hohoho~❤
+わらわの手は美しかろう？\nほれ、お前の粗末ないちもつを、軽くもてあそんでやろうではないか❤\n指をそっと押し当てて、上にゆっくりなで上げる・・・❤,My hands are beautiful; are they not? Come now; I'll use them to lightly toy with your pathetic little cock.❤ I'll gently press my fingers against it; slowly stroking upward...❤
+たかがひと撫でされただけで、とろけた顔になっておるぞ？\n快楽で顔がゆるみ、精悍な顔を保つことも難しいのか。\n情けないのう❤,Has your face truly melted from but a single caress? It seems the pleasure has loosened your expression; making it impossible to maintain your stern facade. How pitiful~❤
+よろこべ。お前の粗末なものを\nわらわの胸で挟んで搾り取ってやろう。,Rejoice. I'll trap your pathetic little thing between my breasts and milk you dry.
+この胸で挟まれたオスどもは、\n極上の肌ざわりですぐ虜になる❤\nほおら、極楽の世界へいざなってやろうぞ❤,The men who are trapped between these breasts become instantly captivated by the exquisite sensation.❤ Come now; allow me to shepard you to paradise~❤
+両腕でお前をとらえ、\nこの胸に顔をうずめさせてやろう。\nわらわの抱擁を受けられるのだ、光栄に思うがよいぞ❤,I'll capture you in my arms and bury your face in my breasts. You should feel honored to receive my embrace.❤
+高級なドレスの肌触りと、わらわの胸の極上の感触。\n男を恍惚にいざなうには十分すぎる極楽であろう？\n脳を蕩けさせながら、わらわの腕の中で果ててしまえ❤,Revel in the feel of my luxurious dress and the exquisite sensation of my breasts. Surely this is more than enough paradise to drive a man to ecstasy; is it not? Let your mind melt away as you climax in my arms~❤
+恍惚の投げキス,Blown Kiss of Elation
+くすくす❤もはや風前のともしびじゃな。\nわらわたちの美しさに心を奪われ、立つこともままならんとは。,*Giggle*❤ You already sway like a candle; flickering in the wind. So captivated by our beauty; you can barely even stand.
+ほれ、わらわがさらに魔力を重ねてやろう。\n唇を指先で弾いて・・・んっちゅぱ❤,Come; I'll layer even more magic upon you. I shall flick my lips with my fingertips; and... mmchu~❤
+どうじゃ？脳がとろけるようであろう？\nわらわのような強者に勝つことなど元より不可能。\n恍惚に堕ちてしまうがよい❤,How is it? Your brain feels like it's melting; does it not? Defeating someone as powerful as me was impossible from the start. Fall into ecstasy!❤
+下郎の体など、触れるまでもない。\n魔力を込め、唇を弾くだけで十分であろう？\nんっ・・・❤ちゅぱ❤,I have no need to touch a body as lowly yours. Simply imbuing my lips with magic and flicking them is sufficient; would you not agree? Mm...❤ Chu~❤
+恍惚の魔眼,Demon Eyes of Ecstacy
+わらわの目は美しかろう？\nこの目で見つめられた男は、触れられもせぬうちから、\nわらわに屈してしまうのだ。,My eyes are beautiful; are they not? Men who are looked down upon by these eyes surrender to me before I ever need touch them.
+はううっ・・・❤,Hahhh...❤
+ほほほ、口が半開きになって間抜けな顔よの❤\nどうじゃ？その状態でペニスをしごけば、とろけるように気持ちよいぞ？\nわらわの前にひざまずき、見下されながら、果てるがよい。下郎❤,Hohoho; your jaw has gone slack in such a foolish expression!❤ How is it? If you stroke yourself in that state; it would surely feel meltingly good; wouldn't you think ? Kneel before me; and climax while being looked down upon! Peasant~❤
+ホホホ❤わらわの美しさの虜となり、自ら快楽をねだるか。\nなんとも情けない男よの。\nこれが人類の中でも強者の部類とは。,Hohoho~❤ You are so captivated by my beauty you are begging for pleasure all on your own. What a pathetic man you are. And to think; you are supposedly among the stronger class of humans.
+そなたはどのような最期を望む？\nわらわの前で願いを申してみよ。,What kind of end do you desire? Make your wish known to me.
+高貴なる愛撫,Noble Caress
 なんでも,You decide
 わらわに胸や手で愛撫してほしいのか。\nよかろう、一瞬でそなたを絶頂させてみせようぞ。,
 わらわに投げキスで果てさせてほしいとな？\nほほほ❤強者のくせに頼むことがずいぶん変わっておるの❤,
