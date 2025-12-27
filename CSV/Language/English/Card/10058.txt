@@ -2,14 +2,15 @@ default
 ロリ巨乳サキュバス,Shortstack Succubus
 EU58_bustZoomAnime,
 　身長のわりに胸が大きい小柄なサキュバス。おっぱいの感触が極上であり、パイズリとぱふぱふがうまいこと以外特別な能力はないが、それだけでたいていの男には勝ててしまう。一度彼女の胸の感触を味わってしまえば、その快感に抗える男はほとんどいないだろう。, A petite succubus with impressively large breasts for her small frame. Her chest feels absolutely divine; and while she has no special abilities beyond her skill at boobsjobs and smothering her opponents with a Puff-Puff; that alone is enough to defeat most men. Once a man experiences the sensation of her breasts; few can resist the overwhelming pleasure.
-１ターンに１度、相手キャラクターを選択して発動できる。そのキャラクターに「おっぱいに弱い」を付与する。すでに「おっぱいに弱い」状態だった場合、「魅了」を付与する。すでに「魅了」状態だった場合、「早漏化」を付与する。, Once per turn; choose an opponent and activate this ability. That character gains the "Weak to Breasts" status effect. If they already have "Weak to Breasts;" they gain "Charmed" instead. If they are already "Charmed;" they gain "Premature Ejaculation" instead.
-(戦闘時に「おっぱいに弱い」を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。), (During combat; inflicts "Weak to Breasts." If an opponent with "Premature Ejaculation" currently has HP equal to or less than twice this character's attack power; performs a Masturbation Temptation.)
+[1].１ターンに１度、相手キャラクターを選択して発動できる。そのキャラクターに「おっぱいに弱い」を付与する。すでに「おっぱいに弱い」状態だった場合、「魅了」を付与する。すでに「魅了」状態だった場合、「早漏化」を付与する。,[1]. Once per turn; choose an opponent and activate this ability. That character gains the "Breast Fetish" status effect. If they already have "Breast Fetish"; they gain "Charmed" instead. If they are already "Charmed"; they gain "Premature Ejaculation" instead.
+[2].このカードは「おっぱいに弱い」相手から戦闘・効果ダメージを受けない。,[2]. This card is immune to damage and/or effects from cards with "Breast Fetish".
+戦闘時に「おっぱいに弱い」を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。, During combat; inflicts "Breast Fetish" on foe. If an opponent with "Premature Ejaculation" currently has HP equal to or less than twice this character's attack power; performs a Masturbation Temptation.
 あはぁん、ほらぁ見てぇ❤,Ahn; hey; look over here~❤
 あはぁん、わたしの方も見てぇ❤,Ahn; look at me~❤
-前かがみになってぇ、おっぱいアピール❤\nゆさゆさって揺らしてぇ\nここから魅了の魔力を飛ばしてあげる❤,See how I'm bending over to really emphasize my breasts?❤ I'll shake my chest and captivate you with my magic from all the way over here~❤
+前かがみになってぇ、おっぱいアピール❤\nゆさゆさって揺らしてぇ\nここから魅了の魔力を飛ばしてあげる❤,See how I'm bending over to give you a good view of my breasts?❤ I'll shake my chest and captivate you with my magic from all the way over here~❤
 んー？よく見たらもうメロメロになってるねー。\nそれなら代わりに、おちんちんが弱くなる術をかけてあげる❤\nゆさゆさおっぱいでぇ、おちんちん弱ーくなーれ❤あは～ん❤,Hm?? Actually; it seems you've already been captivated; haven't you? In that case; I'll just cast a spell to make your penis all weak instead~❤ With the shaking of my breasts; penisーgrowーweaker!❤ Ahn~❤
 おっぱいに夢中のお兄さんはぁ、\nこんな風に揺らされたれ、避けられないよねぇ❤\nほら、あは～ん❤,If a breast-weak big boy like you sees them jiggling like this; then there's nothing you can do; right?❤ Here; ahn~❤
-前かがみになってぇ、おっぱいアピール❤\nゆさゆさって揺らしてぇ\nおっぱいに夢中にさせてあげる❤,See how I'm bending over to really emphasize my breasts?❤ I'll shake my chest and make you utterly obsessed with these breasts of mine~❤
+前かがみになってぇ、おっぱいアピール❤\nゆさゆさって揺らしてぇ\nおっぱいに夢中にさせてあげる❤,See how I'm bending over to give you a good view of my breasts?❤ I'll shake my chest and make you utterly obsessed with my tits~❤
 ほらぁ、おっぱい好きになってぇ❤\nおっぱいでメロメロ～❤ゆさゆさ～❤,Come on; get totally obsessed with my breasts!❤ Fall head-over-heels for them~❤ Shake shake~❤
 ううっ、おっぱい・・・❤,Ugh; boobs...❤
 あは❤わたしの大きなおっぱい見てたら、\nどんどんムラムラしてきちゃうね❤\n弱くなった早漏チンポに谷間の刺激がダイレクトアタック❤,Aha~❤ The longer you stare at my big; soft breasts; the harder your thingy becomes; huh?❤ The stimulation from my boobies hits your weakened; premature-ejaculating penis for a direct attack!❤
@@ -117,7 +118,7 @@ EU58_bustZoomAnime,
 お兄さんのおかげで体力は全回復❤\nつよぉいマスターのはずなのに、わたしみたいな\nおっぱい大きいだけのサキュバスに負けちゃったね。くすくす❤,Thanks to you; Mister; my strength is fully recovered.❤ You're supposed to be this big; strong Master; but you lost to me; a succubus with big boobs and nothing else; didn't you? *Giggle*❤
 お兄さんのおかげで体力は全回復❤\nもっともっと他の人もおっぱいでメロメロにしちゃうよー❤,Thanks to you; Mister; my strength is fully recovered.❤ Now to make even more people fall to my boobs~❤
 ううっ…❤おっぱい、エロすぎ…❤,Ugh...❤ Boobs... So sexy...❤
-あ❤　お兄さんもシコシコ始めちゃうんだ❤\n目の前でおっぱいぷるぷるしてもらうのが羨ましかったのかな～❤,Ah~❤ You started too stroking, Mister!❤ Did me jiggling my boobs in front of the other guy make you jealous?❤
+あ❤　お兄さんもシコシコ始めちゃうんだ❤\n目の前でおっぱいぷるぷるしてもらうのが羨ましかったのかな～❤,Ah~❤ You started stroking too; Mister!❤ Did me jiggling my boobs in front of the other guy make you jealous?❤
 さっきは頑張って我慢したのにね～、\nおちんちんイライラ、我慢できなくなっちゃったね～❤,You were trying so hard to hold back; weren't you? But now your dick is throbbing so much that you can't take it anymore; huh?❤
 いいよいいよ❤　しょうがないもんね❤\n目の前であんなサービスされてるの見てたら、\nおっぱいが大好きな人にはたまらないもんね❤,That's okay; I don't mind!❤ It can't be helped; can it?❤ If you love breasts that mcuh; there's now way you could possibly resist after seeing that kind of service being given to someone else right before your eyes; right?❤
 ほらほら❤　もっと見せてあげるから～❤\n前かがみになったところ、じっくり見てぇ～❤,Here you go.❤ Stare at them all you want~❤ I'll lean closer; so take a good ; long look~❤ 
@@ -137,7 +138,7 @@ EU58_bustZoomAnime,
 おちんちんは我慢したくないようって言ってるのに。\nそんなにおっきくして苦しくないのかなぁ・・・。,Even though your penis is screaming for you to stop holding back... Doesn't it growing so big feel uncomfortable?
 ほら、よ～く見て❤　ふか～い谷間❤\nこの中におちんちん入れて、腰を振ったら絶対気持ちいいよ？,Here; take a good; long look~❤ My cleavage is just so deep~❤ If you stuck your penis in here and started thrusting; don't you think it'd feel really good?
 わたしはちっちゃくて力よわいし、\nお兄さんならちょっとくらい楽しんでも\n大丈夫だと思うんだけどなぁ・・・❤,I'm so small and weak; I'm sure it'd be fine for you to have just a bit of fun...❤
-そう、ちょっとだけ。ちょっとだけだよ❤\nおちんちんの先っちょを、少しだけ\nこの気持ちよさそうなところに入れるの❤,Yeah; just a little. Just stick it in a tiny bit~❤ Slide the tip of your penis just a little inside my soft, inviting boobs~❤
+そう、ちょっとだけ。ちょっとだけだよ❤\nおちんちんの先っちょを、少しだけ\nこの気持ちよさそうなところに入れるの❤,Yeah; just a little. Just stick it in a tiny bit~❤ Slide the tip of your penis just a little inside my soft; inviting boobs~❤
 ぬぷぬぷーって谷間をかき分けて、おちんちん気持ちよくなろ？\nほら、わたしは後ろで両手を組んで待っててあげる❤\nここにおちんちん入れていいんだよ～❤くすくす❤,Why not just thrust it into my cleavage and let your penis feel good? Look; I'll even keep my hands behind my back.❤ Just slide your little thingy in there~❤ *Giggle*❤ 
 誘惑を無視して攻撃した,Ignore her and attack
 腰を突き出してしまった,'Well; maybe just a bit...'
@@ -237,11 +238,11 @@ EU58_bustZoomAnime,
 おちんちんシコシコ止まらないねー❤\n何回出しても、どんどん精液が出てきてぇー\nいくらでもおもらしできちゃう❤,You can't stop stroking yourself; can you~❤ No matter how many times you cum; semen just keeps coming out! Go ahead; cum as many times as you want~❤
 サキュバスおっぱいで脳みそおかしくされて、\nおちんちん壊れちゃったねー❤\nほらほらぁもっとシコってぇ❤死んじゃうぐらい出せ出せ～❤,These succubus breasts have broken your brain and ruined your dick; haven't they?❤ Come on; keep stroking!❤ Keep cumming until you die~❤
 くす❤びゅーびゅー、びゅーびゅーいっぱい出して、\nもう動かなくなっちゃった❤,*Giggle*❤ Pew pew! Pew; pew! You came so many times that you can't move anymore~❤
-試合を見てた人たち、みんなお兄さんに呆れちゃってるね❤\nああ、無敗のルーキーってただのロリコンマゾだったんだぁって\n失望した目でみんな見てる。,All the spectators are looking at you in total shock; huh?❤ They're looking at you with such disappointment; thinking, "oh; so the undefeated rookie was just a filthy masochist."
+試合を見てた人たち、みんなお兄さんに呆れちゃってるね❤\nああ、無敗のルーキーってただのロリコンマゾだったんだぁって\n失望した目でみんな見てる。,All the spectators are looking at you in total shock; huh?❤ They're looking at you with such disappointment; thinking; "oh; so the undefeated rookie was just a filthy masochist."
 おちんちんがついているせいで、こんな風になっちゃってかわいそー。\nくすくす❤,How sad; ending up like this all because of your weak little penis. *Giggle*❤
 こうして僕は、闘技場の試合で{自分}に敗れ、みじめな姿をさらしてしまったのだった。,And so; I ended up losing to {自分} in the arena duel; and leaving with a stain on my reputation.
 無敗のルーキーをダシにした{自分プレイヤー}の作戦は相当うまく行ったらしく、翌日リュカ商会のカードショップには行列ができていた。FランクやEランクのカードマスターたちの他、一般市民までもカードを買いに並んでいるほどだった。,{自分プレイヤー}'s strategy of using the undefeated rookie as a marketing ploy seemed to be a hit. There was a huge line in front of the Lucas Trading Company's card shop the next day. Not just F-rank and E-rank cardmasters; but even ordinary citizens were queueing up to buy those cards.
-なんでも、「数人で魔力を合わせて１体のサキュバスモンスターを召喚すれば、それで無敗のルーキーですら倒せる」と宣伝しているのだそうだ。悔しくてたまらない話だが、下級モンスター１体に負けてしまった以上、反論もできず、僕はほぞをかむことしかできなかった。,Apparently they were saying, "If you combine your magical powers together to summon just one succubus monster; you can even beat the undefeated rookie." It was infuriating; but since I'd lost to a low-level monster; I could only clench my jaw and not say anything back.
+なんでも、「数人で魔力を合わせて１体のサキュバスモンスターを召喚すれば、それで無敗のルーキーですら倒せる」と宣伝しているのだそうだ。悔しくてたまらない話だが、下級モンスター１体に負けてしまった以上、反論もできず、僕はほぞをかむことしかできなかった。,Apparently they were saying; "If you combine your magical powers together to summon just one succubus monster; you can even beat the undefeated rookie." It was infuriating; but since I'd lost to a low-level monster; I could only clench my jaw and not say anything back.
 それからしばらくして,Some time later...
 サキュバスカードを使っている人たちの様子がおかしいという話が、ギルドをはじめあちこちに上がり始めた。,Starting at the guild; rumors of succubus card users acting strangely began surfacing.
 それまで真面目でおとなしかった人までも、まるで人が変わったように男性をさげすむようになり、場合によっては命に関わるレベルまで人からエナジーを吸い取るという事件が頻発しているのだそうだ。,Even people who'd previously been earnest and reserved began to despise men. It was like they'd become an entirely different person. Cases of men having their energy sucked out of them; sometimes to the point of near-death; were on the rise.

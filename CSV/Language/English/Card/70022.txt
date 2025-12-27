@@ -6,7 +6,7 @@ F22_bustShakeAnime,
 　Bランクの中堅マスター。モルゲンのカードマスター学園は国でもトップクラスのカードマスター養成学校だが、彼女はその中でも優秀な成績を収めているエリート生徒である。人魚モンスターの歌声で相手の戦闘力を奪い、じわじわと追い詰める戦術を得意とする。,　A mid-level B-rank cardmaster. The Morgan Card Academy is one of the nation's top cardmaster training schools; and she is considered an elite student; even within its hollowed halls. She specializes in gradually wearing down her opponent; stripping them of their combat power with the siren song of her mermaid monsters.
 　まじめで内気だった彼女は、性的な行為にも疎くクラスでも孤立しがちだった。しかし、ここ１年ぐらいの間に、性格が変化し、エッチな攻撃もいとわなくなったという。そのような変化が起きた理由は定かではないが、いまでは露出の高いギャルな後輩たちを引き連れ、学園内でひとつの派閥を形成しているらしい。,　Once serious and shy; she was unfamiliar with sexual acts; and often felt isolated in her class. Over the past year; however; her personality has changed drastically; leaving her far more willing to use erotic attacks. While the reason for this change is unknown; she now leads a dangerous faction of provocatively dressed underclassmen within the academy.
 　片方だけで頭ほどもある、大きな胸を活かした攻撃が得意。しっとりしてやわらかな肌は顔やペニスに吸い付き、とろけるような快感を与えてくる。強い意志を持たなければ、やさしくなでられるだけでたちまち腰砕けにされ、そこに魅了の魔力を乗せた甘い声でささやかれて、あっという間に虜にされてしまうだろう。,　She excels at attacks using her disproportionately large breasts; each of which being the size of a person's head. Her soft; silky skin clings to her victim's face or penis; engulfing them in an overwhelming sensation of pleasure. Without strong willpower; just her gentle caresses alone can bring any man to their knees. When this assault is followed by her sweet; enchanting voice; her opponent is quickly left completely under her spell.
-挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You have not reached the required rank points to challenge (Current rank points: {ランクポイント}),
+挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You have not reached the required rank points to challenge (Current rank points: {ランクポイント})
 OPイベントをスキップしますか？,Skip the OP event?
 はい,Yes
 いいえ,No
@@ -36,8 +36,8 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 この間のＣランク昇格戦は見に来れなかったので、\n今日はギルドマスターにお願いしてお休みをもらってきたんです！,Due to my schedule; I couldn't come watch your C-rank promotion battle; so today I made sure to ask the guildmaster for time off!
 この試合に勝てばついにＢランクですね！\n大会でこんなに一気にランクを上げる人、わたし初めて見ました。\nなんだかワクワクしちゃいます！,If you win this match; you'll finally be B-rank! I've never seen anyone climb the ranks during the tournament as quickly as you have. It's been so exciting to watch!
 そういうと受付さんは、僕の手を両手で握って「がんばってください」と応援の言葉をかけた。にこにこ笑って、とても上機嫌そうだ。,Saying this; the receptionist grabbed my hands with both of hers; offering words of encouragement. She seemed so happy; smiling brightly like that.
-カッコいい試合、見れるの楽しみです！\nそれじゃ、また試合が終わったあとに会いましょう。,I'm looking forward to watching another intense match! Well then; let's meet up again after your fight is over; okay?
-受付さんは手を振り、観客席の方に歩いて行く。彼女と初めて会ったときには自分はまだFランクだった。あのころと比べるとだいぶ強くなれたのではないだろうか。,The receptionist offered a wave and walked toward the spectator seats. When I first met her; I was still just an F-rank. Compared to back then; I must be pretty strong.
+カッコいい試合、見れるの楽しみです！\nそれじゃ、また試合が終わったあとに会いましょう。,I'm looking forward to watching another intense match! Now then; let's meet up again after your fight is over; okay?
+受付さんは手を振り、観客席の方に歩いて行く。彼女と初めて会ったときには自分はまだFランクだった。あのころと比べるとだいぶ強くなれたのではないだろうか。,The receptionist gave me a friendly wave before walking towards the spectator seats. When I first met her; I was still just an F-rank. Compared to back then; I must be pretty strong.
 まだここに来て半年程度だが、なんだか感慨深い。そんなことを思っていると、不意に懐かしい声が聞こえてきた。,I've only been here about six months; but my time here already feels so meaningful. Lost in that thought; I suddenly heard a familiar voice.
 やっほー、弟子♪\nふふ、あんな可愛らしいファンがいるなんて、\nあなたも隅に置けないわね。,There you are; my student~♪ Fufu; to think you'd get yourself such a cute fan... You're quite the charmer; aren't you?
 師匠・・・！,Master...!
@@ -63,7 +63,7 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 （ということはさっきのは僕への妨害…。\nだめだ、まだ収まらない・・・❤\n４人がかりの責めがきもちよすぎて・・・❤）, (That means they were deliberately trying to sabotage me... This is bad. I still can't calm down...❤The way all four of them teased me at once felt so good...❤)
 さてここで重要な点ですが、\nBランクの昇格戦は「ランク降格戦」を兼ねていません。\nつまり、落ち目の下位ランカーを倒せばよかった前回とはわけが違う！,An important reminder for this battle. B-rank promotion matches don't include rank redemption matches; making this completely different from previous matches where the rookie had to defeat lower-ranked players!
 メロディ選手はBランクの中でも正真正銘、実力者！\n上位ランカーの強敵を打ち破らなければ、\n昇格の権利は得られないのです！,Melody is a genuine powerhouse among B-rank cardmasters! Unless he can defeat this strong opponent from the upper ranks; our rookie can't advance any further!
-さあ、{主人公}選手はこの厚い壁を破れるのか！\nそれとも、無敗の伝説も、エリート学生の前に終わりを迎えるのか！\n熱いバトルが今始まります！,So can {主人○} break through this thick wall! Or will the legend of the undefeated rookie finally come to an end at the hands of this elite student! The heated battle begins now!
+さあ、{主人公}選手はこの厚い壁を破れるのか！\nそれとも、無敗の伝説も、エリート学生の前に終わりを迎えるのか！\n熱いバトルが今始まります！,So can {主人公} break through? Or will the legend of the undefeated rookie finally come to an end at the hands of this elite student! This heated battle begins now!
 はじめまして。メロディです❤\nお手柔らかにお願いしますね❤,Nice to meet you. I'm Melody.❤ Go easy on me; okay?❤
 （別にこの試合に勝たなくてもいいけど…。\nこれだけ注目されてるなら、卒業後の進路もよくなるだろうし…。\nふふ、悪いけど「本気」で行かせてもらうね❤）,(I don't really need to win this match... But with this much attention; it might open some doors for me after I graduate... Fufu; sorry; but I'm going all out~❤)
 メロディはおもむろに後ろを向くと観客席へ向かって手を振った。自分の応援団たちに対してファンサービスだろうか。,Melody casually turned around and waved to the audience. Fan service for her cheering squad; maybe?
@@ -118,8 +118,8 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 あん、ちょっと待ってください❤\n帰る前に、わたしたちの踊り、\n{主人公}さんに見てもらいたいんです❤,Ahn; please; just wait a minute!❤ Before we go; we really want you to watch our dance~❤
 いきますよ！さん、はい♪,Here we go! Three; two; one~♪
 僕の意志も聞かず、女の子たちは応援の踊りを始めた。掛け声で拍子をとり、手足を振り上げてリズミカルに踊る。,Ignoring my wishes; the girls started their cheerleading routine. They kept time with chants; rhythmically dancing as they raised arms and legs.
-はつらつとしていて、健康的な踊り。しかし短いスカートや、胸元に開いたハート型の穴から見える谷間が、否応なく僕の性欲を煽ってくる。,Their routine was lively and wholesome; but combined with the sight of their short skirts and the cleavage visible through the heart-shaped cut-outs on their chests; I could feel my lust beginning to stir..."
-なにより目と鼻の先の距離で踊っているのだ。狭い部屋だから女の子たちの甘い匂いがこもってくるし、ううっ、だめだ、頭がぼーっとしてきた。,More than anything; they were dancing so close. The sweet scent of the girls filled the cramped room; and ugh; no good; my head was getting fuzzy.
+はつらつとしていて、健康的な踊り。しかし短いスカートや、胸元に開いたハート型の穴から見える谷間が、否応なく僕の性欲を煽ってくる。,Their routine was lively and wholesome; but combined with the sight of their short skirts and the cleavage visible through the heart-shaped cut-outs on their chests; I could feel myself reacting down below...
+なにより目と鼻の先の距離で踊っているのだ。狭い部屋だから女の子たちの甘い匂いがこもってくるし、ううっ、だめだ、頭がぼーっとしてきた。,Not to mention; they were dancing really close to me. The sweet scent of the girls filled the cramped room; and.. ugh; not good... I was starting to feel lightheaded.
 ふれー、ふれー♪{主人公}！,Fight; {主人公}; fight! Fight with all your might~♪
 （ううっ、パンツ見えてる・・・❤\nそれに胸もあんなに揺れて・・・❤）,(Ughh; I can see their panties...❤ And their breasts are bouncing so much...❤)
 （くすくす❤完全に釘付けになってる❤\n無敗のルーキー、ちょろーい❤）,(*Giggle*❤ He's totally mesmerized!❤ Mister Undefeated Rookie is so easy~❤)
@@ -142,7 +142,7 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 いち、に♪いち、に♪\nあは、リズム感ばっちりですね❤\nすごーい❤さすが～❤,One; two~♪ One and two~♪ Aha; you have perfect rhythm; you know?❤ Amazing!❤ As expected~❤
 {主人公}くん、かっこいいー❤\nだぁい好き❤\nがんばれ、がんばれ、もっと元気になっちゃえー❤,{主人公}; you're so cool!❤ We love you~❤ Go go; get even more energized~❤
 あっ、ああっ、だめっ❤❤腰がとまらないっ❤,Ahh; ahhh; no.❤❤ My hips won't stop!❤
-あ～ん出ちゃいます❤\nもう発射寸前❤\nお顔もとろとろ～❤,Ahhn; you're so close!❤ Almost ready to shoot it all out~❤ Your face is totally melted~❤
+あ～ん出ちゃいます❤\nもう発射寸前❤\nお顔もとろとろ～❤,Ahhn; you're so close!❤ Almost ready to shoot it all out~❤ Your face is totally melting~❤
 たまたまもきゅってなってるよ❤\n出るんだ・・・❤\n服の上からもみもみ、すりすりされて出しちゃうんだ❤,Your balls are getting so tight; too!❤ You're going to cum...❤ When a boy gets rubbed and stroked over his clothes like this; he can't help but cum; can he?❤
 くすくす❤{主人公}くん、かっこいいのにー、\nおちんちんよわーい❤\nほら、発射５秒前❤,*Giggle*❤ {主人公}; you're so cool; but your dick is so weak~❤ Look; 5 seconds until blast off~❤
 ごぉ～❤よ～ん❤\nさ～ん❤にぃ～❤,Five~❤ Four~❤ Three~❤ Two~❤
@@ -160,7 +160,7 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 ふれー、ふれー♪メロディせんぱーい♪\nほらほら、{主人公}くんもこっち見てぇ❤,Fight; fight♪ Lady Melody fight!♪ Hey; hey; {主人公}; look over here~❤
 わたしたちみんなで、んーっちゅ❤\n投げキスで応援しちゃう❤\n{主人公}くんもがんばれー❤,All together now; mwah~❤ We'll cheer you on by blowing you kisses~❤ You can do it; {主人公}~❤
 （はひぃっ…❤❤かわいい…❤）,(Hah hah...❤❤ So cute...❤)
-くすくす❤踊りに釘付けでぼーっとしちゃってますね❤\n隙だらけのあなたに一方的に攻撃させてもらいます❤\nわたしのターンからです！,*Giggle*❤ You're completely transfixed by their dancing. You're totally spacing out; aren't you?❤ While you're this full of openings; I'll attack you with no chance for you to fight back!❤ It's my turn!
+くすくす❤踊りに釘付けでぼーっとしちゃってますね❤\n隙だらけのあなたに一方的に攻撃させてもらいます❤\nわたしのターンからです！,*Giggle*❤ You're completely transfixed by their dancing. You're totally spacing out; aren't you?❤ Now that you're full of openings; I'll attack you with no chance for you to fight back!❤ Now; it's my turn!
 先攻はわたしからですね。\nよろしくお願いします♪,I'll go first. Go easy on me; okay?♪
 ドローします。,I'll draw.
 わたしのターンですね。ドロー！,It's my turn. Draw!
@@ -294,7 +294,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 ほらほら、たくさんしこしこしていいんですよ❤\nわたしのおっぱいオカズにして、\n自分の欲望に素直になって、おちんちんをしこしこしこ～❤,Come on; go ahead. Keep stroking yourself!❤ Just stand there fantasizing about my breasts; give in to your desires; and stroke your cock. Stroke stroke~❤
 はううぅっ、だめなのにっ…❤ああ、きもちいいっ…❤❤,Haahhh; no... I-I shouldn't...❤ Aah; but it feels so good...❤❤
 くす❤いっぱい手を動かして、\nどんどん蕩けた顔になって、\nもう射精して負けちゃいますね❤,*Giggle*❤ You're moving your hand so fast; and your face is melting more and more... You're going to cum soon; aren't you?❤
-いいですよ。ほら、おっぱいゆさゆさって軽く揺らしてあげます❤\nここまで頑張って飛ばしてください。\nちょろーいマスターさん♪くすくすくす❤,That's fine. Look; I'll give my breasts a little jiggle for you~❤ Keep going and shoot it out. Such an easy master~♪ *Giggle giggle*❤
+いいですよ。ほら、おっぱいゆさゆさって軽く揺らしてあげます❤\nここまで頑張って飛ばしてください。\nちょろーいマスターさん♪くすくすくす❤,That's fine. Look; I'll give my breasts a little jiggle for you~❤ Keep going and shoot it out. Such an easy master~♪ Ahaha~!*❤
 あは、くすくす❤\nまさか昇格戦で最初のターンからオナニーしちゃうだなんて❤\n無敗のルーキーさんって全然我慢ができないんですね❤,Aha! *Giggle*❤ I can't believe it's only the first turn of your promotion battle and you're already masturbating!❤ The undefeated rookie has no self-control at all; does he?❤
 チアの子たちの踊りを見て興奮しちゃいました？\nあんなちょっとパンツが見えるぐらいの踊りでシコシコし始めて、\nふふ❤そんなにうぶだなんてびっくりです❤,Did the cheerleaders' routine get you too excited? Starting to stroke yourself just from seeing a little bit of their panties... Fufu~❤ You're so much more innocent than I'd expected!❤
 それともわたしのおっぱいが気になりましたか？\nたいていの人より大きいこのおっぱい❤\nどんと張り出していて、とっても存在感がありますよね❤,Or were you more interested in my breasts? They are far bigger than most other people's~❤ They stick out so boldly and have such a commanding presence; don't you think?❤
@@ -330,10 +330,10 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 あひぃっ・・・❤❤えろいぃ・・・❤,Ahhh...❤❤ So sexy...❤
 ほら、出してください❤\nわたしのおっぱいにめがけて、どびゅーって射精❤\n大事な昇格戦をオナニーでだいなしにしてください❤マゾルーキーさん❤,Come on; let it out.❤ Cover my breasts in your cum~❤ Stroke yourself numb and throw away your promotion match!❤ You masochistic rookie~❤
 ほら、出してください❤\nわたしのおっぱいにめがけて、どびゅーって射精❤\n敵のマスターの体力を回復させてください❤裏切りものさん❤,Come on; let it out.❤ Cover my breasts in your cum~❤ Hurry up and heal the enemy master!❤ You traitor~❤
-おっぱいちょっとだけ揺らしてあげますから❤\nくすくすくす❤,I'll jiggle my breasts a little; just for you~❤ *Giggle giggle*❤
+おっぱいちょっとだけ揺らしてあげますから❤\nくすくすくす❤,I'll jiggle my breasts a little; just for you~❤ Ahaha~!*❤
 あへぇ・・・❤❤,Ah; ahhh...❤❤
 あん❤すごい勢いで飛んできました❤\nおちんちんシコシコして負けるの、気持ちよかったですね❤,Ahn~❤ It shot out with such force!❤ Throwing the match by stroking yourself must've felt really good; huh?❤
-男の人の弱いところ、いっぱい教えてくれてありがとうございます❤\nいい勉強になりました。\nなんちゃって、ぷっ、くすくすくす❤,Thank you for reminding me just how weak men like you are~❤ It was good lesson. Just kidding! Pfft. *Giggle giggle*❤
+男の人の弱いところ、いっぱい教えてくれてありがとうございます❤\nいい勉強になりました。\nなんちゃって、ぷっ、くすくすくす❤,Thank you for reminding me just how weak men like you are~❤ It was good lesson. Just kidding! Pfft. Ahaha~!*❤
 はぁ、はぁ・・・❤とめられないぃ・・・❤,Haa; haa...❤ I... I can't stop...❤
 自分の出したモンスターが速攻で裏切っちゃいましたもんね❤\n絶望して自分も負けてしまいたいって思っちゃいましたか？,Your own monster betrayed you the moment it was summoned; didn't it?❤ Did the despair make you want to throw your life away; too?
 いまにも射精しちゃいそうに、おちんちんをひくひくひく♪\n敵のマスターに向かって早く射精させてぇっておねだりしてるみたいですね。\nくすくす❤,Your cock is twitching like you're about to cum~♪ It's like you're begging the enemy master to make you finish you quickly; huh? *Giggle*❤
@@ -345,7 +345,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 思考のリソースをぜーんぶオナニー取られて、\n目ではわたしのおっぱいとチアの子たちの踊りをチラチラ見て…❤\nそんな状態でまともに何か考えられるわけありません❤,All your focus is getting taken up by masturbation; and your eyes keep glancing between my breasts and the cheerleaders' dancing...❤ There's no way you can think properly in a state like that~❤
 あーあ、心配して損したなー。\n肩の荷が下りたから、ほら、んーって背伸びしちゃいますね。,Phew; I suppose I was worried for nothing. Now that that weight's off my shoulder; look. I can finally stretch and relax; see?
 あは、胸が突き出されるのを見て、\nおちんちん触るの早くなってる❤\nこんな日常動作で興奮するとか、変態さんって救いがないですね❤,Aha; seeing my chest thrust out made you stroke even faster~❤ You're getting so excited by such normal movements! Perverts really are hopeless; aren't they?❤
-そのチョロい脳みそと、すぐ負けちゃう弱いおちんちん、\n鍛え直してからＢランクには出直してください❤\nぷっ、くすくすくす❤,You should really train that stupid brain and weak little cock before trying to reach B-rank again~❤ Pfft. *Giggle giggle*❤
+そのチョロい脳みそと、すぐ負けちゃう弱いおちんちん、\n鍛え直してからＢランクには出直してください❤\nぷっ、くすくすくす❤,You should really train that stupid brain and weak little cock before trying to reach B-rank again~❤ Pfft. Ahaha~!*❤
 あっ、あっ、ああっ❤❤もうむりぃっ❤❤,Ah; ah; aah.❤❤ I... I can't take it anymore!❤❤
 ふふ、ザーコ❤,Fufu; weakling~❤
 くすくす❤あなたもわたしの前でオナニー始めちゃうんですか？,*Giggle*❤ Are you going to start masturbating in front of me; too?
@@ -359,9 +359,9 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 くす❤どれもなかなかひどい言い方ですね❤\nマゾって言った方がまだ可愛げがあるかもしれません。,*Giggle*❤ Those all sound rather harsh; don't you think?❤ Calling you a masochist might actually be the nicest option.
 まあでもそんなことどうでもいいですよね❤今のバカにした言い方で、\nぜんぶおちんちんピクピクさせちゃってるあなたには、どんな罵倒もご褒美です❤,But that doesn't really matter; does it?❤ After all that degrading talk; your dick is twitching with excitement. Any insult at all is like a reward to you; isn't it?❤
 もっと単純にこう呼んであげます❤\n耳元で囁いて・・・❤ばーか❤ざーこ❤,I'll call you something even simpler.❤ I'll whisper it right in your ear...❤ Idiot~❤ Weakling~❤
-くすくすくす❤おちんちんビクンって反応してる❤,*Giggle giggle*❤ Seems like your penis is responding to those~❤
+くすくすくす❤おちんちんビクンって反応してる❤,Ahaha~!*❤ Seems like your penis is responding to those~❤
 あひぃっ・・・❤❤だめぇ、えろいぃ・・・❤,Ahh...❤❤ No; so sexy...❤
-ぷぷ、わたしの声、とってもきれいでしょう？\n魔力を込めて歌とか歌えば、簡単な魅了だってできるんですよ❤,Pupu; isn't my voice just so beautiful? When I infuse my songs with magic; I can easily charm anyone~❤
+ぷぷ、わたしの声、とってもきれいでしょう？\n魔力を込めて歌とか歌えば、簡単な魅了だってできるんですよ❤,Aha; isn't my voice just so beautiful? When I infuse my songs with magic; I can easily charm anyone~❤
 あ、ちなみに今の囁きには別に魔力は込めてません。\nだって、あなたをイかせるのに、そんなもの必要ないですもんね❤,Oh; by the way; I didn't put any magic into that whisper. After all; I don't need something like that to make you cum; do I?❤
 ただちょっとバカにしてあげればいいだけ❤\nマゾって簡単です❤\nほら・・・❤,I just need to mock you a little bit.❤ Masochists like you are so simple~❤ Come on...❤
 イケ❤ざーこ♪,Cum!❤ You weakling~♪
@@ -421,7 +421,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 （ううっ・・・❤耳のそばでずっと囁かれてるみたいだ・・・❤\nすごくぞわぞわする・・・❤❤）,(Ugh...❤ It's like she's constantly whispering right in my ear...❤ It making me shiver all over...❤❤)
 ねえ、わたしの声を聞いて、頭の中がうっとりしてきませんか…❤\nわたし、声がかわいいって昔から言われるんです…❤\nマーメイドに劣らず歌もうまいんですよ❤,Hey; is listening to my voice making your mind feel foggy...?❤ People have always told me I have a cute voice...❤ I can actually sing as well as any of my mermaids!❤
 ほら、ささやかれて段々意識がぼやけてくる…❤\nさっき射精したときみたいに、\n気持ちいいのがいっぱいあふれてくる…❤,See; being whispered to is gradually making your consciousness hazy...❤ Just like when you ejaculated earlier; pleasure is flowing through you...❤
-わたしの声をもっと聞いていたい…❤\nわたしにたくさん囁かれたい…❤\nそれ以外何も考えられない…❤くすくすくす…❤,You want to hear more of my voice...❤ You want me to whisper to you more...❤ You can't think of anything else...❤ *Giggle giggle*❤
+わたしの声をもっと聞いていたい…❤\nわたしにたくさん囁かれたい…❤\nそれ以外何も考えられない…❤くすくすくす…❤,You want to hear more of my voice...❤ You want me to whisper to you more...❤ You can't think of anything else...❤ Ahaha~!*❤
 あうう・・・・❤❤きもちいい・・・❤,Ahhh...❤❤ It feels so good...❤
 もっと、もっと聞きたい・・・❤ああ・・・❤,More... More. I... I want to hear more...❤ Aah...❤
 あは、見てなくても、術のかかり方が深くなったのを感じます❤\nこの感じだと、第二段階もかかったかな？,Aha; even without seeing you; I can feel the spell taking hold; deeper and deeper~❤ Judging from how it feels; I think it's reached the second stage.
@@ -449,7 +449,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 ほら、また耳の魔術を使ってあげます❤,Here; just let me cast my spell on you again.❤
 そう言ってメロディは短い呪文を唱えた。すると僕の耳にまたあの感覚が襲ってくる。,Saying that; Melody chanted a short spell. Suddenly; that same sensation attacked my ears again.
 ただ声が聞こえるだけではない、彼女の吐息まで伝わるようなあの感覚。ううっ、耳が気持ちよくて、ああっ・・・。,It wasn't just her voice anymore; though. It started to feel as if even her breath was reaching me. Ugh; it feels so good; ahhh...
-くすくすくす❤\n何かしゃべる前に吐息だけで蕩けちゃった❤\nこれだけ弱い人も珍しいですね❤,*Giggle giggle*❤ Even just hearing me breathe made you melt. I didn't get the chance to even say anything~❤ To think you're this weak... You're a pretty rare find; you know that?❤
+くすくすくす❤\n何かしゃべる前に吐息だけで蕩けちゃった❤\nこれだけ弱い人も珍しいですね❤,Ahaha~!*❤ Even just hearing me breathe made you melt. I didn't get the chance to even say anything~❤ To think you're this weak... You're a pretty rare find; you know that?❤
 ああ、そうそう。その耳元の声、\nわたしが直接しゃべらなくても、\nどんな内容をしゃべるか指示できるんです,Oh; that's right. Even when I'm not speaking directly to you; I can have that little voice in your ear whisper whatever I want.
 だからこうやって普通に会話している横で・・・❤,So even when we're just having a normal conversation like this...❤
 (あん❤あん❤聞こえますか？\nわたしのあまぁい声で、たくさんお耳を気持ちよくしてあげます❤),(Aahn~❤ Aahn~❤ Can you hear me? I'll use my sweet voice and make your ears feel so good...❤)
@@ -462,7 +462,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 （そのうえ、耳も気持ちいいね❤\nわたしの声がずっとささやいて・・・❤\nふぅー・・・❤って息をかけたり・・・❤）,(On top of that; your ears feel good too; don't they?❤ My voice constantly whispering...❤ Breathing such soft breathes on you...❤)
 （んっ、じゅるるぅって、耳をなめるみたいな感触が\nお耳に襲ってきたり❤\nくすくす❤気持ちよすぎて体が跳ねちゃうね…❤）,(Mmm; I can attack your ears with a wet sensation; too; almost like I'm licking them~❤ *Giggle*❤ Your whole body just twitched. It feels so good; doesn't it...?❤)
 あうっ、ああっ・・・❤あへぇあ・・・❤❤,Ahh; ahhh...❤ Ahhhh...❤❤
-ぷぷっ、パイズリされながら囁かれて、\nずいぶんだらしない顔になっちゃっていますね❤,Pupu; getting a paizuri while being whispered to is making you make such a pathetic face!❤
+ぷぷっ、パイズリされながら囁かれて、\nずいぶんだらしない顔になっちゃっていますね❤,Aha; getting a paizuri while being whispered to is making you make such a pathetic face!❤
 口は半開きで目もうつろになって、\n人には見せられないひどい顔❤,Your mouths half-open and your eyes are totally vacant... You look awful! You really shouldn't ever let anyone see your face like that~❤
 ああ、そうそう❤快感を満喫してるところ悪いんですけど、\n大事なことを言っていませんでした。,Ah; that's right!❤ Sorry to interrupt you while you're lost in pleasure; but I forgot to mention something important.
 あなたが射精をすると、\nそのお耳の魔術、持続時間が三日伸びるんです❤,Every time you ejaculate; the magic on your ear gets its duration extends by three days.❤
@@ -479,7 +479,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 ９日間、耳元で囁かれ続けて、\nお射精がまんできますか？\n若くて元気なおちんちん、理性で抑えられますか？,I'll be whispering in your ear constantly for the next 9 days. Do you think you can keep yourself from cumming? Do you have the willpower to control your young; energetic cock?
 （くすくす❤無理だよね…❤\nわたしのきもちいい声聞いてたら、\n頭がとろけてきて何も考えられなくなるもんね…❤）,(*Giggle*❤ It's impossible; isn't it...?❤ Your mind's already started melting just listening to my voice; and you can't think of anything else but cumming; can you...?❤)
 （この先ずっと{主人公}さんはわたしの虜…❤\nお耳をしょっちゅう責められて、\nずっと魔力を盗られ続けるの❤）,(From now on; {主人公}; you will always be my prisoner...❤ Your ears constantly tormented; your magical power continuously stolen~❤)
-（ほら、いっぱいくすくすって笑ってあげる…❤\nBランクマスターに見下されて、笑われて、\nその声で射精しちゃえ…❤くすくすくす❤）,(Here; I'll laugh at you lots and lots...❤ Cum from the voice of a B-rank cardmaster; looking down on you and laughing...❤ *Giggle giggle*❤)
+（ほら、いっぱいくすくすって笑ってあげる…❤\nBランクマスターに見下されて、笑われて、\nその声で射精しちゃえ…❤くすくすくす❤）,(Here; I'll laugh at you lots and lots...❤ Cum from the voice of a B-rank cardmaster; looking down on you and laughing...❤ Ahaha~!*❤)
 はひぃっ・・・❤❤あぁ・・・❤❤❤,Hahhh...❤❤ Ahhh...❤❤❤
 ふふ、気絶しちゃった❤,Fufu; he fainted~❤
 闘技場ではいい子のふりして、\nこうやって部屋におびき出してからやるのって、\n頭いいよね♪,I pretended to be a good little schoolgirl in the arena; then lured you to my room to do this. Pretty clever; don't you think?♪
@@ -504,7 +504,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 ひどくみっともない負け方をした僕は彼女に言い返すこともできない。,Having lost so pathetically; I couldn't even think of a retort.
 一度射精して少し冷静になった僕の心に、悔しさと反省がこみあげてくる。どうして僕はチアガールたちの踊りなんかで自滅してしまったのだろう。,With my head clearing up after my ejaculation; frustration and regret welled within my heart. Why did I let myself lose over the cheerleaders' dancing?
 心を強く持ってさえいれば、あのぐらいの動きで心を惑わされることなんてなかったはずなのい・・・。くぅぅ・・・。,If I had just kept my heart and mind focused; I wouldn't have been so bewildered by movements like that... Ugh...
-(んー？なんかこっちを恨めしそうに見てる？\nぷぷっ、気持ちよくしてもらったのに後から恨み節とか、かっこわる❤),(Hmm? Are you really gonna give me that frustrated glare? Pupu; feeling good and then complaining afterwards... So uncool~❤)
+(んー？なんかこっちを恨めしそうに見てる？\nぷぷっ、気持ちよくしてもらったのに後から恨み節とか、かっこわる❤),(Hmm? Are you really gonna give me that frustrated glare? Aha; feeling good and then complaining afterwards... So uncool~❤)
 (それならほら・・・❤\nスカートをあなただけに見えるように、チラ❤),(Then here...❤ I'll flash my skirt so only you can see. Take a peek~❤)
 あ、ああっ❤うぅぅ❤,Ah; ahhh...❤ Oohhh…❤
 (あー、なにか面白そうなことしてる❤\nわたしもからかってあげよ❤\nおっぱい見てみて～❤ゆさゆさあは～ん❤),(Ah; that looks fun!❤ I'll tease you; too!❤ Look at my boobs~❤ Bounce bounce; ahaan~❤)
@@ -576,7 +576,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 むぐぅっ❤あひぃっ❤❤,Mmmph...❤ Ahhh...❤❤
 くすくす…❤\n手を上に置いてるだけでイっちゃった…❤,*Giggle*❤ You came from my hand just resting on top of your penis...❤
 腰をガクガクってさせて、\n自分から手の平にこすりつけて、オナニーみたいだね…❤,You just thrust your hips; rubbing yourself against the palm of my hand... It's kind of like you were masturbating...❤
-試合中もオナニーで負けて、\n今もオナニーで負けて、くすくすくす❤\n２回もわたしたちに屈服してる…❤,You lost to masturbation during the match; and now you've lost to masturbation again! *Giggle giggle*❤ You've surrendered to us twice now...❤
+試合中もオナニーで負けて、\n今もオナニーで負けて、くすくすくす❤\n２回もわたしたちに屈服してる…❤,You lost to masturbation during the match; and now you've lost to masturbation again! Ahaha~!*❤ You've surrendered to us twice now...❤
 でもここからが、本番だよ❤ルーキーくん❤,But this is where the real fun begins.❤ Little Rookie~❤
 みんなで応援スタート♪邪魔な人もどっか行ったみたいだし、\n思いっきり声をあげて応援を盛り上げていいからね❤\nえい、えい、わしゃわしゃわしゃ～♪,Everyone start cheering!♪ That annoying person's gone; so feel free to cheer as loud as you want~❤ Yay; yay; rub rub rub~♪
 あひ、ひあっ、あああっ❤❤,Ahh; haaa; ahhhhh~❤❤
