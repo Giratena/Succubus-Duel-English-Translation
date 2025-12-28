@@ -1,25 +1,25 @@
-default
+default,
 ジェミニ,Gemini
 F24_paizuriAnime,
 　西の鉱山地帯の村で守護者をしているBランクカードマスター。ジェムカードを駆使して下級モンスターの強化から上級モンスターの召喚まで行い、隙が少ない戦い方をする。宝石や貴金属を見て育ったため、それらに愛着を持っているが、宝石は身近にあるものだったので、普通の女性が宝石のアクセサリーを求めてやまないような感覚は、いまいち理解できないと思っている。\n　胸が大きく、それを活かした攻撃が得意。彼女の胸は張りがあるというよりやわらかいタイプで、体を下に向ければ重力に素直に大きく動く。顔でも性器でも挟んでしまえばその柔らかさで完全に包み込んでしまい、あまりの快感で逃れることは困難である。彼女自身は、胸が重たくてめんどうくさいなと思っているが、男性が自分の胸でとろとろになってしまうのを見るのは好きである。,A B-rank Card Master who serves as a guardian in a village within the western mining district. She utilizes Gem Cards to enhance lower-level monsters and summon advanced monsters; employing a battle style with few openings. Having grown up surrounded by gems and precious metals; she holds deep affection for them; but since gemstones were commonplace in her environment; she can't quite understand the typical female obsession with gemstone accessories.\n\n　Her breasts are large; and she excels at attacks that take advantage of them. Her chest is more of the soft type rather than firm; swaying heavily with gravity when she leans forward. Whether trapping a face or genitals between them; their softness completely envelops whatever they embrace; making escape nearly impossible due to overwhelming pleasure. While she personally finds her heavy breasts bothersome; she enjoys watching men melt under their influence.
-あー、無敗のルーキーくんだ～❤\n今日は街でバトルをしているの？\n強いのにそれでも修行に励んで、えらいね～。,
-わたしはちょっと日向ぼっこっていうか、\nあたたかくてぼーっとしてたの。\nちょうどあなたに会ったし、バトルでもしようかな～。,
-太陽の光が当たると宝石ってキラキラしてきれいなんだよ？\nジェムたちの輝き、見せてあげるね～❤,
-あー、無敗のルーキーくんだ～。\nこの間は負けちゃったけれど、今日はわたしが勝つよ～。,
-わたしだってBランクマスターだし、\nそう何度も負けないんだから。\n宝石の魅力をたっぷり教えてあげるね～❤,
-あー、無敗のルーキーくんだ～❤\nこの間はわたしに負けれて気持ちよかった？\nくす、言われて思い出しちゃったんだ、顔真っ赤だね❤,
-おちんちんも大きくなってるし、\n今日もわたしが勝っちゃうかな❤\nおっぱいとか膝とかで気持ちよくイかせてあげるね❤,
-はうう・・・。やられちゃった。\nやっぱり無敗のルーキーくんは強いね。,
-都合が合えばまた試合しようね～。\n守護者の仕事を休んでたくさんの人とバトルできるのは、\nこの祭りの時ぐらいだから、結構楽しいんだ～❤,
-うふふ❤今日はわたしの勝ちだったね～❤\n気持ちよさそうにこんなに出しちゃって、\nやっぱり男の子ってずっと我慢しつづけるのは難しいのかな～？,
-都合が合えばまた試合しようね～❤\n守護者の仕事を休んでたくさんの人とバトルできるのは、\nこの祭りの時ぐらいだから、結構楽しいんだ～❤,
-挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,
-さあ今日の注目の試合がやってきました！\nそう、無敗のルーキーの、Bランク初試合です！,
-Ｂランクといえば強豪ひしめく魔のランク。\n最上級モンスターが次々登場するド派手なバトルが繰り広げられます！\n果たしてそんな荒波を彼は乗り越えられるのか！,
-Bランクの壁を突破し、\nAランクにたどり着けるマスターはごくわずか！\nさあ、厳しい挑戦が幕を開けます！,
-さてそんな彼の最初の対戦相手は、この人！\n西の鉱山地域で守護者を担当しているジェミニ選手だ！,
-どうも～、よろしくね。,
-ジェミニ選手といえば宝石カードの使い手！\nきらめく宝石の力で味方や自身を強化し、\nさらに最上級モンスターの召喚も宝石の力でサポート！,
+あー、無敗のルーキーくんだ～❤\n今日は街でバトルをしているの？\n強いのにそれでも修行に励んで、えらいね～。,Ah! It's the undefeated rookie!~❤ Are you in town today to do battle? You're already so strong; and yet you still strive in your training. You're quite the rolemodel~
+わたしはちょっと日向ぼっこっていうか、\nあたたかくてぼーっとしてたの。\nちょうどあなたに会ったし、バトルでもしようかな～。,It's just so nice and warm today I find myself spacing out. I suppose you could say I'm doing a bit of sunbathing. Since we ran into each other; maybe we should have a battle...?
+太陽の光が当たると宝石ってキラキラしてきれいなんだよ？\nジェムたちの輝き、見せてあげるね～❤,The way gems sparkle in the sunlight are so pretty aren't they? I'll give you a good showcase with my monsters; OK?~❤
+あー、無敗のルーキーくんだ～。\nこの間は負けちゃったけれど、今日はわたしが勝つよ～。,Ah! It's the undefeated rookie!~ I may have ended up losing last time; but today victory will be mine~
+わたしだってBランクマスターだし、\nそう何度も負けないんだから。\n宝石の魅力をたっぷり教えてあげるね～❤,I am a B Rank cardmaster after all; so I won't be losing often. I'll make you fully realize exactly what makes gems so fascinating~❤
+あー、無敗のルーキーくんだ～❤\nこの間はわたしに負けれて気持ちよかった？\nくす、言われて思い出しちゃったんだ、顔真っ赤だね❤,Ah! It's the undefeated rookie!~❤ Did you feel good while losing to me last time? *Giggle* You must have realized what I was talking about; because your face turned bright red~
+おちんちんも大きくなってるし、\n今日もわたしが勝っちゃうかな❤\nおっぱいとか膝とかで気持ちよくイかせてあげるね❤,Your dick is already getting bigger~ Maybe I'll win today as well...❤ My breasts; under my knee... Whatever the method; I'll make you ejaculate nice and good; OK?❤
+はうう・・・。やられちゃった。\nやっぱり無敗のルーキーくんは強いね。,Haah... Man you really got me. I guess the undefeated rookie is pretty strong after all; huh.
+都合が合えばまた試合しようね～。\n守護者の仕事を休んでたくさんの人とバトルできるのは、\nこの祭りの時ぐらいだから、結構楽しいんだ～❤,If we get the chance; let's battle again yeah...? Being able to take a break from guardian work to battle many people because of this festival is pretty fun~❤
+うふふ❤今日はわたしの勝ちだったね～❤\n気持ちよさそうにこんなに出しちゃって、\nやっぱり男の子ってずっと我慢しつづけるのは難しいのかな～？,Ufufu.❤ Looks like I won today~❤ Shooting out like that in such a blissful mannor... I guess boys really do have a hard time trying to hold it together after all?~
+都合が合えばまた試合しようね～❤\n守護者の仕事を休んでたくさんの人とバトルできるのは、\nこの祭りの時ぐらいだから、結構楽しいんだ～❤,If we get the chance; let's battle again; yeah?~❤ Being able to take a break from guardian work to battle many people because of this festival is pretty fun~❤
+挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You don't have enough rank points to challenge this match. (Current points: {ランクポイント}) 
+さあ今日の注目の試合がやってきました！\nそう、無敗のルーキーの、Bランク初試合です！,And now; todays event is about to get underway! That's right; it's the undefeated rookie first B rank match!
+Ｂランクといえば強豪ひしめく魔のランク。\n最上級モンスターが次々登場するド派手なバトルが繰り広げられます！\n果たしてそんな荒波を彼は乗り越えられるのか！,B Rank is said to be the rank where the competition gets truly fierce. Spectacular battles unfold as top-level monsters appear one after another! Will he be able to overcome the rough seas ahead?
+Bランクの壁を突破し、\nAランクにたどり着けるマスターはごくわずか！\nさあ、厳しい挑戦が幕を開けます！,Cardmasters who break through B Rank wil at long last have a chance at the elusive A Rank! Now then; let's see what kind of intensive challenge is in store!
+さてそんな彼の最初の対戦相手は、この人！\n西の鉱山地域で守護者を担当しているジェミニ選手だ！,Let's get this underway! And now; for his first adversary... behold! The guardian in charge of the west mining region; it's Cardmaster Gemini!
+どうも～、よろしくね。,Greetings~ Let's have a good battle; OK?
+ジェミニ選手といえば宝石カードの使い手！\nきらめく宝石の力で味方や自身を強化し、\nさらに最上級モンスターの召喚も宝石の力でサポート！,Gemini is said to be a gem card specialist! She not only uses them to strengthen herself and her allies; but the power of her glittering gems can also help her summon an extra powerful advanced level monster!
 華やかな見た目とは裏腹に、かなり強力な彼女のデッキ、\n無敗のルーキーは太刀打ちできるのでしょうか！\n上級者同士のバトルから目が離せません！,
 無敗のルーキーくん、\n噂で聞いたけど、あなたが西の村にいた盗賊たちを退治してくれたらしいね。\nありがと～。,Undefeated Rookie; I heard a rumor that you took care of the bandits at West Town. Thanks for that.
 あの村はわたしの管轄地域のひとつなの。\n例の侵攻作戦やら、モルゲンでの祭りやらで\nちょうど留守にしてたからさ、助かっちゃった。,That town happens to be part of my territory. I couldn't be there myself right now because of the invasion strategy meeting and the festival happening at the Morgen; so you really saved me.
@@ -317,15 +317,15 @@ Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中�
 え～、いいの？\nタダで気持ちいいことしてもらえるのに断るなんて、\nルーキーくんは無欲なんだね～。,Eh? Are you sure? You're refusing a chance to feel good for free... You really are selfless aren't you; Rookie?
 射精して魔力を出しちゃったら、今日は試合ができなくなるし、\nそれを気にしてるのかな？,Or are you worried that losing mana to cumming will make you unable to fight in duels today?
 一日ぐらい休んで気持ちいいことしたって\n罰は当たらないと思うけどな～。ルーキーくんは真面目だね。\nだから強いのかもしれないけど。,No one would blame you if you took a day off to enjoy yourself; you know? Mr. Rookie; you're being too diligent... But I guess that might be the reason why you've become so strong.
-まあいいや。もししてほしくなったら、\nわたしに声をかけてね。このおっぱいでたくさん\n気持ちいい「お礼」をしてあげるから。うふふ❤,Well; fine. But if you change your mind; just say the word; and I'll give you a "reward" with my boobs. Ehehe.❤
-ん～、{主人公}くん、どうしたの？\nあ、やっぱり今日「お礼」してほしくなっちゃった？,Hmmm? {主人公}; what's up? Ah! Do you feel like accepting my "reward" now?
+まあいいや。もししてほしくなったら、\nわたしに声をかけてね。このおっぱいでたくさん\n気持ちいい「お礼」をしてあげるから。うふふ❤,"Well; fine. But if you change your mind; just say the word; and I'll give you a ""reward"" with my boobs. Ehehe.❤"
+ん～、{主人公}くん、どうしたの？\nあ、やっぱり今日「お礼」してほしくなっちゃった？,"Hmmm? {主人公}; what's up? Ah! Do you feel like accepting my ""reward"" now?"
 ちょっとエッチな目でわたしのおっぱい見てるもんね～。\nここで挟んでほしいんでしょ？\nそれならほら、わたしと一緒に控え室に行こ？,Oh; I didn't miss how you just took a glance at my boobs. You want me to squeeze your dick between them; don't you? I've got a room over there if you want to do it.
 くすくす❤そんなに何回も迷うぐらいなら、\nほら、わたしと気持ちいいことしよう？,Ehehe.❤ Isn't it time you let me make you feel good? There's no need to keep hesitating about it so much.
 いったんわたしから離れても、遠くからチラチラおっぱい見てたよね。\n隠してるつもりだったかもだけど、バレバレだったよ❤,Even when you refused my last offer; you still kept taking glances at my boobs from afar; right? You might have thought you were stealthy about it; but I instantly noticed.❤
 くす❤いまもちらっと見てる❤\n試合ではあんなに強かったのに、かわいいね～❤,Ehehe.❤ You couldn't help taking a glance at them again just now.❤ You were really strong during our match; but it's cute when you're acting like an innocent little boy like this.❤
-お姉さんが手を引いて連れて行ってあげるね❤\n控え室でたくさん気持ちいい「お礼」をしてあげる～❤,Do you want to hold hands with me; too? Take my hand and I'll take you to an empty waiting room where I'll give you your "reward" and make you feel good.❤
+お姉さんが手を引いて連れて行ってあげるね❤\n控え室でたくさん気持ちいい「お礼」をしてあげる～❤,"Do you want to hold hands with me; too? Take my hand and I'll take you to an empty waiting room where I'll give you your ""reward"" and make you feel good.❤"
 そこのベッドに横になって？\nそう、そうやってだらーんってしてていいからね。\nそれじゃズボンを脱がしてっと。,Now; you'll sit on the bed; won't you? Yes; just lie down and relax. I'll take your pants off for you.
-くす、まだ何もしてないのに、すごくビンビンになってる❤\nわたしに「お礼」をしてもらえるの待ちわびてたんだね～❤\nかわいいおちんちんくんを、えい、おっぱいの間にご招待❤,Ehehe. We haven't done anything yet; but you're already hard down here.❤ You must have been looking forward to your "reward" quite a bit.❤ I'll take your cute lil' dick and... Stick it between my boobs.❤
+くす、まだ何もしてないのに、すごくビンビンになってる❤\nわたしに「お礼」をしてもらえるの待ちわびてたんだね～❤\nかわいいおちんちんくんを、えい、おっぱいの間にご招待❤,"Ehehe. We haven't done anything yet; but you're already hard down here.❤ You must have been looking forward to your ""reward"" quite a bit.❤ I'll take your cute lil' dick and... Stick it between my boobs.❤"
 あうぅう・・・❤やわらかい・・・❤❤,Auuuh...❤ They feel so soft...❤
 (うう、僕は何をやっているのだろうか。\n闘技場で試合を申し込むはずだったのに、\n女の人にパイズリなんてされて・・・❤),(Gah... What on earth am I doing? I meant to register for a match; but now I'm getting a boobjob from this girl...)
 (こんなことしていないで、\n少しでも強くならないといけないのに・・・❤\nはひぃ、きもちいい・・・❤),(I shouldn't be doing this. I have to resist...❤ But... Aah... It feels so good...❤)
@@ -338,7 +338,7 @@ Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中�
 体重を上からかけて、腰が動かないようにしてあげる❤\nほらほらぁ、おっぱいにぎゅーって押しつぶされて、\n頭のなか気持ちよさで真っ白になっちゃえ～❤,I'll nail down my boobs on your waist and use my whole body weight to prevent your escape.❤ Now; feel my boobs press down on you; and let the pleasure blank out your mind.❤
 あひぃっ❤だめ、これだめっ❤❤\nあああ、ぎゅってされてっ、きもちいいっ❤❤,Aaaah❤ No...❤ I can't...❤ When you do that... It feels too good...❤
 はへぇ、たえられないっ、もう、でちゃうっ❤❤\nああっ❤❤,Aaaah.❤ I can't endure this...❤ I'm going to cum...❤ Aaaah.❤
-いいよ～❤出して出して～❤\nわたしの「お礼」でたくさん気持ちよくなって、\nとびきり最高な射精、しちゃっていいんだよ～❤,It's okay.❤ Just cum and blow your load.❤ This is a "reward" from me to you; so please enjoy it and have the most amazing orgasm.❤
+いいよ～❤出して出して～❤\nわたしの「お礼」でたくさん気持ちよくなって、\nとびきり最高な射精、しちゃっていいんだよ～❤,"It's okay.❤ Just cum and blow your load.❤ This is a ""reward"" from me to you; so please enjoy it and have the most amazing orgasm.❤"
 わたしの谷間の、一番奥まで届くかな～❤\nほら、ぎゅっ、ぎゅっ、ぎゅ～❤❤\n白いのどぴゅって出しちゃえ～❤,I wonder if your load will reach the deepest parts of my boobs~❤ C'mon; I'll squeeze your dick even tighter; so shoot out your white juices.❤
 あはぁ、すごくたくさん出たね～❤\nわたしのパイズリ気持ちよかった？,Ahaah~. You blew such a massive load.❤ Did my boobjob feel good?
 バトルじゃないときにカードマスターにエッチなことしてもらえるの、\n腰が抜けちゃうぐらいすごいでしょ❤\nバリアなしのパイズリとかされると、癖になっちゃう人も多いんだって。,Having a cardmaster do naughty things to you outside of a duel feels so good that it makes your legs get weak; right?❤ I've heard that a lot of people have actually got addicted to boobjobs and such when this kind of stuff was done to them without the magic barrier protecting them.
