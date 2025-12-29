@@ -1,345 +1,344 @@
-default
+default,
 チャームサキュバス,Charm Succubus
 EU59_bustShowAnime,
 EU59_paizuriAnime,
 EU59_paizuriAuraAnime,
-　相手を魅了し、弱体化させることが得意な下級のサキュバス。魅了の呪いが込められたペンダントを、犬の首輪のように男にかけてくる。ペンダントを身に着けさせられた者は、首から上に常に快感が送られ、目の前にいるサキュバスたちの姿が通常よりもさらに美しく見えるようになり、抗うことができなくなってしまうのだという。,
-\n　サキュバスであるため、当然さまざまな性技も人間よりはるかにうまく、魅了された状態で彼女の愛撫を受ければ、男はたちどころに彼女にエナジーを献上してしまうだろう。,[1].このカードが場に出たとき発動する。デッキから「チャームペンダント」を１枚手札に加える。,
-[2].1ターンに１度、相手フィールド上の「魅了」状態のキャラクターを選択して発動できる。そのキャラクターに「早漏化」を付与する。,
-[3].相手の「魅了」状態のモンスターが破壊されたとき発動する。カードを1枚ドローする。,
-[4].このカードが存在する限り、相手は「魅了」状態のモンスターを上級召喚のコストにすることはできない。,
-(戦闘時に弱点を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。),
-魅了されて魔力抵抗が弱ってるあなたに、\n素敵な呪いをかけてあげる❤,
-あなたのおちんちんが弱くなって、\nすぐにイっちゃうようになる呪いよ❤\nほら、指先からハートを飛ばして・・・♪,
-わたしからもあなたにプレゼント❤,
-はううっ・・・❤,
-ふふ、ほんのりむずむずして、気持ちいいでしょ？\nでもその気持ちよさはただのオマケ❤\nこの呪いの怖さは、おちんちんが弱くなっちゃうところにあるの。,
-呪いをかけられるたびにどんどん刺激に耐えられなくなって、\n最後には、一撫でするごとに１回射精しちゃう、\nよわよわチンポの完成❤,
-噴水みたいにびゅーびゅー射精し続けるの、\n頭おかしくなっちゃうぐらい気持ちいいのよ？\nうふふ❤今から楽しみね❤,
-ううっ・・・❤,
-くすくす❤ハートがじわぁって染み込むみたいになって、\nどんどん、おチンポ弱くされちゃうわね❤\nまだまだ弱いチンポにしてあげる❤,
-はぅうっ・・・❤,
-あはぁ、おチンポ必死に両手で守ってカッコ悪い❤\n風が吹くだけでもイキそうになっちゃう？\nもっと弱くしてあげるから楽しみにしてなさい❤,
-ふふふ❤早漏化の呪いでおチンポ敏感にされちゃったわね❤\nあら、そんなに必死に手で隠して、\nもう射精しそうでたまらないのかしら❤,
-手で握って、シコシコしちゃっていいのよ？\nほら、オカズを提供してあげる❤,
-あはぁん❤\n両腕でおっぱいを挟んで谷間を強調してあげるわぁ❤\nあ～ん❤おちんちん触ってぇ❤サキュバスおっぱいオカズにしてぇ❤,
-ふふ、射精しそうなら、我慢なんてしなくていいのよ❤\nよわーくなったあなたのチンポ、\n触ってシコシコしちゃいましょう？,
-きっと数回上下にシコっただけで、\nどぴゅどぴゅーって気持ちよくなれるわ❤\n想像して、そう、ゆっくり手を伸ばしなさい❤,
-ほら、あと一押しをしてあげる❤あはぁん❤\n両腕でおっぱいを挟んで谷間を強調、セクシーポーズ❤\nおねが～い❤サキュバスおっぱいオカズにしてぇ❤くすくす❤,
-くすくす❤シコシコ我慢してるところに追加の早漏化の呪い❤\n精液がどんどん上ってきてたまらないでしょ？\nあは、オナニーしたくてたまらなくて、手がぷるぷるしちゃってるわ❤,
-我慢なんて体に毒よ❤\nわたしもおっぱい使ってオカズを提供してあげる❤\nこれを見て、シコっちゃいなさい❤,
-あはぁん❤\nエッチなサキュバスの谷間❤両腕でむぎゅうって強調してあげる❤\nほらぁ、おちんちん触って気持ちよくなりましょうよ～❤,
-ぷぷっ、追加で早漏の呪いを受けてたまらないんでしょ❤\n射精しそうなら、我慢なんてしなくていいのよ❤\nよわぁくなったあなたのチンポ、触ってシコシコしちゃいましょう？,
-きっと数回上下にシコっただけで、\nどぴゅどぴゅーって気持ちよくなれるわ❤\nぐつぐつしてる濃ゆい精液、早くわたしに向かって射精してぇ❤,
-あはぁーん❤両腕でおっぱいを挟んで谷間を強調❤\nおねが～い❤ここにかけてぇ❤\nサキュバスおっぱいオカズにしてぇ❤くすくす❤,
-{自分}に誘惑されている！,
-ううっ・・・❤まだ諦めない・・・❤,
-あん、残念❤\nサキュバスの体をおかずにシコシコするの、とっても気持ちいいのに❤,
-あっ、ああっ、がまんできないっ❤❤,
-はひぃっ、きもちいいっ、あああっ❤❤,
-くすくす❤おちんちんシコシコ始めちゃった❤\nもうイキそうなチンポ触るの、たまらないわよね❤,
-わたしの呪いで弱くされてるから、すぐに射精の波がやってくるわ。\nほら、シコリはじめて今１０秒。\nここから何秒我慢できる？１、２、３・・・・❤,
-むり、むりぃっ、あっ、出るっ❤❤はひぃっ❤❤,
-あはん❤記録は１３秒❤\nオナニーしはじめて１３秒でイクとか、ぷぷっ、とんだ早漏チンポね❤,
-くすくす❤あなたもおちんちんシコシコ始めちゃった❤\nもうイキそうなチンポ触るの、たまらないわよね❤,
-あはん❤あなたの記録も20秒以下ね❤\nオナニーしはじめて１分持たないとか、ぷぷっ、とんだ早漏チンポだわ❤\n仲間と一緒に早漏チンポシコって楽しかった？くすくす❤,
-ほら、その調子、おちんちん握ったら気持ちいいわよ❤,
-あはぁん❤おっぱい見て、もっとムラムラしてぇ❤,
-バトルなんてどっちでもいいでしょ❤おちんちん気持ちよくなりましょう❤,
-くすくす❤あとちょっとでシコっちゃう❤おっぱいゆさゆさ、あはぁん❤,
-わたしの谷間にかけていいのよ❤うふふ❤,
-くすくす❤わたしのマスターにおっぱいゆさゆさされて、\n攻撃やめちゃうんだ❤\nそれじゃわたしは遠慮なく・・・❤,
-マスターにも負けない、爆乳おっぱいでぇ、\n最高のパイズリ❤楽しませてあげるわ❤\nほらほらぁ～❤チンポもみくちゃにされて幸せになりなさ～い❤,
-あは❤なにその顔❤情けなーく蕩けて、よだれまで垂らしちゃってる❤\nBランクの強ーいマスターが、チンポおっぱいで完全に\n包囲されただけで、そんな間抜けな顔晒しちゃうんだ❤,
-わたし、下級モンスターよ？\n簡単に召喚できて、誰にでも簡単に扱えるモンスター❤\nそれなのに、そのおっぱいで、脳みそまでメロメロ❤,
-あはは、おっぱいに弱いと男ってホントにダメね❤\nほらほら、もっと激しくしてあげるから、谷間に屈服射精するのよ❤\n下級モンスターのパイズリでイケ❤イケ❤ザーコ❤,
-あらん❤あなたのマスター、わたしのマスターに夢中みたいよ？\n見とれて、攻撃指示、ストップしちゃったわ。\nくすくす❤おっぱいに弱いマスターを持つと大変ね❤,
-でも、あのマスターのしもべなら、\nあなたもおっぱいに弱いんじゃないかしら❤\nほら、攻撃しなくていいのだし、たくさんわたしと楽しみましょ？,
-マスターにも負けない、爆乳おっぱいでぇ、\n最高のパイズリ❤ほらほらぁ～❤気持ちいいでしょう？,
-あは❤顔がとろけてよだれ垂らしちゃってる❤\nチンポ完全に埋まっちゃってるものね❤\n男がこの爆乳でずりずりされてぇ、耐えられるわけないわよねぇ❤,
-恨むなら意志のよわーい、あなたのマスターを恨みなさい？\nって、その顔じゃあむしろ感謝してそうだけど❤,
-「僕をサキュバス様のパイズリに差し出してくれて\nありがとうございます～❤」って感じかしら。くすくす❤\n男がサキュバスに屈服させられて、なさけな～い❤,
-うふふ、わたしの胸はね、何人もの男を吸い殺してきたの。\nわたし自身の魔力がそこまで強くなくても大丈夫。\nだって、こうやって谷間を寄せてあげれば・・・❤,
-ほら、男はみんな釘付けになっちゃう❤\nおっぱいをガン見してはぁはぁしちゃって、みっともないわ❤,
-特におっぱいにメロメロなあなたには効果ばつぐんみたいね❤\nおっぱいを手で持って揺らせば、\nそれに合わせてチンポもひくひく❤,
-あはは、おっぱいの言いなりね❤\nそのまま興奮するだけ興奮してそこで漏らしてしまいなさい❤,
-ほら、男はみんな釘付けになっちゃう❤\nおっぱいをガン見してはぁはぁしちゃって、みっともないわ❤くすくす❤,
-おっぱいで天国見せてあげる❤\n挟まれた瞬間、腰がとろけるサキュバスおっぱい❤\n避けちゃダメよ？ほらっ・・❤,
-くすくす❤ほんとにパイズリされちゃうんだぁ❤\nもうわたしたちに完全にメロメロね❤おっぱい誘惑さえしてあげれば、\n武器も構えなければ、逃げもしない❤,
-そのままじっとしてなさい❤\nおっぱいでチンポを完全に包んで、ぜぇーんぶズリズリ❤ズリズリ❤\n腰が抜けるまで何回もやってあげる❤,
-あっという間にチンポひくついて\nあぁん、もう出ちゃう❤気持ちよくて射精しちゃう❤\nくすくす❤早漏ぼうやをイかせるのは簡単ね❤ほら、イケ❤ザコ❤,
-ああん、逃げなくてもいいじゃない。\n挟まれたらほんとに気持ちいいのに❤\n一回擦るたびに、腰から下が快感でふにゃふにゃに蕩けて・・・。,
-最初は闘志に溢れていた男でも、チンポずられて\nすぐにおっぱいのことしか考えられなくなっちゃう❤\n気持ちいい❤気持ちいいってそれしか言えなくなるのよ❤,
-ねえ、あなたもおっぱいで壊されてみたいわよね❤\n避けないでパイズリされなさい❤\nほら、腰に押し付けてむにゅー❤,
-ねえん、ふとももが太いのって好き？\n太いのはいやだーって男もいるけど、\n意外とムチムチしている方が人気があるのよね。,
-まあ人気があろうがなかろうが、チンポ捕まえちゃえば一緒❤\nふとももでチンポ挟んでむぎゅっと圧迫してぇ\nそのまま上下にしごいてあげれば、どんな男でも骨抜きになるの❤,
-細い脚が好きって人間も、むっちりした女の感触に包まれて、\nすぐに射精するのよ❤\nあなたにもほら、わたしの脚の魅力を教えてあげる❤,
-くすくす❤チンポ、そんなに勃起させて痛くないの？\nガチガチに固くなったそれ、わたしがお口でふやかしてあげるわ❤,
-んっ、じゅるじゅぽっ❤じゅぷ、じゅるるぅ❤\nんふ、口の中気持ちいいでしょ？サキュバスの唾液は媚薬成分入り❤\n敏感チンポサキュバスのフェラテクで刺激されて、もうたまらない？,
-あは、先っぽが膨らんできた❤\n今にもイキそうなこの先っぽ、唇すぼめてチューって吸ってあげるわ❤\nほらぁ、お口の中にエナジー出しなさぁい❤んっ、じゅるるぅ❤,
-あらら、魅了されて、体が動かないの？\n頭がふわふわして、女の子の体から目が離せなくなって、\n「魅了状態」って不思議な感覚よね❤,
-ほら、身動き取れないところに、\n追い討ちの投げキッス❤\nもっと頭の中ふわふわさせてあげる❤んっちゅ❤,
-ねえ、わたしにチンポ扱かせて？\nサキュバスって手コキのテクも、すごいのよ❤,
-力を込めて握ったりせず、指はそっと触れるだけ・・・❤\nその状態でふわって軽く扱いてあげるの❤\nそれだけで男のチンポは夢心地❤,
-さっきまで怖い顔してた男も、ちょっと優しくシコシコされただけで\nうっとりした顔でわたしのこと見てくるの❤\n早く射精させてぇっておねだりするみたいに、ね❤,
-あなたも今そんな顔してるわ❤くすくす❤\nさあ、話を聞くだけじゃ切なかったでしょう？\nわたしの手であなたのチンポ、気持ちよく抜いてあげる❤,
-くすくす❤敵に向かって、「気持ちよくしてぇ」って言っちゃうんだ❤\nわたしのマスターに負けたら、恥ずかしい思いをするっていうのに…❤,
-わたしのエロい体を前にして我慢できずにおねだりするんだもの❤\nふふ、無敗のルーキーなんて名前だけね❤\n実際は快楽に負けちゃうただの男の子❤,
-くすくす❤敵に向かって、「気持ちよくしてぇ」って言っちゃうんだ❤\n名誉Bランク相手に負けたら、\nあなたのマスターが恥ずかしい思いをするっていうのに…❤,
-わたしのエロい体を前にして我慢できずにおねだり❤\nふふ、こんなスケベな手下しかいないなんて\n無敗のルーキーくんがかわいそうね❤,
-ほら、何をしてほしいか言ってみなさい❤\nわたしにどうやって搾りつくしてほしいのかしら❤くすくす❤,
-サキュバスの胸技,
-サキュバスの弄び,
+　相手を魅了し、弱体化させることが得意な下級のサキュバス。魅了の呪いが込められたペンダントを、犬の首輪のように男にかけてくる。ペンダントを身に着けさせられた者は、首から上に常に快感が送られ、目の前にいるサキュバスたちの姿が通常よりもさらに美しく見えるようになり、抗うことができなくなってしまうのだという。\n\n　サキュバスであるため、当然さまざまな性技も人間よりはるかにうまく、魅了された状態で彼女の愛撫を受ければ、男はたちどころに彼女にエナジーを献上してしまうだろう。,A lower-level succubus skilled at charming and weakening opponents. She places an enchanted pendant around men's necks like a dog collar. Those who wear the pendant experience constant pleasure from the neck up; causing any succubus before them to appear even more beautiful than normal; making resistance impossible. \n\nAs a succubus; she's naturally far more skilled at various sexual techniques than any human; and men who receive her caresses while charmed will instantly surrender their energy to her.
+[1].このカードが場に出たとき発動する。デッキから「チャームペンダント」を１枚手札に加える。\n[2].1ターンに１度、相手フィールド上の「魅了」状態のキャラクターを選択して発動できる。そのキャラクターに「早漏化」を付与する。\n[3].相手の「魅了」状態のモンスターが破壊されたとき発動する。カードを1枚ドローする。,[1]. When this card enters the field; add one "Charm Pendant" from your deck to your hand.\n[2]. Once per turn; select one "Charmed" character on your opponent's field. Inflict "Premature Ejaculation" on that character.\n[3]. When your opponent's "Charmed" monster is destroyed; draw 1 card.
+[4].このカードが存在する限り、相手は「魅了」状態のモンスターを上級召喚のコストにすることはできない。,[4]. While this card is on the field; your opponent cannot use "Charmed" monsters as tribute for an advanced summon.
+戦闘時に弱点を付与する。「早漏化」を付与した相手の現在HPが自身の攻撃力の2倍以下の場合、オナニー誘惑を行う。,Applies weakness during battle. If the opponent with "Premature Ejaculation" has current HP equal to or less than twice this card's attack; perform Masturbation Temptation.
+魅了されて魔力抵抗が弱ってるあなたに、\n素敵な呪いをかけてあげる❤,Now that you're charmed and your magic resistance has weakened; I'll place a wonderful curse on you.❤
+あなたのおちんちんが弱くなって、\nすぐにイっちゃうようになる呪いよ❤\nほら、指先からハートを飛ばして・・・♪,A curse that'll make your dick weaker; causing you to cum instantly~❤ Look; I'll send hearts flying from my fingertips...♪
+わたしからもあなたにプレゼント❤,Here's my gift to you too.❤
+はううっ・・・❤,Hauu...❤
+ふふ、ほんのりむずむずして、気持ちいいでしょ？\nでもその気持ちよさはただのオマケ❤\nこの呪いの怖さは、おちんちんが弱くなっちゃうところにあるの。,Fufu; it tingles and feels good; doesn't it? But that pleasure is just a bonus.❤ The true terror of this curse is how it weakens your cock.
+呪いをかけられるたびにどんどん刺激に耐えられなくなって、\n最後には、一撫でするごとに１回射精しちゃう、\nよわよわチンポの完成❤,Each time you're cursed; you become less resistant to stimulation; until eventually; you'll ejaculate once with every single stroke—you'll become just a pathetic; weak little cock.❤
+噴水みたいにびゅーびゅー射精し続けるの、\n頭おかしくなっちゃうぐらい気持ちいいのよ？\nうふふ❤今から楽しみね❤,Cumming continuously like a fountain; spurting endlessly—it feels so good you'll lose your mind; you know? Ufufu.❤ I'm already excited for what's to come.❤
+ううっ・・・❤,Oogh...❤
+くすくす❤ハートがじわぁって染み込むみたいになって、\nどんどん、おチンポ弱くされちゃうわね❤\nまだまだ弱いチンポにしてあげる❤,*Giggle*❤ The hearts are seeping in; making your cock weaker and weaker.❤ I'll make it even more pathetic.❤
+はぅうっ・・・❤,Haaah...❤
+あはぁ、おチンポ必死に両手で守ってカッコ悪い❤\n風が吹くだけでもイキそうになっちゃう？\nもっと弱くしてあげるから楽しみにしてなさい❤,Aha; you look so unsightly; desperately covering your dick with both hands.❤ What's the matter? Gonna cum from just a breeze? I'll make it even weaker; so look forward to it.❤
+ふふふ❤早漏化の呪いでおチンポ敏感にされちゃったわね❤\nあら、そんなに必死に手で隠して、\nもう射精しそうでたまらないのかしら❤,Fufufu.❤ The premature ejaculation curse has made your cock so sensitive.❤ Oh my; covering it so desperately with your hands—are you already about to cum?❤
+手で握って、シコシコしちゃっていいのよ？\nほら、オカズを提供してあげる❤,You can grab it and stroke yourself if you want; you know? Here; I'll give you some material to jerk off to.❤
+あはぁん❤\n両腕でおっぱいを挟んで谷間を強調してあげるわぁ❤\nあ～ん❤おちんちん触ってぇ❤サキュバスおっぱいオカズにしてぇ❤,Ahaan.❤ I'll squeeze my tits together with both arms to emphasize my cleavage for you.❤ Aahn.❤ Touch your dick.❤ Use my succubus tits as your jerk-off material.❤
+ふふ、射精しそうなら、我慢なんてしなくていいのよ❤\nよわーくなったあなたのチンポ、\n触ってシコシコしちゃいましょう？,Fufu; if you're about to cum; there's no need to hold back.❤ Your weakened cock—why don't you touch it and stroke yourself?
+きっと数回上下にシコっただけで、\nどぴゅどぴゅーって気持ちよくなれるわ❤\n想像して、そう、ゆっくり手を伸ばしなさい❤,I bet just a few pumps up and down will make you cum buckets.❤ Just imagine it... That's it~ Slowly reach out your hand.❤
+ほら、あと一押しをしてあげる❤あはぁん❤\n両腕でおっぱいを挟んで谷間を強調、セクシーポーズ❤\nおねが～い❤サキュバスおっぱいオカズにしてぇ❤くすくす❤,Here; let me give you that final push.❤ Ahaan.❤ Squeezing my tits together with both arms; emphasizing my cleavage in a sexy pose.❤ Please.❤ Use my succubus tits as your jerk-off material.❤ *Giggle*❤
+くすくす❤シコシコ我慢してるところに追加の早漏化の呪い❤\n精液がどんどん上ってきてたまらないでしょ？\nあは、オナニーしたくてたまらなくて、手がぷるぷるしちゃってるわ❤,*Giggle*❤ An additional premature ejaculation curse while you're trying not to stroke.❤ Your cum is rising up and you can't stand it; can you? Aha; you want to masturbate so badly your hands are trembling!❤
+我慢なんて体に毒よ❤\nわたしもおっぱい使ってオカズを提供してあげる❤\nこれを見て、シコっちゃいなさい❤,Holding back is bad for your health.❤ I'll provide some jerk-off material with my tits too.❤ Just watch me and stroke yourself~❤
+あはぁん❤\nエッチなサキュバスの谷間❤両腕でむぎゅうって強調してあげる❤\nほらぁ、おちんちん触って気持ちよくなりましょうよ～❤,Ahaan.❤ A naughty succubus's cleavage.❤ I'll squeeze them together with both arms to emphasize them for you.❤ Come on~ Touch your dick and feel good~❤
+ぷぷっ、追加で早漏の呪いを受けてたまらないんでしょ❤\n射精しそうなら、我慢なんてしなくていいのよ❤\nよわぁくなったあなたのチンポ、触ってシコシコしちゃいましょう？,*Giggle*; you can't stand it after receiving another premature ejaculation curse; can you?❤ If you're about to cum; there's no need to hold back.❤ Your weakened cock—why don't you touch it and stroke yourself?
+きっと数回上下にシコっただけで、\nどぴゅどぴゅーって気持ちよくなれるわ❤\nぐつぐつしてる濃ゆい精液、早くわたしに向かって射精してぇ❤,I bet just a few pumps up and down will make you feel amazing and cum buckets.❤ That thick; bubbling semen of yours—hurry up and shoot it at me.❤
+あはぁーん❤両腕でおっぱいを挟んで谷間を強調❤\nおねが～い❤ここにかけてぇ❤\nサキュバスおっぱいオカズにしてぇ❤くすくす❤,Ahaan~❤ Squeezing my tits together with both arms; emphasizing my cleavage.❤ Please~❤ Cum on them~❤ Use my succubus tits as your jerk-off material~❤ *Giggle*❤
+{自分}に誘惑されている！,{自分} is tempting you!
+ううっ・・・❤まだ諦めない・・・❤,Ungh...❤ I won't give up yet...❤
+あん、残念❤\nサキュバスの体をおかずにシコシコするの、とっても気持ちいいのに❤,Aw; too bad.❤ Stroking yourself while using a succubus's body as material feels so good though.❤
+あっ、ああっ、がまんできないっ❤❤,Ah; aah; I can't hold back anymore❤❤
+はひぃっ、きもちいいっ、あああっ❤❤,Hahii; it feels so good; aaah❤❤
+くすくす❤おちんちんシコシコ始めちゃった❤\nもうイキそうなチンポ触るの、たまらないわよね❤,*Giggle*❤ You started stroking your dick.❤ It's hard to resist when you're touching your cock that can cum at any moment; isn't it?❤
+わたしの呪いで弱くされてるから、すぐに射精の波がやってくるわ。\nほら、シコリはじめて今１０秒。\nここから何秒我慢できる？１、２、３・・・・❤,My curse has weakened you; so the wave of ejaculation will come quickly. Look; it's been 10 seconds since you started stroking. How many more seconds can you last? One; two; three...❤
+むり、むりぃっ、あっ、出るっ❤❤はひぃっ❤❤,I can't; I can't; ah; I'm cumming❤❤ Hahii❤❤
+あはん❤記録は１３秒❤\nオナニーしはじめて１３秒でイクとか、ぷぷっ、とんだ早漏チンポね❤,Aha❤ Your record is 13 seconds.❤ Cumming 13 seconds into masturbating—*giggle*; what a pathetically premature cock.❤
+くすくす❤あなたもおちんちんシコシコ始めちゃった❤\nもうイキそうなチンポ触るの、たまらないわよね❤,*Giggle*❤ You started stroking your dick too.❤ Hard to resist me when you're touching your easy to ejcaulate cock; isn't it?❤
+あはん❤あなたの記録も20秒以下ね❤\nオナニーしはじめて１分持たないとか、ぷぷっ、とんだ早漏チンポだわ❤\n仲間と一緒に早漏チンポシコって楽しかった？くすくす❤,Aha!❤ Your record is also under 20 seconds.❤ Not even lasting a minute from when you started masturbating—*giggle*; what a pathetically premature cock.❤ Did you have fun stroking your premature dick together with your friends? *Giggle*❤
+ほら、その調子、おちんちん握ったら気持ちいいわよ❤,Come on; keep it up; it feels good when you grab your dick; doesn't it?❤
+あはぁん❤おっぱい見て、もっとムラムラしてぇ❤,Ahaan❤ Look at my tits and get even more aroused~❤
+バトルなんてどっちでもいいでしょ❤おちんちん気持ちよくなりましょう❤,Who cares about the battle?❤ Let's make your dick feel good instead.❤
+くすくす❤あとちょっとでシコっちゃう❤おっぱいゆさゆさ、あはぁん❤,*Giggle*❤ You're so close to stroking it.❤ My tits are bouncing; ahaan~❤
+わたしの谷間にかけていいのよ❤うふふ❤,You can cum on my cleavage if you want.❤ Ufufu.❤
+くすくす❤わたしのマスターにおっぱいゆさゆさされて、\n攻撃やめちゃうんだ❤\nそれじゃわたしは遠慮なく・・・❤,*Giggle*❤ My master's bouncing tits made you stop attacking.❤ In that case; I won't hold back...❤
+マスターにも負けない、爆乳おっぱいでぇ、\n最高のパイズリ❤楽しませてあげるわ❤\nほらほらぁ～❤チンポもみくちゃにされて幸せになりなさ～い❤,With my busty tits that rival my master's; I'll treat you to the ultimate titfuck.❤ Come on~❤ Surrender to happiness as your cock gets crushed between them~❤
+あは❤なにその顔❤情けなーく蕩けて、よだれまで垂らしちゃってる❤\nBランクの強ーいマスターが、チンポおっぱいで完全に\n包囲されただけで、そんな間抜けな顔晒しちゃうんだ❤,Aha❤ What's with that face?❤ It's pathetically melted; and you're even drooling.❤ A strong B-rank master completely surrounded by tits around his cock—and you're making such a stupid face.❤
+わたし、下級モンスターよ？\n簡単に召喚できて、誰にでも簡単に扱えるモンスター❤\nそれなのに、そのおっぱいで、脳みそまでメロメロ❤,I'm just a lower-level monster; you know? A monster that's easy to summon and easy for anyone to use.❤ And yet; with just these tits; your mind is already falling in love with me.❤
+あはは、おっぱいに弱いと男ってホントにダメね❤\nほらほら、もっと激しくしてあげるから、谷間に屈服射精するのよ❤\n下級モンスターのパイズリでイケ❤イケ❤ザーコ❤,Ahaha; men who are weak to tits are truly pathetic; aren't they?❤ Come on; I'll go even harder; so surrender and cum between my cleavage.❤ Cum from a lower-level monster's titfuck.❤ Cum.❤ Cum.❤ You weakling.❤
+あらん❤あなたのマスター、わたしのマスターに夢中みたいよ？\n見とれて、攻撃指示、ストップしちゃったわ。\nくすくす❤おっぱいに弱いマスターを持つと大変ね❤,Oh my❤ Your master seems captivated by my master; doesn't he? He's so entranced he stopped giving attack orders. *Giggle*❤ It must be tough having a master who's weak to tits.❤
+でも、あのマスターのしもべなら、\nあなたもおっぱいに弱いんじゃないかしら❤\nほら、攻撃しなくていいのだし、たくさんわたしと楽しみましょ？,But if you're that master's servant; you must be weak to tits too; right?❤ Come on; you don't need to attack; so let's have lots of fun together instead.
+マスターにも負けない、爆乳おっぱいでぇ、\n最高のパイズリ❤ほらほらぁ～❤気持ちいいでしょう？,I'll give you the ultimate titfuck with these bombshell breasts that rival my master's~❤ Come on~❤ It feels good; doesn't it?
+あは❤顔がとろけてよだれ垂らしちゃってる❤\nチンポ完全に埋まっちゃってるものね❤\n男がこの爆乳でずりずりされてぇ、耐えられるわけないわよねぇ❤,Aha❤ Your face is melting and you're drooling.❤ Your cock is completely buried between them; after all.❤ There's no way a man could endure being stroked by these massive tits like this; right?❤
+恨むなら意志のよわーい、あなたのマスターを恨みなさい？\nって、その顔じゃあむしろ感謝してそうだけど❤,If you're going to resent anyone; resent your weak-willed master; alright? Though judging by that expression; you're actually grateful.❤
+「僕をサキュバス様のパイズリに差し出してくれて\nありがとうございます～❤」って感じかしら。くすくす❤\n男がサキュバスに屈服させられて、なさけな～い❤,Thank you so much for offering me up to Lady Succubus for a titfuck~❤" Is that what you're thinking? *Giggle*❤ How pathetic~ A man; completely tamed by a succubus.❤
+うふふ、わたしの胸はね、何人もの男を吸い殺してきたの。\nわたし自身の魔力がそこまで強くなくても大丈夫。\nだって、こうやって谷間を寄せてあげれば・・・❤,Ufufu; my breasts have drained countless men dry. Even if my own magical power isn't that strong; it doesn't matter. Because when I push my cleavage together like this...❤
+ほら、男はみんな釘付けになっちゃう❤\nおっぱいをガン見してはぁはぁしちゃって、みっともないわ❤,See? Every man becomes completely captivated.❤ Staring at my tits and panting like that; how disgraceful.❤
+特におっぱいにメロメロなあなたには効果ばつぐんみたいね❤\nおっぱいを手で持って揺らせば、\nそれに合わせてチンポもひくひく❤,It seems especially effective against someone head over heels for breasts like you.❤ When I lift and bounce my tits with my hands; your cock twitches in response.❤
+あはは、おっぱいの言いなりね❤\nそのまま興奮するだけ興奮してそこで漏らしてしまいなさい❤,Ahaha; you're completely at my breasts' mercy.❤ Just get as aroused as you can and spill everything right here.❤
+ほら、男はみんな釘付けになっちゃう❤\nおっぱいをガン見してはぁはぁしちゃって、みっともないわ❤くすくす❤,See? Every man becomes completely captivated.❤ Staring at my tits and panting like that; how disgraceful.❤ *Giggle*❤
+おっぱいで天国見せてあげる❤\n挟まれた瞬間、腰がとろけるサキュバスおっぱい❤\n避けちゃダメよ？ほらっ・・❤,I'll show you paradise with my breasts.❤ The moment they wrap around you; these succubus tits will melt your hips.❤ Don't even think about dodging; hora...❤
+くすくす❤ほんとにパイズリされちゃうんだぁ❤\nもうわたしたちに完全にメロメロね❤おっぱい誘惑さえしてあげれば、\n武器も構えなければ、逃げもしない❤,*Giggle*❤ You're really accepting a titfuck.❤ You're completely head over heels for us now.❤ All we had to do was tempt you with our breasts; and you won't even ready your weapon or try to escape.❤
+そのままじっとしてなさい❤\nおっぱいでチンポを完全に包んで、ぜぇーんぶズリズリ❤ズリズリ❤\n腰が抜けるまで何回もやってあげる❤,Stay right there.❤ I'll completely wrap your cock between my tits and stroke every inch of it.❤ Stroking it and pumping it~❤ I'll do this over and over until your legs give out.❤
+あっという間にチンポひくついて\nあぁん、もう出ちゃう❤気持ちよくて射精しちゃう❤\nくすくす❤早漏ぼうやをイかせるのは簡単ね❤ほら、イケ❤ザコ❤,Your cock's already twitching so fast; and ahhn~ you're going to cum already!❤ It feels so good you can't help but ejaculate.❤ *Giggle*❤ Making a premature ejaculator boy like you cum is so easy.❤ Come on; cum for me!❤ Loser.❤
+ああん、逃げなくてもいいじゃない。\n挟まれたらほんとに気持ちいいのに❤\n一回擦るたびに、腰から下が快感でふにゃふにゃに蕩けて・・・。,Ahhn; there's no need to run away. It'll feel really good once you're between them.❤ With every stroke; the pleasure will melt everything below your waist into mush...
+最初は闘志に溢れていた男でも、チンポずられて\nすぐにおっぱいのことしか考えられなくなっちゃう❤\n気持ちいい❤気持ちいいってそれしか言えなくなるのよ❤,Even men full of fighting spirit at first become unable to think about anything but my tits once their cocks get rubbed.❤ All they can say is "it feels so good~❤" over and over.❤
+ねえ、あなたもおっぱいで壊されてみたいわよね❤\n避けないでパイズリされなさい❤\nほら、腰に押し付けてむにゅー❤,Hey; you want to be broken by my breasts too; don't you?❤ Don't avoid it; let me give you a titjob.❤ Come on; I'll press them against your hips; squish~❤
+ねえん、ふとももが太いのって好き？\n太いのはいやだーって男もいるけど、\n意外とムチムチしている方が人気があるのよね。,Hey; do you like thick thighs? Some guys say they don't like them being too thick; but surprisingly; plump ones are more popular.
+まあ人気があろうがなかろうが、チンポ捕まえちゃえば一緒❤\nふとももでチンポ挟んでむぎゅっと圧迫してぇ\nそのまま上下にしごいてあげれば、どんな男でも骨抜きになるの❤,Well; whether they're popular or not doesn't matter once I catch your cock.❤ I'll trap your dick between my thighs and squeeze it tight; then stroke it up and down until any man becomes putty in my hands.❤
+細い脚が好きって人間も、むっちりした女の感触に包まれて、\nすぐに射精するのよ❤\nあなたにもほら、わたしの脚の魅力を教えてあげる❤,Even guys who say they prefer slender legs end up cumming right away when wrapped in a voluptuous woman's touch.❤ Here; let me show you the appeal of my legs.❤
+くすくす❤チンポ、そんなに勃起させて痛くないの？\nガチガチに固くなったそれ、わたしがお口でふやかしてあげるわ❤,*Giggle*❤ Doesn't it hurt having your cock so erect? Let me soften up that stiff thing between your legs for you with my mouth~❤
+んっ、じゅるじゅぽっ❤じゅぷ、じゅるるぅ❤\nんふ、口の中気持ちいいでしょ？サキュバスの唾液は媚薬成分入り❤\n敏感チンポサキュバスのフェラテクで刺激されて、もうたまらない？,Mmm; slurp schlup~❤ shlurp; schluuurp~❤ Mmph; feels good inside my mouth; doesn't it? A succubus's saliva contains aphrodisiacs.❤ Your sensitive cock is being stimulated by a succubus's blowjob techniques. You can't take it anymore; can you?
+あは、先っぽが膨らんできた❤\n今にもイキそうなこの先っぽ、唇すぼめてチューって吸ってあげるわ❤\nほらぁ、お口の中にエナジー出しなさぁい❤んっ、じゅるるぅ❤,Aha; the tip's swelling up.❤ I can feel it about to cum any second now; I'll purse my lips and suck on it.❤ Come ooon; release your energy into my mouth~❤ Mmm; schluuurp~❤
+あらら、魅了されて、体が動かないの？\n頭がふわふわして、女の子の体から目が離せなくなって、\n「魅了状態」って不思議な感覚よね❤,Oh my; you're charmed and can't move your body? Your head feels fuzzy; and you can't take your eyes off a girl's body... "Charmed status" is such a strange sensation; isn't it?❤
+ほら、身動き取れないところに、\n追い討ちの投げキッス❤\nもっと頭の中ふわふわさせてあげる❤んっちゅ❤,Look; while you can't move; I'll follow up with a blown kiss.❤ I'll make your head even fuzzier.❤ Mwah~❤
+ねえ、わたしにチンポ扱かせて？\nサキュバスって手コキのテクも、すごいのよ❤,Hey; let me stroke your cock? Succubi are amazing at handjob techniques too.❤
+力を込めて握ったりせず、指はそっと触れるだけ・・・❤\nその状態でふわって軽く扱いてあげるの❤\nそれだけで男のチンポは夢心地❤,Without gripping hard; my fingers will just gently touch it...❤ In that state; I'll lightly stroke it.❤ That alone makes a man's cock feel like it's in heaven.❤
+さっきまで怖い顔してた男も、ちょっと優しくシコシコされただけで\nうっとりした顔でわたしのこと見てくるの❤\n早く射精させてぇっておねだりするみたいに、ね❤,Even guys who had scary faces just moments ago look at me with entranced expressions after being gently stroked a little.❤ Like they're begging me to let them cum quickly; you know?❤
+あなたも今そんな顔してるわ❤くすくす❤\nさあ、話を聞くだけじゃ切なかったでしょう？\nわたしの手であなたのチンポ、気持ちよく抜いてあげる❤,You're making that face right now too.❤ *Giggle*❤ Now then; just listening must have been frustrating; right? I'll make your cock feel good and milk it with my hands.❤
+くすくす❤敵に向かって、「気持ちよくしてぇ」って言っちゃうんだ❤\nわたしのマスターに負けたら、恥ずかしい思いをするっていうのに…❤,*Giggle*❤ You're actually saying "make me feel good" to your enemy?❤ Even though losing to my master will be so embarrassing for you...❤
+わたしのエロい体を前にして我慢できずにおねだりするんだもの❤\nふふ、無敗のルーキーなんて名前だけね❤\n実際は快楽に負けちゃうただの男の子❤,You can't help but beg when faced with my erotic body.❤ Hehe; that "undefeated rookie" title is just a name.❤ In reality you're just a boy who loses to pleasure.❤
+くすくす❤敵に向かって、「気持ちよくしてぇ」って言っちゃうんだ❤\n名誉Bランク相手に負けたら、\nあなたのマスターが恥ずかしい思いをするっていうのに…❤,*Giggle*❤ You're actually saying "make me feel good" to your enemy?❤ If you lose to an honorary B-rank opponent; your master will be so embarrassed...❤
+わたしのエロい体を前にして我慢できずにおねだり❤\nふふ、こんなスケベな手下しかいないなんて\n無敗のルーキーくんがかわいそうね❤,You can't help but beg when faced with my erotic body.❤ Hehe; poor undefeated rookie boy; having such perverted subordinates.❤
+ほら、何をしてほしいか言ってみなさい❤\nわたしにどうやって搾りつくしてほしいのかしら❤くすくす❤,Hey; tell me what you'd like.❤ How do you want me to milk you dry?❤ *Giggle*❤
+サキュバスの胸技,Succubus Breast Arts
+サキュバスの弄び,Succubus Play
 なんでも,You decide
-うふふ❤わたしのおっぱいで気持ちよくなりたいの？\nいいわよ❤男を骨抜きにするサキュバスおっぱいで、\nあまぁい天国を見せてあげる❤,
-そう、わたしにたくさん弄んでほしいの❤\nわたしのこの色気たっぷりの体で、❤\nあまぁい天国を見せてあげる❤,
-うふふ❤びくんって腰を突きだして、谷間の奥にナカダシ❤\nザコってバカにされながら、こんなにたくさん出しちゃった❤,
-サキュバスのパイズリはたまらなく気持ちよかったでしょ？\n自分からおねだりしてよかったわね❤くすくす❤,
-あは、おっぱいに向けてどぴゅどぴゅ～❤\nおっぱい揺らされてるだけで、我慢できずにこんなに射精しちゃった❤,
-ずいぶん弱いチンポなのね❤\nまあ自分からおねだりしちゃうような子のチンポなんて、\nこんなものかしら。くすくす❤,
-んっ、ごくん・・・❤エナジーご馳走様❤\nカチカチのチンポ、すっかりふやけさせられちゃったわね❤\nわたしのフェラ、気持ちよかったでしょ？,
-あは、唾液まみれになったチンポがまだヒクヒク震えてる❤\n死ぬまで搾りつくしてほしいのよね❤でも闘技場じゃこれでおしまい。\nくすくす❤,
-ふふ❤ムチムチのふとももにすり潰されて、\nおチンポびゅくびゅく❤っておもらし❤\nあっけなくイかされちゃったわね❤,
-ほどよい肉付きで挟まれて、あひぃ幸せぇってなれたでしょ？\nあは、いい蕩け顔してるじゃない❤\nすっかりサキュバスのふとももの虜みたいね❤,
-ふふ❤ほら、言ったとおり、\nふんわり手コキで簡単にイかされちゃったわね❤\nわたしの細い指で優しく扱かれて、腰がとろけそうだったでしょ❤,
-あらあら❤投げキスされただけで射精しちゃった❤\n目にハートを浮かべて、アヘアへ言っちゃっててみっともない❤\nくすくすくす❤,
-う、ううっ・・・。,
-くすくす❤なあに？さっきは我慢できたのに、\nもう限界が来ちゃった？,
-わたしに谷間見せられて我慢して、\n「ああやっぱりシコシコしておけばよかった」って後悔しちゃったのかしら❤\n一回抵抗してから負けに来るなんてとっても情けないわ❤,
-サキュバスの前でオナニーするなんて命知らずね❤\nわたしのからだでムラムラしちゃった？くすくす❤,
-って、なにそのオナニー❤\nまるでオナニーになってないんだけど、あははは❤,
-だって❤すぐに、出ちゃいそうで・・・❤ううっ・・・❤,
-呪いのせいでおちんちんがよわよわだものね❤\nシコシコしたら直ぐに漏らしちゃうからって、\n手をゆっくり動かすことしかできない❤,
-そんなザコチンポ、これで十分よね❤\nほら、おっぱいを両手で持って・・・・❤,
-下から上に、１回ゆさっ❤,
-はひぃっ、だめ、あっ、ああっ・・・❤❤,
-あぅぅっ・・・❤,
-くすくす❤乳揺れ１回で速攻射精❤\nおチンポ弱すぎよ❤その辺の村人よりも弱いんじゃないの？\nぷっ、くすくすくす❤,
-Ｂランクの強いマスターなのに\nおチンポたっぷり弱くされて、こんな軽い刺激で射精しちゃうなんて、\nあはは、これは一生笑いものにされちゃうかもね❤,
-他の人もわたしにエナジー貢ぎに来ちゃう？\nサキュバスだもの、精液いっぱいくれる人は大好きよ❤\nその人にもおっぱいでサービスしてあげる❤,
-ま、サービスって言っても、\nおっぱい１回揺らすだけかもしれないけど❤\nふふ、次の人は少しは我慢ができるのかしら❤,
-あらあら、武器を捨てておチンポシコシコ始めちゃった❤\nわたしのセクシーな体をなめまわすように見て、\nもうたまらないって感じかしら❤,
-あなたはどこが好きなの？ぷっくりした唇に、やわらかそうな谷間❤\nぷりんとしたお尻に、肉付きのいいふともも❤\nどれをとっても男の子を夢中にさせちゃうエローいボディでしょ❤,
-わたしのマスターは上級モンスターも出せないカードの初心者。\nそれなのに、エロい格好のモンスター使われただけで、\n自分からしこしこしこ❤,
-Bランクのつよぉーいマスターくんが、\nザコマスターのザコモンスターに負けちゃう❤\nおチンポ触るの気持ちよくてやめられない❤,
-Bランクのつよぉーいマスターのモンスターなのに、\nザコマスターのザコモンスターに負けちゃう❤\nおチンポ触るの気持ちよくてやめられない❤,
-ぷっ、くすくすくす❤\nすごく滑稽ね。あなた❤\n男ってやっぱり、バカしかいないのかしら。,
-あら怒った？\nそれじゃあほら、お・わ・び❤,
-あなたの前で、谷間を寄せてあげる❤\nあはぁーん❤,
-くすくす❤手の動きが早くなった❤\nほんと分かりやすいわね❤\nサキュバスおっぱい見せつけられたら、何も考えられなくなっちゃう❤,
-ねえ、知ってると思うけれど、\nあなたの首にかけられたそのペンダント、\nあなたがオナニーして負けちゃうと、こっちの手元に返ってくるのよ？,
-あなたの他の仲間がまた同じように\nペンダントで行動不能にされちゃうの。\nそんなの絶対避けないといけないわよね。それなのに❤,
-おチンポシコシコやめられない❤\n谷間をむぎゅうってされたら、\nバカみたいに手を動かしちゃう❤,
-あはは、仲間のこと裏切って最悪ね❤\nそんなにこのおっぱいがいいの？\nほら・・・❤,
-わたしにエナジーをあげたらダメージを回復されちゃうのに、\nシコシコシコシコ、気持ちよくて、\n精液お漏らしすることで頭いっぱい❤,
-もしこれが本当の戦場だったら、\nあなたのせいで仲間のマスターが何人もやられちゃうかもしれないわ。\nくすくす❤最低の裏切り者ね❤,
-マスターが信頼してあなたを召喚してくれたのに、\nサキュバスおっぱいに勝手に負けて、エナジーお貢ぎ❤\nくすくす❤最低の裏切り者ね❤,
-そんなにこのおっぱいがいいの？\nほら・・・❤,
-とびっきりのオカズを提供してあげる。\nおっぱいを両手で持って、ゆさゆさ❤ゆさゆさ❤\n揺らしてあげれば・・・❤,
-うあっ、ああっ、エロすぎるっ❤❤,
-くすっ❤鼻息荒くしすぎよ❤\nほら、揺らしながら声もおまけしてあげる。\n一回揺らすごとに、あん、あん、あん❤ってエッチな喘ぎ声❤,
-体を触られてすらいないんだもの。ただの演技だって丸わかりなのに、\n女の子がわざとらしい声を上げると、\nおチンポ反応しちゃうのよね❤,
-あん❤あん❤あん❤\nあなたのカッコいいおチンポで感じちゃう❤\nあ～ん❤,
-あっ、あっ、もうっ・・・❤,
-うふふ❤乳揺れと嘘の喘ぎ声で自滅射精❤\nとってもみじめていいと思うわ❤\nほら、イキなさい❤,
-サキュバス様のおっぱいめがけて、エナジー出すのよ❤\nあん、あん、あはぁーん❤,
-はひぃ、きもちいいぃ・・・❤,
-うふふっ、早漏のくせに量は多いのね❤\n谷間に貯まるぐらいたくさん出して、\nんっ、おいし♪おかげで体力全回復ね❤,
-これであなたは敗北。名誉Ｂランクにオナニーなんかで負けて、\nこの先恥ずかしくて外も歩けないんじゃないかしら。\nくすくす❤,
-くすくす❤さっきは谷間見せられても耐えたのに、\n仲間のオナニー見てたら、我慢できなくなっちゃった？,
-早漏チンポ必死にこらえて「頑張って勝つんだ」って思ってたのに\n横にいる仲間がシコシコ始めちゃったんだものね❤\nああ、自分も気持ちよくなりたいってなるのも無理ないわ❤,
-仲間が裏切って、その裏切りが次の裏切りを呼んで、\nどんどんサキュバスに寝返っちゃう❤\nとっても人間らしくて浅ましくて、素敵じゃない❤くすくす❤,
-って、あは、あなたもそんなへっぽこオナニーしちゃうんだ❤\nまるでオナニーになってないんだけど、あははは❤,
-だって❤すぐに、出ちゃいそうで・・・❤,
-呪いのせいでおちんちんがよわよわだものね❤\nシコシコしたら直ぐに漏らしちゃうからって、\n握ってゆっくり動かすことしかできない❤,
-ふふ、あなたもわたしの体をオカズにしたいの？\n武器を捨てておチンポしこしこ❤しこしこ❤\nわたしのセクシーな体にはぁはぁ興奮しちゃってる❤,
-来ていいよ～❤って甘い声で誘われたら、\n敵のモンスターのところに本当に来ちゃうんだもん❤\nホイホイ言いなりになって、女の子への免疫がないのね❤くすくす❤,
-強いはずの無敗のルーキーくんも、全然怖くないわ❤\n仲間と一緒にオナニーしこしこ❤あーん気持ちいいって顔をとろけさせて、\nその辺の村人と変わらない❤,
-どれだけ強い魔力があっても関係ないわよね❤\nおチンポ握るのに忙しくって、カードなんて使えないんだもの❤\nぷっ、くすくす❤まぬけすぎ❤,
-Bランクマスターの強いモンスターなんだから、\nこんな誘惑ぐらい跳ね除けて、カッコよく戦えばいいのに❤\nご主人の命令を無視してお貢ぎオナニー❤信頼を裏切ってさいてーい❤,
-男ってやっぱり、バカしかいないのかしら。\nおチンポ触るためなら、忠義心もプライドもぜんぶ捨てちゃう、\n頭空っぽのバカばっかり❤,
-くすくす❤手の動きがとっても早い❤\nほんと分かりやすいわね❤\nサキュバスおっぱい見せつけられたら、何も考えられなくなっちゃう❤,
-あなたの他の仲間がまた同じように\nペンダントで行動不能にされちゃう❤\nそんなの絶対避けないといけないのに・・・❤,
-おチンポシコシコやめられない❤\n谷間をむぎゅうってされたら、バカみたいに手を動かしちゃう❤\nしこしこしこしこ、あーん気持ちいい～❤,
-わたしにエナジーをあげたらダメージを回復されちゃうのに、\nシコシコシコシコ、気持ちよくて、\nどんどん自滅しちゃうわね❤,
-こんなに回復してもらえるなら、わたし一人で十人でも二十人でも\nあなたたちを倒せるかも❤\n男の子って束になってもサキュバス一人にかなわないんだ。ぷっ、くすくす❤,
-とびっきりのオカズを提供してあげる。\nあなたもこれが見たかったんでしょ？おっぱいを両手で持って、\nゆさゆさ❤ゆさゆさ❤揺らしてあげれば・・・❤,
-ただの演技だって丸わかりなのに、\n女の子にわざとらしい声を上げられると、\nおチンポ反応しちゃうのよね❤,
-あん❤あん❤あん❤\nあなたのカッコいいおチンポで感じちゃう❤\nあ～ん❤おっぱい見てぇ❤,
-はひぃっ❤ああっ❤はぅ、もうっ・・・❤,
-うふふっ、早漏のくせに量は多いのね❤\n谷間に貯まるぐらいたくさん出して、\nんっ、あなたの精液もおいし♪おかげで体力全回復ね❤,
-ああん、もうやめて❤\nこれ以上攻撃されたらやられちゃうわ・・・。,
-ほら、よく見て❤\nわたしを倒しちゃったらこのおっぱいが見れなくなるのよ？,
-この爆乳おっぱいが作るふかーい谷間も❤\nちょっと動くだけでぷるぷる揺れるエロい光景も❤,
-もっともっと見ていたいでしょう？\n素直になってぇ・・・❤,
-うう・・・❤ごくっ・・・❤,
-そうそうその調子❤あなたの大好きなおっぱい❤\n見てるだけで隙だらけになっちゃうくらい魅力的でしょ❤うふふ・・・❤,
-理性を振り絞ってとどめをさした,
-目が離せなくなってしまった,
-きゃあん❤ううっ、おっぱい気持ちいいのよ・・・。\n楽しめばいいのに・・・。,
-ああ・・・❤おっぱいぃ・・・❤,
-くすくす❤わたしを追い詰めてたのに、\nもう我慢ギリギリだったのかしら。\nほら、一歩も動けなくなったあなたに、特別サービス❤,
-やわらかーいおっぱいでチンポがおっぱいに埋まる完全包囲パイズリ❤\nさらにエナジードレインもおまけしてあげる❤,
-腰が抜けるほどの快楽に溺れてしまいなさい❤\nほらほらほら❤,
-あひっ、あっ、ああっ❤❤,
-ふふ、サキュバス相手に心のバリアを解いたら絶対にダメよ？\n普段はバリアがあるからあなたも辛うじて我慢できるの。\nもしバリアを解いてしまったら・・・❤,
-今のあなたみたいに、喘ぎ声あげることしかできなくなっちゃう❤\nサキュバスの気持ちよすぎるパイズリで、\n何にもできなくされちゃう❤,
-チンポ気持ちよくてたまらないでしょ？\nわたしの爆乳に飲み込まれて、上下にたぷたぷたぷ❤\n根元から全部可愛がられちゃう❤,
-ねえほらぁ、早くサキュバスおっぱいに降参してぇ❤\n勝ちそうだったのに～、谷間見せられただけで\n逆転負けしてぇ～❤,
-ああっ、だめっ❤こんなの耐えられないっ❤,
-ふふ、どぴゅーって勢いよく射精できるように、\n最後は先っぽを重点的にいじめてあげる❤,
-ほら、おっぱい上に持ち上げてぇ～❤\n敏感な亀頭をぐちゅぐちゅぐちゅ♪\n高速で上下に擦ってあげればー・・・❤,
-はひぃっ・・・❤,
-うふふ❤先端をごしごしって責められて、\n噴水みたいに射精しちゃったわね❤\nサキュバスのパイズリテクは最高だったでしょ❤,
-せっかく頑張ってわたしの体力を減らしたのに、\nほら、パイズリで搾り取られて体力全回復❤\n男の子ってやっぱり弱い生き物ね。くすくす❤,
-もっともっと見ていたいでしょう？\n・・・見る訳ない？仲間がやられてるから？\nそんな事言っても・・・❤,
-こうやって服をはだけて、\nうふ～んって谷間を寄せてあげるだけで、\nふふ、イチコロよね❤,
-くすくす❤あなたもおっぱいの虜になっちゃったわね❤\nほら、見惚れて一歩も動けなくなったあなたに、特別サービス❤,
-ああん、強いのね、あなた❤\n非力なわたしじゃ、まともに戦って勝てそうにないわ。,
-でもほら、こうしてあげたらどうかしら・・・❤\nあはぁーん❤,
-服をずらして、わたしの生おっぱい♪\nうふふ❤揺らしてあげるから、好きなだけ見ていいのよ❤,
-やっぱり男の子っておっぱいには弱いのね❤\nほら、見惚れてるあなたの頭をおっぱいでむぎゅう❤,
-そのまま、ぱふぱふ❤ぱふぱふ❤,
-はうっ、あっ、ああっ❤❤,
-うふふ❤おっぱいやわらかいでしょ？\nあなたはこんな柔らかいだけの塊に負けちゃうのよ❤,
-ぱふぱふ❤ぱふぱふ❤って何回もされて、\n全身びくびくって気持ちよくなって、\nそのままエナジーを射精しちゃうの❤,
-ほら、もう武器も持てなくなって、\nカランって床に落としちゃった❤\nくすくす❤あとちょっとで勝てそうだったのにね❤,
-おちんちんわたしのふとももにこすりつけてもいいわよ❤\nぱふぱふで気持ちよくなりながら、\nこのむっちりしたふとももにおちんちん挟まれちゃいましょ❤,
-うふふ❤腰をぐんって突き出して、\nあん、おチンポ入ってきた❤\nそれじゃ、気持ちよくイかせてあげる❤,
-顔を抱き寄せながら、ぱふぱふ❤ぱふぱふ❤\nふとももも締めて、軽く左右交互に、すりすりすり・・・♪,
-あひぃっ、あっ、あっ、あああっ❤❤❤,
-くすくすくす❤男なんてチョロいものね❤\nおっぱい見せてあげたら、すぐに負けちゃう❤\nこんなにエナジーをごちそうしてくれて、体力も元通りだわ❤,
-顔を挟まれながらふとももでいじめてもらえるなんて、\n最高の快楽だったでしょう？\n人間がサキュバスに勝てるわけないのよ❤,
-くすくす❤サキュバスとの実力差、体に教え込まれちゃったわね❤\nおっぱい一回揺らしただけでイっちゃうザコマスターくん❤,
-わたしの甘い声で脳みそ蕩けさせられちゃった❤\nくすくす❤オナニーなんかで負けたのに\n気持ちよさそうな顔しちゃって、情けないのね❤,
-おっぱいに見惚れたせいで、\nパイズリされて逆転負け❤\n人間の男らしい、カッコ悪い負け方ね。くすくす❤,
-生おっぱいでたっぷりぱふぱふしてもらえてよかったわね❤\nこんな簡単に逆転勝ちされちゃうなんて、\n人間の男って本当に単純❤くすくす❤,
-あは❤おっぱい見てるだけでびゅくびゅくびゅく❤\nチンポこらえきれなくて射精しちゃった❤\n今さら手で押さえても、精液漏れるの止まらないわよ。くすくす❤,
-うふふ❤サキュバスの爆乳であっという間に骨抜き❤\n人間の男の子には、わたしのおっぱいは強すぎたみたいね❤,
-あは、吸われるがままびゅるるぅってたくさん出てきた❤\nんっ、ごくっ・・・❤\n魔力が濃くておいしいわ❤さすがはBランクのマスターね❤,
-わたしのフェラ、足腰立たなくなるぐらい気持ちよかったでしょ？\nふふ、地面に崩れ落ちしまったわ❤,
-むっちりしたふとももに押しつぶされて、チンポから精液がどぴゅどぴゅ～❤\nくすくす❤全然耐えられないで搾り出されちゃったわね❤,
-テクなんて使わなくてもわたしのエロい体で挟んでこすれば、\n男の子なんて簡単に倒せちゃうわ❤\nサキュバスの体の気持ちよさ、よーく分かったでしょう？ふふ❤,
-はい❤投げキスで追い討ちされて、どぴゅどぴゅー❤\nくすくす❤チンポ触られてないのに、\nこんなにたくさん射精しちゃったわ❤,
-ふふ、優しい手コキなのに、全然耐えられなかったわね❤\n他の男と同じように、とっても情けない顔してたわよ？\nくすくす❤,
-決着ー！！勝者はリュカ・シャルロット選手！,
-まさか、まさかの結末です！\nあの無敗のルーキーが、ぽっと出の「名誉」Ｂランクに敗北！！,
-レアなサキュバスカードが大量に投入されたシャルロット選手のデッキ、\nこれがその力ということなのでしょうか！,
-結局、ものを言うのは実力よりも財力なのか！\n下馬評を覆しての勝利に、シャルロット選手、にんまりと得意顔です！\nうおー、これは悔しい！立ってくれ、われらの無敗のルーキー！,
-きゃはは❤むりむり、無敗のルーキーはもうサキュバスの虜❤\nファンがいくら「がんばれー」って応援したところで、\n完全に骨抜きになってるの❤,
-Bランクマスターなんて言ってもたいしたことないわねー。\nこんな下級モンスターだけのデッキにぼろ負けして、\nぷぷっ、アンタら普段から真面目にバトルしてるの？よわーい❤,
-あぐうぅ・・・❤,
-あらあら❤わたしの方をぼーっと見て、\nまだまだこの体で搾り取ってほしいの？,
-わたしのぷるぷるの唇に、大きくてやわらかいおっぱい❤\nむっちりしたふとももに、ぷりんとしたお尻❤\n男の子を虜にしちゃう最高のカラダでしょ❤,
-あはぁーん❤もっと見ていいのよ❤\n精巣ぐつぐつさせて、\nルーキーくんの濃い魔力、もっともっとわたしに出してぇ❤,
-きゃはは❤\nわたしにバカにされて悔しいくせに、\nサキュバスの体から目を離せないんだ❤,
-あの子が体をくねらせるたびに、\nチンポもびくんびくんって動かしちゃってさ、\nぷぷ、ほんと恥ずかしい生き物ね❤,
-ほら、無敗のルーキー❤\nアンタにわたしとの実力の差を教えてあげる❤\n試合前に会場で散々バカにされた分、たっぷりとね❤,
-そういってシャルロットはサキュバスに攻撃指示を出した。{自分}はじりじりとこちらに近づいてくるが、僕は逃げることができない。,
-それどころか、彼女の妖艶な体に見惚れて、距離が縮まるにつれ、さらにペニスを固くしてしまっていた。,
-くす❤すっかりわたしに夢中ね❤\nほら、わたしの一番の武器、\nあなたの頭よりも大きなおっぱいで挟んであげる❤,
-はへぇっ・・・❤❤すごいっ、やわらかくてぇ・・・❤❤,
-あら、先っぽが膨らんでる❤もしかして・・・❤,
-あっ、あっ、だめぇ・・・❤もうっ❤❤,
-くすくす❤まさか挟んだだけでイっちゃうなんて、\n一回出したばかりなのに、全然耐えられないのね❤\nとても敏感で弱いおチンポ❤,
-普通は一回出したら少しは我慢できるようになるものよ？\nそれなのに、あなたはむしろ弱くなって、\n挟まれただけですぐに射精❤,
-わたしにかけられた呪いのせいかしら。\nチンポを弱くする呪いをかけたままにしてたものね。\nごめんなさい❤,
-ほら、おわびに・・・・❤,
-あなたのおチンポもっと弱くしてあげる❤\nえい❤,
-くす❤すっかりわたしに夢中ね❤\n気持ちよくしてあげる前に、まずは、ほら、\nわたしの力を見せてあげるわ❤,
-心のバリアが解けてる相手にだけかけられる特別な呪いよ❤\nおチンポをとっても弱い早漏チンポに変えてしまうの❤\nあなたの下腹部に向かって大きなハートを、えいっ❤,
-あうぅっ、なに、これっ・・・❤\nあっ、だめっ、なんで勝手にヒクヒクしてっ・・・❤,
-ああっ、精液出ちゃうっ、なんで、なんでぇ・・・❤,
-うふふ❤無駄撃ちさせるのもかわいそうね❤\nおっぱいに挟んだ状態でどぴゅってさせてあげる❤,
-はへぇっ・・・❤❤すごいっ、やわらかいぃ・・・❤❤,
-うふふ❤どう？びっくりするぐらいおちんちん弱くなってるでしょ❤\n快感が強くなるだけじゃない、とにかく射精を\nこらえることができなくなる呪いなのよ❤,
-１回射精してもすぐに新しい精液が上ってきて、\n次々にどぴゅどぴゅ、どぴゅどぴゅ❤\n男の子にとってこんな幸せな状態はないわよね❤,
-あっ、あっ、ああっ、だめっ❤あひぃっ・・・❤,
-くすくす❤早漏の呪いを重ねがけされたせいで、\nわたしのそばにいるだけでチンポビクビク反応しちゃうんでしょ？\nただでさえ弱いチンポがもっともっと弱くされちゃう❤,
-先っぽにキスされただけでびゅーびゅー❤\n指でなでただけでびゅーびゅー❤\n最後には息をかけただけで、びゅーって漏らしちゃうようになるわ❤,
-ねえ、いまの状態で、\nもし、ずりずりずり～って激しくパイズリされたら\nどうなっちゃうと思う？,
-ほらやってあげるわ❤\nあなたの腰を引き寄せて・・・❤\nおっぱいにおかえり❤ぱっくん❤,
-あひぃっ・・・❤❤だめっ、きもちいいっ、あぐぅうっ❤❤,
-はいはい❤気持ちいいのは分かってるわ❤\nでも今度は解放してあげないわよ❤,
-精液ですべりが良くなった状態でぐちゅぐちゅにズリ潰してあげる❤\nほら❤,
-あっ、ああっ、さっき出したのにっ❤また昇ってきてっ❤❤はひぃっ❤,
-くすくす❤早漏チンポ、ズればズるほど射精しちゃうわね❤\nおっぱいが２、３往復するたびに、どぴゅどぴゅ❤どぴゅどぴゅ❤\n湧き水みたいにどんどん出てきちゃう❤,
-この呪いは男の子を精液家畜に変えるときにも使うの❤\nチンポを弱くして搾りやすくして、\nそのうえ射精回数をぐんと増やしちゃう❤,
-その分、あなたの筋肉とか魔力とか、\nそういうものが精液に変えられちゃうけれど・・・❤\nふふ、別にいいわよね？こんなに気持ちいいんだもの❤,
-あは、言ってるそばからまた射精してる❤\n何回も連続で絶頂して、頭の中大丈夫？\n快感で焼き切れそうになって、意識が真っ白になりそうなんじゃない？,
-口もあへぇってだらしなく半開き❤\n闘技場での試合だってことも忘れて、\nどぴゅどぴゅ、どぴゅどぴゅ射精することしか考えられないわね❤,
-ふふふ、あなたが出した精液をドレインして、\nわたしの力に変えてあげるわ❤\nほら・・・❤,
-あぐっ❤❤あっ、あっ❤❤だめ、だめぇっ❤❤❤❤,
-ただでさえ気持ちいいわたしのおっぱい、\nもっと気持ちよくなって、チンポも大喜びね❤\nほらほらほら❤,
-あはは❤噴水みたいに射精してる❤\nすごいじゃない、\nわたしのおっぱいから飛び出す勢いで出せるだなんて❤,
-あなたの何もかも、この谷間に射精してしまいなさい❤\n力も名誉も、プライドも、\nぜーんぶサキュバスに吸われてしまうの❤,
-それが男にとって一番幸せな生き方なのよ。くすくすくす❤,
-うふふ、干からびて死にかけね❤\nこれ以上搾ったら闘技場の人に止められちゃうから、\nいまはこれでおあずけ❤,
-あら、ほとんど動かない手を伸ばして\nわたしの体に触れようとしてる。,
-くすくす❤そんな風にねだってもだめよ。\nそれじゃ、またいつか会いましょう？うふふ❤,
-その後、僕は闘技場の医務室で目を覚ました。カラカラになるまで魔力を吸われ、かなり危険な状態だったという。,
-普通の女モンスターと違いサキュバスは人間のエナジーを枯れ果てるまで吸うことができる。快楽に負けて彼女のされるがままになってしまったが、もしこれが闘技場でなかったら、すでに命はなかったかもしれない。,
-僕は快楽に流されてしまった自分を反省し、この負けた悔しさをバネにもっと強くなろうと心に決めたのだった。,
-次の日,
-まだ魔力が回復しておらずふらふらの状態だったが、僕は食料を買うために街に出ていた。,
-買い物が終わった帰り道、ふと見ると、一軒のお店の前で人だかりができている。あれはリュカ商会のお店だ。,
-どうやら、サキュバスカードを大々的に売り出しているようだ。かなりの高額だが、女性マスターたちに飛ぶように売れていた。僕を利用して宣伝するという戦略は大当たりしたようだった。,
-あら？誰かと思えば、昨日のマスターじゃない。\n「元」無敗のルーキーくんが何か用かしら？\nまたサキュバスに可愛がってほしくなっちゃった？くすくす❤,
-くっ・・・。,
-店頭で目ざとく僕を見つけたリュカ・シャルロットがケタケタと笑う。僕はそれを無視して店の前を立ち去ろうとするが・・・。,
-あら、つれないわね。\nでも、そんな態度取っても無駄よ。ほら・・・❤,
-わたしの胸を見なさい❤\n軽くジャンプして、ゆさ♪,
-なっ、あっ、ああっ・・・❤❤,
-彼女の胸に一瞬視線が行き、ほんのわずかに欲情してしまった、その直後、僕の股間に異常が襲った。,
-ただ胸をちょっと揺らされただけ、たったそれだけなのに、僕のペニスは一瞬でガチガチに勃起し、そして・・・。,
-うそだっ、あっ、だめっ、こんなところでっ❤❤,
-あひ、あへぇっ・・・❤❤,
-ぷっ、ぷぷぷっ❤\nあははは❤うそ信じられない❤\nアンタ、わたしがジャンプしただけで射精したわけ？,
-サキュバスにかけさせた呪いがどれぐらい残ってるか\n試そうと思っただけだったけれど、\n想像以上ね❤,
-チンポがむちゃくちゃ早漏になって治ってないんだ❤\nあは、これじゃこの先生きてくのも大変よ？\nだって、ほら・・・❤,
-腕で胸を寄せあげたりなんかしちゃったら・・・❤,
-あうっ、あっ、またのぼってきてっ❤❤,
-はひぃっ、だめ、とまらないっ❤,
-ぷぷぷ❤もうズボンべとべとじゃない❤\nサキュバスカードってホント強いわね。\n一日経ってるのにあの無敗のルーキーがこのざま❤,
-ほらー、サキュバスカードをお買い求めのみなさーん、\nここに昨日の無敗のルーキーがいますよー。\n見てください、今もわたしが速攻で勝っちゃいました❤,
-2回やって2回勝てる、昨日の勝利はただの運じゃなくて\nサキュバスカードの実力なんです♪\nさあさあ、どんどん買って行ってくださーい♪,
-ううっ、くそぉ、こんなの、バトルですらないのにぃ・・・❤,
-ふふ、バトルしたいのならしてあげましょうか？\n明日、またこの時間にこのお店に来なさい。\nそこで相手してあげる。,
-どうせ今日はもうびゅくびゅく射精して、\n魔力全部出しちゃったんでしょ？\nあは、1日待ってあげるなんて、わたしってばやさしい～❤,
-その後、僕はぐちょぐちょになってしまったズボンを隠しながら、人目を忍んで宿屋に戻ったのだった。,
-そして次の日・・・。,
-さあ、さあ、お待ちのみなさま。\n今日は特別デモンストレーションとして、\n店頭であの無敗のルーキーとサキュバスカードに戦ってもらいます。,
-お相手は、上級モンスターを召喚できない、\nFランクマスターのプラントさま。\n今回特別にシャルロットお嬢さまのカードをお貸ししてのバトルです。,
-元無敗のルーキーさんは、雪辱を果たせるのでしょうか。\nどうぞどうぞ、御覧になっていってください。,
-えっと、あの、よろしくお願いします。,
-約束した時間に店を訪れると、あれよあれよという間に急造の舞台の上に引き上げられ、気が付けば、僕は目の前のマスターと試合をすることになっていた。,
-リュカは、僕がこのマスターに勝ったあとに、試合をしてくれるという。いくらなんでも、僕がFランクマスターに負けるなんて、そんなこと・・・。,
-ええっと、メモによると、まずは、こうすればいいんですね。\n口を開けて、舌を出して、その前で指をしこしこしこ・・・❤,
-（ううっ❤ダメだ、興奮したら…❤\n耐えないと❤うぅぅっ❤）,
-くす❤こんな動きでそんなに前かがみになっちゃうんですか？\nサキュバスに負けたのは２日前なのに、\nまだ効果が残っているんですね。,
-ええと、次は隙だらけになっている間に、\nサキュバスのカードを召喚っと……♪,
-あはん❤また会ったわね、ルーキーくん❤,
-でも試合はもうおしまいよ。\nほら、んっちゅぱ❤,
-はひぃ、あっ、ああああっ❤こんなっ、投げキスだけでっ❤\nあひぃっ❤❤,
-あはは、すごい。たった一撃で倒しちゃいました❤\nあの無敗のルーキーさんが、こんなに簡単に・・・❤,
-いいですね、サキュバスのカード。\nわたしも欲しいです、もしデッキを全部サキュバスのカードにできたら\nわたしだってもっと上のランクに上がれるかも。,
-でもパックを買い求める前に、\nとりあえずリュカ様に貸していただいたこのカードを、\n存分に試させてもらいますね。,
-無敗のルーキーさん、天国のような時間を楽しんでくださいね❤\n{自分}３体で、相手プレイヤーを攻撃です！,
-あっ、あああっ、だめ❤❤きもちよすぎてっ、勝てないっ、勝てないっ❤❤,
-僕はチャームサキュバス３体に囲まれて愛撫され、頭の中がおかしくなるぐらいの快楽を与えられた。投げキスをされたり軽くおっぱいを押し付けられるだけでびゅーびゅーと精液を垂れ流し、まったく我慢することができなかった。,
-その後、３人がかりでパイズリとぱふぱふを同時にされたり、騎乗位で搾り取られるなど、本格的に快楽を与えられ干からびる寸前まで射精させられた。解放されたときにはすっかり脳が蕩けてしまい、表情はだらしなくゆるみきっていたという。,
-この様子を見ていたほかのマスターたちは、我先にとサキュバスカードを買い求めた。Fランクマスターが下級モンスターを出しただけで「無敗のルーキー」を圧倒したその光景は、彼女たちを購入にたきつけるのに十分すぎる内容だったのだ。,
-それからしばらくして。,
-僕はチャームサキュバスにつけられた早漏の呪いの後遺症に悩まされ、さらに街中の女性マスターたちがサキュバスカードを使うようになったせいで、まったくバトルに勝てなくなってしまった。,
-Bランクまで無敗だった僕は闘技場でも連敗するようになり、そのままDランクまで降格してしまった。今の僕はFランクやEランクのマスター相手でさえ、サキュバスカードを使われたらすぐに射精寸前に追い込まれてしまう。軽く撫でられるだけで耐えられない。,
-大きく弱体化してしまった僕は、きっとこのまま落ちるところまで落ちてしまうのだろう。ましてや、魔族領に行って妹を助けることなんて到底不可能になってしまった。,
-こうして僕は妹を救いに行くこともできず、女性に全く勝てない低ランクのマスターとして、その後の人生を過ごしていくことになるのだった。僕の物語はそこで幕を閉じた。,
-快楽に溺れている音❤サキュバスに命を食べられてる音❤\nとっても怖い、咀嚼音ね❤,
-くすくす❤乳揺れ１回で速攻射精❤\nチンポ弱すぎよ❤その辺の村人よりも弱いんじゃないの？\nぷっ、くすくすくす❤,
-{ランク名}ランクの強いマスターなのに\nおチンポたっぷり弱くされて、こんな軽い刺激で射精しちゃうなんて、\nあはは、これは一生笑いものにされちゃうかもね❤,
-{ランク名}ランクのつよぉーいマスターくんが、\nザコマスターのザコモンスターに負けちゃう❤\nおチンポ触るの気持ちよくてやめられない❤,
-{ランク名}ランクのつよぉーいマスターのモンスターなのに、\nザコマスターのザコモンスターに負けちゃう❤\nおチンポ触るの気持ちよくてやめられない❤,
-{ランク名}ランクマスターの強いモンスターなんだから、\nこんな誘惑ぐらい跳ね除けて、カッコよく戦えばいいのに❤\nご主人の命令を無視してお貢ぎオナニー❤信頼を裏切ってさいてーい❤,
-(うう、なんだこれ、頭の中に映像が浮かんできて・・・❤),
-（くすくす❤くすくす・・・❤）,
-(あうう、声も頭の中に響いてくる・・・❤\nおっぱいが笑い声といっしょに揺れて、はひぃ・・・❤),
+うふふ❤わたしのおっぱいで気持ちよくなりたいの？\nいいわよ❤男を骨抜きにするサキュバスおっぱいで、\nあまぁい天国を見せてあげる❤,Ufufu.❤ So you want to feel good between my breasts? Fine by me.❤ I'll show you sweet heaven with these succubus tits that drain men of their will.❤
+そう、わたしにたくさん弄んでほしいの❤\nわたしのこの色気たっぷりの体で、❤\nあまぁい天国を見せてあげる❤,I see; so you want me to toy with you that badly.❤ Then I'll show you sweet heaven with this seductive body of mine.❤
+うふふ❤びくんって腰を突きだして、谷間の奥にナカダシ❤\nザコってバカにされながら、こんなにたくさん出しちゃった❤,Ufufu.❤ Your hips thrust forward as you came deep inside my cleavage.❤ You came so much while being called a weakling.❤
+サキュバスのパイズリはたまらなく気持ちよかったでしょ？\n自分からおねだりしてよかったわね❤くすくす❤,A succubus's paizuri feels incredible; doesn't it? You should feel relieved that you begged for it.❤ *Giggle*❤
+あは、おっぱいに向けてどぴゅどぴゅ～❤\nおっぱい揺らされてるだけで、我慢できずにこんなに射精しちゃった❤,Aha! Spurting all over my tits~❤ Just having them bounce around your cock was enough to make you cum this much.❤
+ずいぶん弱いチンポなのね❤\nまあ自分からおねだりしちゃうような子のチンポなんて、\nこんなものかしら。くすくす❤,What a weak dick you have.❤ Well; I suppose that's to be expected from someone who'd beg for this kind of thing. *Giggle*❤
+んっ、ごくん・・・❤エナジーご馳走様❤\nカチカチのチンポ、すっかりふやけさせられちゃったわね❤\nわたしのフェラ、気持ちよかったでしょ？,Mmm; gulp...❤ Thanks for the meal.❤ Your rock-hard cock has gone completely limp; hasn't it?❤ My blowjob felt amazing; didn't it?
+あは、唾液まみれになったチンポがまだヒクヒク震えてる❤\n死ぬまで搾りつくしてほしいのよね❤でも闘技場じゃこれでおしまい。\nくすくす❤,Aha! Your saliva-covered dick is still twitching.❤ You want me to drain you until you die; right?❤ But this is an arena; so this is where it ends. *Giggle*❤
+ふふ❤ムチムチのふとももにすり潰されて、\nおチンポびゅくびゅく❤っておもらし❤\nあっけなくイかされちゃったわね❤,Fufu.❤ Crushed between my thick thighs; your dick spurted everywhere.❤ You came so easily; didn't you?❤
+ほどよい肉付きで挟まれて、あひぃ幸せぇってなれたでしょ？\nあは、いい蕩け顔してるじゃない❤\nすっかりサキュバスのふとももの虜みたいね❤,Being squeezed by my plump thighs felt like heaven; didn't it? Aha! Look at that blissful expression on your face.❤ You're completely addicted to a succubus's thighs; aren't you?❤
+ふふ❤ほら、言ったとおり、\nふんわり手コキで簡単にイかされちゃったわね❤\nわたしの細い指で優しく扱かれて、腰がとろけそうだったでしょ❤,Fufu.❤ See? Just like I said; a soft handjob made you cum so easily.❤ Being gently stroked by my slender fingers made your hips go weak; didn't they?❤
+あらあら❤投げキスされただけで射精しちゃった❤\n目にハートを浮かべて、アヘアへ言っちゃっててみっともない❤\nくすくすくす❤,Oh my.❤ You came just from a blown kiss.❤ Look at you with hearts in your eyes; moaning like an idiot.❤ Ahuhuh~ Ahaha!❤
+う、ううっ・・・。,Ugh; uhhh...
+くすくす❤なあに？さっきは我慢できたのに、\nもう限界が来ちゃった？,*Giggle*❤ What's wrong? You managed to hold back before; but now you've reached your limit?
+わたしに谷間見せられて我慢して、\n「ああやっぱりシコシコしておけばよかった」って後悔しちゃったのかしら❤\n一回抵抗してから負けに来るなんてとっても情けないわ❤,After seeing my cleavage and holding back; are you regretting not stroking yourself earlier?❤ Coming to lose after resisting once is really pathetic.❤
+サキュバスの前でオナニーするなんて命知らずね❤\nわたしのからだでムラムラしちゃった？くすくす❤,Masturbating in front of a succubus is reckless.❤ Did my body get you all worked up? *Giggle*❤
+って、なにそのオナニー❤\nまるでオナニーになってないんだけど、あははは❤,Hm...? What's with that pathetic attempt at masturbation?❤ That doesn't even count as jerking off; ahaha!❤
+だって❤すぐに、出ちゃいそうで・・・❤ううっ・・・❤,But...❤ I feel like I'm going to cum right away...❤ Nngh...❤
+呪いのせいでおちんちんがよわよわだものね❤\nシコシコしたら直ぐに漏らしちゃうからって、\n手をゆっくり動かすことしかできない❤,The curse makes your dick so weak and pathetic~❤ If you stroke it normally; you'll just leak everywhere; so all you can do is move your hand slowly.❤
+そんなザコチンポ、これで十分よね❤\nほら、おっぱいを両手で持って・・・・❤,For a pathetic cock like that; this should be more than enough~❤ Look; I'll hold my tits with both hands...❤
+下から上に、１回ゆさっ❤,From the bottom to the top; one little bounce.❤
+はひぃっ、だめ、あっ、ああっ・・・❤❤,Hahii! No; ah; aahh...❤❤
+あぅぅっ・・・❤,Ahhnn...❤
+くすくす❤乳揺れ１回で速攻射精❤\nおチンポ弱すぎよ❤その辺の村人よりも弱いんじゃないの？\nぷっ、くすくすくす❤,*Giggle*❤ One tit bounce and you instantly came!❤ Your cock is way too weak!❤ You're like; even weaker than some random villager! Pff; ahahaha!❤
+Ｂランクの強いマスターなのに\nおチンポたっぷり弱くされて、こんな軽い刺激で射精しちゃうなんて、\nあはは、これは一生笑いものにされちゃうかもね❤,Even though you're a strong B-Rank master; your cock's been weakened so much that you'll cum from such light stimulation. Ahaha; you'll be a laughingstock forever~❤
+他の人もわたしにエナジー貢ぎに来ちゃう？\nサキュバスだもの、精液いっぱいくれる人は大好きよ❤\nその人にもおっぱいでサービスしてあげる❤,Will other people come offer their energy to me too? I'm a succubus after all; so I love anyone who gives me lots of cum~❤ I'll service them with my tits too!❤
+ま、サービスって言っても、\nおっぱい１回揺らすだけかもしれないけど❤\nふふ、次の人は少しは我慢ができるのかしら❤,Well; when I say service; I might just bounce my tits once though~❤ Fufu; I wonder if the next person will have a bit more stamina?❤
+あらあら、武器を捨てておチンポシコシコ始めちゃった❤\nわたしのセクシーな体をなめまわすように見て、\nもうたまらないって感じかしら❤,Oh my; you dropped your weapon and started stroking your cock!❤ You're staring at my sexy body like you're devouring it with your eyes; you just can't take it anymore; can you?❤
+あなたはどこが好きなの？ぷっくりした唇に、やわらかそうな谷間❤\nぷりんとしたお尻に、肉付きのいいふともも❤\nどれをとっても男の子を夢中にさせちゃうエローいボディでしょ❤,What do you like most? My plump lips; or my soft cleavage?❤ My jiggly ass; or my thick thighs?❤ Every part of my lascivious body drives boys crazy; doesn't it?❤
+わたしのマスターは上級モンスターも出せないカードの初心者。\nそれなのに、エロい格好のモンスター使われただけで、\n自分からしこしこしこ❤,My master is a beginner with cards who can't even summon advanced level monsters. And yet; just from being shown a monster in sexy clothing; you started stroking away on your own~❤
+Bランクのつよぉーいマスターくんが、\nザコマスターのザコモンスターに負けちゃう❤\nおチンポ触るの気持ちよくてやめられない❤,The strong B-Rank master is losing to a weakling master's weakling monster~❤ Touching your cock feels so good that you can't stop~❤
+Bランクのつよぉーいマスターのモンスターなのに、\nザコマスターのザコモンスターに負けちゃう❤\nおチンポ触るの気持ちよくてやめられない❤,Even though you're a strong B-Rank master's monster; you're losing to a weakling master's weakling monster~❤ Touching your cock feels so good you can't stop~❤
+ぷっ、くすくすくす❤\nすごく滑稽ね。あなた❤\n男ってやっぱり、バカしかいないのかしら。,Pfft; ahaha!❤ You look so ridiculous~❤ Are all men really just idiots?
+あら怒った？\nそれじゃあほら、お・わ・び❤,Oh? Did I make you mad? Then look; here's my a-po-lo-gy~❤
+あなたの前で、谷間を寄せてあげる❤\nあはぁーん❤,I'll push my cleavage together right in front of you~❤ Ahaaan~❤
+くすくす❤手の動きが早くなった❤\nほんと分かりやすいわね❤\nサキュバスおっぱい見せつけられたら、何も考えられなくなっちゃう❤,*Giggle*❤ Your hand's moving faster now!❤ You're so easy to read~❤ When a succubus shows off her tits; you can't think about anything else; can you?❤
+ねえ、知ってると思うけれど、\nあなたの首にかけられたそのペンダント、\nあなたがオナニーして負けちゃうと、こっちの手元に返ってくるのよ？,Hey; you know that pendant around your neck? If you masturbate and lose; it returns to me; right?
+あなたの他の仲間がまた同じように\nペンダントで行動不能にされちゃうの。\nそんなの絶対避けないといけないわよね。それなのに❤,Your other companions will be immobilized by their pendants the same way. You absolutely have to avoid that; right? And yet...❤
+おチンポシコシコやめられない❤\n谷間をむぎゅうってされたら、\nバカみたいに手を動かしちゃう❤,You can't stop stroking your cock.❤ When your dick's squeezed between my tits; you mindlessly pump your hand like an idiot.❤
+あはは、仲間のこと裏切って最悪ね❤\nそんなにこのおっぱいがいいの？\nほら・・・❤,Ahaha; betraying your comrades like this is the worst!❤ Do you really like these breasts that much? Here...❤
+わたしにエナジーをあげたらダメージを回復されちゃうのに、\nシコシコシコシコ、気持ちよくて、\n精液お漏らしすることで頭いっぱい❤,Even though giving me energy will heal my damage; you're stroking and stroking; your head filled with nothing but the pleasure of leaking your cum.❤
+もしこれが本当の戦場だったら、\nあなたのせいで仲間のマスターが何人もやられちゃうかもしれないわ。\nくすくす❤最低の裏切り者ね❤,If this were a real battlefield; your master's companions might be defeated because of you. Teehee.❤ What a terrible traitor you are.❤
+マスターが信頼してあなたを召喚してくれたのに、\nサキュバスおっぱいに勝手に負けて、エナジーお貢ぎ❤\nくすくす❤最低の裏切り者ね❤,Even though your master trusted you enough to summon you; you're losing to succubus tits on your own and offering up your energy.❤ Teehee.❤ What a terrible traitor you are.❤
+そんなにこのおっぱいがいいの？\nほら・・・❤,Do you really like these breasts that much? Here...❤
+とびっきりのオカズを提供してあげる。\nおっぱいを両手で持って、ゆさゆさ❤ゆさゆさ❤\n揺らしてあげれば・・・❤,I'll provide you with the ultimate masturbation material. I'll hold my breasts with both hands and bounce them.❤ Sway them~❤ If I shake them like this...❤
+うあっ、ああっ、エロすぎるっ❤❤,Uaah; aaah; it's too erotic!❤❤
+くすっ❤鼻息荒くしすぎよ❤\nほら、揺らしながら声もおまけしてあげる。\n一回揺らすごとに、あん、あん、あん❤ってエッチな喘ぎ声❤,Teehee.❤ You're breathing so heavily.❤ Here; I'll add my voice while I bounce them. With each bounce; I'll moan "Aahn; aahn; aahn"❤ with a suggestive voice.❤
+体を触られてすらいないんだもの。ただの演技だって丸わかりなのに、\n女の子がわざとらしい声を上げると、\nおチンポ反応しちゃうのよね❤,It's not even actually touching me. It's obviously just an act; but when a girl makes these exaggerated sounds; your cock responds anyway; doesn't it?❤
+あん❤あん❤あん❤\nあなたのカッコいいおチンポで感じちゃう❤\nあ～ん❤,Aahn.❤ Aahn.❤ Aahn.❤ Your amazing cock is making me feel so good.❤ Aaahn.❤
+あっ、あっ、もうっ・・・❤,Ah; ah; I can't take it anymore...❤
+うふふ❤乳揺れと嘘の喘ぎ声で自滅射精❤\nとってもみじめていいと思うわ❤\nほら、イキなさい❤,Ufufu.❤ Ruining yourself with bouncing tits and fake moans.❤ I think that's wonderfully pathetic.❤ Come on; cum for me.❤
+サキュバス様のおっぱいめがけて、エナジー出すのよ❤\nあん、あん、あはぁーん❤,Shoot your energy at this succubus's breasts.❤ Aahn; aahn; ahaaan.❤
+はひぃ、きもちいいぃ・・・❤,Hahiiee; it feels so gooood...❤
+うふふっ、早漏のくせに量は多いのね❤\n谷間に貯まるぐらいたくさん出して、\nんっ、おいし♪おかげで体力全回復ね❤,Ufufu; you're a premature ejaculator; but you came so much.❤ You came enough to pool between my tits; mmm; delicious! Thanks to you; my stamina's fully recovered.❤
+これであなたは敗北。名誉Ｂランクにオナニーなんかで負けて、\nこの先恥ずかしくて外も歩けないんじゃないかしら。\nくすくす❤,Now you've lost. Losing to an honorary B-rank through masturbation; you'll probably be too embarrassed to step foot outside from now on; won't you? Teehee.❤
+くすくす❤さっきは谷間見せられても耐えたのに、\n仲間のオナニー見てたら、我慢できなくなっちゃった？,Teehee.❤ You endured earlier when I showed you my cleavage; but watching your comrade masturbate made you lose control?
+早漏チンポ必死にこらえて「頑張って勝つんだ」って思ってたのに\n横にいる仲間がシコシコ始めちゃったんだものね❤\nああ、自分も気持ちよくなりたいってなるのも無理ないわ❤,Your premature cock was desperately trying to hold back; thinking "I'll try my best to win!"—but then your ally beside you started stroking himself.❤ Of course you'd want to feel good too; I can't blame you for that.❤
+仲間が裏切って、その裏切りが次の裏切りを呼んで、\nどんどんサキュバスに寝返っちゃう❤\nとっても人間らしくて浅ましくて、素敵じゃない❤くすくす❤,Your allies betraying you; and that betrayal leading to more betrayal—one after another; they defect to the succubi.❤ It's so human; so greedy; isn't it wonderful?❤ *Giggle*❤
+って、あは、あなたもそんなへっぽこオナニーしちゃうんだ❤\nまるでオナニーになってないんだけど、あははは❤,Wait; aha! You're doing that pathetic excuse of a masturbation too?❤ That's not even close to proper stroking; ahahaha!❤
+だって❤すぐに、出ちゃいそうで・・・❤,But...❤ I'm about to cum so quickly...❤
+呪いのせいでおちんちんがよわよわだものね❤\nシコシコしたら直ぐに漏らしちゃうからって、\n握ってゆっくり動かすことしかできない❤,The curse has made your dick so weak.❤ If you stroke it; you'll leak immediately—so all you can do is grip it and move your hand slowly.❤
+ふふ、あなたもわたしの体をオカズにしたいの？\n武器を捨てておチンポしこしこ❤しこしこ❤\nわたしのセクシーな体にはぁはぁ興奮しちゃってる❤,Fufu; you want to use my body as fap material too? Throw away your weapon and stroke your cock.❤ Stroke it.❤ Get all hot and bothered over my sexy body.❤
+来ていいよ～❤って甘い声で誘われたら、\n敵のモンスターのところに本当に来ちゃうんだもん❤\nホイホイ言いなりになって、女の子への免疫がないのね❤くすくす❤,When I call out to you in a sweet voice saying "come here~"❤; you actually come to the enemy monster's side.❤ Obediently following along; you have zero resistance to women; don't you?❤ *Giggle*❤
+強いはずの無敗のルーキーくんも、全然怖くないわ❤\n仲間と一緒にオナニーしこしこ❤あーん気持ちいいって顔をとろけさせて、\nその辺の村人と変わらない❤,Even the supposedly strong undefeated rookie isn't scary at all.❤ Stroking yourself alongside your allies; making that "it feels so good" face with your expression melting—you're no different from some random villager.❤
+どれだけ強い魔力があっても関係ないわよね❤\nおチンポ握るのに忙しくって、カードなんて使えないんだもの❤\nぷっ、くすくす❤まぬけすぎ❤,No matter how strong your magic is; it doesn't matter.❤ You're too busy gripping your cock to use any cards.❤ Pfft; *giggle*❤ So pathetic.❤
+Bランクマスターの強いモンスターなんだから、\nこんな誘惑ぐらい跳ね除けて、カッコよく戦えばいいのに❤\nご主人の命令を無視してお貢ぎオナニー❤信頼を裏切ってさいてーい❤,You're the powerful monster of a B-rank master—you should be able to brush off this level of temptation and fight properly.❤ But instead you ignore your master's orders and stroke yourself as tribute.❤ Betraying their trust; you're the worst.❤
+男ってやっぱり、バカしかいないのかしら。\nおチンポ触るためなら、忠義心もプライドもぜんぶ捨てちゃう、\n頭空っぽのバカばっかり❤,Are all men really just idiots? Just to touch their cocks; they'll abandon loyalty and pride—all empty-headed fools.❤
+くすくす❤手の動きがとっても早い❤\nほんと分かりやすいわね❤\nサキュバスおっぱい見せつけられたら、何も考えられなくなっちゃう❤,*Giggle*❤ Your hand is moving so fast.❤ You're so easy to read.❤ The moment a succubus shows you her tits; you can't think about anything else.❤
+あなたの他の仲間がまた同じように\nペンダントで行動不能にされちゃう❤\nそんなの絶対避けないといけないのに・・・❤,Your other allies are going to be immobilized by the pendant the same way.❤ You absolutely have to prevent that; but...❤
+おチンポシコシコやめられない❤\n谷間をむぎゅうってされたら、バカみたいに手を動かしちゃう❤\nしこしこしこしこ、あーん気持ちいい～❤,You can't stop stroking your cock.❤ When I squeeze my cleavage together; you move your hand like an idiot.❤ Stroke stroke stroke stroke; ahhh it feels so good~❤
+わたしにエナジーをあげたらダメージを回復されちゃうのに、\nシコシコシコシコ、気持ちよくて、\nどんどん自滅しちゃうわね❤,If you give me energy; you'll just heal my damage—yet stroke stroke stroke stroke; it feels so good; you're destroying yourself more and more.❤
+こんなに回復してもらえるなら、わたし一人で十人でも二十人でも\nあなたたちを倒せるかも❤\n男の子って束になってもサキュバス一人にかなわないんだ。ぷっ、くすくす❤,If I can recover this much; maybe I alone could defeat ten or twenty of you.❤ Even when they team up; boys can't match up to a single succubus. Pfft; *giggle*❤
+とびっきりのオカズを提供してあげる。\nあなたもこれが見たかったんでしょ？おっぱいを両手で持って、\nゆさゆさ❤ゆさゆさ❤揺らしてあげれば・・・❤,I'll provide you the ultimate fap material. This is what you wanted to see; right? Holding my tits with both hands; bounce bounce❤ bounce bounce❤ jiggling them for you...❤
+ただの演技だって丸わかりなのに、\n女の子にわざとらしい声を上げられると、\nおチンポ反応しちゃうのよね❤,Even though it's obviously an act; when a girl puts on an exaggerated voice; your cock reacts anyway; doesn't it?❤
+あん❤あん❤あん❤\nあなたのカッコいいおチンポで感じちゃう❤\nあ～ん❤おっぱい見てぇ❤,Ahh~❤ Ahh❤ ahh!❤ Your cool and dashing cock is making me feel so good.❤ Ahhhn~❤ look at my tits~❤
+はひぃっ❤ああっ❤はぅ、もうっ・・・❤,Aahiee~❤ Aaahh~❤ Hau; I'm already gonna...❤
+うふふっ、早漏のくせに量は多いのね❤\n谷間に貯まるぐらいたくさん出して、\nんっ、あなたの精液もおいし♪おかげで体力全回復ね❤,Ufufu; you're such a quick shot; but you cum so much.❤ You filled my cleavage with all that thick semen; mmm; and your cum tastes delicious too♪ Thanks to you; I'm back at full strength.❤
+ああん、もうやめて❤\nこれ以上攻撃されたらやられちゃうわ・・・。,Aahn; stop it already.❤ If you keep attacking me like this; I'll lose...
+ほら、よく見て❤\nわたしを倒しちゃったらこのおっぱいが見れなくなるのよ？,Here; take a good look.❤ If you defeat me; you won't get to see these tits anymore; you know?
+この爆乳おっぱいが作るふかーい谷間も❤\nちょっと動くだけでぷるぷる揺れるエロい光景も❤,These massive breasts and the deep; inviting cleavage they create.❤ Watch how they bounce and jiggle with just the slightest movement—such a lewd sight.❤
+もっともっと見ていたいでしょう？\n素直になってぇ・・・❤,You want to keep staring at them; don't you? Just be honest with yourself...❤
+うう・・・❤ごくっ・・・❤,Oogh...❤ *Gulp*...❤
+そうそうその調子❤あなたの大好きなおっぱい❤\n見てるだけで隙だらけになっちゃうくらい魅力的でしょ❤うふふ・・・❤,That's it; that's the way.❤ Your favorite pair of tits.❤ They're so captivating that you can't help but let your guard down just from looking at them; right?❤ Ufufu...❤
+理性を振り絞ってとどめをさした,Muster up your willpower and finish her off
+目が離せなくなってしまった,"I can't stop staring at her tits..."
+きゃあん❤ううっ、おっぱい気持ちいいのよ・・・。\n楽しめばいいのに・・・。,Kyaahn!❤ Oogh; but my breasts feel so good... You should've just enjoyed yourself...
+ああ・・・❤おっぱいぃ・・・❤,Aah...❤ Tits...❤
+くすくす❤わたしを追い詰めてたのに、\nもう我慢ギリギリだったのかしら。\nほら、一歩も動けなくなったあなたに、特別サービス❤,Teehee.❤ You had me cornered; but it seems you're already at your limit? Here; since you can't move a single step; I'll give a special service just for you.❤
+やわらかーいおっぱいでチンポがおっぱいに埋まる完全包囲パイズリ❤\nさらにエナジードレインもおまけしてあげる❤,I'll completely engulf your cock between my soft breasts with a full-coverage titfuck.❤ And as a bonus; I'll drain your energy too.❤
+腰が抜けるほどの快楽に溺れてしまいなさい❤\nほらほらほら❤,Drown in a pleasure so intense your legs give out.❤ Come on; give in~❤
+あひっ、あっ、ああっ❤❤,Ahii; ah; aahh!❤❤
+ふふ、サキュバス相手に心のバリアを解いたら絶対にダメよ？\n普段はバリアがあるからあなたも辛うじて我慢できるの。\nもしバリアを解いてしまったら・・・❤,Fufu; you should never let your guard down against a succubus; okay? Normally your mental barrier lets you barely hold on. But just a single lapse in judgement; and...❤
+今のあなたみたいに、喘ぎ声あげることしかできなくなっちゃう❤\nサキュバスの気持ちよすぎるパイズリで、\n何にもできなくされちゃう❤,You'll end up like you are now—only able to moan and gasp.❤ A succubus's titfuck feels too good; and you'll be completely helpless against it.❤
+チンポ気持ちよくてたまらないでしょ？\nわたしの爆乳に飲み込まれて、上下にたぷたぷたぷ❤\n根元から全部可愛がられちゃう❤,Your dick feels amazing; doesn't it? Swallowed up by my huge tits; sliding up and down; squish; squish; squish.❤ Every inch of you is being pampered from base to tip.❤
+ねえほらぁ、早くサキュバスおっぱいに降参してぇ❤\n勝ちそうだったのに～、谷間見せられただけで\n逆転負けしてぇ～❤,Come on; give it up. Just surrender to my succubus tits already.❤ You were about to win; but one look at my cleavage was all it took to turn the tables on you~❤
+ああっ、だめっ❤こんなの耐えられないっ❤,Aah; no!❤ I can't take this anymore!❤
+ふふ、どぴゅーって勢いよく射精できるように、\n最後は先っぽを重点的にいじめてあげる❤,Fufu; to make sure you shoot out a thick; powerful load; I'll focus on tormenting your tip at the end.❤
+ほら、おっぱい上に持ち上げてぇ～❤\n敏感な亀頭をぐちゅぐちゅぐちゅ♪\n高速で上下に擦ってあげればー・・・❤,Look; I'll lift my breasts up~❤ Rubbing your sensitive cockhead with squishy; slippery strokes♪ Sliding up and down at high speed and—...❤
+はひぃっ・・・❤,Hahii...❤
+うふふ❤先端をごしごしって責められて、\n噴水みたいに射精しちゃったわね❤\nサキュバスのパイズリテクは最高だったでしょ❤,Ufufu.❤ I teased your tip relentlessly; and you came like a fountain; didn't you?❤ A succubus's titfuck technique is the best; right?❤
+せっかく頑張ってわたしの体力を減らしたのに、\nほら、パイズリで搾り取られて体力全回復❤\n男の子ってやっぱり弱い生き物ね。くすくす❤,You worked so hard to whittle down my stamina; but look—after draining you with my titfuck; I'm back at full strength.❤ Boys really are weak creatures after all. Teehee.❤
+もっともっと見ていたいでしょう？\n・・・見る訳ない？仲間がやられてるから？\nそんな事言っても・・・❤,You want to keep staring at them; don't you? ...You don't want to look? Because your allies are in trouble? Even if you say that...❤
+こうやって服をはだけて、\nうふ～んって谷間を寄せてあげるだけで、\nふふ、イチコロよね❤,All I have to do is pull my top open like this; and press my cleavage together with a little "ufuu~n;" and fufu; you fall for it instantly; don't you?❤
+くすくす❤あなたもおっぱいの虜になっちゃったわね❤\nほら、見惚れて一歩も動けなくなったあなたに、特別サービス❤,Teehee.❤ You've become completely captivated by my tits too; haven't you?❤ Here; since you're standing there mesmerized and unable to move; I'll give a special service just for you.❤
+ああん、強いのね、あなた❤\n非力なわたしじゃ、まともに戦って勝てそうにないわ。,Aahn; you're so strong.❤ A frail girl like me has no chance of winning against you in a fair fight.
+でもほら、こうしてあげたらどうかしら・・・❤\nあはぁーん❤,But look; what if I do this instead...?❤ Ahaahn~❤
+服をずらして、わたしの生おっぱい♪\nうふふ❤揺らしてあげるから、好きなだけ見ていいのよ❤,I'll slide my clothes aside and show you my bare tits.♪ Ufufu.❤ I'll bounce them for you; so watch as much as you'd like.❤
+やっぱり男の子っておっぱいには弱いのね❤\nほら、見惚れてるあなたの頭をおっぱいでむぎゅう❤,Boys really are weak to boobs; aren't they?❤ Come here~ I'll pull your head between my tits and squeeze.❤
+そのまま、ぱふぱふ❤ぱふぱふ❤,Just like that; puff-puff.❤ Puff-puff.❤
+はうっ、あっ、ああっ❤❤,Hauu; ah; aah!❤❤
+うふふ❤おっぱいやわらかいでしょ？\nあなたはこんな柔らかいだけの塊に負けちゃうのよ❤,Ufufu.❤ My boobs are soft; right? You're going to lose to these squishy mounds.❤
+ぱふぱふ❤ぱふぱふ❤って何回もされて、\n全身びくびくって気持ちよくなって、\nそのままエナジーを射精しちゃうの❤,I'll give you puff-puff.❤ Puff-puff.❤ Over and over; making your whole body twitch with pleasure; until you shoot out all your energy.❤
+ほら、もう武器も持てなくなって、\nカランって床に落としちゃった❤\nくすくす❤あとちょっとで勝てそうだったのにね❤,See~ You can't even hold your weapon anymore; it just clattered to the floor.❤ *Giggle*❤ You were so close to winning too.❤
+おちんちんわたしのふとももにこすりつけてもいいわよ❤\nぱふぱふで気持ちよくなりながら、\nこのむっちりしたふとももにおちんちん挟まれちゃいましょ❤,Go ahead and rub your dick against my thighs.❤ While you enjoy the puff-puff; let my thick thighs wrap around your cock.❤
+うふふ❤腰をぐんって突き出して、\nあん、おチンポ入ってきた❤\nそれじゃ、気持ちよくイかせてあげる❤,Ufufu.❤ I'll thrust my hips forward; ah; your dick's sliding in.❤ Now then; I'll make you cum real good.❤
+顔を抱き寄せながら、ぱふぱふ❤ぱふぱふ❤\nふとももも締めて、軽く左右交互に、すりすりすり・・・♪,I'll pull your face close while going puff-puff.❤ Puff-puff.❤ Squeezing my thighs together; rubbing left and right alternately... rub rub rub...♪
+あひぃっ、あっ、あっ、あああっ❤❤❤,Ahiii; ah; ah; aaaah!❤❤❤
+くすくすくす❤男なんてチョロいものね❤\nおっぱい見せてあげたら、すぐに負けちゃう❤\nこんなにエナジーをごちそうしてくれて、体力も元通りだわ❤,Ahaha~!*.❤ Men are so easy.❤ Show them some tits and they lose immediately.❤ Thanks for the replenishing meal; I'm back to full strength.❤
+顔を挟まれながらふとももでいじめてもらえるなんて、\n最高の快楽だったでしょう？\n人間がサキュバスに勝てるわけないのよ❤,Having your face squeezed between my breasts while my thighs torment you— that must've been the ultimate pleasure; right? A human could never beat a succubus.❤
+くすくす❤サキュバスとの実力差、体に教え込まれちゃったわね❤\nおっぱい一回揺らしただけでイっちゃうザコマスターくん❤,*Giggle*.❤ I've taught your body the difference in power between us.❤ You're such a weak master; cumming from just one bounce of my tits.❤
+わたしの甘い声で脳みそ蕩けさせられちゃった❤\nくすくす❤オナニーなんかで負けたのに\n気持ちよさそうな顔しちゃって、情けないのね❤,My sweet voice melted your brain.❤ *Giggle*.❤ You lost just from masturbation; yet you're making such a pleased face— how pathetic.❤
+おっぱいに見惚れたせいで、\nパイズリされて逆転負け❤\n人間の男らしい、カッコ悪い負け方ね。くすくす❤,You got so entranced by my boobs that you lost after getting a titfuck.❤ Such a lame way to lose— just like a human man. *Giggle*.❤
+生おっぱいでたっぷりぱふぱふしてもらえてよかったわね❤\nこんな簡単に逆転勝ちされちゃうなんて、\n人間の男って本当に単純❤くすくす❤,You got to enjoy my bare tits giving you plenty of puff-puff; didn't you?❤ Getting reversed on and defeated so easily— human men really are simple creatures.❤ *Giggle*.❤
+あは❤おっぱい見てるだけでびゅくびゅくびゅく❤\nチンポこらえきれなくて射精しちゃった❤\n今さら手で押さえても、精液漏れるの止まらないわよ。くすくす❤,Aha!❤ Just from looking at my boobs you went spurt spurt spurt.❤ Your dick couldn't hold back and shot its load.❤ Covering it with your hands now won't stop the cum from leaking out. *Giggle*.❤
+うふふ❤サキュバスの爆乳であっという間に骨抜き❤\n人間の男の子には、わたしのおっぱいは強すぎたみたいね❤,Ufufu.❤ My huge succubus tits turned you into putty in no time.❤ Looks like my boobs were too much for a human boy.❤
+あは、吸われるがままびゅるるぅってたくさん出てきた❤\nんっ、ごくっ・・・❤\n魔力が濃くておいしいわ❤さすがはBランクのマスターね❤,Aha; you got sucked dry and came so much.❤ Mm; gulp...❤ Your magical energy is rich and delicious.❤ As expected of a B-rank master.❤
+わたしのフェラ、足腰立たなくなるぐらい気持ちよかったでしょ？\nふふ、地面に崩れ落ちしまったわ❤,My blowjob felt so good your legs gave out; didn't they? Fufu; you collapsed right to the ground.❤
+むっちりしたふとももに押しつぶされて、チンポから精液がどぴゅどぴゅ～❤\nくすくす❤全然耐えられないで搾り出されちゃったわね❤,Crushed between my thick thighs; your dick squirted cum everywhere.❤ *Giggle*.❤ You couldn't resist at all and got milked dry.❤
+テクなんて使わなくてもわたしのエロい体で挟んでこすれば、\n男の子なんて簡単に倒せちゃうわ❤\nサキュバスの体の気持ちよさ、よーく分かったでしょう？ふふ❤,I don't even need any skill or technique— just sandwich you with my erotic body and rub; and you boys go down easy.❤ You've really understood how good a succubus's body feels; don't you? Fufu.❤
+はい❤投げキスで追い討ちされて、どぴゅどぴゅー❤\nくすくす❤チンポ触られてないのに、\nこんなにたくさん射精しちゃったわ❤,There!❤ A finishing blow kiss and you're spurting everywhere.❤ *Giggle*.❤ I didn't even touch your dick; yet you came this much.❤
+ふふ、優しい手コキなのに、全然耐えられなかったわね❤\n他の男と同じように、とっても情けない顔してたわよ？\nくすくす❤,Fufu; even though it was a gentle handjob; you couldn't last at all.❤ You made the same pathetic face as every other man; you know? *Giggle*.❤
+決着ー！！勝者はリュカ・シャルロット選手！,Match over!! The winner is Charlotte Lucas!
+まさか、まさかの結末です！\nあの無敗のルーキーが、ぽっと出の「名誉」Ｂランクに敗北！！,What an unbelievable outcome! The undefeated rookie has been defeated by this "honorary" B-ranker who came out of nowhere!!
+レアなサキュバスカードが大量に投入されたシャルロット選手のデッキ、\nこれがその力ということなのでしょうか！,Charlotte's deck was loaded with rare succubus cards— is this the true power they hold!?
+結局、ものを言うのは実力よりも財力なのか！\n下馬評を覆しての勝利に、シャルロット選手、にんまりと得意顔です！\nうおー、これは悔しい！立ってくれ、われらの無敗のルーキー！,In the end; does wealth matter more than skill!? Charlotte has a smug; satisfied look on her face after this upset victory! Ugh; this is frustrating! Stand up; our undefeated rookie!
+きゃはは❤むりむり、無敗のルーキーはもうサキュバスの虜❤\nファンがいくら「がんばれー」って応援したところで、\n完全に骨抜きになってるの❤,Kyahaha!❤ No way; it's useless— your undefeated rookie is now a succubus's plaything.❤ No matter how much the fans cheer "do your best"— he's been completely turned to mush.❤
+Bランクマスターなんて言ってもたいしたことないわねー。\nこんな下級モンスターだけのデッキにぼろ負けして、\nぷぷっ、アンタら普段から真面目にバトルしてるの？よわーい❤,You B-rank Masters aren't anything special. Losing so pathetically to a deck full of low-level monsters; pfft; do you guys even train seriously? So weak.❤
+あぐうぅ・・・❤,Aghhh...❤
+あらあら❤わたしの方をぼーっと見て、\nまだまだこの体で搾り取ってほしいの？,Oh my.❤ You're staring at me in a daze. Do you still want me to drain you more with this body?
+わたしのぷるぷるの唇に、大きくてやわらかいおっぱい❤\nむっちりしたふとももに、ぷりんとしたお尻❤\n男の子を虜にしちゃう最高のカラダでしょ❤,My plump lips; my big soft tits;❤ my thick thighs and my firm ass.❤ This is the perfect body to captivate men; isn't it?❤
+あはぁーん❤もっと見ていいのよ❤\n精巣ぐつぐつさせて、\nルーキーくんの濃い魔力、もっともっとわたしに出してぇ❤,Ahahn~❤ You can stare all you want.❤ Get your balls churning and give me more of that thick rookie cum.❤
+きゃはは❤\nわたしにバカにされて悔しいくせに、\nサキュバスの体から目を離せないんだ❤,Kyahaha!❤ You're so frustrated being mocked by me; yet you can't take your eyes off a succubus's body.❤
+あの子が体をくねらせるたびに、\nチンポもびくんびくんって動かしちゃってさ、\nぷぷ、ほんと恥ずかしい生き物ね❤,Every time she moves her body; your dick twitches and throbs. Pfft; men really are such pathetic creatures.❤
+ほら、無敗のルーキー❤\nアンタにわたしとの実力の差を教えてあげる❤\n試合前に会場で散々バカにされた分、たっぷりとね❤,Come on; undefeated rookie.❤ Let me teach you the difference between our skills.❤ I'll pay you back for all the mockery I endured at the venue before the match.❤
+そういってシャルロットはサキュバスに攻撃指示を出した。{自分}はじりじりとこちらに近づいてくるが、僕は逃げることができない。,With those words; Charlotte ordered her Succubus to attack. {自分} approached me slowly; yet I couldn't escape.
+それどころか、彼女の妖艶な体に見惚れて、距離が縮まるにつれ、さらにペニスを固くしてしまっていた。,Or rather; I was mesmerized by her bewitching body; and as she got closer; my penis grew even harder.
+くす❤すっかりわたしに夢中ね❤\nほら、わたしの一番の武器、\nあなたの頭よりも大きなおっぱいで挟んであげる❤,Hehe.❤ You're completely entranced by me.❤ Come; let me use my greatest weapon—these tits that are bigger than your head—and wrap them around your dick.❤
+はへぇっ・・・❤❤すごいっ、やわらかくてぇ・・・❤❤,Hahehh...❤❤ Amazing; they're so soft...❤❤
+あら、先っぽが膨らんでる❤もしかして・・・❤,Oh? Your tip is swelling up.❤ Could it be...?❤
+あっ、あっ、だめぇ・・・❤もうっ❤❤,Ah; ah; no...❤ Already!❤❤
+くすくす❤まさか挟んだだけでイっちゃうなんて、\n一回出したばかりなのに、全然耐えられないのね❤\nとても敏感で弱いおチンポ❤,Teehee.❤ You came just from me wrapping my tits around you? Even though you just came once already; you have no endurance at all.❤ Such a sensitive and weak dick.❤
+普通は一回出したら少しは我慢できるようになるものよ？\nそれなのに、あなたはむしろ弱くなって、\n挟まれただけですぐに射精❤,Normally after cumming once you'd have a bit more stamina; right? But instead; you got weaker and came immediately just from being squeezed between my tits.❤
+わたしにかけられた呪いのせいかしら。\nチンポを弱くする呪いをかけたままにしてたものね。\nごめんなさい❤,I wonder if it's because of the curse I placed on you. I left that cock-weakening curse active this whole time. Sorry about that.❤
+ほら、おわびに・・・・❤,Here; as an apology...❤
+あなたのおチンポもっと弱くしてあげる❤\nえい❤,I'll make your dick even weaker.❤ Poof!❤
+くす❤すっかりわたしに夢中ね❤\n気持ちよくしてあげる前に、まずは、ほら、\nわたしの力を見せてあげるわ❤,Hehe.❤ You're completely entranced by me.❤ Before I make you feel good; first; look here; let me show you my power.❤
+心のバリアが解けてる相手にだけかけられる特別な呪いよ❤\nおチンポをとっても弱い早漏チンポに変えてしまうの❤\nあなたの下腹部に向かって大きなハートを、えいっ❤,This is a special curse I can only cast on those whose mental barriers have been broken.❤ It'll transform your cock into a super-weak premature ejaculation dick.❤ I'll draw a big heart aimed at your lower abdomen; haah!❤
+あうぅっ、なに、これっ・・・❤\nあっ、だめっ、なんで勝手にヒクヒクしてっ・・・❤,Ahhh; what; what is this...?❤ Ah; no; why is it twitching on its own...?❤
+ああっ、精液出ちゃうっ、なんで、なんでぇ・・・❤,Ahhh; I'm going to cum; why; whyyy...?❤
+うふふ❤無駄撃ちさせるのもかわいそうね❤\nおっぱいに挟んだ状態でどぴゅってさせてあげる❤,Ufufu.❤ It would be cruel to make you waste it.❤ I'll make you cum while it's squeezed between my tits.❤
+はへぇっ・・・❤❤すごいっ、やわらかいぃ・・・❤❤,Hahehh...❤❤ Amazing; so soft...❤❤
+うふふ❤どう？びっくりするぐらいおちんちん弱くなってるでしょ❤\n快感が強くなるだけじゃない、とにかく射精を\nこらえることができなくなる呪いなのよ❤,Ufufu.❤ How is it? Your dick has gotten surprisingly weak; hasn't it?❤ It's not just that the pleasure is stronger—this curse makes it impossible to hold back your ejaculation.❤
+１回射精してもすぐに新しい精液が上ってきて、\n次々にどぴゅどぴゅ、どぴゅどぴゅ❤\n男の子にとってこんな幸せな状態はないわよね❤,Even after cumming once; fresh cum immediately builds up again; and you'll cum again and again; spurting; spurting.❤ There's no happier state for a boy than this; is there?❤
+あっ、あっ、ああっ、だめっ❤あひぃっ・・・❤,Ah; ah; ahhh; no!❤ Ahiii...❤
+くすくす❤早漏の呪いを重ねがけされたせいで、\nわたしのそばにいるだけでチンポビクビク反応しちゃうんでしょ？\nただでさえ弱いチンポがもっともっと弱くされちゃう❤,Teehee.❤ Because I stacked the premature ejaculation curse on you; just being near me makes your dick twitch and react; doesn't it? Your already-weak dick is getting weaker and weaker.❤
+先っぽにキスされただけでびゅーびゅー❤\n指でなでただけでびゅーびゅー❤\n最後には息をかけただけで、びゅーって漏らしちゃうようになるわ❤,Just a kiss on the tip makes you spurt.❤ Soon; just stroking it with my finger makes you shoot.❤ Eventually; just my breath on it will make you leak~❤
+ねえ、いまの状態で、\nもし、ずりずりずり～って激しくパイズリされたら\nどうなっちゃうと思う？,Say; in your current state; if I gave you an intense titfuck; rubbing my breasts up and down your cock; what do you think would happen?
+ほらやってあげるわ❤\nあなたの腰を引き寄せて・・・❤\nおっぱいにおかえり❤ぱっくん❤,Come on; I'll do it for you.❤ I'll pull your hips closer...❤ Welcome back between my tits.❤ *Nom*.❤
+あひぃっ・・・❤❤だめっ、きもちいいっ、あぐぅうっ❤❤,Ahhh...❤❤ No; it feels so good; auugh~❤❤
+はいはい❤気持ちいいのは分かってるわ❤\nでも今度は解放してあげないわよ❤,Yes yes.❤ I know it feels good.❤ But this time I won't let you go.❤
+精液ですべりが良くなった状態でぐちゅぐちゅにズリ潰してあげる❤\nほら❤,Now that your cum has made everything slippery; I'll crush your dick between my breasts.❤ Take this.❤
+あっ、ああっ、さっき出したのにっ❤また昇ってきてっ❤❤はひぃっ❤,Ah; aah; even though I just came.❤ I'm rising again.❤❤ Ahhh~❤
+くすくす❤早漏チンポ、ズればズるほど射精しちゃうわね❤\nおっぱいが２、３往復するたびに、どぴゅどぴゅ❤どぴゅどぴゅ❤\n湧き水みたいにどんどん出てきちゃう❤,*Giggle*.❤ Your premature cock shoots every time I rub it.❤ Every two or three strokes of my breasts; you're spurting.❤ Spurting.❤ It's gushing out like a spring.❤
+この呪いは男の子を精液家畜に変えるときにも使うの❤\nチンポを弱くして搾りやすくして、\nそのうえ射精回数をぐんと増やしちゃう❤,This curse is what I use to turn boys into semen livestock.❤ It weakens your cock to make it easier to milk; and on top of that; it dramatically increases how many times you can cum.❤
+その分、あなたの筋肉とか魔力とか、\nそういうものが精液に変えられちゃうけれど・・・❤\nふふ、別にいいわよね？こんなに気持ちいいんだもの❤,In exchange; your muscles; magic power; and things like that all get converted into semen...❤ Fufu; but that's fine; right? It feels this good after all.❤
+あは、言ってるそばからまた射精してる❤\n何回も連続で絶頂して、頭の中大丈夫？\n快感で焼き切れそうになって、意識が真っ白になりそうなんじゃない？,Aha; you're cumming again even as I'm explaining.❤ You're climaxing over and over—is your head okay? Isn't the pleasure burning through your brain; making your consciousness go completely white?
+口もあへぇってだらしなく半開き❤\n闘技場での試合だってことも忘れて、\nどぴゅどぴゅ、どぴゅどぴゅ射精することしか考えられないわね❤,Your mouth is hanging open all stupid.❤ You've forgotten this is a match in the arena; and all you can think about is spurting; spurting; cumming over and over.❤
+ふふふ、あなたが出した精液をドレインして、\nわたしの力に変えてあげるわ❤\nほら・・・❤,Fufufu; I'll drain all the semen you're shooting out and convert it into my own power.❤ Here I go...❤
+あぐっ❤❤あっ、あっ❤❤だめ、だめぇっ❤❤❤❤,Agu.❤❤ Ah; ah.❤❤ No; nooo.❤❤❤❤
+ただでさえ気持ちいいわたしのおっぱい、\nもっと気持ちよくなって、チンポも大喜びね❤\nほらほらほら❤,My breasts already felt amazing; but now they feel even better; and your cock is absolutely thrilled.❤ Look at you gushing like a fountain; squirting everywhere with such force.❤
+あはは❤噴水みたいに射精してる❤\nすごいじゃない、\nわたしのおっぱいから飛び出す勢いで出せるだなんて❤,Ahaha.❤ You're ejaculating like a fountain.❤ How impressive—shooting with enough force to escape from between my breasts.❤
+あなたの何もかも、この谷間に射精してしまいなさい❤\n力も名誉も、プライドも、\nぜーんぶサキュバスに吸われてしまうの❤,Cum everything you have into this cleavage.❤ Your strength; your honor; your pride; let it all get sucked away by a succubus.❤
+それが男にとって一番幸せな生き方なのよ。くすくすくす❤,That's the happiest way for a man to live. Ahahaha!❤
+うふふ、干からびて死にかけね❤\nこれ以上搾ったら闘技場の人に止められちゃうから、\nいまはこれでおあずけ❤,Ufufu; you're nearly dead from being drained dry.❤ If I milk you any more; the arena staff will stop me; so I'll just leave you wanting for now.❤
+あら、ほとんど動かない手を伸ばして\nわたしの体に触れようとしてる。,Oh my; you're reaching out with your feeble hand; trying to touch my body.
+くすくす❤そんな風にねだってもだめよ。\nそれじゃ、またいつか会いましょう？うふふ❤,*Giggle*.❤ Begging like that won't work. Well then; maybe I'll see you around sometime? Ufufu.❤
+その後、僕は闘技場の医務室で目を覚ました。カラカラになるまで魔力を吸われ、かなり危険な状態だったという。,After that; I woke up in the arena's medical room. My magic power had been drained until I was completely depleted; and apparently I'd been in quite a critical state.
+普通の女モンスターと違いサキュバスは人間のエナジーを枯れ果てるまで吸うことができる。快楽に負けて彼女のされるがままになってしまったが、もしこれが闘技場でなかったら、すでに命はなかったかもしれない。,Unlike normal female monsters; succubi can suck humans dry of energy until nothing remains. I'd lost to pleasure and let her do as she pleased with me; but if this hadn't been in the arena; I might already be dead.
+僕は快楽に流されてしまった自分を反省し、この負けた悔しさをバネにもっと強くなろうと心に決めたのだった。,I reflected on how I'd let myself get swept away by pleasure; and decided to use the frustration of this loss as motivation to become stronger.
+次の日,The next day.
+まだ魔力が回復しておらずふらふらの状態だったが、僕は食料を買うために街に出ていた。,My magic power still hadn't recovered and I was unsteady on my feet; but I'd gone out into town to buy food.
+買い物が終わった帰り道、ふと見ると、一軒のお店の前で人だかりができている。あれはリュカ商会のお店だ。,On my way back after finishing shopping; I noticed a crowd gathered in front of a shop. That's the Luca Trading Company's store.
+どうやら、サキュバスカードを大々的に売り出しているようだ。かなりの高額だが、女性マスターたちに飛ぶように売れていた。僕を利用して宣伝するという戦略は大当たりしたようだった。,Apparently they're making a big promotional push selling succubus cards. They're quite expensive; but they're flying off the shelves with female masters buying them in spades. Their strategy of using me for advertisement seems to have been a huge success.
+あら？誰かと思えば、昨日のマスターじゃない。\n「元」無敗のルーキーくんが何か用かしら？\nまたサキュバスに可愛がってほしくなっちゃった？くすくす❤,Oh? If it isn't yesterday's master. What business does the "former" undefeated rookie have here? Did you start craving to be pampered by a succubus again? *Giggle*❤
+くっ・・・。,Kuh...
+店頭で目ざとく僕を見つけたリュカ・シャルロットがケタケタと笑う。僕はそれを無視して店の前を立ち去ろうとするが・・・。,Charlotte; who'd spotted me with her sharp eyes from the storefront; cackles with laughter. I try to ignore her and leave the area in front of the shop; but...
+あら、つれないわね。\nでも、そんな態度取っても無駄よ。ほら・・・❤,My; how cold. But acting like that won't help. Here...❤
+わたしの胸を見なさい❤\n軽くジャンプして、ゆさ♪,Look at my breasts.❤ I'll give a little jump; and bounce~♪
+なっ、あっ、ああっ・・・❤❤,Wha—ah; aah...❤❤
+彼女の胸に一瞬視線が行き、ほんのわずかに欲情してしまった、その直後、僕の股間に異常が襲った。,My eyes went to her chest for just an instant; and I felt aroused for just a brief moment—and immediately after; an strange feeling assaulted my crotch.
+ただ胸をちょっと揺らされただけ、たったそれだけなのに、僕のペニスは一瞬でガチガチに勃起し、そして・・・。,She'd just bounced her breasts a little—that was all—yet my penis instantly became rock hard; and then...
+うそだっ、あっ、だめっ、こんなところでっ❤❤,No way; ah; no; not in a place like this.❤❤
+あひ、あへぇっ・・・❤❤,Ah; ahhh...❤❤
+ぷっ、ぷぷぷっ❤\nあははは❤うそ信じられない❤\nアンタ、わたしがジャンプしただけで射精したわけ？,Pfft~ Ahuhu~❤ Ahahaha!❤ No way; I can't believe it.❤ You just came from me jumping; didn't you?
+サキュバスにかけさせた呪いがどれぐらい残ってるか\n試そうと思っただけだったけれど、\n想像以上ね❤,I was just testing to see how much of the curse the succubus put on you remained; but this exceeds my imagination.❤
+チンポがむちゃくちゃ早漏になって治ってないんだ❤\nあは、これじゃこの先生きてくのも大変よ？\nだって、ほら・・・❤,Your cock has become ridiculously premature—it hasn't recovered at all.❤ Aha; this is going to make living your life really difficult from now on; you know? After all; look...❤
+腕で胸を寄せあげたりなんかしちゃったら・・・❤,If I press my breasts together with my arms like this...❤
+あうっ、あっ、またのぼってきてっ❤❤,Aah; mmh; it's rising again~❤❤
+はひぃっ、だめ、とまらないっ❤,Hahii; no; I can't stop~❤
+ぷぷぷ❤もうズボンべとべとじゃない❤\nサキュバスカードってホント強いわね。\n一日経ってるのにあの無敗のルーキーがこのざま❤,Pfft~❤ Your pants are already soaked; aren't they?❤ Succubus cards certainly are strong. It's been a whole day and that undefeated rookie is still like this.❤
+ほらー、サキュバスカードをお買い求めのみなさーん、\nここに昨日の無敗のルーキーがいますよー。\n見てください、今もわたしが速攻で勝っちゃいました❤,Hey everyone~ Come buy some Succubus cards~ Yesterday's undefeated rookie is right here. Look; I just beat him again in no time flat.❤
+2回やって2回勝てる、昨日の勝利はただの運じゃなくて\nサキュバスカードの実力なんです♪\nさあさあ、どんどん買って行ってくださーい♪,Two matches; two victories. Yesterday's win wasn't just luck—it's the real power of Succubus cards♪ Come on; step right up and buy them~♪
+ううっ、くそぉ、こんなの、バトルですらないのにぃ・・・❤,Ugh; damn it; this isn't even a real battle...❤
+ふふ、バトルしたいのならしてあげましょうか？\n明日、またこの時間にこのお店に来なさい。\nそこで相手してあげる。,Fufu; you want a real battle? Then come back to this shop tomorrow at the same time. I'll face you then.
+どうせ今日はもうびゅくびゅく射精して、\n魔力全部出しちゃったんでしょ？\nあは、1日待ってあげるなんて、わたしってばやさしい～❤,You've already ejaculated buckets today and used up all your magic anyway; right? Aha; I'm so kind as to give you a whole day to recover~❤
+その後、僕はぐちょぐちょになってしまったズボンを隠しながら、人目を忍んで宿屋に戻ったのだった。,After that; I snuck back to the inn while hiding my soaking wet pants from prying eyes.
+そして次の日・・・。,And so; the next day...
+さあ、さあ、お待ちのみなさま。\n今日は特別デモンストレーションとして、\n店頭であの無敗のルーキーとサキュバスカードに戦ってもらいます。,Ladies and gentlemen; step right up. Today we have a special demonstration—the undefeated rookie will battle against Succubus cards right here in front of the store.
+お相手は、上級モンスターを召喚できない、\nFランクマスターのプラントさま。\n今回特別にシャルロットお嬢さまのカードをお貸ししてのバトルです。,His opponent is Miss Plant; an F-rank master who can't even summon advanced level monsters. For this special battle; she'll be borrowing cards from Lady Charlotte herself.
+元無敗のルーキーさんは、雪辱を果たせるのでしょうか。\nどうぞどうぞ、御覧になっていってください。,Can the formerly undefeated rookie reclaim his honor? Please; everyone; watch and see.
+えっと、あの、よろしくお願いします。,Um; well; pleased to meet you.
+約束した時間に店を訪れると、あれよあれよという間に急造の舞台の上に引き上げられ、気が付けば、僕は目の前のマスターと試合をすることになっていた。,When I arrived at the shop at the promised time; I was quickly pulled up onto a makeshift stage; and before I knew it; I was dueling the master standing before me.
+リュカは、僕がこのマスターに勝ったあとに、試合をしてくれるという。いくらなんでも、僕がFランクマスターに負けるなんて、そんなこと・・・。,Luca said she'd battle me after I beat this master. There's no way I'd lose to an F-rank master...
+ええっと、メモによると、まずは、こうすればいいんですね。\n口を開けて、舌を出して、その前で指をしこしこしこ・・・❤,Um; according to the notes; I should do this first. Open my mouth; stick out my tongue; and stroke my fingers in front like this...❤
+（ううっ❤ダメだ、興奮したら…❤\n耐えないと❤うぅぅっ❤）,(Ugh❤ No; if I get aroused...❤ I have to endure it.❤ Ungh!❤)
+くす❤こんな動きでそんなに前かがみになっちゃうんですか？\nサキュバスに負けたのは２日前なのに、\nまだ効果が残っているんですね。,*Giggle*❤ You're leaning forward so much from just that gesture? Even though you lost to a succubus two days ago; it seems the effects are still lingering.
+ええと、次は隙だらけになっている間に、\nサキュバスのカードを召喚っと……♪,Okay; next while he's full of openings; I'll summon a Succubus card...♪
+あはん❤また会ったわね、ルーキーくん❤,Ahan❤ We meet again; rookie boy❤
+でも試合はもうおしまいよ。\nほら、んっちゅぱ❤,But the match is already over. Here; mmchu❤
+はひぃ、あっ、ああああっ❤こんなっ、投げキスだけでっ❤\nあひぃっ❤❤,Hahii; ah; aaaaah!❤ Just from; just from a blown kiss~❤ Ahhh~❤❤
+あはは、すごい。たった一撃で倒しちゃいました❤\nあの無敗のルーキーさんが、こんなに簡単に・・・❤,Ahaha; amazing. I took him down in just one hit.❤ That undefeated rookie went down so easily...❤
+いいですね、サキュバスのカード。\nわたしも欲しいです、もしデッキを全部サキュバスのカードにできたら\nわたしだってもっと上のランクに上がれるかも。,Succubus cards are great; aren't they? I want some too. If I could make my entire deck Succubus cards; even I might be able to climb to a higher rank.
+でもパックを買い求める前に、\nとりあえずリュカ様に貸していただいたこのカードを、\n存分に試させてもらいますね。,But before I buy any packs; I'll thoroughly test out this card Lady Lucas lent me first.
+無敗のルーキーさん、天国のような時間を楽しんでくださいね❤\n{自分}３体で、相手プレイヤーを攻撃です！,Mr. Undefeated Rookie; please enjoy this little taste of heaven~❤ I'll attack the opposing player with all three {自分}!
+あっ、あああっ、だめ❤❤きもちよすぎてっ、勝てないっ、勝てないっ❤❤,Ah; aaaah; no..❤❤ It feels too good; I can't win; I can't w-win!❤❤
+僕はチャームサキュバス３体に囲まれて愛撫され、頭の中がおかしくなるぐらいの快楽を与えられた。投げキスをされたり軽くおっぱいを押し付けられるだけでびゅーびゅーと精液を垂れ流し、まったく我慢することができなかった。,I was surrounded and caressed by three Charm Succubi; experiencing pleasure so intense my mind went blank. Just from blown kisses and light breast presses; I ejaculated streams of cum; wholly unable to hold back.
+その後、３人がかりでパイズリとぱふぱふを同時にされたり、騎乗位で搾り取られるなど、本格的に快楽を与えられ干からびる寸前まで射精させられた。解放されたときにはすっかり脳が蕩けてしまい、表情はだらしなくゆるみきっていたという。,After that; all three worked together to give me titfucks and puff-puffs simultaneously; then straddled me and milked me dry—they gave me intense pleasure until I was nearly drained completely. When I was finally released; my brain had melted; and apparently my expression was slack and utterly debauched.
+この様子を見ていたほかのマスターたちは、我先にとサキュバスカードを買い求めた。Fランクマスターが下級モンスターを出しただけで「無敗のルーキー」を圧倒したその光景は、彼女たちを購入にたきつけるのに十分すぎる内容だったのだ。,The other masters who witnessed this scene rushed to buy Succubus cards. The sight of an F-rank master overwhelming the "undefeated rookie" with just low-level monsters was more than enough to incite them to make the purchase.
+それからしばらくして。,Some time later...
+僕はチャームサキュバスにつけられた早漏の呪いの後遺症に悩まされ、さらに街中の女性マスターたちがサキュバスカードを使うようになったせいで、まったくバトルに勝てなくなってしまった。,I was plagued by the aftereffects of the premature ejaculation curse placed on me by the Charm Succubus; and since female masters throughout the city started using Succubus cards; I couldn't win any battles at all.
+Bランクまで無敗だった僕は闘技場でも連敗するようになり、そのままDランクまで降格してしまった。今の僕はFランクやEランクのマスター相手でさえ、サキュバスカードを使われたらすぐに射精寸前に追い込まれてしまう。軽く撫でられるだけで耐えられない。,I; who had climbed up to B-rank undefeated; began suffering loss after loss even in the arena and was demoted all the way down to D-rank. Now; even against F-rank and E-rank masters; if they use Succubus cards; I'm immediately driven to the brink of ejaculation. I can't endure even light touches.
+大きく弱体化してしまった僕は、きっとこのまま落ちるところまで落ちてしまうのだろう。ましてや、魔族領に行って妹を助けることなんて到底不可能になってしまった。,Having been greatly weakened; I'll surely fall to rock bottom and beyond. Forget about going to the Monster's Domain to save my sister—that's become completely impossible now.
+こうして僕は妹を救いに行くこともできず、女性に全く勝てない低ランクのマスターとして、その後の人生を過ごしていくことになるのだった。僕の物語はそこで幕を閉じた。,And so; unable to go rescue my sister; I spent the rest of my life as a low-rank master who couldn't win against women at all. That's where my story came to an end.
+快楽に溺れている音❤サキュバスに命を食べられてる音❤\nとっても怖い、咀嚼音ね❤,The sounds of drowning in pleasure.❤ The sounds of a succubus eating your life away.❤ What terrifying chewing sounds.❤
+くすくす❤乳揺れ１回で速攻射精❤\nチンポ弱すぎよ❤その辺の村人よりも弱いんじゃないの？\nぷっ、くすくすくす❤,*Giggle* One breast bounce and you ejaculate instantly.❤ Your dick is too weak~❤ Isn't it even weaker than some random villager's? Pfft; ahuhuhuhu~❤
+{ランク名}ランクの強いマスターなのに\nおチンポたっぷり弱くされて、こんな軽い刺激で射精しちゃうなんて、\nあはは、これは一生笑いものにされちゃうかもね❤,Even though you're a strong {ランク名}-rank master; your dick has been thoroughly weakened; and you ejaculated from such light stimulation. Ahaha; you might become a laughingstock for the rest of your life❤
+{ランク名}ランクのつよぉーいマスターくんが、\nザコマスターのザコモンスターに負けちゃう❤\nおチンポ触るの気持ちよくてやめられない❤,A strooong {ランク名}-rank master losing to a weak master's weak monster❤ Touching your dick feels so good that you can't stop.❤
+{ランク名}ランクのつよぉーいマスターのモンスターなのに、\nザコマスターのザコモンスターに負けちゃう❤\nおチンポ触るの気持ちよくてやめられない❤,Even though you're a strooong {ランク名}-rank master's monster; you're losing to a weak master's weak monster❤ Touching your dick feels so good that you can't stop.❤
+{ランク名}ランクマスターの強いモンスターなんだから、\nこんな誘惑ぐらい跳ね除けて、カッコよく戦えばいいのに❤\nご主人の命令を無視してお貢ぎオナニー❤信頼を裏切ってさいてーい❤,You're a strong monster from a {ランク名}-rank master; so you should be able to brush off this kind of temptation and fight valiantly~❤ But instead you're tribute-masturbating while ignoring your master's orders.❤ Betraying their trust makes you the woooorst~❤
+(うう、なんだこれ、頭の中に映像が浮かんできて・・・❤),(Ngh; w-what's happening; images are flooding my mind...❤)
+（くすくす❤くすくす・・・❤）,(*Giggle*❤ *Giggle*...❤)
+
+(あうう、声も頭の中に響いてくる・・・❤\nおっぱいが笑い声といっしょに揺れて、はひぃ・・・❤),(Ahhh; her voice is resonating in my head...❤ Her tits are jiggling with each laugh; nghh...❤)
