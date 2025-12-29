@@ -2,12 +2,12 @@
 This is a translation project for Succubus Duel, a card game featuring many succubi and temptations...
 [You can buy and support the game here!](https://www.dlsite.com/maniax/work/=/product_id/RJ01149693.html)
 
-- See [Milestones](https://github.com/Giratena/Succubus-Duel-English-Translation/milestones) for translation Progress (Current Percentage of Game Translated: 72% complete)
+- See [Milestones](https://github.com/Giratena/Succubus-Duel-English-Translation/milestones) for translation Progress (Current Percentage of Game Translated: 81% complete)
 - Log any bugs or typos, or see what needs to be translated in [Issues](https://github.com/Giratena/Succubus-Duel-English-Translation/issues)
 
 # How to contribute/test the translation
 - Anyone is welcome to add/help to the translation if they wish!
-- Checkout [Issues](https://github.com/Giratena/Succubus-Duel-English-Translation/issues)/[Pull Requests](https://github.com/Giratena/Succubus-Duel-English-Translation/pulls), or alternatively send a message on our [translation discord](https://discord.gg/fYPg7KX
+- Checkout [Issues](https://github.com/Giratena/Succubus-Duel-English-Translation/issues)/[Pull Requests](https://github.com/Giratena/Succubus-Duel-English-Translation/pulls), or alternatively send a message on our [translation discord](https://discord.gg/MwrDgQNdm3
 ) ^^
 - Clone the Repo and then copy your game files into the repo and you're done!
   - Any edits or change in the repo will also be reflected in your game.
@@ -20,7 +20,7 @@ This is a translation project for Succubus Duel, a card game featuring many succ
 
  # How to support:
  - Support my work on Patreon! https://www.patreon.com/Giratena
- - Join the Translation Server discord for wholesome translation help and updates! https://discord.gg/fYPg7KX
+ - Join the Translation Server discord for wholesome translation help and updates! https://discord.gg/MwrDgQNdm3
 
 # Full Save with all Player Cards Unlocked:
 - You can get a full save with all the player cards unlocked [here](https://github.com/user-attachments/files/17883068/save0.txt)

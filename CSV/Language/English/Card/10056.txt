@@ -1,230 +1,229 @@
 default
 死を振りまくもの,Death Sprite
 EU56_handJobAnime,
-闇属性の妖精のモンスター。妖精だが大きさは普通の人間と変わらない。死者を現世へ導き、生者を冥界へ導く。混乱した状況が好きであり、世の中を混沌とさせて楽しむために死者と生者を本来の居場所と違う場所へ導いている。甘い声でからかいながら快楽を与えてくるが、ふらふらと誘われるまま彼女についていくと死の世界に連れていかれてしまう。,
-[1].このカードが場に出たとき発動する。「ゾンビ」状態でないランダムな相手キャラクターに「ゾンビ」状態を付与する。,
-[2].自分の闇属性キャラクターが相手モンスターを破壊したとき発動する。デッキから「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」を１枚手札に加える。,
-[3].このカードが破壊され墓地へ送られたとき、手札に「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」がいる場合に発動する。手札の「<color=#fd7e00><u><link="10053">ゾンビガール</link></u></color>」を可能な限り自分フィールド上に特殊召喚する。,
-わたしのウイルス玉をくらえー❤,
-このもやもやには色んなウイルスが入ってるんだよ。\n死につながる病気とかもあるけど、\n今はゾンビになっちゃうやつをプレゼントしてあげる❤,
-飲みにくい薬を飲ませるときみたいに、\nわたしの甘い香りがブレンドしてあるから、\n勝手に吸い込んじゃうよねー❤くすくす❤,
-わたしは冥府の導きの妖精。\n死んだ人を現世に引き連れてきたらねー、\n代わりに生きてる人を死の世界に連れて行かないといけないの。,
-みんな冥府になんて行きたくないって嫌がるんだけど、\nそういうときは手をおちんちんに当てて、\n亀頭をぐりぐりぐり～ってしながら、おねがいするんだ❤,
-若い男の子が一番簡単❤\nまだまだ寿命があって長生きできたはずなのに\nみんなわたしのおねがいを聞いてくれるんだよ❤,
-ふふ、あなたにもやってあげるねー❤\n手をぴたっておちんちんに当てて、ぐりぐりぐり～♪\nねえ、死んで死んで、おねがーい❤,
-男ってチンポ触ってあげればすぐ負けちゃうよねー。\n片手で雑に、シコシコ♪シコシコってするだけで、\nほおら、気持ちよくて頭がとろけちゃう❤,
-あなたが射精したら、\nエナジーぜんぶもらってあげる❤\nうりうり～♪わたしの手コキでさっさと屈服しちゃえ❤ザコチンポ❤,
-手でいじめてあげる～❤\nほら、亀頭に手をかぶせて、ぐりぐりぐり～❤,
-きゃはは❤変な声出しちゃっておもしろーい❤\nいっしょに竿もシコシコしてあげたらどうなるのかなぁ❤\n気持ちよすぎて、そのまま射精して死んじゃう？死んじゃう？,
-亀頭を胸に押し付けて、ぷにぷに❤むにむに❤\nあは、わたしみたいな小さいおっぱいでも、\nおちんちんに擦りつけられると気持ちいいんだー❤,
-ほら、根元を手コキしながらぁ、\nもっとぐいっておっぱいに押し付けてあげるねー❤\n柔らかいのに包まれながらシコシコされて、たっぷり射精しちゃえ❤,
-踏んづけてあげるね。えい❤,
-あは、ブーツで踏まれて喘いでるし❤\nチンポ踏まれてうれしいんだー❤へんたーい♪,
-死者の世界に人を迷わせるのが、わたしの趣味なの❤\n暗い森で野宿している人を見かけたら、そばまで行って・・・。,
-「ねえ、あっちで気持ちいいことしよ…❤」って甘えてあげて\n死者の世界までふらふらーって連れて行っちゃうんだよ❤,
-途中で怖くなって逃げようとしてもねー、\n足とか手でちょっとおちんちんなでてあげれば、\n結局みんな断れないんだー❤,
-くすくす❤聞いてたら興味出てきた？\nほらあなたのおちんちんにもわたしの足コキ楽しませてあげるね❤\nブーツを脱いで、生足ですりすりすり～♪,
-あなたの上にまたがってぇー❤\nほら、チンポの上で、腰をすりすり❤\nたくさんこすりつけてあげる❤,
-あん❤どんどん固くなってきた❤\nわたしの中に入れたい？中に出したい？\nそれならほらぁ、自分から腰を突き出して、ずぷって挿入しちゃっていいよぉ,
-入れたらそのまま天国行き❤\nわたしのおまんこで脳みそ蕩けちゃおうよー❤\nきゃははは❤,
-えー、わたしにいじめてもらって、\n命を吸い取ってほしいの？\nきゃはは、自分からおねだりしちゃうなんて悪い子だねー❤,
-いいよー。あなたのこと吸い殺してあげる❤\nどうやっておちんちん気持ちよくしてほしいか言ってごらん？,
-邪妖精の手コキ,
-邪妖精のからかい,
-くすくす❤わたしの手でいじめてほしいんだ❤\nいいよー❤命をびゅるるぅって出しちゃうまで、\nしこしこして遊んであげる❤,
-わたしの体でからかってほしいんだー。いいよー❤\n足でふんづけたり、おちんちんの上におまたをすりすりしてあげる❤,
-きゃは❤足で踏まれて出しちゃったねー❤\nおちんちん踏まれて敵に負けちゃうんだもん。あなたってマゾだよねー❤\nマーゾ❤へんたーい❤きゃはは❤,
-あは、手でいじめてあげたらドロドロのエナジー出しちゃった❤\nこんなか細い手に負けて、敵にエナジーあげちゃうなんて\nほんと雑魚チンポなんだねー❤くすくす❤,
-あん❤先っぽ入れる寸前で出しちゃった❤\n中に出せるって思ったら興奮しすぎちゃった？\nきゃはは、チンポ弱いねー❤,
-ううっ・・・❤我慢できない・・・❤,
-あはは❤わたしの前に来たと思ったら、\nおちんちんいじり始めちゃった❤,
-わたしが可愛すぎてぇ、エッチな気分抑えられなくなっちゃった？\n敵の前でおちんちんをしこしこ、しこしこ❤\n触るところ見ててほしいんだー❤へんたーい❤,
-わたしねー、生きている人を死の世界に連れて行く妖精なんだけど、\n案内している途中に、\nいつもおちんちんをからかって遊んであげるんだよ❤,
-まだ死にたくないよーって言い出したら、\nおちんちんをやさしく握って、3回ぐらいしこしこしこってするの❤\nそしたらねー、顔がとろけて射精したいの我慢できなくて・・・,
-ふらふらーってわたしの後をついてきちゃうんだ❤\n冥府に着くまで何回もこれを繰り返して、\nずーっとおあずけ❤,
-どんな男の子も、最後はとろとろの顔で \n「早くイかせて」っておねだりするの❤\nだから冥府の扉をくぐった瞬間にシコシコして「逝かせて」あげるの❤,
-死んじゃうことよりおちんちん気持ちよくなることを選ぶなんて、\n男の子ってバカだよねー❤\nま、勝手にしごき始めちゃったあなたの方がもっとバカだけど❤,
-ねー、バカじゃなかったらそんなことしないよねー。\n敵の前で自分からおちんちん触って、\n早く命を吸い取ってぇって喘いでるんだよ？きゃはは、きもーい❤,
-ううっ、あううっ・・・❤,
-くすくす❤バカって言われてもシコシコ止められないね❤\nマーゾ❤,
-ほら、イくところ見ててあげるから、\n射精しちゃっていいよ❤\nバカとかマゾって言われて、もう限界みたいだし❤,
-あなたの弱ーいマゾチンポ、\nわたしにバカにされながら射精しちゃえ❤\n勝手に自滅して敵に生命エネルギー吐き出しちゃえ❤きゃはは❤,
-うぐぅっ、あぅうっ・・・❤,
-はひぃぃ・・・・❤❤,
-はーい、おつかれさまー❤\nそれじゃ死の世界へ案内してあげる❤,
-オッケーオッケー、無事向こうに送れたみたい。\nくすくす❤扉に飲み込まれる瞬間までアヘ顔してるなんて、\nカッコ悪い❤,
-他の人もわたしに案内してほしい？\nそれならシコシコするところ見ててあげてもいいけど…❤\nただバカにされるだけのために来る人なんていないよね。くすくす❤,
-あはは❤あなたもわたしの前でオナニーしちゃうんだ❤\nみんな自滅してシコシコするのが好きだねー。\nまだ戦いの最中なのに、敵の前でしゃがみこんでしこしこしこ～❤,
-そんなにわたしにバカにされながらオナニーしたかったの？\nへんたーい❤マーゾ❤きゃはは❤,
-ぷぷっ、おちんちん反応しまくりでわかりやすーい❤\nバカにされて見下されて、それで気持ちよくなっちゃうなんて、\nへんたいだね❤,
-あなたたちみたいな男の子、けっこういるんだよね。\n休んでれば回復できそうな病気の子のところに行って、\nちょっかいを出したりするんだけど、,
-死にたくないよーって言ってても、\nおちんちんにぴとって手を当てて・・・。,
-耳元で「マーゾ❤」って言ってあげたら、\nそれだけで勝手に腰をカクカクし始めるんだ❤\nわたしの手の平におちんちんこすりつけるの、止まらなくなっちゃう❤,
-病気から回復するなら絶対出しちゃダメなのに、\n大事な命のエネルギーを吐き出してねー、\nどぴゅどぴゅ射精してそれでどんどん弱っていっちゃうんだよ❤,
-死んじゃうかもしれないってときでも、\nマゾとかバカって言われるとおかしくなっちゃうんだもん❤\n男の子ってどういう脳みそしているのかな❤きゃはは❤,
-あなたもその人と同じだね❤大事なことがあっても\nわたしの前でおちんちん気持ちよくなりたくて頭おかしくなって、\nオナニーやめられなくなっちゃってる。きもーい❤,
-うぐぅっ・・・❤,
-くすくす❤これだけバカにされてもシコシコ止められないね❤\nマーゾ❤,
-ほら、イくところ見ててあげるから、\n射精しちゃっていいよ❤\nマゾの弱いおちんちんじゃ、もう限界みたいだし❤,
-しこしこしこしこ、バカみたいに動かして、\nわたしに生命エネルギー吐き出しちゃえ❤\n全部出せ❤イケ❤マゾ❤,
-はーい、おつかれさまー❤\nそれじゃあなたも死の世界へ案内してあげる❤,
-やん、つよーい。\nわたしのひよわな体じゃやられちゃーう❤,
-ねえ、おねがい、いじめないで？\nわたし、見ての通り腕も細いし、脚も細いの。\nえ？脚はそんなに細くないって？そうかなぁ・・・。,
-ほら、スカートの隙間をぴらり❤\nよく見てみてよ。\nわたしの脚が細いか、太いか・・・❤,
-くすくす❤そんなことどうでもいいって言いながら、\n目は釘付けになってるみたいだよ？\nほらほら、ぴらり♪ぴらり♪何度でもチラチラ見せつけちゃう❤,
-バカみたいに脚に見とれていようねー❤,
-視線を外して攻撃した,
-ふとももから目が離せなかった,
-きゃん！うぬぬ、蘇ったら今度は負けないんだから・・・。,
-あは❤穴が開くぐらい見てる❤\nそんなに気になるなら、ほら❤,
-わたしの脚の間におちんちん入れて、\nわたしのふとももが太いか確かめて？\nえい・・・❤,
-はぐぅううっ・・・❤,
-ねえねえどう？わたしのふともも❤\nむっちりしてる？ほっそりしてる？\nあなたのおちんちんでよく分かるでしょ？,
-え？こんな風に抱き着かれて挿入されたらよくわからないって？\nくすくす❤そうね、上から見ても、スカートしか見えないもんね❤,
-でもほら、おちんちんに集中すれば、おにくの感覚が分かるでしょ❤\nおちんちんがぷにってふとももに埋もれて、\nすりすりすりってこすりつけられて・・・❤,
-あうっ、ああっ・・・❤きもちいいっ❤きもちいい・・・❤❤,
-くすくす❤太いか細いかなんて考えられなくなっちゃった？\nふとももの気持ちいい感触でおちんちんメロメロ❤\n大事なのは気持ちいいかどうかだけだもんね❤,
-あなたの一番好きなふとももの太さを想像して・・・？\nそれが答えだよ❤ほらぎゅって挟んであげれば、よくわかるでしょ❤,
-おちんちんにぴったりフィットして、\n一番気持ちいい感触❤\nあん❤おちんちんが上を向きすぎて、おまんこに当たっちゃいそう❤,
-でも、残念、ふとももにむにって埋まっちゃうから、\n先っぽがおまんこには届かないね❤\nほらほら、脚を前後に激しく動かしちゃうよ❤,
-頭の中の、理想のふとももに挟まれながら、\nわたしの激しいふとももコキでどびゅって射精しちゃえ❤,
-倒せそうだったモンスターに、\nカッコ悪ーくエナジー搾り取られちゃえ❤\nほらほらほらぁ❤,
-はぐあっ、あっ、あああっ❤❤❤,
-あひぃ・・・・❤❤,
-きゃは❤強い男の子ひとり陥落～❤\nスカートの隙間から生脚見せられたぐらいで、\n雑魚チンポあっさり射精させられちゃったね❤,
-あなたのエナジーのおかげで体力は全回復❤\nさらにゾンビちゃんを呼び出せちゃいまーす❤\n一緒に戦ってる仲間は一気にピンチかも。くすくす❤,
-あなたのエナジーのおかげで体力は全回復❤\n一緒に戦ってる仲間は一気にピンチかもね。\nくすくす❤仲間がかわいそー❤,
-きゃん、もう威力が高すぎよ。\n吹き飛ばされちゃったじゃない。,
-こうなったらこっちに近づいてくる前に・・・。\nねえ、ほら、見て・・・❤わたしの指❤\nこうやって輪っかを作って、胸の前でしこしこしこ～❤,
-あは、すごくエロい動きでしょ？\nわたしねー、手コキが一番得意なの。根元を軽くしごきながら、\n先っぽに手の平を当てて、ごしごしってやってあげれば・・・❤,
-男はみーんな膝をガクガクふるわせて、骨抜きになっちゃうんだよ❤\nねえ、あなたもされてみたい？わたしの手・コ・キ❤,
-くすくす❤おちんちんビクンって反応してる❤\n手コキされるの想像しちゃったのね❤\nほらぁ、あなたもそのおちんちんみたいに素直になろー❤,
-じっとして動いちゃダメよ。\n指でしこしこ～って気持ちよく抜いてあげる❤,
-理性をふりしぼって攻撃した,
-足を止めてしまった,
-きゃあ！ううっ、ダメだったかー・・・。,
-くすくす❤素直でいいじゃない❤\nそれじゃあ、おちんちんを握ってぇー・・・❤,
-しこしこスタート❤,
-先っぽすりすりってされるの、気持ちいい？\nここって敏感だから、ちょうどいい力加減が難しいんだよねー。,
-でも、わたしはそれが大得意❤\n男の子が一番気持ちいいリズムと力加減で、\nすりすり、さわさわ・・・❤ふふふ❤もう腰が震えてる❤,
-根元はちょっとだけ動かすんだよ。\n大きく動かした方が早く射精させられるけど、\nこれぐらい小さなシコシコでも十分なの❤,
-そうでしょ？つよーいはずのあなたも、\nおちんちん気持ちよくて、\nあえぐことしかできなくなっちゃったもんね❤くすくす❤,
-あっ、ああっ❤そこをさわられたらっ、ああっ❤❤,
-心のバリアが解けちゃってるからよけいに気持ちいいでしょ？\n敏感な先っぽを、バリアなしで女の子モンスターに差し出すなんて、\nまさに自殺行為❤,
-でも、生命エネルギー吸われてもいいから、\nシコシコしてほしかったんだよね❤\nわたしが手コキが上手いって聞いて味わいたくなっちゃったんだよね❤,
-がんばって追い詰めたのに、\nやっぱりびゅっびゅってしたいよーっておちんちんの欲求に負けて、 \n敵におちんちん差し出して・・・❤,
-ぷぷっ、かっこわるーい❤ザーコ❤,
-ほらほらほら❤シコシコ早くしてあげる❤\n根元から精液しこしこしこ～って先っぽに向けて押し出して、\nそれを先っぽカリカリで吐きださせてあげる❤,
-気持ちよすぎて耐えられないよねー。腰が浮いてきちゃうもんねー❤\nきゃはは❤出しちゃえ❤出しちゃえ❤\nわたしの手コキにさっさと負けちゃえ❤はい、びゅるるるぅ❤,
-あぐ、あひぃ・・・・❤❤,
-きゃはは❤すっごい勢い❤\nぶしゅうって手の平に向けて射精して、\nわたしの手がほら、どろどろだよー❤,
-あなたのエナジーのおかげで体力が全回復❤\nさらにゾンビちゃんを呼び出しちゃいまーす❤\n一緒に戦ってる仲間は一気にピンチかも。くすくす❤,
-ぷぷっ、Bランクマスターが、\nオナニーシコシコして負けちゃったね。\n理性よわすぎ～❤ざーこ♪,
-くすくす❤ふとももに挟まれて気持ちよかったー？\nあとちょっとで倒せそうだったのにねー。\nぷぷ、逆転負けしてカッコ悪～い♪,
-わたしの手コキ、すごく上手かったでしょ❤\n先っぽいじめられて、あへあへにされちゃったねー。\nわたしにとどめ刺さなくて正解だったんじゃない？くすくす❤,
-きゃは❤足で踏まれてどぴゅどぴゅ出してる～♪\n負けたらなにされるか分からないのに、\n足コキなんかで射精しちゃっていいのかなー。,
-気持ちよくて何にも考えれないか。\nマゾってバカだよねー❤くすくすくす❤,
-あは、見てみて手がどろどろ～❤\n殺されちゃうかもしれないのに、わたしの手コキに負けちゃったんだ❤\nシコシコにすぐ負けて、よわーい❤くすくす❤,
-ぷぷっ、おまんこに入れる前に射精しちゃってる❤\n中に入れるの想像したら我慢できなかった？\n童貞くんっておちんちん弱いんだねー。くすくす❤,
-僕より少し背の低い、闇をまとった妖精モンスターに敗れた僕は、エナジーを奪われ意識がもうろうとなっていた。,
-あううっ・・・❤,
-くすくす❤わたしみたいな下級モンスターに負けちゃうなんて、\n正義のカードマスターくんは弱いねー❤\n盗賊を退治に来たんでしょ？それなのに・・・。,
-おちんちん我慢できなくなって、\nわたしにバカにされながら、マゾシコオナニー❤\n正義の心を自爆シコシコでぴゅっぴゅっしちゃった♪,
-チラ見えするふとももに見とれてる間に、おちんちんをパックン❤\n間抜けチンポを太ももに捕まえられて、\nむぎゅむぎゅ扱かれて逆転負けしちゃった❤,
-エア手コキ見せつけてあげたら、言われるがまま棒立ち❤\nチンポを両手でシコシコ、ぐりぐりってされて、\nあっけなく手の平に射精しちゃった❤,
-足で踏んでちょっとコスってあげたら、それだけで射精❤\nマゾチンポ弱すぎて、悪いモンスターに簡単に屈服させられちゃった❤,
-手で握ってちょっとコスってあげたら、それだけで射精❤\nマゾチンポ弱すぎて、悪いモンスターに簡単に屈服させられちゃった❤,
-上にまたがってちょっと擦ってあげたら、それだけで射精❤\nマゾチンポ弱すぎて、偽物エッチで簡単に屈服させられちゃった❤,
-ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーいおくちだよ？\nこの口でマゾって言われて興奮しちゃうの？きゃはは❤,
-そういって{自分}は僕の耳元で「マーゾ」とささやいてくる。体をびくんとさせてもおかまいなしに、何度もマゾと繰り返し甘く罵倒され脳がどうにかなってしまいそうだ。,
-ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーいおててだよ？\nきゃはは❤,
-そういって{自分}は僕に手の平を見せつけてきた。空中で筒を作って前後に動かし、いやらしく僕にアピールしてくる。,
-ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーい足だよ？\nきゃはは❤,
-そういって{自分}は僕に足裏を見せつけてきた。空中で何かを擦っているかのように上下に動かし、いやらしく僕にアピールしてくる。,
-ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーいふとももだよ？\nきゃはは❤,
-そういって{自分}は自分の指をふとももにあてがって僕に見せつけてきた。スカートの上から指を押し当て、ふとももの間に挟んですりすりと動かし、いやらしく僕にアピールしてくる。,
-ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーい腰ふりだよ？\nきゃはは❤,
-そういって{自分}はわざとらしく腰を前後にくねらせて見せた。あん、あんと棒読みの喘ぎ声をあげて、僕の方をにやにやとバカにしながら見つめてくる。,
-あう、あうう・・・❤くそぉ・・・❤,
-ぷぷっ、悔しいのに、こんな挑発でまた感じちゃうね❤\nおちんちんがびくびくびく♪\nBランクの正義のマスターさん、よわぁい❤,
-ねえ、その興奮してるおちんちん、どうしてほしい？\nこのまま何もしないで、洞窟から解放してほしい？\nそ、れ、と、も・・・❤,
-もう一回どびゅぅって射精したい？\nほら、おちんちんの頭を手でなでながら聞いてあげる❤\n正直に答えて～❤どうしてほしいのかな～❤,
-やめ、ああっ❤すりすりしないでっ❤❤はうぅ❤❤,
-んーやめてほしいの？ほんとに？\nこのおちんちんは、いいこいいこってされて、\nすっごくうれしそうに見えるけどなー❤,
-ま、いいや。それじゃやめてあげる。\nはい、おしまーい。,
-あ、ああ・・・・。うぐぅっ・・・❤,
-きゃはは❤手を止めたのに、腰がへこへこしてる～❤\n手の平が恋しくて、腰を前に突き出してるのかなー❤\n残念だけどそこに手の平はありませーん❤,
-マスターくんが意地を張らなければ、\nいまごろ先っぽすりすりしてもらえてたのにねー❤空気に向かって\nへこへこしても気持ちよくなれないよ～。あーん、かわいそー❤,
-くっ、ううぅ❤う、うう・・・❤,
-ねえねえどうする？\nおちんちんの先っぽなでてほしい？\nなでながら根元を一緒にシコシコしてあげてもいいよ❤,
-そうだなー。\n「僕はもう盗賊団に逆らいません」って大きな声で言ったら、\nやってあげようかなー❤,
-さっきまではタダで触ってくれたのにって？\nふふ、そんなのわたしの気分次第だからねー。\nマスター君が素直にならないから、特別サービスは終わっちゃったの❤,
-ねえどうする？おちんちんの先っぽ、\nまたなでなでしてほしい？\n妖精の手で気持ちよくされて、あへあへぇって射精したい？,
-ううっ・・・❤それはぁ・・・❤,
-・・・・くすくす❤,
-あっ、やめて、そんな近くで手を動かさないでっ・・・❤❤ああっ❤,
-ぷぷっ❤手をくぼませて、亀頭の近くに持ってきたただけで、\n面白いぐらいおちんちんビクビクしちゃうね❤\nでもぉ、あなたがちゃんと宣言しない限り、絶対触ってあげないよ？,
-おちんちんを頑張って揺らしてもムダ❤\nあとちょっと届かない場所で、手の平を動かして焦らしてあげる❤\nほらぁ、当たりそうで当たらないねー❤もどかしいねー❤,
-ああん❤なでてあげたら気持ちいいだろうなー❤\nシコシコされたら、おちんちん幸せになっちゃうのになー❤\nわたしの手コキ超うまいのになー❤きゃははは❤,
-ううっ❤ううっ・・・❤❤,
-くす❤欲望と我慢がぶつかりあって、\nぐずぐずになっちゃったその顔。\nわたし大好き❤,
-手の平をひらひらされてるだけで、\n男の子がしちゃいけない顔にされちゃうね❤\nねーねー、我慢汁ばっかり出ててもったいないよー❤,
-焦らされて我慢汁が出ちゃってるその先っぽ❤\nローションみたいにぬるぬるだから、\n手コキされたら最高に気持ちいいのに❤,
-どうする？このまま頭おかしくなるまで、\nおちんちんのそばで、手の平ひらひらされる？\nそれともぉ、かっこわるーくおねだりしちゃう？,
-お、おねがい・・・❤,
-うんうん、つづけて❤,
-僕は、盗賊団にもう逆らいませんっ❤❤\nだから、おねがいしますっ❤はやく・・・❤❤,
-ぷぷっ、ちょろ❤,
-ほらほらほら❤\nあなたが正義心を捨てておねだりした手コキだよー❤,
-きゃはは、触ったとたんチンポ喜びすぎ❤\n超うれしそうじゃん❤,
-我慢汁ぬりこまれてたまんない？\nそうだよねー。ずっと焦らしてたもんねー❤\n待ち焦がれて敏感になってるよねー❤,
-ほらほらぁ❤さっさと一発出しちゃいなよー❤\nわたしに屈服するのが気持ちいいって、\n体に教え込んであげる❤,
-マスター君はねー、盗賊の悪いモンスターにイかされて、\n下級モンスターに力の差を分からされちゃうの❤\nそんなの恥ずかしいよねー、でもおちんちんきもちいよねー❤,
-先っぽからびゅって出すの、我慢できないよねー❤\nきゃははは❤ほらぁ、とどめに手の平をぐりぐりぐり～❤,
-はぅ、はぐぅっ❤❤ああっ❤こんなの、むりっ❤❤❤,
-いいよー、わたしの手の平に負けちゃえ❤\n根元も小刻みにシコシコしてあげるから、精液押し出されちゃえ❤\nイケ❤イケ❤まーぞ❤,
-あっ、あっ、だめ止めてっ❤❤❤いま、びんかんだからっ❤❤,
-きゃはは❤きこえませーん❤\nなにか言いたいことがあれば、そのうるさい喘ぎ声止めてから言えば～？,
-射精したあとも、手の平で亀頭こすられまくって、\nチンポバカになっていいよ～❤\n体中の水分全部もらしちゃうまで遊んであげる❤,
-うりうりうりうり～❤\nきゃはははは❤びくびくしすぎ～❤\nもっと喘いで、全部出して、このまま死んじゃってもいいよ～❤,
-はぐっ、あぐぅ❤❤あっ、ああっ❤❤また出るぅっ❤❤\nああああっ❤❤,
-ぷぷぷ、見てよ。床がびちょびちょ❤\n途中から精液だけじゃなくて、潮も吹いちゃってたね❤,
-潮を吹くなんて女の子みたい❤\nかっこわるーい❤,
-あひ、あへぇ・・・・❤❤,
-あは❤芋虫みたいに床にねそべって、\nもぞもぞもぞって痙攣することしかできないね❤,
-それじゃあ、おちんちんの先っちょに、\n面白いことしてあげる❤\nえい…♪,
-その後、目を覚ますと僕は村の宿屋にいた。宿屋の主人に聞いたところ、気絶した状態で盗賊が僕をここまで担いできたらしい。,
-村の人が逆らえないのを知って、隠れもせずに僕を運び込んできたのだろう。ふてぶてしいものだ。,
-・・・ん？,
-何か下半身に違和感がある。ズボンを脱いで確かめてみると、なんと自分のペニスに見慣れない紋様が刻まれていた。,
-紫色をしたその紋様は、ちょうど先端の部分に刻まれている。あの妖精のモンスターに気絶している間に何かされたのだろうか。,
-いや、今はとにかく、盗賊退治が先決だ。一回は負けてしまったが、相手のデッキだってある程度分かった。次こそは勝てるはずだ。,
-僕は魔力の回復を待って、再度ネクロに挑んだのだった。,
-ふふ、懲りないのね❤\nでも、そんなおちんちんでどう戦うつもりなのかしら。,
-出なさい。{自分}を召喚。,
-あー、「盗賊団に逆らわない」って約束したのに悪い子だねー。\n悪い子には、ほら、指を鳴らしてパチン♪,
-なっ、はぐぅうっ❤❤❤,
-ぷぷぷ❤おちんちんを両手でおさえて倒れ込んじゃった❤\nねー、急に先っぽが気持ちよくなってびっくりしたよねー。,
-マスターくんのおちんちんには呪いが刻んであるんだよ❤\nわたしがねー、こうやって手の平を\n空中でぐりぐりぐりって動かすだけで・・・❤,
-あっ❤ああっ❤❤だめ、やめてぇ・・・❤❤,
-きゃはは♪いつでもマスター君のおちんちんをいじめられるの。\n先っぽの紋様が光ってるでしょ？\nわたしの手の平とおんなじ感触、感じちゃうからすごいよねー❤,
-こういうこともできるよ。指で小さい輪っかを作って、\n先っぽをしこしこしこ～❤\n高速手コキしてあげるー❤,
-はぐぅっ❤❤あぎぃっ❤❤あっ、あっ、ああっ❤❤❤,
-あはは、まだバトルはじまったばっかりなのに、\nもう射精しちゃった❤\nわたしエア手コキしてるだけなのに❤,
-マスターくんよわーい❤\nきゃははは❤,
-うう、あううぅ・・・❤こんなはずじゃ・・・❤,
-くす❤直接触らなくて責めれるから～、\nマスターくんがモンスターを出しても防げないし、\nこの先もう絶対勝てないと思うなー❤,
-正義のマスター君は、おちんちんに首輪をつけられちゃったの。\nいつでも、おちんちんに「負けろ」って命令できちゃう首輪❤\nほらほらぁ、またカラカラになるまで搾っちゃうよー❤,
-あうぅっ❤❤やめてっ❤❤先っぽばっかりっ❤❤\nああっ、こわれるっ、こわれちゃうっ❤❤あひいっ❤❤,
-その後、僕は{自分}にこってりと搾りとられ、また盗賊の根城から追い出されたのだった。,
-コテンパンに負けた僕は、このままではまずいと思い、モルゲンに戻って他のマスターの助けを借りようかと考えた。しかし、いざ実行に移そうとすると・・・,
-突然自分のペニスに刺激が走り、先端を彼女の手でなでられるような快感が襲ってきて、一歩も動けなくなってしまった。,
-どうやら僕が盗賊団に不利益になるようなことをしようとすると、紋様が反応し、快感を与えてくるらしい。亀頭を手の平で執拗になでられるような刺激の中では、まともに歩くこともできず、言葉も発せなくなり、馬車を借りてモルゲンに行くことすらできない始末だった。,
-そのうえ紋様の刺激だけでは、なぜか射精をすることができず、先端を弄ばれるじんじんとした快感だけが日々積もっていった。,
-数日後,
-あう、あうう・・・❤おねがい、します・・・❤❤イかせてぇ・・・❤❤,
-ぷぷっ、首輪に引っ張られて、\nわんちゃんみたいにおねだりに来ちゃったね❤,
-マスターくんにはこれから盗賊団の子分として働いてもらうよ？\nいいよね？おちんちん、我慢できないもんね？,
-ううっ・・・❤❤おねがい・・・❤なんでもするからぁ・・・❤❤,
-きゃはは♪下級モンスター相手に、服従しちゃってちょろーい❤\nそれじゃこれからよろしくねー。\nＢランクマスターあらため、盗賊団のしたっぱくん❤,
-その後僕はネクロの子分になり、盗賊団の用心棒として死ぬまで働いた。こうして僕の物語は、妖精に快楽の首輪をつけられ、その幕を閉じたのだった。,
+闇属性の妖精のモンスター。妖精だが大きさは普通の人間と変わらない。死者を現世へ導き、生者を冥界へ導く。混乱した状況が好きであり、世の中を混沌とさせて楽しむために死者と生者を本来の居場所と違う場所へ導いている。甘い声でからかいながら快楽を与えてくるが、ふらふらと誘われるまま彼女についていくと死の世界に連れていかれてしまう。,A Dark attribute fairy monster. Despite being a fairy; her size is the same as that of a normal human. She takes joy in leading the living to the underworld and the dead to land of the living in order to sow more chaos into the world. She enjoys teasing men with her sweet voice and offering them pleasure; and any who are lured by her charm and follow in her wake will find themselve led to the land of the dead.
+[1].このカードが場に出たとき発動する。「ゾンビ」状態でないランダムな相手キャラクターに「ゾンビ」状態を付与する。\n[2].自分の闇属性キャラクターが相手モンスターを破壊したとき発動する。デッキから「{%%10053}」を１枚手札に加える。,[1]. When this card is summoned; inflict the "Zombie" status on a random card on your opponent's field that doesn't already have it.\n[2]. Whenever one of your Dark attribute monsters destroys an opponent's monster; add a "{%%10053}" from your deck to your hand.
+[3].このカードが破壊され墓地へ送られたとき、手札に「{%%10053}」がいる場合に発動する。手札の「{%%10053}」を可能な限り自分フィールド上に特殊召喚する。,[3]. When this card is destroyed and sent to the graveyard; if you have a "{%%10053}" in your hand; activate this ability. Special summon as many "{%%10053}" cards as possible from your hand to the field.
+わたしのウイルス玉をくらえー❤,Take my Virus Orb~❤
+このもやもやには色んなウイルスが入ってるんだよ。\n死につながる病気とかもあるけど、\n今はゾンビになっちゃうやつをプレゼントしてあげる❤,I have lots of viruses swirling around in this mist. Plenty of them are fatal; but I added one that turns you into a zombie as a little present~❤
+飲みにくい薬を飲ませるときみたいに、\nわたしの甘い香りがブレンドしてあるから、\n勝手に吸い込んじゃうよねー❤くすくす❤,I mixed my sweet breath in; like sugar that helps bitter medicine go down. Breath it in deep~❤ *Giggle*❤
+わたしは冥府の導きの妖精。\n死んだ人を現世に引き連れてきたらねー、\n代わりに生きてる人を死の世界に連れて行かないといけないの。,I am a fairy that guides people to the underworld. Whenever I bring a dead soul back to the living world; you know; I have to bring a living soul to the underworld back with me.
+みんな冥府になんて行きたくないって嫌がるんだけど、\nそういうときは手をおちんちんに当てて、\n亀頭をぐりぐりぐり～ってしながら、おねがいするんだ❤,Nobody wants to go to the underworld; but I hold their penis in my hand; and I beg them while I rub; rub; rub the tip; they change their tune pretty quick~❤ 
+若い男の子が一番簡単❤\nまだまだ寿命があって長生きできたはずなのに\nみんなわたしのおねがいを聞いてくれるんだよ❤,Young men are the easiest~❤ Even though they still have so much life to live; they all listen to my requests so happily!❤
+ふふ、あなたにもやってあげるねー❤\n手をぴたっておちんちんに当てて、ぐりぐりぐり～♪\nねえ、死んで死んで、おねがーい❤,Fufu; I'll do it to you too; okay?❤ I'll just grab your penis like this; and tease your tip~♪ Hey; die for me; okay? Please~❤
+男ってチンポ触ってあげればすぐ負けちゃうよねー。\n片手で雑に、シコシコ♪シコシコってするだけで、\nほおら、気持ちよくて頭がとろけちゃう❤,Men always lose as soon as you touch their penis; huh? It just takes one hand stroking you their penis. See? It feels so good you can't think~❤
+あなたが射精したら、\nエナジーぜんぶもらってあげる❤\nうりうり～♪わたしの手コキでさっさと屈服しちゃえ❤ザコチンポ❤,If you cum; I can take all your energy. ❤ Go; it's okay~♪ Hurry up and surrender to my hand.❤ Weak little penis~❤
+手でいじめてあげる～❤\nほら、亀頭に手をかぶせて、ぐりぐりぐり～❤,I'll tease you with my hand~❤ Here; I'll wrap my palm around your tip; and grind it with a twist~❤
+きゃはは❤変な声出しちゃっておもしろーい❤\nいっしょに竿もシコシコしてあげたらどうなるのかなぁ❤\n気持ちよすぎて、そのまま射精して死んじゃう？死んじゃう？,Kyahaha~❤ Your weird little sounds are so funny~❤ I wonder what would happen if I stroked your shaft at the same time.❤ Would it feel so good you'd cum and die on the spot? Hey; don't you wanna just die?
+亀頭を胸に押し付けて、ぷにぷに❤むにむに❤\nあは、わたしみたいな小さいおっぱいでも、\nおちんちんに擦りつけられると気持ちいいんだー❤,I'll press your tip into my breasts; and squish them again and again~❤ Aha; even with a chest as small as mine; it still feels so good when they rub your penis~❤
+ほら、根元を手コキしながらぁ、\nもっとぐいっておっぱいに押し付けてあげるねー❤\n柔らかいのに包まれながらシコシコされて、たっぷり射精しちゃえ❤,Here; I'll stroke the base of your cock and press my breasts even harder~❤ I'll wrap you in this softness and stroke you plenty; so cum lots for me!❤
+踏んづけてあげるね。えい❤,I'll trample you; okay? Take this!❤
+あは、ブーツで踏まれて喘いでるし❤\nチンポ踏まれてうれしいんだー❤へんたーい♪,Aha; when I pressed on you with my boot you started moaning!❤ You must really like getting stepped on.❤ You pervert~♪
+死者の世界に人を迷わせるのが、わたしの趣味なの❤\n暗い森で野宿している人を見かけたら、そばまで行って・・・。,Leading people astray and taking them to the land of the dead is my favorite pastime.❤ If I find people camping in a dark forest; I go to their side and I sweetly say...
+「ねえ、あっちで気持ちいいことしよ…❤」って甘えてあげて\n死者の世界までふらふらーって連れて行っちゃうんだよ❤,"Hey~; let's go do something that feels good over there...❤" I act all sweet and they're more than happy to stagger after me to the underworld~❤
+途中で怖くなって逃げようとしてもねー、\n足とか手でちょっとおちんちんなでてあげれば、\n結局みんな断れないんだー❤,Even if they suddenly get scared and try to run away; all I have to do is rub their penis with my legs or hands just a little bit; and nobody can refuse in the end~❤
+くすくす❤聞いてたら興味出てきた？\nほらあなたのおちんちんにもわたしの足コキ楽しませてあげるね❤\nブーツを脱いで、生足ですりすりすり～♪,*Giggle*❤ Did hearing all that get you curious? Here; I'll stroke you with my legs too; so enjoy; okay?❤ I'll even take off my boots so I can rub you with my bare feet~♪
+あなたの上にまたがってぇー❤\nほら、チンポの上で、腰をすりすり❤\nたくさんこすりつけてあげる❤,I'll straddle you just like this~❤ Look; I'm grinding my crotch against your penis and giving it a good rub~❤
+あん❤どんどん固くなってきた❤\nわたしの中に入れたい？中に出したい？\nそれならほらぁ、自分から腰を突き出して、ずぷって挿入しちゃっていいよぉ,Ahn~❤ You're getting so hard.❤ Do you want to put it in? Do you want to cum inside me? In that case; just move your own hips forward and stick it in all at once. You have my permission!
+入れたらそのまま天国行き❤\nわたしのおまんこで脳みそ蕩けちゃおうよー❤\nきゃははは❤,If you put it in; you'll go straight to heaven~❤ I'll melt your mind with my pussy!❤ Kyahahaha~❤
+えー、わたしにいじめてもらって、\n命を吸い取ってほしいの？\nきゃはは、自分からおねだりしちゃうなんて悪い子だねー❤,Eh; you want me to tease you and suck your lifeforce out? Kyahaha; asking for it yourself like that... You're such a bad boy; huh?❤
+いいよー。あなたのこと吸い殺してあげる❤\nどうやっておちんちん気持ちよくしてほしいか言ってごらん？,Okay! I'll happily drain you to death. Come on; tell me. How do you want me to make you feel good?
+邪妖精の手コキ,Evil Fairy's Handjob
+邪妖精のからかい,Evil Fairy's Tease
+くすくす❤わたしの手でいじめてほしいんだ❤\nいいよー❤命をびゅるるぅって出しちゃうまで、\nしこしこして遊んであげる❤,*Giggle*❤ So you want to be teased by my hand?❤ Alright!❤ I'll playfully stroke you until you spurt; spurt; spurt your life out~❤
+わたしの体でからかってほしいんだー。いいよー❤\n足でふんづけたり、おちんちんの上におまたをすりすりしてあげる❤,So you want me to tease you with my body? Alright!❤ I could step on you; or maybe rub my pussy on your penis~❤
+きゃは❤足で踏まれて出しちゃったねー❤\nおちんちん踏まれて敵に負けちゃうんだもん。あなたってマゾだよねー❤\nマーゾ❤へんたーい❤きゃはは❤,Kyha~❤ You came just from being stepped on; didn't you?❤ You actually lost from getting your little dick trampled. You're a real masochist; aren't you?❤ Masochist!❤ Pervert!❤ Kyahaha~❤
+あは、手でいじめてあげたらドロドロのエナジー出しちゃった❤\nこんなか細い手に負けて、敵にエナジーあげちゃうなんて\nほんと雑魚チンポなんだねー❤くすくす❤,Aha; teasing you with my hand made you leak such thick energy.❤ Losing to such a slender hand and giving your energy to the enemy... You cock's really weak; huh?❤ *Giggle*❤
+あん❤先っぽ入れる寸前で出しちゃった❤\n中に出せるって思ったら興奮しすぎちゃった？\nきゃはは、チンポ弱いねー❤,Ahn~❤You came just before putting the tip in.❤ Did thinking about cumming inside me get you too excited? Kyaha; your penis is way too weak; don't you think?❤
+ううっ・・・❤我慢できない・・・❤,Ugh...❤ I-I can't hold back...❤
+あはは❤わたしの前に来たと思ったら、\nおちんちんいじり始めちゃった❤,Ahaha~❤ You just walked up to me and started touching yourself!❤
+わたしが可愛すぎてぇ、エッチな気分抑えられなくなっちゃった？\n敵の前でおちんちんをしこしこ、しこしこ❤\n触るところ見ててほしいんだー❤へんたーい❤,Am I just so cute you couldn't hold your excitment anymore? You're just gonna stroke; stroke; stroke yourself in front of your enemy.❤ You must want me to watch.❤ Pervert~❤
+わたしねー、生きている人を死の世界に連れて行く妖精なんだけど、\n案内している途中に、\nいつもおちんちんをからかって遊んであげるんだよ❤,You know; I'm a fairy that leads the living to the underwolrd; but when I do; I like to tease and play with their penises!❤
+まだ死にたくないよーって言い出したら、\nおちんちんをやさしく握って、3回ぐらいしこしこしこってするの❤\nそしたらねー、顔がとろけて射精したいの我慢できなくて・・・,If people say "I don't want to die yet!"; I just gently grip their penis and I stroke them about three times; like this. Stroke; stroke; stroke~❤ After that; their face always goes all melty; and they can't think about anything but wanting to cum...
+ふらふらーってわたしの後をついてきちゃうんだ❤\n冥府に着くまで何回もこれを繰り返して、\nずーっとおあずけ❤,They're more than happy to follow behind me after that.❤ I'll just do that over and over again until we finally reach the underworld; edging them the whole way~❤
+どんな男の子も、最後はとろとろの顔で \n「早くイかせて」っておねだりするの❤\nだから冥府の扉をくぐった瞬間にシコシコして「逝かせて」あげるの❤,No matter the boy; at the end they all look at me with those melted faces; begging me to make them cum.❤ Then; right before they enter the gates; I'll stroke them and make them see heaven before sending them to hell~❤
+死んじゃうことよりおちんちん気持ちよくなることを選ぶなんて、\n男の子ってバカだよねー❤\nま、勝手にしごき始めちゃったあなたの方がもっとバカだけど❤,Choosing to make your penis feel good; even though you know you'll die... Boys really are stupid; huh?❤ And someone like you who started stroking yourself all on your own is the stupidest of all~❤ 
+ねー、バカじゃなかったらそんなことしないよねー。\n敵の前で自分からおちんちん触って、\n早く命を吸い取ってぇって喘いでるんだよ？きゃはは、きもーい❤,I mean; if you weren't an idiot; you wouldn't do that; right? Touching your penis in front of your enemy; moaning and begging me to suck your life out... Kyahaha; disgusting~❤
+ううっ、あううっ・・・❤,Ugh; ahhh...❤
+くすくす❤バカって言われてもシコシコ止められないね❤\nマーゾ❤,*Giggle* I'm even insulting you; and still you can't stop stroking; can you?❤ Masochist~❤
+ほら、イくところ見ててあげるから、\n射精しちゃっていいよ❤\nバカとかマゾって言われて、もう限界みたいだし❤,Here; I'll be nice and watch you cum. It's okay; shoot it out!❤ Getting called a masochist and an idiot's already pushed you to your limit~❤
+あなたの弱ーいマゾチンポ、\nわたしにバカにされながら射精しちゃえ❤\n勝手に自滅して敵に生命エネルギー吐き出しちゃえ❤きゃはは❤,Make your weak little masochistic penis cum while I insult you; you idiot!❤ Kill yourself by shooting your lifeforce out for your enemy!❤ Kyahaha~❤
+うぐぅっ、あぅうっ・・・❤,Uuugh; aaahh...❤
+はひぃぃ・・・・❤❤,Haah; I'm cumming...❤
+はーい、おつかれさまー❤\nそれじゃ死の世界へ案内してあげる❤,Yay; thanks for your help~❤ I'll guide you to the land of the dead now.❤
+オッケーオッケー、無事向こうに送れたみたい。\nくすくす❤扉に飲み込まれる瞬間までアヘ顔してるなんて、\nカッコ悪い❤,And done! Looks like I was able to send him safely to the other side. *Giggle*❤ Swallowed by the gates; making that face the entire time... So uncool~❤
+他の人もわたしに案内してほしい？\nそれならシコシコするところ見ててあげてもいいけど…❤\nただバカにされるだけのために来る人なんていないよね。くすくす❤,Anyone else want me to 'guide' them? If you do; I'd be happy to watch them stroke themselves as well. But...❤ Surely there isn't anyone else who'd want to be made fun of right? *Giggle*❤
+あはは❤あなたもわたしの前でオナニーしちゃうんだ❤\nみんな自滅してシコシコするのが好きだねー。\nまだ戦いの最中なのに、敵の前でしゃがみこんでしこしこしこ～❤,Ahaha~❤ You're touching yourself in front of me too.❤ Everyone must love stroking themselves to death; huh? We're in the middle of a battle; and yet here you are; kneeling in front of your enemy stroking your cock~❤
+そんなにわたしにバカにされながらオナニーしたかったの？\nへんたーい❤マーゾ❤きゃはは❤,Did you really want to masturbate while getting mocked that badly? Pervert!❤ Masochist!❤ Kyahaha~❤
+ぷぷっ、おちんちん反応しまくりでわかりやすーい❤\nバカにされて見下されて、それで気持ちよくなっちゃうなんて、\nへんたいだね❤,Pfft; your little cocks reaction is so easy to see.❤ Being made fun of and looked down on; is that what gets you off? You're a real pervert; aren't you?❤
+あなたたちみたいな男の子、けっこういるんだよね。\n休んでれば回復できそうな病気の子のところに行って、\nちょっかいを出したりするんだけど、,There's quite a few boys like you around. Sometimes I like to visit the sick ones who could probably recover if they just rested; and mess with them a bit.
+死にたくないよーって言ってても、\nおちんちんにぴとって手を当てて・・・。,Even when they say they don't want to die; once I put my hand on their cocks...
+耳元で「マーゾ❤」って言ってあげたら、\nそれだけで勝手に腰をカクカクし始めるんだ❤\nわたしの手の平におちんちんこすりつけるの、止まらなくなっちゃう❤,All it takes is whispering "masochist❤" in their ear; and they start thrusting their hips all on their own.❤ And once they start rubbing their cocks against my palm; they just can't stop~❤
+病気から回復するなら絶対出しちゃダメなのに、\n大事な命のエネルギーを吐き出してねー、\nどぴゅどぴゅ射精してそれでどんどん弱っていっちゃうんだよ❤,Even though they absolutely can't cum if they want to recover from their illness; they spill out their precious life force for me; spurting out orgasm after orgasm and getting weaker and weaker~❤
+死んじゃうかもしれないってときでも、\nマゾとかバカって言われるとおかしくなっちゃうんだもん❤\n男の子ってどういう脳みそしているのかな❤きゃはは❤,Even when it might mean death; being called a masochist or an idiot makes them lose their minds.❤ What kind of brains do you boys even have?❤ Kyahaha~❤
+あなたもその人と同じだね❤大事なことがあっても\nわたしの前でおちんちん気持ちよくなりたくて頭おかしくなって、\nオナニーやめられなくなっちゃってる。きもーい❤,You're just like them; aren't you?❤ Even with something so important at stake; you've gone crazy wanting your cock to feel good in front of me; and you just can't stop masturbating. Gross~❤
+うぐぅっ・・・❤,Ughh...❤
+くすくす❤これだけバカにされてもシコシコ止められないね❤\nマーゾ❤,*Giggle*❤ Even after being mocked this much you can't stop stroking; can you?❤ Masochist~❤
+ほら、イくところ見ててあげるから、\n射精しちゃっていいよ❤\nマゾの弱いおちんちんじゃ、もう限界みたいだし❤,Here; I'll watch you cum; so go ahead and shoot it all out!❤ With such a weak; masochistic cock; you're already at your limit anyway~❤
+しこしこしこしこ、バカみたいに動かして、\nわたしに生命エネルギー吐き出しちゃえ❤\n全部出せ❤イケ❤マゾ❤,Stroke; stroke; stroke. Touch it like the idiot you are; and spill all your life energy for me.❤ Let it all out!❤ Cum~❤ Masochist!❤
+はーい、おつかれさまー❤\nそれじゃあなたも死の世界へ案内してあげる❤,That's it; good boy~❤ Now I'll guide you to the underworld; too.❤
+やん、つよーい。\nわたしのひよわな体じゃやられちゃーう❤,Yah; you're so strong! My frail body can't handle this~❤
+ねえ、おねがい、いじめないで？\nわたし、見ての通り腕も細いし、脚も細いの。\nえ？脚はそんなに細くないって？そうかなぁ・・・。,Hey; please; stop bullying me; okay? Look how weak I am. My arms and legs are so thin. Eh? My legs aren't that thin? Is that so...?
+ほら、スカートの隙間をぴらり❤\nよく見てみてよ。\nわたしの脚が細いか、太いか・・・❤,Here; I'll flip up my skirt and give you just a peek~❤ Take a good look. Are my legs thin; or thick...❤
+くすくす❤そんなことどうでもいいって言いながら、\n目は釘付けになってるみたいだよ？\nほらほら、ぴらり♪ぴらり♪何度でもチラチラ見せつけちゃう❤,*Giggle*❤ You say you don't care about that; but your eyes seem glued to them? Here; take a look~♪ And again~♪ I'll keep flashing you over and over.❤
+バカみたいに脚に見とれていようねー❤,Just keep staring at my legs like an idiot; okay?❤
+視線を外して攻撃した,Look away and attack
+ふとももから目が離せなかった,Ngh... Her thighs are so...'
+きゃん！うぬぬ、蘇ったら今度は負けないんだから・・・。,Kyah! Ugh; once I'm revived; I won't lose again...
+あは❤穴が開くぐらい見てる❤\nそんなに気になるなら、ほら❤,Aha~❤ You're staring so hard you could burn a hole through them!❤ If you're that curious; then here~❤
+わたしの脚の間におちんちん入れて、\nわたしのふとももが太いか確かめて？\nえい・・・❤,Why don't you put your cock between my legs; and check if my thighs are thick yourself? Here we go...❤
+はぐぅううっ・・・❤,Hah... Gah...❤
+ねえねえどう？わたしのふともも❤\nむっちりしてる？ほっそりしてる？\nあなたのおちんちんでよく分かるでしょ？,Hey; so? How are they? My thighs; I mean~❤ Are they plump? Are they slender? Your cock can tell you better now; right?
+え？こんな風に抱き着かれて挿入されたらよくわからないって？\nくすくす❤そうね、上から見ても、スカートしか見えないもんね❤,Eh? You can't see where you put it in when I'm hugging you like this? *Giggle*❤ That's true. From above I guess all you can see is my skirt.❤
+でもほら、おちんちんに集中すれば、おにくの感覚が分かるでしょ❤\nおちんちんがぷにってふとももに埋もれて、\nすりすりすりってこすりつけられて・・・❤,But come on. If you focus on your cock; you can feel the sensation; right?❤ Your cock is sinking into my soft thighs; being rubbed and stroked against them...❤
+あうっ、ああっ・・・❤きもちいいっ❤きもちいい・・・❤❤,Ooh; ahh...❤ It feels good.❤ It feels so good...❤❤
+くすくす❤太いか細いかなんて考えられなくなっちゃった？\nふとももの気持ちいい感触でおちんちんメロメロ❤\n大事なのは気持ちいいかどうかだけだもんね❤,*Giggle*❤ You can't think about whether they're thick or thin anymore; can you? With how good they're making it feel; your cock's way too in love with my thighs~❤ All that matters is whether it feels good; right?❤
+あなたの一番好きなふとももの太さを想像して・・・？\nそれが答えだよ❤ほらぎゅって挟んであげれば、よくわかるでしょ❤,Imagine your favorite thickness of thighs; okay...? That's your answer!❤ Look; when I squeeze them tight around you like this; you really start to understand; don't you?❤
+おちんちんにぴったりフィットして、\n一番気持ちいい感触❤\nあん❤おちんちんが上を向きすぎて、おまんこに当たっちゃいそう❤,They fit perfectly around your cock; giving you the most pleasurable sensation.❤ Ahn~❤ Your cock's so erect it might actually touch my pussy.❤
+でも、残念、ふとももにむにって埋まっちゃうから、\n先っぽがおまんこには届かないね❤\nほらほら、脚を前後に激しく動かしちゃうよ❤,But too bad; since it's buried in my soft thighs; the tip just can't reach~❤ Alright; here. I'm going to move my legs back and forth really fast!❤
+頭の中の、理想のふとももに挟まれながら、\nわたしの激しいふとももコキでどびゅって射精しちゃえ❤,Cum hard as I violently move my hips up and down;  and imagine your dick is between the most perfect thighs you've ever felt~❤
+倒せそうだったモンスターに、\nカッコ悪ーくエナジー搾り取られちゃえ❤\nほらほらほらぁ❤,Go on and get your energy drained by the monster you almost defeated in the most pathetic way possible~❤ Take this; and this; and this!❤
+はぐあっ、あっ、あああっ❤❤❤,Gaah; ah; ahhh!❤❤❤
+あひぃ・・・・❤❤,Ahhh...❤❤
+きゃは❤強い男の子ひとり陥落～❤\nスカートの隙間から生脚見せられたぐらいで、\n雑魚チンポあっさり射精させられちゃったね❤,Kyaha~❤ One of you big; strong boys down~❤ Your weak cock gave in so easily; and all it took was showing you my bare legs through a gap in my skirt~❤
+あなたのエナジーのおかげで体力は全回復❤\nさらにゾンビちゃんを呼び出せちゃいまーす❤\n一緒に戦ってる仲間は一気にピンチかも。くすくす❤,Thanks to your energy; my health is fully restored.❤ Plus; now I can summon even more zombies~❤ Your companions are suddenly in big trouble! *Giggle*❤
+あなたのエナジーのおかげで体力は全回復❤\n一緒に戦ってる仲間は一気にピンチかもね。\nくすくす❤仲間がかわいそー❤,Thanks to your energy my health is fully restored.❤ Your companions are suddenly in big trouble. *Giggle*❤ Your poor friends~❤
+きゃん、もう威力が高すぎよ。\n吹き飛ばされちゃったじゃない。,Kyan; that attack was way too powerful! You completely blew me away...
+こうなったらこっちに近づいてくる前に・・・。\nねえ、ほら、見て・・・❤わたしの指❤\nこうやって輪っかを作って、胸の前でしこしこしこ～❤,In that case; before you get close to me... Hey; hold on; look...❤ Look at my fingers.❤ They're making a ring; stroking in front of my chest~❤
+あは、すごくエロい動きでしょ？\nわたしねー、手コキが一番得意なの。根元を軽くしごきながら、\n先っぽに手の平を当てて、ごしごしってやってあげれば・・・❤,Aha; it's a really erotic gesture; don't you think? You see; my specialty is handjobs. I stroke the base lightly while putting my palm on the tip and rubbing it all over...❤
+男はみーんな膝をガクガクふるわせて、骨抜きになっちゃうんだよ❤\nねえ、あなたもされてみたい？わたしの手・コ・キ❤,All men end up weak-kneed and completely under my spell.❤ Hey; do you want to try it; too? My hand-job~❤
+くすくす❤おちんちんビクンって反応してる❤\n手コキされるの想像しちゃったのね❤\nほらぁ、あなたもそのおちんちんみたいに素直になろー❤,*Giggle*❤ Your cock's twitching!❤ You imagined getting a handjob; didn't you?❤ Come on; you should be honest; like your cock~❤
+じっとして動いちゃダメよ。\n指でしこしこ～って気持ちよく抜いてあげる❤,Just stay still. I'll stroke you with my fingers until you feel so good you explode~❤
+理性をふりしぼって攻撃した,Summon your reason and attack
+足を止めてしまった,It does sound nice...'
+きゃあ！ううっ、ダメだったかー・・・。,Kyaa! Ugh; that didn't work at all...
+くすくす❤素直でいいじゃない❤\nそれじゃあ、おちんちんを握ってぇー・・・❤,*Giggle*❤ It's always best to be honest.❤ In that case; I'll grab your cock...❤
+しこしこスタート❤,And start stroking~❤
+先っぽすりすりってされるの、気持ちいい？\nここって敏感だから、ちょうどいい力加減が難しいんだよねー。,Doesn't having your tip rubbed feel good? This spot is extra sensitive; so getting the right pressure can be tricky.
+でも、わたしはそれが大得意❤\n男の子が一番気持ちいいリズムと力加減で、\nすりすり、さわさわ・・・❤ふふふ❤もう腰が震えてる❤,But I'm really good at this~❤ I'll use the rhythm I know you boys like best to rub and stroke you lots...❤ Fufufu~❤ Your hips are already shaking!❤
+根元はちょっとだけ動かすんだよ。\n大きく動かした方が早く射精させられるけど、\nこれぐらい小さなシコシコでも十分なの❤,I'll stroke your base a bit at the same time. Touching it more would make you cum faster; but these small pumps should be plenty~❤
+そうでしょ？つよーいはずのあなたも、\nおちんちん気持ちよくて、\nあえぐことしかできなくなっちゃったもんね❤くすくす❤,Right? Even for a strong man like you; as soon as your cock feels good; all you can do is moan~❤ *Giggle*❤
+あっ、ああっ❤そこをさわられたらっ、ああっ❤❤,Ah; ahh...❤ When you touch me there... Ahh!❤❤
+心のバリアが解けちゃってるからよけいに気持ちいいでしょ？\n敏感な先っぽを、バリアなしで女の子モンスターに差し出すなんて、\nまさに自殺行為❤,Your mental barrier is down so it feels extra good; doesn't it? Offering your sensitive tip to a female monster with no barrier... That's seriously suicidal~❤
+でも、生命エネルギー吸われてもいいから、\nシコシコしてほしかったんだよね❤\nわたしが手コキが上手いって聞いて味わいたくなっちゃったんだよね❤,But you wanted to be stroked so bad; even if it meant having your life force drained; right?❤ You heard I was good at handjobs and wanted to experience it for yourself; didn't you?❤
+がんばって追い詰めたのに、\nやっぱりびゅっびゅってしたいよーっておちんちんの欲求に負けて、 \n敵におちんちん差し出して・・・❤,After working so hard to corner me; you still lost to your cock's desire to cum; and offered it to your enemy...❤
+ぷぷっ、かっこわるーい❤ザーコ❤,Pfft; how pathetic!❤ Weakling~❤
+ほらほらほら❤シコシコ早くしてあげる❤\n根元から精液しこしこしこ～って先っぽに向けて押し出して、\nそれを先っぽカリカリで吐きださせてあげる❤,Come on; take this!❤ I'll stroke you faster!❤ I'll stroke your cock's base toward the tip—like I'm pushing your cum out from the bottom—and make you spurt it out by teasing your sensitive head~❤
+気持ちよすぎて耐えられないよねー。腰が浮いてきちゃうもんねー❤\nきゃはは❤出しちゃえ❤出しちゃえ❤\nわたしの手コキにさっさと負けちゃえ❤はい、びゅるるるぅ❤,It feels too good to endure; right? Your hips are starting to lift.❤ Kyahaha~❤ Come on.❤ Cum~❤ Hurry up and lose to my handjob!❤ That's it; shoot it all out~❤
+あぐ、あひぃ・・・・❤❤,Gah; ah; aaahh...❤❤
+きゃはは❤すっごい勢い❤\nぶしゅうって手の平に向けて射精して、\nわたしの手がほら、どろどろだよー❤,Kyahaha~❤ You shot it out with so much force!❤ The way you squirted it towards my palm; look; you made my hand all sticky~❤
+あなたのエナジーのおかげで体力が全回復❤\nさらにゾンビちゃんを呼び出しちゃいまーす❤\n一緒に戦ってる仲間は一気にピンチかも。くすくす❤,Thanks to your energy my health is fully restored.❤ Plus; now I can summon even more zombies~❤ Your companions are suddenly in big trouble! *Giggle*❤
+ぷぷっ、Bランクマスターが、\nオナニーシコシコして負けちゃったね。\n理性よわすぎ～❤ざーこ♪,Pfft; a B-rank master lost after jerking himself off. Your willpower is way too weak!❤ Weakling~♪
+くすくす❤ふとももに挟まれて気持ちよかったー？\nあとちょっとで倒せそうだったのにねー。\nぷぷ、逆転負けしてカッコ悪～い♪,*Giggle*❤ Did it feel good being squeezed between my thighs? You almost defeated me; too. Pfft; getting the tables turned on you like that is so uncool~♪
+わたしの手コキ、すごく上手かったでしょ❤\n先っぽいじめられて、あへあへにされちゃったねー。\nわたしにとどめ刺さなくて正解だったんじゃない？くすくす❤,My handjob was just masterful; wasn't it?❤ You got your tip teased until you were moaning so helplessly. You made the right choice not finishing me off; don't you think? *Giggle*❤
+きゃは❤足で踏まれてどぴゅどぴゅ出してる～♪\n負けたらなにされるか分からないのに、\n足コキなんかで射精しちゃっていいのかなー。,Kyaha~❤ You actually came from getting stepped on by my foot~♪ Do you really think it's okay to ejaculate from something like a footjob when you don't know what might happen if you lose?
+気持ちよくて何にも考えれないか。\nマゾってバカだよねー❤くすくすくす❤,You probably felt too good to think about anything at all. Masochists are so stupid~❤ *Giggle*❤
+あは、見てみて手がどろどろ～❤\n殺されちゃうかもしれないのに、わたしの手コキに負けちゃったんだ❤\nシコシコにすぐ負けて、よわーい❤くすくす❤,Aha; hey; look! My hand's all messy now~❤ You lost to my handjob; even knowing you might get killed!❤ Losing so quickly to a few pumps of your cock. So weak~❤ *Giggle*❤
+ぷぷっ、おまんこに入れる前に射精しちゃってる❤\n中に入れるの想像したら我慢できなかった？\n童貞くんっておちんちん弱いんだねー。くすくす❤,Pfft; cumming before even making it inside my pussy~❤ You just couldn't hold back when you imagined putting it in; could you? Virgin boys have such weak cocks! *Giggle*❤
+僕より少し背の低い、闇をまとった妖精モンスターに敗れた僕は、エナジーを奪われ意識がもうろうとなっていた。,After being defeated by a dark fairy monster slightly shorter than me; I had my energy drained; my consciousness slowly becoming hazy.
+あううっ・・・❤,Ahh...❤
+くすくす❤わたしみたいな下級モンスターに負けちゃうなんて、\n正義のカードマスターくんは弱いねー❤\n盗賊を退治に来たんでしょ？それなのに・・・。,*Giggle*❤ Losing to a low-level monster like me... This self-righteous cardmaster is so weak~❤ You came to beat the bandits; right? But instead...
+おちんちん我慢できなくなって、\nわたしにバカにされながら、マゾシコオナニー❤\n正義の心を自爆シコシコでぴゅっぴゅっしちゃった♪,You couldn't control your cock; and started jerking it while I mocked you like a total masochist!❤ You squirted away your noble little heart with such suicidal strokes~♪
+チラ見えするふとももに見とれてる間に、おちんちんをパックン❤\n間抜けチンポを太ももに捕まえられて、\nむぎゅむぎゅ扱かれて逆転負けしちゃった❤,While you were staring at my thighs peeking out; they ended up swallowing your cock.❤ Your pathetic dick got caught between my thighs; squeezed and stroked until you faced such a humiliating defeat~❤
+エア手コキ見せつけてあげたら、言われるがまま棒立ち❤\nチンポを両手でシコシコ、ぐりぐりってされて、\nあっけなく手の平に射精しちゃった❤,I gave you a peak at my handjob technique and you just stood there like an obedient little statue.❤ Your cock got worked over by both my hands; twisted and rubbed until you helplessly came all over my palms~❤
+足で踏んでちょっとコスってあげたら、それだけで射精❤\nマゾチンポ弱すぎて、悪いモンスターに簡単に屈服させられちゃった❤,All I did was trample and rub you a little; and that alone made you cum.❤ Your masochistic cock is so weak that you submitted to an evil monster so easily~❤
+手で握ってちょっとコスってあげたら、それだけで射精❤\nマゾチンポ弱すぎて、悪いモンスターに簡単に屈服させられちゃった❤,I just grabbed your cock with my hand and rubbed a little; and that alone made you cum.❤ Your masochistic cock is so weak that you submitted to an evil monster so easily~❤
+上にまたがってちょっと擦ってあげたら、それだけで射精❤\nマゾチンポ弱すぎて、偽物エッチで簡単に屈服させられちゃった❤,All I did was straddle you and rub you a little; and that alone made you cum.❤ Your masochistic cock is so weak that you submitted so easily to fake sex~❤
+ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーいおくちだよ？\nこの口でマゾって言われて興奮しちゃうの？きゃはは❤,Hey; aren't you frustrated? Look here; wasn't it this naughty mouth that made you cum?❤ Did you get excited when these lips called you a masochist? Kyahaha~❤
+そういって{自分}は僕の耳元で「マーゾ」とささやいてくる。体をびくんとさせてもおかまいなしに、何度もマゾと繰り返し甘く罵倒され脳がどうにかなってしまいそうだ。,As she said that; {自分} whispered "masochist" into my ear. No matter how my body twitched; she continued insulting me sweetly by repeating "masochist" over and over; threatening to drive my mind crazy.
+ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーいおててだよ？\nきゃはは❤,Hey; aren't you frustrated? Look here; wasn't it these naughty hands that made you cum?❤ Kyahaha~❤
+そういって{自分}は僕に手の平を見せつけてきた。空中で筒を作って前後に動かし、いやらしく僕にアピールしてくる。,As she said that; {自分} showed off her palms. She made a tube shape in the air and moved it back and forth; lewdly tempting me.
+ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーい足だよ？\nきゃはは❤,Hey; aren't you frustrated? Look here; wasn't it these naughty feet that made you cum?❤ Kyahaha~❤
+そういって{自分}は僕に足裏を見せつけてきた。空中で何かを擦っているかのように上下に動かし、いやらしく僕にアピールしてくる。,As she said that; {自分} showed me the soles of her feet. She moved them up and down in the air as if rubbing something; lewdly tempting me.
+ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーいふとももだよ？\nきゃはは❤,Hey; aren't you frustrated? Look here; wasn't it these naughty thighs that made you cum?❤ Kyahaha~❤
+そういって{自分}は自分の指をふとももにあてがって僕に見せつけてきた。スカートの上から指を押し当て、ふとももの間に挟んですりすりと動かし、いやらしく僕にアピールしてくる。,As she said that; {自分} pressed her fingers against her thighs; showing them to me. She pressed her fingers against her skirt; sliding them between her thighs and rubbing; lewdly tempting me.
+ねえねえ、悔しくないの？\nほらぁ、あなたをイかせた、わるぅーい腰ふりだよ？\nきゃはは❤,Hey; aren't you frustrated? Look here; wasn't it these naughty hip moves that made you cum?❤ Kyahaha~❤
+そういって{自分}はわざとらしく腰を前後にくねらせて見せた。あん、あんと棒読みの喘ぎ声をあげて、僕の方をにやにやとバカにしながら見つめてくる。,As she said that; {自分} deliberately swayed her hips back and forth. She let out a few flat moans; grinning as she mocked me.
+あう、あうう・・・❤くそぉ・・・❤,Ahh; ahhh...❤ Damn it...❤
+ぷぷっ、悔しいのに、こんな挑発でまた感じちゃうね❤\nおちんちんがびくびくびく♪\nBランクの正義のマスターさん、よわぁい❤,Pfft; even as frustrated as you are; you're still getting turned on again by my teasing.❤ Your cock is twitching so much~♪ The big; bad B-rank Master of Justice is so weak!❤
+ねえ、その興奮してるおちんちん、どうしてほしい？\nこのまま何もしないで、洞窟から解放してほしい？\nそ、れ、と、も・・・❤,Hey; what should we do about that excited cock of yours? Should I leave you alone and release you from this cave? Or... perhaps...❤
+もう一回どびゅぅって射精したい？\nほら、おちんちんの頭を手でなでながら聞いてあげる❤\n正直に答えて～❤どうしてほしいのかな～❤,Do you want to cum again with one more big spurt? Here; I'll stroke the head of your cock gently and ask again.❤ Answer honestly now~❤ What do you want me to do?❤
+やめ、ああっ❤すりすりしないでっ❤❤はうぅ❤❤,Stop; aahh!❤ Don't rub it!❤❤ Hahh!❤❤
+んーやめてほしいの？ほんとに？\nこのおちんちんは、いいこいいこってされて、\nすっごくうれしそうに見えるけどなー❤,Hmm? You want me to stop? Really? But your cock looks super happy; getting pet it like a good boy~❤
+ま、いいや。それじゃやめてあげる。\nはい、おしまーい。,Well; fine. I'll stop then. There; all done!
+あ、ああ・・・・。うぐぅっ・・・❤,Ah; aah.... Ughh...❤
+きゃはは❤手を止めたのに、腰がへこへこしてる～❤\n手の平が恋しくて、腰を前に突き出してるのかなー❤\n残念だけどそこに手の平はありませーん❤,Kyahaha~❤ I stopped my hand; but now your hips are thrusting~❤ Are you sticking your hips out because you missed them?❤ Too bad they aren't there anymore~❤
+マスターくんが意地を張らなければ、\nいまごろ先っぽすりすりしてもらえてたのにねー❤空気に向かって\nへこへこしても気持ちよくなれないよ～。あーん、かわいそー❤,If Mister Master hadn't been so stubborn; I'd be rubbing your tip right now~❤ Thrusting at the air won't make you feel good; will it? Awh; poor thing~❤
+くっ、ううぅ❤う、うう・・・❤,Kah; ugh❤ Oh; ah...❤
+ねえねえどうする？\nおちんちんの先っぽなでてほしい？\nなでながら根元を一緒にシコシコしてあげてもいいよ❤,Oh dear; what should we do? Do you want me to stroke the tip of your cock? I could stroke it while working the base at the same time if you want~❤
+そうだなー。\n「僕はもう盗賊団に逆らいません」って大きな声で言ったら、\nやってあげようかなー❤,Let's see. If you say "I won't resist the bandits anymore" nice and loud; I just might do it for you~❤
+さっきまではタダで触ってくれたのにって？\nふふ、そんなのわたしの気分次第だからねー。\nマスター君が素直にならないから、特別サービスは終わっちゃったの❤,What's that? But I was touching it for free just a moment ago? Fufu; my kindness depends on my mood. Since Mister Master won't be honest; that special service is over~❤
+ねえどうする？おちんちんの先っぽ、\nまたなでなでしてほしい？\n妖精の手で気持ちよくされて、あへあへぇって射精したい？,Hey; what should we do? Do you want me to stroke the tip of your cock again? Do you want this fairy's hands to make you feel good until cum your mind away?
+ううっ・・・❤それはぁ・・・❤,Ugh...❤ That is...❤
+・・・・くすくす❤,....*Giggle*❤
+あっ、やめて、そんな近くで手を動かさないでっ・・・❤❤ああっ❤,Ah; stop; don't move your hand so close...❤❤ Aahh!❤
+ぷぷっ❤手をくぼませて、亀頭の近くに持ってきたただけで、\n面白いぐらいおちんちんビクビクしちゃうね❤\nでもぉ、あなたがちゃんと宣言しない限り、絶対触ってあげないよ？,Pfft~❤ Just cupping my hand and bringing it near your tip makes your cock twitch so amusingly~❤ But I absolutely won't touch you unless you say it right!
+おちんちんを頑張って揺らしてもムダ❤\nあとちょっと届かない場所で、手の平を動かして焦らしてあげる❤\nほらぁ、当たりそうで当たらないねー❤もどかしいねー❤,Trying to thrust your cock out is useless~❤ I'll keep teasing you by moving my palm just out of reach.❤ Look; it almost touches but doesn't! So frustrating~❤
+ああん❤なでてあげたら気持ちいいだろうなー❤\nシコシコされたら、おちんちん幸せになっちゃうのになー❤\nわたしの手コキ超うまいのになー❤きゃははは❤,Ahn~❤ It would feel so good if I stroked you.❤ I bet your cock would be so happy if I gave you a handjob~❤ They're my specialty after all.❤ Kyahahaha~❤
+ううっ❤ううっ・・・❤❤,Uhh...❤ Ugh...❤❤
+くす❤欲望と我慢がぶつかりあって、\nぐずぐずになっちゃったその顔。\nわたし大好き❤,*Giggle*❤ Your face is all crumpled; restraint and desire both fighting for control. I love it~❤
+手の平をひらひらされてるだけで、\n男の子がしちゃいけない顔にされちゃうね❤\nねーねー、我慢汁ばっかり出ててもったいないよー❤,Just having my palm flutter close always has boys like you making expressions they really shouldn't make.❤ Hey; you're leaking precum! What a waste~❤
+焦らされて我慢汁が出ちゃってるその先っぽ❤\nローションみたいにぬるぬるだから、\n手コキされたら最高に気持ちいいのに❤,Your tip is leaking from all this teasing!❤ It's so slippery; like lotion. I bet it'd make a handjob feel amazing~❤
+どうする？このまま頭おかしくなるまで、\nおちんちんのそばで、手の平ひらひらされる？\nそれともぉ、かっこわるーくおねだりしちゃう？,What should we do? Should I keep fluttering my palm near your cock until you go crazy? Or will you beg pathetically?
+お、おねがい・・・❤,P-please...❤
+うんうん、つづけて❤,That's it; go on~❤
+僕は、盗賊団にもう逆らいませんっ❤❤\nだから、おねがいしますっ❤はやく・・・❤❤,I won't resist the bandits anymore!❤❤ So please!❤ Hurry...❤❤
+ぷぷっ、ちょろ❤,Pfft; too easy~❤
+ほらほらほら❤\nあなたが正義心を捨てておねだりした手コキだよー❤,Come on; come on; come on~❤ This is the handjob you're abandoning your sense of justice to beg for❤
+きゃはは、触ったとたんチンポ喜びすぎ❤\n超うれしそうじゃん❤,Kyahaha; your cock got so happy the moment I touched it!❤ It looks so pleased~❤
+我慢汁ぬりこまれてたまんない？\nそうだよねー。ずっと焦らしてたもんねー❤\n待ち焦がれて敏感になってるよねー❤,Getting precum rubbed all over you feels incredible; doesn't it? Of course it does. I was teasing you for so long.❤ You've been waiting so eagerly and getting so sensitive~❤
+ほらほらぁ❤さっさと一発出しちゃいなよー❤\nわたしに屈服するのが気持ちいいって、\n体に教え込んであげる❤,Come on~❤ Just shoot your load already!❤ I'll teach your body just how good submitting feels~❤
+マスター君はねー、盗賊の悪いモンスターにイかされて、\n下級モンスターに力の差を分からされちゃうの❤\nそんなの恥ずかしいよねー、でもおちんちんきもちいよねー❤,Mister Master will be made to cum by a mean bandit's evil monster; and shown the difference in power of a low-level monster like me!❤ It's so embarrassing; but your cock feels so good~❤
+先っぽからびゅって出すの、我慢できないよねー❤\nきゃははは❤ほらぁ、とどめに手の平をぐりぐりぐり～❤,You can't resist shooting it all out; can you?❤ Kyahahaha~❤ Here; I'll grind my palm around and around; and finish you~❤
+はぅ、はぐぅっ❤❤ああっ❤こんなの、むりっ❤❤❤,Hah; gahh!❤❤ Aahh!❤ This is impossible!❤❤❤
+いいよー、わたしの手の平に負けちゃえ❤\n根元も小刻みにシコシコしてあげるから、精液押し出されちゃえ❤\nイケ❤イケ❤まーぞ❤,That's it! Just lose to my palm~❤ I'll stroke your base in quick little movements too; so let your semen get squeezed out.❤ Cum~❤ Cum!❤ You masochist~❤
+あっ、あっ、だめ止めてっ❤❤❤いま、びんかんだからっ❤❤,Ah; ah; no stop!❤❤❤ I'm sensitive right now!❤❤
+きゃはは❤きこえませーん❤\nなにか言いたいことがあれば、そのうるさい喘ぎ声止めてから言えば～？,Kyahaha~❤ What's that? I can't hear you!❤ If you have something to say; stop those noisy moans first!
+射精したあとも、手の平で亀頭こすられまくって、\nチンポバカになっていいよ～❤\n体中の水分全部もらしちゃうまで遊んであげる❤,Even after you cum; I'll keep rubbing your tip with my palm until your cock goes stupid~❤ I'll play with you until you leak out all the fluids your body has to offer!❤
+うりうりうりうり～❤\nきゃはははは❤びくびくしすぎ～❤\nもっと喘いで、全部出して、このまま死んじゃってもいいよ～❤,Rub rub rub rub~❤ Kyahahaha~❤ You're twitching too much!❤ Moan more; let it all out and die; just like this~❤
+はぐっ、あぐぅ❤❤あっ、ああっ❤❤また出るぅっ❤❤\nああああっ❤❤,Hahh; aghh!❤❤ Ah; aahh!❤❤ I'm cumming again!❤❤ Aaaaahhh!❤❤
+ぷぷぷ、見てよ。床がびちょびちょ❤\n途中から精液だけじゃなくて、潮も吹いちゃってたね❤,Pfffft; look at that. The floor is soaking wet~❤ Partway through you weren't just shooting semen; you were practically squirting~❤
+潮を吹くなんて女の子みたい❤\nかっこわるーい❤,Squirting like a girl.❤ How embarrassing~❤
+あひ、あへぇ・・・・❤❤,Ah; ahhh....❤❤
+あは❤芋虫みたいに床にねそべって、\nもぞもぞもぞって痙攣することしかできないね❤,Aha!❤ You're lying on the floor writhing like a worm. You can't do anything but squirm and convulse; can you?❤
+それじゃあ、おちんちんの先っちょに、\n面白いことしてあげる❤\nえい…♪,Now then; I'll just do a little something fun to the tip of your dick~❤ Here I go...♪
+その後、目を覚ますと僕は村の宿屋にいた。宿屋の主人に聞いたところ、気絶した状態で盗賊が僕をここまで担いできたらしい。,Afterward; when I woke up; I was in the village inn. According to the innkeeper; some bandits had carried me here while I was unconscious.
+村の人が逆らえないのを知って、隠れもせずに僕を運び込んできたのだろう。ふてぶてしいものだ。,Knowing the villagers wouldn't resist; they had brought me in openly; without even trying to hide. How bold of them.
+・・・ん？,...Hm?
+何か下半身に違和感がある。ズボンを脱いで確かめてみると、なんと自分のペニスに見慣れない紋様が刻まれていた。,Something felt off about my lower body. When I pulled down my pants to check; I discovered an unfamiliar symbol carved into my penis.
+紫色をしたその紋様は、ちょうど先端の部分に刻まれている。あの妖精のモンスターに気絶している間に何かされたのだろうか。,The purple marking was etched right on the tip. Had that fairy monster done something to me while I was unconscious?
+いや、今はとにかく、盗賊退治が先決だ。一回は負けてしまったが、相手のデッキだってある程度分かった。次こそは勝てるはずだ。,No; it didn't matter. Defeating the bandits had to come first. I'd lost once; but I understood Necro's deck better now. I should be able to win next time.
+僕は魔力の回復を待って、再度ネクロに挑んだのだった。,I waited for my magical power to recover; then challenged her again.
+ふふ、懲りないのね❤\nでも、そんなおちんちんでどう戦うつもりなのかしら。,Fufu; you never learn; do you?❤ How exactly do you plan to fight with that cock of yours?
+出なさい。{自分}を召喚。,Come forth; {自分}!
+あー、「盗賊団に逆らわない」って約束したのに悪い子だねー。\n悪い子には、ほら、指を鳴らしてパチン♪,Awh. You promised not to get in the bandit gang's way; but here you are; being a bad boy. And bad boys get punished! Look; with the snap of my fingers... Snap~♪
+なっ、はぐぅうっ❤❤❤,Ngh; aaaagh!❤❤❤
+ぷぷぷ❤おちんちんを両手でおさえて倒れ込んじゃった❤\nねー、急に先っぽが気持ちよくなってびっくりしたよねー。,Pffft~❤ You collapsed; clutching your dick with both hands~❤ You were surprised when the tip felt so good all of a sudden; weren't you?
+マスターくんのおちんちんには呪いが刻んであるんだよ❤\nわたしがねー、こうやって手の平を\n空中でぐりぐりぐりって動かすだけで・・・❤,Your cock has been cursed; Mister Master~❤ When I move my palm through the air like this; grinding and twisting...❤
+あっ❤ああっ❤❤だめ、やめてぇ・・・❤❤,Ah!❤ Aah!❤❤ No; stop it...❤❤
+きゃはは♪いつでもマスター君のおちんちんをいじめられるの。\n先っぽの紋様が光ってるでしょ？\nわたしの手の平とおんなじ感触、感じちゃうからすごいよねー❤,Kyahaha~♪ I can torment your cock anytime I want! See how the marking on your tip is glowing? You feel the same sensations my palm gave you. Amazing; right?❤
+こういうこともできるよ。指で小さい輪っかを作って、\n先っぽをしこしこしこ～❤\n高速手コキしてあげるー❤,I can do things like this; too. I'll make a small ring with my fingers and stroke the tip. Fap fap fap~❤ I'll give you a high-speed handjob~❤
+はぐぅっ❤❤あぎぃっ❤❤あっ、あっ、ああっ❤❤❤,Gaahhh!❤❤ Aghhh!❤❤ Ah; ah; aah!❤❤❤
+あはは、まだバトルはじまったばっかりなのに、\nもう射精しちゃった❤\nわたしエア手コキしてるだけなのに❤,Ahaha; the battle just started and you already came!❤ I was just pretending to give you a handjob; too!❤
+マスターくんよわーい❤\nきゃははは❤,Mister Master is so weak!❤ Kyahahaha~❤
+うう、あううぅ・・・❤こんなはずじゃ・・・❤,Ugh; ahhh...❤ This... This wasn't supposed to...❤
+くす❤直接触らなくて責めれるから～、\nマスターくんがモンスターを出しても防げないし、\nこの先もう絶対勝てないと思うなー❤,*Giggle*❤ Since I can torment you without touching you directly; even if you managed to summon any monsters; you can't defend against it; so I doubt you'll ever win again~❤
+正義のマスター君は、おちんちんに首輪をつけられちゃったの。\nいつでも、おちんちんに「負けろ」って命令できちゃう首輪❤\nほらほらぁ、またカラカラになるまで搾っちゃうよー❤,Heroic Mister Master has had a collar put on his cock! A collar that lets me command your dick to "lose" anytime I want!❤ Here; look. I'll milk you dry again~❤
+あうぅっ❤❤やめてっ❤❤先っぽばっかりっ❤❤\nああっ、こわれるっ、こわれちゃうっ❤❤あひいっ❤❤,Ahh!❤❤ Stop it!❤❤ My tip!❤❤ Aah; you're breaking it! It's going to break!❤❤ Ahhhh!❤❤
+その後、僕は{自分}にこってりと搾りとられ、また盗賊の根城から追い出されたのだった。,After that; I was milked dry by {自分} before getting thrown out of the bandits' hideout again.
+コテンパンに負けた僕は、このままではまずいと思い、モルゲンに戻って他のマスターの助けを借りようかと考えた。しかし、いざ実行に移そうとすると・・・,After being utterly defeated; I realized just how bad this was; and considered returning to Morgen to get help from other cardmasters. However; when I tried to put this plan into action...
+突然自分のペニスに刺激が走り、先端を彼女の手でなでられるような快感が襲ってきて、一歩も動けなくなってしまった。,Without warning; stimulation shot through my penis. Pleasure that felt like having the tip caressed by the Death Sprites hand overwhelmed me; and I couldn't even take a single step.
+どうやら僕が盗賊団に不利益になるようなことをしようとすると、紋様が反応し、快感を与えてくるらしい。亀頭を手の平で執拗になでられるような刺激の中では、まともに歩くこともできず、言葉も発せなくなり、馬車を借りてモルゲンに行くことすらできない始末だった。,Apparently; whenever I tried to do something that would go against the bandit gang; the mark would react and send waves of pleasure through my body. Under the stimulation of having the head of my cock relentlessly caressed by an invisible palm; I couldn't walk properly; couldn't speak; and couldn't even hire a carriage to take me back to Morgen.
+そのうえ紋様の刺激だけでは、なぜか射精をすることができず、先端を弄ばれるじんじんとした快感だけが日々積もっていった。,Worse; the marking's stimulation alone wouldn't let me ejaculate for some reason. All it did was cause the tingling pleasure of having my tip toyed with to accumulate day after day.
+数日後,Several days later
+あう、あうう・・・❤おねがい、します・・・❤❤イかせてぇ・・・❤❤,Ah; ahhh...❤ Please... I'm begging you...❤❤ Let me cum...❤❤
+ぷぷっ、首輪に引っ張られて、\nわんちゃんみたいにおねだりに来ちゃったね❤,Pfft; dragged back by your collar; you came begging like a little puppy~❤
+マスターくんにはこれから盗賊団の子分として働いてもらうよ？\nいいよね？おちんちん、我慢できないもんね？,From now on; Mister Master will work as a subordinate of the bandit gang; understand? That's fine; right? You can't endure it anymore after all; can you?
+ううっ・・・❤❤おねがい・・・❤なんでもするからぁ・・・❤❤,Ugh...❤❤ Please...❤ I'll do anything...❤❤
+きゃはは♪下級モンスター相手に、服従しちゃってちょろーい❤\nそれじゃこれからよろしくねー。\nＢランクマスターあらため、盗賊団のしたっぱくん❤,Kyahaha~♪ Submitting yourself to a low-level monster... How pathetic~❤ Well then; let's work together from now on; Mister Former-B-rank-Master-Turned-Bandit-Lackey~❤
+その後僕はネクロの子分になり、盗賊団の用心棒として死ぬまで働いた。こうして僕の物語は、妖精に快楽の首輪をつけられ、その幕を閉じたのだった。,After that; I became Necro's subordinate and worked as the bandit gang's bodyguard until the day I died. Thus my story came to a close; with a fairy placing a collar of pleasure around my cock.
