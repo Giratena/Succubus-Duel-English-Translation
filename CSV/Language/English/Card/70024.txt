@@ -46,7 +46,7 @@ Bランクにもなって、\nパイズリの約束だけでそんなになっ�
 ま、いいや。それじゃあさっそくはじめよっか。\nあなたはそこでボーっとしててね。\nわたしから近づいて、パ・イ・ズ・リ、してあげる❤,Well; not that I mind. Now then; shall we get started? You can just space out; OK? I'll come closer and give you a nice... Ti~tty~fuck~❤
 決まったー！{主人公}選手の勝利です！,The match is decided! Victory goes to {主人公}!
 Bランクになってからもその実力は健在！\nジェミニ選手を速攻でねじ伏せました！\n無敗のルーキー、強い！強すぎる！,Even after reaching B-Rank; their still is still second-to-none! They made short work of Gemini in record time! Our undefeated rookie is strong! Too strong!
-ジェミニ選手も、相手をあと一歩と言うところまで追い詰めましたが、\n惜しくも敗北！「無敗」の冠は伊達ではない！\n我らがルーキーが今回も接戦を制しました！,"Gemini pushed their opponent to the brink; but ultimately fell short! That ""undefeated"" title isn't just for show! Our rookie claims another close victory!"
+ジェミニ選手も、相手をあと一歩と言うところまで追い詰めましたが、\n惜しくも敗北！「無敗」の冠は伊達ではない！\n我らがルーキーが今回も接戦を制しました！,Gemini pushed their opponent to the brink; but ultimately fell short! That "undefeated" title isn't just for show! Our rookie claims another close victory!
 ジェミニ選手も健闘しましたが、無敗のルーキーが危なげなく勝利！\n昇格戦でメロディ選手を破ったその腕は、\nBランクの強敵たちにもいかんなく発揮されています！,Gemini may have fought well; but that didn't stop our undefeated rookie from securing yet another easy win! First they defeated Melody during their promotion match; and now they're defeating strong B-Rank cardmasters!
 このまま勝ち進んでいけば、史上初の、\n一大会でFランクから一気にAランク昇格という\n偉業の可能性も見えてきます！,At this rate; we might witness an unprecedented feat - a competitor rising from F-Rank all the way to A-Rank in a single tournament!
 これはロマンがありますね！次の試合が今からもう楽しみです！,Now that's something special; don't you think? I'm already getting excited for the next match!
@@ -72,8 +72,8 @@ Bランクになってからもその実力は健在！\nジェミニ選手を�
 ん～？復活したのになんでそんなうっとりしてるの？\nあー、そっか自滅しちゃった子か。\n気持ちよく負けたのが忘れられないんだ❤,Hm? Why are you looking so dazed after being revived? Oh right; you're the one who self-destructed. I guess you can't forget how good it felt to lose; can you?❤
 もっとまともな子を復活させればよかったのに。\nもしかして味方がやられちゃって、ルーキーくんも焦ってるのかな？\nくすくす❤,You should've revived someone more useful. Or maybe; you're getting desperate now that your allies are being taken care of; Rookie? *Giggle*❤
 さらにもう1枚発動～。,I'll activate another card.
-{使用カード}が場に出たとき、効果発動～！\nデッキから「{%%60022}」を手札に加えるよ。,"When {使用カード} enters the field; its effect activates! I'll add ""{%%60022}"" from my deck to my hand."
-{使用カード}が場に出たとき、効果発動～！\nデッキから「{%%60022}」を１枚サーチするよ。,"When {使用カード} enters the field; its effect activates! I'll search my deck for one ""{%%60022}""."
+{使用カード}が場に出たとき、効果発動～！\nデッキから「{%%60022}」を手札に加えるよ。,When {使用カード} enters the field; its effect activates! I'll add "{%%60022}" from my deck to my hand.
+{使用カード}が場に出たとき、効果発動～！\nデッキから「{%%60022}」を１枚サーチするよ。,When {使用カード} enters the field; its effect activates! I'll search my deck for one "{%%60022}".
 相手モンスターを破壊したとき、{使用カード}の効果発動～！\n相手を墓地から取り除き、宝石に変えちゃうよ～。,When an opponent's monster is destroyed; {使用カード}'s effect activates! I'll banish it from the graveyard and convert it into a gem.
 相手モンスターを破壊したとき、{使用カード}の効果発動～！\nそのカードを宝石に変えてわたしの手札に加えちゃうよ～。,When an opponent's monster is destroyed; {使用カード}'s effect activates! I'll convert that card into a gem and add it to my hand.
 ジェムカードが発動したとき、{使用カード}の効果発動～！\nランダムな相手モンスターの攻撃力を500ポイントダウン～。,When a Gem card is activated; {使用カード}'s effect triggers! A random opponent monster loses 500 attack points.
@@ -95,15 +95,15 @@ Bランクになってからもその実力は健在！\nジェミニ選手を�
 味方１人を対象にして{使用カード}を発動～！\n最大HPを200ポイントアップするね～。,Targeting one ally; I activate {使用カード}! Their max HP increases by 200 points~
 自分の墓地に他のジェムカードがあるとき～、\n魔法カード「{使用カード}」を発動～！\n味方１人の攻撃力を600ポイントもアップするよ～。,When there are other Gem cards in my graveyard; I activate the spell card {使用カード}! I'll boost one ally's ATK by a whopping 600 points!
 500LP払って、{使用カード}を発動～。,I pay 500 LP to activate {使用カード}; 
-発動時に、デッキから「ジェム」カードを１枚手札に加えるよー。,"and when I do; I add one ""Gem"" card from my deck to my hand."
+発動時に、デッキから「ジェム」カードを１枚手札に加えるよー。,And when I do; I add one "Gem" card from my deck to my hand.
 自分ターン開始時に、{使用カード}を発動～。\n墓地からジェムカードを１枚手札に加えるよ～。,At the start of my turn; I activate {使用カード}; adding one Gem card from my graveyard to my hand~
 自分ターン開始時に、{使用カード}を発動～。\nジェムカードを墓地から１枚回収するね～。,At the start of my turn; I activate {使用カード}; and take one Gem card back from my graveyard~
 手札から同じ名前のカードを3枚捨てて～、\n{使用カード}を発動～！,I discard three cards with the same name from my hand to activate {使用カード}!
 同名カード３枚をコストにして、{使用カード}を発動～！\nデッキから捨てたカードと同じ属性で一番レベルが高いモンスターを特殊召喚するよー！,Using three cards with the same name as a cost; I activate {使用カード}! I'll special summon the highest level monster from my deck that shares the same attribute as the discarded cards!
 {使用カード}を発動～。\n自分の手札に{使用カード}を２枚加えるよ。\nつまり、{使用カード}を１枚増やすってことだね。,I activate {使用カード}; adding two copies of {使用カード} to my hand—which basically gives me an additional card.
 {使用カード}を発動～。\n{使用カード}は使うたびに分裂してもう１枚増えるよ。\n増えても意味がないようだけど、ふふ、使い道があるんだなー。これが。,{使用カード} activate~ Each time I use this card; it splits and creates another copy. Seems pointless; right? Fufufu; but there's actually a clever use for this~
-魔法カード{使用カード}を発動～！\nモンスターに「再生」を付与して毎ターン回復させるよー。,"I activate the spell card {使用カード}! I'll grant a monster ""Regeneration"" so it recovers HP every turn!"
-魔法カード{使用カード}を発動～！\nモンスターに200ポイントの「再生」を付与して、\n毎ターン回復させるよー。,"I activate the spell card {使用カード}! I'll grant a monster 200 points of ""Regeneration;"" healing them every turn!"
+魔法カード{使用カード}を発動～！\nモンスターに「再生」を付与して毎ターン回復させるよー。,I activate the spell card {使用カード}! I'll grant a monster "Regeneration" so it recovers HP every turn!
+魔法カード{使用カード}を発動～！\nモンスターに200ポイントの「再生」を付与して、\n毎ターン回復させるよー。,I activate the spell card {使用カード}! I'll grant a monster 200 points of "Regeneration;" healing them every turn!
 装備カード、{使用カード}を発動ー！\nレベル５以上のモンスターに装備して、\n墓地のジェムカードの数に応じて最大HPと攻撃力をアップ！,Equip card activate! {使用カード}! I'll equip this to a Level 5 or higher monster; boosting their max HP and ATK based on the number of Gem cards in my graveyard!
 きらきらの首飾りでもっと華やかに♪装備カード、\n{使用カード}を発動～！\n墓地のジェムカードの数に応じて最大HPと攻撃力をパワーアップ！,Let's make things even more dazzling with this sparkling necklace♪ I activate {使用カード}; which increases Max HP and ATK increase based on the number of Gem cards in my graveyard!
 装備魔法カード発動！{使用カード}！,Equip spell card activate! {使用カード}!
@@ -149,7 +149,7 @@ Bランクになってからもその実力は健在！\nジェミニ選手を�
 ほら、膝をぴったりチンポに押しあてて、ぐりぐりぐり～❤\nね？おっぱいだけじゃなくて脚も気持ちいいでしょー❤\nすらっとしてて結構自信あるんだよ❤,Look; I'll press my knee right against your cock and grind; grind; grind~❤ See? It's not just my breasts that feel good—my legs do too; right~?❤ They're pretty slender; and I'm quite confident in them.❤
 こうやって膝コキすると、おっぱいもたぷんたぷんって揺れるからぁ、\nおっぱいフェチの人も釘付けになっちゃうの❤\nほらほらぁ、谷間に見とれながら膝なんかで射精しちゃえ❤,When I give you a kneeJob like this; my breasts bounce and jiggle too; so even boob fetishists can't look away.❤ Come on~ Stare at my cleavage and shoot your load as my knee rubs your dick.❤
 ううっ、がまんできない・・・❤\nおねがいします・・・❤,Ngh; I can't hold back anymore...❤ Please...❤
-あらら、試合が終わるまで我慢できなくて、\nいますぐ「お礼」してって頼んじゃうんだ❤\nくすくす❤すごく物欲しそうな目をしてる❤,"Oh my; you can't wait until the match is over; so you're begging me to ""reward"" you right now?❤ *Giggle*❤ You're making such a slutty expression too~❤"
+あらら、試合が終わるまで我慢できなくて、\nいますぐ「お礼」してって頼んじゃうんだ❤\nくすくす❤すごく物欲しそうな目をしてる❤,Oh my; you can't wait until the match is over; so you're begging me to "reward" you right now?❤ *Giggle*❤ You're making such a slutty expression too~❤
 そっかー、なんかごめんね？\nこんなに無敗のルーキーくんが我慢弱いなんて思ってなくて、\n試合前にエッチなこと言いすぎちゃったね❤,I see~ Well; I suppose I feel a little sorry? I didn't think the undefeated rookie would have such weak willpower; so I guess I felt like I wanted to flirt with you a little~❤
 何してほしいか言ってみて。\nわたしがあなたを興奮させすぎちゃったおわびに、\n代わりにうんと気持ちよくしてあげる❤,Tell me what you want. As an apology for getting you too excited; I'll make you feel really; really good instead.❤
 ううっ、気持ちよくしてください・・・❤\nおねがいします・・・❤,Ngh; please make me feel good...❤ Please...❤
@@ -231,7 +231,7 @@ Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中�
 西の鉱山地帯の守護者はダテではない！\nBランクの先達として、その実力を見せつけました！,The guardian of the western mining district is no pushover! As a B-Rank veteran; she's shown her true strength!
 無敗のルーキーといえど、\nさすがにBランク帯での連勝は厳しかったか！\nついに、彼の無敗の記録もここで終了です！,Even for an undefeated rookie; winning streaks in B-Rank are harsh! His undefeated record ends here!
 ふふ、立派な記録を持ってたのに、残念だったね～❤,Fufu; such an impressive record; too bad it ended~❤
-まあ、試合前からわたしのおっぱいに夢中だったし、\n結果としては妥当なのかな～。\n始まる時に「お礼」してあげるとか、余計なこと言って悪かったかも❤,"Well; you were obsessed with my breasts even before the match; so maybe this result makes sense~. Maybe it was mean of me to say I'd give you a ""reward"" before we started.❤"
+まあ、試合前からわたしのおっぱいに夢中だったし、\n結果としては妥当なのかな～。\n始まる時に「お礼」してあげるとか、余計なこと言って悪かったかも❤,Well; you were obsessed with my breasts even before the match; so maybe this result makes sense~. Maybe it was mean of me to say I'd give you a "reward" before we started.❤
 わたしのおっぱいオカズにしてシコシコ気持ちよかった？\n無敗の記録を放り出してオナニー優先しちゃうなんて、\nもっと理性を鍛えないとダメだよ～❤くすくす❤,Did it feel good jerking off to my breasts? You should probably to train your self-control more; since you were willing to away your undefeated record in order to stroke your dick~❤ *Giggle*❤
 膝でぐりぐりされてアンアン喘いで射精しちゃってさ～、\nふふ、ルーキーくん結構かわいい声出すんだね～❤\n脚を動かすの、途中で楽しくなっちゃった❤,You were grinding against my knee; moaning and panting until you ended up cumming~ Fufu; you make such cute sounds when you're like this; rookie~❤ I ended up enjoying rubbing my leg against you because of it~❤
 わたしのおっぱいに耐えられなくて、どぴゅって射精❤\nエナジーをここに搾り取られちゃったね❤\n負けて悔しい？それとも、気持ちよさが勝ってるのかな～❤,You couldn't resist my breasts and shot your load in one big 'spurt'~❤ I ended up milking your cock of all it's energy in one match~❤ Are you frustrated from losing? Or did it feel so good it doesn't matter?~❤
@@ -257,21 +257,21 @@ Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中�
 ほら、おっぱいに搾り取られて射精してぇ～❤\n３、２、１・・・❤イっていいよ❤ぜーろ❤くすくす❤,Come on; let my tits milk out every last drop~❤ 3; 2; 1...❤ You can cum now.❤ Zero~❤ *Giggle*❤
 あひぃっ・・・❤はへぇ・・・❤,Ahiii...❤ Hahee...❤
 うふふ❤すっごい蕩け顔～❤\nでも、腰がへこへこ動いちゃうのはおかげで止まったかなー❤,Ufufu.❤ What an incredible ahegao face~❤ But at least I managed to finally make your hips stop twitching.❤
-おちんちん空っぽになるぐらいパイズリ射精して、\n少しは理性戻ったでしょ❤\n男の人って射精したあと賢者タイム？が来るんだよね。,"After cumming so hard that your cock was completely drained by my paizuri; you've regained a bit of your senses; right?❤ I've heard they call it ""wisdom fap"" or something."
+おちんちん空っぽになるぐらいパイズリ射精して、\n少しは理性戻ったでしょ❤\n男の人って射精したあと賢者タイム？が来るんだよね。,After cumming so hard that your cock was completely drained by my paizuri; you've regained a bit of your senses; right?❤ I've heard they call it "wisdom fap" or something.
 射精した後って骨抜きでアヘアへしてるから、\nあんまり賢者って感じはしないけどね。\nルーキーくんはどうかな～。,Though you're still under my spell and making that dazed expression; so you don't really seem all that wise to me. What do you think; Rookie?
 ううっ・・・・❤,Uuugh...❤
 あは、少し落ち着いたみたいだけど、顔が真っ赤になってる。\n落ち着いた分、恥ずかしい状況だって自覚しちゃったの？\n反応がかわいい～❤,Aha; you seem a bit calmer now; but your face is bright red. Now that you've calmed down; have you realized just how embarrassing this situation is? Your reactions are so cute~❤
 ほら、わたしが引っ張ってあげるから、立って立って。\n試合はもうおしまい。お客さんに手を振って、\n会場を後にしようね～。,Come on; I'll help pull you up; so come on. On your feet now. The match is over. Wave to the audience; and let's leave the arena together~.
 その後、ジェミニさんに支えてもらってなんとか立ちながら、僕は闘技場を後にしたのだった。,After that; I somehow managed to stand with Gemini's support and left the colosseum.
-僕のファンの人たちは僕の敗北にがっかりしたようだが、「若い男がここまで頑張っていたこと自体すごい」ということで、どちらかというと同情的な声の方が大きかった。,"My fans seemed disappointed by my defeat; but the overal vibes were a bit more sentimental—""It's amazing that such a young man made it this far."""
+僕のファンの人たちは僕の敗北にがっかりしたようだが、「若い男がここまで頑張っていたこと自体すごい」ということで、どちらかというと同情的な声の方が大きかった。,My fans seemed disappointed by my defeat; but the overal vibes were a bit more sentimental—"It's amazing that such a young man made it this far."
 そうだ、一度負けたぐらいでくじけてはいけない。どうしても耐えられなくて、今回はジェミニさんに負けてしまったけれど、次こそは勝たなくては！,That's right—I can't let myself be discouraged by a single loss. I lost my focus and lost to Gemini this time; but next time I must win!
 試合の翌日,The Day After the Match
 僕は街に出て、カードバトルの相手を探していた。昨日あれだけ魔力を搾り取られてしまったので、あまり強力なカードは使えないが、それでもある程度バトルはできる。,I went out into town searching for card battle opponents. Since I had so much magical energy drained from me yesterday; I couldn't use very powerful cards; but I could still battle to some extent.
 ジェミニさんへのリベンジのためにも、一秒たりとも無駄にはできない。今日も修行を頑張るのだ！,For the sake of my revenge against Gemini-san; I couldn't waste a single second. Today I'll train hard too!
 あ、無敗のルーキーくんじゃん。\n昨日ぶりだねー。,Oh; if it isn't the undefeated Rookie. Long time no see~.
 ・・・！,...!
-んー、て言っても、もう「無敗」じゃないからこの呼び方も変か。\nええと、名前は{主人公}だっけ。\n{主人公}くんは今日も修行？がんばってるねー。,"Hmm; though I guess calling you ""undefeated"" doesn't really fit anymore. Let's see; your name is {主人公}; right? Are you training again today; {主人公}? You're working hard~."
-あ、そうそう{主人公}くん。\n試合前に言っていた、わたしからの「お礼」・・・,"Oh; that's right; {主人公}. That ""thank you gift"" I mentioned before the match..."
+んー、て言っても、もう「無敗」じゃないからこの呼び方も変か。\nええと、名前は{主人公}だっけ。\n{主人公}くんは今日も修行？がんばってるねー。,Hmm; though I guess calling you "undefeated" doesn't really fit anymore. Let's see; your name is {主人公}; right? Are you training again today; {主人公}? You're working hard~
+あ、そうそう{主人公}くん。\n試合前に言っていた、わたしからの「お礼」・・・,Oh; that's right; {主人公}. That "thank you gift" I mentioned before the match...
 あれまだ有効だから、\nわたしにパイズリしてほしくなったらいつでも言ってね❤,That offer is still valid; so whenever you want me to give you a paizuri; just let me know; OK?❤
 きみをたくさんイかせちゃった、このおっぱいで、\nまた気持ちよくしてあげるよ～❤,I'll make you feel good again with these breasts that made you cum so many times~❤
 なっ、あうう・・・❤,Wha—auuu...❤
@@ -294,8 +294,8 @@ Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中�
 あっ、ああっ、しぼりとられるっ❤❤はひぃっ❤❤,Ah; ahhh; you're milking it out of me!❤❤ Hahiiii!❤❤
 その後、僕はへろへろになるまでジェミニさんに「お礼」をしてもらった。僕はあまりの気持ちよさに足腰が立たなくなり、パイズリが終わったあともしばらく歩けないほどだった。,After that; Gemini kept thanking me until I was completely spent. It felt so incredible that my legs gave out; and I couldn't walk for quite a while even after the tit fuck ended.
 今日のこのお礼で気持ちを切り替えて、明日から頑張ろう、そんなことを考えているとジェミニさんから思いがけない話があった。,I was thinking I'd use today's thanks to reset myself and work hard starting tomorrow; when Gemini told me something unexpected.
-なんとジェミニさんはこのお礼は一か月ぐらいは有効だというのだ。「盗賊退治のお礼がたった１回のパイズリなわけないじゃない」とジェミニさんはにこにこしながら言った。,"Apparently; Gemini said this thanks would be valid for about a month. ""There's no way defeating those bandits would only earn you one tit fuck;"" Gemini said with a smile."
-明日以降も、ジェミニさんにお願いすれば、いつでもパイズリしてもらえる・・・。そんな状況で果たして僕は我慢ができるのだろうか・・・。,From tomorrow onward; if I ask Gemini; I can get a tit fuck anytime... Could I really hold back in a situation like this...?
+なんとジェミニさんはこのお礼は一か月ぐらいは有効だというのだ。「盗賊退治のお礼がたった１回のパイズリなわけないじゃない」とジェミニさんはにこにこしながら言った。,Apparently; Gemini said this thanks would be valid for about a month. "There's no way defeating those bandits would only earn you one titfuck;" Gemini said with a smile.
+明日以降も、ジェミニさんにお願いすれば、いつでもパイズリしてもらえる・・・。そんな状況で果たして僕は我慢ができるのだろうか・・・。,From tomorrow onward; if I ask Gemini; I can get a titfuck anytime... Could I really hold back in a situation like this...?
 それから数日後,Several days later
 くすくす❤はじめは２日に一回ぐらいだったのに、\n最近は毎日おねがいに来るようになっちゃったね❤,*Giggle*❤ At first you'd come every other day; but lately you've been asking me every single day.❤
 わたしとしては、魔力ももらえるわけだし別にいいんだけど、\n{主人公}くんはほんとにこれでいいのかな～❤,I don't mind; since I'm getting magical energy from it anyway; but are you really okay with this; {主人公}?❤
@@ -306,8 +306,8 @@ Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中�
 彼女は優しいので、僕がお願いすれば毎日でもパイズリをしてくれた。僕は朝のうちから我慢ができずにジェミニさんのところに向かってしまい、そこで魔力が空になるまで搾られるのが、まるで日課のようになってしまった。,Because she was nice; she'd give me a titfuck every single day whenever I asked without refusing. Eventually; I was unable to resist; and every morning; I'd head to Gemini's place and get milked until my magical energy was completely drained—it became like a daily routine.
 このままではいけないと我慢しようとした日もあったが、あの重たいおっぱいの感触を味わえないと思うと、他に何も手につかず、ムラムラして何も考えられなくなってしまった。,There were days when I tried to hold back; thinking this couldn't continue; but when I thought about not being able to experience the sensation of those heavy breasts; I couldn't focus on anything else and became so aroused that I couldn't think straight.
 自分で触って発散しようとしても、ジェミニさんのパイズリの気持ちよさを知ってしまった今では、自慰では射精することができない。ただ余計に性欲を高めて事態を悪化させてしまうだけだった。,Even when I tried to relieve myself by touching; now that I knew the pleasure of Gemini's titfucks; I couldn't ejaculate from masturbation alone. It only heightened my sexual desire and made things worse.
-そんな日々を繰り返し、「お礼」をくれる期限の一か月が経ったころ、ジェミニさんから「どうしてもわたしから離れられないのなら、わたしと一緒に西の村に来ないか」と提案があった。,"After repeating such days; when the one-month period for her ""thanks"" had passed; Gemini proposed: ""If you really can't separate from me; why don't you come with me to the western village?"""
-「西の村で守護者の補佐として働いてくれるなら、数日に１回ぐらいならパイズリもしてあげる」と彼女は言う。僕はその提案を聞いて、二つ返事で彼女についていくことを決めた。それぐらい僕の心は彼女に夢中だった。,"She said; ""If you work as the guardian's assistant in the western village; I'll give you a titfuck once every few days."" Hearing that proposal; I immediately decided to follow her. That's how captivated my heart was by her."
+そんな日々を繰り返し、「お礼」をくれる期限の一か月が経ったころ、ジェミニさんから「どうしてもわたしから離れられないのなら、わたしと一緒に西の村に来ないか」と提案があった。,After repeating such days; when the one-month period for her "thanks" had passed; Gemini proposed: "If you can't bring yourself to be away from me; why don't you come with me to the western village?"
+「西の村で守護者の補佐として働いてくれるなら、数日に１回ぐらいならパイズリもしてあげる」と彼女は言う。僕はその提案を聞いて、二つ返事で彼女についていくことを決めた。それぐらい僕の心は彼女に夢中だった。,She said; "If you work as the guardian's assistant in the western village; I'll give you a titfuck once every few days." Hearing that proposal; I immediately decided to follow her. That's how captivated my heart was by her.
 こんなに夢中になるなんて、悪いことしちゃったかなーと彼女は申し訳なさそうにしているが、僕はジェミニさんと一緒にいられるだけで十分幸せだった。そのことをジェミニさんに伝えると、彼女は少し照れた様子をしたが、案外まんざらでもないようだった。,She seemed apologetic; wondering if she'd done something wrong by making me so obsessed; but I was perfectly happy just being able to stay with Gemini. When I told her that; she looked a bit embarrassed; but she didn't seem entirely displeased.
 その後、僕はジェミニさんの下で西域の守護者補佐の仕事をし、それなりに活躍していくことになる。だがそれはまた別の物語である。,After that; I worked as the western region's guardian assistant under Gemini and achieved some success. But that's another story.
 あ～、{主人公}くん、来てくれたんだ～❤\nわたしがお礼してあげるって言ったの覚えてる？\nいま時間があれば、ちょうど暇だし、してあげるよ～❤,Ah~;{主人公}. You came to see me.❤ Did you remember how I promised to give you a reward? I'm free right now; so I can give it to you if you have the time.❤
@@ -317,15 +317,15 @@ Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中�
 え～、いいの？\nタダで気持ちいいことしてもらえるのに断るなんて、\nルーキーくんは無欲なんだね～。,Eh? Are you sure? You're refusing a chance to feel good for free... You really are selfless aren't you; Rookie?
 射精して魔力を出しちゃったら、今日は試合ができなくなるし、\nそれを気にしてるのかな？,Or are you worried that losing mana to cumming will make you unable to fight in duels today?
 一日ぐらい休んで気持ちいいことしたって\n罰は当たらないと思うけどな～。ルーキーくんは真面目だね。\nだから強いのかもしれないけど。,No one would blame you if you took a day off to enjoy yourself; you know? Mr. Rookie; you're being too diligent... But I guess that might be the reason why you've become so strong.
-まあいいや。もししてほしくなったら、\nわたしに声をかけてね。このおっぱいでたくさん\n気持ちいい「お礼」をしてあげるから。うふふ❤,"Well; fine. But if you change your mind; just say the word; and I'll give you a ""reward"" with my boobs. Ehehe.❤"
-ん～、{主人公}くん、どうしたの？\nあ、やっぱり今日「お礼」してほしくなっちゃった？,"Hmmm? {主人公}; what's up? Ah! Do you feel like accepting my ""reward"" now?"
+まあいいや。もししてほしくなったら、\nわたしに声をかけてね。このおっぱいでたくさん\n気持ちいい「お礼」をしてあげるから。うふふ❤,Well; fine. But if you change your mind; just say the word; and I'll give you a "reward" with my boobs. Ehehe.❤
+ん～、{主人公}くん、どうしたの？\nあ、やっぱり今日「お礼」してほしくなっちゃった？,Hmmm? {主人公}; what's up? Ah! Do you feel like accepting my "reward" now?
 ちょっとエッチな目でわたしのおっぱい見てるもんね～。\nここで挟んでほしいんでしょ？\nそれならほら、わたしと一緒に控え室に行こ？,Oh; I didn't miss how you just took a glance at my boobs. You want me to squeeze your dick between them; don't you? I've got a room over there if you want to do it.
 くすくす❤そんなに何回も迷うぐらいなら、\nほら、わたしと気持ちいいことしよう？,Ehehe.❤ Isn't it time you let me make you feel good? There's no need to keep hesitating about it so much.
 いったんわたしから離れても、遠くからチラチラおっぱい見てたよね。\n隠してるつもりだったかもだけど、バレバレだったよ❤,Even when you refused my last offer; you still kept taking glances at my boobs from afar; right? You might have thought you were stealthy about it; but I instantly noticed.❤
 くす❤いまもちらっと見てる❤\n試合ではあんなに強かったのに、かわいいね～❤,Ehehe.❤ You couldn't help taking a glance at them again just now.❤ You were really strong during our match; but it's cute when you're acting like an innocent little boy like this.❤
-お姉さんが手を引いて連れて行ってあげるね❤\n控え室でたくさん気持ちいい「お礼」をしてあげる～❤,"Do you want to hold hands with me; too? Take my hand and I'll take you to an empty waiting room where I'll give you your ""reward"" and make you feel good.❤"
+お姉さんが手を引いて連れて行ってあげるね❤\n控え室でたくさん気持ちいい「お礼」をしてあげる～❤,Do you want to hold hands with me; too? Take my hand and I'll take you to an empty waiting room where I'll give you your "reward" and make you feel good.❤
 そこのベッドに横になって？\nそう、そうやってだらーんってしてていいからね。\nそれじゃズボンを脱がしてっと。,Now; you'll sit on the bed; won't you? Yes; just lie down and relax. I'll take your pants off for you.
-くす、まだ何もしてないのに、すごくビンビンになってる❤\nわたしに「お礼」をしてもらえるの待ちわびてたんだね～❤\nかわいいおちんちんくんを、えい、おっぱいの間にご招待❤,"Ehehe. We haven't done anything yet; but you're already hard down here.❤ You must have been looking forward to your ""reward"" quite a bit.❤ I'll take your cute lil' dick and... Stick it between my boobs.❤"
+くす、まだ何もしてないのに、すごくビンビンになってる❤\nわたしに「お礼」をしてもらえるの待ちわびてたんだね～❤\nかわいいおちんちんくんを、えい、おっぱいの間にご招待❤,Ehehe. We haven't done anything yet; but you're already hard down here.❤ You must have been looking forward to your "reward" quite a bit.❤ I'll take your cute lil' dick and... Stick it between my boobs.❤
 あうぅう・・・❤やわらかい・・・❤❤,Auuuh...❤ They feel so soft...❤
 (うう、僕は何をやっているのだろうか。\n闘技場で試合を申し込むはずだったのに、\n女の人にパイズリなんてされて・・・❤),(Gah... What on earth am I doing? I meant to register for a match; but now I'm getting a boobjob from this girl...)
 (こんなことしていないで、\n少しでも強くならないといけないのに・・・❤\nはひぃ、きもちいい・・・❤),(I shouldn't be doing this. I have to resist...❤ But... Aah... It feels so good...❤)
@@ -338,7 +338,7 @@ Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中�
 体重を上からかけて、腰が動かないようにしてあげる❤\nほらほらぁ、おっぱいにぎゅーって押しつぶされて、\n頭のなか気持ちよさで真っ白になっちゃえ～❤,I'll nail down my boobs on your waist and use my whole body weight to prevent your escape.❤ Now; feel my boobs press down on you; and let the pleasure blank out your mind.❤
 あひぃっ❤だめ、これだめっ❤❤\nあああ、ぎゅってされてっ、きもちいいっ❤❤,Aaaah❤ No...❤ I can't...❤ When you do that... It feels too good...❤
 はへぇ、たえられないっ、もう、でちゃうっ❤❤\nああっ❤❤,Aaaah.❤ I can't endure this...❤ I'm going to cum...❤ Aaaah.❤
-いいよ～❤出して出して～❤\nわたしの「お礼」でたくさん気持ちよくなって、\nとびきり最高な射精、しちゃっていいんだよ～❤,"It's okay.❤ Just cum and blow your load.❤ This is a ""reward"" from me to you; so please enjoy it and have the most amazing orgasm.❤"
+いいよ～❤出して出して～❤\nわたしの「お礼」でたくさん気持ちよくなって、\nとびきり最高な射精、しちゃっていいんだよ～❤,It's okay.❤ Just cum and blow your load.❤ This is a "reward" from me to you; so please enjoy it and have the most amazing orgasm.❤"
 わたしの谷間の、一番奥まで届くかな～❤\nほら、ぎゅっ、ぎゅっ、ぎゅ～❤❤\n白いのどぴゅって出しちゃえ～❤,I wonder if your load will reach the deepest parts of my boobs~❤ C'mon; I'll squeeze your dick even tighter; so shoot out your white juices.❤
 あはぁ、すごくたくさん出たね～❤\nわたしのパイズリ気持ちよかった？,Ahaah~. You blew such a massive load.❤ Did my boobjob feel good?
 バトルじゃないときにカードマスターにエッチなことしてもらえるの、\n腰が抜けちゃうぐらいすごいでしょ❤\nバリアなしのパイズリとかされると、癖になっちゃう人も多いんだって。,Having a cardmaster do naughty things to you outside of a duel feels so good that it makes your legs get weak; right?❤ I've heard that a lot of people have actually got addicted to boobjobs and such when this kind of stuff was done to them without the magic barrier protecting them.
