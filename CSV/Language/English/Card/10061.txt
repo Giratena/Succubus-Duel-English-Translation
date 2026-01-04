@@ -1,213 +1,213 @@
 default
-宝石サキュバス,Jewel Succubus
+宝石サキュバス,Gemstone Succubus
 EU61_tailJobAnime,
-　豪華な宝石を身にまとった強力なサキュバス。彼女の美貌は見る者の意識をひきつけ、すべてのマスターは無意識のうちに彼女に対してしか魔術を行使できなくなってしまうのだという。理性を強く保たなければ、味方に使うはずだった強化魔法をいつの間にかすべて彼女に献上することになり、さらに強力になった彼女の手であっという間に昇天させられてしまうことになるだろう。,
-[1].このカードが場に出たとき発動する。自分のデッキから「{%%60022}」を１枚手札に加える。\n[2].このカードがフィールド上に存在する限り、お互いのプレイヤーはこのカードを効果の対象に選択できる場合、このカードしか効果の対象に選択できない。\n[3].このカードが相手モンスターを破壊したとき発動する。そのモンスターをゲームから取り除き、自分の墓地に存在する「ジェム」魔法カードと同種のカードをランダムに１枚生成して手札に加える。,
-[4].「ジェム」カードを発動したとき発動する。ランダムな相手キャラクターの攻撃力を500ポイントダウンする。,
-ホホホ、わらわの美しさに屈したそなたの体、\n我が身を飾る宝石に変えてくれよう。,
-ふむ、悪くない仕上がりよの。さてどこに着けてやろうか。\n首のネックレスに加えて、谷間にでも挟んでやろうか？\nほほほ❤,
-ホホホ、そなたもわらわの宝石コレクションに加わりたいのか？\nほれ、我が身を飾る宝石に変えてくれよう。,
-ふむ、悪くない仕上がりよの。さてどこに着けてやろうか。\nわらわの指にはめられて、手慰みに弄ばれたいか？\nほほほ❤,
-わらわの手は美しかろう？\nほれ、お前の粗末ないちもつを、軽くもてあそんでやろうではないか❤\n指をそっと押し当てて、上にゆっくりなで上げる・・・❤,
-たかがひと撫でされただけで、とろけた顔になっておるぞ？\n快楽で顔がゆるみ、精悍な顔を保つことも難しいのか。\n情けないのう❤,
-よろこべ。お前の粗末なものを\nわらわの胸で挟んで搾り取ってやろう。,
-この胸で挟まれたオスどもは、\n極上の肌ざわりですぐ虜になる❤\nほおら、極楽の世界へいざなってやろうぞ❤,
-両腕でお前をとらえ、\nこの胸に顔をうずめさせてやろう。\nわらわの抱擁を受けられるのだ、光栄に思うがよいぞ❤,
-高級なドレスの肌触りと、わらわの胸の極上の感触。\n男を恍惚にいざなうには十分すぎる極楽であろう？\n脳を蕩けさせながら、わらわの腕の中で果ててしまえ❤,
-恍惚の投げキス,
-くすくす❤もはや風前のともしびじゃな。\nわらわたちの美しさに心を奪われ、立つこともままならんとは。,
-ほれ、わらわがさらに魔力を重ねてやろう。\n唇を指先で弾いて・・・んっちゅぱ❤,
-どうじゃ？脳がとろけるようであろう？\nわらわのような強者に勝つことなど元より不可能。\n恍惚に堕ちてしまうがよい❤,
-下郎の体など、触れるまでもない。\n魔力を込め、唇を弾くだけで十分であろう？\nんっ・・・❤ちゅぱ❤,
-恍惚の魔眼,
-わらわの目は美しかろう？\nこの目で見つめられた男は、触れられもせぬうちから、\nわらわに屈してしまうのだ。,
-はううっ・・・❤,
-ほほほ、口が半開きになって間抜けな顔よの❤\nどうじゃ？その状態でペニスをしごけば、とろけるように気持ちよいぞ？\nわらわの前にひざまずき、見下されながら、果てるがよい。下郎❤,
-ホホホ❤わらわの美しさの虜となり、自ら快楽をねだるか。\nなんとも情けない男よの。\nこれが人類の中でも強者の部類とは。,
-そなたはどのような最期を望む？\nわらわの前で願いを申してみよ。,
-高貴なる愛撫,
+豪華な宝石を身にまとった強力なサキュバス。彼女の美貌は見る者の意識をひきつけ、すべてのマスターは無意識のうちに彼女に対してしか魔術を行使できなくなってしまうのだという。理性を強く保たなければ、味方に使うはずだった強化魔法をいつの間にかすべて彼女に献上することになり、さらに強力になった彼女の手であっという間に昇天させられてしまうことになるだろう。,A powerful succubus adorned in luxurious jewels. Her beauty entraps the minds of all who see her; and every cardmaster she faces unconsciously finds themselves able to only cast their spells only at her. If a cardmaster is of weak willpower; they may find their enhancement spells meant for allies unwittingly offered to her instead; and will find themselves quickly brought to climax by her powered up form.
+[1].このカードが場に出たとき発動する。自分のデッキから「{%%60022}」を１枚手札に加える。\n[2].このカードがフィールド上に存在する限り、お互いのプレイヤーはこのカードを効果の対象に選択できる場合、このカードしか効果の対象に選択できない。\n[3].このカードが相手モンスターを破壊したとき発動する。そのモンスターをゲームから取り除き、自分の墓地に存在する「ジェム」魔法カードと同種のカードをランダムに１枚生成して手札に加える。,[1]. When this card enters the field; add 1 "{%%60022}" from your deck to your hand.\n[2].While this card exists on the field; if either player is able to select this card as a target for an effect; they must do so.\n[3]. When this card destroys an enemy monster; remove that monster from the game; and randomly generate 1 "Gem" Magic card of the same type from your graveyard and add it to your hand.
+[4].「ジェム」カードを発動したとき発動する。ランダムな相手キャラクターの攻撃力を500ポイントダウンする。,[4]. Whenever you activate a "Gem" Magic card; decrease a random opponent character's attack power by 500 points.
+ホホホ、わらわの美しさに屈したそなたの体、\n我が身を飾る宝石に変えてくれよう。,Ohoho; your body has surrendered entirely to my beauty. Then I shall transform it into a jewel and adorn myself with it.
+ふむ、悪くない仕上がりよの。さてどこに着けてやろうか。\n首のネックレスに加えて、谷間にでも挟んでやろうか？\nほほほ❤,Hmm; not a bad finish! Now where shall I place you? Perhaps alongside my necklace; or maybe I'll tuck you between my breasts? Ohoho~❤
+ホホホ、そなたもわらわの宝石コレクションに加わりたいのか？\nほれ、我が身を飾る宝石に変えてくれよう。,Ohoho; do you also wish to join my collection of gems? Come; I'll transform you into a jewel to adorn my body.
+ふむ、悪くない仕上がりよの。さてどこに着けてやろうか。\nわらわの指にはめられて、手慰みに弄ばれたいか？\nほほほ❤,Hmm; not a bad finish! Now where shall I place you? Would you like to be worn on my finger; toyed with for my amusement? Ohoho~❤
+わらわの手は美しかろう？\nほれ、お前の粗末ないちもつを、軽くもてあそんでやろうではないか❤\n指をそっと押し当てて、上にゆっくりなで上げる・・・❤,My hands are beautiful; are they not? Come now; I'll use them to lightly toy with your pathetic little cock~❤ I'll gently press my finger against it; slowly stroking upward...❤
+たかがひと撫でされただけで、とろけた顔になっておるぞ？\n快楽で顔がゆるみ、精悍な顔を保つことも難しいのか。\n情けないのう❤,Has your face truly melted from but a single caress? It seems the pleasure has loosened your expression; making it impossible to maintain your stern facade. How pitiful~❤
+よろこべ。お前の粗末なものを\nわらわの胸で挟んで搾り取ってやろう。,Rejoice. I'll trap your pathetic little thing between my breasts and milk you dry.
+この胸で挟まれたオスどもは、\n極上の肌ざわりですぐ虜になる❤\nほおら、極楽の世界へいざなってやろうぞ❤,The men who are trapped between these breasts become instantly captivated by the exquisite sensation.❤ Come now; allow me to shepard you to paradise~❤
+両腕でお前をとらえ、\nこの胸に顔をうずめさせてやろう。\nわらわの抱擁を受けられるのだ、光栄に思うがよいぞ❤,I'll capture you in my arms and bury your face in my breasts. You should feel honored to receive my embrace.❤
+高級なドレスの肌触りと、わらわの胸の極上の感触。\n男を恍惚にいざなうには十分すぎる極楽であろう？\n脳を蕩けさせながら、わらわの腕の中で果ててしまえ❤,Revel in the feel of my luxurious dress and the exquisite sensation of my breasts. Surely this is more than enough paradise to drive a man to ecstasy. Let your mind melt away as you climax in my arms~❤
+恍惚の投げキス,Blown Kiss of Elation
+くすくす❤もはや風前のともしびじゃな。\nわらわたちの美しさに心を奪われ、立つこともままならんとは。,*Giggle*❤ You already sway like a candle; flickering in the wind. So captivated by my beauty; you can barely even stand.
+ほれ、わらわがさらに魔力を重ねてやろう。\n唇を指先で弾いて・・・んっちゅぱ❤,Come; I'll layer even more magic upon you. I shall flick my lips with my fingertips; and... Mmchu~❤
+どうじゃ？脳がとろけるようであろう？\nわらわのような強者に勝つことなど元より不可能。\n恍惚に堕ちてしまうがよい❤,How is it? Your brain feels as if it is melting; does it not? Defeating someone as powerful as me was impossible from the beginning. Fall into ecstasy!❤
+下郎の体など、触れるまでもない。\n魔力を込め、唇を弾くだけで十分であろう？\nんっ・・・❤ちゅぱ❤,I have no need to touch a body as lowly yours. Perhaps simply imbuing my lips with magic and flicking them is more than sufficient? Mm...❤ Chu~❤
+恍惚の魔眼,Demon Eyes of Ecstacy
+わらわの目は美しかろう？\nこの目で見つめられた男は、触れられもせぬうちから、\nわらわに屈してしまうのだ。,My eyes are beautiful; are they not? Men who are looked down upon by these eyes surrender to me before I ever need touch them.
+はううっ・・・❤,Hahhh...❤
+ほほほ、口が半開きになって間抜けな顔よの❤\nどうじゃ？その状態でペニスをしごけば、とろけるように気持ちよいぞ？\nわらわの前にひざまずき、見下されながら、果てるがよい。下郎❤,Ohoho; your jaw has gone slack in such a foolish expression!❤ How is it? If you stroke yourself in such a state; it would surely feel meltingly good; wouldn't you think? Kneel before me; and climax while being looked down upon! Peasant~❤
+ホホホ❤わらわの美しさの虜となり、自ら快楽をねだるか。\nなんとも情けない男よの。\nこれが人類の中でも強者の部類とは。,Ohoho~❤ You are so captivated by my beauty you are begging for pleasure all on your own. What a pathetic man you are! And to think; you are supposedly among the stronger class of humans.
+そなたはどのような最期を望む？\nわらわの前で願いを申してみよ。,What kind of end do you desire? Make your wish known to me!
+高貴なる愛撫,Noble Caress
 なんでも,You decide
-わらわに胸や手で愛撫してほしいのか。\nよかろう、一瞬でそなたを絶頂させてみせようぞ。,
-わらわに投げキスで果てさせてほしいとな？\nほほほ❤強者のくせに頼むことがずいぶん変わっておるの❤,
-わらわの目に心を狂わされたいと申すか。\nほほ、妙なことを望むものもいたものよ❤\nよかろう、我が魔力で恍惚に染め上げてみせようぞ。,
-ホホホ❤なんともたわいない。\nわらわの高貴な胸は、極上の肌ざわりであったであろう？,
-服の汚れなど、ほれ、すぐに吸収してしまえば元通りじゃ。\nそなたの粗末なエナジーも、\nわらわが吸収して有意義に活用してやろうぞ。,
-ホホホ❤なんともたわいない。\n抱き寄せられただけでビクビクと震えて、\nわらわの高貴な体は、極上であったであろう？,
-ホホホ❤なんともたわいない。\n指でなでただけではぜるとは、\nそなたとわらわの格の違いがよくわかるのう。,
-そなたの命など、わらわの指一本に敵わぬのだ。\nなんとも残酷な差よの。ホホホ❤,
-ホホホ❤なんともたわいない。\nわらわに魔力をぶつけられて、\n膝から崩れおちてしまいおったわ。,
-わらわの美しい唇から放たれる、恍惚の魔力。\nそなたに極楽を見せるには十分な威力であったであろう？,
-ホホホ❤なんともたわいない。\nわらわに見つめられながら、\n自らしごいてすぐに果てて・・・❤,
-これでも人間の中では強者の部類、\nBランクだというから笑わせる。\nそなたらのような雑魚が強者とは、人類も終わっておるの。ほほほ❤,
-あううっ・・・❤がまんできない・・・❤,
-ほほほ❤ふらふらとわらわの前まで来たと思えば、\n地面にへたり込んで自慰を始めおったわ。\nなんとも情けない男よの。,
-わらわの美しさにあてられて、もはやまともな思考もかなわぬか？\nなに、常人であれば、そのようになるのもいたしかたないこと。\nそれほどにわらわは美しいのだ。,
-とはいえ、そなたはBランクのカードマスター。\nそれも「無敗」の名を冠する男なのであろう？\n国の中でも有数の強者がこのありさまとは・・・。,
-とはいえ、そなたはBランクマスターの使い魔。\nそれも「無敗」の名を冠する男のしもべなのであろう？\n国の中でも有数の強者がこのありさまとは・・・。,
-常人のみならず、強者までもが自らわらわにこうべを垂れる。\nわらわが美しすぎるのか、そなたら人間が弱すぎるのか。\nおそらく両方であろうの❤,
-あっ、あっ、ああっ、きもちいいぃ・・・❤,
-ほほ、何もせずとも勝手によがっておるわ。\nわらわのそばに寄ったせいで、濃い淫気が体にまとわりつき、\n理性をさらに失っておるのか。,
-自分で扱いていても、普段の数倍は気持ちよかろう？\nいわば、わらわの魔力に肉棒を包まれているようなもの。\nそんな状態で扱けば、骨の髄まで快感にとろけてしまうのも当然よの。,
-どうせすぐ果てるであろうが、\nおぬしの自慰の様子など、見ていても退屈じゃ。\nほれ、今すぐこの場で果ててしまうがよい。んっちゅ・・・❤,
-わらわの魔力をハート型にして、おぬしに向かって飛ばしてやろうぞ。\nイケ❤下郎❤,
-はひぃ・・・❤あっ❤ああっ❤❤,
-ほほほ❤なんともあっけないものよのう。\n男の命というものは実にたやすく献上される。\nそなたらはサキュバスと戦うには、十年は早いのではないか？,
-まあ十年鍛えたところで、わらわの虜に一度落ちた男が、\nまた這いあがって来れるとも思わぬがの。\nそなたはもう一生この快感を忘れられぬぞ。くくく❤,
-ほほほ❤なんじゃ、そなたもわらわに命をささげたくなったか？\n地面にへたり込んで自慰を始めて、\nなんとも情けない男よの。,
-わらわの美しさにあてられて、自ら膝を屈する。\nなに、常人であれば、そのようになるのもいたしかたないこと。\nそれほどにわらわは美しいのだ。,
-とはいえ、そなたらはBランクマスターの使い魔。\nそれも「無敗」の名を冠する男のしもべなのであろう？\n国の中でも有数の強者どもがこのありさまとは・・・。,
-ほほほ❤なんともあっけないものよのう。\n男が何人もガン首をそろえて、わらわに傷ひとつつけられぬ。\nそれどころか自ら精をささげて、その体力を回復させるありさま。,
-最後にはマスター自ら自滅とは、ほほほ❤なんとも情けない。\n美貌にたやすく屈する、男という生き物は実にあわれよの❤,
-このまま全滅するまで、わらわにすべてをささげるとよい❤\nどうせそなたらに勝機はもはやなかろう？,
-ほお、なかなかやるではないか。\nわらわにこれほどの手傷を負わせるとは、\n人間にも実力者がいたものよ。,
-そなたへの褒美じゃ。\nほれ、我が宝石の光を受けとるがよい・・・❤,
-なっ・・・❤あうぅ・・・❤,
-ほほほ❤わらわが手を振り上げたのを見て、\n警戒し注視したのが命取りじゃったの。\nこの手にはめた宝石は、わらわの体から魔力を受け取り増幅して放つ。,
-この光を目にしたものは、一瞬で思考を塗り替えられ、\n全身を恍惚感にむしばまれるというわけじゃ。\nどうじゃわらわは美しかろう？手足にはもう力が入るまい？,
-ガクガクと足をふるわせ、立つのもやっとのようじゃの。\n射精の快感を何倍にもしたような強烈な恍惚感。\nさしもの強者も何もできぬようじゃ❤,
-さあ、このままもう一度光を浴びせて、\nおぬしの精を搾り取ってやるとしようぞ。,
-理性を振り絞り足に力を込めた,
-あまりの美しさにみとれてしまった,
-なっ、この状況からまだ動けるじゃと・・・！,
-ぐふっ、人間ながらあっぱれな強さよ・・。,
-ほほ❤その目、少しは抗う気概があるようじゃが、\n体は言うことを聞かぬようじゃの。\n足も手も全く動かせておらぬぞ？,
-ほほほ❤うっとりとした目でわらわに見惚れおって、\nすっかりわらわの虜に堕ちたようじゃ。,
-ほれ、我が光を浴びて、\n極上の快楽に浴するがよい、強き人間よ❤,
-あっ、あっ、ああっ・・・❤❤,
-はぐぅっ・・・❤❤あっ、ああっ・・❤❤,
-ほほほ❤痙攣しながら何度も射精しておるわ。\n美しいわらわに見つめられながら果てることができて、\nそなたもうれしかろう？,
-心から屈服した相手が出す精液ほど、エナジーのこもったものはない。\nそなたの精もわらわの体力を回復させられるほどの魔力量ぞ。,
-さて、残りのものどもの相手を続けようか。\nやっとの思いで追い詰めたわらわが万全の状態に戻った以上、\nそなたらには絶望しか待っておらぬがな。ほほほ❤,
-くっ、まさかまたわらわが追い詰められようとは。\nそなたら、さすがは「無敗」と呼ばれるだけはあるの。\nたいした実力者じゃ。,
-とはいえ、ほほほ❤そなたもあの男と同じ目に会うだけよの。\nほれ、我が宝石の光を受けとるがよい・・・❤,
-むっ、目を閉じてかわしたか。\nしかし、その一瞬の隙が命取りよ。,
-なっ・・・❤はぐうぅ・・・❤,
-ほほほ❤わらわの尻尾の中は極上の快楽であろう？\n上位のサキュバスの搾精は人間が与える快楽とは比べものにならぬ。\nそなたが抗えるものではない。,
-ほれほれほれ❤\n尻尾をうねらせ、中を締め付けて、\nそなたからエナジーを搾り取ってやろうぞ。,
-理性を振り絞り彼女に攻撃した,
-強烈な快感に抗えなかった,
-なっ、この状況でわらわを振り払えるじゃと・・・！,
-ほほほ❤いまさら力を込めたところで、もはや無意味。\nそなたの肉棒は、とっくにわらわに降伏しておるぞ。\nほれ、ほれ、ほれ・・・❤,
-はぐあっ、あぎっ、あああっ❤❤,
-ほほほ❤完全に快楽に身を任せて、愛い奴よの。\nそなたにはさらにわらわの宝石の光も加えてやろうぞ。,
-はひぃっ・・❤❤あっ、あぐっ、あああっ❤❤,
-体中から力を奪われ、脱力した状態でわらわの尻尾に吸い付かれれば、\n結果は火を見るよりも明らか。\nほれ、果てろ❤,
-全身をふるわせてずいぶんと濃厚な射精よの。\n強者の精はやはり美味。傷ついた体にはたまらぬ味じゃ。,
-わらわの尻尾の蜜壺は、そなたがこれまでに感じた中で、\n最高の快楽であったであろう？\nほほほ、その蕩けた顔と砕けが腰が何より物語っておるわ。,
-わらわの淫気に包まれながら、自慰にふけるのは極楽であったか？\n敵に見惚れ、自ら敗北を選ぶ。人間の男は実にか弱いものよ。\nほほほ❤,
-わらわの宝石の美しさ、身に染みて分かったであろう？\n恍惚としながら精を垂れ流し地に伏して、\n実にあわれよの。ほほほ❤,
-ほほほ❤わらわの尻尾の中は極楽だったであろう？\n人間ごときが耐えられる快楽ではない❤\nその身に染みて力の差が分かったようじゃな❤,
-ほほほ❤わらわの胸に挟まれて数瞬も持たなかったの❤\nそなたの我慢など極上の胸の柔らかさの前では、何の意味も持たぬ。\nよくわかったであろう？,
-ほほほ❤わらわにかき抱かれながら、びくびくと果てておる❤\n抱いただけで恍惚に堕ちて、人間のオスは実にか弱い生き物よ❤,
-ほほほ❤指で軽くなぞられただけで、果ておったわ。\nおぬしの力などこの指一本にすら劣るというわけじゃ。\n力の差が身に染みて分かったであろう？,
-ほほほ❤わらわに軽く魔力を飛ばされただけで果ておったわ。\n恍惚とした顔で崩れ落ちて、\n「無敗」の強者というわりに、ずいぶん弱い理性よの❤,
-わらわの目に射すくめられて、自らしごいて屈服の射精とは。\nほほほ❤人間の男を敗北させることなど、実にたやすいの❤,
-{自分}に敗れた僕は、エナジーを奪われ闘技場の地面に膝をついていた。,
-決着ー！！勝者はジェミニ選手！,
-西の鉱山地帯の守護者はダテではない！\n強力な上級モンスターの力で{主人公}選手をねじ伏せました！\nついに、彼の無敗の記録もここで終了です！,
-ふふ、この子強いよねー。\n最近手に入れたんだけど、宝石いっぱい持ってるモンスターだし\n気に入ってるんだー。,
-それじゃ、今回はこの辺で。\nまた後で「お礼」してあげるから、明日にでも家に来てね。\nあ、我慢できなければ試合の後すぐに来てもいいよ❤くすくす❤,
-そう言って{自分プレイヤー}さんは家までの道のりが書かれた紙切れを僕に手渡した。,
-ほほほ❤この場で搾り取ってやろうと思っておったが、まあよかろう。\nあとでじっくりと精を奪うのも一興よ。,
-どうせ「来ぬ」という選択肢はそなたにはないのであろう？\nまだわらわの与えた快楽が残り、\n上気した顔で蕩けておるそなたにはな❤,
-あううっ・・・❤❤,
-（はぁっ・・・。こっぴどく負けてしまった・・・。）,
-闘技場からの帰り道、僕は{自分プレイヤー}さんに手渡された地図を見ていた。,
-彼女は僕に「お礼」をしてくれるという。何か対価を求められているわけでもなく、ただ気持ちよくしてもらえる。特に悪いことはない・・・。しかし・・・。,
-（そんなことにうつつを抜かしている場合なのだろうか。\n今日負けた分、もっと修行するべきじゃ・・・）,
-僕は悩んでいた。試合のあとも下半身はうずいていて、本当はすぐにでも{自分プレイヤー}さんのところに行ってしまいたい。でも、僕には、もっと強くなるという目標があるのだ。,
-（それにしてもすごく強いモンスターだった・・・。\nあれがレベル７以上のサキュバスモンスター・・・。）,
-（目の前に立たれただけですごい存在感で、\n目が合っただけで体がしびれて、何も考えられなくなって\nそれで・・・。）,
-（なんとかあと一歩まで追い詰めたのに、\nあの手の宝石の光を浴びせられて、\n体中が気持ちよくなって・・・。）,
-（なんとかあと一歩まで追い詰めたのに、\nあの尻尾に吸い付かれて、しごかれて、\nおかしくなるぐらい気持ちよくされて・・・。）,
-（あの胸に挟まれて、すべすべの肌のやわらかさに、\n何もできないぐらいとろけさせられて、\nそれで・・・。）,
-（あの胸に顔を挟まれて、胸のやわらかさと温かさで\n何もできないぐらいとろけさせられて、\nそれで・・・。）,
-（軽く指で撫でられただけなのに、\nそれだけで腰がしびれるみたいに気持ちよくなって、\nそれでそのまま・・・）,
-（軽く投げキスをされただけなのに、\n一瞬で何も考えられなくなって、体に力も入れられなくなって\nそれで全然我慢できずに・・・）,
-（目でにらまれただけなのに、\nぞっとするみたいな美しさで、頭の中まっしろになって、\n気が付いたら自分で触っててそれで・・・）,
-（ううっ・・・❤\nだめだ思い出したらまたムラムラしてきてしまう・・・❤）,
-しばらく歩いていると分かれ道についた。ここを左に行けば宿屋で、右に行けば{自分プレイヤー}さんの家に着く。,
-{自分プレイヤー}さんの家になど行っている暇はない。当然僕は・・・。,
-ん？お客さんかな？入っていいよー。,
-ううっ、その・・・。,
-あは、さっき試合したルーキーくんじゃん。\nホントに今日来ちゃったんだ❤,
-試合ではすごく気持ちよさそうにイかされてたもんね～。\n我慢できなくて来ちゃったの？くすくす❤,
-うううっ・・・❤,
-くすくすとおかしそうに笑うジェミニさんの前で、僕は恥ずかしさで顔を真っ赤にしてしまう。,
-ふふふ❤なにせサキュバスのカードだからね。\nそういう風になっちゃうのも、ある意味仕方ないのかな？,
-ちょっと待ってね。あの子上級モンスターだから、\n召喚するにも魔力をしっかり貯めないと・・・。,
-よし、準備できたよ～。\n{自分}を召喚～！,
-ほほほ❤やはり来たか、「無敗」の男よ。\nそなたはわらわの与えた快楽を忘れられず、\nすぐに来るだろうと思っておったぞ。,
-さて、わらわから、ねっとりじっくりと、\nそなたに「礼」を与えてやろう。\nまずはこの手の甲を見るがよい。,
-我が魔力を濃縮させた光で、\nそなたを桃源郷にいざなってやろうぞ❤,
-はへぇっ・・・❤❤,
-ほほほ❤この光を浴びると意識が一瞬で蕩けてしまうであろう？\nこの宝石には、わらわの魔力を集め光に変えて放つ力がある。,
-わらわほどの上級モンスターの魔力を浴びれば、\n並みの人間は一瞬で廃人になり、二度と妄想の世界から帰ってこれぬ。\nおぬしほどの魔力があっても、無事ではすまぬというわけじゃな❤,
-多少は抵抗できるであろうが、\n快感は何十倍にもなり途方もない極楽を味わうことになるであろう❤,
-うぐ、あうぅ・・・❤❤,
-おっと、そのまま後ろ向きに地面に倒れるところじゃったの。\nほほほ、快楽で力が入らぬとはいえ、後頭部から倒れては危なかろう。,
-ほれ、わらわがそなたを支えてやろう。\nただし、ただ支えるだけというような甘いことはせぬがの。,
-うあっ・・・❤尻尾が吸い付いてきてぇ・・❤❤,
-ほほ、おおげさじゃの。まだ咥えただけ、\n少し中を動かしただけだというのに。\nおや・・・？,
-あっ、あっ、ああっ❤だめ、あぎぃっきもちよすぎるうっ❤❤,
-ほほほ❤尻尾で咥えた瞬間に出しおった。\nわらわのような上位のサキュバスの尻尾ははじめてか？,
-まったくこらえ性のないことよ。\nこれで「無敗」。これで「強者」か。ククク❤\n人類はサキュバス相手に勝ち目などなさそうよの。,
-ほれ、まだ本番はこれからぞ？\nさあ、尻尾にしゃぶられて、そなたの精を出し尽くしてしまうがよい❤,
-うぁっ❤あっ、ああっ❤❤❤はへぇ、こんなのっ❤だめ、だめぇっ❤\n吸い付いてきてぇ❤,
-強すぎる快楽に体が暴れておるわ。\nとはいえ、まったく力が入っておらぬから、\n赤子がもがくほどの威力もないの❤,
-赤子のように駄々をこねても\nそなたはこの快楽からは逃れられぬぞ❤\nほれほれほれ・・・❤,
-尻尾の中は人間の女性器とは比べものになるまい？\n中では男を敏感にさせる愛液が分泌され、\n性器をぎゅうぎゅうと締め付ける❤,
-小さなひだがペニスの側面を刺激して、\n手でも口でも、このような快感を再現することは不可能。\nサキュバスだからこその快楽よ❤,
-さて、このあたりで交渉と行こうか。\nそなたも早く射精したいであろう？\nそれなら、わらわに、手持ちのカードを差し出せ❤,
-どのようなカードでもよいぞ。１枚出すのだ。\nほら、カードを取り出せるように、一時的に刺激を弱めてやろう。,
-はひぃっ、カード？なんでっ❤あっ、ああっ・・・❤❤,
-わらわの命令に従うのに理由がいるか？\nこの尻尾に吸い付かれるため、それだけで説明は十分であろう？,
-ほれ、早くするのだ。\n早くせねば、もう二度とこの尻尾では咥えてやらぬぞ。\nさらに射精もおあずけだ。,
-あっ、そんな、それだけはっ❤ああっ、これ、カードっ❤❤あひぃっ❤,
-くくく❤緩慢に動かしていても、面白いように喘ぐの。\nでは、そなたから献上されたこのカードを・・・♪,
-{自分}は僕の顔の前にカードを持ってくると、わざと見せつけるようにそれを手で握りつぶして見せた。,
-驚いた次の瞬間、ぐっと握った手を開くとそこから、ぽとりと一粒の宝石が落ちた。,
-あっ、あっ、僕のカードは・・・。,
-ほほほ❤見ての通り、宝石に変わったというわけじゃ。\nわらわは、ささげられたものをなんでも宝石に変えることができる。\nよりよいものはよりよい宝石に、の。,
-そなたの出したカードはそこまでではなかったようじゃの。\nほほ、ずいぶんと小粒な宝石になってしまったわ。,
-ああ、そんな、デッキのカードなのに・・・。ああ・・・。,
-後悔などする必要はないぞ？なにせ・・・❤,
-そんなちんけなものは、すぐ快楽で塗りつぶされるからの❤,
-あぐっ、あへぇあっ、ああああっ❤❤❤,
-ほれ、わらわに捧げたこと、喜びながら果てよ。\nこれがそなたら人間の生きる意味だ❤,
-サキュバスに吸われ、サキュバスに捧げ、\nそれだけに思考を支配されて生きる。\nそなたらはただの下僕❤無駄なことなど考える必要もない❤,
-魂まで吸い出すような快楽に、我慢などできぬであろう？\nほれほれほれ・・・❤,
-あっ、あっ、出るっ、あひぃっっ❤❤,
-ほほほ❤どくどくと繰り返し射精して、\n極上の快楽を前に、人間は実に無力よの❤,
-ほれ、どうじゃ？カードを差し出したこと、後悔しておるか？\nそれとも・・・❤,
-いまの快感を前にしてみれば、\nあのようなものただの紙切れ同然か？ほほほ❤,
-あへぇ・・・・❤❤もっと、もっとぉ・・・❤❤,
-ほほ、もはやカードを捧げたことなど、頭にないようじゃのう。\n実に愚かなものよ。\nしかし、快楽をねだるということは分かっておるであろうの。,
-次はカードを１０枚差し出すがよい。\nその対価に尻尾でそなたの粗末なものを搾り取ってやろう❤,
-ちょっと、{自分}、やりすぎ。\nカード１枚を取っちゃったのもどうかと思うし、\nこれ以上は・・・。,
-何か言うたか？ん？,
-はうぅう・・・❤\nなんで、あなたはわたしのモンスターのはずなのに・・・❤,
-余計なことは考えずにおれ。\nそなたは部屋に引っ込んでおればよい。\nわらわの命令じゃ。,
-はい・・・・❤うう・・・❤,
-ほほほ、目から光を失い、言われるがまま部屋に戻っていくわ。\nなんの抵抗もできぬとは、\nだいぶわらわの魔力が浸食しておったようじゃの。,
-人間にただサキュバスが使役されると思う方が愚かというもの。\n宝石の趣味は気に入っておるが、\n所詮あやつもわらわたちの作戦のコマでしかない。,
-さて、話がそれたの。邪魔者はいなくなった。\nそなたはどうする？カードを差し出して快楽をねだるか？,
-それとも今見たことを人間どもに話し、\nわらわの封印にでも動くか？\nほほ、どうせ答えは決まっておるがの❤,
-あう、うううっ、おねがいします・・・❤\nまたきもちよくしてぇ・・・❤❤,
-そのカードの束がおぬしの答えか。\nほほほ❤なかなかレアカード揃いではないか。,
-さあ、これらのカードを１枚ずつ宝石に変えてみせながら、\nそなたに快楽を味合わせてやろう❤,
-10枚では終わらぬぞ？そなたが貴重なカードをすべて捧げるまで、\nわらわの尻尾からは逃れられぬ❤,
-いや、逃れようとは思えぬと行った方が正確かの。\nわらわの快楽に囚われたあわれな「無敗」のルーキーよ。\nわらわにすべてを吸いつくされてしまうがよい❤,
-僕はその日カラカラになるまで搾られ、カードを１００枚ほどささげたところで解放された。,
-一回射精させてもらうために、１０枚も２０枚もカードをささげなければならない。僕は持っているカードをかき集めて、翌日もジェミニさんの家に行ったのだった。,
-{自分}のことをギルドや師匠に報告することは、もちろんできた。しかし、とてもそうしたいとは思えなかった。それだけ彼女の与える快楽は強烈で、一日中そのことしか考えられず、食事も修行もなにもかも意識から消えてしまうほどだった。,
-彼女に抱きしめられながら、サキュバスの尻尾でぐちゅぐちゅと搾りとられる。彼女は目の前でカードを宝石に変えていき、床にはコロコロと多くの大小さまざまな宝石が散らばっていった。,
-最後にブラックナイトのカードを捧げたとき、握りつぶされた手の平からは大きな黒い宝石が落ちた。その輝きは非常に美しく、彼女も思わず息をのむほどだった。,
-その珍しさに満足した{自分}は、美しい顔にほほえみを浮かべ、そしてひときわ強く尻尾を収縮させた。尻尾にはあわい紫色の光がともり、僕のエナジーはぐいぐいと吸い取られていき・・・。,
-干からびる寸前、彼女の手の平に顔を覆われたかと思うと、強い恍惚感が僕を包んだ。何も考えられないまま快感に意識が溶けていく。そして・・・,
-僕の体は光の中に消え、床にぽとりと一つの赤い宝石が落ちて、それだけがその場に残ったのだった。,
-その後、{主人公}がどこに行ったのか誰も知らない。宝石に変えられ、彼女の身に着ける装身具のひとつになったのか。それとも床に無数にある宝石のように、雑にどこかにしまいこまれたのか・・・。,
-こうして妹を助けるため修行してきた{主人公}の物語は、{自分}の手によって、その幕を閉じたのだった。,
-とはいえ、そなたは{ランク名}ランクのカードマスター。\nそれも「無敗」の名を冠する男なのであろう？\n国の中でも有数の強者がこのありさまとは・・・。,
-とはいえ、そなたは{ランク名}ランクマスターの使い魔。\nそれも「無敗」の名を冠する男のしもべなのであろう？\n国の中でも有数の強者がこのありさまとは・・・。,
-とはいえ、そなたらは{ランク名}ランクマスターの使い魔。\nそれも「無敗」の名を冠する男のしもべなのであろう？\n国の中でも有数の強者どもがこのありさまとは・・・。,
+わらわに胸や手で愛撫してほしいのか。\nよかろう、一瞬でそなたを絶頂させてみせようぞ。,So you wish for me to caress you with my breasts and hands? Very well; I'll make you climax in an instant!
+わらわに投げキスで果てさせてほしいとな？\nほほほ❤強者のくせに頼むことがずいぶん変わっておるの❤,So you wish for me to make you climax with a blown kiss? Ohoho~❤ Despite your strength as a fighter; you requests are quite unusual.❤
+わらわの目に心を狂わされたいと申すか。\nほほ、妙なことを望むものもいたものよ❤\nよかろう、我が魔力で恍惚に染め上げてみせようぞ。,Are you saying you wish for my eyes to drive your mind to madness? Hoho; what strange desires some have~❤ Very well; I shall use my magic to dye you in ecstasy.
+ホホホ❤なんともたわいない。\nわらわの高貴な胸は、極上の肌ざわりであったであろう？,Ohoho~❤ How utterly pathetic. My noble breasts felt exquisite to the touch; did they not?
+服の汚れなど、ほれ、すぐに吸収してしまえば元通りじゃ。\nそなたの粗末なエナジーも、\nわらわが吸収して有意義に活用してやろうぞ。,Such terrible stains on my clothes. Observe; I shall absorb this mess immediately; making my dress is pristine once more; and taking your pathetic energy along with it. Fear not; however. I shall put it towards much more noble purposes.
+ホホホ❤なんともたわいない。\n抱き寄せられただけでビクビクと震えて、\nわらわの高貴な体は、極上であったであろう？,Ohoho~❤ How utterly pathetic. A mere embrace has left you trembling and shaking. My noble body was exquisite; was it not?
+ホホホ❤なんともたわいない。\n指でなでただけではぜるとは、\nそなたとわらわの格の違いがよくわかるのう。,Ohoho~❤ How utterly pathetic. Brought to climax from merely being stroked by my finger. I expect the difference in our standings is now quite clear.
+そなたの命など、わらわの指一本に敵わぬのだ。\nなんとも残酷な差よの。ホホホ❤,Your life has less value than even a single finger of mine. What a cruel difference! Ohoho~❤
+ホホホ❤なんともたわいない。\nわらわに魔力をぶつけられて、\n膝から崩れおちてしまいおったわ。,Ohoho~❤ How utterly pathetic. A mere hit from my magic and you've collapsed to your knees.
+わらわの美しい唇から放たれる、恍惚の魔力。\nそなたに極楽を見せるには十分な威力であったであろう？,The spell of ecstacy released from my beautiful lips had more than enough power to show you paradise; did it not?
+ホホホ❤なんともたわいない。\nわらわに見つめられながら、\n自らしごいてすぐに果てて・・・❤,Ohoho~❤ How utterly pathetic. Beneath my noble watch you immediately stroked yourself to climax...❤
+これでも人間の中では強者の部類、\nBランクだというから笑わせる。\nそなたらのような雑魚が強者とは、人類も終わっておるの。ほほほ❤,Among humans; you're supposedly in the upper-class. B-Rank; they say. How laughable! When weaklings like you are considered strong; humanity is truly finished. Ohoho~❤
+あううっ・・・❤がまんできない・・・❤,Ahhh...❤ I can't hold back...❤
+ほほほ❤ふらふらとわらわの前まで来たと思えば、\n地面にへたり込んで自慰を始めおったわ。\nなんとも情けない男よの。,Ohoho~❤ You staggered before me; then collapsed to the ground and started touching yourself. What a pathetic man!
+わらわの美しさにあてられて、もはやまともな思考もかなわぬか？\nなに、常人であれば、そのようになるのもいたしかたないこと。\nそれほどにわらわは美しいのだ。,Are you so overwhelmed by my beauty you can no longer think properly? For an ordinary person; such a reaction would inevitable. That's simply how radiant I am!
+とはいえ、そなたはBランクのカードマスター。\nそれも「無敗」の名を冠する男なのであろう？\n国の中でも有数の強者がこのありさまとは・・・。,You; however; are meant to be a B-rank cardmaster. One who bears the title of "undefeated;" are you not? For one of the nation's finest warriors to be brought so low...
+とはいえ、そなたはBランクマスターの使い魔。\nそれも「無敗」の名を冠する男のしもべなのであろう？\n国の中でも有数の強者がこのありさまとは・・・。,However; you are meant to be the familiar of a B-rank cardmaster. The servant of a man who bears the title of "undefeated;" are you not? For one of the nation's finest warriors to be brought so low...
+常人のみならず、強者までもが自らわらわにこうべを垂れる。\nわらわが美しすぎるのか、そなたら人間が弱すぎるのか。\nおそらく両方であろうの❤,It seems both the weak and the strong bow their heads to me of their own accord. Am I simply too beautiful; or are you humans too feeble? Perhaps both~❤
+あっ、あっ、ああっ、きもちいいぃ・・・❤,Ah; ah; ahhh; it feels so good...❤
+ほほ、何もせずとも勝手によがっておるわ。\nわらわのそばに寄ったせいで、濃い淫気が体にまとわりつき、\n理性をさらに失っておるのか。,Hoho; you're moaning all on your own; without me so much as lifting a finger. Since you deigned to approach me; thick; lustful energy now clings to your body; making you lose yet more of your pitiful reason.
+自分で扱いていても、普段の数倍は気持ちよかろう？\nいわば、わらわの魔力に肉棒を包まれているようなもの。\nそんな状態で扱けば、骨の髄まで快感にとろけてしまうのも当然よの。,Even simply stroking yourself feels infinitely better than usual; does it not? It is as if your cock has been cocooned in my magic. In a state like this; it is only natural that pleasure would melt you to your very bones!
+どうせすぐ果てるであろうが、\nおぬしの自慰の様子など、見ていても退屈じゃ。\nほれ、今すぐこの場で果ててしまうがよい。んっちゅ・・・❤,While I know your climax is close at hand; watching you stroke yourself grows tiresome. Come; reach your peak; here and now! Mmchu...❤
+わらわの魔力をハート型にして、おぬしに向かって飛ばしてやろうぞ。\nイケ❤下郎❤,I shall shape my magic into a heart and send it flying your way. Cum~❤ Peasant!❤
+はひぃ・・・❤あっ❤ああっ❤❤,Hahh...❤ Ah.❤ Ahhh!❤❤
+ほほほ❤なんともあっけないものよのう。\n男の命というものは実にたやすく献上される。\nそなたらはサキュバスと戦うには、十年は早いのではないか？,Ohoho~❤ How dreadfully anticlimactic! Male lives are so easily sacrificed. Aren't you all a bit too young to be fighting succubi?
+まあ十年鍛えたところで、わらわの虜に一度落ちた男が、\nまた這いあがって来れるとも思わぬがの。\nそなたはもう一生この快感を忘れられぬぞ。くくく❤,Though; even if you were to train for another decade; I doubt a man who had fallen under my spell once already could ever crawl his way back up again. You'll never forget this pleasure for the rest of your life. Kukuku~❤
+ほほほ❤なんじゃ、そなたもわらわに命をささげたくなったか？\n地面にへたり込んで自慰を始めて、\nなんとも情けない男よの。,Ohoho~❤ What's this? Do you wish to offer your life to me as well? You have collapsed to the ground; stroking yourself so willingly. What a pathetic man!
+わらわの美しさにあてられて、自ら膝を屈する。\nなに、常人であれば、そのようになるのもいたしかたないこと。\nそれほどにわらわは美しいのだ。,Overwhelmed by my beauty; you kneel of your own accord. For an ordinary person; such a reaction would be inevitable. That's simply how radiant I am!
+とはいえ、そなたらはBランクマスターの使い魔。\nそれも「無敗」の名を冠する男のしもべなのであろう？\n国の中でも有数の強者どもがこのありさまとは・・・。,You all; however; are meant to be the familiar of a B-rank cardmaster. The servants of a man who bears the title of "undefeated;" are you not? For such elite warriors to be brought so low...
+ほほほ❤なんともあっけないものよのう。\n男が何人もガン首をそろえて、わらわに傷ひとつつけられぬ。\nそれどころか自ら精をささげて、その体力を回復させるありさま。,Ohoho~❤ How utterly anticlimactic! Multiple men lined up together; unable to inflict a single wound on me. Instead; they offer up their essence themselves; restoring my stamina.
+最後にはマスター自ら自滅とは、ほほほ❤なんとも情けない。\n美貌にたやすく屈する、男という生き物は実にあわれよの❤,In the end; even the master himself offered his life to me. Ohoho~❤ How pathetic! Men are truly pitiful creatures who surrender so easily to beauty!❤
+このまま全滅するまで、わらわにすべてをささげるとよい❤\nどうせそなたらに勝機はもはやなかろう？,Continue offering everything to me until none of you are left standing!❤ After all; you no longer have any chance of victory; do you?
+ほお、なかなかやるではないか。\nわらわにこれほどの手傷を負わせるとは、\n人間にも実力者がいたものよ。,Oh; you're quite impressive. To inflict such wounds upon me... To think there are such skilled individuals among humans after all!
+そなたへの褒美じゃ。\nほれ、我が宝石の光を受けとるがよい・・・❤,Allow me to grant you a reward. Come; receive the light of my jewel...❤
+なっ・・・❤あうぅ・・・❤,What...❤ Ahhh...❤
+ほほほ❤わらわが手を振り上げたのを見て、\n警戒し注視したのが命取りじゃったの。\nこの手にはめた宝石は、わらわの体から魔力を受け取り増幅して放つ。,Ohoho~❤ You were so cautious; seeing me raise my hand; and you watched so intently... And that was your mistake. The jewel on this hand receives magic from my body; amplifies it; and releases it to the world.
+この光を目にしたものは、一瞬で思考を塗り替えられ、\n全身を恍惚感にむしばまれるというわけじゃ。\nどうじゃわらわは美しかろう？手足にはもう力が入るまい？,Those who see this light have their thoughts instantly rewritten; and their entire body consumed by ecstatic stimulation. Do you not find me utterly beautiful? Your limbs are left completely unable to muster any strength; are they not?
+ガクガクと足をふるわせ、立つのもやっとのようじゃの。\n射精の快感を何倍にもしたような強烈な恍惚感。\nさしもの強者も何もできぬようじゃ❤,Your legs shake and tremble; leaving you barely able to stand. An intense feeling of ecstacy courses through you; like the pleasure of ejaculation multiplied many times over. Even a strong warrior can do nothing against such magic~❤
+さあ、このままもう一度光を浴びせて、\nおぬしの精を搾り取ってやるとしようぞ。,Now; I shall bathe you in the light once more and milk your essence for all you are worth.
+理性を振り絞り足に力を込めた,Muster your reason and put strength into your legs
+あまりの美しさにみとれてしまった,So... Beautiful... I... I can't...'
+なっ、この状況からまだ動けるじゃと・・・！,What; how are you still able to move...?
+ぐふっ、人間ながらあっぱれな強さよ・・。,Guh; your strength is admirable... for a human...
+ほほ❤その目、少しは抗う気概があるようじゃが、\n体は言うことを聞かぬようじゃの。\n足も手も全く動かせておらぬぞ？,Hoho~❤ I can still see a spark of fighting spirit in your eyes; but it seems your body simply won't listen to you. You can't move your arms or legs at all; can you?
+ほほほ❤うっとりとした目でわらわに見惚れおって、\nすっかりわらわの虜に堕ちたようじゃ。,Ohoho~❤ You're staring at me with such enchanted eyes. You have completely fallen under my spell!
+ほれ、我が光を浴びて、\n極上の快楽に浴するがよい、強き人間よ❤,Come now; bask in my light and experience the ultimate pleasure; oh once-powerful human!❤
+あっ、あっ、ああっ・・・❤❤,Ahh; ahh; ahhh...❤❤
+はぐぅっ・・・❤❤あっ、ああっ・・❤❤,Haghhh...❤❤ Ahh; ahhh...❤❤
+ほほほ❤痙攣しながら何度も射精しておるわ。\n美しいわらわに見つめられながら果てることができて、\nそなたもうれしかろう？,Ohoho~❤ You're convulsing and ejaculating again and again. You must be overjoyed to cum while being watched by someone as beautiful as me; no?
+心から屈服した相手が出す精液ほど、エナジーのこもったものはない。\nそなたの精もわらわの体力を回復させられるほどの魔力量ぞ。,There's nothing more energy-filled than the semen of someone who has truly submitted to me. Your cum has enough magical power to restore my strength.
+さて、残りのものどもの相手を続けようか。\nやっとの思いで追い詰めたわらわが万全の状態に戻った以上、\nそなたらには絶望しか待っておらぬがな。ほほほ❤,Well then; shall I resume dealing with the rest of you? Now that I've returned to perfect condition after you all worked so hard to only barely manage to corner me; there is nothing waiting for you but despair! Ohoho~❤
+くっ、まさかまたわらわが追い詰められようとは。\nそなたら、さすがは「無敗」と呼ばれるだけはあるの。\nたいした実力者じゃ。,Kuh; I can hardly believe I was cornered yet again. You all truly live up to your title of "undefeated." You are all quite skilled.
+とはいえ、ほほほ❤そなたもあの男と同じ目に会うだけよの。\nほれ、我が宝石の光を受けとるがよい・・・❤,However; ohoho~❤ You shall simply meet the same fate as the man before you! Come; receive the light of my jewel...❤
+むっ、目を閉じてかわしたか。\nしかし、その一瞬の隙が命取りよ。,Hmph; you avoided it by closing your eyes? But that decision has created an opening; leaving you vulnerable!
+なっ・・・❤はぐうぅ・・・❤,Nahh...❤ Haghh...❤
+ほほほ❤わらわの尻尾の中は極上の快楽であろう？\n上位のサキュバスの搾精は人間が与える快楽とは比べものにならぬ。\nそなたが抗えるものではない。,Ohoho~❤ The inside of my tail is truly the ultimate pleasure; would you not agree? A high-level succubus's milking is incomparable to any pleasure humans have to offer. It's not something any man could resist.
+ほれほれほれ❤\n尻尾をうねらせ、中を締め付けて、\nそなたからエナジーを搾り取ってやろうぞ。,Come now; that's it; give in~❤ I'll make the inside of my tail writhe and squeeze; draining you of all your energy.
+理性を振り絞り彼女に攻撃した,Muster your reason and attack
+強烈な快感に抗えなかった,'This pleasure... It's too much!'
+なっ、この状況でわらわを振り払えるじゃと・・・！,What; to think you could shake me off from such a position...!
+ほほほ❤いまさら力を込めたところで、もはや無意味。\nそなたの肉棒は、とっくにわらわに降伏しておるぞ。\nほれ、ほれ、ほれ・・・❤,Ohoho~❤ Such effort is wasted now. Your cock has long since surrendered to me. Come; enjoy yourself...❤
+はぐあっ、あぎっ、あああっ❤❤,Haghhh; aghh; ahhh!❤❤
+ほほほ❤完全に快楽に身を任せて、愛い奴よの。\nそなたにはさらにわらわの宝石の光も加えてやろうぞ。,Ohoho~❤ Such a cute little thing you are; surrendering so completely to pleasure! I shall offer you the light of my jewel as well.
+はひぃっ・・❤❤あっ、あぐっ、あああっ❤❤,Hahhh...❤❤ Ahh; aghh; ahhh!❤❤
+体中から力を奪われ、脱力した状態でわらわの尻尾に吸い付かれれば、\n結果は火を見るよりも明らか。\nほれ、果てろ❤,With my tail devouring you in your weakened state; and your strength drained from your entire body; you ending is already set in stone. Come; climax~❤
+全身をふるわせてずいぶんと濃厚な射精よの。\n強者の精はやはり美味。傷ついた体にはたまらぬ味じゃ。,I can feel your whole body trembling as you release such thick cum! A strong man's semen truly is delicious. It's a near-irresistible taste for my poor; wounded body.
+わらわの尻尾の蜜壺は、そなたがこれまでに感じた中で、\n最高の快楽であったであろう？\nほほほ、その蕩けた顔と砕けが腰が何より物語っておるわ。,My tail's slick orifice was the greatest pleasure you've ever felt; was it not? Ohoho; your melted face and quivering hips are all the answer I need.
+わらわの淫気に包まれながら、自慰にふけるのは極楽であったか？\n敵に見惚れ、自ら敗北を選ぶ。人間の男は実にか弱いものよ。\nほほほ❤,Was stroking yourself while enveloped in my lewd aura simply heavenly? Being enchanted by your enemy and choosing defeat all on your own... Human males are truly such fragile creatures! Ohoho~❤
+わらわの宝石の美しさ、身に染みて分かったであろう？\n恍惚としながら精を垂れ流し地に伏して、\n実にあわれよの。ほほほ❤,You now truly understand the beauty of my jewel; do you not? Collapsing ecstatically while spilling your seed on the ground... How pitiful! Ohoho~❤
+ほほほ❤わらわの尻尾の中は極楽だったであろう？\n人間ごときが耐えられる快楽ではない❤\nその身に染みて力の差が分かったようじゃな❤,Ohoho~❤ The inside of my tail was simply paradise; would you not agree? It is pleasure no mere human could ever hope to endure.❤ It seems you have truly learned the difference in our power~❤
+ほほほ❤わらわの胸に挟まれて数瞬も持たなかったの❤\nそなたの我慢など極上の胸の柔らかさの前では、何の意味も持たぬ。\nよくわかったであろう？,Ohoho~❤ You were helpless to last even a few moments between my breasts.❤ Your endurance meant nothing against the softness of my regal chest; did it? Do you realize that at last?
+ほほほ❤わらわにかき抱かれながら、びくびくと果てておる❤\n抱いただけで恍惚に堕ちて、人間のオスは実にか弱い生き物よ❤,Ohoho~❤ You were left twitching and climaxing simply from my embrace.❤ Falling into ecstasy just from a hug... Human males truly are such fragile creatures!❤
+ほほほ❤指で軽くなぞられただけで、果ておったわ。\nおぬしの力などこの指一本にすら劣るというわけじゃ。\n力の差が身に染みて分かったであろう？,Ohoho~❤ You climaxed from the lightest trace of my finger. Your power cannot even compare to a single finger of mine. You've at last learned the difference in our strength; have you not?
+ほほほ❤わらわに軽く魔力を飛ばされただけで果ておったわ。\n恍惚とした顔で崩れ落ちて、\n「無敗」の強者というわりに、ずいぶん弱い理性よの❤,Ohoho~❤ You climaxed from simply having my magic cast gently upon you. Collapsing to the floor with such an ecstatic face... For someone knighted as "undefeated"; your mind is quite weak!❤
+わらわの目に射すくめられて、自らしごいて屈服の射精とは。\nほほほ❤人間の男を敗北させることなど、実にたやすいの❤,Being transfixed by my gaze and stroking yourself to a submissive climax... Ohoho~❤ Defeating human males truly is so simple.❤
+{自分}に敗れた僕は、エナジーを奪われ闘技場の地面に膝をついていた。,After being defeated by {自分}; I was left kneeling on the arena floor; my energy drained.
+決着ー！！勝者はジェミニ選手！,It's decided!! The winner is Gemini!
+西の鉱山地帯の守護者はダテではない！\n強力な上級モンスターの力で{主人公}選手をねじ伏せました！\nついに、彼の無敗の記録もここで終了です！,It seems the guardian of the western mining region is no joke! She's completely overwhelmed {主人公} with the power of her mighty high-level monster! At long last; his undefeated record has come to an end!
+ふふ、この子強いよねー。\n最近手に入れたんだけど、宝石いっぱい持ってるモンスターだし\n気に入ってるんだー。,Fufu; this girl is really strong! I just got her recently; and since she's a monster with lots of jewels; I really took a liking to her.
+それじゃ、今回はこの辺で。\nまた後で「お礼」してあげるから、明日にでも家に来てね。\nあ、我慢できなければ試合の後すぐに来てもいいよ❤くすくす❤,Well then; I'll be nice and leave it here for today. I'll still give you that "reward" later; so come to my house tomorrow or something; okay? Oh; but if you can't wait; feel free to come right after the match instead!❤ *Giggle*❤
+そう言って{自分プレイヤー}さんは家までの道のりが書かれた紙切れを僕に手渡した。,Saying that; {自分プレイヤー} handed me a piece of paper with directions to her house written on it.
+ほほほ❤この場で搾り取ってやろうと思っておったが、まあよかろう。\nあとでじっくりと精を奪うのも一興よ。,Ohoho~❤ I was thinking of draining you right here; but I suppose this is acceptable. Taking my time to steal your semen later will be just as amusing!
+どうせ「来ぬ」という選択肢はそなたにはないのであろう？\nまだわらわの与えた快楽が残り、\n上気した顔で蕩けておるそなたにはな❤, Not coming is hardly an option for you; now is it? After all; the pleasure I gave you is still lingering inside you; and your face remains so flushed and melted~❤
+あううっ・・・❤❤,Ahhh...❤❤
+（はぁっ・・・。こっぴどく負けてしまった・・・。）,(Ugh... I lost so badly...)
+闘技場からの帰り道、僕は{自分プレイヤー}さんに手渡された地図を見ていた。,On the way back from the arena; I was looking at the map {自分プレイヤー} had given me.
+彼女は僕に「お礼」をしてくれるという。何か対価を求められているわけでもなく、ただ気持ちよくしてもらえる。特に悪いことはない・・・。しかし・・・。,She said she'd give me a "reward." She's not asking for anything in return; just to make me feel good. There's nothing particularly wrong with that... But...
+（そんなことにうつつを抜かしている場合なのだろうか。\n今日負けた分、もっと修行するべきじゃ・・・）,(Is this really the time to be distracted by something like this? I should be training more to make up for today's loss...)
+僕は悩んでいた。試合のあとも下半身はうずいていて、本当はすぐにでも{自分プレイヤー}さんのところに行ってしまいたい。でも、僕には、もっと強くなるという目標があるのだ。,I was torn. Even after the match; my lower body still ached; and I really wanted to go to {自分プレイヤー}'s place right away. But I still wanted to become stronger.
+（それにしてもすごく強いモンスターだった・・・。\nあれがレベル７以上のサキュバスモンスター・・・。）,(Still; that was an incredibly strong monster... That succubus must have been level 7 or higher...)
+（目の前に立たれただけですごい存在感で、\n目が合っただけで体がしびれて、何も考えられなくなって\nそれで・・・。）,(Even just standing in front of me; her presence was overwhelming; and something as small as making eye contact made my body numb and my mind unable to even think; and then...)
+（なんとかあと一歩まで追い詰めたのに、\nあの手の宝石の光を浴びせられて、\n体中が気持ちよくなって・・・。）,(I somehow cornered her at the very end there; but then she bathed me in that light from the gem on her hand; and my whole body just felt so good...)
+（なんとかあと一歩まで追い詰めたのに、\nあの尻尾に吸い付かれて、しごかれて、\nおかしくなるぐらい気持ちよくされて・・・。）,(I somehow cornered her at the very end there; but then her tail caught me; sucking and stroking me like that; making me feel so incredibly good I thought I'd go crazy...)
+（あの胸に挟まれて、すべすべの肌のやわらかさに、\n何もできないぐらいとろけさせられて、\nそれで・・・。）,(Being sandwiched between those breasts; the smoothness and softness of her skin making me melt so much I couldn't do anything; and then...)
+（あの胸に顔を挟まれて、胸のやわらかさと温かさで\n何もできないぐらいとろけさせられて、\nそれで・・・。）,(Having my face nestled between those breasts; the softness and warmth of her chest making me melt so much I couldn't do anything; and then...)
+（軽く指で撫でられただけなのに、\nそれだけで腰がしびれるみたいに気持ちよくなって、\nそれでそのまま・・・）,(Just being lightly caressed with her finger made my hips tingle with pleasure; and then I just...)
+（軽く投げキスをされただけなのに、\n一瞬で何も考えられなくなって、体に力も入れられなくなって\nそれで全然我慢できずに・・・）,(All she did was blow me a kiss; and my mind just went blank. I couldn't put strength into my body; and I couldn't hold back at all; and...)
+（目でにらまれただけなのに、\nぞっとするみたいな美しさで、頭の中まっしろになって、\n気が付いたら自分で触っててそれで・・・）,(The way she glared at me with those eyes; her spine-tingling beauty made my head go completely blank; and before I knew it I was touching myself; and then...)
+（ううっ・・・❤\nだめだ思い出したらまたムラムラしてきてしまう・・・❤）,(Ugh...❤ No good. Just thinking about it is making me horny again...❤)
+しばらく歩いていると分かれ道についた。ここを左に行けば宿屋で、右に行けば{自分プレイヤー}さんの家に着く。,After walking for a while; I came to a fork in the road. Going left would lead to the inn; but if I went right; I would reach {自分プレイヤー}'s house.
+{自分プレイヤー}さんの家になど行っている暇はない。当然僕は・・・。,I don't have time to go to {自分プレイヤー}'s house! So naturally; I...
+ん？お客さんかな？入っていいよー。,Hmm? A visitor? Come in!
+ううっ、その・・・。,Uhh; um...
+あは、さっき試合したルーキーくんじゃん。\nホントに今日来ちゃったんだ❤,Aha; well if it isn't the rookie from the match earlier. You actually came today~❤
+試合ではすごく気持ちよさそうにイかされてたもんね～。\n我慢できなくて来ちゃったの？くすくす❤,You looked like you were having a really good time getting off in the arena earlier. Did you come see me because you were having trouble with your urges? *Giggle*❤
+うううっ・・・❤,Uuhhh...❤
+くすくすとおかしそうに笑うジェミニさんの前で、僕は恥ずかしさで顔を真っ赤にしてしまう。,Faced with Gemini's amused giggles; embarrassment welled inside of me; making my face turn bright red.
+ふふふ❤なにせサキュバスのカードだからね。\nそういう風になっちゃうのも、ある意味仕方ないのかな？,Fufufu~❤ I suppose it was a succubus card. I guess you ending up like that was inevitable; huh?
+ちょっと待ってね。あの子上級モンスターだから、\n召喚するにも魔力をしっかり貯めないと・・・。,Hold on a minute. She's a pretty high-level monster; so I need a second to store up enough magical power to summon her...
+よし、準備できたよ～。\n{自分}を召喚～！,Alright; ready! Summoning {自分}!
+ほほほ❤やはり来たか、「無敗」の男よ。\nそなたはわらわの与えた快楽を忘れられず、\nすぐに来るだろうと思っておったぞ。,Ohoho~❤ So; the 'undefeatable' man came after all! I had a feeling you would come right away; unable to forget the pleasure I gifted you.
+さて、わらわから、ねっとりじっくりと、\nそなたに「礼」を与えてやろう。\nまずはこの手の甲を見るがよい。,Now then; allow me to give you your very slow; very thorough "reward." First; gaze at the back of my hand.
+我が魔力を濃縮させた光で、\nそなたを桃源郷にいざなってやろうぞ❤,With the light of my condensed magical power; I'll guide you to paradise~❤
+はへぇっ・・・❤❤,Ha; haa...❤❤
+ほほほ❤この光を浴びると意識が一瞬で蕩けてしまうであろう？\nこの宝石には、わらわの魔力を集め光に変えて放つ力がある。,Ohoho~❤ This light makes your consciousness melt in a mere moment; does it not? This jewel has the power to gather my magical power; convert it to light; and release it to the world.
+わらわほどの上級モンスターの魔力を浴びれば、\n並みの人間は一瞬で廃人になり、二度と妄想の世界から帰ってこれぬ。\nおぬしほどの魔力があっても、無事ではすまぬというわけじゃな❤,If you're bathed in the magical power of a high-level monster like me; an ordinary human like would instantly become helpless; never to return from their world of delusion. Even with your level of magical power; you have no hope of escaping unharmed.❤
+多少は抵抗できるであろうが、\n快感は何十倍にもなり途方もない極楽を味わうことになるであろう❤,You may be able to resist to some extent;  but any pleasure you experience will be multiplied ten-fold; and you will no doubt experience unimaginable bliss~❤
+うぐ、あうぅ・・・❤❤,Ugu; ahhh...❤❤
+おっと、そのまま後ろ向きに地面に倒れるところじゃったの。\nほほほ、快楽で力が入らぬとはいえ、後頭部から倒れては危なかろう。,Oh my; you very nearly fell backwards onto the ground. Ohoho; I know you have been left weak from the such a wonderful sensation; but it would be dangerous if you were to collapse and hit your head.
+ほれ、わらわがそなたを支えてやろう。\nただし、ただ支えるだけというような甘いことはせぬがの。,Come; I'll support you. Though; you shouldn't expect me to be so sweet as to simply stop at holding you.
+うあっ・・・❤尻尾が吸い付いてきてぇ・・❤❤,Uahh...❤ Your tail... I-It's sucking me in...❤❤
+ほほ、おおげさじゃの。まだ咥えただけ、\n少し中を動かしただけだというのに。\nおや・・・？,Hoho; how dramatic. I've merely taken your cock into its mouth. I have hardly moved it at all. Oh...?
+あっ、あっ、ああっ❤だめ、あぎぃっきもちよすぎるうっ❤❤,Ahh; ahh; ahhh!❤ No good! Aghh; it feels too good!❤❤
+ほほほ❤尻尾で咥えた瞬間に出しおった。\nわらわのような上位のサキュバスの尻尾ははじめてか？,Ohoho~❤ You came the instant you were swallowed by my tail. Is this your first time with a succubus's tail as high-level as mine?
+まったくこらえ性のないことよ。\nこれで「無敗」。これで「強者」か。ククク❤\n人類はサキュバス相手に勝ち目などなさそうよの。,You have absolutely no self-control! Is this truly the one they called "undefeated"? The "strongest there is"? Kukuku~❤ It seems humanity has no hope of triumph over succubi after all!
+ほれ、まだ本番はこれからぞ？\nさあ、尻尾にしゃぶられて、そなたの精を出し尽くしてしまうがよい❤,Come now; the real fun has only just begun; has it not? My tail will gladly suck you dry until every drop of your cum is mine!❤
+うぁっ❤あっ、ああっ❤❤❤はへぇ、こんなのっ❤だめ、だめぇっ❤\n吸い付いてきてぇ❤,Uahh!❤ Ahh; ahhh!❤❤❤ Hah; hah... This is incredible!❤ No; I can't take it!❤ It's sucking me so hard!❤
+強すぎる快楽に体が暴れておるわ。\nとはいえ、まったく力が入っておらぬから、\n赤子がもがくほどの威力もないの❤,Your body is thrashing from the overwhelming pleasure. But you have no strength left; so your struggles are as feeble as newborns~❤
+赤子のように駄々をこねても\nそなたはこの快楽からは逃れられぬぞ❤\nほれほれほれ・・・❤,No matter how large the tantrum you throw; you simply cannot escape this pleasure!❤ Feel it building; and building; and building...❤
+尻尾の中は人間の女性器とは比べものになるまい？\n中では男を敏感にさせる愛液が分泌され、\n性器をぎゅうぎゅうと締め付ける❤,The inside of my tail is incomparable to any human woman's pussy; wouldn't you agree? Inside; special fluids are secreted that make men particularly sensitive as it squeezes their cock's tight~❤
+小さなひだがペニスの側面を刺激して、\n手でも口でも、このような快感を再現することは不可能。\nサキュバスだからこその快楽よ❤,The small folds stimulate every part of your weak little penis; creating pleasure that no hand or mouth could ever replicate. This is a pleasure only us succubi can provide!❤
+さて、このあたりで交渉と行こうか。\nそなたも早く射精したいであろう？\nそれなら、わらわに、手持ちのカードを差し出せ❤,Now then; shall we begin negotiations? You want to cum so badly; do you not? Then offer me one of your cards~❤
+どのようなカードでもよいぞ。１枚出すのだ。\nほら、カードを取り出せるように、一時的に刺激を弱めてやろう。,Any card will do. Just give me one. Here; I will temporarily reduce the stimulation so you can reach for your deck.
+はひぃっ、カード？なんでっ❤あっ、ああっ・・・❤❤,Hah; aah! My cards? Why do I need to...!❤ Ahh! Ahhh...❤❤
+わらわの命令に従うのに理由がいるか？\nこの尻尾に吸い付かれるため、それだけで説明は十分であろう？,Do you need a reason to obey my commands? Being sucked by this tail should be cause enough; should it not?
+ほれ、早くするのだ。\n早くせねば、もう二度とこの尻尾では咥えてやらぬぞ。\nさらに射精もおあずけだ。,Hurry up and do as I say! If you act too slowly; I shall never let this tail pleasure you again. You will be denied your orgasm; as well.
+あっ、そんな、それだけはっ❤ああっ、これ、カードっ❤❤あひぃっ❤,Ahh; no; anything but that!❤ Ahhh; here; a card!❤❤ Ahhh!❤
+くくく❤緩慢に動かしていても、面白いように喘ぐの。\nでは、そなたから献上されたこのカードを・・・♪,Kukuku~❤ Even with these slower movements; you moan so delightfully. Now then; gaze upon this card you've offered me...♪
+{自分}は僕の顔の前にカードを持ってくると、わざと見せつけるようにそれを手で握りつぶして見せた。,{自分} brought the card close to my face; deliberately showing it off as she crushed it in her hand.
+驚いた次の瞬間、ぐっと握った手を開くとそこから、ぽとりと一粒の宝石が落ちた。,The next moment; to my surprise; she opened her clenched fist; letting a single jewel drop to the floor with a soft clink.
+あっ、あっ、僕のカードは・・・。,Ahh; ahh; my card...
+ほほほ❤見ての通り、宝石に変わったというわけじゃ。\nわらわは、ささげられたものをなんでも宝石に変えることができる。\nよりよいものはよりよい宝石に、の。,Ohoho~❤ As you can see; it's been transformed into a gem. I can turn anything offered to me into a jewel. The better the offering; the finer the stone.
+そなたの出したカードはそこまでではなかったようじゃの。\nほほ、ずいぶんと小粒な宝石になってしまったわ。,Your card wasn't particularly impressive; it seems. Hoho; it became quite a small stone.
+ああ、そんな、デッキのカードなのに・・・。ああ・・・。,Ahh; no way; but that was from my deck... Ahh...
+後悔などする必要はないぞ？なにせ・・・❤,There's no need for regret now...❤
+そんなちんけなものは、すぐ快楽で塗りつぶされるからの❤,Such trivial things will soon be painted over with pleasure!❤
+あぐっ、あへぇあっ、ああああっ❤❤❤,Aghh; ah; ahh; ahhhhh!❤❤❤
+ほれ、わらわに捧げたこと、喜びながら果てよ。\nこれがそなたら人間の生きる意味だ❤,Come now; climax with elation at having offered yourself to me. This is the true meaning of human existence!❤
+サキュバスに吸われ、サキュバスに捧げ、\nそれだけに思考を支配されて生きる。\nそなたらはただの下僕❤無駄なことなど考える必要もない❤,To be drained by a succubus; to offer yourself to us; and to live with only those thoughts dominating your mind. You're nothing but servants!❤ To be anything besides is a pointless endeavor~❤
+魂まで吸い出すような快楽に、我慢などできぬであろう？\nほれほれほれ・・・❤,You never had a hope of resisting a pleasure that sucks out your very soul; did you? Feel it; embrace it; let it consume you...❤
+あっ、あっ、出るっ、あひぃっっ❤❤,Ahh; ahh; I'm cumming! Ahhh!!❤❤
+ほほほ❤どくどくと繰り返し射精して、\n極上の快楽を前に、人間は実に無力よの❤,Ohoho~❤ Spurting repeatedly in such thick bursts... Humans are truly powerless before supreme pleasure!❤
+ほれ、どうじゃ？カードを差し出したこと、後悔しておるか？\nそれとも・・・❤,So tell me; do you regret offering your card card to me? Or perhaps...❤
+いまの快感を前にしてみれば、\nあのようなものただの紙切れ同然か？ほほほ❤,Faced with such indescribable pleasure; do you see it now as nothing more than a scrap of paper? Ohoho~❤
+あへぇ・・・・❤❤もっと、もっとぉ・・・❤❤,Ah; ah...❤❤ More... I-I want more...❤❤
+ほほ、もはやカードを捧げたことなど、頭にないようじゃのう。\n実に愚かなものよ。\nしかし、快楽をねだるということは分かっておるであろうの。,Hoho; it seems you have already forgotten all about the card you offered me. How foolish. But you understand what it means to beg for pleasure; do you not?
+次はカードを１０枚差し出すがよい。\nその対価に尻尾でそなたの粗末なものを搾り取ってやろう❤,For your next tribute; offer me ten cards. In exchange; I'll milk that pathetic thing of yours with my tail once more~❤
+ちょっと、{自分}、やりすぎ。\nカード１枚を取っちゃったのもどうかと思うし、\nこれ以上は・・・。,Wait; {自分}; this is going too far. It was bad enough taking that first card; but any more than that...
+何か言うたか？ん？,Hmmm? Did you say something?
+はうぅう・・・❤\nなんで、あなたはわたしのモンスターのはずなのに・・・❤,Hahh...❤ Why... You're supposed to be my monster...❤
+余計なことは考えずにおれ。\nそなたは部屋に引っ込んでおればよい。\nわらわの命令じゃ。,There's no need to be concerned about such things. Perhaps you should retire to your room? In fact; I command it.
+はい・・・・❤うう・・・❤,Yes...❤ Uhh...❤
+ほほほ、目から光を失い、言われるがまま部屋に戻っていくわ。\nなんの抵抗もできぬとは、\nだいぶわらわの魔力が浸食しておったようじゃの。,Ohoho; the light faded from her eyes as she obediently returned to her room. It would seem she has no resistance left; and that my magic has thoroughly corrupted her.
+人間にただサキュバスが使役されると思う方が愚かというもの。\n宝石の趣味は気に入っておるが、\n所詮あやつもわらわたちの作戦のコマでしかない。,Anyone who thinks succubi can simply be enslaved by humans is a fool. While I appreciate her taste in gemstones; she's ultimately just another pawn in our strategy.
+さて、話がそれたの。邪魔者はいなくなった。\nそなたはどうする？カードを差し出して快楽をねだるか？,Now; where were we? Ah; yes. The nuisance is gone at last. So what will you do? Will you offer more cards and beg for pleasure?
+それとも今見たことを人間どもに話し、\nわらわの封印にでも動くか？\nほほ、どうせ答えは決まっておるがの❤,Or will you tell the other humans what you saw and try to seal me away? Hoho; I suspect the choice has already been made for you~❤
+あう、うううっ、おねがいします・・・❤\nまたきもちよくしてぇ・・・❤❤,Ahh; ughh; please...❤ Make me feel good again...❤❤
+そのカードの束がおぬしの答えか。\nほほほ❤なかなかレアカード揃いではないか。,That stack of cards is your answer; is it? Ohoho~❤ What an impressive collection of rare cards you have.
+さあ、これらのカードを１枚ずつ宝石に変えてみせながら、\nそなたに快楽を味合わせてやろう❤,Now; I'll transform these cards into gems one by one; giving you pleasure as I do~❤
+10枚では終わらぬぞ？そなたが貴重なカードをすべて捧げるまで、\nわらわの尻尾からは逃れられぬ❤,I hope you know I have no intention of stopping at ten. You shan't escape my tail until you've offered me every last precious card you own~❤
+いや、逃れようとは思えぬと行った方が正確かの。\nわらわの快楽に囚われたあわれな「無敗」のルーキーよ。\nわらわにすべてを吸いつくされてしまうがよい❤,No; I suppose it would be more accurate to say you will not wish to escape. Poor "undefeated" rookie; trapped by my pleasure! Allow me to drain you for everything you have!❤
+僕はその日カラカラになるまで搾られ、カードを１００枚ほどささげたところで解放された。,That day I was milked dry; only released after offering around a hundred cards.
+一回射精させてもらうために、１０枚も２０枚もカードをささげなければならない。僕は持っているカードをかき集めて、翌日もジェミニさんの家に行ったのだった。,To be allowed just one orgasm; I had to sacrifice anywhere from ten to twenty cards. After that; I gathered every card I owned and went to Gemini's house again the next day.
+{自分}のことをギルドや師匠に報告することは、もちろんできた。しかし、とてもそうしたいとは思えなかった。それだけ彼女の与える快楽は強烈で、一日中そのことしか考えられず、食事も修行もなにもかも意識から消えてしまうほどだった。,Of course; I could have just reported {自分} to the guild or my master. But I had no desire to. Her pleasure was so intense that I could think of nothing else all day; making me forget about food; training; everything.
+彼女に抱きしめられながら、サキュバスの尻尾でぐちゅぐちゅと搾りとられる。彼女は目の前でカードを宝石に変えていき、床にはコロコロと多くの大小さまざまな宝石が散らばっていった。,Held in her embrace; the succubus pumped me with her tail; milking me dry with wet; squishy sounds. As she did; she transformed cards into gems before my eyes; leaving jewels of various sizes scattered across the floor.
+最後にブラックナイトのカードを捧げたとき、握りつぶされた手の平からは大きな黒い宝石が落ちた。その輝きは非常に美しく、彼女も思わず息をのむほどだった。,When I finally offered my Black Knight card; a large; black gem fell from her hand. Its brilliance was so beautiful that even she couldn't help but gasp.
+その珍しさに満足した{自分}は、美しい顔にほほえみを浮かべ、そしてひときわ強く尻尾を収縮させた。尻尾にはあわい紫色の光がともり、僕のエナジーはぐいぐいと吸い取られていき・・・。,Satisfied with its rarity; {自分} smiled beautifully; then contracted her tail with exceptional force. The tail glowed with a faint purple light as my energy was forcefully drained away...
+干からびる寸前、彼女の手の平に顔を覆われたかと思うと、強い恍惚感が僕を包んだ。何も考えられないまま快感に意識が溶けていく。そして・・・,Just before withering completely; her palm covered my face; and an intense ecstasy enveloped me. My consciousness melted in pleasure without thought. And then...
+僕の体は光の中に消え、床にぽとりと一つの赤い宝石が落ちて、それだけがその場に残ったのだった。,My body vanished in light; and a single red gem fell to the floor; the sole remnant of what had once been me.
+その後、{主人公}がどこに行ったのか誰も知らない。宝石に変えられ、彼女の身に着ける装身具のひとつになったのか。それとも床に無数にある宝石のように、雑にどこかにしまいこまれたのか・・・。,Afterward; no one knew where {主人公} had gone. Had he the gem she'd turned him into become part of her jewelry? Or was he carelessly stored somewhere; like the countless gems scattered on the floor...
+こうして妹を助けるため修行してきた{主人公}の物語は、{自分}の手によって、その幕を閉じたのだった。,Thus the tale of {主人公}; the cardmaster who had trained to save his sister; came to its end by the {自分}'s hand.
+とはいえ、そなたは{ランク名}ランクのカードマスター。\nそれも「無敗」の名を冠する男なのであろう？\n国の中でも有数の強者がこのありさまとは・・・。,Still; you are a {ランク名}-rank cardmaster. One who bears the title of "undefeated"; are you not? For one of the nation's strongest to be brought so low...
+とはいえ、そなたは{ランク名}ランクマスターの使い魔。\nそれも「無敗」の名を冠する男のしもべなのであろう？\n国の中でも有数の強者がこのありさまとは・・・。,Still; you are a {ランク名}-rank master's familiar. A proud servant to one who bears the title of "undefeated"; are you not? For one of the nation's strongest to be brought so low...
+とはいえ、そなたらは{ランク名}ランクマスターの使い魔。\nそれも「無敗」の名を冠する男のしもべなのであろう？\n国の中でも有数の強者どもがこのありさまとは・・・。,Still; you are all familiars to a {ランク名}-rank master. Proud servants to one who bears the title of "undefeated"; are you not? For so many of the nation's strongest to be brought so low...
