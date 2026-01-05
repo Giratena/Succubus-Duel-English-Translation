@@ -70,7 +70,7 @@ Bランクになってからもその実力は健在！\nジェミニ選手を�
 あらゆるカードはこの子のために～ってわけだねー。\n絢爛豪華な{使用カード}。\nその魅力に服従させてあげるー❤,All cards exist for her benefit~ The dazzling and beautiful {使用カード}! I'll make you submit to her charm.❤
 ううっ、あうう・・・❤,Nngh; ahh...❤
 ん～？復活したのになんでそんなうっとりしてるの？\nあー、そっか自滅しちゃった子か。\n気持ちよく負けたのが忘れられないんだ❤,Hm? Why are you looking so dazed after being revived? Oh right; you're the one who self-destructed. I guess you can't forget how good it felt to lose; can you?❤
-もっとまともな子を復活させればよかったのに。\nもしかして味方がやられちゃって、ルーキーくんも焦ってるのかな？\nくすくす❤,You should've revived someone more useful. Or maybe; you're getting desperate now that your allies are being taken care of; Rookie? *Giggle*❤
+もっとまともな子を復活させればよかったのに。\nもしかして味方がやられちゃって、ルーキーくんも焦ってるのかな？\nくすくす❤,You should've revived someone more useful. Or maybe the rookie's getting desperate now that his allies are being taken care of? *Giggle*❤
 さらにもう1枚発動～。,I'll activate another card.
 {使用カード}が場に出たとき、効果発動～！\nデッキから「{%%60022}」を手札に加えるよ。,When {使用カード} enters the field; its effect activates! I'll add "{%%60022}" from my deck to my hand.
 {使用カード}が場に出たとき、効果発動～！\nデッキから「{%%60022}」を１枚サーチするよ。,When {使用カード} enters the field; its effect activates! I'll search my deck for one "{%%60022}".
