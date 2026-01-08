@@ -22,18 +22,18 @@ Place/MorugenUnderground,
 分かりました。状況を説明しますね。\nん・・・？,Understood. Let me explain the situation. Hmm...?
 あいたた・・・。あれ、わたし・・・。,Ow... Huh; what happened to me...?
 ・・・・！,...!
-エルルさん。目を覚ましたんですね！\nよかった…。,Eruru! You're awake! Thank goodness...
+エルルさん。目を覚ましたんですね！\nよかった…。,Elulu! You're awake! Thank goodness...
 体は大丈夫ですか？どこかおかしいところなどはありませんか？,Are you alright? Does anything feel off with your body?
 ありがと、うん…。大丈夫みたい。\nかなり体がだるいけれど、魔力を使い果たしたって感じのだるさよ。\n体に変な感じはしないわ。,Thanks; yeah... I think I'm fine. I feel pretty drained; but it's the kind of exhaustion you get after using up all your magic. Nothing feels weird about my body.
 はぁ・・・・。まだ現実感がないけど、\nわたしサキュバスになってたのよね。,Haa... It still doesn't feel real; but I really did become a succubus; didn't I?
 人間に戻れて、本当によかった…。\n{主人公}、あなたのおかげよ。ありがとう…。,I'm so relieved I'm human again... {主人公}; this is all thanks to you. Thank you...
 ・・・・♪,...♪
-エルルさんはほっとしたような顔で、そう言った。僕もエルルさんが無事なようで一安心だ。,Eruru said that with a relieved expression on her face. I was also relieved to see that she seemed to be okay.
-僕らがエルルさんの回復を喜んでいると、向こうの方で足音が聞こえてきた。,As we were celebrating Eruru's recovery; we heard footsteps approaching from the other direction.
+エルルさんはほっとしたような顔で、そう言った。僕もエルルさんが無事なようで一安心だ。,Elulu had a relieved expression on her face. I was also relieved to see that she seemed to be okay.
+僕らがエルルさんの回復を喜んでいると、向こうの方で足音が聞こえてきた。,As we were celebrating Elulu's recovery; we heard footsteps approaching from the other direction.
 おーい、戻ったよ。\nやっぱりこっちの道もダメみたい。\n結界でふさがれてた。,Hey; I'm back. Looks like that path's no good either. It was blocked off by a barrier.
 やはりそうでしたか…。,I suspected as much...
 ・・・・？,...?
-いま目覚めたばかりの、{主人公}さんとエルルさんにも\n状況を説明しますね。,Let me explain the situation to {主人公} and Eruru; since you both just woke up.
+いま目覚めたばかりの、{主人公}さんとエルルさんにも\n状況を説明しますね。,Let me explain the situation to {主人公} and Elulu; since you both just woke up.
 お二人が気絶後、\nわたしたちは地下通路から町の外への脱出を図りました。\nところがどの通路にも見えない壁が存在していたんです。,After you two lost consciousness; we attempted to escape the town through the underground passages. However; there were invisible walls blocking every passage.
 そうそう。\n何か所か見て回ったんだけど、全部だめ。\n外へ行く道と、お城につながる道が結界でふさがれてたの。,That's right. We checked several locations; but they were all blocked. The paths leading outside and the path to the castle were all sealed by barriers.
 どうやら敵は城を占拠し、\nこの街を守る二重結界を起動したらしいのです。,It seems the enemy has occupied the castle and activated the town's double barrier system.
@@ -46,7 +46,7 @@ Place/MorugenUnderground,
 小さい女の子のかわいらしい声、\nその声がわたしたちに命令をしていたわ。\n転移陣の占領は終わった、あとは街中で人間を搾り取れ、そうすれば…,A cute little girl's voice. That voice was giving us orders. She said the teleportation array had been occupied; and now we should drain the humans throughout the town; and then...
 その搾り取った力が、女王様を復活させるって。,The power we drained would be used to revive the queen.
 女王の復活…？どういうことなのでしょうか。,The queen's revival...? What does that mean?
-詳しいことは分からないわ。「搾り取った魔力を集めたら、\n女王様をお招きし復活の儀式を行う」って…。\n頭の中の声はそう言ってたの。,"I don't know the details. The voice in my head said ""Once we gather the drained magic power; we'll summon the queen and perform the revival ceremony."""
+詳しいことは分からないわ。「搾り取った魔力を集めたら、\n女王様をお招きし復活の儀式を行う」って…。\n頭の中の声はそう言ってたの。,I don't know the details. The voice in my head said "Once we gather the drained magic power; we'll summon the queen and perform the revival ceremony."
 ・・・・・。,.....
 僕はギルドマスターに見せてもらった転移陣の様子を思い出した。あそこには巨大な魔結晶があり、街中から魔力を集めることができると言っていた。,I recalled the teleportation array the Guild Master had shown me. There was a massive magic crystal there that could collect magic power from throughout the town.
 もしかしたら魔結晶に魔力を集めるのかもしれない,Maybe they're gathering magic power in that crystal
@@ -60,8 +60,8 @@ Place/MorugenUnderground,
 こちらから攻め込みましょう,Let's take the fight to them
 ・・・・・。そうですね。\nそれ以外、わたしたちにできることはないでしょう。,...Right; I don't think we have any other options.
 わたしは大賛成よ！どんどん攻めましょう！\n隠れてるのは性に合わないもの。,I'm all for it! Let's go on the offensive! Hiding down here doesn't suit me anyway.
-結界石、だっけ？それを壊せば、この結界もなくなるんでしょ？\n結界石を破壊して、城に乗り込んで、転移陣も取り戻しましょう！,The barrier stones; right? If we destroy those; the barrier will disappear; won't it? Let's smash the barrier stones; storm the castle; and take back the teleportation array!
-簡単に言うけれど、この戦力じゃ無理よ。\n相手は何百人もいる。こっちはカードマスターが７人だけ。\nいくらなんでも、それは・・・。,You make it sound easy; but with our current forces; it's impossible. There are hundreds of them. We only have seven Card Masters on our side. No matter how you look at it; that's...
+結界石、だっけ？それを壊せば、この結界もなくなるんでしょ？\n結界石を破壊して、城に乗り込んで、転移陣も取り戻しましょう！,The barrier stones; right? If we destroy those; the barrier will disappear; won't it? Let's smash the barrier stones; storm the castle; and take back the teleportation circle!
+簡単に言うけれど、この戦力じゃ無理よ。\n相手は何百人もいる。こっちはカードマスターが７人だけ。\nいくらなんでも、それは・・・。,You make it sound easy; but with our current forces; it's impossible. There are hundreds of them. We only have seven Cardmasters on our side. No matter how you look at it; that's...
 ・・・いえ、可能かもしれません。,...No; it might actually be possible.
 この地下通路は、王族などが非常時に逃げ込むためのもの。\nそのため重要拠点同士をつないでいます。,These underground passages were designed for royalty to escape through during emergencies. That's why they connect important locations throughout the town.
 わたしが記憶している限り、結界石の近くにも出入口があります。\nそこから出て奇襲をしかけていけば、\n外の大勢のサキュバスとの戦闘は避けられるはずです。,As far as I remember; there's an entrance near each barrier stone. If we exit from there and launch a surprise attack; we should be able to avoid fighting the large group of succubi outside.
@@ -73,8 +73,8 @@ Place/MorugenUnderground,
 中級だろうと100人ぐらい余裕です,Intermediate-level? I could take on 100 of them easily
 （ほんと頼もしくなっちゃって…。）,(He's become so reliable...)
 そうね、あなたならきっと勝てる。,That's right; I'm sure you can win.
-みんなもそう思うでしょ？\nここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,Don't you all think so too? We have the undefeated rookie right here with us. Even powerful succubi are no match for {主人公}!
-ふふ。そうね、あなたなら大丈夫よね。,Fufu. Yes; I'm sure you'll be fine.
+みんなもそう思うでしょ？\nここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,Don't you all think so too? We have the undefeated rookie himself right here with us. Even powerful succubi are no match for {主人公}!
+ふふ。そうね、あなたなら大丈夫よね。,Fufu. Of course; I'm sure you'll be fine!
 みんなもそう思うでしょ？ここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,Don't you all think so too? We have the undefeated rookie right here with us. Even powerful succubi are no match for {主人公}!
 はぁ…。他に手はなさそうだしね。\n分かった。わたしも賛成する。,Haa... It doesn't seem like we have any other options. Fine. I'll agree to the plan too.
 わたしも賛成いたしますわ。\n男の方に負担を強いるのは教義に反しますが、\n今は仕方ありません。,I agree as well. While it goes against our teachings to burden a man like this; we have no choice under the circumstances.
@@ -83,47 +83,47 @@ Place/MorugenUnderground,
 この地下通路についてもそうですが、\nギルドマスターが留守の時に、緊急事態に対処するのは\nわたしたちギルド職員の仕事ですから！,The same goes for these underground passages—when the Guild Master is away; it's the job of us guild staff members to handle emergencies!
 受付さんは結界の解除方法について説明を始めた。,The receptionist began explaining how to deactivate the barrier.
 結界は４つの結界石によって成立しているらしい。その結界石をすべて破壊すれば、結界は解除できるそうだ。,Apparently; the barrier is maintained by four barrier stones. If we destroy all four barrier stones; the barrier can be deactivated.
-４つの結界石はそれぞれ別々の場所に置かれている、その場所は「<color=#ee7800>監獄</color>」、「<color=#ee7800>闘技場</color>」、「<color=#ee7800>学園学長室</color>」、「<color=#ee7800>ギルドマスターの部屋</color>」の4か所だそうだ。,"The four barrier stones are located in separate places: the ""<color=#ee7800>Prison</color>""; the ""<color=#ee7800>Arena</color>""; the ""<color=#ee7800>Academy Headmaster's Office</color>""; and the ""<color=#ee7800>Guild Master's Room</color>""."
+４つの結界石はそれぞれ別々の場所に置かれている、その場所は「<color=#ee7800>監獄</color>」、「<color=#ee7800>闘技場</color>」、「<color=#ee7800>学園学長室</color>」、「<color=#ee7800>ギルドマスターの部屋</color>」の4か所だそうだ。,The four barrier stones are located in separate places: the "<color=#ee7800>Prison</color>"; the "<color=#ee7800>Arena</color>"; the "<color=#ee7800>Academy Headmaster's Office</color>"; and the "<color=#ee7800>Guild Master's Room</color>".
 女王の復活を阻んだら、\n転移陣を王都につなぎ、増援をお願いしましょう。\nそれなら多数のサキュバスが相手でも勝機があるはずです！,Once we stop the queen's revival; we'll connect the teleportation array to the royal capital and request reinforcements. That way; we'll have a fighting chance even against the large number of succubi!
 よし、作戦は定まった。結界を解除して街をサキュバスたちの手から取り戻そう！,Alright; our strategy is set. Let's deactivate the barrier and take the town back from the succubi!
-「行き先を選ぶ」から目的地を選択できます。,"You can select your destination from ""Choose Destination."""
-何だろう。地下道に入ってエルルさんと戦った後ぐらいからだろうか、自分の魔力に違和感を感じる。,I wonder what this is. Ever since we entered the underground passage and I fought Eruru; I've been feeling something strange with my magic power.
+「行き先を選ぶ」から目的地を選択できます。,You can select your destination from "Choose Destination."
+何だろう。地下道に入ってエルルさんと戦った後ぐらいからだろうか、自分の魔力に違和感を感じる。,Something is up. Ever since we entered the underground passage and I fought Elulu; I've been feeling something strange with my magic power.
 まるで、自分と違う魔力がどこかから流れ込んできているような…。,It's almost as if magic power different from my own is flowing into me from somewhere...
 魔力が流れ込んでくるような違和感がある？\nそれってもしかして、血縁共鳴じゃない？,You're feeling like magic power is flowing into you? Could that possibly be blood resonance?
-血縁共鳴は魔力がつながった血縁者が近くにいればいるほど、\n強く互いの魔力をやり取りするって聞いたことがあるわ。\nつまり・・・。,I've heard that blood resonance causes you to exchange magic power more strongly with blood relatives who have connected magic power the closer they are. In other words...
-あなたの妹が、\nもしかしたら転移陣を通して近くに来ているのかも。,Your sister might have come nearby through the teleportation array.
+血縁共鳴は魔力がつながった血縁者が近くにいればいるほど、\n強く互いの魔力をやり取りするって聞いたことがあるわ。\nつまり・・・。,I've heard that blood resonance creates a stronger magical exchange between blood relatives the closer they are to each other; especially when their magical power is already connected. Which could mean...
+あなたの妹が、\nもしかしたら転移陣を通して近くに来ているのかも。,Your sister might have come through the teleportation circle; and is nearby.
 わたしが頭の中で聞いた声は、\n小さな女の子の声だった。\nあなたの妹がサキュバス化したのもそのぐらいの年齢よね？,The voice I heard in my head was that of a small girl. Your sister was around that age when she was turned into a succubus; wasn't she?
-ないとは思うけれど、\nもしかしたらそのサキュバスが妹だったり・・・？\n名前は「ユイ」って名乗ってたけど・・・。,"I don't think it's likely; but... maybe that succubus is your sister? She introduced herself as ""Yui""..."
+ないとは思うけれど、\nもしかしたらそのサキュバスが妹だったり・・・？\n名前は「ユイ」って名乗ってたけど・・・。,I don't think it's likely; but... maybe that succubus is your sister? She introduced herself as "Yui"...
 ・・・・！!,...!!
-その名前を聞いたとき、僕の中の違和感は確信に変わった。,When I heard that name; the strange feeling inside me turned into certainty.
-そうか。妹が、近くにいるのか。・・・それも敵の中心人物として。,I see. My sister is nearby. And she's one of their central figures.
+その名前を聞いたとき、僕の中の違和感は確信に変わった。,As soon as I heard that name; the strange feeling I had inside me became clear.
+そうか。妹が、近くにいるのか。・・・それも敵の中心人物として。,I see. So your sister is nearby after all. And she's one of their central figures.
 ユイはとても優しい子だった。僕がサキュバスに吸い殺されないように、身を挺して守るぐらい、勇気があって優しい子だった。,Yui was such a kind girl. She was brave and kind enough to protect me with her own body to prevent me from being drained to death by a succubus.
-マスターたちをサキュバス化させ、街をこんな風にしてしまうなんて…。本来の妹なら絶対にしなかっただろう。,To turn the Masters into Succubi and transform the town like this... my real sister would never have done something like that.
+マスターたちをサキュバス化させ、街をこんな風にしてしまうなんて…。本来の妹なら絶対にしなかっただろう。,To turn the Masters into Succubi and transform the town like this... My real sister would never have done something like that.
 ユイは、サキュバスになって、望まないことを無理やりやってしまっている。サキュバスの魔力でやらされてしまっている。,Yui became a Succubus and is being forced to do things against her will. The Succubus magic is making her do these things.
 僕は兄として、妹を助けださないといけない。,As her older brother; I have to save my little sister.
 師匠も妹も、僕にとって大事な人だ。どれだけ強敵が立ちふさがろうとも、絶対に助けて、人間に戻してみせる。,Both my mentor and my sister are important to me. No matter how many powerful enemies stand in my way; I'll definitely save them and turn them back into humans.
 この街の人々のためにも、そして何より自分自身のためにも、この戦い絶対に負けられない！,For the sake of the people in this town; and most importantly for my own sake—I absolutely cannot lose this battle!
 はぁ、こんなことになるなんてね。\n大会で楽にポイント稼ごう、って思ってただけなのに、\nとんだ事件に巻き込まれちゃった。,Hah; I can't believe things turned out like this. I just wanted to rack up easy points at the tournament; but instead I got dragged into this whole mess.
 なんとか逃げられればいいんだけど…。\nこの道街の外までつながっているのかな…。,I hope we can somehow escape... I wonder if this path leads outside the town...
-うう～。正直命がけの戦いとか怖いんだけど。\nそういうの嫌だから、街で弱い男からポイントを巻き上げてたのに…。,Ugh... honestly; life-or-death battles scare me. I was trying to avoid stuff like this by stealing points from weak guys in town...
+うう～。正直命がけの戦いとか怖いんだけど。\nそういうの嫌だから、街で弱い男からポイントを巻き上げてたのに…。,Ugh... honestly; life-or-death battles is kinda scary. I was trying to avoid a situation like this by stealing points from the weak guys in town...
 まあ、モルゲンが陥落したら、どうせほかの町も危ないし…。\nどっちにしても、よね。\nサキュバスにはなりたくないし、頑張るしかないかー。,Well; if Morgen falls; the other towns will be in danger too... Either way; right? I don't want to become a Succubus; so I guess I have to do my best.
-（にしても、頼りの綱が、わたしに散々キス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,(Still; my only hope is the guy I thoroughly teased with kisses and handjobs... Will he really be okay?)
-（にしても、頼りの綱が、わたしにキス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,(Still; my only hope is the guy I gave kisses and handjobs to... Will he really be okay?)
-わたしは、あのときサキュバス相手に恐怖を抱いてしまいました。\nしかし、もはや迷いはしません。,I felt fear when facing that Succubus back then. However; I won't hesitate any longer.
+（にしても、頼りの綱が、わたしに散々キス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,(But even so; our only hope is the guy I was able to break with my kisses and handjobs... Will he really be okay?)
+（にしても、頼りの綱が、わたしにキス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,(But even so; our only hope is the guy I teased with kisses and handjobs... Will he really be okay?)
+わたしは、あのときサキュバス相手に恐怖を抱いてしまいました。\nしかし、もはや迷いはしません。,When we first faced that Succubus; I had fear in my heart. But now; I will be hesitant no longer.
 おお、女神よ。我々に祝福を与えてください。\nこの困難を乗り越えるだけの力を、どうか…。,Oh Goddess; please grant us your blessing. Please give us the strength to overcome this hardship...
-ん、明かりはこんな感じで大丈夫？\n火の魔法なら任せてよ。みんなが無駄に\n魔力を使わないでいいように、わたしが照明を担当するわ。,Hey; is the lighting like this okay? Leave the fire magic to me. I'll handle the illumination so everyone else doesn't have to waste their magic power.
-あなたと会うのは初めてよね。\nわたしはフレア。炎魔法使いのE級マスターよ。,This is our first time meeting; right? I'm Flair. I'm an E-rank Master who specializes in flame magic.
+ん、明かりはこんな感じで大丈夫？\n火の魔法なら任せてよ。みんなが無駄に\n魔力を使わないでいいように、わたしが照明を担当するわ。,Hey; can everyone see OK? Leave the fire magic to me. I'll handle the illumination so everyone else doesn't have to waste their magic power.
+あなたと会うのは初めてよね。\nわたしはフレア。炎魔法使いのE級マスターよ。,This is our first time meeting; right? I'm Flare. I'm an E-rank Master who specializes in flame magic.
 無敗のルーキーの噂はかねがね聞いているわ。\nよろしくね。,I've heard plenty of rumors about the undefeated rookie. Nice to meet you.
-火の魔法は魔獣相手にはかなり効果があるんだけど、\nサキュバスの体って全然燃えないらしいのよね。,Fire magic is pretty effective against magical beasts; but apparently Succubus bodies don't burn at all.
-カードマスターと同じで体に魔力をまとっているから、\nやけどとかしないみたいなの。\n本にそう書いてあったわ。,Just like Card Masters; they cloak their bodies in magical energy; so they don't seem to get burned. That's what the book said anyway.
+火の魔法は魔獣相手にはかなり効果があるんだけど、\nサキュバスの体って全然燃えないらしいのよね。,Fire magic is pretty effective against magical beasts; but apparently Succubus bodies don't catch fire.
+カードマスターと同じで体に魔力をまとっているから、\nやけどとかしないみたいなの。\n本にそう書いてあったわ。,Just like Cardmasters; they cloak their bodies in magical energy; so they don't seem to get burned. That's what the book said anyway.
 でも、わたしの攻撃魔法は範囲が広いから、\n敵が密集してるなら、少しは効果があるかも。\n集団戦でなら役に立ってみせるわ。,But my attack magic has a wide range; so if enemies are clustered together; it might be somewhat effective. I'll prove useful in group battles.
-感じる…。姉ちゃんの魔力がおかしくなってる。\n俺、姉ちゃんと魔力のつながりがあるから、分かるんだ…。,I can feel it... Sis's magical energy is all messed up. I have a magical connection with her; so I can tell...
-姉ちゃんはサキュバスのカードなんて使ってなかったのに…。\nもしかして、外でサキュバスに襲われて、\nサキュバスになっちまったのかな。,Sis wasn't using Succubus cards before... Could it be that she was attacked by Succubi outside and turned into one?
-姉ちゃんあんなに強いのに…。それでも…。負けちゃうなんて…。,Even though Sis is so strong... but still... she lost...
+感じる…。姉ちゃんの魔力がおかしくなってる。\n俺、姉ちゃんと魔力のつながりがあるから、分かるんだ…。,I can feel it... My sister's magical energy is all messed up. I have a magical connection with her; so I can tell...
+姉ちゃんはサキュバスのカードなんて使ってなかったのに…。\nもしかして、外でサキュバスに襲われて、\nサキュバスになっちまったのかな。,My sister wasn't using Succubus cards before... Could it be that she was attacked by Succubi outside and turned into one?
+姉ちゃんあんなに強いのに…。それでも…。負けちゃうなんて…。,She's really strong... But how... she lost...?
 ううっ……。\nうぐっ、ぐすっ…。泣いてないよ。\nだいじょうぶ、兄ちゃんたちの邪魔にならないようにボクも頑張るから…,Ugh... *sniff*; *sob*... I'm not crying. I'm fine; I'll do my best not to get in everyone's way...
 うう…。泣いてばかりじゃダメなの、分かってるよ。\n大丈夫だから…。ぐす…。,Ugh... I know I can't just keep crying. I'm okay... *sniff*...
-僕、強くなりたかったのは、\nいつも姉ちゃんに守られてばかりじゃ嫌だからだったんだ。\n姉ちゃんにかっこいいところ見せたくて、頑張ってた。,I wanted to get stronger because I was tired of always being protected by Sis. I worked hard because I wanted to show her something cool.
-兄ちゃんがいるなら、サキュバスになっても治せるんだよな。\n僕、できる限りのことはなんでもするから、\nだから姉ちゃんを助けてほしい。おねがい…。,If you're here; you can cure her even if she's become a Succubus; right? I'll do whatever I can; so please save Sis. Please...
+僕、強くなりたかったのは、\nいつも姉ちゃんに守られてばかりじゃ嫌だからだったんだ。\n姉ちゃんにかっこいいところ見せたくて、頑張ってた。,I wanted to get stronger because I was tired of always being protected by my sister. I worked hard because I wanted to show her all the cool things I can do.
+兄ちゃんがいるなら、サキュバスになっても治せるんだよな。\n僕、できる限りのことはなんでもするから、\nだから姉ちゃんを助けてほしい。おねがい…。,If you're here; you can cure her even if she's become a Succubus; right? I'll do whatever I can; so please save my sister. Please...
 村のみんな元気にしてるかな…。\nあっ、無敗のルーキーさん。\nさきほどはサキュバスから助けてくださりありがとうございました。,I wonder if everyone in the village is doing well... Ah; undefeated rookie. Thank you so much for saving me from that Succubus earlier.
 わたし、サキュバスを直接見たのは初めてです。\n女であるわたしでも、彼女の目に射すくめられたら、\nそれだけで体がしびれたみたいになってしまって。,That was my first time seeing a Succubus directly. Even though I'm a woman; just being locked by her gaze made my body feel numb.
 やはりサキュバスは危険な魔物なのですね。\n自分がサキュバスに変えられてもし村のみんなを\n襲うことになったらと思うと、考えるだけでぞっとしてしまいます。,Succubi truly are dangerous monsters. Just thinking about being turned into a Succubus and then attacking everyone in my village makes me shudder.
@@ -131,10 +131,10 @@ Place/MorugenUnderground,
 わたしたち、このままどうなってしまうんでしょう。\nこの暗い地下で、ずっと隠れて過ごすことになるんでしょうか……。,What's going to happen to us? Are we going to keep hiding in this dark underground forever...?
 すぅ・・・・。すぅ・・・。,*Snooore*... *Snooore*...
 ・・・。,...
-エルルさんはまだ気を失っているようだ。,It seems Elul is still unconscious.
+エルルさんはまだ気を失っているようだ。,It seems Elulu is still unconscious.
 ふぅ…。サキュバスになったってのは何だか変な気分ね。,Phew... being turned into a Succubus was such a strange feeling.
-どう感じたかを説明するのは難しいけれど、なんていうか、\n「始めからサキュバスだったのを思い出した」みたいな感覚だったわ。,"It's hard to explain how it felt; but it was like... ""remembering that I'd been a Succubus from the start."""
-「わたしは生まれたときからサキュバスで\n人間を吸い殺すのは当然で、\n上級サキュバスの命令に従うのは気持ちよくて…。」,"""I was born a Succubus; draining humans to death is natural; obeying the commands of higher-ranked Succubi feels good..."""
+どう感じたかを説明するのは難しいけれど、なんていうか、\n「始めからサキュバスだったのを思い出した」みたいな感覚だったわ。,It's hard to explain how it felt; but it was like... "remembering that I'd been a Succubus from the start."
+「わたしは生まれたときからサキュバスで\n人間を吸い殺すのは当然で、\n上級サキュバスの命令に従うのは気持ちよくて…。」,I was born a Succubus; draining humans to death is natural; obeying the commands of higher-ranked Succubi feels good...
 そういう感覚が、自分の深いところに当然のように居座るの。\n人間のときの記憶も残っているのに、\n生き物としてまるごと作り変えられたような感じ。,Those sensations settled deep inside me as if they were completely natural. Even though my memories as a human remained; it felt like I'd been completely remade as a living being.
 それに頭に響いていた声、\nあの声に従うととても気持ちよくて、\nもう何も考えられなかった…。,And that voice echoing in my head—obeying that voice felt so good that I couldn't think about anything else...
 今思い出してもぞっとしちゃうわ。\n助けてくれてありがとね。{主人公}。,Just remembering it now gives me chills. Thanks for saving me; {主人公}.
@@ -145,11 +145,11 @@ Place/MorugenUnderground,
 怪盗サキュバスのカードは、さっきデッキから出して、\n布でぐるぐる巻きにしてそこの岩のところに置いたのだけど、\nこれでもう大丈夫なのかしら。,I took the Phantom Thief Succubus card out of my deck and wrapped it up in cloth and placed it by those rocks over there; but I wonder if that's really enough.
 またサキュバスが出てこないか心配だわ。\nサキュバスをカードにして送りこんでくるなんて、\nほんと得体の知れない能力よね。,I'm worried the Succubus might come out again. Sending Succubi as cards—it's such an incomprehensible ability.
 どの場所も、本来であれば多くのマスターが守っている場所です。\nしかし今回は逆にマスターたちがサキュバスにさせられてしまったため、\nこれが裏目に出てしまいました。,Each location was originally protected by many Masters. However; this time the Masters themselves were turned into Succubi; which completely backfired.
-エルルさんを助け出し気絶した僕は、また夢を見ていた。,After rescuing Elul; I passed out and started dreaming again.
+エルルさんを助け出し気絶した僕は、また夢を見ていた。,After rescuing Elulu; I passed out and started dreaming again.
 とめどなく昨日の光景が浮かんでいく。,Yesterday's scenes kept flooding back endlessly.
 街を埋め尽くす大勢のサキュバス。彼女たちに襲われる人間。,The town overrun with countless Succubi. Humans being attacked by them.
 その様子はまるで、僕が子どもの時に見た、村が襲われたときの様子のようで。,The scene was just like when my village was attacked when I was a child.
-エルルさんと無我夢中で戦っていたときには感じなかった恐怖が、いまさら、ふつふつと湧き上がってくる。,The fear I didn't feel while fighting desperately with Elul was now bubbling up inside me.
+エルルさんと無我夢中で戦っていたときには感じなかった恐怖が、いまさら、ふつふつと湧き上がってくる。,The fear I had ignored while fighting desperately with Elulu was starting to get at me.
 ・・・・。,...
 そして夢はいつもの場面につながる。僕らがサキュバスに襲われ、妹が連れ去られていく、何度も何度も夢で見たあの瞬間。,Then the dream connected to that usual scene. The moment I've seen in my dreams over and over—when we were attacked by Succubi and my sister was taken away.
 クローゼットで震える僕は、このあと師匠に助け出してもらう。でも、その師匠はもう・・・。,After I trembled in that closet; my mentor rescued me. But my mentor is now...
@@ -173,8 +173,8 @@ Place/MorugenUnderground,
 情報共有をし、これからどうするか\nみなで作戦を練る必要があると思います。,We need to share information and work together to figure out our next move.
 ですが{主人公}さんは今目が覚めたばかりですし・・・。\n少し落ち着いてからの方がいいでしょう。\n準備ができたら、わたしに話しかけてください。,But since you just woke up; {主人公}... You should probably take some time to collect yourself first. Once you're ready; come talk to me.
 分かりました,Understood
-僕は受付さんの言葉通り、頭がはっきりとするまで少しぶらつくことにした。デッキを見直したり、他のマスターと少し話をしたら、再度受付さんに話かけることにしよう。,Following the receptionist's advice; I decided to wander around a bit until my head cleared. After reviewing my deck and chatting with some of the other Masters; I'd talk to the receptionist again.
-「サキュバスデュエル前編」の内容はここまでです,"This concludes the content for ""Succubus Duel: Part 1"""
+僕は受付さんの言葉通り、頭がはっきりとするまで少しぶらつくことにした。デッキを見直したり、他のマスターと少し話をしたら、再度受付さんに話かけることにしよう。,Following the receptionist's advice; I decided to wander around a bit until my head cleared. I'll talk with her again after reviewing my deck and chatting with some of the other Cardmasters.
+「サキュバスデュエル前編」の内容はここまでです,This concludes the content for "Succubus Duel: Part 1"
 アップデートが完了するまでメニュー最下部のボタンから街に戻ることができます。,You can return to town using the button at the bottom of the menu until the update is complete.
 街に戻った場合でも、いつでもこの場面に戻ることができます,Even if you return to town; you can always come back to this scene
 ２周目プレイではレベルと所持金とカードを引き継いだ状態でストーリーの最初からプレイできます。,In New Game+; you can replay the story from the beginning while keeping your level; money; and cards.
