@@ -30,8 +30,8 @@ D級以上のカードマスターの方々はその多くが闘技場に出入�
 一応お聞きしますが、闘技場への入場を希望いたしますか？,Just to confirm; would you like to enter the arena?
 もちろんです！,Of course!
 僕だって腕に自信はありますよ！,I'm confident in my skills too!
-承知しました。きっと{主人公}さんなら戦っていけるでしょう。,Yes; sir. I'm sure {主人公} will be able to fight., (note: is cappable enough to fight?)
-ふふ、頼もしい言葉です。{主人公}さんなら本当に戦い抜けるでしょうね。,Hmm, that's good word to hear. I'm sure {主人公} will really be able to fight his way through.
+承知しました。きっと{主人公}さんなら戦っていけるでしょう。,Understood. I'm sure if it's {主人公} we're talking about; he will have a good chance!
+ふふ、頼もしい言葉です。{主人公}さんなら本当に戦い抜けるでしょうね。,Hmm. That's good word to hear. I'm sure {主人公} will be able to fight his way through.
 Dランクになったギルドリングがそのまま参加許可証となるので、今からすぐに闘技場の試合に参加できます。頑張ってくださいね！,Your D-rank guild ring will serve as a permit; so you can start participating in arena matches right away. Good luck!
 メニューから闘技場に行けるようになりました。,You can now access the Arena from the menu.
 Dランク以降では闘技場で対戦をすることでストーリーが進むようになります。闘技場で一度勝利した相手は、それ以降街でも戦えるようになります（闘技場のマスターと街で戦う場合、敗北シーンはありません）。,From D-rank onwards the storyline is progressed by fighting in the arena. Once you have defeated an opponent in the arena; you can fight them in the city as well. (If you fight an arena cardmaster in the city; there is no defeat scene).
@@ -139,7 +139,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 ん、来たわね。,Hmm; here we are.
 いい機会だから、{主人公}、\nあなたとコノハに転移陣を見せておこうと思ってね。\n二人で見送りにくるように言ったのよ。,This is a good opportunity; {主人公}. I thought I'd show you and Konoha the teleportation circle. This is why I wanted you both to come and see me off.
 転移陣は遠く離れた場所を一瞬でつなぐ特別な魔法陣。\n非常に便利なものだけれど、動かすのに莫大な魔力がいるの。\nあれを見なさい。,The teleportation circle is a special magic circle that connects distant places in an instant. They are very useful; but require a great deal of magic power to work. Look at that.
-そう言ってリーフさんは部屋に置かれた１つの巨大なクリスタルを指さした。淡く青色に光るそれは、天井につくほど高く、腕を回しても抱えきれないほどの大きさだった。,With that; Leaf points to a huge crystal in the room, glowing a pale blue. It's so tall that it reaches the ceiling; and is too big to hold; even if you put your arms around it.
+そう言ってリーフさんは部屋に置かれた１つの巨大なクリスタルを指さした。淡く青色に光るそれは、天井につくほど高く、腕を回しても抱えきれないほどの大きさだった。,Leaf pointed to a huge glowing a pale blue crystal in the room. It was so tall that it reached the ceiling; and would be too big to hold; let alone putting your arms around it.
 あのクリスタルは王国に２つしかない特別な魔結晶よ。\n１つはここモルゲンに、もう１つは王都に置かれているわ。,That crystal is one of only two special magic crystals in the kingdom. One is located here in Morgen. The other in the royal capital.
 街で人々が魔力を使うたび、\nあの中にほんのわずかずつ魔力が貯められていく。\nそうやって徴収した魔力がこの転移陣を動かすの。,Every time people use magic in the city; a tiny amount is stored in it. The magic power collected in this way powers the circle.
 それに加えてCランクマスター20人程度で術式を調整して、\nようやく人を４～５人送ることができるわ。\nね、なかなかに効率が悪いでしょう？,Add to that about 20 C-rank masters; adjusting the technique; and you can finally send four or five people. It's quite inefficient; isn't it?
