@@ -358,7 +358,7 @@ Bランクマスターシルヴィア選手の最強カード、イージスの�
 あら、{主人公}、あなたも闘技場に挑戦するの？,Oh; {主人公}; are you also here to challenge the colosseum?
 闘技場は手ごわいわよ。\nわたしもDランカーだから、何度も試合に挑んでいるけれど、\nなかなか勝率５割を上回れないのよね。,The colosseum is tough. I'm a D-ranker too; and I've fought a bunch of matches; but I can't seem to get higher than a win-rate of 50%.
 これから初試合の申し込み？わたしの友達の「オクタ」って子も\nさっき申し込んだって言ってたから、\nもしかしたらあなたと当たるかも。,Are you signing up for your first match now? My friend Octa just signed up too; so you might end up facing each other.
-背は小さくてかわいらしい子なんだけど、\n相手のカードを水属性に替えちゃうトリッキーなデッキで\n結構強いわよ。あなたに勝てるかしら。,She's small and cute; but she has a tricky deck that can change the opponent's cards to water attribute; and she's pretty strong. I wonder if she can beat you.
+背は小さくてかわいらしい子なんだけど、\n相手のカードを水属性に替えちゃうトリッキーなデッキで\n結構強いわよ。あなたに勝てるかしら。,She's small and cute; but she's pretty strong. She has a tricky deck that can change the opponent's cards to water attribute. I wonder if she can beat you.
 わたしは闘技場マニア。\n闘技場に出場しているすべてのカードマスターの情報を知っている\n筋金入りの闘技場オタクさ！,I'm a colosseum fanatic. I'm a hardcore nerd who knows everything about all the cardmasters participating in the colosseum!
 対戦相手の情報が知りたければ、ボクが教えてあげよう。\nなんでも聞くといいよ！,If you want to know about your opponent; I can tell you. Just ask me anything!
 Dランクマスターの情報が知りたい,I want to know about a D-rank master.
