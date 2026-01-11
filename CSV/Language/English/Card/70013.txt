@@ -95,7 +95,7 @@ Dランクになったばかりだというのに、\n実力を見せつけま�
 自分フィールド上にレベル３以下のモンスターが３体いるとき、\nターン終了時まで全員の攻撃力を400アップ！\nさらに全員でプレイヤーに直接攻撃できるわ！,When there are three level 3 or lower monsters on my field; their attack power increases by 400 until the end of my turn! Plus; they can all attack the opposing player directly!
 小さくなりなさい！{使用カード}発動！,Shrink down! I'm activating {使用カード}!
 おっぱいにおぼれさせてあげる！{使用カード}発動！,I'll drown you in breasts! Activate {使用カード}!
-あん❤攻撃しないで？\n妖精カードへの攻撃に対して{使用カード}を発動！\nあなたたちに魅了を付与するわ！,Ahn~❤ Please; don't attack? I activate {使用カード} in response to your attack on my Fairy! You and your monsters will be charmed!
+あん❤攻撃しないで？\n妖精カードへの攻撃に対して{使用カード}を発動！\nあなたたちに魅了を付与するわ！,Ahn~❤ Stop attacking; won't you? I activate {使用カード} in response to your attack on my Fairy; charming you and your monsters on the field!
 攻撃なんてやめて幻におぼれてなさい❤\n妖精カードへの攻撃に対して{使用カード}を発動！\nあなたたちに魅了を付与するわ！,Stop attacking and drown in the illusion...❤ I'm activating {使用カード} in response to your attack on my fairy cards! You all will be charmed!❤
 相手がカードの効果で山札からカードを手札に加えたとき、\n手札を１枚捨てて{使用カード}を発動！\nあなたの手札をランダムに２枚デッキに戻すわ！,When you add a card from your deck to your hand through a card effect; I discard one card from my hand to activate {使用カード}! I'll return two random cards from your hand to your deck!
 かかったわね。\nカードの効果で山札から引いたとき{使用カード}を発動！\nあなたの手札をランダムに２枚デッキに戻す！,You've activated my trap card! When you draw cards from your deck by a card effect; I'll activate {使用カード}! Now two random cards from your hand are returned to your deck!
@@ -106,17 +106,17 @@ Dランクになったばかりだというのに、\n実力を見せつけま�
 トラップカードを発動！{使用カード}！,Activate trap Card! {使用カード}!
 カードをセット。,Card set.
 カードを伏せるわ。,I'll set this card face down.
-わたしも行くわ。{防御カード}を攻撃！,I'll join in the attack. I'm attacking {防御カード}!
-わたしのテクを見せてあげる。{防御カード}を攻撃！,Let me show you my techniques. I'm attacking {防御カード}!
-{使用カード}で{防御カード}を攻撃！,With {使用カード}; I'll attack your {防御カード}!
+わたしも行くわ。{防御カード}を攻撃！,I'll join on the attack too. I attack {防御カード}!
+わたしのテクを見せてあげる。{防御カード}を攻撃！,Let me show you my techniques. I attack your {防御カード}!
+{使用カード}で{防御カード}を攻撃！,I'll attack your {防御カード} with my {使用カード}!
 行きなさい。{使用カード}で{防御カード}を攻撃。,Let's go! {使用カード}; attack {防御カード}.
 あんっ、このままじゃ負けちゃうかも。ターンエンド。,Ahh... At this rate; I might lose. End turn.
 手札に使えるカードがないわね。ターンエンド。,I have no usable cards in my hand. Turn end.
 ターン終了するわ。,I'll end my turn.
 わたしのターンはおわりよ。ターンエンド,My turn is over! Turn end.
 どうぞ。わたしのターンは終わり。ターンエンド。,Go ahead; my turn is over. Turn end.
-おっぱいで挟まれたい？\nいいわよ、挟んであげる❤,Do you want to be squeezed between my breasts? I'll gladly wrap them around you.❤
-むにっておちんちんに押し付けられて、\nふふ、とってもやわらかいでしょ？\nとろふわの感触で骨抜きになりなさい❤,Fufu; they feel so soft pressed up against your cock like this; don't they? Let their silky and tender touch leave you utterly spellbound.❤
+おっぱいで挟まれたい？\nいいわよ、挟んであげる❤,Do you want me to squeeze your cock between my breasts? I'll gladly wrap them around it.❤
+むにっておちんちんに押し付けられて、\nふふ、とってもやわらかいでしょ？\nとろふわの感触で骨抜きになりなさい❤,Fufu; they feel so soft pressed up around your cock like this; don't they? Just let their silky and tender touch carry you away~❤
 おちんちん勃起してる❤\nふか～い谷間見てたら興奮してきちゃった？,Your cock is rock hard.❤ Did getting a glimpse of my deep; soft cleavage make you all hot and bothered?
 その大きくなったおちんちんが埋って見えなくなるまで\nむぎゅむぎゅって挟んであげちゃう❤\nおっぱいに全部包まれる気持ちよさ、たっぷり楽しんでね❤,I'll squeeze and smother your cock until it's completely buried and disappears.❤ Enjoy the incredible pleasure of being completely enveloped between my boobs.❤
 パイズリしてあげるわね。\nわたしこれが一番得意なの。,I'll give you a titjob. This is my specialty.
@@ -124,7 +124,7 @@ Dランクになったばかりだというのに、\n実力を見せつけま�
 男の人ってみーんなおっぱいが好きでしょ？\nうん？自分は違う？,All men love boobs; don't they? Hmm? You say you're different?
 それならあなたもおっぱいフェチに変えてあげる。\n爆乳パイズリたっぷり楽しんでね❤うふふ❤,In that case; I'll just have to make you into a tit-fetishist; too. Just enjoy the feeling of my huge breasts enveloping and pleasuring your cock~❤ Ufufu~❤
 パイズリは好き？おっぱいで挟んですっごく気持ちよくしてあげるわね❤,Do you like titjobs? I'll squeeze your dick between my breasts and make you feel amazing~❤
-谷間に見とれて棒立ちになっちゃうぐらいですもの。おっぱいフェチのあなたには効果ばつぐんだと思うわ。ほら、むにゅー❤,You've become so mesmerized by my cleavage; your whole body has become as stiff as a plank! This must be super effective on a boob fetishist like you. Here; let me give them a little squeeze~❤
+谷間に見とれて棒立ちになっちゃうぐらいですもの。おっぱいフェチのあなたには効果ばつぐんだと思うわ。ほら、むにゅー❤,You've become so enamoured by my cleavage; your whole body has become as stiff as a board! This must be quite effective on titty lovers like you. Squeeeze~❤
 おっぱいの柔らかさには自信があるの。きっとすぐに腰砕けにしてあげられると思うわ❤ほら、ずりずり…❤,I'm confident in the softness of my breasts. I'm sure I'll break your willpower in no time at all.❤ Look; they're sliding up and down...❤
 お客さんもみんなこのおっぱいを見てくるけど、バトル以外では使ったことないのよ。わたしの爆乳を楽しめるなんてあなたはラッキーね❤くすくす❤,All of my customers go to my inn to ogle my breasts; but I've never taken advantage of them outside of battles. You're really lucky that you get to enjoy my huge boobs; wouldn't you say?❤ *Giggle*❤
 あはん❤見なさい、わたしの谷間❤,Ahahn~❤ Look at my cleavage.❤
@@ -161,7 +161,7 @@ Dランクになったばかりだというのに、\n実力を見せつけま�
 そのままじっとしていなさい。\nもっともっとパイズリしてあげる❤,Stay still just like that. I'll treat your cock to more and more of my titty pleasures~❤
 あら、もう出ちゃうんだ❤\nまだ１ターン目なのに、あんっ❤,Oh my; are you already about to cum? But it's only the first turn... Ahh~❤
 ん、もう出ちゃう？\nいいわよ、ほらおっぱいぎゅー❤,Hmm; about to cum already? Very well. Here; let me squeeze my boobs tighter for you~❤
-うふ❤わたしのおっぱいにあっさり陥落しちゃったわね❤\n腰が抜けるぐらいパイズリ上手だったでしょ？くすくす❤,Ufu~❤ You've succumbed to my boobs so easily... It looks like my titjob was so good that you're already unable to resist; huh? Hmhmhm~❤
+うふ❤わたしのおっぱいにあっさり陥落しちゃったわね❤\n腰が抜けるぐらいパイズリ上手だったでしょ？くすくす❤,Ufu~❤ You succumbed to my boobs so easily... It seems my boobjob techniques were so good; your hips caved in completely! *Giggle*~❤
 あん、逃げなくていいのに…。\nこのままイっちゃうまで楽しみましょうよ❤,Ahh; there's no need to run away... Let's enjoy ourselves until you cum; shall we?❤
 おっぱいの中に出すの、とっても気持ちいいわよ？\nくすくす❤,Cumming between my boobs would feel so good; don't you think? *Giggle*❤
 やん、そんな振り払わなくてもいいじゃない。\nただパイズリしてあげてるだけなのに…❤,Oh my; you don't have to push me away. I'm just giving you a lovely titjob...❤
