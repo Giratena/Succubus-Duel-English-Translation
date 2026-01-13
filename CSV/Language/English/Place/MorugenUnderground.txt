@@ -26,7 +26,7 @@ Place/MorugenUnderground,
 体は大丈夫ですか？どこかおかしいところなどはありませんか？,Are you alright? Does anything feel off with your body?
 ありがと、うん…。大丈夫みたい。\nかなり体がだるいけれど、魔力を使い果たしたって感じのだるさよ。\n体に変な感じはしないわ。,Thanks; yeah... I think I'm fine. I feel pretty drained; but it's the kind of exhaustion you get after using up all your magic. Nothing feels weird about my body.
 はぁ・・・・。まだ現実感がないけど、\nわたしサキュバスになってたのよね。,Haa... It still doesn't feel real; but I really did become a succubus; didn't I?
-人間に戻れて、本当によかった…。\n{主人公}、あなたのおかげよ。ありがとう…。,I'm so relieved I'm human again... {主人公}; this is all thanks to you. Thank you...
+人間に戻れて、本当によかった…。\n{主人公}、あなたのおかげよ。ありがとう…。,I'm so relieved I'm human again... You helped me so much {主人公}. Thank you...
 ・・・・♪,...♪
 エルルさんはほっとしたような顔で、そう言った。僕もエルルさんが無事なようで一安心だ。,Elulu had a relieved expression on her face. I was also relieved to see that she seemed to be okay.
 僕らがエルルさんの回復を喜んでいると、向こうの方で足音が聞こえてきた。,As we were celebrating Elulu's recovery; we heard footsteps approaching from the other direction.
@@ -43,7 +43,7 @@ Place/MorugenUnderground,
 幸いここは非常用の地下通路。\n食糧の備蓄はあるので\n結界が切れるまで潜んでおくことは可能ですが…。,Fortunately; this is an emergency underground passage. There are food supplies here; so we could potentially hide until the barriers drop; but...
 ・・・それはやめておいた方がいいかもしれないわね。,...That might not be a good idea.
 あのね、わたし、サキュバスになっていたときに、\n頭の中に何度も声が響いてきたの。,Listen; when I was a succubus; I kept hearing a voice in my head.
-小さい女の子のかわいらしい声、\nその声がわたしたちに命令をしていたわ。\n転移陣の占領は終わった、あとは街中で人間を搾り取れ、そうすれば…,A cute little girl's voice. That voice was giving us orders. She said the teleportation array had been occupied; and now we should drain the humans throughout the town; and then...
+小さい女の子のかわいらしい声、\nその声がわたしたちに命令をしていたわ。\n転移陣の占領は終わった、あとは街中で人間を搾り取れ、そうすれば…,A cute little girl's voice. That voice was giving us orders. She said the teleportation circle was under our control; and now we should drain the humans throughout the town; and then...
 その搾り取った力が、女王様を復活させるって。,The power we drained would be used to revive the queen.
 女王の復活…？どういうことなのでしょうか。,The queen's revival...? What does that mean?
 詳しいことは分からないわ。「搾り取った魔力を集めたら、\n女王様をお招きし復活の儀式を行う」って…。\n頭の中の声はそう言ってたの。,I don't know the details. The voice in my head said "Once we gather the drained magic power; we'll summon the queen and perform the revival ceremony."
@@ -105,8 +105,8 @@ Place/MorugenUnderground,
 この街の人々のためにも、そして何より自分自身のためにも、この戦い絶対に負けられない！,For the sake of the people in this town; and most importantly for my own sake—I absolutely cannot lose this battle!
 はぁ、こんなことになるなんてね。\n大会で楽にポイント稼ごう、って思ってただけなのに、\nとんだ事件に巻き込まれちゃった。,Hah; I can't believe things turned out like this. I just wanted to rack up easy points at the tournament; but instead I got dragged into this whole mess.
 なんとか逃げられればいいんだけど…。\nこの道街の外までつながっているのかな…。,I hope we can somehow escape... I wonder if this path leads outside the town...
-うう～。正直命がけの戦いとか怖いんだけど。\nそういうの嫌だから、街で弱い男からポイントを巻き上げてたのに…。,Ugh... honestly; life-or-death battles is kinda scary. I was trying to avoid a situation like this by stealing points from the weak guys in town...
-まあ、モルゲンが陥落したら、どうせほかの町も危ないし…。\nどっちにしても、よね。\nサキュバスにはなりたくないし、頑張るしかないかー。,Well; if Morgen falls; the other towns will be in danger too... Either way; right? I don't want to become a Succubus; so I guess I have to do my best.
+うう～。正直命がけの戦いとか怖いんだけど。\nそういうの嫌だから、街で弱い男からポイントを巻き上げてたのに…。,Ugh... honestly; life-or-death battles are kinda scary. I was trying to avoid a situation like this by stealing points from the weak guys in town...
+まあ、モルゲンが陥落したら、どうせほかの町も危ないし…。\nどっちにしても、よね。\nサキュバスにはなりたくないし、頑張るしかないかー。,Well; if Morgen falls; the other towns will be in danger too... Well in anycase; I don't want to become a Succubus; so I guess I have to do my best.
 （にしても、頼りの綱が、わたしに散々キス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,(But even so; our only hope is the guy I was able to break with my kisses and handjobs... Will he really be okay?)
 （にしても、頼りの綱が、わたしにキス手コキされてたお兄さんかぁ…。\n大丈夫なのかなぁ。）,(But even so; our only hope is the guy I teased with kisses and handjobs... Will he really be okay?)
 わたしは、あのときサキュバス相手に恐怖を抱いてしまいました。\nしかし、もはや迷いはしません。,When we first faced that Succubus; I had fear in my heart. But now; I will be hesitant no longer.
@@ -129,7 +129,7 @@ Place/MorugenUnderground,
 やはりサキュバスは危険な魔物なのですね。\n自分がサキュバスに変えられてもし村のみんなを\n襲うことになったらと思うと、考えるだけでぞっとしてしまいます。,Succubi truly are dangerous monsters. Just thinking about being turned into a Succubus and then attacking everyone in my village makes me shudder.
 村のみんな元気にしてるかな…。\n何か月も街で過ごしてたから、結構ホームシックで。\nそんなときサキュバスが出てきて、余計に寂しいです。,I wonder if everyone in the village is doing well... I've been in town for several months now; so I'm pretty homesick. And then the Succubi showed up; making me feel even lonelier.
 わたしたち、このままどうなってしまうんでしょう。\nこの暗い地下で、ずっと隠れて過ごすことになるんでしょうか……。,What's going to happen to us? Are we going to keep hiding in this dark underground forever...?
-すぅ・・・・。すぅ・・・。,*Snooore*... *Snooore*...
+すぅ・・・・。すぅ・・・。,Zzz... zzz...
 ・・・。,...
 エルルさんはまだ気を失っているようだ。,It seems Elulu is still unconscious.
 ふぅ…。サキュバスになったってのは何だか変な気分ね。,Phew... being turned into a Succubus was such a strange feeling.
@@ -140,7 +140,7 @@ Place/MorugenUnderground,
 今思い出してもぞっとしちゃうわ。\n助けてくれてありがとね。{主人公}。,Just remembering it now gives me chills. Thanks for saving me; {主人公}.
 それにしても、サキュバスのカード、か…。,But still; Succubus cards; huh...
 確かによく考えてみれば、\nあなたがサキュバスに襲われたときも\n行商人と一緒だったわね。,Now that I think about it; when you were attacked by that Succubus; you were with that traveling merchant; weren't you?
-あのキノコ使いのサキュバスがいた場所も、\nカードパックが出土する遺跡の近く。要するに\nサキュバスのカードを流通に混ぜるのが目的だったのでしょうね。,The place where that mushroom-user Succubus was—it was near ruins where card packs are excavated. In other words; their goal was to mix Succubus cards into circulation.
+あのキノコ使いのサキュバスがいた場所も、\nカードパックが出土する遺跡の近く。要するに\nサキュバスのカードを流通に混ぜるのが目的だったのでしょうね。,The place where the Succubus using mushroom cards was... it was near the ruins where card packs are excavated. I bet their goal was to mix Succubus cards into circulation.
 大会でみんな強いカードを求めていたから、\nわたし含めまんまと乗せられちゃったわ。\n正直、悔しい。,Everyone at the tournament was looking for powerful cards; so I fell for it hook; line; and sinker. Honestly; it's frustrating.
 怪盗サキュバスのカードは、さっきデッキから出して、\n布でぐるぐる巻きにしてそこの岩のところに置いたのだけど、\nこれでもう大丈夫なのかしら。,I took the Phantom Thief Succubus card out of my deck and wrapped it up in cloth and placed it by those rocks over there; but I wonder if that's really enough.
 またサキュバスが出てこないか心配だわ。\nサキュバスをカードにして送りこんでくるなんて、\nほんと得体の知れない能力よね。,I'm worried the Succubus might come out again. Sending Succubi as cards—it's such an incomprehensible ability.
