@@ -30,8 +30,8 @@ D級以上のカードマスターの方々はその多くが闘技場に出入�
 一応お聞きしますが、闘技場への入場を希望いたしますか？,Just to confirm; would you like to enter the arena?
 もちろんです！,Of course!
 僕だって腕に自信はありますよ！,I'm confident in my skills too!
-承知しました。きっと{主人公}さんなら戦っていけるでしょう。,Yes; sir. I'm sure {主人公} will be able to fight., (note: is cappable enough to fight?)
-ふふ、頼もしい言葉です。{主人公}さんなら本当に戦い抜けるでしょうね。,Hmm, that's good word to hear. I'm sure {主人公} will really be able to fight his way through.
+承知しました。きっと{主人公}さんなら戦っていけるでしょう。,Understood. I'm sure if it's {主人公} we're talking about; he will have a good chance!
+ふふ、頼もしい言葉です。{主人公}さんなら本当に戦い抜けるでしょうね。,Hmm. That's good word to hear. I'm sure {主人公} will be able to fight his way through.
 Dランクになったギルドリングがそのまま参加許可証となるので、今からすぐに闘技場の試合に参加できます。頑張ってくださいね！,Your D-rank guild ring will serve as a permit; so you can start participating in arena matches right away. Good luck!
 メニューから闘技場に行けるようになりました。,You can now access the Arena from the menu.
 Dランク以降では闘技場で対戦をすることでストーリーが進むようになります。闘技場で一度勝利した相手は、それ以降街でも戦えるようになります（闘技場のマスターと街で戦う場合、敗北シーンはありません）。,From D-rank onwards the storyline is progressed by fighting in the arena. Once you have defeated an opponent in the arena; you can fight them in the city as well. (If you fight an arena cardmaster in the city; there is no defeat scene).
@@ -46,17 +46,17 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 ・・・・♪,
 これはありがたい申し出だ。僕はさっそく受付さんに探している本について伝えた。,I quickly accept the generous offer; telling the receptionist about the type of book I was looking for.
 なるほど。サキュバスについての本を探しているんですね。\nそれならこのあたりはどうでしょうか。,I see. So you are looking for a book about succubi? How about this one then?
-そう言って受付さんは僕に一冊の本を手渡した。『サキュバスの生態入門』というタイトルだ。,Saying this; the receptionist handed me a book. It's called ‘An Introduction to Succubus Ecology’.
-この街にいるエイライラという高名なマスターが書いた本です。\nサキュバスの分類などについて、短くまとまっていて、\nとてもいい本ですよ。,It's a book written by a highly respected master in this city named Elaira. It's a very good book; with a short summary of the classification of succubi and so on.
-他には…。え？サキュバス化した人間を元に戻すための本ですか？\nうーん…。本はたくさん読んでいますが、\n残念ながら知っている本にはないと思います。,You're looking for other books? A book on how to restore a succubus-ified human? Hmmm... I've read a lot of books; but unfortunately I don't think it's in any book that I know of.
+そう言って受付さんは僕に一冊の本を手渡した。『サキュバスの生態入門』というタイトルだ。,Saying this; the receptionist handed me a book. It was called ‘An Introduction to Succubus Ecology’.
+この街にいるエイライラという高名なマスターが書いた本です。\nサキュバスの分類などについて、短くまとまっていて、\nとてもいい本ですよ。,This is a book written by a highly respected master in this city named Elaira. It's a very good book; with a short summary of the classification of succubi and so on.
+他には…。え？サキュバス化した人間を元に戻すための本ですか？\nうーん…。本はたくさん読んでいますが、\n残念ながら知っている本にはないと思います。,Oh; you're looking for other books? A book on how to restore a succubus-ified human? Hmmm... I've read a lot of books; but unfortunately I don't think it's in any book that I know of.
 そういうことを研究している人が以前この街にいた、\nとは聞いたことがありますが、\nまだ成功した人はいないみたいですね。,I've heard that there used to be people in this city who were researching such things; but nobody seems to have succeeded yet.
 ・・・・。,
 やはり、そう簡単にはいかないのか…。ひとまず僕は受付さんにお礼をいい、受付さんがおすすめしてくれた本を読むことにした。,As I expected; it couldn't be that easy... I thanked the receptionist and decided to read the book she recommended.
-ふむふむ・・・・。,Hmmm. ・・・・.
+ふむふむ・・・・。,Hmmm...
 本によると、サキュバスには「無能力サキュバス」「下級サキュバス」「中級サキュバス」「上級サキュバス」の４種類がいて、無能力サキュバスはカードが使えないらしい。,According to the book; there are four types of succubi: impotent succubus; lower level succubus; intermediate succubus and advanced succubus. Impotent succubi cannot use cards.
 一般市民がサキュバスになると、この無能力サキュバスになることが多いようだ。逆にカードマスターがサキュバスになると、必ず下級以上のサキュバスになるとも書かれている。,When an ordinary citizen becomes a succubus; they are likely to become this impotent succubus. Conversely; it also states that when a cardmaster becomes a succubus; they always becomes a succubus of lower grade or higher.
 「無能力」といっても、カードが使えないだけでエナジードレインや魅了の力は持っているらしい。だいたいDランク相当の強さがあり、特に男性はランクに関係なく注意すべしと書いてあった。,Even though they are ‘impotent’; they are said to have the power of energy drain and charm; just not the ability to use cards. It was written that they are usually equivalent to D-rank; and that men in particular should be careful; regardless of rank.
-・・・僕の妹は、カードが使えない普通の女の子だった。もしサキュバス化されているのなら、無能力サキュバスになっている可能性が一番高いのだろうか。,... My sister was a normal girl who couldn't use cards. If she has become a succubus; is it most likely that she is an impotent succubus?
+・・・僕の妹は、カードが使えない普通の女の子だった。もしサキュバス化されているのなら、無能力サキュバスになっている可能性が一番高いのだろうか。,...My sister was a normal girl who couldn't use cards. If she has become a succubus; then maybe she became an impotent succubus?
 （これは・・・。）,(This is...)
 本をめくると、そこにはサキュバスの絵姿が描いてあった。これが今のサキュバスたちの主、クイーンサキュバスらしい。,When I turned the book over; there was a painted figure of a succubus. This seems to be the succubus queen; the current leader of the succubi.
 かつて王都が侵攻されたとき、Aランクマスターを結集してなんとか撃退したことがあったそうだ。そのときに戦ったマスターの一人がこの絵を残したのだという。,In the past; when the royal capital was invaded; they managed to repel the invasion by rallying A-rank cardmasters. One of the cardmasters who fought at that time left this picture.
@@ -139,7 +139,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 ん、来たわね。,Hmm; here we are.
 いい機会だから、{主人公}、\nあなたとコノハに転移陣を見せておこうと思ってね。\n二人で見送りにくるように言ったのよ。,This is a good opportunity; {主人公}. I thought I'd show you and Konoha the teleportation circle. This is why I wanted you both to come and see me off.
 転移陣は遠く離れた場所を一瞬でつなぐ特別な魔法陣。\n非常に便利なものだけれど、動かすのに莫大な魔力がいるの。\nあれを見なさい。,The teleportation circle is a special magic circle that connects distant places in an instant. They are very useful; but require a great deal of magic power to work. Look at that.
-そう言ってリーフさんは部屋に置かれた１つの巨大なクリスタルを指さした。淡く青色に光るそれは、天井につくほど高く、腕を回しても抱えきれないほどの大きさだった。,With that; Leaf points to a huge crystal in the room, glowing a pale blue. It's so tall that it reaches the ceiling; and is too big to hold; even if you put your arms around it.
+そう言ってリーフさんは部屋に置かれた１つの巨大なクリスタルを指さした。淡く青色に光るそれは、天井につくほど高く、腕を回しても抱えきれないほどの大きさだった。,Leaf pointed to a huge glowing a pale blue crystal in the room. It was so tall that it reached the ceiling; and would be too big to hold; let alone putting your arms around it.
 あのクリスタルは王国に２つしかない特別な魔結晶よ。\n１つはここモルゲンに、もう１つは王都に置かれているわ。,That crystal is one of only two special magic crystals in the kingdom. One is located here in Morgen. The other in the royal capital.
 街で人々が魔力を使うたび、\nあの中にほんのわずかずつ魔力が貯められていく。\nそうやって徴収した魔力がこの転移陣を動かすの。,Every time people use magic in the city; a tiny amount is stored in it. The magic power collected in this way powers the circle.
 それに加えてCランクマスター20人程度で術式を調整して、\nようやく人を４～５人送ることができるわ。\nね、なかなかに効率が悪いでしょう？,Add to that about 20 C-rank masters; adjusting the technique; and you can finally send four or five people. It's quite inefficient; isn't it?
