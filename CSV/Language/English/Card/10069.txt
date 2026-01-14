@@ -1,63 +1,63 @@
-default
+default,
 イージス,Aegis
 EU69_cowgirlAnime,
 EU69_cowgirl2Anime,
-　盾の女神と呼ばれている上位存在のモンスター。神の名を冠するだけあって非常に強力な防御能力を持っており、高威力の魔法や最上級のモンスターを以ってしても彼女の護りを突破するのは容易ではない。\n　カードから顕現したばかりの状態ではまだ本来の力を出し切れないため攻撃力は低い。しかし場にとどまるうちに徐々に力が解放され、最後には攻防ともにこちらを圧倒するほどになる。\n　完全に力を発揮した彼女の体に包まれてしまえば、どんな男であれたちまち悦楽の表情を浮かべ、彼女を信仰することしかできなくされてしまう。彼女が力を取り戻す前に手段を尽くして彼女を倒さなければ勝利することは難しいだろう。,A high ranking being called the 'defender of the Goddess'.
-特性：「イージスの護り」（自身が受ける戦闘ダメージ・効果ダメージが常に10分の１になる)を持つ。,
-[1].自分ターン終了時に発動する。このカードの攻撃力を500ポイントアップする。このとき、このカードの攻撃力が3000以上の場合、相手フィールド上のすべてのモンスターにこのカードの攻撃力分のダメージを与える。/n[2].自分フィールド上の守備状態のモンスターが受ける戦闘ダメージ・効果ダメージは500ポイントダウンする。,
-[3].このカードが破壊され墓地へ送られたとき、墓地から光属性カードを７枚取り除きLPを半分払って発動できる。このモンスターを墓地から特殊召喚する。,
-キス攻撃時に魅了を付与することがある。,
-空中に浮く無数の盾と、この手に持った神器の盾。\nこの二つで防げぬ攻撃はありません。\n盾で攻撃を弾いてしまえば、あとは隙だらけ…❤,
-こうしてあなたの腰を抱き寄せて、胸に性器を埋めることも、\nとても簡単ですね❤うふふ❤\nわたしの大きな胸は、とろけるように柔らかいでしょう？,
-これが女神の胸です❤ほら、ほら…❤ほら❤\n上下に揺らすたび、あなたの顔が快楽で歪んでしまいますね❤\n何度も谷間に沈みこませ、女神の愛をその肉棒に教えてあげましょう❤,
-ふふ、いきなり腕が動かせなくなって驚いたでしょう？\nわたしは自分の周囲の自由な場所に「盾」を生成することができる。\nこの盾を利用すれば、相手の四肢を空中に固定することもできるのです。,
-空中に吊り下げられたがごときあなたを、\n女神の抱擁で骨抜きにしてあげましょう。\nほら、あなたの腰を胸に抱き寄せて・・・❤,
-くす、包まれた瞬間あへぇと情けない声が漏れていますね❤\n抱きしめたままゆさぶってあげます。\nさあ、女神の愛にとろけなさい❤,
-豊かな胸は、女神の愛の象徴。\n子を慈しみ、男に愛を教える、\n大事な大事な役割があるのです。,
-あなたの頭もこの胸で抱きとめてあげます。\n抱きしめられるだけで、体中に愛と恍惚があふれて、\n何も考えられなくなるでしょう。それでいいのですよ❤,
-真の信仰とは、何も考えずただ信じることですから❤\nさあ、わたしの胸に顔をうずめ、\n幸福感で溺れさせてあげますね❤,
-女神の快楽をあなたに与えましょう❤\nわたしの手に触れたものは、\nただ触れたというだけで悦楽に蕩けてしまいます。まして・・・。,
-性器を触られれば、それだけで腰砕け❤\n数回擦れば、あっという間に果ててしまうのです。,
-あなたはこの悦楽に耐えられますか？\n耐えなくともよいのですよ。女神に人が勝てぬのは\n当然の道理なのですから…❤ほら…❤,
-女神の脚に挟まれ、\n柔らかなふとももの間にこすり合わされるのは、至上の悦楽ですよ❤,
-わたしを害そうと武器を持って近づいた者も、\nこうして迎え入れてあげれば、すぐにわたしの敬虔な信徒となります。\n人は喜びには抗えないのですから、仕方ありません❤,
-さあ、あなたも無駄な抵抗などやめ、\nわたしの信者となりなさい❤\n慈愛を以って抱きしめて、ふとももの間で天国を教えてあげましょう❤,
-女神のくちづけ,
-女神の口づけを与えましょう。\n額への口づけは、信徒の証…❤\nおでこに口づけを受けて、あなたもわたしに信心をささげなさい❤,
-くすくす❤わたしに愛を与えてほしいのですか？\n自ら頭を垂れて恵みを乞うとは、\nすっかりわたしの威光にひれ伏してしまったようです❤,
-よいでしょう。あなたに女神の愛を教えてあげます。\nあなたはどうやって愛されたいのでしょうか。うふふ❤,
-女神のパイズリ,
-女神の愛撫,
+　盾の女神と呼ばれている上位存在のモンスター。神の名を冠するだけあって非常に強力な防御能力を持っており、高威力の魔法や最上級のモンスターを以ってしても彼女の護りを突破するのは容易ではない。\n　カードから顕現したばかりの状態ではまだ本来の力を出し切れないため攻撃力は低い。しかし場にとどまるうちに徐々に力が解放され、最後には攻防ともにこちらを圧倒するほどになる。\n　完全に力を発揮した彼女の体に包まれてしまえば、どんな男であれたちまち悦楽の表情を浮かべ、彼女を信仰することしかできなくされてしまう。彼女が力を取り戻す前に手段を尽くして彼女を倒さなければ勝利することは難しいだろう。,A monster of higher existence known as the Shield Goddess. Living up to her divine title; she possesses incredibly powerful defensive abilities; making it nearly impossible to break through her guard even with high-powered magic or top-tier monsters. When she first manifests from her card; she won't fully unleash her true power yet; keeping her attack strength low. However; the longer she remains on the field; the more her true strength awakens; until eventually overwhelming opponents with superior offense and defense. Once fully empowered and wrapped in her embrace; any man will instantly display an expression of pure ecstasy; becoming capable of nothing but worshipping her. Unless you exhaust every method to defeat her before she regains her full strength; victory will be nearly impossible.
+特性：「イージスの護り」（自身が受ける戦闘ダメージ・効果ダメージが常に10分の１になる)を持つ。,"Ability: ""Aegis Protection"" (All battle and effect damage this card recieves is reduced to one-tenth)."
+[1].自分ターン終了時に発動する。このカードの攻撃力を500ポイントアップする。このとき、このカードの攻撃力が3000以上の場合、相手フィールド上のすべてのモンスターにこのカードの攻撃力分のダメージを与える。/n[2].自分フィールド上の守備状態のモンスターが受ける戦闘ダメージ・効果ダメージは500ポイントダウンする。,[1]. Activates at the end of your turn. This card's attack power increases by 500 points. Also; if this card's attack power is 3000 or more; inflict damage equal to this card's attack power to all monsters on your opponent's field. \n[2]. Battle damage and effect damage received by defense position monsters on your field is reduced by 500 points. 
+[3].このカードが破壊され墓地へ送られたとき、墓地から光属性カードを７枚取り除きLPを半分払って発動できる。このモンスターを墓地から特殊召喚する。,[3]. When this card is destroyed and sent to the graveyard; you may banish 7 Light-attribute cards from your graveyard and pay half your LP to Special summon this monster from the graveyard.
+キス攻撃時に魅了を付与することがある。,Kiss attacks may inflict charm.
+空中に浮く無数の盾と、この手に持った神器の盾。\nこの二つで防げぬ攻撃はありません。\n盾で攻撃を弾いてしまえば、あとは隙だらけ…❤,With these countless shields floating in the air; and this divine shield in my hands; there is no attack I cannot deflect. Once I deflect your attack with my shield; you're left wide open...❤
+こうしてあなたの腰を抱き寄せて、胸に性器を埋めることも、\nとても簡単ですね❤うふふ❤\nわたしの大きな胸は、とろけるように柔らかいでしょう？,Pulling your hips close like this and burying your cock between my breasts is quite simple.❤ Ufufu.❤ My large breasts are meltingly soft; aren't they?
+これが女神の胸です❤ほら、ほら…❤ほら❤\n上下に揺らすたび、あなたの顔が快楽で歪んでしまいますね❤\n何度も谷間に沈みこませ、女神の愛をその肉棒に教えてあげましょう❤,These are a goddess's breasts.❤ Come now; come...❤ come!❤ Each time I bounce them up and down; pleasure distorts your face.❤ I'll plunge your cock between my cleavage over and over and teach your cock about the goddess's love.❤
+ふふ、いきなり腕が動かせなくなって驚いたでしょう？\nわたしは自分の周囲の自由な場所に「盾」を生成することができる。\nこの盾を利用すれば、相手の四肢を空中に固定することもできるのです。,"Fufu; you must be surprised your arms suddenly stopped moving? I can generate ""shields"" anywhere I wish around me. Using these shields; I can even suspend someone's limbs in mid-air."
+空中に吊り下げられたがごときあなたを、\n女神の抱擁で骨抜きにしてあげましょう。\nほら、あなたの腰を胸に抱き寄せて・・・❤,I'll leave you boneless with a goddess's embrace while you dangle in the air. Now then; let me pull your hips against my chest...❤
+くす、包まれた瞬間あへぇと情けない声が漏れていますね❤\n抱きしめたままゆさぶってあげます。\nさあ、女神の愛にとろけなさい❤,"Kusu; the moment I wrapped around you; such a pathetic ""aheee"" slipped out.❤ I'll shake you while holding you tight. Now then; melt into a goddess's love.❤"
+豊かな胸は、女神の愛の象徴。\n子を慈しみ、男に愛を教える、\n大事な大事な役割があるのです。,Abundant breasts symbolize a goddess's love. Cherishing children; teaching men about love; they serve a very; very important role.
+あなたの頭もこの胸で抱きとめてあげます。\n抱きしめられるだけで、体中に愛と恍惚があふれて、\n何も考えられなくなるでしょう。それでいいのですよ❤,I'll cradle your head against these breasts too. Just being held like this will flood your entire body with love and ecstasy; making it impossible to think about anything else. And that's perfectly fine.❤
+真の信仰とは、何も考えずただ信じることですから❤\nさあ、わたしの胸に顔をうずめ、\n幸福感で溺れさせてあげますね❤,True faith means believing without thinking about anything.❤ Now then; bury your face in my breasts; and let me drown you in bliss.❤
+女神の快楽をあなたに与えましょう❤\nわたしの手に触れたものは、\nただ触れたというだけで悦楽に蕩けてしまいます。まして・・・。,I'll grant you a goddess's pleasure.❤ Anything that touches my hands will melt into ecstasy from that touch alone. Much less...
+性器を触られれば、それだけで腰砕け❤\n数回擦れば、あっという間に果ててしまうのです。,If I touch your cock; that alone will make your knees buckle.❤ Just a few strokes; and you'll cum in no time at all.
+あなたはこの悦楽に耐えられますか？\n耐えなくともよいのですよ。女神に人が勝てぬのは\n当然の道理なのですから…❤ほら…❤,Can you withstand this pleasure? Though; you don't need to resist. After all; it's only natural that a human can't triumph over a goddess...❤ Come now...❤
+女神の脚に挟まれ、\n柔らかなふとももの間にこすり合わされるのは、至上の悦楽ですよ❤,Being trapped between a goddess's legs; having your dick rubbed between her soft thighs; this is the ultimate pleasure.❤
+わたしを害そうと武器を持って近づいた者も、\nこうして迎え入れてあげれば、すぐにわたしの敬虔な信徒となります。\n人は喜びには抗えないのですから、仕方ありません❤,Even those who approach me with weapons intending harm; once I welcome them like this; they immediately become my devout followers. Humans simply can't resist pleasure; so it's only natural.❤
+さあ、あなたも無駄な抵抗などやめ、\nわたしの信者となりなさい❤\n慈愛を以って抱きしめて、ふとももの間で天国を教えてあげましょう❤,Now; you should stop your pointless resistance as well; and become my believer.❤ I'll embrace you with my compassion; and teach you heaven between my thighs.❤
+女神のくちづけ,Kiss of the Goddess
+女神の口づけを与えましょう。\n額への口づけは、信徒の証…❤\nおでこに口づけを受けて、あなたもわたしに信心をささげなさい❤,I shall bestow upon you a goddess's kiss. A kiss upon the forehead marks you as a believer...❤ Receive my kiss on your forehead; and offer your devotion to me.❤
+くすくす❤わたしに愛を与えてほしいのですか？\n自ら頭を垂れて恵みを乞うとは、\nすっかりわたしの威光にひれ伏してしまったようです❤,Fufufu❤ So you want me to give you my love? To willingly bow your head and beg for my blessing; it seems you've completely surrendered to my divine power.❤
+よいでしょう。あなたに女神の愛を教えてあげます。\nあなたはどうやって愛されたいのでしょうか。うふふ❤,Very well. I'll teach you a goddess's love. How would you like to be cared for? Ufufu❤
+女神のパイズリ,Goddess Paizuri
+女神の愛撫,Caress of the Goddess
 なんでも,You decide
-わたしの胸に挟まれたいのですか。\nいつの世も人の子はこの胸が好きですね❤\n柔らかいここに優しさを求めるのは人の子の性なのでしょう❤,
-わたしに愛を教えてほしいのですね❤\nよいでしょう。あなたの体に直接触れて、\n女神の美しさと愛を、魂に深く刻んであげますね❤,
-くす❤エナジーをたくさん吐き出してしまいましたね。\n女神の与える快楽に身をゆだねるのが、いかに心地よいことか、\nよくよく分かったのではないでしょうか。,
-他の仲間を捨てて女神に屈したこと、後悔などしていないでしょう？\nくすくす❤その快楽に蕩け切った顔が答えですね❤,
-うっ、ううっ・・・❤,
-あら、わたしへの刃は届かぬと悟り、自ら降参の道を選びましたか。\nうふふ、よい心がけです❤,
-ふふふ、まだあなたとは戦ってもいないのに、\n初めから降参の道を選ぶのですか。\n卑しい自分の立場がよく分かっているようですね❤,
-盾の女神であるわたしに攻撃が通じるはずはないのですから、\nその選択はきわめて賢いと言ってよいでしょう❤,
-これは賢いあなたへの女神であるわたしからの祝福。\nさあ、その粗末なもので受け取りなさい。\nふぅーー・・・・❤,
-女神の吐息,
-あひぃっ、女神様ぁ・・・❤❤,
-あうぅぅ・・・❤,
-ふふ❤わたしの吐息に脳を蕩けさせられながら、\nみじめに扱いて果ててしまいましたね❤,
-非常に脆く敏感な男性器です❤\nわたしの防御力とはまるで対極ですね❤くすくす❤,
-「無敗」というたいそうな称号も、\n「無敵」の前に砕け散ってしまいました。\n所詮、わたしの息で吹き飛ばされるほど軽いものだったようです❤,
-さてあなたのエナジーはわたしの体力へと変わり、\n突破がますます困難になってしまいました。\n他の者たちも早々に諦めて、その身を屈するとよいでしょう。うふふ❤,
-あなたも自ら降参の道を選びましたか。\nうふふ、よい心がけです❤,
-何人もわたしを倒すことはできない、\nそれなのに、わたしは時を経るごとに強くなっていく…♪\n誰であろうと最後はわたしに服従のするのですよ❤,
-これは女神であるわたしからの祝福❤\nさあ、わたしの威光をその粗末なもので受け取りなさい。\nふぅーー・・・・❤,
-ふふ❤息に脳を蕩けさせられながら、\nみじめに扱いて果ててしまいましたね❤,
-あなたたちは実に矮小な存在です❤\n女神の前ではほこりのように軽く息で吹き飛ばされるのがお似合い❤\nそうは思いませんか？くすくす❤,
-「無敗」というたいそうな称号も、\n「無敵」の前では何の意味もありませんでしたね。\n所詮、わたしの息で吹き飛ばされるほど軽いものだったようです❤,
-さてあなたのエナジーはわたしの体力へと変わり、\nさらに突破が困難になってしまいました。\n他の者たちも早々に諦めて、その身を屈するとよいでしょう。うふふ❤,
-まさか、わたしにダメージを負わせられるものがいるとは…。\nふふふ、たいしたものですね。,
-あなたの強さを認めて、女神のカラダを味わうことを許しましょう❤\nさあ、天国へといざなわれて、あなたは抗えますか？,
-はうぅうっ・・・❤❤,
-くす、とろけたような声を上げて、\nまだ入り口にあてがっただけですよ❤,
-先っぽを咥えこまれただけでも、非常に心地よいでしょう？\n女神の体は人の身には過ぎた快楽です❤\n抗うことなど到底できない、それが摂理❤,
-ここまであなたはよくぞ頑張りました。\nわたしの守りをかいくぐり、わたしに肉薄できたからこそ、\nこの悦楽を味わえるのです❤,
+わたしの胸に挟まれたいのですか。\nいつの世も人の子はこの胸が好きですね❤\n柔らかいここに優しさを求めるのは人の子の性なのでしょう❤,So you want me to wrap your cock up between my breasts? Men have always loved these breasts of mine.❤ Seeking comfort in their softness is just human nature; isn't it?❤
+わたしに愛を教えてほしいのですね❤\nよいでしょう。あなたの体に直接触れて、\n女神の美しさと愛を、魂に深く刻んであげますね❤,You want me to teach you about love?❤ Very well. I'll touch your body directly; and engrave the beauty and love of a goddess deep into your soul.❤
+くす❤エナジーをたくさん吐き出してしまいましたね。\n女神の与える快楽に身をゆだねるのが、いかに心地よいことか、\nよくよく分かったのではないでしょうか。,Fufu.❤ You've released so much energy. You understand now just how pleasurable it is to surrender yourself to the ecstasy a goddess provides; don't you?
+他の仲間を捨てて女神に屈したこと、後悔などしていないでしょう？\nくすくす❤その快楽に蕩け切った顔が答えですね❤,You abandoned your comrades and submitted to a goddess; but you don't regret it; do you? Giggle.❤ That expression of pure bliss on your face says it all.❤
+うっ、ううっ・・・❤,Ahh; ahhh...❤
+あら、わたしへの刃は届かぬと悟り、自ら降参の道を選びましたか。\nうふふ、よい心がけです❤,Oh? You realized your blade couldn't reach me and chose to surrender on your own? Ufufu; how wise of you.❤
+ふふふ、まだあなたとは戦ってもいないのに、\n初めから降参の道を選ぶのですか。\n卑しい自分の立場がよく分かっているようですね❤,Fufufu; we haven't even fought yet; and you're already choosing to surrender from the start. You know your lowly place well; don't you?❤
+盾の女神であるわたしに攻撃が通じるはずはないのですから、\nその選択はきわめて賢いと言ってよいでしょう❤,Choosing to surrender is exceptionally wise considering attacks could never work against me; the Goddess of the Shield.❤
+これは賢いあなたへの女神であるわたしからの祝福。\nさあ、その粗末なもので受け取りなさい。\nふぅーー・・・・❤,This is a blessing from me; a goddess; to you for being so wise. Now; receive it with that pathetic thing of yours. Haahh...❤
+女神の吐息,The Goddess's Breath
+あひぃっ、女神様ぁ・・・❤❤,Ahhh; Praise be to the Goddess...❤❤
+あうぅぅ・・・❤,Ahhh...❤
+ふふ❤わたしの吐息に脳を蕩けさせられながら、\nみじめに扱いて果ててしまいましたね❤,Fufu.❤ My breath melted your mind as you pathetically jerked yourself to climax; didn't it?❤
+非常に脆く敏感な男性器です❤\nわたしの防御力とはまるで対極ですね❤くすくす❤,Such a fragile and sensitive cock.❤ The complete opposite of my impenetrable defenses.❤ Giggle.❤
+「無敗」というたいそうな称号も、\n「無敵」の前に砕け散ってしまいました。\n所詮、わたしの息で吹き飛ばされるほど軽いものだったようです❤,"That grand title of ""Undefeated"" shattered before the ""Unbeatable."" In the end; it was so light that my breath alone could blow it away.❤"
+さてあなたのエナジーはわたしの体力へと変わり、\n突破がますます困難になってしまいました。\n他の者たちも早々に諦めて、その身を屈するとよいでしょう。うふふ❤,Now your energy has become my stamina; making it even harder to break through. The others should give up quickly and submit themselves to me as well. Ufufu.❤
+あなたも自ら降参の道を選びましたか。\nうふふ、よい心がけです❤,So you've also chosen to surrender on your own? Ufufu; how wise of you.❤
+何人もわたしを倒すことはできない、\nそれなのに、わたしは時を経るごとに強くなっていく…♪\n誰であろうと最後はわたしに服従のするのですよ❤,No one can defeat me; and yet I grow stronger with each passing moment...♪ Everyone will submit to me in the end.❤
+これは女神であるわたしからの祝福❤\nさあ、わたしの威光をその粗末なもので受け取りなさい。\nふぅーー・・・・❤,This is a blessing from me; a goddess.❤ Now; receive my divine glory with that pathetic thing of yours. Haahh...❤
+ふふ❤息に脳を蕩けさせられながら、\nみじめに扱いて果ててしまいましたね❤,Fufu.❤ My breath melted your brain as you pathetically jerked yourself to climax; didn't it?❤
+あなたたちは実に矮小な存在です❤\n女神の前ではほこりのように軽く息で吹き飛ばされるのがお似合い❤\nそうは思いませんか？くすくす❤,You're all such insignificant existences.❤ Before a goddess; being blown away by a breath like dust suits you perfectly.❤ Don't you think so? Giggle.❤
+「無敗」というたいそうな称号も、\n「無敵」の前では何の意味もありませんでしたね。\n所詮、わたしの息で吹き飛ばされるほど軽いものだったようです❤,"That grand title of ""Undefeated"" meant nothing before the ""Unbeatable."" In the end; it was so light that my breath alone could blow it away.❤"
+さてあなたのエナジーはわたしの体力へと変わり、\nさらに突破が困難になってしまいました。\n他の者たちも早々に諦めて、その身を屈するとよいでしょう。うふふ❤,Now your energy has become my stamina; making it even more difficult to break through. The others should give up quickly and submit themselves to me as well. Ufufu.❤
+まさか、わたしにダメージを負わせられるものがいるとは…。\nふふふ、たいしたものですね。,To think someone could actually damage me... Fufufu; how impressive.
+あなたの強さを認めて、女神のカラダを味わうことを許しましょう❤\nさあ、天国へといざなわれて、あなたは抗えますか？,I'll acknowledge your strength and allow you to experience a goddess's body.❤ Now; will you be able to resist as I guide you to heaven?
+はうぅうっ・・・❤❤,Haaahh...❤❤
+くす、とろけたような声を上げて、\nまだ入り口にあてがっただけですよ❤,Fufu; moaning like that when I've only pressed it against the entrance?❤
+先っぽを咥えこまれただけでも、非常に心地よいでしょう？\n女神の体は人の身には過ぎた快楽です❤\n抗うことなど到底できない、それが摂理❤,Just having the tip wrapped feels incredibly good; doesn't it? A goddess's body provides pleasure too intense for mortals.❤ Resisting is utterly impossible; that's the natural order.❤
+ここまであなたはよくぞ頑張りました。\nわたしの守りをかいくぐり、わたしに肉薄できたからこそ、\nこの悦楽を味わえるのです❤,You've done well to make it this far. You slipped past my defenses and got close to me; which is why you can experience this pleasure.❤
 だから、これはあなたが受けるべきご褒美❤\nもう何もかも忘れて、女神の下に屈服してしまっていいのですよ❤,
 さあ、この喜びを受け入れて、\n天に召されてしまいなさい❤\nわたしの中に、あなたの命を捧げること、このわたしが許しましょう❤,
 理性を振りしぼって振り払った,
