@@ -7,7 +7,7 @@ F26_paizuriAnime,
 　胸のサイズも学園一であり、実はこっそり自慢に思っている。バトル以外で性的なことをしたことはないが、カードマスター学園ではそうしたテクニックも教えているので、男を気持ちよくするツボはよく心得ているという。快感を与えつつ、抵抗する動きを体術でいなして押さえ込んでくるため、力自慢の大男であっても簡単には逃れられない。大きく揺れる胸に誘われて安易に彼女に身を任せてしまえば、そのまま脱出できずに搾り取られてしまうだろう。,   Her bust size is also the largest in the academy; a fact she secretly takes great pride in. Though she has never done anything sexual outside of battles; as a skill taught by the Card Academy; she has become familiar with the pressure points that make men feel good. She gives pleasure while using martial arts to deflect and subdue any attempts to resist her; so even large; strong men cannot easily escape from her hold. If you carelessly give yourself over to her—overly enticed by her large; bouncing breasts—you'll have no hope of escape and will be milked dry.
 　人魚使いのメロディは同級生だが、身長が低くくかわいらしいので、メロディちゃんと、ちゃん付けで呼んでいる。しょっちゅう抱き着いたり頭をなでてくるので、メロディからはちょっとうっとうしがられている。,   She has taken to calling her classmate Melody—the mermaid cardmaster—'Little Melly'; do to her small stature and cute appearance. She is constantly hugging her and patting her head; which annoys Melody quite a bit.
 あら、無敗のルーキー、この間の試合ぶりね。\nどう？Aランク昇格戦に向けて、準備はできた？,Oh; if it isn't the undefeated rookie. It's been a while since our last match. So? Are you prepared for the A-rank promotion battle?
-昇格戦の前にお師匠様と一度真剣勝負をする？\nへぇ、それは大事な試合になりそうね。師匠への恩返しもかねて\n強くなったところ、ちゃんと見せてあげなくちゃ。,Your master has invited you to have a serious match with her before your promotion? Hmm; that sounds a fairly important match. You'll need to properly show her how strong you've become as a way of repaying her kindness.
+昇格戦の前にお師匠様と一度真剣勝負をする？\nへぇ、それは大事な試合になりそうね。師匠への恩返しもかねて\n強くなったところ、ちゃんと見せてあげなくちゃ。,Your master has invited you to have a serious match with her before your promotion? Hmm; that sounds like a fairly important match. You'll need to properly show her how strong you've become as a way of repaying her kindness.
 わたしもあなたの調整手伝ってあげるわ。\n今からバトルして、互いに切磋琢磨することにしましょう。,In that case; I'd be happy to help with your training; as well. Let's battle right now and push each other to improve!
 もちろん調整だからといって手を抜く気はないわ。\n闘技場では負けたけど今日は勝たせてもらうから。\nさ、カードを構えなさい。,Of course; just because this is training doesn't mean I'll go easy on you. I may have lost in the arena but today I'm going to win. Come on; ready your cards.
 あら、無敗のルーキー、また会ったわね。\nいまもまだ調整作業中？,Oh my. Undefeated rookie; so we meet again. Are you still adjusting your deck?
@@ -51,9 +51,9 @@ F26_paizuriAnime,
 ドロー！,Draw!
 わたしのターンね。ドロー！,My turn. Draw!
 モンスターを２体コストにして、行くわ！\n私の切り札！,Here I go! I'll sacrifice 2 monsters and summon my trump card!
-顕現せよ、鉄壁の守護女神！\nその盾を貫ける刃はこの世になく、汝を敗れる敵はなし！\n{使用カード}を召喚！,Manifest; my ironclad guardian goddess! May no blade in this world can pierce your shield; nor any enemy exists who can defeat you! I summon {使用カード}!
+顕現せよ、鉄壁の守護女神！\nその盾を貫ける刃はこの世になく、汝を敗れる敵はなし！\n{使用カード}を召喚！,Manifest; my ironclad guardian goddess! May no blade in this world pierce your shield; nor any enemy exist who can defeat you! I summon {使用カード}!
 モンスターをコストにして、{使用カード}を召喚！,Sacrificing a monster; I'll summon {使用カード}!
-{使用カード}を召喚するわ。,II summon {使用カード}.
+{使用カード}を召喚するわ。,I summon {使用カード}.
 {使用カード}は「挑発」の能力を持っているわ。\nあなたはこのカードを破壊しない限り、\n他のモンスターを攻撃できないの。,{使用カード} has the "Taunt" ability. You can't attack any of my other monsters unless you destroy this card first.
 屈強な守りで、他の味方を支援する。\nまさに騎士の鑑のようなカードね！\nさて、突破できるかしら？,Her stalwart defenses support and defend her allies. Truly a card representing the epitome of being a knight! Well? Do you think you can break through?
 ううっ、あうう・・・❤,Uugh; ahhh...❤
@@ -70,8 +70,8 @@ F26_paizuriAnime,
 召喚時に{使用カード}の効果発動！\n手札を１枚捨てて、\nデッキからレベル４以下の光属性モンスターを１体呼び出す！,When it's summoned; {使用カード}'s effect activates! I discard one card from my hand to call forth one Level 4 or lower Light attribute monster from my deck to the field!
 １ターンに１度、{使用カード}の効果発動！\n自分フィールド上の光属性モンスターを\n全員パワーアップよ！,Once per turn; I can activate {使用カード}'s effect! It powers up all Light attribute monsters on my side of the field!
 １ターンに１度、{使用カード}の効果発動！\n自分フィールド上の光属性モンスターを\n全員攻撃力200ポイントアップするわ！,Once per turn; I can activate {使用カード}'s effect to increase the attack power of all Light attribute monsters on my side of the field by 200 points!
-召喚に成功した時、{使用カード}の効果発動！\n「{%%40190}」を生成して１枚手札に加えるわ！,When {使用カード} is summoned successfully; its effect activate! It creates an "{%%40190}" and adds it to my hand!
-召喚に成功した時、{使用カード}の効果発動！\n「{%%40190}」を生成して１枚手札に加える！,When it's summon successfully; {使用カード}'s effect activates; generate one "{%%40190}" and adding it to my hand!
+召喚に成功した時、{使用カード}の効果発動！\n「{%%40190}」を生成して１枚手札に加えるわ！,When {使用カード} is summoned successfully; its effect activate! It creates a "{%%40190}" and adds it to my hand!
+召喚に成功した時、{使用カード}の効果発動！\n「{%%40190}」を生成して１枚手札に加える！,When it's summoned successfully; {使用カード}'s effect activates; generate one "{%%40190}" and adding it to my hand!
 自分ターン終了時に{使用カード}の効果発動！\n自身の攻撃力を500ポイントアップ！,At the end of my turn; {使用カード}'s effect activates. It increases its own attack power by 500 points!
 さらに強くなるわよ。自分ターン終了時に{使用カード}の効果発動！\n自身の攻撃力を500ポイントアップ！,My cards just keep getting stronger. At the end of my turn; {使用カード} effect activates; increasing its own attack power by 500 points!
 さらに攻撃力が3000を超えているとき、\n相手フィールド上のすべてのモンスターに\n攻撃力分のダメージを与えるわ。女神の裁きをくらいなさい！,Furthermore; once its attack power exceeds 3000; it can deal damage equal to it's attack power to all monsters on my opponent's side of the field. Receive the goddess's judgment!
@@ -112,10 +112,10 @@ F26_paizuriAnime,
 ほら、ほら・・・❤\n無敗だなんだ言われても、おっぱい好きじゃわたしには勝てないわ。\nイージスを使うまでもない。さっさと果てなさい❤,Come one; just relax...❤ Even if they call you 'undefeated'; a breast-lover like you can't hope to win against me. I don't even need to use Aegis. Hurry up and let it all out~❤
 出した分は全部谷間の中で潰してあげる。\nあなたの大事な子種、わたしの谷間にすりつぶされるのよ。\nくす、そう言われて喜んでるし。マゾ❤,I'll crush everything you let out between my breasts. Your precious seed will be ground in the valley of my cleavage. *Giggle* Hearing that actually made you happy; didn't it? Masochist~❤
 胸でしてあげるわ❤,I'll attack you my breasts.❤
-ん？優等生なのにエッチな攻撃するのは意外？男相手に戦うなら、\nこの攻撃が一番効くもの。学園で基本的な技術は教わっているし、\nとっても気持ちよくしてあげられると思うわ❤,Hm? Surprised that an honor student like me would use such erotic attacks? When fighting men; this form of combat is the most effective. I learned the basic techniques at the academy; and I feel rather confidant I can make you feel wonderful~❤
+ん？優等生なのにエッチな攻撃するのは意外？男相手に戦うなら、\nこの攻撃が一番効くもの。学園で基本的な技術は教わっているし、\nとっても気持ちよくしてあげられると思うわ❤,Hm? Surprised that an honor student like me would use such erotic attacks? When fighting men; this form of combat is the most effective. I learned the basic techniques at the academy; and I feel rather confident I can make you feel wonderful~❤
 遊んでいる子よりも、\n私みたいな子の方が上手かったりするものなのよ。\nそれに学園で一番おっぱい大きいし、挟んで擦ればたいていの男は瞬殺よ❤,Girls like me are often better than the promiscuous ones; believe it or not. Plus; I have the largest breasts in the academy; so most men finish in an instant with just a squeeze and a pump~❤
 くす❤今の聞いて期待しちゃったんだ。\n固くなったあなたのペニス、\nわたしのテクで天国見せてあげるわね❤,*Giggle*❤ You got excited just hearing that. Your penis has gotten so hard. Now; I'll use my technique to show your cock heaven!❤
-胸を揺らして隙を作るのは、基本技術よね。\nだって男って、どれだけ強くなっても、\nこうやってわざとらしく揺らすだけで・・・❤,Creating openings in my opponents defenses by bouncing my breasts is a rather basic technique. Because no matter how strong men become; just one deliberate bounce them like this; and...❤
+胸を揺らして隙を作るのは、基本技術よね。\nだって男って、どれだけ強くなっても、\nこうやってわざとらしく揺らすだけで・・・❤,Creating openings in my opponents defenses by bouncing my breasts is a rather basic technique. Because no matter how strong men become; just one deliberate bounce like this; and...❤
 くす❤すぐ視線が吸い寄せられる❤\n男ってかわいそうね。肉体は鍛えられても本能は変えられない。\nこんな脂肪の塊に簡単に操られちゃう❤,*Giggle*❤ Your gaze is immediately drawn to my chest~❤ Men are such pitiful creatures. You can train your body as much as you want; but you can't change your instincts. So easily manipulated by these lumps of fat…❤
 ほらほら、もっと揺らしてあなたの本能弄んであげる❤\n攻撃もできないぐらい集中力を乱して、\nそのあとじっくり調理してあげるわ❤,Here; look. I'll bounce them more and toy with your instincts.❤ I'll disrupt your concentration so you can't so much as attack; then slowly cook you afterwards❤
 ふふ、わたしの背後をとっても無駄よ。\nお尻で捕まえてあげればいいだけだもの。,Fufu; it's useless to strike from behind. All I have to do is capture you with my rear.
