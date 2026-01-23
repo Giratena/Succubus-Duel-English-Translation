@@ -1,12 +1,12 @@
 default
-淫魔化シャドー,Succubusified Shadow
+淫魔化シャドー,Shadow Succubus
 EU72_paizuriAnime,
 EU72_bustShakeAnime,
 EU72_bustShowShakeAnime,
-エルルが使用していたカード「シャドー」がサキュバス化した姿。元々女の子だったが、サキュバス化によって魅力的な体を手に入れ、色気がそなわった。影の姿をしていたときは誰も女の子扱いをしてくれないのを気にしていたので、サキュバス化したことを小躍りして喜んでいる。\n胸が豊かに育ち、その感触は極上の一言。エルルやキャロルの動きを見ていたので、パイズリや手コキなども上手にこなす。うかつに挟まれてしまえば、蕩けるような快楽で動けなくなり、そのまま深い影の中にひきずり込まれてしまうだろう。,
-[1].このカードが場に出たとき発動する。ランダムな自分フィールド上の闇属性モンスターの攻撃力を300ポイントアップし、そのモンスターに「隠密(4ターン)」を付与する。,
-[2].このカードが破壊され墓地へ送られたとき発動する。デッキからトラップカードをランダムに１枚手札に加える。,
-[3].手札にこのカードが存在する場合、自分の墓地からトラップカードを2枚取り除いて発動できる。このカードを手札から特殊召喚する。,
+エルルが使用していたカード「シャドー」がサキュバス化した姿。元々女の子だったが、サキュバス化によって魅力的な体を手に入れ、色気がそなわった。影の姿をしていたときは誰も女の子扱いをしてくれないのを気にしていたので、サキュバス化したことを小躍りして喜んでいる。\n胸が豊かに育ち、その感触は極上の一言。エルルやキャロルの動きを見ていたので、パイズリや手コキなども上手にこなす。うかつに挟まれてしまえば、蕩けるような快楽で動けなくなり、そのまま深い影の中にひきずり込まれてしまうだろう。,The succubus form of the "Shadow" card Eruru once used. While she has always been a girl; her transformation has granted her an attractive body and an aura of sex appeal. As a shadow; she was often bothered by the way no one seemed to treat her like a girl; leaving her overjoyed to have become a succubus. Her breasts have grown abundantly; and their texture is superb. Having watched Eruru and Carol's techniques for a long time; she can skillfully perform paizuri and handjobs. If someone was carelessly caught between her breasts; they'd be left unable to move from the melting pleasure and dragged into the deep shadows.
+[1].このカードが場に出たとき発動する。ランダムな自分フィールド上の闇属性モンスターの攻撃力を300ポイントアップし、そのモンスターに「隠密(4ターン)」を付与する。,[1]. When this card is successfully summoned; increases the attack power of a random Dark attribute monster on your field by 300 points and grant that monster "Stealth (4 turns)".
+[2].このカードが破壊され墓地へ送られたとき発動する。デッキからトラップカードをランダムに１枚手札に加える。,[2]. When this card is destroyed and sent to the graveyard; randomly add one trap card from your deck to your hand.
+[3].手札にこのカードが存在する場合、自分の墓地からトラップカードを2枚取り除いて発動できる。このカードを手札から特殊召喚する。,[3]. If this card is in your hand; you may remove 2 trap cards from your graveyard; and Special summon it to the field.
 ボクのこと覚えてる？\nちんちくりんな影のモンスターだったのに、\nサキュバス化したらこんなエッチな体もらっちゃった❤,
 うわぁー、見てみて♪\nボク、ちんちくりんな影のモンスターだったのに、\nサキュバス化したらこんなエッチな体もらっちゃった❤,
 ほらぁ、おっぱいもすごいでしょぉ❤\nかなりおっきくて、それを服でぎゅって締め付けてるからぁ、\n谷間の乳圧もすごいんだよぉ❤,
