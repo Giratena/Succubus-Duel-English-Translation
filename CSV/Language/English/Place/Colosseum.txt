@@ -1,7 +1,7 @@
 default
 闘技場ファンの男,Male Colosseum Fan
 観客の女,Woman from the Audience
-エルル,Eruru
+エルル,Elulu
 ❤派手な女の子,❤Flashy Girl
 盛り上がっている男,Excited Man
 物知りな女性,Knowledgeable Woman
