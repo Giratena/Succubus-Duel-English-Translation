@@ -32,7 +32,7 @@ OPイベントをスキップしますか？,Would you like to skip the opening 
 なんにしても勝利は勝利だ！僕は歓声を背にその場を後にしたのだった。,In any case; a victory is a victory! I made my exit with the crowd cheering behind me.
 闘技場の勝利報酬を得た！,Obtained arena victory rewards!
 やっほー、{主人公} 。元気にしてた？,Yoo-hoo; {主人公}. How've you been?
-エルルさんが僕に話しかけてきた。彼女も試合の申し込みに来ていたらしい。,Eruru approached me at the arena. It seemed like she was here for a match; too.
+エルルさんが僕に話しかけてきた。彼女も試合の申し込みに来ていたらしい。,Elulu approached me at the arena. It seemed like she was here for a match; too.
 サキュバスが復活してしまうことについて、エイライラさんに話を通し、原因を探ってくれたのはエルルさんだった。あのあときちんと話もできていなかったし心配をかけていたかもしれない。,Thinking back on it; she was the one who introduced me to Elaira and helped me find the reason for the succubus revival. We haven't chatted since then; so she might have been worried about me.
 僕はこれまでのできごとや新たに分かったことを彼女に話した。,I filled her in on what I've been up to and the information I'd found.
 え、半魔族化した魔力を逆に利用して、サキュバスを治療・・・？\n魔族化しているならサキュバスの呪いに触れられる・・・？,Eh? There's a chance to cure succubi by reversing the flow of the succubus mana...? And succubus transformation happens because of the succubus's curse...?
@@ -51,7 +51,7 @@ OPイベントをスキップしますか？,Would you like to skip the opening 
 ま、あなたからすれば、\n弱い相手が出てくれてラッキーってところよね。,Man; that's pretty convenient; huh? You getting matched against such a weak opponent like that. Lucky!
 わたしとしても、お金でBランクになったような人に\n大きな顔してほしくないし、\nあなたには相手をこてんぱんに負かしてほしいわ。,I don't like people buying their way into B-rank and acting like big shots because of it. Knock her into next week for me; will you?
 わたしの試合はあなたより後だし、楽しみに観戦してるわね。\nそれじゃ、バイバイ♪,My duel's right after yours; so I'll be watching your match; okay? Bye bye!♪
-エルルさんが話していた噂が本当なら、今日はだいぶ楽ができるかもしれない。,If what Eruru said is true; then today's match should be easy.
+エルルさんが話していた噂が本当なら、今日はだいぶ楽ができるかもしれない。,If what Elulu said is true; then today's match should be easy.
 とはいえ試合は試合だ。油断せずに気を引き締めて行こう。,Nevertheless; a match is a match. I shouldn't let my guard down just because my opponent is weak.
 控室で試合の準備をしていると、誰かがドアをノックしてきた。,While I was preparing for my match in the waiting room; someone knocked on the door.
 失礼します。わたくし、今日のあなた様の対戦相手、\nリュカ・シャルロットのメイドでございます。,Excuse me; Mr. {主人公}; I'm a humble maid serving Mistress Charlotte; who happens to be your opponent today.

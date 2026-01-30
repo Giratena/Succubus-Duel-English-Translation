@@ -3,8 +3,8 @@ default
 F11_bustShowAnime,
 F11_paizuriWing,
 村娘に化けていた下級サキュバス。キノコのカードを好んで使う。純真そうな見た目でありながら、相手の能力を下げて無力化し一方的にいたぶるのが好きというサディスティックな一面を持つ。胸が体格の割に大きく、パイズリが得意。,Mycella. A lower-class succubus disguised as a village girl. Prefers to use mushroom cards. She looks innocent; but holds a sadistic side that enjoys lowering her opponent’s abilities and bullying them one-sidedly. She has quite big breasts and is skilled at giving titjobs.
-下級サキュバスとして一見平凡な能力に見えるが魔力を隠すのが得意であり、たいていのカードマスターには見抜かれない擬装ができる。エルルは魔力観察については上位ランクのマスター並みの実力があるため、今回は擬装がバレてしまった。もし何も気が付かなければ、完全に油断したところをいつの間にかキノコの力で弱体化させられて、一方的に精を搾り取られてしまっていただろう。,Although her abilities might seem average for a lower-class succubus; she’s skilled at hiding her own magical power so that your average cardmasters cannot see it. She was exposed by Eruru because she had magic observation skills on par with a high-ranked cardmaster. If she hadn’t been exposed; she would’ve weakened her foes while they were unaware and drained their energy one-sidedly.
-村娘に化けていた下級サキュバス。キノコのカードを好んで使う。純真そうな見た目でありながら、相手の能力を下げて無力化し一方的にいたぶるのが好きというサディスティックな一面を持つ。胸が体格の割に大きく、パイズリが得意。\n下級サキュバスとして一見平凡な能力に見えるが魔力を隠すのが得意であり、たいていのカードマスターには見抜かれない擬装ができる。エルルは魔力観察については上位ランクのマスター並みの実力があるため、今回は擬装がバレてしまった。もし何も気が付かなければ、完全に油断したところをいつの間にかキノコの力で弱体化させられて、一方的に精を搾り取られてしまっていただろう。,A lower-class succubus disguised as a village girl. Prefers to use mushroom cards. She looks innocent; but has a sadistic side that enjoys lowering her opponent’s abilities so can bully them without letting them fight back. She also has quite large breasts and is skilled in the art of paizuri. Although her abilities might seem average for a lower-class succubus; she’s skilled at disguising her succubus aura to the point it can't be detected by lower ranked cardmasters. She was exposed by Eruru due to her high-ranked cardmaster magic observation skills. If she hadn’t been exposed; she would’ve weakened her and the protagonist while they were unaware and drained them with no hope of resistance.
+下級サキュバスとして一見平凡な能力に見えるが魔力を隠すのが得意であり、たいていのカードマスターには見抜かれない擬装ができる。エルルは魔力観察については上位ランクのマスター並みの実力があるため、今回は擬装がバレてしまった。もし何も気が付かなければ、完全に油断したところをいつの間にかキノコの力で弱体化させられて、一方的に精を搾り取られてしまっていただろう。,Although her abilities might seem average for a lower-class succubus; she’s skilled at hiding her own magical power so that your average cardmasters cannot see it. She was exposed by Elulu because she had magic observation skills on par with a high-ranked cardmaster. If she hadn’t been exposed; she would’ve weakened her foes while they were unaware and drained their energy one-sidedly.
+村娘に化けていた下級サキュバス。キノコのカードを好んで使う。純真そうな見た目でありながら、相手の能力を下げて無力化し一方的にいたぶるのが好きというサディスティックな一面を持つ。胸が体格の割に大きく、パイズリが得意。\n下級サキュバスとして一見平凡な能力に見えるが魔力を隠すのが得意であり、たいていのカードマスターには見抜かれない擬装ができる。エルルは魔力観察については上位ランクのマスター並みの実力があるため、今回は擬装がバレてしまった。もし何も気が付かなければ、完全に油断したところをいつの間にかキノコの力で弱体化させられて、一方的に精を搾り取られてしまっていただろう。,A lower-class succubus disguised as a village girl. Prefers to use mushroom cards. She looks innocent; but has a sadistic side that enjoys lowering her opponent’s abilities so can bully them without letting them fight back. She also has quite large breasts and is skilled in the art of paizuri. Although her abilities might seem average for a lower-class succubus; she’s skilled at disguising her succubus aura to the point it can't be detected by lower ranked cardmasters. She was exposed by Elulu due to her high-ranked cardmaster magic observation skills. If she hadn’t been exposed; she would’ve weakened her and the protagonist while they were unaware and drained them with no hope of resistance.
 導入イベントをスキップしますか？,Do you want to skip the introduction?
 はい,Yes
 いいえ,No
@@ -23,20 +23,20 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 なるほど。,Got it!
 とはいえ新人マスターさんはまだ調査などは不慣れでしょうから、\n今回はパートナーをつけさせてもらいますね。,That being said; a newbie cardmaster might not be familiar with how to do investigations. That’s why we brought you a partner to help.
 そう言うと受付のお姉さんは、部屋の奥の方を見て手招きをした。,As the receptionist lady says that; she signaled to someone else in the room.
-こんにちは。わたしはエルル。\nDランクのカードマスターよ。はじめまして。,Hello; I’m Eruru. A D-rank cardmaster. Heya.
+こんにちは。わたしはエルル。\nDランクのカードマスターよ。はじめまして。,Hello; I’m Elulu. A D-rank cardmaster. Heya.
 あなたは、まだこの街に来たばかりでしょう？\nカードも初心者なんだっけ？,Didn’t you just come to this town recently? And you’re a newbie cardmaster too?
 ふむふむ。なるほど。修行は長くやってきたけど、\n実戦経験はあまりない感じなのね。\nわかったわ。,Hmm; I see. You’ve been training for a long time; but you don’t have much actual combat experience.
 まあ、FランクからDランクに\nあっという間に上がってきているんだし、実力は間違いなさそうね。\n期待してるわ。,Well; if you got from F-rank to D-rank in such a short time then I’m sure you’ve got the strength to back it up. I’m expecting a lot from you.
 それで、わたしは魔力の痕跡を調査したり\n偵察任務を行うのが専門分野なの。,You see; I specialize in investigating traces of magical power and carrying out reconnaissance missions.
 今回のクエストでは、君が戦ったっていうサキュバスのことを\nわたしの能力で調べようってわけ。わかった？,For this quest; I’ll be using my abilities to investigate more about that succubus you fought. Got it?
-こんにちは。わたしはエルル。\nDランクのカードマスターよ。って、あら…。,Hello; I’m Eruru. A D-rank cardmaster. Good to meet... wait...
+こんにちは。わたしはエルル。\nDランクのカードマスターよ。って、あら…。,Hello; I’m Elulu. A D-rank cardmaster. Good to meet... wait...
 あなた、わたしと何回か戦ったことがあるわね。\n覚えている？ほら…❤,We’ve fought multiple times before; right? You remember right? Look...❤
-エルルはにやにやした顔で、手でわっかを作り、からかうように上下に動かして見せつけてきた。,Eruru formed a ring using her fingers with a wide grin on her face; and began to teasingly pumping it up and down right in front of me.
+エルルはにやにやした顔で、手でわっかを作り、からかうように上下に動かして見せつけてきた。,Elulu formed a ring using her fingers with a wide grin on her face; and began to teasingly pumping it up and down right in front of me.
 うふふ。わたしの手コキでイかされちゃってた子が、\nもうＤランクに挑戦かぁ…。\nずいぶんと頑張ったじゃない♪,Ufufu; the kid who came from my handjob is now about to try getting D-rank... You must’ve worked so hard～♪
 そうだ。頑張ったあなたに、\nあとで気持ちいい"ご・ほ・う・び"あげよっか？\nくすくす❤,Right; since you’ve worked so hard; how about I give you a pleasurable “reward” after this? Teehee～
 あううっ・・・・❤,Ahh...
 あは、顔を真っ赤にしちゃってかわいいー♪\n人前でこういうことされたら恥ずかしいわよね。ごめんごめん♪,Aha; it’s so cute how your face is all beet red～♪ Sorry; saying that in front of everyone must’ve been really embarassing♪
-エルルはにやにやした顔で、胸を寄せ上げると、からかうように上下に動かして見せつけてきた。,Eruru pushed her breasts together with a big grin on her face and began to tease me by bouncing them up and down.
+エルルはにやにやした顔で、胸を寄せ上げると、からかうように上下に動かして見せつけてきた。,Elulu pushed her breasts together with a big grin on her face and began to tease me by bouncing them up and down.
 うふふ。わたしのしもべに負けて、\nパイズリで何回もイかされちゃってた子が、\nもうＤランクに挑戦かぁ…。ずいぶんと頑張ったじゃない♪,Ufufu; the kid who lost to my subordinate and came multiple times from a titjob is now trying to reach D-rank... You must be working hard～♪
 頑張ったあなたには、\nあとで気持ちいい"ごほうび"あげよっか？\nキャロルとわたしでダブルパイズリとか…❤くすくす❤,How about a pleasurable “reward” afterwards for being such a hard working kid? Maybe Carol and I could give you a double titjob...
 あは、想像しちゃったんだ❤\n前かがみになっちゃってかわいいー♪,Aha; you’re imagining it～❤ You're so cute when you're lost in thought～♪
@@ -47,20 +47,20 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 うふふ。わたしの手コキで気持ちよくなって、\nそのすきにモンスターにやられちゃった子が、\nもうＤランクに挑戦かぁ…。ずいぶんと頑張ったじゃない♪,Ufufu; the kid who went along with my handjob services and let my monsters do whatever they want is now applying for D-rank... You must’ve worked so hard～♪
 それで、クエストについてだけどね、\nわたしって戦闘以外でも偵察とか調査が得意なの。\n魔力の痕跡を探って、敵の居場所を突き止めたりできるのよ。,So about the quest; I specialize in investigating traces of magical energy and carrying out reconnaissance missions. I can search for traces of magical energy and identify the locations of enemies.
 君が戦ったっていうサキュバスのことを、\nその力で調べようってわけ。わかった？,I’ll be using those abitlies to help us investigate more about the succubus that you fought. Got it?
-エルルさん、ご説明ありがとうございます。,Thank you for your explanation; Eruru.
+エルルさん、ご説明ありがとうございます。,Thank you for your explanation; Elulu.
 今回のクエストの目的はサキュバスの痕跡調査です。\n退治が目的ではありません。ないとは思いますが、万が一ほかのサキュバスに遭遇しても素早く撤退するよう心がけてください。,The goal of this quest is to investigate; not to exterminate. I don’t think this would happen; but in the unlikely event that you do encounter a succubus; please retreat immediately.
 それでは、はじめてのクエスト頑張ってきてくださいね！,Well then; good luck on your very first quest!
-そういうわけで僕はエルルさんと一緒に、以前サキュバスに襲われた場所へと向かったのだった。,And thus; me and Eruru headed to the location where I was attacked by the succubus.
+そういうわけで僕はエルルさんと一緒に、以前サキュバスに襲われた場所へと向かったのだった。,And thus; me and Elulu headed to the location where I was attacked by the succubus.
 ここでサキュバスに会いました。,I met the succubus over here.
 ふーん。そのサキュバスはどんな見た目で、\nどんなカードを使ってきたの？,Hmm; what did that succubus look like at that the time; and what kind of cards did she use?
-僕は、サキュバスは小柄な少女の姿をしていたこと、スライム系のカードを使ってきたことなどを説明した。また戦いの様子も思い出せる限りエルルに話した。エルルさんはそれを聞いてしきりにうなずいている。,I explained to her that the succubus took the form of a girl with a small stature and used slime-type cards. I also told her as much as I could remember about my fight with the succubus. Eruru listened to the story and nodded multiple times.
+僕は、サキュバスは小柄な少女の姿をしていたこと、スライム系のカードを使ってきたことなどを説明した。また戦いの様子も思い出せる限りエルルに話した。エルルさんはそれを聞いてしきりにうなずいている。,I explained to her that the succubus took the form of a girl with a small stature and used slime-type cards. I also told her as much as I could remember about my fight with the succubus. Elulu listened to the story and nodded multiple times.
 なるほどねー。ってことは…。,I see. Then in that case...
 たぶんこれがそのときの魔力の跡かな。,These are probably the traces of magic energy from then.
-そう言ってエルルさんは地面の一か所を指さしてみせた。僕はその場所を目を凝らして見てみたが何も見えない。ただの地面だ。,As Eruru said that; she pointed at a location on the ground. I tried to take a hard look; but I couldn't see anything.
+そう言ってエルルさんは地面の一か所を指さしてみせた。僕はその場所を目を凝らして見てみたが何も見えない。ただの地面だ。,As Elulu said that; she pointed at a location on the ground. I tried to take a hard look; but I couldn't see anything.
 んふふ。そんな簡単にわかるものなのかって？\nなにせわたし天才だからさー。ランクこそDだけど、\n調査の実力だけで言えばBランクぐらいの能力があるのよ。,Hehe; how could I easily find it? Well; I am a genius after all. My rank might only be D; but when it comes to pure investigation skills; I'm easily B-rank!
 ただ…。うーん、少し気になる部分もあるし、\nもうちょっと詳しく見たほうがいいかもね。カードを使うわよ。,It’s just that... Hmm; something still feels a little off. It might be worthwhile to look into it further. I’m going to use my card.
 わたしたちを対象にカードを発動、「アナライズ」！,Magic card; “Analyze” activate!
-エルルさんがカードを発動させると、目がほんのり熱を帯びてくるのを感じる。すると、さっきまで見えなかった魔力の痕跡がはっきりと視界に浮かび上がってきた。,When Eruru used her card; I could feel a faint heat in my eyes; and the traces of magical energy that weren't visible to me earlier gradually came into view.
+エルルさんがカードを発動させると、目がほんのり熱を帯びてくるのを感じる。すると、さっきまで見えなかった魔力の痕跡がはっきりと視界に浮かび上がってきた。,When Elulu used her card; I could feel a faint heat in my eyes; and the traces of magical energy that weren't visible to me earlier gradually came into view.
 ふふ、便利な魔法でしょ？そこの岩についた青色の魔力が見えるかしら。\n道端にこんなに濃く魔力が付くことは普通ないから、\nあなたが戦闘したときの跡で間違いないと思うわ。,Fufu. Useful spell; ain't it? Do you see that blue-colored magic energy on that rock over there? A strong trace like that on the side of the road isn’t normal at all. It was definitely left behind during your fight.
 サキュバス特有の邪気も感じるし、\n水属性の魔力だってのも一致しているわね。,I can even feel an aura commonly associated with succubi here; and it's also Water Attribute; which matches your story.
 問題は、こっちの青い跡。\n同じサキュバスの魔力だと思うんだけど…、\nそれにしてはこれ、かなり新しいの。,The problem is these blue traces; though. I think they’re traces of magical energy from the same succubus... but they seem pretty new.
@@ -75,7 +75,7 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 向こうもこちらに気づいたらしく、にこにこしながらこちらを見て手を振っている。彼女にサキュバスについて話を聞いてみるのもいいかもしれない。,She quickly spots us; smiling and waving our way. Maybe we can ask her if she’s seen any succubi around.
 あのすみません、この辺で怪しい姿を…。,Sorry to bother you; but have you seen anyone suspici-
 待って。あの子の体をよく見て。,Hold on a second. Look at her body more closely.
-そう言ってエルルさんは急に僕を制止した。,Eruru held her arm in front of me; stopping me in my tracks.
+そう言ってエルルさんは急に僕を制止した。,Elulu held her arm in front of me; stopping me in my tracks.
 あの子、サキュバスの魔力が服についている。\n青色で、それもかなり新しいやつ。,That girl; there's succubus magic clinging to her clothes. It's blue; and quite fresh as well.
 言われてみれば、服や手の一部に青い光が見える。「アナライズ」の効果がかかっていなければわからなかっただろう。,Now that she mentioned it; I could see blue light on parts of her clothes and hands. I probably wouldn't have noticed without the "Analyze" effect active.
 どうしたんですか？こんな森の中に…。\n見た感じ、この辺の村の人じゃなさそうですけど。,What's the matter? Why are you in these woods...? Judging by your appearance; you don't seem to be from any of the villages around her-
@@ -87,7 +87,7 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 きゃあ！,Aaaah!!
 あは、背中が隙だらけですよ❤\nおっきいおっぱいのあなたの体、\nわたしのスライムでぐちゅぐちゅにしちゃいます❤,Aha; you left yourself wide open~❤ Those huge boobs of yours won't stand a chance all sticky and wet with my slime~❤
 くう、離れろっ！このっ！,Ugh; let go of me!
-エルルは体にまとわりついてきたスライムサキュバスをなんとか振り払った！しかし、状況はかなりまずい。完全に挟み撃ちだ！,Eruru managed to shake off the slime coiling around her body; but the situation had taken a turn for the worse— we were being flanked on both sides!
+エルルは体にまとわりついてきたスライムサキュバスをなんとか振り払った！しかし、状況はかなりまずい。完全に挟み撃ちだ！,Elulu managed to shake off the slime coiling around her body; but the situation had taken a turn for the worse— we were being flanked on both sides!
 こうなったら覚悟を決めるわよ！\nわたしがこっちを相手するから\nあなたはそっちのサキュバスをお願い！,If it's come to this; I'm not going to pull any punches! Leave this one to me. You deal with the other one!
 わかりました！,Got it!
 こんな相手楽勝です！,Someone like her will be a piece of cake!
@@ -100,14 +100,14 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 あううっ…❤,Uwaa...❤
 くすくす❤頭の中ぼんやりしているうちに、\nパイズリとかぱふぱふで、たっぷり搾り取ってあげるね❤,Teehee~❤ I'll thoroughly drain you dry using my Paizuri and Puff-Puff skills while your mind is all hazy and fuzzy~❤
 はぁ、はぁ、なんとか倒したぞ…。,Hah.. ahh... Somehow; I managed to beat her...
-サキュバスはとどめをさされると光の粒になり消えていった。僕は急いで背後を振り返る。エルルさんがまだ戦っているはずだ…！,The slain succubus shattered into a burst of light. I turned back and rushed to Eruru. She should still be fighting that other succubus...!
+サキュバスはとどめをさされると光の粒になり消えていった。僕は急いで背後を振り返る。エルルさんがまだ戦っているはずだ…！,The slain succubus shattered into a burst of light. I turned back and rushed to Elulu. She should still be fighting that other succubus...!
 くっ、サキュバスはやっぱり強い…！,Kuh; she really is strong...!
 援護します！,I’ll back you up!
 僕は敵のスライムサキュバスめがけて魔法カードで攻撃をしかけた！,I aimed at the enemy slime succubus with my spell cards and launched an attack!
 きゃあ！うそ、フラワーちゃん負けちゃったの！,Kyaa! Unbelievable; how could Mycella lose!?
 わたしのモンスターたち、チャンスよ！\n相手プレイヤーにダイレクトアタック！,Now’s our chance! Monsters; launch a direct attack on the opponent!
 あうう、復活してすぐじゃなければ…。,Augh; if only I hadn't just been resurrected...
-エルルの指示でモンスターたちがとどめをさす。エルルに倒されたサキュバスは、その場で霧のように消えてしまった。,The monsters ordered by Eruru landed the finishing blow. The defeated succubus vanished into mist.
+エルルの指示でモンスターたちがとどめをさす。エルルに倒されたサキュバスは、その場で霧のように消えてしまった。,The monsters ordered by Elulu landed the finishing blow. The defeated succubus vanished into mist.
 はぁ、ふう…。なんとかなったわね…。そっちは大丈夫？,Phew... Somehow we managed to scrape by...Are you alright?
 無事倒せました。,I managed to beat her.
 へえ、きみなかなかすごいのね。\n男なのにサキュバス相手に１対１で勝てるなんて、かなりのものよ。,Wow; that’s pretty impressive of you. A male winning against a succubus one-on-one is quite a feat.
@@ -142,7 +142,7 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 もしも王族とかだったなら、\n人質にしたり洗脳するために襲撃をしかけるかもしれないけれど、\nモルゲンにそんな人が来ているって話は聞かないし…。うーむ。,If you were royalty; then they could launch a surprise attack and take you hostage to brainwash you; but I haven’t heard of such a royal coming to Morgen... Hmm...
 まあなんにしても今後の調査次第よね。\n他に潜んでいるサキュバスがいるかもしれないけれど、\nとりあえずわたしたちはこのまま大会を頑張っていくしかないわ。,In either case; it’ll depend on how the investigations turn out later. There might still be other succubi lurking; but for now we should focus on the tournament and do our best there.
 あなたにランクで追いつかれちゃったし、\nわたしも頑張らないと！それじゃあね。,You caught up with my rank; so I’ll have to work even harder from now on! Well; I’ll be going now.
-僕はエルルさんと別れ、宿屋へと戻った。初めてのクエストで体はもうクタクタだ。,I parted ways with Eruru and returned back to my room at the inn. I’m exhausted from my first quest.
+僕はエルルさんと別れ、宿屋へと戻った。初めてのクエストで体はもうクタクタだ。,I parted ways with Elulu and returned back to my room at the inn. I’m exhausted from my first quest.
 サキュバスたちの姿が見え始め、少し不穏な気配も感じるが、僕はただランクをあげることに集中しよう。師匠に言われた目標のAランクまであと３ランクだ！,I feel a bit uneasy after seeing succubi start to appear; but I have to focus on ranking up first. The A-rank my master told me to aim for is still three ranks away!
 あなたのターンからだね！くすくす❤おっぱいに見とれてて大丈夫？,It’s your turn! Teehee～❤ Are you sure you’ll be ok fighting with my boobs constantly in your field of view?
 ほら、また見ていいよ❤戦う前からおっぱいにメロメロになっちゃえ❤,Hora~ You can stare at them again if you like~❤ Go on and fall in love with my boobs before we start fighting~❤
@@ -348,11 +348,11 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 あーあ、仲間のマスターもいるのにオナニーで自爆しちゃった❤人間の男っておちんちんに素直すぎでしょ。バカみたいだね❤くすくす❤,Aww～❤ Even though your friend was with you; you couldn't help sabotaging yourself and stroking your dick in front of my tits~❤ Human males are too honest with their dicks. You look like a fool~❤ Teehee~❤
 あは、パンツですりすりしているだけなのに、もうイっちゃったんだー❤サキュバスにこんな恥ずかしい形で負けるなんてみじめー❤くすくす❤,Aha; I just rubbed my panties on you and you came from that～❤ Losing to a succubus in such an embarassing state; isn’t that just so miserable?❤ Teehee～❤
 んふふ❤おっぱいにたくさん出てる。パイズリに全然我慢できなかったねー。くすくす❤,Fufu～❤ You came on my boobs so much. I guess my titjob was just that irresistable. Teehee～❤
-キノコ使いのサキュバスは、主人公が動けなくなったのを見ると、スライム使いのサキュバスと戦うエルルに手下のキノコ娘たちを差し向けた。,The mushroom-using succubus sent her mushroom subordinates to help the slime-using succubus that was fighting against Eruru.
-ふたりのサキュバスに挟み撃ちをされてしまったエルルに成すすべはなく、あっという間に組み伏せられてしまう。,Attacked on both sides by two succubi; Eruru was easily defeated and held down by them in no time.
+キノコ使いのサキュバスは、主人公が動けなくなったのを見ると、スライム使いのサキュバスと戦うエルルに手下のキノコ娘たちを差し向けた。,The mushroom-using succubus sent her mushroom subordinates to help the slime-using succubus that was fighting against Elulu.
+ふたりのサキュバスに挟み撃ちをされてしまったエルルに成すすべはなく、あっという間に組み伏せられてしまう。,Attacked on both sides by two succubi; Elulu was easily defeated and held down by them in no time.
 必死の抵抗を試みるエルルだったが、スライム使いのサキュバスに唇を奪われ、おとなしくなってしまった。彼女がどうなってしまうのか。僕にはわからない。,She tried to desperately resist; but the slime-using succubus kissed her on the lips; and she quickly turned silent. I don't know what happened to her after that.
-僕はエルルが連れ去られていく様子を、快感にしびれぼんやりとした頭の中で、ただ見ていることしかできなかった。,With my head still numb and hazy from pleasure; I could only watch as Eruru was taken away.
-そんな・・・。エルルさん・・・。,No... Eruru...
+僕はエルルが連れ去られていく様子を、快感にしびれぼんやりとした頭の中で、ただ見ていることしかできなかった。,With my head still numb and hazy from pleasure; I could only watch as Elulu was taken away.
+そんな・・・。エルルさん・・・。,No... Elulu...
 くすくす❤マスターくんがわたしに負けたせいで仲間の女の子も捕まっちゃったね❤,Teehee～❤ Since you lost; it’s your fault she got caught～❤
 あの子がどうなるのか気になるの？自分でオナニーして負けちゃったくせに❤いまさらカッコつけても遅いんじゃないのかなー❤,Are you curious about what will happen to her? Even though you went and masturbated and lost on your own?❤ It's too late to try and act cool now~❤
 あの子がどうなるのか気になるの？おっぱいに負けてどぴゅどぴゅしちゃったくせに、いまさら仲間のことを気にしても遅いんじゃないかなー❤,Are you curious about what will happen to her? Even though you lost to my boobs and splurted everything out? It’s too late to worry about your friend~❤
@@ -365,7 +365,7 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 わたし、あの子にごめんなさいした方がいいと思うな。そう思わない？ねぇ❤ねぇねぇ❤,If you ask me; you should be apologizing to that girl. Don’t you think so? Hey; answer me~❤
 あうっ❤ううっ・・・❤,Ahh~❤ Ugh...❤
 ボクのちょろマゾおちんちんのせいですって❤ごめんなさいって❤ほーら、早くあの子に謝って❤,Come on; hurry up and apologize to her~❤ Tell her; “It’s because I have a pushover; masochist dick~❤ I’m so sorry~❤” 
-はううっ❤、ごめっ❤エルルさっ❤ごめんなさい・・・❤,Hauuu～❤ I...❤ Eruru...❤ I’m sorry...❤
+はううっ❤、ごめっ❤エルルさっ❤ごめんなさい・・・❤,Hauuu～❤ I...❤ Elulu...❤ I’m sorry...❤
 あはは、マスターくん。泣きそうな顔になってる❤いまさら罪悪感でも感じてるのかな？もう手遅れなのに。,Ahaha; Cardmaster; are you bawling your eyes out?❤ Are you starting to feel guilty now? But it’s too late for that.
 精液ってねぇ、心の中がぐちゃぐちゃの時の方がおいしいんだよ？いまのマスターくんの精液はとってもおいしそう❤,Did you know that your semen tastes much better when you're in deep anguish? And right now your mana is looking especially delicious~❤
 罪悪感があってもさぁ、おちんちんおっぱいでズリズリされたら、気持ちよくて気持ちよくてどうにもならないんだよね❤,Even if you feel guilty; when your cock is rubbed between my breasts like this; the pleasure is so intense that you simply can't help yourself; isn't that right?❤
@@ -386,6 +386,6 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 これで打ち止めかな？おっぱいの中、べとべとになっちゃった❤んー❤魔力の質もいいし、仲間を裏切った罪悪感でいい味してる❤,So was that everything? My breasts are all sticky now~❤ Mmm~❤ Not only was the quality of his magical energy good; but the guilt from betraying his comrades adds such a delicious flavor.❤
 このまま吸い殺しちゃおうと思ったけど、これならお持ち帰りしてもいいかも。マスターくんの泣きそうな顔、面白かったし❤,I was planning on draining him to death; but maybe I’ll take him back instead. That cardmaster’s bawling face was just so hillarious~❤
 よいしょっと。そうだ❤帰ったらあの子の前でしてみようかな❤とっても楽しそう、あはは❤,There we go! Ooh; I just realized~❤ When I get back; I should give him paizuri in front of that girl too~❤ I can’t wait. Ahaha!❤
-こうして主人公は、探索中に遭遇したキノコ使いの淫魔に負け、エルルと共に連れ去られてしまった。,Thus; the protagonist lost to the mushroom-using succubus during the investigation. Both the protagonist and Eruru were then taken away.
+こうして主人公は、探索中に遭遇したキノコ使いの淫魔に負け、エルルと共に連れ去られてしまった。,Thus; the protagonist lost to the mushroom-using succubus during the investigation. Both the protagonist and Elulu were then taken away.
 ギルドが異変に気付いた時には遅く、主人公たちの足取りは完全に途絶えてしまっていた。,When the guild realized something was wrong; it was too late. Their trail had completely disappeared.
 その後、彼らの姿を見た者はいない。主人公の妹を探す冒険はこうして終わりを迎えたのだった。,After that; both of them were never seen again. Thus; the protagonist’s adventure to save his sister met its untimely end.
