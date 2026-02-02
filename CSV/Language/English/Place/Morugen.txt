@@ -104,7 +104,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 妹を助ける手段が見つかる日も近いかもしれない。手紙の返事が来るまで、せっせと修行に励んで、少しでも上のランクを目指すことにしよう！,The day may soon come when I will find the means to help my sister. Until I receive a reply to my letter; I'll continue to train and hopefully reach a higher rank!
 僕はサキュバス化治療術を練習するため、ネクロさんのいる牢屋に来ていた。,I had come to visit Necro in the prison to practise the succubusification healing technique.
 うふふ、楽しい実験の時間ね。\nこうやって研究に没頭できるなら、牢屋も案外悪くないわ。\nってあら・・・？誰かしら？,Ufufu; it's time for some fun experiments. Prison is not so bad if I can get absorbed in my research like this. Oh...? Who is it?
-ネクロさんに言われて振り向くと、後ろから誰かがこちらにやってきている。あの緑色の髪と長い耳、エイライラ先生だ。,I turn around at Necro's question to see someone coming up behind me. It's Elaira; her green hair and long ears showing. (translator: might need a check on this)
+ネクロさんに言われて振り向くと、後ろから誰かがこちらにやってきている。あの緑色の髪と長い耳、エイライラ先生だ。,I turn around at Necro's question to see someone coming up behind me. It's Miss Elaira; with her green hair and long ears showing.
 やぁ、はじめまして。ネクロくん。\nわたしはエイライラ。\nモルゲンの学園でサキュバスについて研究しているものだよ。,Hello. Nice to meet you; Necro. My name is Elaira. I'm studying succubi at the Academy of Morgen.
 きみの研究の話を聞いて、\nわたしも研究者のはしくれとして、\n大変興味深く思ってね。見学に来たんだ。,When I heard about your research; I; as a researcher myself; was very interested. I came to observe.
 はわぁ、あっ、えっと・・・。\nその、ありがとうございます。あわわ・・・。,Hah wow; oh; um... Well; thank you very much. Umm...
@@ -158,7 +158,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 万が一悪用されれば、城がすぐに落とされてしまうかもしれない。\nだから許可がないと「転移の間」に入ることもできないし、,If it were to be abused; the castle could be quickly brought down. So you can't even enter the ‘transition room’ without permission.
 利用するときも、転移元と転移先の両側で、\nお互いにどこにつなぐかを一致させたうえで、\n大量の魔力を込め続けてやっと動かせるようになっているの。,When using it; both the source and destination sides have to agree on when to connect to each other; and then they have to keep putting large amounts of magic power into it.
 なるほど。転移陣というと便利な道具だとしか思わなかったが、同時に悪用されたら非常に危険なものでもあるのか。,I see. I only thought of the teleportation circle as a useful tool; but at the same time it can be very dangerous if misused.
-わたしも動いているのをこの目で見たのは初めてね。\nリーフ師匠ったら「一緒に転移陣を使いましょう」ですって。\nあんなこと言われちゃったら・・・。,It's the first time I've seen it in action. Leaf said; ‘let's use the teleportation circle together’. If she said that to me... (translator: not quite sure what to with this phrase)
+わたしも動いているのをこの目で見たのは初めてね。\nリーフ師匠ったら「一緒に転移陣を使いましょう」ですって。\nあんなこと言われちゃったら・・・。,It's the first time I've seen anything like this. Master Leaf said; ‘let's use the teleportation circle together’. If she says something like that then...
 わたしもうかうかしてられないわ！\nAランク昇格に向けて頑張らないと！,I can't afford to sit on my hands! I have to work hard to get promoted to A-rank!
 もちろんあなたもよ、弟子。\nネクロのところでサキュバス化を治す術を練習しつつ、\n試合、どんどん頑張りなさい！,Of course; my disciple. Practice the succubusification healing at Necro's place; and keep up the good work with the matches!
 いままで通りであれば、連勝を維持していれば、Aランク昇格もそう遠くはないはずだ。師匠と僕と、二人でＡランクを目指すなら、もしかしたら、闘技場で師匠と戦う、なんてこともあるのだろうか？,If I continue as before and maintain my winning streak; promotion to A-rank shouldn't be too far away. If both my mentor and I aim for A-rank; does that mean there is a chance that I'll have to fight her in the arena?
@@ -173,12 +173,12 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 師匠と同じBランクになって、僕も順調に勝利を重ねてきた。この街に来たばかりの時と比べて、魔力が遥かに強くなったのを感じる。今なら、師匠に勝つこともできるのだろうか。,I've reached the same rank as my mentor; and I've been winning steadily; too. Compared to when I first came to this city; I feel that my magical power has become far stronger. I wonder if I can beat her now.
 師匠には子供のとき命を助けてもらい、そこからこの年になるまで面倒を見てもらった恩がある。そのうえ毎日稽古もつけてくれて、今の自分があるのは師匠がいたからだ。,I owe my mentor for saving my life when I was a child; and taking care of me until now. She also gave me training every day; and I am the person I am today because of her.
 成長し強くなった姿を見せることが、弟子として、１つの恩返しになるかもしれない。僕は師匠との手合わせに向けて、恥ずかしくない勝負をしよう、と決意を固めたのだった。,As her disciple; it might be one way of returning the kindness by showing that I have grown up and become stronger. I made up my mind that I would not be afraid to compete with my mentor.
-クエスト「師匠との手合わせ」が追加されました,The quest ‘Fight with Mentor’ has been added. (translator: the quest name I am uncertain about)
+クエスト「師匠との手合わせ」が追加されました,The quest ‘A bout with your mentor’ has been added.
 やあ、こんにちは。\n話・・・？\nええと、長くないならいいよ。,Hi there. Talk...? Um; okay; if it's not too long.
 いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,No; I'm impatient; and I don't like to listen to other people's stories. I want to skip the whole thing.
 イベントのスキップについて,About skipping events
 スキップ操作,Skip event
-会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,Conversations & performances can be skipped by pressing the right mouse button. Skipping is stopped; when releasing the button. (translator: this line needs to be looked at.)
+会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,Dialogues can be fast-forwarded by keeping the right mouse button pressed. Fast-forwarding will stop as soon as the button is released.
 会話や演出などは、二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,Conversations and performances can be skipped by touching the screen with two fingers. Skipping is stopped when the fingers are released.
 兵士であるわたしたちはカードマスターであることもありますが、\n多くは非カードマスターです。,As soldiers; some of us may be cardmasters; but many of us are not.
 人数で言えば、カードマスターより非カードマスターの方が多いため、\n犯罪なども普通の人間が犯す数の方が多いのです。\nだからこそ非力な我々であっても兵士が務まります。,In terms of numbers; there are more non-cardmasters than cardmasters; and therefore more crimes are committed by ordinary people. That is why even we; who are not cardmasters; can serve as soldiers.
