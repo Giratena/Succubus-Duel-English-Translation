@@ -178,7 +178,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,No; I'm impatient; and I don't like to listen to other people's stories. I want to skip the whole thing.
 イベントのスキップについて,About skipping events
 スキップ操作,Skip event
-会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,Dialogues can be fast-forwarded by keeping the right mouse button pressed. Fast-forwarding will stop as soon as the button is released.
+会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,Dialogue can be fast-forwarded by keeping the right mouse button pressed. Fast-forwarding will stop as soon as the button is released.
 会話や演出などは、二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,Conversations and performances can be skipped by touching the screen with two fingers. Skipping is stopped when the fingers are released.
 兵士であるわたしたちはカードマスターであることもありますが、\n多くは非カードマスターです。,As soldiers; some of us may be cardmasters; but many of us are not.
 人数で言えば、カードマスターより非カードマスターの方が多いため、\n犯罪なども普通の人間が犯す数の方が多いのです。\nだからこそ非力な我々であっても兵士が務まります。,In terms of numbers; there are more non-cardmasters than cardmasters; and therefore more crimes are committed by ordinary people. That is why even we; who are not cardmasters; can serve as soldiers.
