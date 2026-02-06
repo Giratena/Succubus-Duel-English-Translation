@@ -5,10 +5,10 @@ F27_kissAnime,
 F27_handJobAnime,
 F27_bustShakeAnime,
 F27_paizuriAnime,
-OPイベントをスキップしますか？,
+OPイベントをスキップしますか？,Would you like to skip the opening scene?
 はい,Yes
-OPをスキップ,
-勝利後までスキップ,
+OPをスキップ,Skip the opening
+勝利後までスキップ,Skip to before the fight
 時刻は夕暮れ時、もうすぐ師匠と約束した時間だ。,
 師匠との待ち合わせ場所に向かって街を歩いていると、遠くにエルルさんが見えた。,
 やっほー、{主人公}。\nどうしたの？ギルドに何か用事？,
