@@ -10,17 +10,17 @@ OPイベントをスキップしますか？,Would you like to skip the opening 
 はい,Yes
 OPをスキップ,Skip the opening
 勝利後までスキップ,Skip to before the fight
-時刻は夕暮れ時、もうすぐ師匠と約束した時間だ。,The time is dusk; soon it will be the hour I promised to meet my mentor.
-師匠との待ち合わせ場所に向かって街を歩いていると、遠くにエルルさんが見えた。,As I was walking through town toward the meeting place with my master; I spotted Elrul in the distance.
-やっほー、{主人公}。\nどうしたの？ギルドに何か用事？,Yoohoo; {主人公}.\nWhat's up? Do you have business at the guild?
-へー、ギルドの近くの建物で、あなたの師匠と手合わせをするんだ。\nわたしもね、ギルドにちょっと用事があって\n今向かっているところだったのよ。,Oh; so you're going to spar with your master in a building near the guild.\nActually; I also have some business at the guild—I was just heading there myself.
-ふふ、実はね。ついにCランクに上がったの！\nすごいでしょ？,Fufufu; actually; I finally made it to C-rank!\nPretty amazing; right?
-ってAランクに上がりそうなあなたに自慢するのも変な話だけれど。\nでもあなたに会ったことが一つの刺激になって、\nこれだけ頑張れたから、あなたには報告しておきたかったの。,Though it's kind of weird bragging to you when you're about to hit A-rank.\nBut meeting you gave me the push I needed to work this hard; so I wanted to let you know.
-ああ、ここまで大変だったわ。\nDランクのみんな強いし、昇格戦までだいぶ時間がかかちゃった。,Ahh; it was such a struggle getting here.\nAll the D-rankers are so strong; it took me forever just to qualify for the promotion match.
-ほら、見て。デッキに新しく入れたサキュバスのカード。\nこのカードのおかげで最近は連勝中なの。\nやっぱり強いカードを使うのが近道よね♪,Look; check this out—a succubus card I just added to my deck.\nThanks to this card; I've been on a winning streak lately.\nUsing powerful cards really is the shortcut; huh?♪
-あなたにはとても追いつけないかもしれないけれど、\nわたしはわたしのペースで一歩一歩強くなる。\nいつかAランクにだってなってみせるわ。,I might never catch up to you;\nbut I'll keep getting stronger at my own pace; one step at a time.\nSomeday I'll make it to A-rank too—just you watch.
+時刻は夕暮れ時、もうすぐ師匠と約束した時間だ。,It's dusk. Nearly time to meet with my Master; as promised.
+師匠との待ち合わせ場所に向かって街を歩いていると、遠くにエルルさんが見えた。,As I walked towards the place where I would meet my master; I saw Elulu off in the distance. 
+やっほー、{主人公}。\nどうしたの？ギルドに何か用事？,Yoohoo; {主人公}. What's up? Do you have business at the guild?
+へー、ギルドの近くの建物で、あなたの師匠と手合わせをするんだ。\nわたしもね、ギルドにちょっと用事があって\n今向かっているところだったのよ。,No way! You're heading off to spar with your master in one of the buildings close to the guild? I was just heading that way myself; I have some business at the guild.
+ふふ、実はね。ついにCランクに上がったの！\nすごいでしょ？,Fufufu. The truth is; I finally made it to C-rank! Pretty amazing; right?
+ってAランクに上がりそうなあなたに自慢するのも変な話だけれど。\nでもあなたに会ったことが一つの刺激になって、\nこれだけ頑張れたから、あなたには報告しておきたかったの。,Though it's kind of weird bragging to you when you're about to hit A-rank. But meeting you gave me the push I needed to work this hard; so I felt like I needed to tell  you.
+ああ、ここまで大変だったわ。\nDランクのみんな強いし、昇格戦までだいぶ時間がかかちゃった。,Ahh; but getting to this point was such a struggle. All the D-rankers are so strong; it took me forever just to qualify for the promotion match...
+ほら、見て。デッキに新しく入れたサキュバスのカード。\nこのカードのおかげで最近は連勝中なの。\nやっぱり強いカードを使うのが近道よね♪,Look; check this out—this is a succubus card I just added to my deck. Thanks to this card; I've been on a winning streak lately. Using powerful cards really creates a kind of shortcut; doesn't it?♪
+あなたにはとても追いつけないかもしれないけれど、\nわたしはわたしのペースで一歩一歩強くなる。\nいつかAランクにだってなってみせるわ。,I might never catch up to you; but I'll keep getting stronger at my own pace; one step at a time. Someday I'll make it to A-rank too—just you watch~
 ・・・・♪,...♪
-ギルドの目の前まで来ると、エルルさんは手を振って、僕と分かれギルドの中に入っていった。中にはいつもより多く人がいるようだったが、何か集まりでもあるのだろうか。,When we reached the front of the guild; Elrul waved goodbye and headed inside while I went my separate way. There seemed to be more people than usual gathered in there—maybe some kind of meeting?
+ギルドの目の前まで来ると、エルルさんは手を振って、僕と分かれギルドの中に入っていった。中にはいつもより多く人がいるようだったが、何か集まりでもあるのだろうか。,When we reached the front of the guild; Elulu waved goodbye and headed inside while I went my separate way. There seemed to be more people than usual gathered in there—maybe some kind of meeting?
 いや、今はそんなことを気にしている場合ではない。師匠との試合に集中しよう。,No; now's not the time to worry about that. I need to focus on my match with my master.
 この街に来て、多くの戦いをこなしてきた。街でマスターたちと戦い、クエストでサキュバスを倒し、闘技場で試合をし…。時には格上との戦いもあったが、それを乗り越えてきた。,Since arriving in this town; I've fought countless battles. I've battled other masters in the streets; defeated succubi on quests; competed in the arena... Sometimes I faced opponents stronger than me; but I overcame those challenges.
 僕が修行してきた、その成果を、師匠に示すのだ。,Now it's time to show my master the results of all my training.
@@ -28,49 +28,49 @@ OPをスキップ,Skip the opening
 約束の建物に着いて、ドアをノックする。中で先に師匠が待っているはずだ。,I arrived at the designated building and knocked on the door. My master should already be waiting inside.
 ・・・・?,...?
 ノックをしても返事がないな。どうしたんだろう？,No answer to my knock. That's strange.
-何か用事があって、まだ着いてていないのだろうか。時間に厳しい師匠にしては、あまりなさそうな話だけれど…。,Could she have some errand and not arrived yet? That doesn't sound like my master; who's usually so strict about punctuality...
+何か用事があって、まだ着いてていないのだろうか。時間に厳しい師匠にしては、あまりなさそうな話だけれど…。,Could she have some errand and not arrived yet? That doesn't sound like my master; she's usually so strict about punctuality...
 少し待って、それからまたノックをしても反応がない。耳を当てると、ん・・・・？うめき声？のようなくぐもった声がかすかに聞こえる。,I waited a bit; then knocked again—still no response. When I pressed my ear to the door; I heard... hm...? A muffled voice; like someone groaning?
 僕はいぶかしく思いながら、ドアに手を伸ばした。鍵はかかっていない。中の様子をうかがうように、ゆっくりと引いてドアを開けた。,Feeling uneasy; I reached for the door handle. It wasn't locked. Slowly; I pulled it open to peek inside.
-夕暮れの薄暗い部屋の奥、師匠とおぼしき人影が見えた。なんだ先に来ていたのか、そう思い、部屋に一歩入ったそのとき、部屋に漂う甘ったるい香りと肌がひりつくような怪しい魔力に僕の足が止まる。,In the dim twilight gloom at the back of the room; I could see a figure that appeared to be my master. Oh; so she is here after all—but the moment I stepped inside; a sickeningly sweet fragrance and an ominous magical energy that made my skin prickle stopped me in my tracks.
+夕暮れの薄暗い部屋の奥、師匠とおぼしき人影が見えた。なんだ先に来ていたのか、そう思い、部屋に一歩入ったそのとき、部屋に漂う甘ったるい香りと肌がひりつくような怪しい魔力に僕の足が止まる。,In the dim twilight gloom at the back of the room; I could see a figure that appeared to be my master. Ah; so she is here after all—but the moment I stepped inside; a sickeningly sweet fragrance and an ominous magical energy that made my skin prickle stopped me in my tracks.
 奥にいるのは師匠のはずだ。間違いない。だけどそれと同時に、僕のカードマスターとしての直感が、何か危険な空気を感じ取っている。,That has to be my master back there. No doubt about it. But at the same time; my instincts as a card master were detecting something dangerous in the air.
-あら、弟子。\n遅かったわね。,Oh; my dear student.\nYou're late.
-ふふふ、どうしたのそんな入口のところで止まって。\nこっちへ来なさい。,Fufufu; why are you frozen there by the entrance?\nCome here.
+あら、弟子。\n遅かったわね。,Oh; my dear student. You're late.
+ふふふ、どうしたのそんな入口のところで止まって。\nこっちへ来なさい。,Fufufu; now now; don't just stand there at the entrance. Come here.
 師匠が僕に向けて手招きをする。僕は不穏なものを感じながら、また一歩部屋の中に進む。,My master beckoned me forward. Despite the ominous feeling; I took another step into the room.
 甘い匂いがどんどん濃くなる。嗅いでいるだけで、頭がふわふわとしてくる匂い。師匠の声が、鈴のようにリンと響いて耳に入り、その言葉に逆らいたくないと思ってしまう。何かおかしいと思っても、足が止まらない。,The sweet scent grew thicker and thicker. Just breathing it in made my head feel light and dizzy. My master's voice rang out like a bell; echoing in my ears; and I found myself not wanting to disobey her words. Even though I knew something was wrong; my feet wouldn't stop moving.
-そう、そのままおいで・・・❤\nわたしの手が触れるところまで❤,Yes; that's it; come to me...❤\nCome close enough for me to touch you...❤
+そう、そのままおいで・・・❤\nわたしの手が触れるところまで❤,Yes; that's it; come to me...❤ Close enough for me to touch you...❤
 ふらふらと歩いていくと、不意に小さいうめき声が横の方から聞こえた。,As I stumbled forward in a daze; I suddenly heard a faint groan from the side.
 うっ、あっ・・・。,Ungh; ahh...
 そこには、干からびかけた男の姿があった。街の人だろうか。ギルドの近くで露店か何かをやっているのを見たことがある。,There lay the withered husk of a man. A townsperson; perhaps? I remembered seeing him running a street stall near the guild.
 とろけた、うつろな目をして、力なく横たわっている。この状況、まるでそうこれは・・・。,His eyes were glazed and vacant; his body sprawled limply on the floor. This situation—it was just like...
-んっ、ふふ。いけないわ。\n手合わせの前の腹ごしらえだと思っていたのに…。\nまだ完全には吸い切れていなかったみたい❤,Mm; fufufu. Oops.\nI thought I'd have a little snack before our match...;\nbut it seems I didn't quite finish draining him dry.❤
-ねえ、弟子❤\nあなたもその男みたいに、天国を見たい？\nもし見たいなら、さあ、こちらへ来なさい・・・❤,Hey; my student...❤\nDo you want to see heaven like that man over there?\nIf you do; then come here...❤
+んっ、ふふ。いけないわ。\n手合わせの前の腹ごしらえだと思っていたのに…。\nまだ完全には吸い切れていなかったみたい❤,Mm; fufufu. Oops. I thought I'd have a little snack before our match...but it seems I didn't quite finish draining him dry.❤
+ねえ、弟子❤\nあなたもその男みたいに、天国を見たい？\nもし見たいなら、さあ、こちらへ来なさい・・・❤,Now; my student...❤ Do you want to experience heaven like that man over there? If you do; then come here...❤
 暗い部屋に慣れてきた目が、師匠の姿を捉えた。僕を手招きするその姿は、いつもよりも美しく、そして・・・。,My eyes; now adjusted to the darkness; focused on my master's form. Her figure beckoning me was more beautiful than ever; and also...
 悪魔の角と、大きな翼をそなえていた。,She had demon horns and massive wings.
 ・・・・！,...!
-くす❤逃げちゃダメよ。\nほら、ふぅー・・・❤,Aha.❤ Don't try to run away.\nHere; let me blow you a kiss... Fuuu~...❤
-驚いたのもつかの間、手を伸ばせば触れられるほどの距離に近づいていた僕に向けて、師匠は魅了の魔力がこもった桃色の吐息を吹き付ける。部屋に漂っていた甘い匂いを何倍にも煮詰めたようなその香りに、一瞬で頭の中がとろけてしまう。,Before the shock could even settle; my master closed the distance until she was within arm's reach—then exhaled a pink breath filled with charm magic directly at me. The scent was like the sweet aroma lingering in the room; but condensed dozens of times over; and in an instant my mind melted into mush.
+くす❤逃げちゃダメよ。\nほら、ふぅー・・・❤,Aha~❤ Don't try to run away. Here; let me blow you a kiss... Fuuu~...❤
+驚いたのもつかの間、手を伸ばせば触れられるほどの距離に近づいていた僕に向けて、師匠は魅了の魔力がこもった桃色の吐息を吹き付ける。部屋に漂っていた甘い匂いを何倍にも煮詰めたようなその香りに、一瞬で頭の中がとろけてしまう。,Before my shock could even settle; my master closed the distance until she was within arm's reach—then exhaled a pink breath filled with charm magic directly at me. The scent was like the sweet aroma lingering in the room; but condensed dozens of times over; and in an instant my mind melted into mush.
 ふあっ、ああっ・・・❤,Fuaah; aaah...❤
-あなたとの、この１０年。とても楽しかったわ。\nくすくす❤でも、ごめんなさい。わたし、とてもお腹が空いてるの❤,These ten years with you have been so much fun.\n*Giggle*❤ But I'm sorry. You see; I'm absolutely starving right now.❤
-ぜんぶ、ぜんぶ、これで終わり・・・❤\n修行も、努力も、すべてわたしに吸いつくされて、\n気持ちいい、気持ちいい快楽に溶けて、それで終わり❤,Everything; everything ends here now...❤\nYour training; your efforts; all of it will be sucked away by me;\nmelting into such pleasurable; pleasurable ecstasy; and that's where it ends.❤
-さあ、この胸で抱きとめてあげる❤\nおいで・・・❤わたしの弟子❤,Now then; let me embrace you with these breasts of mine.❤\nCome here... my dear disciple.❤
-ううっ❤ああっ・・・❤,Uuuh❤ Aaah...❤
-こんなの、こんなのダメだ。何が起きているのかも分からない。でも、こんな終わり方だけはダメだ。,No; this can't happen. I don't even understand what's going on. But I can't let it end like this.
-頭の奥ではそれが分かっていても、体が言うことを聞かない。師匠に抱き寄せられて、そうしたら幸せが待っている。あの甘い匂いに全身包まれて、きっとたとえられないぐらい気持ちよくなってしまう。,Even though I knew that deep in my mind; my body wouldn't listen. If I let my master pull me into her embrace; happiness would be waiting. Enveloped completely in that sweet scent; I'd surely feel pleasure beyond compare.
-その予感で、僕は、もう・・・・。,With that premonition; I was already...
-{主人公}！無事！？\nたいへんよ、街中の様子が・・・！,{主人公}! Are you safe!?\nThis is terrible; the whole town is...!
+あなたとの、この１０年。とても楽しかったわ。\nくすくす❤でも、ごめんなさい。わたし、とてもお腹が空いてるの❤,These ten years with you have been so much fun. *Giggle*❤ But I'm sorry. You see; I'm absolutely starving right now.❤
+ぜんぶ、ぜんぶ、これで終わり・・・❤\n修行も、努力も、すべてわたしに吸いつくされて、\n気持ちいい、気持ちいい快楽に溶けて、それで終わり❤,Everything... every last bit.. it ends here now...❤ Your training; your efforts; all of it will be sucked away by me; and the resulting pleasure will feel so; so good~ And then it will be the end.❤
+さあ、この胸で抱きとめてあげる❤\nおいで・・・❤わたしの弟子❤,Now then; let me embrace you with these breasts of mine.❤ Come here... my dear student.❤
+ううっ❤ああっ・・・❤,Uuuh~❤ Aaah...❤
+こんなの、こんなのダメだ。何が起きているのかも分からない。でも、こんな終わり方だけはダメだ。,No; this can't happen. I don't even understand what's going on. But I can't let it end like this!
+頭の奥ではそれが分かっていても、体が言うことを聞かない。師匠に抱き寄せられて、そうしたら幸せが待っている。あの甘い匂いに全身包まれて、きっとたとえられないぐらい気持ちよくなってしまう。,Even though I knew that deep in my mind; my body wouldn't listen. If I let my master pull me into her embrace; pure happiness would be waiting. Enveloped completely in that sweet scent; I'd surely feel pleasure beyond compare.
+その予感で、僕は、もう・・・・。,It was already too late; I was already...
+{主人公}！無事！？\nたいへんよ、街中の様子が・・・！,{主人公}! Are you safe!? This is terrible; the whole town is...!
 後ろでドアが勢いよく開き、その大きな音で、朦朧としていた意識が一瞬だけはっきりとした。このままではいけない！僕は急いで師匠から距離を取り、ドアの方へと駆け出した。,Behind me the door burst open violently; and that loud sound snapped my hazy consciousness back to clarity for just a moment. I can't stay here! I quickly distanced myself from my master and dashed toward the door.
-っ！中にもサキュバスが！\nいったん逃げるわよ！{主人公}！,There's a succubus inside too!\nWe're retreating for now! {主人公}!
-僕たちは急いで外へ駆け出した。サキュバスのフェロモンでふらつく体を、エルルさんに引っ張ってもらいながら、なんとか足に力を込めて走る。,We rushed outside in a hurry. With my body wavering from the succubus pheromones; Eruru pulled me along as I somehow forced strength into my legs to run.
+っ！中にもサキュバスが！\nいったん逃げるわよ！{主人公}！,There's a succubus inside too! We're retreating for now! {主人公}!
+僕たちは急いで外へ駆け出した。サキュバスのフェロモンでふらつく体を、エルルさんに引っ張ってもらいながら、なんとか足に力を込めて走る。,We rushed outside in a hurry. With my body wavering from the succubus pheromones; Elulu pulled me along as I somehow forced strength into my legs to run.
 街の大通りからは、パニックになった街の人たちの叫び声と、若い女性の笑い声、そしていくつもの嬌声が聞こえる。,From the main street; I could hear the panicked screams of townspeople; young women's laughter; and countless moans of pleasure.
-街中に突然サキュバスが現れたの！\nカードマスターたちも突然サキュバスになって！周り中敵だらけだわ！,Succubi suddenly appeared all over town!\nEven the Card Masters suddenly turned into succubi! Enemies are everywhere!
-この状況で立ち向かうのはムリよ！\nギルドには避難できる場所があるから、早く来て！,Fighting back in this situation is impossible!\nThe guild has a safe place to evacuate; so hurry and come with me!
-エルルさん！それに{主人公}さん！\n早くこちらへ！,Miss Eruru! And {主人公}!\nQuickly; over here!
+街中に突然サキュバスが現れたの！\nカードマスターたちも突然サキュバスになって！周り中敵だらけだわ！,Succubi suddenly appeared all over town! Even the Card Masters suddenly turned into succubi! We're completely surrounded by enemies!
+この状況で立ち向かうのはムリよ！\nギルドには避難できる場所があるから、早く来て！,It's impossible to fight back like this! The guild has a safe place to evacuate; so hurry and come with me!
+エルルさん！それに{主人公}さん！\n早くこちらへ！,Miss Eruru! And {主人公}! Quickly; over here!
 受付さんはギルドの奥の部屋へ僕たちを案内すると、壁際の戸棚を一つ横にずらした。すると奥に扉が隠されており、中に地下通路への階段が続いていた。,The receptionist guided us to a room deep inside the guild; then slid one of the cabinets against the wall to the side. Behind it was a hidden door; with stairs leading down to an underground passage.
 はぁ、はぁ・・・。,Haa; haa...
 ギルドの奥にこんな地下通路があったとは…。薄暗い洞窟の中には他にも何人か人がいるようだった。,To think there was an underground passage this deep in the guild... Inside the dimly lit cavern; it seemed there were several other people as well.
 ・・・。,...
 ふぅ・・・。ここまで来れば、\nひとまずサキュバスたちに襲われることはないはずです。,Phew... Now that we're down here; the succubi shouldn't be able to attack us.
-今日わたしたちはDランク以下のカードマスター向けに\n講習会を開いていました。\nその会の途中、急に外が騒がしくなり・・・。,Today we were holding a workshop for D-rank and lower card masters. In the middle of the session; it suddenly got noisy outside...
+今日わたしたちはDランク以下のカードマスター向けに\n講習会を開いていました。\nその会の途中、急に外が騒がしくなり・・・。,We were holding a workshop for D-rank and lower card masters today. But in the middle of the session; we suddenly heard noises outside...
 窓から外を見ると、大量のサキュバスがあふれ出していたんです。\n見た感じ、数十体はいたのではないでしょうか。,When I looked out the window; succubi were flooding the streets. From what I could see; there must have been dozens of them.
 わたしはランクアップのためにギルドに来ていて、\n手続きが終わったからちょうど外を歩いているときだったわ。\nそのとき突然、近くで試合をしていたカードマスターが笑い出したの。,I was at the guild to handle my rank-up procedures. I'd just finished and was walking outside when suddenly a card master who'd been battling nearby started laughing.
 何かと思って見たら、その子の姿がみるみる変わって、翼が生えて…。\n周囲で戦っていた他のマスターたちも\n次々サキュバスの姿に変わっていった。,When I looked; her appearance was changing right before my eyes—wings sprouted from her back... The other masters fighting around her transformed into succubi one after another too.
@@ -79,27 +79,27 @@ OPをスキップ,Skip the opening
 僕も自分に起こった出来事を話した。,I explain what happened to me as well.
 コノハさんも、サキュバスに・・・？\nそんな・・・。,Konoha turned into a succubus too...? No way...
 何かおかしい・・・。\nこんなにたくさんのカードマスターが一斉にサキュバスになるなんて。\n何かが・・・。,Something's wrong... So many card masters turning into succubi all at once like this. Something must be...
-僕たちが状況をつかみあぐねていると、不意に、エルルさんの腰に付けたデッキケースから、紫色の光が漏れ始めた。,As we struggle to grasp the situation; a purple light suddenly begins leaking from the deck case attached to Elrl's waist.
+僕たちが状況をつかみあぐねていると、不意に、エルルさんの腰に付けたデッキケースから、紫色の光が漏れ始めた。,As we struggle to grasp the situation; a purple light suddenly begins leaking from the deck case attached to Elulu's waist.
 ・・・！？,...!?
-驚いた顔で、エルルさんがデッキに手を伸ばすと、中の数枚のカードが発光している。するとそのカードの1枚から紫のもやが現れ、次第にモンスターの姿を形どった。,With a shocked expression; Elrl reaches for her deck—several cards inside are glowing. Then from one of those cards; purple mist emerges and gradually takes the shape of a monster.
+驚いた顔で、エルルさんがデッキに手を伸ばすと、中の数枚のカードが発光している。するとそのカードの1枚から紫のもやが現れ、次第にモンスターの姿を形どった。,With a shocked expression; Elulureaches for her deck—several cards inside are glowing. Then from one of those cards; purple mist emerges and gradually takes the shape of a monster.
 ふふ、わたしの仮のマスターさん、こんばんは❤\nわたしが従属していた代償をいただくわね。\nさあ、わたしの目を見なさい・・・❤,Fufufu; good evening; my temporary master.❤ Now I'll claim the price for serving under you. Come now; look into my eyes...❤
 あっ・・・❤ああっ・・・❤,Ah...❤ Aah...❤
-なんで、これ❤力が入らないっ・・・❤\nあっ、あんっ❤きもちいいっ❤ああっ❤,Why; this❤ I can't find any strength...❤ Ah; ahn❤ It feels good❤ Aah❤
-彼女の体が光に包まれたかと思うと、次の瞬間、そこには禍々しい角と翼を生やし、妖しげな笑みを浮かべるエルルさんがいた。,Her body becomes engulfed in light; and the next moment; there stands Elrl with ominous horns and wings sprouting from her body; wearing a bewitching smile.
-あははは❤すごい、これがサキュバスになるってことなの？\nあは、あはは、気持ちいい❤楽しい❤\n力が湧いてきて、なんでもできちゃいそう❤,Ahahaha❤ Amazing; so this is what becoming a succubus feels like? Aha; ahaha; it feels good❤ So fun❤ Power is welling up inside me; like I could do anything❤
-それに、なんで、あなたたちがすごくおいしそうなの❤\nさっきまで仲間だったのに、あは、食べたい、吸いつくしたい❤\nあはははは❤,And why; why do you all look so delicious now?❤ We were allies just moments ago; but aha; I want to devour you; drain you dry❤ Ahahahaha❤
+なんで、これ❤力が入らないっ・・・❤\nあっ、あんっ❤きもちいいっ❤ああっ❤,What? This...❤ I can't find any strength...❤ Ah; ahn~❤ Something feels good~❤ Aah...❤
+彼女の体が光に包まれたかと思うと、次の瞬間、そこには禍々しい角と翼を生やし、妖しげな笑みを浮かべるエルルさんがいた。,Her body becomes engulfed in light; and the next moment; there stands Eluluwith ominous horns and wings sprouting from her body; wearing a bewitching smile.
+あははは❤すごい、これがサキュバスになるってことなの？\nあは、あはは、気持ちいい❤楽しい❤\n力が湧いてきて、なんでもできちゃいそう❤,Ahahaha~❤ Amazing; so this is what becoming a succubus feels like? Aha; ahaha; it feels good~❤ So fun~❤ Power is welling up inside me; like I could do anything~❤
+それに、なんで、あなたたちがすごくおいしそうなの❤\nさっきまで仲間だったのに、あは、食べたい、吸いつくしたい❤\nあはははは❤,And why; why do you all look so delicious now?❤ We were allies just moments ago; but now... Haha! I feel a lovely urge eat you right up; and drain you dry~❤ Ahahahaha!❤
 ひぇえ、ここにもサキュバスが！\nなんで、どうして？,Eek; a succubus here too! Why; how is this happening?
-(・・・！もしかして、サキュバスのカードが原因？\n師匠もエルルさんもそのせいで・・・！),(...! Could the succubus cards be the cause? Both my mentor and Elrl because of them...!)
-みんなおびえているわね。くすくす❤\nやっと逃げてきた安全な場所なのに、\n急に味方がサキュバスになって…。怖がらせちゃったかしら…❤,Everyone looks so frightened. Kukuku❤ You finally escaped to a safe place; only to have your ally suddenly turn into a succubus... Did I scare you...?❤
+(・・・！もしかして、サキュバスのカードが原因？\n師匠もエルルさんもそのせいで・・・！),(...! Could the succubus cards be the reason behind all this? Both my mentor and Elulu had them...!)
+みんなおびえているわね。くすくす❤\nやっと逃げてきた安全な場所なのに、\n急に味方がサキュバスになって…。怖がらせちゃったかしら…❤,Everyone looks so frightened. Kukuku~❤ You finally escaped to a safe place; only to have your ally suddenly turn into a succubus... Did I scare you...?❤
 大丈夫よ。\n怖いことなんてないわ。\nだって・・・❤,Don't worry. There's nothing to be afraid of. Because...❤
-男の子はみんなわたしが気持ちよく吸いつくしてあげるし・・・❤\n女の子は全員サキュバスに変えて、仲間にしちゃうもの・・・❤\nね、恐ろしいことなんて何もないでしょう？くす❤くすくす❤,I'll pleasure and drain all the boys dry...❤ And I'll turn every girl into a succubus; making them my comrades...❤ See? There's nothing scary about that at all; right? Kusu❤ Kukukuku❤
-エルルさんが片手で口を覆いながらケタケタと笑っている。その光景を前にして僕は・・・。,Elrl covers her mouth with one hand while cackling. Faced with that scene; I...
-僕はカードを構えて立ち向かっていた。,I stand ready with my cards drawn to face her.
-師匠やエルルさんが、元からサキュバスだったのなら、救う手段はなかっただだろう。でも、あくまでサキュバス化しただけなら、僕にも打てる手はあるはずだ。,If my mentor and Elrl were succubi from the start; there would be no way to save them. But if they've merely been transformed into succubi; then I should have options available.
+男の子はみんなわたしが気持ちよく吸いつくしてあげるし・・・❤\n女の子は全員サキュバスに変えて、仲間にしちゃうもの・・・❤\nね、恐ろしいことなんて何もないでしょう？くす❤くすくす❤,I'll pleasure and drain all the boys dry...❤ And I'll turn every girl into a succubus; so we can all be on the same side...❤ See? There's nothing scary about that at all; right? Kusu~❤ Kukukuku~❤
+エルルさんが片手で口を覆いながらケタケタと笑っている。その光景を前にして僕は・・・。,Elulu covers her mouth with one hand while cackling. I watched on; and...
+僕はカードを構えて立ち向かっていた。,Stood ready with my cards drawn to face her.
+師匠やエルルさんが、元からサキュバスだったのなら、救う手段はなかっただだろう。でも、あくまでサキュバス化しただけなら、僕にも打てる手はあるはずだ。,If my mentor and Eluluwere succubi from the start; there would be no way to save them. But if they've merely been transformed into succubi; then I should have options available.
 ネクロさんと練習してきた、人間をサキュバス状態から戻す魔術…。いきなり本番で上手くいくかはわからないけれど、ここで実践するほかない！,The magic technique I practiced with Necro for returning humans from their succubus state... I don't know if it'll work on the first real attempt; but I have to try it here!
-他のカードマスターたちはパニックになってすっかりおびえている。エルルさんを治すためには、僕がやらないといけない！,The other card masters are panicking and completely terrified. If I'm going to cure Elrl; I'm the one who has to do it!
+他のカードマスターたちはパニックになってすっかりおびえている。エルルさんを治すためには、僕がやらないといけない！,The other card masters are panicking and completely terrified. If I'm going to cure Elulu; I'm the one who has to do it!
 あは、なに？一人だけのこのこ歩いてくるなんて、\n一番最初に気持ちいいことされたくなっちゃった？\nうふふ❤あなたも男の子なのね❤,Aha; what's this? Walking up to me all alone like that—did you want to be the first one to feel good? Ufufu❤ You're a boy too; aren't you?❤
-いいわよ、{主人公}❤\nわたしも一番最初に搾り取る相手はあなたがいいの❤\nこの胸で、この足で、この指で・・・❤あなたの体を弄んであげる❤,Fine then; Gira❤ I'd love for you to be the first one I milk dry too❤ With these breasts; these feet; these fingers...❤ I'll toy with your body❤
+いいわよ、{主人公}❤\nわたしも一番最初に搾り取る相手はあなたがいいの❤\nこの胸で、この足で、この指で・・・❤あなたの体を弄んであげる❤,Fine then; {主人公}.❤ I'd love for you to be the first one I milk dry too❤ With these breasts; these feet; these fingers...❤ I'll toy with your body❤
 快楽の淵に堕としてあげるわ❤\nあはははは❤,I'll plunge you into an abyss of pleasure❤ Ahahahaha❤
 くっ・・・。,Guh...
 エルルさんが僕の攻撃を受けて膝をついた。あと一撃与えれば倒せる、ギリギリまで追い詰めた状況。今なら、彼女の動きを止めて治療できるはずだ！,Eruru-san dropped to her knees after taking my attack. Just one more hit and I could defeat her—I had her cornered. Now's my chance; I should be able to stop her movements and heal her!
