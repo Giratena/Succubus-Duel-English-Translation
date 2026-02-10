@@ -99,7 +99,7 @@ OPをスキップ,Skip the opening
 ネクロさんと練習してきた、人間をサキュバス状態から戻す魔術…。いきなり本番で上手くいくかはわからないけれど、ここで実践するほかない！,The magic technique I practiced with Necro for returning humans from their succubus state... I don't know if it'll work on the first real attempt; but I have to try it here!
 他のカードマスターたちはパニックになってすっかりおびえている。エルルさんを治すためには、僕がやらないといけない！,The other card masters are panicking and completely terrified. If I'm going to cure Elulu; I'm the one who has to do it!
 あは、なに？一人だけのこのこ歩いてくるなんて、\n一番最初に気持ちいいことされたくなっちゃった？\nうふふ❤あなたも男の子なのね❤,Aha; what's this? Walking up to me all alone like that—do you want to be the first to feel good? Ufufu~❤ You're a boy too; aren't you?❤
-いいわよ、{主人公}❤\nわたしも一番最初に搾り取る相手はあなたがいいの❤\nこの胸で、この足で、この指で・・・❤あなたの体を弄んであげる❤,Fine then; {主人公}.❤ I'd love for you to be the first one I milk dry too❤ With my breasts; my feet; my fingers...❤ I'll do as I please with your body~❤
+いいわよ、{主人公}❤\nわたしも一番最初に搾り取る相手はあなたがいいの❤\nこの胸で、この足で、この指で・・・❤あなたの体を弄んであげる❤,Fine then; {主人公}.❤ I'd love for you to be the first one I milk dry.❤ With my breasts; my feet; my fingers...❤ I'll do as I please with your body~❤
 快楽の淵に堕としてあげるわ❤\nあはははは❤,I'll plunge you into an abyss of pleasure~❤ Ahahahaha❤
 くっ・・・。,Guh...
 エルルさんが僕の攻撃を受けて膝をついた。あと一撃与えれば倒せる、ギリギリまで追い詰めた状況。今なら、彼女の動きを止めて治療できるはずだ！,Eruru dropped to her knees after taking my attack. Just one more hit and I could defeat her—I had her cornered. Now's my chance; I should be able to stop her movements and cure her succubus-ification!
@@ -195,7 +195,7 @@ OPをスキップ,Skip the opening
 してほしいなら・・・❤\n何もせずにターンエンドしなさい❤\nくすくす❤,If you want me to...❤ Just do nothing and end your turn~❤ Kususu~❤
 サキュバスになって前よりずっと魔力がみなぎっているのを感じるの…❤\n今ならきっとあなたにも勝てる❤,I can feel so much more magical energy surging through me now that I'm a succubus...❤ I'm sure I can beat you now~❤
 {主人公}のその強気な顔が快楽で歪むのが、\n今から楽しみだわ❤\n何度も喘がせてあげる❤,I can't wait to see that confident face of yours twist in pleasure; {主人公}~❤ I'll make you moan over and over~❤
-わたしのターンね。ドロー。,My turn. Draw.
+わたしのターンね。ドロー。,My turn! Draw.
 モンスターをコストにして、{使用カード}を召喚！,I'll use a monster as cost to summon {使用カード}!
 {使用カード}を召喚するわ。,I shall summon {使用カード}.
 {使用カード}は「隠密」と「直接攻撃可能」の能力を持っているの。\n敵からは狙われず、相手プレイヤーの精を奪う、\nまさに怪盗のカードってわけね❤,"{使用カード} possesses both ""Stealth"" and ""Direct Attack"" abilities. She can't be targeted by enemies; and steals essence directly from the opposing player—making her a true phantom thief card.❤"
@@ -208,8 +208,8 @@ OPをスキップ,Skip the opening
 {使用カード}が破壊されたとき、効果発動！\nわたしの手札に「{%%50096}」を１枚加える！,"When {使用カード} is destroyed; her effect activates! I add one ""{%%50096}"" to my hand!"
 {使用カード}が破壊されたとき、効果発動！\n「{%%50096}」を生成して、わたしの手札に１枚加えるわ！,"When {使用カード} is destroyed; her effect activates! I generate a ""{%%50096}"" and add it to my hand!"
 1ターンに１度、{使用カード}の効果発動！\n「おっぱいに弱い」相手に状態異常を付与するわね❤,"Once per turn; {使用カード}'s effect activates! I'll inflict a status ailment on opponents ""Weak to Breasts"".❤"
-1ターンに１度、{使用カード}の効果発動！\n「おっぱいに弱い」相手の視線を釘付けにしなさい❤,"Once per turn; {使用カード}'s effect activates! Lock your opponent's gaze if they're ""Weak to Breasts"".❤"
-相手モンスターが場に出たとき、{使用カード}の効果発動！\n胸で誘惑してあげなさい❤,When an opposing monster enters the field; {使用カード}'s effect activates! Seduce them with your chest.❤
+1ターンに１度、{使用カード}の効果発動！\n「おっぱいに弱い」相手の視線を釘付けにしなさい❤,"Once per turn; {使用カード}'s effect activates! If my opponent has the ""Weak to Breasts""; then I can control exactly where they look~❤"
+相手モンスターが場に出たとき、{使用カード}の効果発動！\n胸で誘惑してあげなさい❤,When an opposing monster enters the field; {使用カード}'s effect activates! Now; {使用カード}; seduce them with your chest~❤
 相手モンスターが場に出たとき、{使用カード}の効果発動！\n胸を使って弱点を植え付けてあげる❤,When an opposing monster enters the field; {使用カード}'s effect activates! Use your breasts to implant a weakness.❤
 召喚に成功した時、{使用カード}の効果発動！\n自分フィールド上のランダムな闇属性モンスターの攻撃力を300上げて、\nさらに「隠密」を付与よ！,"When successfully summoned; {使用カード}'s effect activates! I increase a random Dark-attribute monster on my field by 300 attack points; and grant it ""Stealth""!"
 召喚に成功した時、{使用カード}の効果発動！\n自分のランダムな闇属性モンスターの攻撃力を300ポイントアップ！\nさらに「隠密」を付与するわ！,"When successfully summoned; {使用カード}'s effect activates! I boost a random Dark-attribute monster's attack by 300 points! And I'm granting it ""Stealth""!"
