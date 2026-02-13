@@ -1,51 +1,51 @@
 default
 クレリック,Cleric
 EU85_handJobAnime,
-　癒しの力を使う聖職者。防御を固めているときは盾の女神に祈りをささげており、その力でマスターに山札のカードをもたらしている。 　争いよりも癒しと守りを重んじており、対戦相手であっても傷つけたくないと思っている。昨今の戦いでは性的攻撃によって男性を無力化できるため、杖で相手を叩くことに罪悪感を感じていた彼女は内心喜んでいる。,A cleric who uses healing magic. To defend herself; she'll pray to the Holy Shield Maiden transfer cards from the deck to her master's hand. She values healing and protection over conflict; and prefers not to harm even her opponents. Lately; she's found a way to incapacitate men through sexual attacks; so she secretly feel pleased about being able to strike her opponents guilt-free with her staff. 
+　癒しの力を使う聖職者。防御を固めているときは盾の女神に祈りをささげており、その力でマスターに山札のカードをもたらしている。 　争いよりも癒しと守りを重んじており、対戦相手であっても傷つけたくないと思っている。昨今の戦いでは性的攻撃によって男性を無力化できるため、杖で相手を叩くことに罪悪感を感じていた彼女は内心喜んでいる。,A cleric who uses healing magic. To defend herself; she'll pray to the Holy Shield Maiden and transfer cards from the deck to her master's hand. She values healing and protection over conflict; and prefers not to harm even her opponents. Lately; she's found a way to incapacitate men through sexual attacks; so she secretly feel pleased about being able to strike her opponents guilt-free with her staff. 
 \n　また男性を甘やかすことに庇護欲が満たされる思いを感じており、相手がリラックスし自分に身をゆだねてくれるのを見るのが何よりも好きである。,\n She even feels a sense of fulfillment in pampering men; and derives great pleasure in seeing her targets relax and entrust themselves to her.
 [1].１ターンに１度、自分フィールド上のモンスター１体を選択して発動できる。そのモンスターのHPを500ポイント回復し、最大HPを300ポイントアップする。,[1]. Once per turn; you can activate this effect by selecting one monster on your field. Restore 500 HP to that monster and increase its Max HP by 300.
 [2].このカードが守備状態の場合、自分ターン終了時に発動する。デッキからカードを１枚ドローする。,[2].If this card is in defense position; activate this effect at the end of your turn. Draw one card from your deck.
 [3].自分フィールド上のモンスターが１度に1500ポイント以上の戦闘ダメージ・効果ダメージを受けたときに発動する。そのモンスターのHPを1000ポイント回復する。,[3].Activate this effect when a monster on your field takes one instance of 1500 or greater battle damage or effect damage. Restore that monster's HP by 1000 points.
 あなたに癒しを…。\nといっても敵を回復させるわけには行きません。\n心の癒しで我慢してくださいね❤,I only wish to heal you... Yet I shouldn't be healing an opponent. Please be content with this emotional healing instead; okay?❤
-疲れていても、こうして胸に顔を預けさせ、\nそのまま下半身を優しくさすってあげれば、\n男の人はずいぶんと楽になるのでしょう？ほら、さす、さす…❤,Even if you're tired; letting you rest your face against my chest while I gently stroke your lower body would make any man feel much better; right? Here; stroke; stroke...❤
+疲れていても、こうして胸に顔を預けさせ、\nそのまま下半身を優しくさすってあげれば、\n男の人はずいぶんと楽になるのでしょう？ほら、さす、さす…❤,Even if you're tired; any man would feel better if they lay their head against my chest as I caress their lower body; right? Here; stroke; stroke...❤
 心地いいですか？\n胸は大きくありませんが、愛情は人一倍ありますから、\n力を抜いてわたしに甘えてください…❤,Does it feel good? Though my chest may be modest; I'm certain I have more love to give than anyone else. Please; just relax and let me pamper you...❤
 男の方のたくましい筋肉にわたしはかないません。\nこの細腕でできるのは、せいぜいあなたに慈悲を乞うことだけ。,I can't compete with a man's muscles. All I can use my thin arms for is to beg for mercy. 
-例えば、こう、あなたの胸に手を当てて、\nすり、すり…❤すり…❤すり…❤\nお願いします、わたしたちを傷つけないでください❤,For example; I can place my hand and rub your chest. Rub...❤ Rub...❤ I beg of you; please don't hurt us.❤
-こうやって乳首の辺りをゆっくり撫でられたら、気持ちいいでしょう？\n戦いのためではなく、安らぎを感じるために、\nあなたの体は使いませんか？たくさんお手伝いしてあげますよ…❤,Doesn't it feel good when I gently caress your nipples like this? Wouldn't you like to use your body not for fighting; but for relaxing and experiencing pleasure? I'm happy to help you with that...❤
-そう、力を抜いて…❤\nわたしの手の平に、優しい快楽に身を任せて…❤\nいい顔ですね。もっともっと愛を感じて、蕩けてください…❤,Yes; just relax...❤ Allow yourself to give in to the gentle pleasure of my hand...❤ You have such a lovely expression. Let yourself feel my love even more; and drown in blissfulness...❤
-えっと、その、わたしのスカートの中、気になりますか？\nさきほどからわたしのふとももの辺りをチラチラ見ていますよね。\nスカートが揺れて、気になっているのかなぁ、なんて…。,Um; pardon me... Do you wish to peek under my skirt? You've been glancing at my thighs for a while now; so I was wondering if you might've been distracted by my skirt swaying...
-あまりエッチなことはできませんし、\nこれで満足していただけるのであれば、ほら、ぴらっ❤\nパンツを見ても構わないので、攻撃しないでください❤,Though I can't do anything too lewd; if this much is enough to satisfy you; then here you go.❤ You may stare at my panties all you'd like; just please don't attack me.❤
-そう、そのままそこで、じっとパンツを見ていていいんです。\n一歩でも近づいたら、スカート下ろして見えなくしちゃいますからね。\nくすくす❤足を止めちゃって、いい子ですね…❤,Yes; feel free to stand there and stare at my panties. But if you take even one step closer; then I will pull the hem back down; and you won't be able to see them anymore; okay? *Giggle*~ You stopped advancing; what an obedient child.❤
-足で踏むなんて申し訳ないのですが、これも戦いですから。\nあなたの大事なところ、\n踏ませていただきますね。えいっ❤,I apologize for stepping on you with my feet; but we are in battle; after all. I shall step over your sensitive parts now; okay? Hah!❤
-えと、強くは踏まずに軽くグニグニするだけなので、\n痛くはないと思います。どうですか、気持ちいいでしょうか…❤\nんっ、ぐにぐに…❤ふみ、ふみ…❤,Um; I'm trying not to press too hard and simply massage it a bit; so it shouldn't hurt too much. How do you feel? Does it feel good...?❤ Mm; rub rub...❤ Squish squish...❤
+例えば、こう、あなたの胸に手を当てて、\nすり、すり…❤すり…❤すり…❤\nお願いします、わたしたちを傷つけないでください❤,For example; by placing my hand and rubbing your chest... Rub...❤ Rub...❤ I beg of you; please don't hurt us.❤
+こうやって乳首の辺りをゆっくり撫でられたら、気持ちいいでしょう？\n戦いのためではなく、安らぎを感じるために、\nあなたの体は使いませんか？たくさんお手伝いしてあげますよ…❤,Doesn't it feel good when I gently touch your nipples like this? Wouldn't you like to use your body not for fighting; but for relaxing and experiencing pleasure? I'm happy to help you with that...❤
+そう、力を抜いて…❤\nわたしの手の平に、優しい快楽に身を任せて…❤\nいい顔ですね。もっともっと愛を感じて、蕩けてください…❤,Yes; just relax...❤ Allow yourself to give in to the gentle pleasure of my hand...❤ You have such a lovely expression. Let yourself indulge in my love even more; and drown in bliss...❤
+えっと、その、わたしのスカートの中、気になりますか？\nさきほどからわたしのふとももの辺りをチラチラ見ていますよね。\nスカートが揺れて、気になっているのかなぁ、なんて…。,Um; pardon me... Do you wish to peek under my skirt? You've been glancing at my thighs for a while now; so I was wondering if you might've been distracted by my skirt swaying around...
+あまりエッチなことはできませんし、\nこれで満足していただけるのであれば、ほら、ぴらっ❤\nパンツを見ても構わないので、攻撃しないでください❤,Though I can't do anything too lewd; if this much is enough to satisfy you; then here you go.❤ You may look at my panties as much as you'd like; just please don't attack me.❤
+そう、そのままそこで、じっとパンツを見ていていいんです。\n一歩でも近づいたら、スカート下ろして見えなくしちゃいますからね。\nくすくす❤足を止めちゃって、いい子ですね…❤,Yes; feel free to stand there and stare at my panties. But if you take even one step closer; then I will pull the hem back down; and you won't be able to see them anymore; understood? *Giggle*~ You stopped advancing; what an obedient child.❤
+足で踏むなんて申し訳ないのですが、これも戦いですから。\nあなたの大事なところ、\n踏ませていただきますね。えいっ❤,I apologize for trampling you with my feet; but we are in battle; after all. I shall step over your sensitive parts now; okay? Hah!❤
+えと、強くは踏まずに軽くグニグニするだけなので、\n痛くはないと思います。どうですか、気持ちいいでしょうか…❤\nんっ、ぐにぐに…❤ふみ、ふみ…❤,Um; I'm trying to not press too hard and simply massage it a bit; so it shouldn't hurt too much. How do you feel? Does it feel good...?❤ Mm; rub rub...❤ Squish squish...❤
 よかった喜んでいただけているようですね❤\n頬がゆるんで気持ちよさそうな顔❤\nうふふ❤その顔もっと見せてください。ほら、ぐにぐに❤すりすり…❤,You seem to be enjoying it; what a relief!❤ Your cheeks look flushed; and you have such a blissful expression.❤ Fufu~❤ Please; show me more of that blissful expression. Here; squish squish~❤ Rub rub...❤
 えっと、こういうのでも、気持ちよくなってくれますか？\n唇に人差し指を当てて、んっちゅ…❤\n愛を込めた投げキッスです❤,Um; then how about this? Would you like it if I placed my finger to my lips and... *kiss*❤ It's a kiss packed with my love.❤
-えっと、気持ちよくしてほしい、ですか？\nあらあら、もう試合に疲れてしまったんですね。\nいいですよ❤その疲れた体、わたしが癒してあげます❤,Um; you'd like me to make you feel good; you said? Oh dear; this match has worn you out so much; hasn't it? It's okay~❤ Let me soothe  your tired body for you.❤
+えっと、気持ちよくしてほしい、ですか？\nあらあら、もう試合に疲れてしまったんですね。\nいいですよ❤その疲れた体、わたしが癒してあげます❤,Um; you'd like me to make you feel good; you said? Oh dear; this match has worn you out so much; hasn't it? It's okay~❤ Let me soothe your weary body for you.❤
 くす、ズボンの中で漏らしてしまいましたね❤\n服の上から優しく撫でられて、うっとり幸せに射精❤\nとても気持ちよさそうな顔をされてますよ❤,*Giggle*; did you have an accident in your pants just now?❤ Seems you blissfully ejaculated from being gently stroked over your pants.❤ You have such a happy and contented look on your face~❤
 乳首だけしか触ってないのに、\nこんなにたくさん出してしまったんですか？\n乳首がずいぶんと敏感なんですね❤くすくす❤,You ejaculated just from me touching your nipples? It seems your nipples are quite sensitive; aren't they?❤ *Giggle*❤
 きゃ、急に射精したからびっくりしちゃいました。\nもしかしてパンツを見せられただけでイってしまったんですか？\nくすくす❤エッチなことにだいぶ弱いんですね。かわいらしい❤,Eek! You surprised me; ejaculating so suddenly like that. Did you ejaculate just from seeing my panties? *Giggle*❤ It seems you're quite weak against naughty things; aren't you? How cute.❤
-うふ、ブーツの下でびゅくびゅく出ちゃってます❤\n優しく踏んでもらえて気持ちよかったですか？,*Giggle*; it's peeking out from under my boots.❤ Does it feel that good; being so tenderly stepped on like this?
-くす❤目にハートを浮かべながら射精して、\nそんなにわたしの投げキスがよかったのでしょうか。\nあなたのこと幸せにできてうれしいです❤,*Giggle*❤ You ejaculated with such a smitten look in your eyes. Did me blowing a kiss make you that happy? That makes me so happy!❤
+うふ、ブーツの下でびゅくびゅく出ちゃってます❤\n優しく踏んでもらえて気持ちよかったですか？,*Giggle*; it's peeking out from beneath my boots.❤ Does it feel that good; being so tenderly stepped on like this?
+くす❤目にハートを浮かべながら射精して、\nそんなにわたしの投げキスがよかったのでしょうか。\nあなたのこと幸せにできてうれしいです❤,*Giggle*❤ You ejaculated with such a lovestruck look in your eyes. Did me blowing a kiss make you that happy? That makes me so happy too!❤
 うっ、ううっ・・・❤,Ngh; hnnnngh...❤❤
-あら？うずくまってどうされたのですか？\n暴力的な攻撃はしていないはずですが、\nどこか体をぶつけてしまったとか・・・。,My? Why are you hunched over like that? I don't think I attacked you too violently; did you perhaps bump into something...? 
-いえ、よく見るとうずくまっているだけでなく、\n手が小刻みに揺れていますね。\nふふ、苦しいわけではなく自慰をしているだけのようです❤,No; looking closely; you're not just hunched over. Your arms are shifting around; too. Fufu; so it's not that you're hurt; but that you're masturbating.❤
-快感に抗って戦うのが辛くなってしまいましたか？\nそれなら、ほら、こうしてあげます❤,Have you grown tired of fighting me and resisting your sense of pleasure? In that case; here; let me do something for you.❤
+あら？うずくまってどうされたのですか？\n暴力的な攻撃はしていないはずですが、\nどこか体をぶつけてしまったとか・・・。,My? Why are you bending over like that? I don't think I attacked you too violently; did you perhaps bump into something...? 
+いえ、よく見るとうずくまっているだけでなく、\n手が小刻みに揺れていますね。\nふふ、苦しいわけではなく自慰をしているだけのようです❤,No; looking closely; you're not just hunched over. Your arms are rustling around; too. Fufu; so it's not that you're hurt; but that you're masturbating.❤
+快感に抗って戦うのが辛くなってしまいましたか？\nそれなら、ほら、こうしてあげます❤,Have you grown weary of fighting me and resisting your sexual urges? In that case; here; let me do something for you.❤
 ぎゅっとあなたの頭を抱きしめて\nわたしの体温を感じながら、シコシコ続けてください❤,I'll hold your head tightly against my chest; so just keep masturbating as you feel the heat of my body against your skin.❤
-オナニーに夢中で無防備なあなたをわたしが守ってあげます❤\n胸は大きくありませんが、\nこうしているだけで少しは安心できるでしょう？,I'll protect you while you're vulnerable; completely engrossed in masturbating.❤ My chest isn't very big; but you should feel safer like this; right?
-うふふ❤どんどん体の力が抜けていきますね❤\nでも、しこしこする手は止まらない❤\nだらしないお顔になりながら、しこしこしこ❤しこしこしこ❤,Fufu~❤ Your body is growing weaker and weaker; isn't it?❤ Yet your hand refuses to stop stroking.❤ You have such a blissful expression on your face as you keep stroking;❤ and stroking.❤
+オナニーに夢中で無防備なあなたをわたしが守ってあげます❤\n胸は大きくありませんが、\nこうしているだけで少しは安心できるでしょう？,I'll protect you while you're vulnerable and completely engrossed in masturbating.❤ My chest isn't very big; but you should feel safer like this; right?
+うふふ❤どんどん体の力が抜けていきますね❤\nでも、しこしこする手は止まらない❤\nだらしないお顔になりながら、しこしこしこ❤しこしこしこ❤,Fufu~❤ Your body is feeling weaker and weaker; isn't it?❤ Yet your hand refuses to stop stroking.❤ You have such a blissful expression on your face as you keep stroking;❤ and stroking.❤
 気持ちいいのとあったかいのに包まれて、\n何も考えられなくなりますか？それでいいんですよ❤\nムリして我慢なんてしなくていいんです❤,When you're wrapped in such a warm and pleasant sensation; it's hard to think about anything else; isn't it? It's alright~❤ There's no need to force yourself if you can't.❤
 ううっ、あうう・・・❤,Ugh; uwaah...❤
 そうそう。しこしこ上手ですね❤\n上手にできたえらい子は、頭を後ろからなでてあげますからね❤,Yes; that's it. You're stroking your thing so well; aren't you?❤ For such a good boy who's working so hard; I'll give you a pat on the head; okay?❤
-息も大きく吸って、リラックスして…❤\nわたしの体、いい匂いがしますか？\nふふ、そう感じてもらえるならうれしいです❤,Just take a deep breath; and relax...❤ Do I smell good? Fufu; I'm happy if you feel that way.❤
-しこしこ、しこしこ、イクまでゆっくり扱いていいですからね❤\nあなたの我慢はもうおしまい。\nあとは快感に身をゆだねて、ただただ楽しみましょう❤,Stroke stroke; stroke stroke~ Just take it slowly; until you're ready to cum.❤ It seems you're about to reach your limit; so just give in to the pleasure and let it wash over you.❤ 
+息も大きく吸って、リラックスして…❤\nわたしの体、いい匂いがしますか？\nふふ、そう感じてもらえるならうれしいです❤,Just take a deep breath; and relax...❤ Do I smell good? Fufu; I'm happy if you think so.❤
+しこしこ、しこしこ、イクまでゆっくり扱いていいですからね❤\nあなたの我慢はもうおしまい。\nあとは快感に身をゆだねて、ただただ楽しみましょう❤,Stroke stroke; stroke stroke~ Just take it slow; until you're ready to cum.❤ It seems you're about to reach your limit; so just give in to the pleasure and let it wash over you.❤ 
 あら、体が震えて・・・❤\nもうすぐ出しちゃうんですね❤\nふふ、我慢はしなくていいですよ❤,Oh my; your body is trembling...❤ You're on the verge of ejaculating; aren't you?❤ Fufu; you don't need to hold back.❤
 しこしこ❤しこしこ❤しこしこ❤\nはい、気持ちよく出しましょうね❤びゅ、びゅっー❤,Stroke stroke~❤ Stroke stroke~❤ Stroke stroke~❤ Okay; let's indulge ourselves and let it all out; shall we?❤ Pew; pew~❤
 はひぃ・・・❤,Haaaah...❤
 うふふ❤たくさん出せましたね❤\n戦いを捨て、快感に身を任せることができて、\nとてもいい子でしたよ❤えらい❤えらい❤,Fufu~❤ You managed to release so much; didn't you?❤ You're such a brave child; choosing to stop fighting and accept the feeling of pleasure.❤ Good boy.❤ You're such a good boy.❤ 
 あなたのエナジーをいただいて、わたしも回復しました。\n快感であなたが癒されて、エナジーでわたしが癒される、\n二人とも幸せになれて、素晴らしい結果ですね❤ふふ❤,And thanks to your energy; now I've recovered as well. You were healed with pleasure; and I was healed with your energy... What a wonderful; mutually beneficial outcome; right?❤ Fufu~❤
-あら？うずくまってどうされたのですか？\nもしかしてもあなたも・・・❤,My? Why are you hunched over like that? Could it be that you also...?❤
-ふふ、やはり手が小刻みに揺れていますね❤\n苦しいわけではなく自慰をしているだけのようです❤\n仲間の方が快楽に身を任せたのを見て、うらやましくなりましたか？,Fufu; your arms are shifting around; aren't they?❤ It seems you're not in pain; but simply masturbating instead.❤ Were you envious; seeing your ally give in to pleasure?
-もう戦うのが辛いのですよね。\nそれなら、ほら、こうしてあげます❤,It's hard to keep fighting like this; isn't it? In that case; here; let me do something for you.❤
+あら？うずくまってどうされたのですか？\nもしかしてもあなたも・・・❤,My? Why are you bending over like that? Could it be that you also...?❤
+ふふ、やはり手が小刻みに揺れていますね❤\n苦しいわけではなく自慰をしているだけのようです❤\n仲間の方が快楽に身を任せたのを見て、うらやましくなりましたか？,Fufu; your arms are rustling around; aren't they?❤ It seems you're not in pain; but simply masturbating instead.❤ Were you envious; seeing your ally give in to pleasure?
+もう戦うのが辛いのですよね。\nそれなら、ほら、こうしてあげます❤,It's hard to keep fighting like that; isn't it? In that case; here; let me do something for you.❤
 ぎゅっとあなたの頭を抱きしめて、\nわたしの体温を感じながら自慰を続けてください❤,I'll hold your head tightly against my chest; so just keep masturbating as you feel the heat of my body against your skin.❤
 胸はほとんどないんですけども、\nこうしているだけで少しは安心できるでしょう？\nあなたを傷つける人間はいませんよ。わたしが守ってあげます❤,My chest is quite modest; but just being like this makes you feel a bit safer; doesn't it? I'll protect you; so no harm will befall you.❤
 そうそう。しこしこ上手ですね❤\nあなた心安らかになれるように、\n頭を後ろからなでてあげますからね❤,Yes; that's it. You're stroking your thing so well; aren't you?❤ Let me stroke your head to help soothe you; okay?❤
@@ -53,37 +53,37 @@ EU85_handJobAnime,
 ほら、わたしの体に身を預けて、\nしこしこ❤しこしこ❤\nはい、気持ちよく出しましょうね❤びゅ、びゅっー❤,Come on; press your body closer to mine. Stroke stroke~❤ Stroke stroke~❤ Okay; let it all out in one big; satisfying release!❤ Pew; pew~❤
 うふふ❤たくさん出せましたね❤\n戦いを捨て、快感に身を増せることができて、\nとてもいい子でしたよ❤えらい❤えらい❤,Fufu~❤ You released so much; didn't you?❤ You're such a good boy; giving up on fighting to indulge in pleasure instead.❤ Good boy.❤ Such a good boy.❤
 あなたのエナジーをいただいて、わたしも回復しました。\n快感であなたが癒されて、エナジーでわたしが癒される、\n幸せで素晴らしい結果ですね❤,I've recovered too; thanks to your energy. You were healed through pleasure; and I was healed with your energy. It's an outcome that leaves everyone happy; isn't it~❤
-あううっ、だめですよ…。そんな暴力的なことばかりしちゃ…。\nねえ、武器なんて捨てて、お互いに癒しを与え合いませんか？,Owww; that's no good... You shouldn't be doing such violent things... Hey; why don't we lay down our weapons and try healing each other instead?
-例えばほら、わたしの膝の上に頭を乗せるのはどうでしょう。\nここに身をゆだねてくだされば、\n優しく頭をなでながら、あなたのこと気持ちよくしてあげますよ❤,For example; why don't you rest your head on my lap? If you allow me to; then I'll gently stroke your head and make you feel good.❤
+あううっ、だめですよ…。そんな暴力的なことばかりしちゃ…。\nねえ、武器なんて捨てて、お互いに癒しを与え合いませんか？,Owww; that's no good... You shouldn't be doing such violent things... Hey; why don't we lay down our weapons and try soothing each other instead?
+例えばほら、わたしの膝の上に頭を乗せるのはどうでしょう。\nここに身をゆだねてくだされば、\n優しく頭をなでながら、あなたのこと気持ちよくしてあげますよ❤,For example; why don't you rest your head on my lap? If you'll allow me to; then I'll gently stroke your head and make you feel good.❤
 もちろん、その大きくしてしまった男性器も、\nもう片方の手で優しく扱いてあげます。\n膝枕されながらの手での奉仕、きっと素敵な体験になりますよね❤,Naturally; I'll also use my other hand to caress that embiggened penis. Being serviced like that; while your head rests on my lap; would surely feel wonderful; wouldn't it?❤
 さあ、わたしに愛撫されるのを想像してください❤\n体重をあずけた状態でしこしこしこしこ❤\nね、気持ちよさそうでしょう？,Picture it; my hand caressing you;❤ rubbing and stroking your thing as you lean into me.❤ Doesn't that sound absolutely blissful?
 遠慮せずこちらにどうぞ❤\nわたしのお膝の上に、頭を置いて楽にしてくださいね❤,Don't hold yourself back; come here.❤ Rest your head upon my lap and make yourself comfortable; okay?❤
-理性を振りしぼって攻撃した,Smite That B*tch
+理性を振りしぼって攻撃した,No Rest for the Wicked
 彼女に身を任せてしまった,'These weary bones of mine...'
 きゃあ！ううっ、暴力反対です・・・。,Eek! Ugh; I abhor violence...
-うふふ❤悩むぐらいなら、ほら気持ちよくなってしまいしょう？\nあなたの体をぎゅっとハグして、\n耳元で囁いてあげます❤,Fufu~❤ If you feel so conflicted; why don't you just stop worrying and enjoy yourself? I'll hold you tightly and whisper honeyed words into your ear.
+うふふ❤悩むぐらいなら、ほら気持ちよくなってしまいしょう？\nあなたの体をぎゅっとハグして、\n耳元で囁いてあげます❤,Fufu~❤ If you feel so conflicted; why don't you just stop worrying about it and enjoy yourself? I'll hold you tightly and whisper honeyed words into your ear.
 いいこ、いいこ…❤戦うのをやめられて偉いですね…❤\nそう、力を抜いて…❤\nリラックスしているのは、とてもいいことなんですよ…❤,Sweet child; you're such a good boy...❤ It was brave of you to stop fighting...❤ Yes; just relax...❤ Resting feels wonderful; doesn't it...?❤
-互いに傷つけあうのは悪いこと…❤\n傷つけないでボーっとしてるのは、善いこと…❤\nあなたはいま善いことをしてるんです…❤,Hurting each other is wrong...❤ It's better to just just stop and smell the roses together...❤ You're doing a good thing right now...❤
-わたしの声を聴いていると力が抜けてきますね…❤\n頭がぼーっとして、気持ちよくなる…❤\nこの気持ちいいのは善いことをしたあなたへのご褒美…❤,Listening to my voice feels soothing; doesn't it...?❤ Your mind feels hazy; mired in bliss...❤ This pleasant feeling is a reward for your good choices...❤
+互いに傷つけあうのは悪いこと…❤\n傷つけないでボーっとしてるのは、善いこと…❤\nあなたはいま善いことをしてるんです…❤,Hurting each other is wrong...❤ It's better to just stop and smell the roses together...❤ You're doing a good thing right now...❤
+わたしの声を聴いていると力が抜けてきますね…❤\n頭がぼーっとして、気持ちよくなる…❤\nこの気持ちいいのは善いことをしたあなたへのご褒美…❤,Listening to my voice feels soothing; doesn't it...?❤ Your mind feels hazy; bathed in pleasure...❤ This blissful feeling is a reward for your good choices...❤
 だから身を任せていいんです…❤\n何も考えなくていいんです…❤\nふふ、力が抜けてだらーんとしてきちゃいますね❤えらい、えらい❤,So you can just let yourself go...❤ You don't have to think about anything...❤ Fufu; your body has relaxed and released all your tension; hasn't it?❤ That's good; very good.❤
 うあ、ああっ・・・❤,Uwa; aah...❤
 あらあら、うふふ❤\n膝枕をするまえに、お耳にささやかれただけで出してしまったのですか？\nくす❤ちょっと力が抜けすぎちゃいましたね❤,Oh; oh my; fufu~❤ Did you ejaculate just from me whispering in your ear; before I even had the chance to give you a lap pillow? *Giggle*❤ You let yourself go a bit too much; didn't you?❤
-我慢してたおちんちんから、とろとろーって気持ちよさそうなお漏らし❤\nでも、ちゃんと出せて偉いですよ❤\n武器を捨てて射精もできて、とってもいい子❤えらいえらい❤,It seems like there's a pleasurable stream of pee leaking out of your pent-up dick.❤ Still; you did a really good job letting it all out properly.❤ You're such a good boy; tossing your weapon aside and ejaculating.❤ Good boy; such a good boy.❤
+我慢してたおちんちんから、とろとろーって気持ちよさそうなお漏らし❤\nでも、ちゃんと出せて偉いですよ❤\n武器を捨てて射精もできて、とってもいい子❤えらいえらい❤,It seems like there's a pleasurable stream of pee leaking out of your pent-up penis.❤ Still; you did a really good job letting it all out properly.❤ You're such a good boy; tossing your weapon aside and ejaculating.❤ Good boy; such a good boy.❤
 ああ・・❤あううっ・・・❤,Aah...❤ Hnngh...❤
 うふふ❤もう立っていられませんか？\nそう膝の上に頭をゆっくり乗せてください❤\n頭を置いたら、考えることはおしまい❤あとは気持ちいいことだけ❤,Fufu~❤ Is it hard to stay on your feet? Go ahead and rest your head gently on my lap.❤ Once you're nice and comfortable on my lap; you can stop thinking about anything else.❤ Just focus on feeling good.❤
 ほら、わたしのふとももの温かさ、\nほっぺで感じて気持ちいいですね❤\n体がリラックスして頭がふわふわ❤意識もとろーん❤,There; doesn't the warmth of my thighs feel pleasant against your cheek?❤ Your body is relaxed; your head feels light and fluffy; and your consciousness is drifting slowly away...❤
 清潔でいい匂いがして、しあわせ、しあわせ…❤\nおちんちんもしこしこしこ❤,This pure and sweet-smelling sensation; pure happiness; pure bliss...❤ as you keep stroking your penis.❤
 あっ、ああっ・・・・❤\nきもちいい・・・❤,Ah; aah...❤ It feels so good...❤
 うふふ、素直に「きもちいい」って言えてえらいですね❤\n素直に甘えられるのは、とてもいいことなんですよ❤,Fufu~ Being able to honestly say it feels good; you're such a good boy; aren't you?❤ Being able to openly express your feelings and let yourself be pampered is a wonderful thing.❤
-隠しごとや嘘をつくことは悪いこと…❤\n素直に甘えられるのは善いこと…❤\nおちんちん気持ちいいって言えて、えらい、えらい…❤,Keeping secrets and lying is no good...❤ Being honest and affectionate is good...❤ Being able to say that your penis feels good; there's a good boy...❤
-褒められると頭がぽわってあったかくなりますね❤\nもっと褒めてほしいって体がうずいちゃいますね。\nほら、それならたくさん「きもちいい」って言いましょう？,Being praised makes you feel warm and fuzzy inside; doesn't it?❤ Your spine gets all tingly; making you want even more praise; right?❤ Come on; how about declaring "it feels good" more often? 
+隠しごとや嘘をつくことは悪いこと…❤\n素直に甘えられるのは善いこと…❤\nおちんちん気持ちいいって言えて、えらい、えらい…❤,Keeping secrets and lying is sinful...❤ Honesty and affection is virtue...❤ Being able to say that your penis feels good; you're such a good boy...❤
+褒められると頭がぽわってあったかくなりますね❤\nもっと褒めてほしいって体がうずいちゃいますね。\nほら、それならたくさん「きもちいい」って言いましょう？,Being praised makes you feel warm and fuzzy inside; doesn't it?❤ Your spine gets all tingly; making you want even more praise; right?❤ Come on; how about declaring "it feels good" even more? 
 あなたがいい子になれるように、おちんちんなでなでしてあげます❤\n気持ちいいのでいっぱいにしてあげます❤しこしこしこ❤,I'll help motivate you to be good by stroking your penis for you.❤ I'll make you feel so; so good.❤ Stroke stroke stroke~❤
 うう、きもちいい・・・❤きもちいい・・・❤\nきもちいい・・・❤❤ああっ、もっとなでて・・・❤\nきもちいいっ・・・❤❤,Uwaah; it feels good...❤ It feels so good...❤ It feels goooood...❤❤
 いいですよ❤ほら、えらい❤えらい❤\n頭もおちんちんもいっぱいなでてあげます❤,There's a good boy.❤ See; good job.❤ You did so well.❤
-たくさんなでてあげてるのに、\nおちんちん、ひくひくして\nもっとなでてぇっておねだりしちゃってますね❤,I'm already stroking you; yet your little penis is twitching so much; begging for more; huh?❤
-欲しがりでかわいいおちんちん❤\n甘え上手でえらい、えらい❤\n気持ちよくなれて、えらい、えらい❤,What cute little eager penis.❤ You're so good at asking for love; amazing.❤ You're so good at letting yourself feel good; so wonderful; such a good child.❤ 
+たくさんなでてあげてるのに、\nおちんちん、ひくひくして\nもっとなでてぇっておねだりしちゃってますね❤,I'm already stroking you; yet your little penis is still twitching so much; begging for more; huh?❤
+欲しがりでかわいいおちんちん❤\n甘え上手でえらい、えらい❤\n気持ちよくなれて、えらい、えらい❤,What cute little eager penis.❤ You're so good at asking for love; amazing.❤ You already know how to let yourself feel good; so wonderful. You're such a good child.❤ 
 しこしこ、しこしこ❤\nあら、むずむず腰を動かして、\nもうすぐ出しちゃいそうなんですか？,Stroke stroke; stroke stroke~❤ Oh my; your hips are squirming so restlessly. Are you ready to ejaculate?
-我慢はしなくていいですよ❤\n力を抜いて、気持ちいいのが昇ってくるのに任せて、\nほら、お漏らししてしまいましょう❤,You don't have to hold yourself back.❤ Just relax and let it out. Let that feeling of pleasure wash over you. Go on; grant yourself this release.❤
+我慢はしなくていいですよ❤\n力を抜いて、気持ちいいのが昇ってくるのに任せて、\nほら、お漏らししてしまいましょう❤,You don't have to hold yourself back.❤ Just relax and let it out. Let yourself be baptized in this feeling of pleasure. Go on; grant yourself this release.❤
 わたしの手になでてもらいながら、\nおちんちんからびゅっ、びゅー❤\nリラックスして、頭が真っ白になるぐらい気持ちよくなりましょうね❤,Shoot it out of your penis as I stroke you with my hand. Pew~❤ Just relax; and let yourself feel good until your mind goes numb; okay?❤
 はひぃっ・・・❤きもちいい・・・❤❤,Hwaah...❤ It feels so good...❤
 うふふ❤イったあとも気持ちいいって言えてえらいですね❤\n全部出し切るまで、やさしくなでてあげますね❤,Fufu~❤ You're such a good boy; aren't you? You managed to say "it feels good" even after you climaxed.❤ I'll keep gently caressing you until you've let it all out; okay?❤
@@ -96,36 +96,36 @@ EU85_handJobAnime,
 あん、ブーツの下でびゅくびゅく出ちゃってます❤\nきちんと気持ちよくできたみたいですね❤\n満足してもらえてうれしいです❤,Ah; it's gushing out from beneath my boots.❤ It seems you really enjoyed that; didn't you?❤ I'm happy you were so satisfied.❤
 きゃ、急に射精したからびっくりしちゃいました。\n投げキスしてあげるだけで射精しちゃうなんて、くすくす❤\nずいぶんうぶなマスターさんなんですね❤,Eep! You surprised me; ejaculating so suddenly. To think you'd cum just from me blowing you a kiss; *giggle*❤ You're quite the innocent master; aren't you?❤
 わたしは可愛くて好きですよ❤\nほら、もう一回、んっちゅ❤\n幸せに包まれてください❤,I love that cute side of you.❤ Come on; show it to me again. *Kiss*❤ May you be blessed with happiness.❤
-{自分}にエナジーを搾り取られた僕は、体力を失い、闘技場の地面に膝をついていた。,With my energy drained by {自分}; I lose my strength and collapse to the arena floor.
+{自分}にエナジーを搾り取られた僕は、体力を失い、闘技場の地面に膝をついていた。,With my energy drained by {自分}; I lost my strength and collapse to the arena floor.
 うふふ❤試合お疲れさまでした。\n気持ちよくなることができて、よかったですね❤,Fufu~❤ It was a good match. It's great you got to feel so good; isn't it?❤
-わたしはあくまで味方のサポートが仕事で、\n直接エッチなことはあまりしないのですが、\nマスターさんを射精させられるなんて、びっくりです❤,My role is primarily to support my allies; and I rarely ever engage in direct sexual acts; but I'm surprised I managed to make Mister Master feel so good.❤
-ずっと我慢をしていたんですよね❤\nわたしに抱きしめられながら、シコシコと自慰をなさって、\nふふ、すっきりするまで射精できましたか？,You've been pent up for so long; haven't you?❤ You were masturbating so much while I hugged you. Fufu; were you able to ejaculate until you were satisfied?
+わたしはあくまで味方のサポートが仕事で、\n直接エッチなことはあまりしないのですが、\nマスターさんを射精させられるなんて、びっくりです❤,My role is primarily to support my allies; and I rarely ever engage in direct sexual acts; but I'm surprised I managed to make Sir Master feel so good.❤
+ずっと我慢をしていたんですよね❤\nわたしに抱きしめられながら、シコシコと自慰をなさって、\nふふ、すっきりするまで射精できましたか？,You've been pent up for so long; haven't you?❤ You were stroking so much while I hugged you. Fufu; were you able to ejaculate until you were satisfied?
 あううぅ・・・❤,Hwaaaah...❤
-くすくす❤甘やかされてすっかり腑抜けちゃって、\n無敗のルーキーくんは甘えん坊なのね。,*Giggle*❤ So weak-willed and spoiled; the Undefeated Rookie turned out to be quite needy; huh?
-これまでずっと我慢して頑張ってきたんでしょう？\nそれが優しく甘やかされて緊張の糸が切れてしまった。\n年頃の男の子だもの。そうなるのも仕方ないのかも。,You've been enduring and working hard all this time; haven't you? But the moment you were received some kindness and pampering; your stoic mask finally broke. You're still a young boy; after all. It's only natural that things turned out this way.
+くすくす❤甘やかされてすっかり腑抜けちゃって、\n無敗のルーキーくんは甘えん坊なのね。,*Giggle*❤ So weak-willed and spoiled; the Undefeated Rookie turned out to be quite needy; hm?
+これまでずっと我慢して頑張ってきたんでしょう？\nそれが優しく甘やかされて緊張の糸が切れてしまった。\n年頃の男の子だもの。そうなるのも仕方ないのかも。,You've been enduring and working hard all this time; haven't you? But the moment you received some kindness and pampering; your stoic mask finally broke. You're still a young boy; after all. It's only natural that things turned out this way.
 わたしの言う通り暴力を捨てることができて偉かったですよ❤\nただ囁いているだけで射精してしまいましたが、\nお耳が弱いんですか？うふふ❤,You did well; giving up on violence when I asked you to.❤ Though you also ejaculated just from me whispering in your ears. Are they a sensitive area for you? Fufu~❤
 わたしの言う通り暴力を捨てることができて偉かったですよ❤\n膝枕をしながらの手での奉仕、\n蕩けた顔になっていて大変可愛かったです❤,You did well; giving up on violence when I asked you to.❤ Your face was so sweet and adorable when you were resting your head on my lap as I stroked your penis.
 うう、あううぅ・・・❤,Ngh; hnnngh...❤
-くすくす❤すっかり腑抜けちゃって。\nそんなに強い攻撃じゃなかったでしょうに。\n無敗のルーキーくんは甘やかされるのに弱いのかしら。,*Giggle*❤ You've completely lost your composure. That attack wasn't very strong; was it? Is the Undefeated Rookie perhaps weak to being spoiled?
-これまでずっと我慢して戦ってきた分\n優しくされて緊張の糸が切れてしまった。\n年頃の男の子だもの。いずれそうなるのも仕方ないわよね。,After enduring and fighting for so long; a bit of pampering causes your dam to spill out. You're just a young boy; after all; something like this was bound to happen.
+くすくす❤すっかり腑抜けちゃって。\nそんなに強い攻撃じゃなかったでしょうに。\n無敗のルーキーくんは甘やかされるのに弱いのかしら。,*Giggle*❤ You've completely lost your composure. That attack wasn't very strong; was it? Is the Undefeated Rookie perhaps weak to being coddled?
+これまでずっと我慢して戦ってきた分\n優しくされて緊張の糸が切れてしまった。\n年頃の男の子だもの。いずれそうなるのも仕方ないわよね。,After enduring and fighting for so long; a bit of pampering causes all your pent-up desire to spill out. You're just a young boy; after all; something like this was bound to happen.
 どう？イったばかりだけど立てそう？\n立てるのなら、試合を終わりにして、観客に手でも振って退場しましょう。\nエナジーを出したばかりだから、まだ難しいかしら。,How do you feel? You just ejaculated; but do you think you can stand? If you can; then let's end this match; wave to the audience; and exit the arena. Though since you just released so much energy; it might be difficult right now.
 僕はシルヴィアさんにそう言われて、なんとか立ち上がろうとする。しかし、足がぷるぷると震えてしまい、力が入らない。快感がまだ残っていて、腰がじんじんとうずいている。,At Sylvia's words; I tried to stand. However; my legs were trembling uncontrollably; and I couldn't put any weight on them. The feeling of pleasure still lingered; and my hips were numb.
 あわわ、ダメですよ、無理をしたら。\nもし倒れたら大変です。,Oh dear; that's not good. You shouldn't push yourself too hard. It'd be terrible if you were to fall over.
 そう言って{自分}は僕のもとにかけより、体を抱きとめて倒れないように支えてくれた。ぽふん、と僕の顔が彼女の胸に当たる形になる。,{自分} rushes over and catches me; supporting me so I wouldn't fall over. My face landed softly against her chest.
-{自分}の胸は決して大きくなくて、ほんのりと膨らんでいるぐらいなのだが、それでも柔らかく、甘い匂いがする。僕はその感触と匂いでさらに力が抜けて、彼女にぎゅっと抱き着いてしまった。,{自分}'s chest isn't especially large; just a slight mound; but it's soft and has a sweet scent. The sensation and scent make me even weaker; and I ended up clinging to her more tightly.
-そうそう、ちゃんとわたしにつかまってください。\nちゃんと支えてあげますから・・・。,Yes; that's it. Please hold on to me tightly. I'll hold you up properly...
+{自分}の胸は決して大きくなくて、ほんのりと膨らんでいるぐらいなのだが、それでも柔らかく、甘い匂いがする。僕はその感触と匂いでさらに力が抜けて、彼女にぎゅっと抱き着いてしまった。,{自分}'s chest wasn't especially large; just a slight protrusion; but it was soft and had a sweet scent. This feeling and scent made me even weaker; and I ended up clinging to her more tightly.
+そうそう、ちゃんとわたしにつかまってください。\nちゃんと支えてあげますから・・・。,Yes; that's it. Please hold on to me tightly. I'll properly support you...
 ん？あら・・・❤\nうふふ、もうまた大きくしてしまって❤,Hm? Oh my...❤ Fufu; it seems it grew bigger again.❤
 わたしの体に触れていたら、\nさっきの気持ちよさ、思い出してしまいましたか？,When you touched my body; did the pleasure you felt earlier come rushing back?
-ぎゅって抱き着いたのも、もしかしてまたしてほしくなって、\nそれでねだるみたいに抱っこしてきたのでしょうか。\nくすくす❤甘えん坊さんですね❤,When you hugged me tightly; was that you asking me to hold you like that again? *Giggle*❤ You're quite the clingy one; aren't you?❤
+ぎゅって抱き着いたのも、もしかしてまたしてほしくなって、\nそれでねだるみたいに抱っこしてきたのでしょうか。\nくすくす❤甘えん坊さんですね❤,When you hugged me tightly; was that you asking me to hold you like that again? *Giggle*❤ You're quite the clingy child; aren't you?❤
 あう、ううっ、それはぁ・・・❤,Ahh; uwaah; that's...❤
-してほしいなら、いいですよ❤\nまたわたしの手でなでて気持ちよくしてあげます❤\n残っている分も全部出してあげますね❤,I'm okay with it if that's what you want.❤ I'll caress you again with my hands and make you feel good.❤ I'll make sure you release all your remaining energy; okay?❤
+してほしいなら、いいですよ❤\nまたわたしの手でなでて気持ちよくしてあげます❤\n残っている分も全部出してあげますね❤,I'm willing if that's what you want.❤ I'll caress you again with my hands and make you feel good.❤ I'll make sure you release all your remaining energy; okay?❤
 してほしいなら、いいですよ❤\n今度は手でなでて気持ちよくしてあげます❤\nどうしますか？残っている分も全部出しちゃいますか？,If that's what you want; then I'd be happy to.❤ This time I'll caress you with my hands and make you feel good.❤ Would you like that? Should I squeeze out every last drop?❤
 やさしくやさしく甘やかすような彼女の声。それを聞いているだけでヒクヒクとペニスが震えてしまう。僕は今が試合中だということも忘れて、彼女に甘えたくて仕方がなくなってしまった。,Her voice was so gentle and sweet; drawing me in. Just hearing her made my penis tremble uncontrollably. I completely forgot about the match; all I wanted was to be spoiled by her.
 うう・・・❤おねがい・・・❤\nがまんできなくて・・・❤,Hnngh... Please...❤ I can't wait any longer...❤
 まったく。頭の中がもう完全に蕩けちゃってるわね。\nいいわ、{自分}。\nその子が満足するまで気持ちよくしてあげなさい。,My; my. Your brain has gone all fuzzy; hasn't it? Alright then. {自分}; make sure to pamper him until he's totally satisfied.
 見られてたら恥ずかしいだろうから、\nほらバリアを周りに張ってあげる。\nこれはここまで頑張ってきた、あなたへのご褒美よ。ルーキーくん。,You'd probably feel embarrassed if people saw you like this; so I'll erect a barrier around us. This is a reward for all your hard work; little Rookie.
 シルヴィアさんが何かカードを唱えると、周りが緑色のバリアに覆われ、外の様子が見えなくなった。おそらく外からも僕らの様子は見えていないのだろう。,Sylvia casts a spell using a card; and a green barrier appears around us; making it impossible to see what's happening outside. Anyone outside probably couldn't see inside; either.
-僕は顔を上げて抱きついていた{自分}の顔を見る。すると彼女は目を合わせ、にこりと微笑み返してくれた。,I looked up at {自分}; whom I was hugging; and our eyes met. She smiles back down at me.
+僕は顔を上げて抱きついていた{自分}の顔を見る。すると彼女は目を合わせ、にこりと微笑み返してくれた。,I looked up at {自分}; whom I was hugging; and our eyes met. She smiled back down at me.
 それでは、あなたがすっきりできるように、\nたっぷりご奉仕しますね。\nほら、膝の上に頭を乗せて？,Now then; I'll pamper you until you're relaxed and completely at ease. Here; rest your head on my lap. 
 そうそう、言うとおりにできてえらいですね❤\nいいこ、いいこ❤\nよしよし❤,Yes; just like that. You're such a good boy; aren't you? Doing exactly as I asked.❤ Good boy; you're such a sweet child.❤ There; there~❤
 頭をなでるだけではなく、\nおちんちんも気持ちよくしてあげますからね。\n優しく握ってしこしこしこ・・・・❤,Not just your head; I'll caress your penis too; okay? I'll place it gently in my hand and stroke...❤ 
@@ -137,14 +137,14 @@ EU85_handJobAnime,
 うふふ❤わたしにいい子って言われてうれしいんですか？\nおちんちんがどんどん固くなってます❤\nそれにお顔もとってもうれしそう❤,Fufu~❤ Does hearing me call you a good boy make you happy? Your penis is getting harder again;❤ and your face looks so blissful; too.❤
 あら、恥ずかしがらなくていいんですよ。\n今はそんな蕩けた顔をしちゃっても別にいいんです❤,Oh my; no need to feel embarrassed. It's perfectly fine to feel so entranced right now.❤
 ここにはあなたとわたしだけ。\nね、何も隠す必要なんてないでしょう？,There's only you and me here. Hey; you don't need to hide anything. Okay?
-あなたが気持ちよくなれるように、\nしこしこしこ・・・❤しこしこしこ・・・❤\nそうそう、もっとその気持ちよさそうな顔を見せてください❤,I'll help you feel really good. Stroke stroke stroke...❤ Stroke stroke stroke...❤ Yes; that's it. Keep showing me more of that blissful expression.❤
+あなたが気持ちよくなれるように、\nしこしこしこ・・・❤しこしこしこ・・・❤\nそうそう、もっとその気持ちよさそうな顔を見せてください❤,I'll help you to feel really good. Stroke stroke stroke...❤ Stroke stroke stroke...❤ Yes; that's it. Keep showing me more of that blissful expression.❤
 うう、きもちいい・・・❤\nクレリックさん、好き・・・❤あうう・・・❤❤,Uwaah; it feels so good...❤ Miss Cleric; I love you...❤ Hwaaah...❤❤
 あら、うれしい❤\n今日会ったばかりだけれど、\nわたしのこと好きになってくれたんですね❤,Oh my; that makes me happy!❤ We only just met today; yet you've already fallen in love with me?❤
 好きな子にシコシコしてもらえると、\nとっても気持ちいいでしょう？\nどんどん気持ちいいのが増えていきますね❤,Won't it feel amazing if the woman you like strokes your dick for you? The pleasure would only grow more and more; wouldn't it?❤
 くす❤おちんちんが、なでるたびに、\nびくんびくんって大きく動くようになりました❤\nもうすぐ出しちゃいそうなんですか？,*Giggle*❤ Your penis twitches and pulses so much every time I stroke it.❤ Are you about to cum?
-いいですよ❤マスターさん❤\nわたしに優しく癒してもらいながら、\n気持ちよく射精しましょう❤,Go ahead.❤ Mister Master;❤ let me gently comfort and soothe you; and let's enjoy our time together as you ejaculate.❤
+いいですよ❤マスターさん❤\nわたしに優しく癒してもらいながら、\n気持ちよく射精しましょう❤,Go ahead.❤ Sir Master;❤ let me gently comfort and soothe you; and let's enjoy our time together as you ejaculate.❤
 ほら、我慢しないで、体に力も入れないで…❤\nそうそう、だらーんってするの上手ですよ❤\nはい、びゅっ、びゅー❤,Come now; just relax your body; and don't hold back...❤ Yes; just like that. You're doing a wonderful job relaxing.❤ Yes; let it all out~❤
-うふふ❤すっごくたくさん出ましたね❤\nおててがどろどろになっちゃいました。\nマスターさん、もうすっきりできましたか？,Fufu~❤ You released a lot; didn't you?❤ My hands are all messy now. Do you feel better now; Mister Master?
+うふふ❤すっごくたくさん出ましたね❤\nおててがどろどろになっちゃいました。\nマスターさん、もうすっきりできましたか？,Fufu~❤ You released a lot; didn't you?❤ My hands are all messy now. Do you feel better now; Sir Master?
 あうう、ごめんなさい・・・❤もっと・・・❤\nもっと、おねがい・・・❤,Aah; I'm sorry...❤ More...❤ One more time; please...❤
 あらあら。これまで貯めてた分、\nもっともっと、びゅっ、びゅってしないと\n収まらないみたいですね❤,Oh dear~ It seems you'll need a more thorough pampering to release all that pent-up energy; won't you?❤
 謝らなくていいんですよ❤\n男の子が女の子に甘えたくなっちゃうのは普通のことなんです❤,There's no need to apologize~❤ It's perfectly normal for a boy to want a woman to coddle him.❤
@@ -157,21 +157,21 @@ EU85_handJobAnime,
 僕は試合に負けたことを「悔しい」と思わなければいけないはずだが、頭の中は痺れたように心地よく、悔しさも後悔もなかなか湧いてこなかった。こんな調子でBランクを戦っていけるのだろうか。,I should've felt frustrated about losing the match; but my mind felt pleasantly numb; and I couldn't really muster up any frustration nor regret. Could I really compete in the B-rank matches in this state?
 それからしばらくして,Some time later
 はぁ、また来たの？{主人公}。\nまったく、あなた、{自分}にはまりすぎよ。,*Sigh*; you're here again; {主人公}? Honestly; you're getting way too addicted to {自分}.
-女の子にあまり優しくされたことがなかったのかしら。\nまああなたの精液は良質だから、別にいいといえばいいんだけど、\n無敗のルーキーがこんな風になっちゃったのは少し責任を感じるわ。,Were you not treated kindly by girls your whole life? Well; your semen is high-quality; so I guess it's fine. Still; I can't help but feel a bit responsible for turning the Undefeated Rookie into this.
+女の子にあまり優しくされたことがなかったのかしら。\nまああなたの精液は良質だから、別にいいといえばいいんだけど、\n無敗のルーキーがこんな風になっちゃったのは少し責任を感じるわ。,Were you treated badly by girls your whole life or something? Well; your semen is high-quality; so I guess it's fine. Still; I can't help but feel a bit guilty for turning the Undefeated Rookie into this.
 あのときご褒美だなんて言って、\n甘えさせなければかったのかしら。\n人を育てるのって難しいのね。,Maybe I shouldn't have spoiled you by calling it a reward that time. Child-rearing sure is difficult.
 はいはい、わかったわかった。\nあの子がいないと辛くて泣きそうなんでしょう？\nほら、{自分}を召喚。,Yes yes; I know I know. You're feeling lonely and on the verge of tears without her around; right? Here; I summon {自分}.
 また会いに来てくれたんですね。{主人公}くん❤\n今日も手でしてほしいんですか？,You're here to see me again; dear {主人公}?❤ Do you want me to do it with my hands again today?
 うふふ、それじゃあ、向こうの部屋に行きましょう？\nマスターがお勉強している間に、\nわたしたちはマスターに魔力供給です❤,Fufu; well then; shall we head to the other room? While Master is doing research; we'll be supplying her with magical energy.❤
-二人きりのお部屋で、しこしこ、しこしこ…❤しましょうね❤\nくす、もう我慢できないって顔してます❤,With just the two of us in the room... Are you ready?❤ Stroking it; and stroking it...❤ *Giggle*; you look like you're at your limit already.❤
+二人きりのお部屋で、しこしこ、しこしこ…❤しましょうね❤\nくす、もう我慢できないって顔してます❤,With just the two of us in the room... Are you ready?❤ We'll be stroking it; and stroking it...❤ *Giggle*; you look like you're at your limit already.❤
 {主人公}くんは確かにあまり試合で勝てなくなってしまいましたけど\nその分、人に甘えることを覚えたんです❤\n暴力に明け暮れるよりとても素敵なことじゃないですか❤,My sweet {主人公} may not have won many matches lately; but in return; you've learned to rely on others more.❤ Isn't that much better than spending all your time engaging in violence?❤
 だから、シルヴィア様は後悔する必要なんてありませんよ。\n{主人公}くんは正しく導かれています❤,Therefore; Madam Sylvia doesn't need to feel bad for anything. Little {主人公} has been guided on the right path thanks to you.❤
-それじゃ、はい。わたしの手を握ってください。\nお部屋まで一緒に歩いていきましょうね❤,Well then; here. Take my hand. Let's walk to your room together; okay?❤
+それじゃ、はい。わたしの手を握ってください。\nお部屋まで一緒に歩いていきましょうね❤,Well then; here. Take my hand. Let's walk to our room together; okay?❤
 試合以降、僕はすっかり{自分}のことを好きになってしまった。彼女の優しい声を聞いて、あの華奢な体に包まれていたい。そんな思いが四六時中頭に浮かぶようになってしまった。,Ever since that match; I've fallen completely head over heels for {自分}. I constantly miss her gentle voice and yearn to be embraced by her delicate body.
 それからというもの、頻繁にシルヴィアさんのところに通っては彼女を召喚してもらい、二人きりの時間を過ごしている。魔力をたくさん吸われてしまうから修行はもちろんほとんどできていない。,From then on; I'd frequently visit Miss Sylvia and have her summon {自分} so I can spend some alone time with her. Since so much of my energy gets drained by her; I haven't been able to do much training at all.
 ランクも日に日に落ちて行って、もうすぐＣランクからも転落しそうな勢いだ。しかし、そんな状況になっても{自分}は優しく甘やかしてくれる。僕はますます彼女から離れられなくなっていった。,My rank dropped day after day; until it looked like I'd fall out of C-rank altogether. But even then; {自分} continued to be kind and indulgent to me. I became even more dependent on her.
 こうして無敗でＢランクにまで駆け上がった僕の活躍は終わり、優しい愛に包まれながらその幕を閉じたのだった。,And so; my journey of rising all the way to B-rank without a single loss came to an end; concluding with a gentle embrace.
 えっと、気持ちよくしてほしい、ですか？\nあらあら、もう戦いに疲れてしまったんですね。\nいいですよ❤その疲れた体、わたしが癒してあげます❤,Um; you want me to make you feel good; you said? Oh dear; it seems you've been exhausted from all this fighting; haven't you? Alright; then.❤ I'll help soothe your weary soul.❤
-あら？うずくまってどうされたのですか？\n暴力的な戦闘はしていないはずですが、\nどこか体をぶつけてしまったとか・・・。,Oh? Why are you hunched over like that? I don't think I struck you particularly violently; did you perhaps bump into something...?
+あら？うずくまってどうされたのですか？\n暴力的な戦闘はしていないはずですが、\nどこか体をぶつけてしまったとか・・・。,Oh? Why are you bending over like that? I don't think I struck you particularly violently; did you perhaps bump into something...?
 そうそう。しこしこ上手ですね❤\nあなたが気持ちよくなれるように、\n頭を後ろからなでてあげますからね❤,Yes yes; you're stroking so well; aren't you!❤ Let me comfort you by caressing the back of your head.❤
 うふふ❤たくさん出せましたね❤\n戦いを捨て、快感に身を増せることができて、\nとてもいい子ですよ❤えらい❤えらい❤,Fufu~❤ You let out a lot; didn't you?❤ Giving up the fight and accepting pleasure; you're such a good child!❤ You did so well.❤ Amazing.❤
 あなたのエナジーをいただいて、わたしも回復しました。\n快感であなたが癒されて、エナジーでわたしが癒される、\n幸せで素晴らしい結果ですね❤ふふ❤,I've recovered too; thanks to your energy. You were healed through pleasure; and I was healed with your energy. It's an outcome that leaves everyone happy; isn't it~❤
