@@ -1,6 +1,6 @@
 default,
 サキュバスエルル,Succubus Elulu
-　エルルがサキュバス化してしまった姿。手持ちのカードは元々のカードから変質し、全体的にパワーアップしている。影にちなんだカードを多く使い、自身は影に身を潜めつつ、モンスターを使って直接攻撃をしかけてくる。,Elulu's succubus form. Her deck has been corrupted from its original state; with all her cards being upgraded overall. She uses many shadow-themed cards; hiding herself in the shadows while sending her monsters to attack you directly.
+　エルルがサキュバス化してしまった姿。手持ちのカードは元々のカードから変質し、全体的にパワーアップしている。影にちなんだカードを多く使い、自身は影に身を潜めつつ、モンスターを使って直接攻撃をしかけてくる。,Elulu's succubus form. Her deck has been corrupted from its original state; with all her cards being upgraded overall. She uses many shadow-themed cards; hiding herself in the darkness while sending her monsters to attack opponents directly.
 エルルがサキュバス化してしまった姿。手持ちのカードは元々のカードから変質し、全体的にパワーアップしている。影にちなんだカードを多く使い、自身は影に身を潜めつつ、モンスターを使って直接攻撃をしかけてくる。,
 F27_kissAnime,
 F27_handJobAnime,
@@ -11,23 +11,23 @@ OPイベントをスキップしますか？,Would you like to skip the opening 
 OPをスキップ,Skip the opening
 勝利後までスキップ,Skip to before the fight
 時刻は夕暮れ時、もうすぐ師匠と約束した時間だ。,It's dusk. Nearly time to meet with my Master; as promised.
-師匠との待ち合わせ場所に向かって街を歩いていると、遠くにエルルさんが見えた。,As I walked towards the place where I would meet my master; I saw Elulu off in the distance. 
+師匠との待ち合わせ場所に向かって街を歩いていると、遠くにエルルさんが見えた。,As I walked towards the place where I would meet with her; I saw Elulu off in the distance. 
 やっほー、{主人公}。\nどうしたの？ギルドに何か用事？,Yoohoo; {主人公}. What's up? Do you have business at the guild?
-へー、ギルドの近くの建物で、あなたの師匠と手合わせをするんだ。\nわたしもね、ギルドにちょっと用事があって\n今向かっているところだったのよ。,No way! You're heading off to spar with your master in one of the buildings close to the guild? I was just heading that way myself; I have some business at the guild.
+へー、ギルドの近くの建物で、あなたの師匠と手合わせをするんだ。\nわたしもね、ギルドにちょっと用事があって\n今向かっているところだったのよ。,No way! You're heading off to spar with your master in one of the buildings close to the guild? I was just heading that way myself; I have some things to take care of there.
 ふふ、実はね。ついにCランクに上がったの！\nすごいでしょ？,Fufufu. The truth is; I finally made it to C-rank! Pretty amazing; right?
 ってAランクに上がりそうなあなたに自慢するのも変な話だけれど。\nでもあなたに会ったことが一つの刺激になって、\nこれだけ頑張れたから、あなたには報告しておきたかったの。,Though it's kind of weird bragging to you when you're about to hit A-rank. But meeting you gave me the push I needed to work this hard; so I felt like I needed to tell  you.
 ああ、ここまで大変だったわ。\nDランクのみんな強いし、昇格戦までだいぶ時間がかかちゃった。,Ahh; but getting to this point was such a struggle. All the D-rankers are so strong; it took me forever just to qualify for the promotion match...
-ほら、見て。デッキに新しく入れたサキュバスのカード。\nこのカードのおかげで最近は連勝中なの。\nやっぱり強いカードを使うのが近道よね♪,Look; check this out—this is a succubus card I just added to my deck. Thanks to this card; I've been on a winning streak lately. Using powerful cards really creates a kind of shortcut; doesn't it?♪
-あなたにはとても追いつけないかもしれないけれど、\nわたしはわたしのペースで一歩一歩強くなる。\nいつかAランクにだってなってみせるわ。,I might never catch up to you; but I'll keep getting stronger at my own pace; one step at a time. Someday I'll make it to A-rank too—just you watch~
+ほら、見て。デッキに新しく入れたサキュバスのカード。\nこのカードのおかげで最近は連勝中なの。\nやっぱり強いカードを使うのが近道よね♪,Look; check this out—this is a succubus card I just added to my deck. Thanks to this; I've been on a winning streak lately. Using powerful cards really creates a kind of shortcut; huh?♪
+あなたにはとても追いつけないかもしれないけれど、\nわたしはわたしのペースで一歩一歩強くなる。\nいつかAランクにだってなってみせるわ。,I might never catch up to you; but I'll keep getting stronger at my own pace; one step at a time. Someday I'll make it to A-rank too. Just you watch~!
 ・・・・♪,...♪
-ギルドの目の前まで来ると、エルルさんは手を振って、僕と分かれギルドの中に入っていった。中にはいつもより多く人がいるようだったが、何か集まりでもあるのだろうか。,When we reached the front of the guild; Elulu waved goodbye and headed inside while I went my separate way. There seemed to be more people than usual gathered in there—maybe some kind of meeting?
+ギルドの目の前まで来ると、エルルさんは手を振って、僕と分かれギルドの中に入っていった。中にはいつもより多く人がいるようだったが、何か集まりでもあるのだろうか。,When we reached the front of the guild; Elulu waved goodbye and headed inside while I went on ahead. There seemed to be more people than usual gathered in there—maybe some kind of meeting?
 いや、今はそんなことを気にしている場合ではない。師匠との試合に集中しよう。,No; now's not the time to worry about that. I need to focus on my match with my master.
-この街に来て、多くの戦いをこなしてきた。街でマスターたちと戦い、クエストでサキュバスを倒し、闘技場で試合をし…。時には格上との戦いもあったが、それを乗り越えてきた。,Since arriving in this town; I've fought countless battles. I've battled other masters in the streets; defeated succubi on quests; competed in the arena... Sometimes I faced opponents stronger than me; but I overcame those challenges.
+この街に来て、多くの戦いをこなしてきた。街でマスターたちと戦い、クエストでサキュバスを倒し、闘技場で試合をし…。時には格上との戦いもあったが、それを乗り越えてきた。,Since arriving in this town; I've fought countless challenges. I've battled other masters in the streets; defeated succubi on quests; competed in the arena... Sometimes I faced opponents stronger than me; but I overcame those challenges.
 僕が修行してきた、その成果を、師匠に示すのだ。,Now it's time to show my master the results of all my training.
 ・・・・。,....
 約束の建物に着いて、ドアをノックする。中で先に師匠が待っているはずだ。,I arrived at the designated building and knocked on the door. My master should already be waiting inside.
 ・・・・?,...?
-ノックをしても返事がないな。どうしたんだろう？,No answer to my knock. That's strange.
+ノックをしても返事がないな。どうしたんだろう？,No answer. That's strange.
 何か用事があって、まだ着いてていないのだろうか。時間に厳しい師匠にしては、あまりなさそうな話だけれど…。,Could she have some errand and not arrived yet? That doesn't sound like my master; she's usually so strict about punctuality...
 少し待って、それからまたノックをしても反応がない。耳を当てると、ん・・・・？うめき声？のようなくぐもった声がかすかに聞こえる。,I waited a bit; then knocked again—still no response. When I pressed my ear to the door; I heard... hm...? A muffled voice; like someone groaning?
 僕はいぶかしく思いながら、ドアに手を伸ばした。鍵はかかっていない。中の様子をうかがうように、ゆっくりと引いてドアを開けた。,Feeling uneasy; I reached for the door handle. It wasn't locked. Slowly; I pulled it open to peek inside.
