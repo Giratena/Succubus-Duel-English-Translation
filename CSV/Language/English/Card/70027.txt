@@ -28,10 +28,10 @@ OPをスキップ,Skip the opening
 約束の建物に着いて、ドアをノックする。中で先に師匠が待っているはずだ。,I arrived at the designated building and knocked on the door. My master should already be waiting inside.
 ・・・・?,...?
 ノックをしても返事がないな。どうしたんだろう？,No answer to my knock. That's strange.
-何か用事があって、まだ着いてていないのだろうか。時間に厳しい師匠にしては、あまりなさそうな話だけれど…。,Could she have some errand and not arrived yet? That doesn't sound like my master; she's usually so strict about punctuality...
+何か用事があって、まだ着いてていないのだろうか。時間に厳しい師匠にしては、あまりなさそうな話だけれど…。,Could she have had some errand to run and not arrived yet? That doesn't sound like my master; she's usually so strict about punctuality...
 少し待って、それからまたノックをしても反応がない。耳を当てると、ん・・・・？うめき声？のようなくぐもった声がかすかに聞こえる。,I waited a bit; then knocked again—still no response. When I pressed my ear to the door; I heard... hm...? A muffled voice; like someone groaning?
 僕はいぶかしく思いながら、ドアに手を伸ばした。鍵はかかっていない。中の様子をうかがうように、ゆっくりと引いてドアを開けた。,Feeling uneasy; I reached for the door handle. It wasn't locked. Slowly; I pulled it open to peek inside.
-夕暮れの薄暗い部屋の奥、師匠とおぼしき人影が見えた。なんだ先に来ていたのか、そう思い、部屋に一歩入ったそのとき、部屋に漂う甘ったるい香りと肌がひりつくような怪しい魔力に僕の足が止まる。,In the dim twilight gloom at the back of the room; I could see a figure that appeared to be my master. Ah; so she is here after all—but the moment I stepped inside; a sickeningly sweet fragrance and an ominous magical energy that made my skin prickle stopped me in my tracks.
+夕暮れの薄暗い部屋の奥、師匠とおぼしき人影が見えた。なんだ先に来ていたのか、そう思い、部屋に一歩入ったそのとき、部屋に漂う甘ったるい香りと肌がひりつくような怪しい魔力に僕の足が止まる。,In the dim twilight gloom at the back of the room; I could see a figure that appeared to be my master—ah; so she is here after all—but the moment I stepped inside; a sickeningly sweet fragrance and an ominous magical energy that made my skin prickle stopped me in my tracks.
 奥にいるのは師匠のはずだ。間違いない。だけどそれと同時に、僕のカードマスターとしての直感が、何か危険な空気を感じ取っている。,That has to be my master back there. No doubt about it. But at the same time; my instincts as a card master were detecting something dangerous in the air.
 あら、弟子。\n遅かったわね。,Oh; my dear student. You're late.
 ふふふ、どうしたのそんな入口のところで止まって。\nこっちへ来なさい。,Fufufu; now now; don't just stand there at the entrance. Come here.
@@ -40,11 +40,11 @@ OPをスキップ,Skip the opening
 そう、そのままおいで・・・❤\nわたしの手が触れるところまで❤,Yes; that's it; come to me...❤ Close enough for me to touch you...❤
 ふらふらと歩いていくと、不意に小さいうめき声が横の方から聞こえた。,As I stumbled forward in a daze; I suddenly heard a faint groan from the side.
 うっ、あっ・・・。,Ungh; ahh...
-そこには、干からびかけた男の姿があった。街の人だろうか。ギルドの近くで露店か何かをやっているのを見たことがある。,There lay the withered husk of a man. A townsperson; perhaps? I remembered seeing him running a street stall near the guild.
-とろけた、うつろな目をして、力なく横たわっている。この状況、まるでそうこれは・・・。,His eyes were glazed and vacant; his body sprawled limply on the floor. This situation—it was just like...
+そこには、干からびかけた男の姿があった。街の人だろうか。ギルドの近くで露店か何かをやっているのを見たことがある。,There; tossed to one side lay; the withered husk of a man. A townsperson; perhaps? I remembered seeing him running a street stall near the guild.
+とろけた、うつろな目をして、力なく横たわっている。この状況、まるでそうこれは・・・。,His eyes were glazed and vacant; his body sprawled limply on the floor. Seeing him like this—it was just like...
 んっ、ふふ。いけないわ。\n手合わせの前の腹ごしらえだと思っていたのに…。\nまだ完全には吸い切れていなかったみたい❤,Mm; fufufu. Oops. I thought I'd have a little snack before our match...but it seems I didn't quite finish draining him dry.❤
 ねえ、弟子❤\nあなたもその男みたいに、天国を見たい？\nもし見たいなら、さあ、こちらへ来なさい・・・❤,Now; my student...❤ Do you want to experience heaven like that man over there? If you do; then come here...❤
-暗い部屋に慣れてきた目が、師匠の姿を捉えた。僕を手招きするその姿は、いつもよりも美しく、そして・・・。,My eyes; now adjusted to the darkness; focused on my master's form. Her figure beckoning me was more beautiful than ever; and also...
+暗い部屋に慣れてきた目が、師匠の姿を捉えた。僕を手招きするその姿は、いつもよりも美しく、そして・・・。,My eyes; now adjusted to the darkness; focused on my master's form. The figure beckoning me was more beautiful than ever; and also...
 悪魔の角と、大きな翼をそなえていた。,She had demon horns and massive wings.
 ・・・・！,...!
 くす❤逃げちゃダメよ。\nほら、ふぅー・・・❤,Aha~❤ Don't try to run away. Here; let me blow you a kiss... Fuuu~...❤
