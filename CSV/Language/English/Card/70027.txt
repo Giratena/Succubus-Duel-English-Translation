@@ -60,9 +60,9 @@ OPをスキップ,Skip the opening
 {主人公}！無事！？\nたいへんよ、街中の様子が・・・！,{主人公}! Are you OK!? This is terrible; the whole town is...!
 後ろでドアが勢いよく開き、その大きな音で、朦朧としていた意識が一瞬だけはっきりとした。このままではいけない！僕は急いで師匠から距離を取り、ドアの方へと駆け出した。,Suddenly; the door behind me violently burst open; and that sound momentarily snapped my hazy consciousness back to reality. I can't stay here! I quickly distanced myself from my master and dashed toward the door.
 っ！中にもサキュバスが！\nいったん逃げるわよ！{主人公}！,There's a succubus in here; too! We need to retreat for now! {主人公}!
-僕たちは急いで外へ駆け出した。サキュバスのフェロモンでふらつく体を、エルルさんに引っ張ってもらいながら、なんとか足に力を込めて走る。,We rushed outside in a hurry. With my body wavering from the succubus pheromones; Elulu pulled me along as I attempted to run along with her; but my legs felt weak and heavy.
+僕たちは急いで外へ駆け出した。サキュバスのフェロモンでふらつく体を、エルルさんに引っ張ってもらいながら、なんとか足に力を込めて走る。,We rushed outside in a hurry. As Elulu pulled me along I did my best to force my legs to move; despite my body still reeling from the succubus pheromones.
 街の大通りからは、パニックになった街の人たちの叫び声と、若い女性の笑い声、そしていくつもの嬌声が聞こえる。,From the main street; I could hear the panicked screams of townspeople; young women's laughter; and countless moans of pleasure.
-街中に突然サキュバスが現れたの！\nカードマスターたちも突然サキュバスになって！周り中敵だらけだわ！,Succubi appeared all over town; and some of cardmasters suddenly transformed into succubi! We're completely surrounded by enemies!
+街中に突然サキュバスが現れたの！\nカードマスターたちも突然サキュバスになって！周り中敵だらけだわ！,Succubi appeared all over town; and some of the cardmasters suddenly transformed into them! We're completely surrounded by enemies!
 この状況で立ち向かうのはムリよ！\nギルドには避難できる場所があるから、早く来て！,It's impossible to fight back like this! The guild has a safe place to evacuate; so hurry and come with me!
 エルルさん！それに{主人公}さん！\n早くこちらへ！,Elulu! And {主人公}! Quickly; over here!
 受付さんはギルドの奥の部屋へ僕たちを案内すると、壁際の戸棚を一つ横にずらした。すると奥に扉が隠されており、中に地下通路への階段が続いていた。,The receptionist guided us to a room deep inside the guild; then slid one of the cabinets against the wall to the side. Behind it was a hidden door; with stairs leading down to an underground passage.
@@ -106,7 +106,7 @@ OPをスキップ,Skip the opening
 僕はエルルさんのそばによると、彼女の下腹部に手を当てた。一度だけ、ゆっくりと息を吐き、ネクロさんと練習したときの感覚を思い出す。,I approached Elulu and placed my hand on her lower abdomen. I took one slow breath; and reflected back on what I felt from when I practiced with Necro.
 ああんっ❤\nなにこれ、んうっ❤あんっ❤ああんっ❤,Aahhn~❤ What is this; nnh~❤ Ahhn~❤ Aaahhn~❤
 エルルさんの体がビクンと跳ねる。なまめかしい声が洞窟に響き、つい余計なことを考えそうになるが、集中しないといけない。,Elulu's body jerked and twitched; moaning sexually. Her sensual voice echoed through the cave; making it hard not to let my mind wander; but I needed to concentrate.
-彼女の魔力の核に僕の魔力を合わせて、ゆっくり、ゆっくり、上に向かって引き抜いていく。彼女の体から紫色の玉のような光が少しづつ顔を出し、じわじわと体の中から取り出されていく。,I aligned my own energy with the core of her magical power; and slowly—carefully—pulled upward. A purple-orb shaped light gradually emerged from her body; and I began to remove it little by little.
+彼女の魔力の核に僕の魔力を合わせて、ゆっくり、ゆっくり、上に向かって引き抜いていく。彼女の体から紫色の玉のような光が少しづつ顔を出し、じわじわと体の中から取り出されていく。,I aligned my own energy with the core of her magical power; and carefully began to pull upwards. A purple orb-shaped light gradually  to emerged from her body; and lifted out little by little.
 んんっ❤やめて、{主人公}…❤\nそれ以上されたら、わたし、おかしくなる…❤んあっ❤\n{主人公}、{主人公}…❤,Nnnh~❤ Stop; {主人公}...❤ If you keep going; I'll go crazy...❤ Nnah~❤ {主人公}; {主人公}...❤
 (何も聞いちゃダメだ。集中して、練習通りに…！),(No matter what she says; I can't listen. Focus; just like I practiced...!)
 （あううっ…❤なんで僕はこんな大事なときに…❤）,(Auuuh...❤ Why... am I feeling this way at such a critical moment...❤)
@@ -140,7 +140,7 @@ OPをスキップ,Skip the opening
 {主人公}。わたしを助けようとしくれてありがとう。\nあなたの全部はわたしの中にあるから\nこの先もずっと一緒よ❤,Thank you for trying to save me; {主人公}. Now that I have your essense inside me; we can be together forever.❤
 あなたにもらった力で、全部全部、壊してあげる❤\nまずはそこでおびえてる下級のマスターたちから…。,With the power you gave me; I'll destroy everything.❤ Starting with those low-level Masters cowering over there...
 みんな、サキュバスにしてあげるわね❤\nくす、くすくすくす❤,I'll turn everyone into succubi.❤ Kusu; kususususu❤
-彼女が体をくねらせ僕にやめるよう懇願するが、僕の心は乱れなかった。絡み合った糸をほぐすように、彼女にかけられた呪いの術式をひとつずつ解除していく。,She writhes her body and begs me to stop; but my heart doesn't waver. Like untangling knotted threads; I undo the curse's spell formations one by one.
+彼女が体をくねらせ僕にやめるよう懇願するが、僕の心は乱れなかった。絡み合った糸をほぐすように、彼女にかけられた呪いの術式をひとつずつ解除していく。,Her body writhes as she begs me to stop; but my heart doesn't waver. Like untangling knotted threads; I undo the curse's spell formations one by one.
 最後まで気を抜かず、魔力の強さも正確に…。これで最後の呪文だ！！僕ははっきりとした口調でそれを唱えた！,I won't let my guard down until it's all done. Keeping my magical power precise and strong... This is the final incantation!! I recite it with clear conviction!
 はうぅ・・・・❤,Hauuu...❤
 ひときわ強い光のあと、エルルさんの体を見ると、角や翼は消え、元の人間の姿に戻っていた。,After an especially intense flash of light; I look at Elulu's body—her horns and wings have vanished; and she's returned to her original human form.
@@ -150,30 +150,30 @@ OPをスキップ,Skip the opening
 エルルさんを、助け、られた・・・。,I... saved... Elulu...
 僕はやり遂げたのだ。そう思った瞬間、緊張の糸が切れたからだろうか、ふっと、意識が遠のき、僕はその場に倒れこんでしまった。,I did it. The moment that thought crosses my mind; perhaps the thread of tension snapped—my consciousness suddenly fades; and I collapse right there on the spot.
 わわっ、大丈夫ですか、{主人公}さん。,Whoa; are you okay; {主人公}?
-受付さんが駆け寄ってきて、僕の肩を持って支えてくれる。ただ猛烈な疲労感で、とても起きていられない。,The receptionist rushes over and supports me by the shoulder. But the overwhelming fatigue is too much; and I couldn't stay conscious.
+受付さんが駆け寄ってきて、僕の肩を持って支えてくれる。ただ猛烈な疲労感で、とても起きていられない。,The receptionist rushes over and supports me by the shoulder. But the overwhelming fatigue was too much; and I lost track of what was happening.
 僕はそのまま意識を手放したのだった。,I let myself go; and lost conciousness.
 一方そのころ。城内にて。,Meanwhile; at that same time. Inside the castle.
 城内には無数のサキュバスたちが集まっていた。正確には淫魔化したカードマスターたちが集まり、転移陣の周りを囲んでいた。,Countless succubi had gathered within the castle. More precisely; Card Masters who had been transformed into lustful demons surrounded the teleportation circle.
-彼女たちは一心に魔力を注ぎ、転移陣を起動する呪文を唱える。主を求める本能のままに・・・。,They pour their magical energy into it with singular focus; chanting the spell to activate the teleportation circle. Following their instinct to seek their master...
+彼女たちは一心に魔力を注ぎ、転移陣を起動する呪文を唱える。主を求める本能のままに・・・。,They pour their magical energy into it with one singular focus; chanting the spell to activate the teleportation circle; following their instinct to seek their master...
 とうちゃーく♪\nあはぁ、こんなすぐ着くなんて、らくちんだね～。,We're heeere♪ Ahaha; getting here so fast was super easy~
 もう、ダメよ。あんまり気を抜いたら。\nここは一応敵地なんだから。,Come on; don't let your guard down too much. This is technically enemy territory; you know.
-えー、そんなこといったって、\nもうだいたいみんなサキュバスでしょ？,Aw; but come on; pretty much everyone's already a succubus; right?
-ほら、転移陣の周りの子たちもみんなサキュバス♪\nえらいねー。きみたちのおかげで、\nわたしたち中級サキュバスがワープしてこれたんだよ。,Look; all the girls around the teleportation circle are succubi too♪ Good job~ Thanks to you all; us mid-level succubi could warp right in.
-ま、一番の功労者は、この子たちをサキュバス化させた、\nユイ様だけど。,Well; the one who deserves the most credit is Yui-sama; who turned all these girls into succubi.
+えー、そんなこといったって、\nもうだいたいみんなサキュバスでしょ？,Aw; don't be a spoil sport; pretty much everyone's already a succubus; right?
+ほら、転移陣の周りの子たちもみんなサキュバス♪\nえらいねー。きみたちのおかげで、\nわたしたち中級サキュバスがワープしてこれたんだよ。,Look; all the girls around the teleportation circle are succubi too~♪ Good job; everyone. Thanks to you all; us mid-level succubi could warp right in!
+ま、一番の功労者は、この子たちをサキュバス化させた、\nユイ様だけど。,Well; the one who deserves the most credit is Yui. She's the one who turned all these girls into succubi.
 相手をカード化するなんて、レアな能力もすごいし、\nそれを味方のサキュバスに使って、\n行商人経由で敵の街にばらまくって作戦もすごいよねー。,Her rare ability to turn people into cards is amazing; and the strategy of using it on allied succubi and spreading them throughout the enemy town via traveling merchants was brilliant too~
-街では大会がやっているから、みんなこぞって強いカードを求める。\nそれを利用したんでしょ？\n頭いい～♪,There was a tournament going on in town; so everyone was scrambling for powerful cards. She took advantage of that; didn't she? So smart~♪
+街では大会がやっているから、みんなこぞって強いカードを求める。\nそれを利用したんでしょ？\n頭いい～♪,There was a tournament going on in town; so everyone was scrambling for powerful cards. She took advantage of that; right? So smart~♪
 ふふ、あはは、嘘みたい♪\nここ、お兄ちゃんの匂いがする…❤,Fufu; ahaha; it's like a dream♪ This place... it smells just like my brother's scent...❤
 人間の街ぜんぶ探すつもりだったのに、\n一発目で当たるなんて…。\nやっぱりお兄ちゃんとわたしは運命の糸でつながれてるんだ…❤,I was prepared to search every human town; but to hit it on the first try... my brother and I really are connected by the red string of fate...❤
-って、わたしの話聞いてないし…。\nユイ様はお兄ちゃんのことになるといつもこうだもんな～。,And she's not even listening to me... Yui-sama always gets like this when it comes to her brother~
-ま、いいや、それじゃユイ様が練った計画通りに、\n重要な建物を押さえていくとしましょうー。\nおいしい人間がいっぱいいるといいなー♪,Oh well; let's go ahead with Yui-sama's plan and secure the important buildings. I hope there are lots of tasty humans♪
-ああん❤{主人公}っ❤わたしのナカに魔力を入れないで❤,Ahhhn~❤ {主人公}~❤ Don't put your magical energy inside me~❤
-おねがい、おねがい…❤やめて…❤エッチなことしてあげるからぁ❤,Please; please...❤ Stop...❤ I'll do any sexual fantasy you like~❤
+って、わたしの話聞いてないし…。\nユイ様はお兄ちゃんのことになるといつもこうだもんな～。,And she's not even listening to me... She always gets like this when it comes to her brother~
+ま、いいや、それじゃユイ様が練った計画通りに、\n重要な建物を押さえていくとしましょうー。\nおいしい人間がいっぱいいるといいなー♪,Oh well; let's go ahead with her plan and secure all the important buildings. I hope there are lots of tasty humans~♪
+ああん❤{主人公}っ❤わたしのナカに魔力を入れないで❤,Ahhhn~❤ {主人公}~❤ Don't put your magical energy inside me like that~❤
+おねがい、おねがい…❤やめて…❤エッチなことしてあげるからぁ❤,Please; please...❤ Stop...❤ I'll do anything you want... Fulfil any sexual fantasy~❤
 だめ、気持ちいい…❤あん、ああんっ❤,No; it feels too good...❤ Ahn; ahhhn❤
 集中なんてしないで…❤わたしの声だけ聞いて…❤\n{主人公}…❤{主人公}…❤,Don't bother concentrating...❤ Just listen to my voice...❤ {主人公}...❤ {主人公}...❤
 あうぅうっ、おかしくなっちゃうっ❤だめっ、だめっ❤,Auuuh; I'm going crazy~❤ No; no~❤
 おなかよりもっといいところ触りましょ？\nほら、手を少し上にあげて、やわらかいおっぱい触ってぇ❤,Let's touch somewhere better than my belly; okay? Come on; move your hand up a little and touch my soft breasts~❤
 だいじょうぶ、少しぐらい間違えてもうまくいくからっ❤\nだからあんっ❤わたしの声をじーっと聞いて❤ああん❤,It's okay; even if you mess up a little it'll work out.❤ So ahnn~❤ Just listen carefully to my voice❤ Ahhhn~❤
-おっぱい揉んでもいいからぁ❤\nもうやめよ？ほら、ほら、{主人公}…❤,You can grope my breasts~❤ So just stop all this; okay? Come on; come on; {主人公}...❤
+おっぱい揉んでもいいからぁ❤\nもうやめよ？ほら、ほら、{主人公}…❤,You can grope my breasts if you want~❤ So just stop all this; okay? Come on; come on; {主人公}...❤
 {主人公}❤好き、大好き…❤だから集中しちゃダメ❤,{主人公}❤ I love you; I love you so much...❤ Don't bother concentrating~❤
 あん、あん、ああん❤エッチな声出してあげる❤,Ahn; ahn; ahhhn~❤ I'll make sexy moans for you❤
 ああん❤我慢しないで❤\n治療なんてやめて、気持ちいいことしましょう❤おねがい❤あんっ❤,Ahhhn~❤ Don't hold back~❤ Stop trying to fix me and let's do something that feels good~❤ Please?❤ Ahnn~❤
@@ -188,15 +188,15 @@ OPをスキップ,Skip the opening
 サキュバスを治す前に気持ちいいことしよ❤\n{主人公}、{主人公}、おねがい、ああんっ❤魔力でいじめないで❤,Let's do something that feels good before you de-succubus-ify me~❤ {主人公}; {主人公}; please; ahhhn❤ Don't torment me with your magic~❤
 （そうだちゃんと集中しろ…。僕ならできる…！）,(That's right; concentrate properly... I can do this...!)
 あぁん❤ひどいわ、{主人公}…❤\nそんな顔をして、わたしにカードを向けるなんて。,Ahhhn~❤ How cruel; {主人公}...❤ Making that face and pointing your card at me.
-考えてみて？戦いなんてするだけ無駄よ。\n周りはサキュバスだらけ。\n抵抗したって勝ち目なんてないわ。,Think about it? Fighting is pointless. You're surrounded by succubi. Resisting won't get you anywhere.
+考えてみて？戦いなんてするだけ無駄よ。\n周りはサキュバスだらけ。\n抵抗したって勝ち目なんてないわ。,Think about it. Fighting is pointless. You're surrounded by succubi. Resisting won't get you anywhere.
 それならいっそ、わたしと楽しいことしましょう？\nあなたにしてあげた、わたしの手コキ❤\nサキュバスになった今ならもっと気持ちよくできる自信があるの❤,So instead; why don't we have some fun together? Remember the handjobs I gave you?❤ Now that I'm a succubus; I'm confident I can make it feel even better~❤
-それならいっそ、わたしと楽しいことしましょう？\nわたし、前から手コキが得意だったの❤\nサキュバスになった今なら更に男を気持ちよくできる自信があるわ❤,So instead; let's have some fun together? I've always been good with my hands~❤ Now that I'm a succubus; I'm more confident in pleasuring men than ever~❤
+それならいっそ、わたしと楽しいことしましょう？\nわたし、前から手コキが得意だったの❤\nサキュバスになった今なら更に男を気持ちよくできる自信があるわ❤,Why don't we just have some fun together instead? I've always been good with my hands~❤ Now that I'm a succubus; I'm more confident in pleasuring men than ever~❤
 腰が抜けるまで、何度もシコシコしごいてあげる❤\nいいえ、腰が抜けたあとも…❤頭真っ白になって\n私のこと以外考えられなくなるまで、いーっぱい扱いてあげる❤,I'll stroke you over and over until your legs give out~❤ No; even after your legs give out...❤ I'll keep jerking you off until your mind goes blank and you can't think of anything but me~❤
 してほしいなら・・・❤\n何もせずにターンエンドしなさい❤\nくすくす❤,If you want me to...❤ Just do nothing and end your turn~❤ Kususu~❤
 サキュバスになって前よりずっと魔力がみなぎっているのを感じるの…❤\n今ならきっとあなたにも勝てる❤,I can feel so much more magical energy surging through me now that I'm a succubus...❤ I'm sure I can beat you now~❤
 {主人公}のその強気な顔が快楽で歪むのが、\n今から楽しみだわ❤\n何度も喘がせてあげる❤,I can't wait to see that confident face of yours twist in pleasure; {主人公}~❤ I'll make you moan over and over~❤
 わたしのターンね。ドロー。,My turn! Draw.
-モンスターをコストにして、{使用カード}を召喚！,I'll use a monster as cost to summon {使用カード}!
+モンスターをコストにして、{使用カード}を召喚！,I'll sacrifice a monster to summon {使用カード}!
 {使用カード}を召喚するわ。,I shall summon {使用カード}.
 {使用カード}は「隠密」と「直接攻撃可能」の能力を持っているの。\n敵からは狙われず、相手プレイヤーの精を奪う、\nまさに怪盗のカードってわけね❤,"{使用カード} possesses both ""Stealth"" and ""Direct Attack"" abilities. She can't be targeted by enemies; and steals essence directly from the opposing player—making her a true phantom thief card.❤"
 どれだけ強いカードがいてもこの子の前では無力よ。\nあなたの魔力、すべて奪わせてもらうわ。うふふふ❤,No matter how powerful your cards are; they're helpless before this girl. I'll be taking all of your magical power. Ufufufu.❤
