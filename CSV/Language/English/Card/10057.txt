@@ -3,248 +3,248 @@ default,
 EU57_paizuriAnime,
 EU57_bustShakeAnime,
 EU57_footShakeAnime,
-　道化の姿をしたモンスター。つかみどころのない態度であちこち動き回り、気が付けばこちらのそばにいてふところに潜り込んでいる。,A monster who has taken the form of a jester.  Her elusive demeanor and unpredictable movements make her a hard target to keep track of; and before you realize it; she'll have slipped into your space; taking her place right beside you.
-\nどこか憎めない愛嬌のある様子に油断すれば、その時点で彼女の手の平の上であり、主人であるはずのものがかえって召使いに操られ、いつの間にか言われるがまま精も何もかも彼女に搾り取られてしまっているだろう。,As soon as you let your guard down around her seemingly lovable and charming demeanor; you're already in the palm of her hand. Her role as your servant will quickly turn into your mistress; and she'll have milked you of everything you have—your cum; your energy; and your soul—all as you obey her every word.
-\n　道化として数々の「芸」を身に着けている彼女は、手コキも足コキもパイズリも得意である。ご主人の好みに合わせて、胸での奉仕を望まれれば弾力たっぷりの胸で愛撫し、足での奉仕を望まれれば絶妙な力加減でぐりぐりと踏みしごいてくれる。のちのことを考えないのであれば、頭を空っぽにし彼女に楽しませてもらうことはとても幸福なことかもしれない。,As a jester who has mastered numerous "performances;" she excels at handjobs; footjobs; and paizuri. She'll cater to her master's preferences—if you desire service from her breasts; she'll caress you with her large; bouncy boobs; and if you want service from her feet; she'll stroke and squeeze your cock between her arches with exquisite pressure control. Should you forget about the situation at hand; you may find yourself trapped in pure bliss; head empty of all thoughts.
-[1].このカードは「隠密」「弱点付与」を持つ。,[1]. This card has "Stealth" and "Weakness Assignment.
-[2].このカードが通常召喚に成功したとき、LPを800払xcv って発動する。相手フィールド上の最もレベルが低いモンスター（このカードと同名のカードは除く）とこのカードのコントロールを入れ替える。その後、そのモンスターに「攻撃不能（1ターン）」を付与する。,[2]. When this card is successfully Normal Summoned; pay 800 LP to activate. Switch control of this card with the lowest level monster on your opponent's field (excluding cards with the same name as this card). Then; inflict "Cannot Attack (1 Turn)" on that monster.
-[3].このカードのコントローラーが元々の持ち主と違う場合、このカードは相手キャラクターに攻撃できず、自分キャラクターに対してのみ攻撃できる。このときこのカードは反撃されない。,[3]. If this card's controller differs from its original owner; this card cannot attack opponent characters and can only attack your own characters. This card does not receive counterattacks when doing so.
-[4].このカードのコントローラーが元々の持ち主と違う場合、自分ターン終了時に発動する。相手はカードを１枚ドローする。,[4]. If this card's controller differs from its original owner; your opponent draws 1 card at the end of your turn. 
+　道化の姿をしたモンスター。つかみどころのない態度であちこち動き回り、気が付けばこちらのそばにいてふところに潜り込んでいる。,A monster who has taken the form of a court jester.  Her elusive demeanor and unpredictable movements make her a hard target to keep track of; making it easy for her to infiltrate the opponent's side of the field; taking her place right beside them before they can realize what has happened.
+\nどこか憎めない愛嬌のある様子に油断すれば、その時点で彼女の手の平の上であり、主人であるはずのものがかえって召使いに操られ、いつの間にか言われるがまま精も何もかも彼女に搾り取られてしまっているだろう。,Should someone let their guard down around her seemingly lovable and charming demeanor; they'll quickly find themselves in the palm of her hand. Her role as servant will quickly turn into mistress; and she'll have milked them of everything they have all as you obey her every word.
+\n　道化として数々の「芸」を身に着けている彼女は、手コキも足コキもパイズリも得意である。ご主人の好みに合わせて、胸での奉仕を望まれれば弾力たっぷりの胸で愛撫し、足での奉仕を望まれれば絶妙な力加減でぐりぐりと踏みしごいてくれる。のちのことを考えないのであれば、頭を空っぽにし彼女に楽しませてもらうことはとても幸福なことかもしれない。,As an entertainer; she has mastered numerous different 'performances'. She excels at handjobs; footjobs; and paizuri; and will cater her talents to best suit her master's preferences. If he desires service from her breasts; she'll caress him with her large; bouncy chest. Should he prefer service from her feet; she'll stroke and squeeze his cock between her arches with exquisite pressure control. If a man allows these 'performances' to make him forget about the situation at hand; he will no doubt find himsself trapped in pure bliss; head empty of all thoughts.
+[1].このカードは「隠密」「弱点付与」を持つ。,[1]. This card has [Stealth] and [Weakness Assignment].
+[2].このカードが通常召喚に成功したとき、LPを800払xcv って発動する。相手フィールド上の最もレベルが低いモンスター（このカードと同名のカードは除く）とこのカードのコントロールを入れ替える。その後、そのモンスターに「攻撃不能（1ターン）」を付与する。,[2]. When this card is successfully Normal Summoned; pay 800 LP to switch control of this it with the lowest level monster on your opponent's field (excluding cards with the same name as this card). Then; inflict [Cannot Attack (1 Turn)] on that monster.
+[3].このカードのコントローラーが元々の持ち主と違う場合、このカードは相手キャラクターに攻撃できず、自分キャラクターに対してのみ攻撃できる。このときこのカードは反撃されない。,[3].If you are not the owner of this card; you cannot use it to declare an attack on any foe. If this card is used to attack cards on your field; it does not receive counterattacks.
+[4].このカードのコントローラーが元々の持ち主と違う場合、自分ターン終了時に発動する。相手はカードを１枚ドローする。,[4].If you are not the owner of this card; your opponent draws 1 card at the end of your turn. 
 (戦闘時に弱点を付与する。),(Inflicts a fetish status during battle)
-じゃじゃーん、道化めの登場です～❤\nではでは、いきますよ～、いち、にの、さーん❤,Ta-da~ Your jester has arrived!❤ Now then; let's begin~ One; two; three!❤
-どうもどうも～。はじめまして主様ぁ❤\nわたくしは、これから主様にお仕えいたしますゆえー、\nよろしくお願いいたします～❤,Hello there~. Nice to meet you; Master.❤ I'll be serving you from now on; so please take good care of me~❤
-向こうに行ったお仲間さまは、\nわたくしがちょっと、ごにょごにょいたしましたので、\nすっかり敵のマスターにメロメロですよぉ。こちらには戻りません❤,Your companion who went over there? I did a little something to them~ Now they're all lovey dovey for the cardmaster you're fighting~! I'm afraid they won't be coming back.❤
-その分、わたくしが主様にたくさんご奉仕いたしますので～❤\nなーんでもご申しつけくださいね～、主様ぁ❤,But don't worry~ I'll serve you plenty to make up for it!❤ Feel free to give me any order you desire; Master~❤
-観客さまにはわたしの演技を披露させていただきます❤\nわたくし道化師でございますから、\n観客さまを楽しませるのがお仕事なのです❤,Allow me to put on a performance for the audience.❤ I'm a jester after all; so entertaining the crowd is what I do best; but I'll need a volunteer~❤
-まずはわたしの手で、あなたの玉を触らせていただいて、\nほら、たぷたぷ❤むにむに❤\nいかかですか～、観客さまぁ❤,Ooh? What about you? First; I'll give your balls a little fongle with my hands~ Look; I can manipulate them real nicely right?❤ Just massaging them nicely between my fingers.❤ Lucky volunteer~ How does it feel?❤
-玉遊びならお手の物。何回でもジャグリングして、\n自由自在に操ってみせますよぉ❤\nほらほらぁ、手の平でやさしく持ち上げ揉みこんでさしあげますぅ❤,Juggling balls is my specialty. I can toss them around as many times as you want; manipulating them however I please~❤ See? I'm lifting them up in my palms and kneading them so tenderly~❤
-主様はわたくしのご奉仕をご所望ですか❤\nはい、わたくし道化師、せいいっぱい、\n主様を気持ちよくさせていただきます❤,Does Master desire my service?❤ I understand! This jester will do everything in her power to make Master feel amazing!❤
-わたしの手で、主様のおチンポを触らせていただいて、\nほら、しこしこ❤しこしこ❤\nいかかですか～、主様ぁ❤,Let me touch Master's cock with my hands~ Watch~ I'm stroking it~❤ Pumping it~❤ How does it feel; Master?❤
-道化は主様の敵ではございません。\nだから、たっぷり気持ちよくなっていいんですよ～❤\n主様がご満足されるまで❤しこ、しこ❤しこ、しこ❤しこ、しこ～❤,Jester is not Master's enemy. So please; feel free to enjoy yourself as much as you want until Master is completely satisfied~❤ Stroke; stroke~❤ Stroke; stroke~❤ Stroke; stroke~❤
-主様のご命令とあらば、\nお仲間さまを楽しませることも道化の務めです❤\nさあ、共に戦う仲間として、おててで楽しませてあげますね❤,If Master commands it; then I must obey~ What kind of jester would I be if I didn't entertain your comrades?❤ Come fellow friends! Let me pleasure your cocks with my hands~❤
-わたしの手で、チンポをぎゅっと触らせていただいて、\nほら、しこしこ❤しこしこ❤玉も触って、さわさわさわ～❤\n道化めの手さばきは気持ちいいですかぁ❤,Let me grip your cock tightly with my hands~ Look; I'm stroking it~❤ pumping it~❤ And I'm fondling your balls too; massaging them gently~❤ Does this jester's handiwork feel good?❤
-これは主様のご命令でございます。\nだから、お仲間さまもたっぷり気持ちよくなっていいんですよ～❤\nしこ、しこ❤しこ、しこ❤ふふ、うっとりされてますね～❤,This is what Master has ordered us to do; so please; feel free to enjoy yourself thoroughly~❤ Stroke; stroke~❤~ stroke; stroke❤ Fufu; it looks like you're already starting to space out~❤
-観客さまには、おっぱいでのパフォーマンスを楽しんでいたきます❤\n玉投げに玉乗り、丸いものの扱いはお手の物なのです。当然、道化めの\n胸についたこの丸ーい二つの玉も、巧みに扱ってみせますよ～❤,Dear audence member; allow me to put on a lovely performance for you with my breasts~❤ Ball juggling; ball riding—I'm an expert at handling all kinds of round things. Naturally; that also includes my two lovey; bouncy tits~❤
-むにゅっと棒を挟ませていただきまして～❤\n両手で交互にたぱん、たぱんっと持ち上げるのです❤\nあは、おチンポおっぱいの間で翻弄されてぇ、気持ちよさそうですね～❤,Let me wrap them around your shaft~❤ I'll lift them alternately with both hands; bouncing them up and down!❤ Aha; your cock is being toyed with between my breasts~ Does it feel good?❤
-ずりずり、むにむにゅ❤あん、おチンポが震えてますぅ❤\nこんなに感動していただいて、道化めはとっても嬉しいですぅ❤\nわたくしとの玉遊びで、もっともっと元気になってくださぁい❤,My lovely titties are sliding so effortlessly up and down the length of your cock~❤ Ah~ I can feel it trembling!❤ I'm so happy you're enjoying it this much~❤ Go ahead; just have fun and buck your hips into my funbags~❤
-ご命令くださりありがとうございます❤主様ぁ❤\n道化めがこのおっぱいでたくさん気持ちよくしちゃいますね❤\n玉投げに玉乗り、道化は丸いものの扱いはお手の物なのです❤,I appreciate your orders Master!❤ This jester will make you feel incredible with these breasts~❤ Ball juggling; ball riding—jesters are experts at handling all round things!❤
-むにゅっと棒を挟ませていただきまして～❤\n両手で交互にたぱん、たぱんっと持ち上げるのです❤主様のおチンポ、\nおっぱいの間で翻弄されてぇ、気持ちよさそうですね～❤,Let me wrap them around your shaft~❤ I'll lift them alternately with both hands; bouncing them up and down!❤ Master's cock is being toyed with between my breasts~ Does it feel good?❤
-ずりずり、むにむにゅ❤あん、おチンポが震えてますぅ❤\nこんなに武者震いされて、主様ぁ❤戦いのやる気はばっちりですねぇ❤\nわたくしとの玉遊びで、もっともっと元気になってくださぁい❤,Sliding; squishing~❤ Ah~ Your cock is trembling!❤ All that shivering; Master~❤ You must be full of fighting spirit!❤ Get even more pumped up from playing with my round bouncy tits~❤
-主様のご命令ですので、お仲間さまにおっぱいでのご奉仕です～❤\n玉投げに玉乗り、丸いものの扱いはお手の物なのです。当然、道化めの\n胸についたこの丸ーい二つの玉も、巧みに扱ってみせますよ～❤,Master has given the order; so I'll pleasure your friend with my breasts~❤ Ball juggling; ball riding—I'm an expert at handling all kinds of round things. Naturally; that also includes these two round; bouncy tits of mine~❤
-むにゅっと棒を挟ませていただきまして～❤\n両手で交互にたぱん、たぱんっと持ち上げるのです❤お仲間さまのお顔\nあっという間に気持ちよさそうに蕩けてますね～❤,Let me wrap them around your shaft~❤ I'll lift them alternately with both hands; bouncing them up and down!❤ Your friend's expression is already melting with pleasure~❤
-ずりずり、むにむにゅ❤むにゅんむにゅん❤\nあん、おチンポが震えてますぅ❤イきそうなんですかぁ❤わたくしとの\n玉遊びで、どぴゅって出しちゃってもいいですよ❤お仲間さまぁ❤,Sliding; squishing~❤ Bouncing; jiggling~❤ Ah~ Your cock is trembling!❤ Are you about to cum?❤ Feel free to let it all out between my bouncy tits~❤ Dear friend~❤
-道化めのブーツは、意外とやわらかくできてましてぇ、\n踏んでも痛くないのです❤\nだから、ご所望とあれば、足コキだってしてさしあげますよぉ❤,This jester's boots are surprisingly soft; so it won't hurt even when I step on you.❤ So if you desire it; I can give you a footjob too~❤
-玉乗りのときみたいに、足をすばやく動かしましてぇ❤\nほら、すりすりすり～❤\n道化めの足さばきもなかなかのものでしょう？,I'll move my feet quickly; just like when I'm doing ball riding~❤ Look; rubbing; rubbing~❤ My footwork is quite impressive; isn't it?❤
-パフォーマンスのフィナーレは、\nどぴゅっと飛び出るお漏らしでしょうか❤\nささ、ご遠慮なさらず、道化めの足にたくさんかけてくださぁい❤,Will the finale of this performance be you shooting your load all over?❤ Come now; don't hold back; spray it all over this jester's feet~❤
+じゃじゃーん、道化めの登場です～❤\nではでは、いきますよ～、いち、にの、さーん❤,Ta-da! Your jester has arrived~❤ Let the show begin. One; two; three!❤
+どうもどうも～。はじめまして主様ぁ❤\nわたくしは、これから主様にお仕えいたしますゆえー、\nよろしくお願いいたします～❤,Hey there. Nice to meet you; Master.❤ I'll be serving you from now on; so please take good care of me~❤
+向こうに行ったお仲間さまは、\nわたくしがちょっと、ごにょごにょいたしましたので、\nすっかり敵のマスターにメロメロですよぉ。こちらには戻りません❤,See your companion over there? I did a little something to them; and now they're all lovey dovey for the cardmaster you're fighting! I'm afraid they won't be coming back~❤
+その分、わたくしが主様にたくさんご奉仕いたしますので～❤\nなーんでもご申しつけくださいね～、主様ぁ❤,But don't worry; I'll serve you plenty to make up for it!❤ Feel free to give me any order you desire; Master~❤
+観客さまにはわたしの演技を披露させていただきます❤\nわたくし道化師でございますから、\n観客さまを楽しませるのがお仕事なのです❤,Ladies and gentlemen; let's get on with the show!❤ I'm a jester after all; so entertaining the crowd is what I do best. But I'll need a volunteer~❤
+まずはわたしの手で、あなたの玉を触らせていただいて、\nほら、たぷたぷ❤むにむに❤\nいかかですか～、観客さまぁ❤,How about you; sir? First; I'll give your balls a little fondle with my hands... Look; I can manipulate them with such ease.❤ Just massaging them nicely between my fingers~❤ How does it feel; my lucky volunteer?❤
+玉遊びならお手の物。何回でもジャグリングして、\n自由自在に操ってみせますよぉ❤\nほらほらぁ、手の平でやさしく持ち上げ揉みこんでさしあげますぅ❤,Juggling balls is my specialty. I can toss them around as many times as you want; handling them however I please~❤ See? I'll craddle them in my palm and knead them so tenderly~❤
+主様はわたくしのご奉仕をご所望ですか❤\nはい、わたくし道化師、せいいっぱい、\n主様を気持ちよくさせていただきます❤,Does Master desire my service?❤ Right away! Just let your jester do everything in her power to make Master feel amazing~❤
+わたしの手で、主様のおチンポを触らせていただいて、\nほら、しこしこ❤しこしこ❤\nいかかですか～、主様ぁ❤,I'll tease Master's cock with my hands. Watch. I'll stroke it~❤ And pump it~❤ How does it feel; Master?❤
+道化は主様の敵ではございません。\nだから、たっぷり気持ちよくなっていいんですよ～❤\n主様がご満足されるまで❤しこ、しこ❤しこ、しこ❤しこ、しこ～❤,Jester isn't your enemy; Master; so it's okay to enjoy yourself as much as you want until you're completely satisfied~❤ Stroke; stroke~❤ Stroke; stroke~❤ Stroke; stroke~❤
+主様のご命令とあらば、\nお仲間さまを楽しませることも道化の務めです❤\nさあ、共に戦う仲間として、おててで楽しませてあげますね❤,If Master commands it; then I must obey. What kind of jester would I be if I didn't entertain your allies?❤ Come here; comrades. Let me pleasure your cocks with my hands; okay?❤
+わたしの手で、チンポをぎゅっと触らせていただいて、\nほら、しこしこ❤しこしこ❤玉も触って、さわさわさわ～❤\n道化めの手さばきは気持ちいいですかぁ❤,I'll me grip your cock tightly with my hands. Look; I'll stroke it~❤ And pump it~❤ And I'll fondle your balls while I'm at it; massaging them so gently~❤ Does this jester's handiwork feel good?❤
+これは主様のご命令でございます。\nだから、お仲間さまもたっぷり気持ちよくなっていいんですよ～❤\nしこ、しこ❤しこ、しこ❤ふふ、うっとりされてますね～❤,This is what Master has ordered us to do; so please; feel free to enjoy yourself completely.❤ Stroke; stroke~❤ Stroke; stroke~❤ Fufu; it looks like you're already lost in the pleasure; aren't you?❤
+観客さまには、おっぱいでのパフォーマンスを楽しんでいたきます❤\n玉投げに玉乗り、丸いものの扱いはお手の物なのです。当然、道化めの\n胸についたこの丸ーい二つの玉も、巧みに扱ってみせますよ～❤,Dear audience member; allow me to put on a lovely performance with my bresats; just for you~❤ Ball juggling; ball riding—I'm an expert at handling all kinds of round things. Naturally; that also includes my two lovey; bouncy tits~❤
+むにゅっと棒を挟ませていただきまして～❤\n両手で交互にたぱん、たぱんっと持ち上げるのです❤\nあは、おチンポおっぱいの間で翻弄されてぇ、気持ちよさそうですね～❤,Let me wrap them around your shaft~❤ I'll lift them with both hands; bouncing them one at a time; up and down.❤ Aha; your cock is being toyed with between my breasts! It feels so good; doesn't it?❤
+ずりずり、むにむにゅ❤あん、おチンポが震えてますぅ❤\nこんなに感動していただいて、道化めはとっても嬉しいですぅ❤\nわたくしとの玉遊びで、もっともっと元気になってくださぁい❤,My lovely titties are sliding so effortlessly up and down the length of your cock~❤ Ahn; I can feel it trembling!❤ I'm so happy you're enjoying it so much~❤ Go ahead; just have fun and buck your hips into my funbags~❤
+ご命令くださりありがとうございます❤主様ぁ❤\n道化めがこのおっぱいでたくさん気持ちよくしちゃいますね❤\n玉投げに玉乗り、道化は丸いものの扱いはお手の物なのです❤,Thanks for the orders; Master!❤ Your jester will happily use her breasts to make you feel incredible~❤ Ball juggling; ball riding—jesters like me are experts at handling all kinds of round things!❤
+むにゅっと棒を挟ませていただきまして～❤\n両手で交互にたぱん、たぱんっと持ち上げるのです❤主様のおチンポ、\nおっぱいの間で翻弄されてぇ、気持ちよさそうですね～❤,Let me wrap them around your shaft~❤ I'll lift them with both hands; bouncing them one at a time; up and down.❤ Master's cock is being toyed with between my breasts! It feels so good; doesn't it?❤
+ずりずり、むにむにゅ❤あん、おチンポが震えてますぅ❤\nこんなに武者震いされて、主様ぁ❤戦いのやる気はばっちりですねぇ❤\nわたくしとの玉遊びで、もっともっと元気になってくださぁい❤,Sliding; squishing~❤ Ahn; your cock's trembling!❤ Master; you're shaking so much~❤ You must be so full of fighting spirit!❤ Go ahead and get even more pumped up from playing with my round; bouncy tits~❤
+主様のご命令ですので、お仲間さまにおっぱいでのご奉仕です～❤\n玉投げに玉乗り、丸いものの扱いはお手の物なのです。当然、道化めの\n胸についたこの丸ーい二つの玉も、巧みに扱ってみせますよ～❤,Since our master has given the order; I'll happily pleasure you with my breasts~❤ Ball juggling; ball riding—I'm an expert at handling all things round and smooth. Naturally; that also includes these two round; bouncy tits of mine~❤
+むにゅっと棒を挟ませていただきまして～❤\n両手で交互にたぱん、たぱんっと持ち上げるのです❤お仲間さまのお顔\nあっという間に気持ちよさそうに蕩けてますね～❤,I'll just go ahead and wrap them around your shaft~❤ I'll lift them with both hands; bouncing them one at a time; up and down.❤ Your little friend's expression is already melting with pleasure~❤
+ずりずり、むにむにゅ❤むにゅんむにゅん❤\nあん、おチンポが震えてますぅ❤イきそうなんですかぁ❤わたくしとの\n玉遊びで、どぴゅって出しちゃってもいいですよ❤お仲間さまぁ❤,Sliding; squishing~❤ Bouncing; jiggling~❤ Ah; your cock is trembling!❤ Are you about to cum?❤ Feel free to let it all out between my bouncy tits~❤ Dear friend~❤
+道化めのブーツは、意外とやわらかくできてましてぇ、\n踏んでも痛くないのです❤\nだから、ご所望とあれば、足コキだってしてさしあげますよぉ❤,This jester's boots are surprisingly soft; so it won't hurt even when I step on you.❤ So if you want; I could even give you a footjob~❤
+玉乗りのときみたいに、足をすばやく動かしましてぇ❤\nほら、すりすりすり～❤\n道化めの足さばきもなかなかのものでしょう？,I'll move my feet really fast; just like when I'm riding a ball~❤ Look; rub rub rub~❤ My footwork is impressive; huh?❤
+パフォーマンスのフィナーレは、\nどぴゅっと飛び出るお漏らしでしょうか❤\nささ、ご遠慮なさらず、道化めの足にたくさんかけてくださぁい❤,Will the finale of this performance be you shooting your load all over the place?❤ Come on; don't hold back; spray it all over my feet~❤
 道化めのおっぱいが気になりますかぁ？\nそれではここを使ってご奉仕いたします❤\n顔にむにゅっとおっぱいを当てましてぇ、おチンポを手でしこしこ～❤,Are you curious about this jester's breasts?❤ Then let me service you with them~❤ I'll press my soft breasts against your face while I stroke your cock with my hands~❤
-わたくしめは敵でありますから、甘えたりするのは厳禁♪\nでもぉ、このやわらかさの前ではそんなことどうでもいいですよねー❤\nおっぱい吸ってもいいですしぃ、匂いをクンクンしてもいいですよぉ❤,I'm your enemy; so you mustn't get too comfortable!♪ But honestly; with how soft they are; you don't really care about that anymore; do you?❤ Go ahead; suck on my breasts~ Or sniff them all you want~❤
-くすくす❤道化めに甘えるその姿、\nかわいらしいですね～❤\nおチンポもたくさんなでてあげますね～❤しこしこ❤しゅこしゅこ❤,Kehehe~❤ You look so adorable cuddling up to this jester~❤ I'll stroke your cock plenty for you~❤ Pumping; stroking~❤
-わたくしめは仲間でありますから、\nたくさん甘えて大丈夫なんですよー❤ほらほらぁ、\nおっぱい吸ってもいいですしぃ、匂いをクンクンしてもいいですよぉ❤,I'm on your side here; so feel free to indulge yourself as much as you want~❤ Come now~ Go ahead; suck on my breasts as much as you like~ You can even see how nice they smell~❤
-観客さまぁ、わたくしめのご奉仕をどうぞお楽しみください～❤\n道化は体ぜーんぶを使って観客さまを気持ちよくしますよぉ❤,My dear member of the audience; please enjoy this jester's service~❤ I'll use my entire body to make you feel incredible~❤
-ほら、服をめくって、おっぱいぴらり❤\nここでむにゅんと挟んでさしあげますね～❤\nえい、むにゅむにゅ～❤,Look; I'm lifting my clothes to reveal my breasts~❤ Now let me wrap them snugly around your shaft~❤ There we go; squishing and massaging~❤
-道化めのおっぱい、なかなか形もいいと思うんですよ～❤\n玉乗りしたり、玉投げしているときも、\nたぷたぷ揺れるこのおっぱいにいつも視線を感じております～❤,This jester's breasts are well shaped; don't you think?❤ Whether it's ball balancing or ball juggling; I can always tell when people are staring at these bouncy tits of mine~❤
-観客さまもぉ、おっぱいじーっと見ておられますね❤\nほら、挟んだまま揺らしますので～、\n揺れる様子とむにむにの感触、両方お楽しみください～❤ゆさゆさぁ❤,You're staring intently at my breasts too; aren't you?❤ Watch closely~ I'll keep them wrapped around you as I shake them~ Enjoy both the sight of them bouncing and the soft sensation~❤ Jiggling away~❤
-主様ぁ、ご奉仕を命じてくださってありがとうございますぅ❤\n道化は体ぜーんぶを使って主様を気持ちよくしますよぉ❤,Thank you for ordering me to serve you; Master~❤ This jester will use her entire body to make you feel amazing~❤
-服をめくって、おっぱいぴらり❤\nここでむにゅんと挟んでさしあげますね～❤\nほおら、むにゅむにゅ～❤,I'll lift my clothes to reveal my breasts now~❤ Let me wrap them snugly around your shaft~❤ There we go; squishing and massaging~❤
-主様もぉ、おっぱいじーっと見ておられますね❤\nほら、挟んだまま揺らしますので～、\n揺れる様子とむにむにの感触、両方お楽しみください～❤ゆさゆさぁ❤,You're staring intently at my breasts too; Master~❤ Watch closely~ I'll keep them wrapped around you as I shake them~ Enjoy how nice they look and how soft they feel~❤ Jiggling and massaging your will away~❤
-主様からのご命令で、お仲間さまのこと気持ちよくいたしますね～❤\n道化めの、この無駄に大きな胸をお楽しみくださいまし❤,As our Master has commanded; let's feel good together; OK?~❤ Please enjoy this jester's stupidly large breasts.❤
-服をめくって、おっぱいぴらり❤\nここでむにゅんと挟んでさしあげます♪\nほら、むにゅむにゅ～❤,I'll flip up my top; revealing my tits.❤ Then; I'll wrap them snugly around your penis~♪ There we go; all nice and soft~❤
-くすくす❤気持ちよさそうな顔ですねぇ、お仲間さま❤\nいかがですか？道化めのおっぱい、なかなか形もいいと思うんですよ❤,Kehehe~❤ It looks like you're feeling good; judging by your expression~!❤ How does it feel? This jester's boobs are nice to look at; aren't they?❤
-玉乗りしたり、玉投げしているときも、\nたぷたぷ揺れるこのおっぱいにいつも視線を感じております～❤\n横に立っているとき、お仲間さまの視線も感じてましたよ❤,Even when I'm doing my ball-balancing acts or juggling; I can always feel eyes drawn to these bouncing tits of mine~❤ When you stood beside me; I felt your gaze too.❤
-別に恥ずかしがらなくてよいのです❤\nほら、挟んだまま揺らしますので～、\n揺れる様子とむにむにの感触、両方お楽しみください～❤ゆさゆさぁ❤,No need to be embarrassed.❤ Here; I'll bounce them while they're wrapped around you~ Enjoy the way they engulf your dick as they massage your cock~❤ Bounce bounce~❤
-おやおや、観客さまは、\n道化にたっぷりご奉仕してもらうのをお望みですか？\n敵にそんなことを頼んでいけませんねー❤,Oh my; does a member of the audience want this jester to service them thoroughly? You really shouldn't be asking such things from your enemy~❤
-しかし、芸を求められれば答えるのが道化というもの❤\nささ、観客さまが満足されるまで、たっぷり楽しんでくださいませー❤,However; when the audience demands a performance; a jester must deliver.❤ Come now; enjoy yourself to your heart's content until you're satisfied~❤
-おやおや、主様、そんなに必死な顔でどうしたのですか？\nえっと、イクまでご奉仕してほしい？,Oh my; Master; why do you have such a desperate look on your face? Hm? You want me to service you until you cum?
-くす、かしこまりました～❤\n道化めのことをそんなに求めていただいて、うれしゅうございます❤\n気持ちよく出してしまうまで、全力を尽くしてご奉仕いたしますね～❤,Ehe! Understood~❤ I'm delighted that you desire this jester so much.❤ I'll devote my full effort to servicing you until you release everything without resistance~❤
-おやおや、お仲間さま、そんなに必死な顔でどうしたのですか？\nえっと、イクまでご奉仕してほしい？,Oh my; why the pained expression friend? Oh...! You want me to service you until you cum?
-くす、それは主様の命令ですか？\nへぇ、そうですか❤ほんとかどうかは知りませぬが、\nお仲間さまがそうだというならそうなのでしょう❤,Hehe; Oh? It's an order from your master? Oh really?❤ I don't know whether that's true or not; but if you say so; then I suppose it must be.❤
-それでは道化めがしっかりとご奉仕いたしますね～❤\nお仲間さまは、どうぞ果てるまで、\n道化めの芸をお楽しみくださいませ❤,Very well. I'll be sure to entertain and service you properly~❤ Dear friend; please enjoy my performance until you're completely satisfied.❤
-くす、手でしごかれて、どろどろのが出てまいりました❤\nほらほら、最後まで出してくださいね、しゅこしゅこしゅこ～♪,Fufu; I've been stroking you with my hands for a bit; and you're already leaking over my palms~❤ Come on now; let it all out; stroke; stroke; stroke~♪
-擦るたびにびくびく震えて、あんっ、また出てます❤\nちゃーんと満足するまで触ってあげますからね❤\nどうぞ道化の手技を楽しみくださいまし～❤,Each time I rub you; your cock twitches and trembles and... oh! You're letting even more out!❤ I'll keep touching you until you're fully satisfied; okay?❤ Please enjoy this jester's handiwork to your heart's content~❤
-道化めのおっぱいがどろどろですよ～❤\n玉のように丸いおっぱい、楽しんでもらえましたか？くすくす❤,Look; you made your jester's boobs all messy~❤ Did you enjoy my big; round; fun-bags? Kehehehe!❤
-やぁん、ブーツの下でおちんちんが震えてます～❤\nふみふみすりすりされて、そんなに気持ちよかったんですか？\nくすくす❤,Kyah~ Your cock is trembling beneath my boot~❤ Does it feel good having your dick rubbed underneath my foot? Kehehe!❤
-わわ、主様、そのカード上級モンスターですか？\nううっ、道化めをコストにしてしまうだなんて、\nひどいですよ、主様ぁ～。,Wah! Master; is that card an advanced monster? Awh man... You're planning on sacrifcing me to summon it?—That's so mean; Master~
+わたくしめは敵でありますから、甘えたりするのは厳禁♪\nでもぉ、このやわらかさの前ではそんなことどうでもいいですよねー❤\nおっぱい吸ってもいいですしぃ、匂いをクンクンしてもいいですよぉ❤,I'm your enemy; so you mustn't get too comfortable!♪ But honestly; with how soft they are; you don't really care about that anymore; do you?❤ Go ahead; suck on my breasts; or breathe them in all you want~❤
+くすくす❤道化めに甘えるその姿、\nかわいらしいですね～❤\nおチンポもたくさんなでてあげますね～❤しこしこ❤しゅこしゅこ❤,Kehehe~❤ You look so adorable cuddling up to this jester~❤ I'll stroke your cock plenty for you~❤ Pump pump; stroke stroke~❤
+わたくしめは仲間でありますから、\nたくさん甘えて大丈夫なんですよー❤ほらほらぁ、\nおっぱい吸ってもいいですしぃ、匂いをクンクンしてもいいですよぉ❤,I'm on your side here; so feel free to indulge yourself as much as you want~❤ Come now; go ahead; suck on my breasts as much as you like! You can even see how nice they smell if you want~❤
+観客さまぁ、わたくしめのご奉仕をどうぞお楽しみください～❤\n道化は体ぜーんぶを使って観客さまを気持ちよくしますよぉ❤,Please enjoy your jester's service; my dear audience member~❤ I'll use my whole body to make you feel incredible~❤
+ほら、服をめくって、おっぱいぴらり❤\nここでむにゅんと挟んでさしあげますね～❤\nえい、むにゅむにゅ～❤,Look; I'll lift my clothes and show off my breasts~❤ Now; let me wrap them snugly around your shaft~❤ There we go; time for a squishy massage~❤
+道化めのおっぱい、なかなか形もいいと思うんですよ～❤\n玉乗りしたり、玉投げしているときも、\nたぷたぷ揺れるこのおっぱいにいつも視線を感じております～❤,My breasts are so well-shaped; don't you think?❤ Whether I'm bouncing on a ball balancing or juggling them; I can always tell when people are staring at these bouncy tits of mine~❤
+観客さまもぉ、おっぱいじーっと見ておられますね❤\nほら、挟んだまま揺らしますので～、\n揺れる様子とむにむにの感触、両方お楽しみください～❤ゆさゆさぁ❤,You're ogling my breasts too; aren't you? Watch closely now~❤ I'll keep them wrapped around you and start shaking them; so make sure you enjoy both the sight of them bouncing and their super soft feel~❤ Jiggle jiggle~❤
+主様ぁ、ご奉仕を命じてくださってありがとうございますぅ❤\n道化は体ぜーんぶを使って主様を気持ちよくしますよぉ❤,Thank so much for giving me the order to serve you; Master~❤ Your jester will happily use her whole body to make you feel amazing~❤
+服をめくって、おっぱいぴらり❤\nここでむにゅんと挟んでさしあげますね～❤\nほおら、むにゅむにゅ～❤,I'll flip up my top and show off my tits~❤ Now; let me wrap them snugly around your shaft~❤ Time for a squishy massage~❤
+主様もぉ、おっぱいじーっと見ておられますね❤\nほら、挟んだまま揺らしますので～、\n揺れる様子とむにむにの感触、両方お楽しみください～❤ゆさゆさぁ❤,You're staring at my breasts intently too; Master; aren't you? Watch closely~❤ I'll keep them wrapped around you as I shake them; so make sure you enjoy how nice they look and how soft they feel~❤ Jiggle jiggle~❤
+主様からのご命令で、お仲間さまのこと気持ちよくいたしますね～❤\n道化めの、この無駄に大きな胸をお楽しみくださいまし❤,As our Master has commanded; let's feel good together; OK?❤ Please enjoy this jester's stupidly big breasts~❤
+服をめくって、おっぱいぴらり❤\nここでむにゅんと挟んでさしあげます♪\nほら、むにゅむにゅ～❤,I'll flip up my top and show off my tits.❤ Then; I'll wrap them snugly around your penis~♪ There we go; all nice and soft~❤
+くすくす❤気持ちよさそうな顔ですねぇ、お仲間さま❤\nいかがですか？道化めのおっぱい、なかなか形もいいと思うんですよ❤,Kehehe~❤ Judging by your expression; it looks like you're feeling really good~❤ How is it? This jester's boobs are so nice to look at; aren't they?❤
+玉乗りしたり、玉投げしているときも、\nたぷたぷ揺れるこのおっぱいにいつも視線を感じております～❤\n横に立っているとき、お仲間さまの視線も感じてましたよ❤,Even when I'm doing my ball-balancing acts or juggling; I can always feel eyes drawn to these bouncing tits of mine~❤ Standing side by side; I felt your gaze on them; too!❤
+別に恥ずかしがらなくてよいのです❤\nほら、挟んだまま揺らしますので～、\n揺れる様子とむにむにの感触、両方お楽しみください～❤ゆさゆさぁ❤,No need to be embarrassed~❤ Here; I'll bounce them while they're wrapped around you; so just enjoy the way they massage your cock as they swallow it whole~❤ Bounce bounce bounce~❤
+おやおや、観客さまは、\n道化にたっぷりご奉仕してもらうのをお望みですか？\n敵にそんなことを頼んでいけませんねー❤,Oh my; does a member of the audience want me to service a bunch? You really shouldn't be asking your enemy for things like that~❤
+しかし、芸を求められれば答えるのが道化というもの❤\nささ、観客さまが満足されるまで、たっぷり楽しんでくださいませー❤,However; when the audience demands a performance; a jester must deliver.❤ Come now; enjoy yourself all you want until you're fully satisfied~❤
+おやおや、主様、そんなに必死な顔でどうしたのですか？\nえっと、イクまでご奉仕してほしい？,Oh my. Master; why do you have such a desperate look on your face? Hm? You want me to service you until you cum?
+くす、かしこまりました～❤\n道化めのことをそんなに求めていただいて、うれしゅうございます❤\n気持ちよく出してしまうまで、全力を尽くしてご奉仕いたしますね～❤,Ehe! Understood~❤ I'm delighted that you desire your jester so much.❤ I'll devote my full effort to taking care of you until you release everything without resistance~❤
+おやおや、お仲間さま、そんなに必死な顔でどうしたのですか？\nえっと、イクまでご奉仕してほしい？,Oh my; why the pained expression; friend? Oh...! You want me to service you until you cum?
+くす、それは主様の命令ですか？\nへぇ、そうですか❤ほんとかどうかは知りませぬが、\nお仲間さまがそうだというならそうなのでしょう❤,Hehe; oh? It's an order from our master? Oh really?❤ I don't know whether that's true or not; but if you say so; then I suppose it must be~❤
+それでは道化めがしっかりとご奉仕いたしますね～❤\nお仲間さまは、どうぞ果てるまで、\n道化めの芸をお楽しみくださいませ❤,Alrighty! I'll be sure to entertain and service you properly~❤ Dear friend; please enjoy my performance until you're completely satisfied.❤
+くす、手でしごかれて、どろどろのが出てまいりました❤\nほらほら、最後まで出してくださいね、しゅこしゅこしゅこ～♪,Fufu; I've only been stroking you with my hands for a little bit; and you're already leaking all over my palms~❤ Come on now; let it all out; okay? Stroke; stroke; stroke~♪
+擦るたびにびくびく震えて、あんっ、また出てます❤\nちゃーんと満足するまで触ってあげますからね❤\nどうぞ道化の手技を楽しみくださいまし～❤,Each time I rub you; your cock twitches and trembles and... Oh! You're letting even more out!❤ I'll keep touching you until you're fully satisfied; okay?❤ Please enjoy this jester's handiwork to your heart's content~❤
+道化めのおっぱいがどろどろですよ～❤\n玉のように丸いおっぱい、楽しんでもらえましたか？くすくす❤,Look; you made your jester's boobs all messy~❤ Did you enjoy my big; round funbags? Kehehehe!❤
+やぁん、ブーツの下でおちんちんが震えてます～❤\nふみふみすりすりされて、そんなに気持ちよかったんですか？\nくすくす❤,Kyah; your cock is trembling beneath my boot~❤ Does it feel good having your dick ground underneath my foot? Kehehe!❤
+わわ、主様、そのカード上級モンスターですか？\nううっ、道化めをコストにしてしまうだなんて、\nひどいですよ、主様ぁ～。,Wah! Master; is that card an advanced monster? Awh man... You're planning on sacrifcing me to summon it; aren't you? Master; that's so mean!
 道化めは主様のこと、とっても気持ちよくできますよ？\nだから、わたしをコストになんてしないでください。\nおねがいです～❤主様ぁ❤,Don't you realize how good I can make you feel? Oh; please don't sacrifice me; Master. I'm begging you~❤
-例えばほら、このおっぱいを使って・・・、主様の手をむにゅり❤\nその上級モンスターごと挟んでしまいます❤\nどうですかぁ、道化めのおっぱい柔らかいですかぁ～❤,For example; just let me…❤ Wrap my boobs around your hand and trap that card you have; squish~❤ Tell me Master; can you feel how soft and lovely my big boobs are?~❤
-ううっ・・・❤,Uuu…❤
-ねえ～、主様ぁ❤手の平が気持ちよくて、もうモンスターを出そうとか\nどっちでもよくなってきちゃいましたよね～❤\nあ～ん❤命じてくださればわたくしたっぷりご奉仕できるのにな～❤,Hey~ Master~❤ Your hand feels so good between my tits now you can't even think of summoning anymore; right?~❤ Ahhh~❤ All you have to do is give the order; and I'd service you properly~❤
-おねがいです、主様ぁ～❤\n後生ですから道化めをお助けくださいまし～。\nおっぱいでご奉仕させてくださいよ～❤主様ぁ❤あ～ん❤,Please Master~❤ I'm begging you; please spare this jester~ Let me service you with my breasts~❤ Master~❤ Ahh~❤
+例えばほら、このおっぱいを使って・・・、主様の手をむにゅり❤\nその上級モンスターごと挟んでしまいます❤\nどうですかぁ、道化めのおっぱい柔らかいですかぁ～❤,For example; I could take my boobs; and...❤ Wrap them around your hand; trapping that card your holding! Squish~❤ Tell me; Master; can you feel how soft and lovely my big boobs are?❤
+ううっ・・・❤,Ugh...❤
+ねえ～、主様ぁ❤手の平が気持ちよくて、もうモンスターを出そうとか\nどっちでもよくなってきちゃいましたよね～❤\nあ～ん❤命じてくださればわたくしたっぷりご奉仕できるのにな～❤,Hey; Master~❤ Your hand feels so good between my tits you can't even think of summoning anymore; right?❤ Ahhn~❤ All you have to do is give the order; and I'll service you for real~❤
+おねがいです、主様ぁ～❤\n後生ですから道化めをお助けくださいまし～。\nおっぱいでご奉仕させてくださいよ～❤主様ぁ❤あ～ん❤,Please; Master~❤ I'm begging you; please spare your jester such a cruel fate. Let me take care of you with my breasts instead!❤ Master~❤ Ahhn~❤
 上級召喚をやめてしまった,Stop the advanced summon
 無視して召喚をした,Ignore her and summon the card anyway
-あううっ、そんな～。\n・・・ん？主様、そんなに前かがみになってどうしたのですか？,Auuu; no fair~ …Hm? Master; why are you leaning forward like that?
-（ううっ・・・❤❤早く召喚しないと・・・❤\n手の平がきもちいいぃ・・・❤くうぅ・・・❤）,(Uuu…❤❤ I need to summon quickly…❤ But her breasts feel so good wrapped around my hand…❤ Hnng…❤)
-あはぁ、道化めはぜんぶ分かりました❤\n強がっていますけど、体は正直なご様子❤\nもう道化めのこと手放したくなくなってしまったのですね❤,Ahaha; this jester understands everything now~❤ You're acting tough; but your body is being honest~❤ The truth is; you want to keep me on your team; don't you?❤
-それなら、ほら・・・❤\n両側からむぎゅううって強くおっぱい押し付けまして～❤\n主様のお手てにとどめを刺しちゃいます❤,In that case; look…❤ I'll press my boobs together tightly... and finish off Master's hand entirely~!❤
-わたしをコストにするのをやめてくださいまし～❤\nおねがいです～❤主様ぁ❤\nむにゅううぅ❤,Please stop using me as a cost~❤ I'm begging you~❤ Master~❤ Squish~❤
-はひっ、あっ、あっ、ああっ・・・❤,Hahi; ah; ah; ahhh…❤
-くすくす❤手を思いっきり挟んであげたら、\nおちんちんからどろどろのものが出てきてしまいました～❤\nそんなに魔力を出したらもう上級召喚などできませんね～❤,Kehehehe!❤ After I squeezed your hand so tightly between my breasts; your cock started spurting out all that cum~❤ After releasing so much magical power; you won't be able to perform an advanced summon anymore; will you?~❤
-道化めを助けてくださるだけではなく、\nエナジーまで恵んでぐださるとは何と寛大な主様でしょう❤\n道化めはとってもうれしいです❤にひひ♪,Master is so generous—not only saving this jester but granting me energy too.❤ This jester is absolutely delighted!❤ Ehehe!♪
-あううっ、そんな～。\nもっと主様と楽しいことしたかったです。ううう・・・。,Aww; no fair~. I wanted to have more fun with Master. Uuuuoh...
-あはぁ、ほんとですか～❤うれしいです、主様ぁ❤\n主様はわたくしのことを優先してくださったんですね～❤,Ahh; really?~❤ I'm so happy; Master~❤ You chose to prioritize me~❤
-あるじにこんなに大事にされては、\n道化として恐悦至極です～❤\nほらぁ、うれしくてうれしくてしょうがないので～・・・❤,To be treated so preciously by my master—I am so; so honoured!~❤ Look; I'm just so happy I can't contain myself~...❤
-主様のお顔をおっぱいハグです❤\nだーい好きですよ、主様ぁ❤,I could just give you a big face; boobie hug!❤ I love you so much; Master~❤
-むぐっ、はううぅっ❤❤,Mmph; haaah~❤❤
-あっ、あっ、だめ・・・❤❤\nもうっ、あああっ❤❤,Ah; ah; I can't...❤❤ Noo; aaaah~❤❤
-わわわ、主様、おっぱいハグでイっちゃったんですか？,Wah; Master; did you just cum from my breast hug?
-くすくす❤敵の回し者の道化にそんなに気を許しちゃダメですよ～❤\nおっぱいの中でとろとろになって、体あずけて甘えちゃって。\n可愛らしいですね、主様ぁ❤,Kehehe!~❤ You shouldn't let your guard down so easily around an enemy jester like me~❤ Getting all melty in my breasts; leaning into them and acting so spoiled. You're adorable; Master~❤
+あううっ、そんな～。\n・・・ん？主様、そんなに前かがみになってどうしたのですか？,Awwh; no fair! ...Hm? Master; why are you leaning forward like that?
+（ううっ・・・❤❤早く召喚しないと・・・❤\n手の平がきもちいいぃ・・・❤くうぅ・・・❤）,(Ugh...❤❤ I need to summon it quickly...❤ But her breasts feel so good wrapped around my hand...❤ Hnng...❤)
+あはぁ、道化めはぜんぶ分かりました❤\n強がっていますけど、体は正直なご様子❤\nもう道化めのこと手放したくなくなってしまったのですね❤,Ahaha; no need to say anything. Your jester understands everything now~❤ You're acting tough; but your body is being honest~❤ The truth is; you want to keep me on your team; don't you?❤
+それなら、ほら・・・❤\n両側からむぎゅううって強くおっぱい押し付けまして～❤\n主様のお手てにとどめを刺しちゃいます❤,In that case; look...❤ I'll press my boobs together tightly... and hit Master's hand with a finishing blow~❤
+わたしをコストにするのをやめてくださいまし～❤\nおねがいです～❤主様ぁ❤\nむにゅううぅ❤,Please stop using me as a tribute~❤ I'm begging you~❤ Master~❤ Squish~❤
+はひっ、あっ、あっ、ああっ・・・❤,Hahh; ah; ah; ahhh...❤
+くすくす❤手を思いっきり挟んであげたら、\nおちんちんからどろどろのものが出てきてしまいました～❤\nそんなに魔力を出したらもう上級召喚などできませんね～❤,Kehehehe!❤ After I squeezed your hand between my breasts so tightly; your cock started spurting out a bunch of yummy cum~❤ After releasing so much magical power; you won't be able to perform an advanced summon anymore; will you?❤
+道化めを助けてくださるだけではなく、\nエナジーまで恵んでぐださるとは何と寛大な主様でしょう❤\n道化めはとってもうれしいです❤にひひ♪,Master is so generous—not only did he spare his jester; but he granted her energy; too.❤ You made me so happy!❤ Ehehe~♪
+あううっ、そんな～。\nもっと主様と楽しいことしたかったです。ううう・・・。,Awh; no fair! I wanted to have more fun with Master. Uuugh...
+あはぁ、ほんとですか～❤うれしいです、主様ぁ❤\n主様はわたくしのことを優先してくださったんですね～❤,Ahh; really?❤ I'm so happy; Master~❤ You really do care about me~❤
+あるじにこんなに大事にされては、\n道化として恐悦至極です～❤\nほらぁ、うれしくてうれしくてしょうがないので～・・・❤,To have Master treat me so preciously... I'm so; so honoured!❤ Look; I'm just so happy I can't contain myself...❤
+主様のお顔をおっぱいハグです❤\nだーい好きですよ、主様ぁ❤,I could just give your cute face a big boobie hug!❤ I love you so much; Master~❤
+むぐっ、はううぅっ❤❤,Mmph; haaah...❤❤
+あっ、あっ、だめ・・・❤❤\nもうっ、あああっ❤❤,Ah; ah; I-I can't...❤❤ Noo; aaaah!❤❤
+わわわ、主様、おっぱいハグでイっちゃったんですか？,Wha- Master; did you just cum from my boobie hug?
+くすくす❤敵の回し者の道化にそんなに気を許しちゃダメですよ～❤\nおっぱいの中でとろとろになって、体あずけて甘えちゃって。\n可愛らしいですね、主様ぁ❤,Kehehe~❤ You shouldn't let your guard down so easily around an enemy jester like me~❤ Getting all melty in my breasts; leaning into them and acting so spoiled. You're so adorable; Master~❤
 くすくす❤道化めのおっぱいに顔を挟まれて、\nお目目がとろーんとしてしまっていますね❤,Kehehe~❤ Your face is buried between my funbags; and your eyes are glazing over~❤
-もっともっとしてほしいのであれば、\nどうぞ道化めにご奉仕をお命じください❤\n道化は主様のこといくらでも気持ちよくしてあげますので～❤,If you want me to do more; then please order this jester to service you~❤ I'll make you feel as good as you want; Master~❤
-おやおやぁ❤\n観客さまはおっぱいが大好きなご様子❤\nそれなら、もっともっと道化のご奉仕をお楽しみください～❤,Oh my~❤ Big boobs are very popular with the audience today!~❤ In that case; please enjoy even more of my entertaining techniques~❤
-おやおやぁ❤\n主様はおっぱいが大好きなご様子❤\nそれなら、もっともっと道化のご奉仕をお楽しみください～❤,Oh my~❤ Master seems to love breasts~❤ In that case; please enjoy even more of my entertaining techniques~❤
-おやおやぁ❤\nお仲間さまはおっぱいが大好きなご様子❤\nそれなら、もっともっと道化のご奉仕をお楽しみください～❤,Oh my~❤ Your friend seems to love breasts~❤ In that case; please enjoy even more of my entertaining techniques~❤
-出すのですか～、どうぞどうぞ❤\n道化めの胸をたくさん汚してくださいまし～❤,Are you going to cum?~ Go right ahead!❤ Feel free to make a mess all over this jester's chest~❤
+もっともっとしてほしいのであれば、\nどうぞ道化めにご奉仕をお命じください❤\n道化は主様のこといくらでも気持ちよくしてあげますので～❤,If you want me to do more; all you have to do is order your jester to service you~❤ I'll make you feel as good as you want; Master~❤
+おやおやぁ❤\n観客さまはおっぱいが大好きなご様子❤\nそれなら、もっともっと道化のご奉仕をお楽しみください～❤,Oh my~❤ Big boobs sure are popular with the audience today!❤ In that case; please enjoy even more of my entertaining techniques~❤
+おやおやぁ❤\n主様はおっぱいが大好きなご様子❤\nそれなら、もっともっと道化のご奉仕をお楽しみください～❤,Oh my~❤ Master seems to really love breasts~❤ In that case; please enjoy even more of my entertainment techniques~❤
+おやおやぁ❤\nお仲間さまはおっぱいが大好きなご様子❤\nそれなら、もっともっと道化のご奉仕をお楽しみください～❤,Oh my~❤ My friends seem to really love breasts~❤ In that case; please enjoy even more of my entertainment techniques~❤
+出すのですか～、どうぞどうぞ❤\n道化めの胸をたくさん汚してくださいまし～❤,Are you going to cum? Go right ahead!❤ Feel free to make a mess all over this jester's chest~❤
 おや、これでおしまいですか❤\nかしこまりました～❤,Oh; is that all?❤ Understood~❤
-また道化めの胸を楽しみたくなりましたらぁ、\nどうぞお申しつけくださいまし❤\nこの胸でのご奉仕、何度でもしてしあげますので～❤,Whenever you want to enjoy my big funbags again; just let me know~❤ I'll service you with my big tits as many times as you'd like~❤
-また道化めの胸を楽しみたくなりましたらぁ、\nどうぞ主様にお頼みくださいまし～❤\n主様からのご命令があれば、いつでもパイズリご奉仕いたしますよ～❤,Whenever you want to enjoy this jester's breasts again; please ask Master~❤ If Master gives the order; I'll rub your cock between them anytime~❤
-道化のパイズリは気持ちいいですか、観客さまぁ❤,Are my boobs keeping you well entertained; dear audience member?~❤
-敵にずりずりされて、おちんちんとっても喜んでますね～❤,Boy; your cock really loves being rubbed by enemies; doesn't it?~❤
-道化めのおっぱいで、たっぷり気持ちよくなってくださいまし～❤,Please enjoy my funbags~ They make you happy don't they?❤
-先っぽばかり気持ちよくしたりもできますよ～❤えいえい♪,I can focus all my attention on pleasuring just your tip if you'd like~❤ Eei!♪
+また道化めの胸を楽しみたくなりましたらぁ、\nどうぞお申しつけくださいまし❤\nこの胸でのご奉仕、何度でもしてしあげますので～❤,Whenever you want to enjoy my big funbags again; just let me know~❤ I'll service you with my tits as many times as you'd like~❤
+また道化めの胸を楽しみたくなりましたらぁ、\nどうぞ主様にお頼みくださいまし～❤\n主様からのご命令があれば、いつでもパイズリご奉仕いたしますよ～❤,Whenever you want to enjoy this jester's breasts again; just ask Master~❤ As long as he gives the order; I'll gladly rub your cock between them anytime~❤
+道化のパイズリは気持ちいいですか、観客さまぁ❤,Are my boobs keeping you well entertained; dear audience member?❤
+敵にずりずりされて、おちんちんとっても喜んでますね～❤,Boy; your cock really loves being rubbed by the enemy; doesn't it?❤
+道化めのおっぱいで、たっぷり気持ちよくなってくださいまし～❤,Please enjoy my funbags. They make you so happy; don't they?❤
+先っぽばかり気持ちよくしたりもできますよ～❤えいえい♪,I can focus all my attention on pleasuring just your tip if you'd like~❤ How's this?♪
 張りがある道化おっぱいで、たくさんもてなします～❤,My perky jester tits will serve you plenty~❤
-敵のパイズリで骨抜きにされちゃったら大変ですよ～❤,Gee; it would be a real downer if you ended up becoming entranced by enemy's titfuck; huh?~❤
-おちんちんイきそうですか？出してもいいですよ～❤くすくす❤,Is your cock about to cum? Go ahead and let it out~❤ Kehehe~❤
-ずりずり、むにゅむにゅ～❤,Sliding; squishing~❤
+敵のパイズリで骨抜きにされちゃったら大変ですよ～❤,Gee; it would be a real downer if you ended up becoming entranced by an enemy's titfuck~❤
+おちんちんイきそうですか？出してもいいですよ～❤くすくす❤,Is your cock about to cum? Go ahead and let it out!❤ Kehehe~❤
+ずりずり、むにゅむにゅ～❤,Slide; slide; squish~❤
 道化めのおっぱいの重さ、たっぷり感じてくださいまし～❤,Feel the full weight of this jester's breasts~❤
-気持ちよすぎてふにゃふにゃですね～❤腰が震えてます～❤,You're getting so weak from how good it feels~❤ Your hips are trembling~❤
-演技のテンポをあげまして～❤ずりずりもっと気持ちよくしますね～❤,I'll pick up the pace of my performance~❤ Pumping my boobs faster to make you feel even better~❤
+気持ちよすぎてふにゃふにゃですね～❤腰が震えてます～❤,You're getting so weak from how good it feels; huh?❤ Your hips are trembling~❤
+演技のテンポをあげまして～❤ずりずりもっと気持ちよくしますね～❤,I'll pick up the pace of my performance~❤ I'll pump my boobs even faster to make you feel even better; okay?❤
 あん、観客さまの方から腰を突いちゃってます❤\n我慢できませんか、くすくす～❤,Ah; the audience member is thrusting his hips on his own!❤ Can't hold back anymore; can you? Kehehe~❤
 他の仲間たちのことなんて忘れて道化めで気持ちよくなってください～❤,Forget all about your other companions. Just feel good with your loyal jester~❤
 パイズリ気持ちいいですか、主様ぁ❤,Does my titfuck feel good; Master?❤
 主様のおちんちんとっても喜んでますね～❤,Master's cock looks so happy~❤
-わたくしは仲間なので、体の力を抜いていいんですよ～❤,I'm on your side; so you can let your guard down completely~❤
+わたくしは仲間なので、体の力を抜いていいんですよ～❤,I'm on your side for now; so you can let your guard down completely~❤
 おちんちんイきそうですか？出していいですよ、主様ぁ❤,Is your cock about to cum? Go ahead and let it out; Master~❤
-主様、ご奉仕パイズリ気持ちいいですか？腰が震えてます～❤,Master; does my service titfuck feel good? Your hips are trembling~❤
+主様、ご奉仕パイズリ気持ちいいですか？腰が震えてます～❤,Master; does my titfuck service feel good? Your hips are trembling~❤
 あん、主様の方から腰を突いちゃってます❤\n我慢できませんか、くすくす～❤,Ah; Master is thrusting his hips on his own!❤ Can't hold back anymore; can you? Kehehe~❤
-パイズリ気持ちいいですか、お仲間さまぁ❤,Does my titfuck feel good; friend? ❤
-お仲間さまのおちんちんとっても喜んでますね～❤,Your cock looks so happy; friend~❤
-おちんちんイきそうですか？出していいですよ、お仲間さまぁ❤,Is your cock about to cum? Go ahead and let it out; dear friend~❤
+パイズリ気持ちいいですか、お仲間さまぁ❤,Does my titfuck feel good; dear comrade? ❤
+お仲間さまのおちんちんとっても喜んでますね～❤,My allies cock looks so happy~❤
+おちんちんイきそうですか？出していいですよ、お仲間さまぁ❤,Is your cock about to cum? We're friends for now; so go ahead and let it out~❤
 ご奉仕パイズリでふにゃふにゃですね～❤腰が震えてます～❤,My titfuck service has made you so weak~❤ Your hips are trembling~❤
-あん、お仲間さまの方から腰を突いちゃってます❤\n我慢できませんか、くすくす～❤,Ah; my friend is thrusting his hips on his own!❤ Can't hold back anymore; can you? Kehehe~❤
-おやおや、主様がされているのはオナニーですか？\nくす、命じてくださればご奉仕をいくらでもいたしますのに～❤\n道化めの体はそんなにエッチだったでしょうか❤,Oh my; Master; are you masturbating? Kehehe; if you'd just given the order; I would've serviced you as much as you wanted~❤ Am I really that sexy of a jester?❤
-ではでは主様ぁ❤道化めも主様のお手伝いをいたしますね～❤\nオナニーがとっても気持ちよくなるように、\n主様のお耳をお借りしまして、ほら、ふぅー・・・❤,Well then; Master~❤ Let this jester help you out~❤ To make your masturbation feel incredibly good; I'll borrow your ear for a moment and; look; haah...❤
+あん、お仲間さまの方から腰を突いちゃってます❤\n我慢できませんか、くすくす～❤,Ah; you're is thrusting his hips on his own!❤ Can't hold back anymore; can you? Kehehe~❤
+おやおや、主様がされているのはオナニーですか？\nくす、命じてくださればご奉仕をいくらでもいたしますのに～❤\n道化めの体はそんなにエッチだったでしょうか❤,Oh my... Master; are you masturbating? Kehehe; if you'd just given the order; I would've happily serviced you as much as you wanted~❤ Am I really that sexy of a jester?❤
+ではでは主様ぁ❤道化めも主様のお手伝いをいたしますね～❤\nオナニーがとっても気持ちよくなるように、\n主様のお耳をお借りしまして、ほら、ふぅー・・・❤,Well then; Master...❤ Let your jester help you out~❤ To make your masturbation feel incredibly good; I'll borrow your ear for a moment and... Here. Haah...❤
 はひっ❤あっ、ああっ❤,Hahh!❤ Ah; aah!❤
-くすくす❤敏感に反応されていますね、主様ぁ❤\nわざわざ自分でしごきはじめたぐらいです、\nきっとこういう遠まわしな刺激の方がお好きかと思いまして～❤,Kehehe~❤ You're reacting so sensitively; Master~❤ Since you went out of your way to start stroking yourself; I figured you'd prefer this kind of indirect stimulation~❤
-どうやら大当たりだったようです❤\n耳元にふぅーってされて、びくびく体を跳ねさせてる主様、\nかわいいらしいですよ～❤,It looks like I hit the jackpot!❤ Master; you're twitching and jerking from having your ear teased with my breath~ How adorable~❤
-道化に仲良く体を寄せてもらいながら、しこしこ❤しこしこ❤\nお仲間のマスターたちや多くの人間の命がかかっていますのに、\n耳を甘やかされるのは気持ちいいですね～❤,Just relax and stroke your cock for me~❤ Even though the lives of your companion cardmasters and many humans are at stake; having your ears pampered while your sexy jester presses up against you feels so good; doesn't it?~❤
-いいんですよ❤わたしは主様の仲間ですから❤\nシコシコして、頭真っ白になって、\n甘えてしまってもよいのです❤,It's alright~❤ I'm your ally; Master.❤ Go ahead and jerk off. Let your mind go completely blank; and just indulge in my loving attention.❤
-おや、向こうで主様の仲間のマスターたちが何やら言っておりますね～。\n余計な言葉が主様のお耳に入らぬように、\nほら、ふぅーー・・・❤,Oh my; it sounds like your companion cardmasters over there are saying something~. To keep those unnecessary words from reaching your ears; look; haah...❤
-道化めの声だけを聞いて、おちんちんをお扱きください、主様ぁ❤\nそうそう上手ですよ～、さすが主様です❤,Just listen to my silly voice and stroke your cock; Master~❤ Yes; that's it~ You're so skilled; as expected of Master!❤
-くす、もう出してしまいますか？\nそれならどうぞ、おちんちんの前に手をかぶせてあげますので、\n道化めの手の平にお出しください❤,Kehehe; are you about to cum already? Then please; go ahead~ I'll cup my hand in front of your cock; so release it all into this jester's palm.❤
-ほら、ほら、しこしこしこしこ❤\n道化めに主様のエナジーをお恵みくださいませ～❤\nふぅーーー・・・❤,There; there; stroke it hard; stroke it fast~❤ Bless this jester with Master's energy~❤ Haah...❤
-きゃは❤どくどくどくっと、濃ゆいのが出ております❤\n主様の子種が道化めの手の平の上に、こんなにたくさん❤,Kyaha!❤ It's spurting out in thick; heavy pulses!❤ So much of Master's seed; all over this jester's palm~❤
-道化めのサポートはいかがだったでしょうか？\n主様を楽しませることができたのなら、道化冥利に尽きるというもの♪\nくす、気持ちよさそうな顔ですね、主様ぁ❤,How did I do? Was I entertaining enough for you? If I managed to bring a smile to your face; then I couldn't be happier as a jester!♪ Kehehe; what a happy expression you're making; Master~❤
-おやおや、お仲間さまがされているのはオナニーですか？\nくす、仲間なのですからご奉仕ぐらいいくらでもいたしますのに～❤\n道化めの体はそんなにエッチだったでしょうか❤,Oh my; my dear friend; are you masturbating? Kehehe; we're allies; so I'd be happy to service you as much as you'd like~❤ Is my jester outfit really that sexy?❤
-ではではお仲間さま❤道化めもお手伝いをいたしますね～❤\nオナニーがとっても気持ちよくなるように、\nお仲間さまのお耳をお借りしまして、ほら、ふぅー・・・❤,Well then; dear friend~❤ Let this jester help you out~❤ To make your masturbation feel incredibly good; I'll borrow your ear for a moment and; look; haah...❤
-くすくす❤敏感な反応ですねぇ、お仲間さまぁ❤\nわざわざ自分でしごきはじめたぐらいです、\nきっとこういう遠まわしな刺激の方がお好きかと思いまして～❤,Kehehe~❤ Such a sensitive reaction; my dear friend~❤ Since you went out of your way to start stroking yourself; I figured you'd prefer this kind of indirect stimulation~❤
-どうやら大当たりだったようです❤\n耳元にふぅーってされて、びくびく体を跳ねさせてる姿、\nかわいいらしいですよ～❤,It looks like I hit the jackpot!❤ You're twitching and jerking from having your ear teased with my breath~ How adorable~❤
-わたしのような下級の雑魚モンスターに、\nオナニーの手伝いをしてもらうのはどうですかぁ❤\n道化に仲良く体を寄せてもらいながら、しこしこ❤しこしこ❤,How does it feel to have a low-level; weak monster like me help with your masturbation?❤ Stroke your dick~❤  Stroke it nice and good for me while I press against your body~❤
-マスターさんのために働かないといけないのに、\n道化に耳を甘やかされるのは気持ちいいですね～❤\nおちんちん触るの幸せですね～❤,Even though you should be working for your cardmaster; having your ears pampered by this jester feels so good; doesn't it~❤ Stroking your cock makes you feel so happy; doesn't it~❤
-いいんですよ❤わたしは仲間なのですから❤\nシコシコして、頭真っ白になって、\n甘えてしまってもよいのです❤,It's alright~❤ I'm your ally after all.❤ Go ahead and stroke yourself; let your mind go completely blank; and just indulge in my attention.❤
-道化めの声だけを聞いて、おちんちんをお扱きください、主様ぁ❤\nそうそう上手ですよ～、さすがお仲間さまです❤,Just listen to this jester's voice and stroke your cock; Master~❤ Yes; that's it~ You're so skilled; as expected of my dear friend!❤
-ほら、ほら、しこしこしこしこ❤\n道化めにお仲間さまのエナジーをお恵みくださいませ～❤\nふぅーーー・・・❤,There; there; stroke; stroke; stroke; stroke~❤ Bless this jester with your energy; dear friend~❤ Haah...❤
-きゃは❤どくどくどくっと、濃ゆいのが出ております❤\nお仲間さまの子種が道化めの手の平の上に、こんなにたくさん❤,Kyaha!❤ It's spurting out in thick; heavy pulses!❤ So much of my dear friend's seed; all over this jester's palm~❤
-道化めのサポートはいかがだったでしょうか？\n存分に楽しませることができたのなら、道化冥利に尽きるというもの♪\nくす、気持ちよさそうな顔ですね、お仲間さま❤,I did a good job supporting you; right? If I managed to entertain you thoroughly; then I couldn't be happier as a jester!♪ Kehehe; what a happy face you're making; my dear friend~❤
-おやおや、わたしのような雑魚モンスター相手にオナニーですか？\nくす、効果も不発でほとんど戦闘能力もないというのに、\n道化めの体はそんなにエッチだったでしょうか❤,Oh my; are you masturbating to a weak monster like me? Kehehe; even though my skills barely do anything and I have almost no combat ability to speak of; do you still find my body sexy?❤
-ではでは観客さま❤道化めがオナニーのお手伝いをいたしますね～❤\nよりシコシコが気持ちよくなるように、\n観客さまのお耳をお借りしまして、ほら、ふぅー・・・❤,Well then; dear audience member~❤ Let this jester aid your masturbation~❤ To make your stroking feel even better; I'll borrow your ear for a moment and; look; haah...❤
-くすくす❤敏感な反応ですねぇ❤\nわざわざ自分でしごきはじめたぐらいです、\nきっとこういう遠まわしな刺激の方がお好きかと思いまして～❤,Kehehe~❤ Such a sensitive reaction~❤ Since you went out of your way to start stroking yourself; I figured you'd prefer this kind of indirect stimulation~❤
-どうやら大当たりだったようです❤\n耳元にふぅーってされて、びくびく体を跳ねさせてる姿、\nかわいいらしいですよ～❤観客さま❤,It looks like I hit the jackpot!❤ You're twitching and jerking from having your ear teased with my breath~ How adorable~❤ Dear audience member~❤
-わたしのような下級の雑魚モンスターにメロメロになって、\nおちんちんをしこしこしこ❤\n体をぴとっと寄せてもらいながら、わたくしの体温を感じてくださいまし～❤,Fall head over heels for a low-level; weak monster like me; and stroke; stroke; stroke your cock~❤ Feel my body temperature as I press myself close against you~❤
-まともに戦えば楽勝でしょうに、\n道化に耳を甘やかされるのは気持ちいいですね～❤\nおちんちんシコシコするたび、あへぇってなってしまいますね～❤,Even though you'd win easily in a fair fight; having your ears pampered by this jester feels so good; doesn't it~❤ Every time you stroke your cock; you let out such lewd moans~❤
-ほんとうは負けちゃダメ、ダメなんですよ❤\n道化がいくらあなたのことを楽しませてきても、流されちゃダメなんです❤\nわたくしは観客さまの敵なのですから❤,You really shouldn't be losing; you know?❤ No matter how much this jester entertains you; you shouldn't give in~❤ After all; I'm your enemy; dear audience member.❤
-くすくす❤そう言われても、わたしに密着されて\n横でささやかれていたら、オナニー止められませんか？\nどんどん手が早くなっておりますね❤観客さま❤,Kehehe~❤ Even after I say that; when I'm pressed this close to you whispering in your ear; you can't stop masturbating; can you? Your hand is moving faster and faster~❤ Dear audience member~❤
-それではちょっと玉遊びでもいたしましょうか。\n片手を観客さまのタマタマにあてがいまして、\nほら、ふにふに♪もみもみもみ♪,Now then; shall we play with your balls for a bit? I'll place one hand on your testicles and; look; squish; squish♪ Knead; knead; knead♪
-道化めの手先は器用でしょう？わたくし玉の扱いはお手の物ですので～\n観客さまの玉も上手に扱えるのです❤\nオナニーの手伝いでもみもみされて気持ちいいですね～❤,This jester's hands are quite dexterous; you know? I'm an expert at handling balls~ So I can handle yours with ease too.❤ Having them massaged as I help you out feels amazing; doesn't it~❤
-うあっ、ああうっ❤すごいっ、きもちいいっ❤\nあっ、そんなにぐにぐにされたらっ、はひぃっ❤,Uah; aah!❤ It's incredible; it feels so good!❤ Ah; if you keep kneading them like that; hahii!❤
+くすくす❤敏感に反応されていますね、主様ぁ❤\nわざわざ自分でしごきはじめたぐらいです、\nきっとこういう遠まわしな刺激の方がお好きかと思いまして～❤,Kehehe~❤ You're so sensitive; Master~❤ Since you went out of your way to start stroking yourself; I figured you'd prefer this kind of indirect stimulation~❤
+どうやら大当たりだったようです❤\n耳元にふぅーってされて、びくびく体を跳ねさせてる主様、\nかわいいらしいですよ～❤,It looks like I hit the jackpot!❤ My master's twitching and jerking from having your ear teased with my breath. How adorable~❤
+道化に仲良く体を寄せてもらいながら、しこしこ❤しこしこ❤\nお仲間のマスターたちや多くの人間の命がかかっていますのに、\n耳を甘やかされるのは気持ちいいですね～❤,Just relax and stroke your cock for me~❤ Stroke; stroke; strokes~❤ Even though the lives of your fellow cardmasters and countless humans are at stake; having your ear pampered while your sexy jester presses up against you feels so good; doesn't it?❤
+いいんですよ❤わたしは主様の仲間ですから❤\nシコシコして、頭真っ白になって、\n甘えてしまってもよいのです❤,It's alright!❤ I'm your ally; after all. At least for now~❤ Go ahead and jerk off. Let your mind go completely blank; and just indulge in my loving attention.❤
+おや、向こうで主様の仲間のマスターたちが何やら言っておりますね～。\n余計な言葉が主様のお耳に入らぬように、\nほら、ふぅーー・・・❤,Oh my; it sounds like the other cardmasters over there are saying something. I'll make sure to keep those unnecessary words from reaching your ears. Here. Haah...❤
+道化めの声だけを聞いて、おちんちんをお扱きください、主様ぁ❤\nそうそう上手ですよ～、さすが主様です❤,Just listen to my silly voice and stroke your cock; Master~❤ Yes; that's it. You're so good at this! But I'd expect nothing less from my master!❤
+くす、もう出してしまいますか？\nそれならどうぞ、おちんちんの前に手をかぶせてあげますので、\n道化めの手の平にお出しください❤,Kehehe; are you about to cum already? Then go ahead. I'll cup my hand in front of your cock; so shoot it all into your jester's palm~❤
+ほら、ほら、しこしこしこしこ❤\n道化めに主様のエナジーをお恵みくださいませ～❤\nふぅーーー・・・❤,There; that's it. Stroke it hard. Stroke it fast~❤ Bless this jester with Master's energy~❤ Haah...❤
+きゃは❤どくどくどくっと、濃ゆいのが出ております❤\n主様の子種が道化めの手の平の上に、こんなにたくさん❤,Kyaha!❤ It's spurting out in such thick; heavy pulses!❤ So much of Master's seed; all over my palm~❤
+道化めのサポートはいかがだったでしょうか？\n主様を楽しませることができたのなら、道化冥利に尽きるというもの♪\nくす、気持ちよさそうな顔ですね、主様ぁ❤,How did I do? Was I entertaining enough for you? If I managed to bring a smile to your face; then as a jester; I couldn't be happier!♪ Kehehe; what a pleased expression you're making; Master~❤
+おやおや、お仲間さまがされているのはオナニーですか？\nくす、仲間なのですからご奉仕ぐらいいくらでもいたしますのに～❤\n道化めの体はそんなにエッチだったでしょうか❤,Oh my; are you actually masturbating; dear comrade? Kehehe; since we're allies—at least for now—I'd be happy to service you as much as you'd like~❤ Is my jester outfit really that sexy?❤
+ではではお仲間さま❤道化めもお手伝いをいたしますね～❤\nオナニーがとっても気持ちよくなるように、\nお仲間さまのお耳をお借りしまして、ほら、ふぅー・・・❤,Well then; dear friend~❤ Let this jester help you out; okay?❤ To make your masturbation feel extra good; I'll just borrow your ear for a moment and... Here. Haah...❤
+くすくす❤敏感な反応ですねぇ、お仲間さまぁ❤\nわざわざ自分でしごきはじめたぐらいです、\nきっとこういう遠まわしな刺激の方がお好きかと思いまして～❤,Kehehe~❤ You're so sensitive~❤ Since you went out of your way to start stroking yourself; I figured you'd prefer this kind of indirect stimulation~❤
+どうやら大当たりだったようです❤\n耳元にふぅーってされて、びくびく体を跳ねさせてる姿、\nかわいいらしいですよ～❤,It looks like I hit the jackpot!❤ You're twitching and jerking from having your ear teased with my breath. How adorable~❤
+わたしのような下級の雑魚モンスターに、\nオナニーの手伝いをしてもらうのはどうですかぁ❤\n道化に仲良く体を寄せてもらいながら、しこしこ❤しこしこ❤,How does it feel to have a weak; low-level monster like me help with your masturbation?❤ That's it; keep stroking~❤  Stroke your cock nice and good for me while I press my body against you~❤
+マスターさんのために働かないといけないのに、\n道化に耳を甘やかされるのは気持ちいいですね～❤\nおちんちん触るの幸せですね～❤,You really should be fighting for your cardmaster; but having your ear pampered by such a cute jester feels so good; doesn't it?❤ Stroking your cock makes you feel so happy; right?❤
+いいんですよ❤わたしは仲間なのですから❤\nシコシコして、頭真っ白になって、\n甘えてしまってもよいのです❤,It's alright~❤ We're on the same side; after all.❤ Go ahead and keep stroking yourself. Let your mind go completely blank; and just indulge in my attention.❤
+道化めの声だけを聞いて、おちんちんをお扱きください、主様ぁ❤\nそうそう上手ですよ～、さすがお仲間さまです❤,Just listen to this jester's voice and stroke your cock~❤ Yes; that's it. You're so good at this. As I'd expect of my teamate!❤
+ほら、ほら、しこしこしこしこ❤\n道化めにお仲間さまのエナジーをお恵みくださいませ～❤\nふぅーーー・・・❤,There; that's it. Stroke stroke; stroke stroke~❤ Bless this jester with your energy; dear friend~❤ Haah...❤
+きゃは❤どくどくどくっと、濃ゆいのが出ております❤\nお仲間さまの子種が道化めの手の平の上に、こんなにたくさん❤,Kyaha!❤ It's spurting out in such thick; heavy pulses!❤ So much of my allies seed is spilling into my palm~❤
+道化めのサポートはいかがだったでしょうか？\n存分に楽しませることができたのなら、道化冥利に尽きるというもの♪\nくす、気持ちよさそうな顔ですね、お仲間さま❤,I did a good job assisting you; right? If I managed to truly entertain you; then as a jester; I couldn't be happier!♪ Kehehe; you're making such a pleased face; comrade~❤
+おやおや、わたしのような雑魚モンスター相手にオナニーですか？\nくす、効果も不発でほとんど戦闘能力もないというのに、\n道化めの体はそんなにエッチだったでしょうか❤,Oh my; are you really masturbating to a weak little monster like me? Kehehe; but even though my skills barely work and I have almost no combat abilities; my sex appeal makes up for it in spades; right?❤
+ではでは観客さま❤道化めがオナニーのお手伝いをいたしますね～❤\nよりシコシコが気持ちよくなるように、\n観客さまのお耳をお借りしまして、ほら、ふぅー・・・❤,Well then; dear audience member~❤ Let this jester aid your masturbation~❤ To make your stroking feel even better; I'll borrow your ear for a moment and; here... Haah...❤
+くすくす❤敏感な反応ですねぇ❤\nわざわざ自分でしごきはじめたぐらいです、\nきっとこういう遠まわしな刺激の方がお好きかと思いまして～❤,Kehehe~❤ So sensitive~❤ Since you went out of your way to start stroking yourself; I figured you'd prefer this kind of indirect stimulation~❤
+どうやら大当たりだったようです❤\n耳元にふぅーってされて、びくびく体を跳ねさせてる姿、\nかわいいらしいですよ～❤観客さま❤,It looks like I hit the jackpot!❤ You're twitching and jerking from having your ear teased with my breath. You're so adorable!❤ My dear audience member~❤
+わたしのような下級の雑魚モンスターにメロメロになって、\nおちんちんをしこしこしこ❤\n体をぴとっと寄せてもらいながら、わたくしの体温を感じてくださいまし～❤,Fall head-over-heels for a weak; low-level monster like me; and stroke; stroke; stroke your cock~❤ Feel the heat of my body as I press myself close against you~❤
+まともに戦えば楽勝でしょうに、\n道化に耳を甘やかされるのは気持ちいいですね～❤\nおちんちんシコシコするたび、あへぇってなってしまいますね～❤,You'd win easily in a fair fight; but having your ears pampered by a jester feels so good; doesn't it~❤ Every time you stroke your cock; you let out such lewd moans~❤
+ほんとうは負けちゃダメ、ダメなんですよ❤\n道化がいくらあなたのことを楽しませてきても、流されちゃダメなんです❤\nわたくしは観客さまの敵なのですから❤,You really shouldn't be losing; you know.❤ No matter how much this jester entertains you; you shouldn't give in~❤ After all; dear audience member; I am still your enemy.❤
+くすくす❤そう言われても、わたしに密着されて\n横でささやかれていたら、オナニー止められませんか？\nどんどん手が早くなっておりますね❤観客さま❤,Kehehe~❤ Even after I say that; when I'm pressed this close to you; whispering in your ear; you can't stop masturbating; can you? Your hand is moving faster and faster~❤ My poor; dear audience member~❤
+それではちょっと玉遊びでもいたしましょうか。\n片手を観客さまのタマタマにあてがいまして、\nほら、ふにふに♪もみもみもみ♪,Now then; how 'bout I play with your balls for a bit? I'll place one hand on your testicles and... Squish; squish~♪ Rub rub rub~♪
+道化めの手先は器用でしょう？わたくし玉の扱いはお手の物ですので～\n観客さまの玉も上手に扱えるのです❤\nオナニーの手伝いでもみもみされて気持ちいいですね～❤,A jester's hands are quite dexterous; you know. I'm an expert at handling balls; so I can play with yours no problem; too.❤ Having them massaged as I aid our masturbation feels amazing; doesn't it?❤
+うあっ、ああうっ❤すごいっ、きもちいいっ❤\nあっ、そんなにぐにぐにされたらっ、はひぃっ❤,Uah; aah!❤ Incredible. It feels so good!❤ Ah; if you keep kneading them like that... Hahii!❤
 くすくす❤観客さまは道化の芸に大満足のご様子❤\nもっともっとその歓声をお聞かせくださいまし❤,Kehehe~❤ It seems the audience member is thoroughly satisfied with this jester's performance~❤ Please; let me hear more of those delightful sounds~❤
-我慢ができなくなったらいつでも出してよいのですよ♪\nほら、おちんちんの前にもう片方の手をかぶせてあげますので、\nお好きな時に道化めの手の平にお出しください❤,Whenever you can't hold back anymore; feel free to release it!♪ Look; I'll cup my other hand in front of your cock; so whenever you're ready; release it all and I'll catch it.❤
-耳元でささやかれながら玉ももみもみ揉まれて❤\nとっても贅沢なオナニーですね～❤\nくすくす❤,Having your ear teased with whispers while your balls are kneaded and massaged~❤ What a luxurious masturbation session~❤ Kehehe~❤
+我慢ができなくなったらいつでも出してよいのですよ♪\nほら、おちんちんの前にもう片方の手をかぶせてあげますので、\nお好きな時に道化めの手の平にお出しください❤,Whenever you can't hold back anymore; feel free to let it all out!♪ Look; I'll cup my other hand in front of your cock; so when you're ready; just release it all and I'll catch it like this.❤
+耳元でささやかれながら玉ももみもみ揉まれて❤\nとっても贅沢なオナニーですね～❤\nくすくす❤,Having your ear teased with whispers while your balls are kneaded and massaged...❤ What a luxurious masturbation session; huh?❤ Kehehe~❤
 それではどうぞ、おひねり代わりに、\n道化めに観客さまのエナジーをお恵みくださいませ～❤\nふぅー・・・❤,Now then; go ahead and bless this jester with your energy as a tip; dear audience member~❤ Haah...❤
-きゃは❤どくどくどくっと、濃ゆいのが出ております❤\n観客様の子種が道化めの手の平の上に、こんなにたくさん❤,Kyaha!❤ It's spurting out in thick; heavy pulses!❤ So much of the audience member's seed; all over this jester's palm~❤
-道化めのサポートはいかがだったでしょうか？\n存分に楽しませることができたのなら、道化冥利に尽きるというもの♪\nくす、満喫しちゃった顔ですね、観客さま❤,I did a good job supporting you; didn't I? If I managed to entertain you thoroughly; then I couldn't be happier as a jester!♪ Kehehe; what a satisfied expression you're making; dear audience member~❤
-おやおや、主様もオナニーをされてしまうのですか？\nくす、命じてくださればご奉仕をいくらでもいたしますのに～❤\n道化めの体はそんなにエッチだったでしょうか❤,Oh my; is Master going to masturbate too? Kehehe; if you just give the order; I'll service you as much as you desire~❤ Is this jester's body really that erotic?❤
-では、主様もお仲間さまと同じ様に、\nオナニーのお手伝いをしてあげますね～❤\n主様のお耳をお借りしまして、ふぅー・・・❤,Well then; I'll help Master with your masturbation just like I did for your friend~❤ Allow me to borrow Master's ear for a moment; haah...❤
-くすくす❤敏感に反応されていますね、主様ぁ❤\nお仲間さまも主様も、耳を責められるのがお好きなご様子❤\n道化めの息が当たると、ビクビク震えてしまいます❤,Kehehe~❤ You're reacting so sensitively; Master~❤ It seems both your friend and you love having your ears teased~❤ You tremble and twitch whenever this jester's breath touches you~❤
-道化の芸では、息なんて普段は使わないのですよ？\nせいぜい紙吹雪をふぅーっと飛ばすときぐらいです。\n主様の理性も、紙吹雪のようにふぅっと吹き飛ばされてしまいますか？,In my jester performances; I don't normally use my breath you know? The most I do is blow confetti with a puff. Will Master's reason be blown away like confetti too?
-道化に仲良く体を寄せてもらいながら、しこしこ❤しこしこ❤\nお仲間のマスターたちや多くの人間の命がかかっていますのに、\n耳に息をふぅふぅ吹きかけられて、頭が真っ白❤気持ちいい❤,Stroking yourself; stroke; stroke❤ while this jester presses close against you~❤ Even though the lives of your fellow cardmasters and so many humans are at stake; having breath blown into your ear makes your mind go blank~❤ It feels so good~❤
-おや、向こうで主様の仲間のマスターたちが何やら言っておりますね～。\nきっと主様を正気に戻そうと声を張り上げているのでしょう❤\nではでは、余計な言葉がお耳に入らぬように、ほら、ふぅーー・・・❤,Oh my; it looks like your fellow cardmasters over there are saying something~. They're probably raising their voices trying to bring you back to your senses.❤ Well then; to make sure those unnecessary words don't reach your ears; look; haah...❤
-道化めの声と息だけで脳みそを埋めてあげます❤\n何も考えず、おちんちんをお扱きください、主様ぁ❤\nそうそう上手ですよ～、シコシコ❤シコシコ❤さすが主様です❤,I'll fill your brain with nothing but this jester's voice and breath.❤ Don't think about anything else; just stroke your cock; Master~❤ Yes; that's it~ You're doing so well; stroke; stroke❤ stroke; stroke❤ as expected of Master!❤
-おやおや、お仲間さまがされているのはオナニーですか？\nくす、みなさま揃って道化めでオナニーをして、\nわたしの体はそんなにエッチだったでしょうか～❤,Oh my; is your friend masturbating too? Kehehe; everyone's jerking off to this jester together~ Was my body really that erotic?❤
-お仲間さまぁ❤あなたのオナニーも道化めがお手伝いいたします❤\nオナニーがとっても気持ちよくなるように、\nお仲間さまのお耳をお借りしまして、ほら、ふぅー・・・❤,Dear friend~❤ I'll help you masturbate too!❤ To make your masturbation feel incredibly good; allow me to borrow your ear for a moment; look; haah...❤
-くすくす❤敏感な反応ですねぇ、お仲間さまぁ❤\nみなさんお耳が弱点なのですか～❤\n軽く息を吹きかけただけでお顔がとろけてしまいます❤,Kehehe~❤ Such a sensitive reaction; dear friend~❤ Are all of you weak to having your ears played with?❤ Just a light puff of breath and your expression melts completely~❤
-玉投げに綱渡り、ナイフ投げに空中ブランコ、\n色んな芸でお客様を楽しませてきましたが、\n息を吹きかけるだけなんて、こんなに簡単な芸は他にありませんね❤,Ball juggling; tightrope walking; knife throwing; trapeze acts—I've entertained audiences with all kinds of performances; but blowing? There's no easier trick than this~❤
-何の技術もいりません。ただシコシコしている横で、\n時折、ふぅーっと息を吐いてあげるだけでいいのです❤\nそれだけで、くす、簡単に至福の表情♪,It requires no skill whatsoever. I simply blow a gentle breath while you stroke yourself beside me~❤ And just like that; kehehe; you make such a blissful expression♪
-道化めの手にかけることができて、いかがでしたか主様❤\nお耳が弱いだなんてかわいいところもあるのですね❤\nくすくす❤,How was it; cumming all over this jester's hands; Master?❤ To think you would have such a cute weakness for having your ears teased~❤ Kehehe~❤
+きゃは❤どくどくどくっと、濃ゆいのが出ております❤\n観客様の子種が道化めの手の平の上に、こんなにたくさん❤,Kyaha!❤ It's spurting out in thick; heavy pulses!❤ So much of my audience member's seed; all over this jester's palm~❤
+道化めのサポートはいかがだったでしょうか？\n存分に楽しませることができたのなら、道化冥利に尽きるというもの♪\nくす、満喫しちゃった顔ですね、観客さま❤,I did a good job aiding you; didn't I? If I managed to truly entertain you; then as a jester; I couldn't be happier!♪ Kehehe; you're making such a satisfied expression; dear audience member~❤
+おやおや、主様もオナニーをされてしまうのですか？\nくす、命じてくださればご奉仕をいくらでもいたしますのに～❤\n道化めの体はそんなにエッチだったでしょうか❤,Oh my; is Master going to masturbate; too? Kehehe; if you had just given the order; I would have gladly serviced you as much as you want~❤ Is your jester's body really so desirable?❤
+では、主様もお仲間さまと同じ様に、\nオナニーのお手伝いをしてあげますね～❤\n主様のお耳をお借りしまして、ふぅー・・・❤,Well then; I'll help Master with his masturbation; just like I did for his friend~❤ Allow me to borrow Master's ear for a moment. Haah...❤
+くすくす❤敏感に反応されていますね、主様ぁ❤\nお仲間さまも主様も、耳を責められるのがお好きなご様子❤\n道化めの息が当たると、ビクビク震えてしまいます❤,Kehehe~❤ You're so sensitive; Master~❤ It seems both you and your friend just love having your ears teased~❤ You tremble and twitch whenever your jester's breath touches you~❤
+道化の芸では、息なんて普段は使わないのですよ？\nせいぜい紙吹雪をふぅーっと飛ばすときぐらいです。\n主様の理性も、紙吹雪のようにふぅっと吹き飛ばされてしまいますか？,In my performances; I don't normally use my breath; you know. The most I do is blow confetti with a puff. I wonder... Will Master's reason be blown away as easily as confetti?
+道化に仲良く体を寄せてもらいながら、しこしこ❤しこしこ❤\nお仲間のマスターたちや多くの人間の命がかかっていますのに、\n耳に息をふぅふぅ吹きかけられて、頭が真っ白❤気持ちいい❤,Stroke; stroke; stroke~❤ That's it; keep stroking yourself as your jester presses tight against you~❤ Even though the lives of your fellow cardmasters and so many other humans are at stake; having breath blown into your ear just makes your mind go blank~❤ It feels so good~❤
+おや、向こうで主様の仲間のマスターたちが何やら言っておりますね～。\nきっと主様を正気に戻そうと声を張り上げているのでしょう❤\nではでは、余計な言葉がお耳に入らぬように、ほら、ふぅーー・・・❤,Oh my; it looks like your fellow cardmasters over there are trying to tell you something. They're probably shouting; trying to bring you back to your senses.❤ Well then; to make sure those unnecessary words don't reach your ears; here. Haah...❤
+道化めの声と息だけで脳みそを埋めてあげます❤\n何も考えず、おちんちんをお扱きください、主様ぁ❤\nそうそう上手ですよ～、シコシコ❤シコシコ❤さすが主様です❤,I'll fill your mind with nothing but your sweet jester's voice and breath.❤ Don't think about anything else; Master. Just keep stroking your cock~❤ That's it. You're doing so well. Stroke; stroke~❤ Stroke; stroke~❤ I'd expect nothing less of my master!❤
+おやおや、お仲間さまがされているのはオナニーですか？\nくす、みなさま揃って道化めでオナニーをして、\nわたしの体はそんなにエッチだったでしょうか～❤,Oh gosh; are you maturbating; too; dear comrade? Kehehe; everyone's jerking off to this jester together! Was my body really that sexy?❤
+お仲間さまぁ❤あなたのオナニーも道化めがお手伝いいたします❤\nオナニーがとっても気持ちよくなるように、\nお仲間さまのお耳をお借りしまして、ほら、ふぅー・・・❤,My poor; sweet ally~❤ I know; I'll help you masturbate; too!❤ To make it feel extra good; allow me to borrow your ear for a moment. Here; haah...❤
+くすくす❤敏感な反応ですねぇ、お仲間さまぁ❤\nみなさんお耳が弱点なのですか～❤\n軽く息を吹きかけただけでお顔がとろけてしまいます❤,Kehehe~❤ You're so sensitive; my friend~❤ Are all of you weak to having your ears played with?❤ Just a light puff of my breath and your expression just melts completely~❤
+玉投げに綱渡り、ナイフ投げに空中ブランコ、\n色んな芸でお客様を楽しませてきましたが、\n息を吹きかけるだけなんて、こんなに簡単な芸は他にありませんね❤,Ball juggling; tightrope walking; knife throwing; trapeze acts—I've entertained audiences with all kinds of performances; but blowing my breath? There's no easier trick in the book~❤
+何の技術もいりません。ただシコシコしている横で、\n時折、ふぅーっと息を吐いてあげるだけでいいのです❤\nそれだけで、くす、簡単に至福の表情♪,It requires no skill whatsoever. All I have to do is blow gently while you stroke yourself next to me~❤ And just like that; kehehe; you make such a blissful expression~♪
+道化めの手にかけることができて、いかがでしたか主様❤\nお耳が弱いだなんてかわいいところもあるのですね❤\nくすくす❤,How was it; cumming all over your jester's hands; Master?❤ To think you would have such a cute weakness for having your ears teased~❤ Kehehe~❤
 あん、どろどろの精液がたっぷり谷間に出ていますね～❤\n道化のパイズリはいかがでしたか？\n腰が抜けるほど気持ちよかったでしょうか。くすくす❤,Mmm; so much thick; gooey cum all over my cleavage~❤ Did you enjoy playing with my funbags? Could you feel your legs give out as I rolled them around your cock? Kehehe~❤
-あは、手で扱かれてびゅるるぅっと出してしまいました❤\n指ぬき手袋でしこしこされるのは気持ちよかったですか❤\n道化は喜んでもらえてうれしいです♪,Aha! I stroked you with my hands and you came spurting out~❤ Did it feel good being jerked off by my fingerless gloves?❤ This jester is so happy you enjoyed it♪
-あん、足裏で勢いよく射精しています❤\n足ですりすりと擦られて我慢できませんでしたか？\n射精させるのは玉乗りするより簡単ですね～❤くすくす❤,Mmm; you're ejaculating so vigorously against the soles of my foot~❤ Couldn't hold back from being rubbed by my arch? Making you cum is easier than riding a ball~ Kehehe~❤
-主様ぁ、どうされましたか？もう体が動かないのですか？\nおよよよ、道化はやりすぎてしまったようです❤,Master~; what's wrong? Can't move your body anymore? Oh my; it seems this jester went too far~❤
-これぐらいなら耐えられると思いましたのに、\n気持ちよくしすぎてしまって、ごめんなさいです、主様ぁ❤\nぷっ、くすくすくす❤,I thought you could endure this much; but I made you feel too good; sorry about that; Master~❤ Pfft; *Kehehe Kehehe*❤
-ふふ、何やってるのかしら、{主人公}。\n道化師は敵のモンスターを奪う強力なモンスターだけれど、そっちに\nコントロールが移ってからはちゃんとあなたの命令を聞くはずよ？,Fufu; what are you doing; {主人公}? The jester may be a powerful monster that steals away enemy monsters; but don't worry; once she's on your field; I'm sure she'll do whatever you tell her to~
-自分から道化師にエッチなことを命じて、勝手に負けて、\nカードマスター失格ね❤,You gave the jester lewd commands yourself and lost on your own accord—disqualified as a cardmaster~❤
-あなたが負けたらみんな吸い殺されちゃうかもしれないのに、\nふふふ、わたしから溢れているサキュバスの淫気に当てられて、\n理性を失っちゃったのかしら❤,If you lose; everyone might get sucked dry; and yet; fufufu; I guess the succubus aura around me caused you to stop thinking~❤
-うう、そうだ、僕は何をやっているのだろう。いまは欲望に流されていい状況じゃない。サキュバスを前にして命がかかっているのだ。,Ugh; that's right; what am I doing? This isn't a situation where I should be giving in to temptation. Lives are at stake in front of this succubus.
+あは、手で扱かれてびゅるるぅっと出してしまいました❤\n指ぬき手袋でしこしこされるのは気持ちよかったですか❤\n道化は喜んでもらえてうれしいです♪,Aha; all I did was stroke you're cock with my hands and it all came spurting out~❤ Did it feel good being jerked off by my fingerless gloves?❤ Your jester is so happy you enjoyed it♪
+あん、足裏で勢いよく射精しています❤\n足ですりすりと擦られて我慢できませんでしたか？\n射精させるのは玉乗りするより簡単ですね～❤くすくす❤,Mmm; you're ejaculating so vigorously against the soles of my foot~❤ Couldn't hold back while being rubbed by my arch; could you? Making you cum is even easier than riding a ball! Kehehe~❤
+主様ぁ、どうされましたか？もう体が動かないのですか？\nおよよよ、道化はやりすぎてしまったようです❤,Awh; what's wrong; Master? Can't move your body anymore? Oh my; it looks like your jester went too far~❤
+これぐらいなら耐えられると思いましたのに、\n気持ちよくしすぎてしまって、ごめんなさいです、主様ぁ❤\nぷっ、くすくすくす❤,I thought you could endure at least this much; but I made you feel too good. Sorry about that; Master~❤ Pfft; kehehehehe~❤
+ふふ、何やってるのかしら、{主人公}。\n道化師は敵のモンスターを奪う強力なモンスターだけれど、そっちに\nコントロールが移ってからはちゃんとあなたの命令を聞くはずよ？,Fufu; what will you do now; {主人公}? This jester card is a powerful monster that can let me take swap control of an opponent's monster; but don't worry; once she's on your field; I'm sure she'll do whatever you tell her to~
+自分から道化師にエッチなことを命じて、勝手に負けて、\nカードマスター失格ね❤,You gave the jester those lewd commands yourself and lost on your own accord. That should be disqualifing as a cardmaster; don't you think?❤
+あなたが負けたらみんな吸い殺されちゃうかもしれないのに、\nふふふ、わたしから溢れているサキュバスの淫気に当てられて、\n理性を失っちゃったのかしら❤,If you lose; everyone might get sucked dry; you know. And yet; fufufu; maybe my succubus aura's simply driven you mad~❤
+うう、そうだ、僕は何をやっているのだろう。いまは欲望に流されていい状況じゃない。サキュバスを前にして命がかかっているのだ。,Ugh; that's right; what am I doing? This isn't a situation where I can give in to desire. I'm facing a succubus. Lives are at stake.
 だが、エルルさんがサキュバス化してから、狭い地下通路の中に甘ったるい空気が漂っている。その匂いを嗅いでいると体がむらむらして仕方がなくなる。,But ever since Elulu turned into a succubus; a sickeningly sweet atmosphere was now drifting through the narrow underground passage. I was begining to feel so horny from breathing it in I couldn't think straight.
 そのうえ、自分のそばにやってきた、この怪しい女の子が、目の前でぴょんぴょんと跳ねて誘惑してくる。密着しそうな距離で、わざとらしくお尻や胸を揺らして誘惑してきて、それで・・・。,On top of that; this suspicious girl who came close to me is bouncing up and down in front of me; tempting me. Deliberately swaying her ass and breasts at in front of my very eyes; and...
 （ううっ・・・❤だめなのに・・・❤\nああっ、またムラムラしてきて・・・❤）,(Ungh...❤ I shouldn't...❤ Aah; I'm getting aroused again...❤)
-主様ぁ、無理に我慢などしなくてもよいのですよ❤\nわたくしは主様の味方です❤\n主様の命令がなければ、主様を害するようなことはできませぬ❤,Master~; you don't need to force yourself to endure~❤ I'm on your side; Master~❤ Without your command; I cannot do anything to harm you~❤
-だからほら、命じてください❤\n「死なない程度にたくさん気持ちよくして」と、\nそう言えば、安全に極楽を楽しますよぉ❤,So look; just give me the order~❤ All you have to do is say; "Make me cum without killing me" and you can sink into bliss with no concequences~❤
-道化めの体の気持ちよさ、主様はよーく分かっているでしょう？\nささ、この卑しい道化に主様を喜ばせる機会をくださいませ。\nおねがいです～❤主様ぁ❤,Master~; you know very well how good this jester's body feels; don't you?❤ Come now; please give this lowly jester the opportunity to make you feel amazing~ Please~❤ Master~❤
-そう言って道化師は、僕の目の前でぴょんぴょことせわしなく動いてみせる。胸は揺れ、手は僕の体に触れそうになり、扇情的な動きが性欲を刺激してくる。,Saying this; the jester bounces up and down restlessly right in front of me. Her breasts sway; her hands nearly touch my body; her wonton sexuality was making me so horny...
-しかし、決して僕の体に触れることはない。ほんのわずかの距離を開けて、彼女の体がかすめていく。にやにやと笑いながら、僕を試すように、いやらしく体を動かしてくる。,However; she never actually touched my body. Maintaining just the slightest distance; her body brushes past mine. Grinning mischievously; as if testing me; she moves her body in lewd movements.
-うあっ、ううっ❤だめっ、これ以上はっ❤\nああっ・・・❤,Uah; ungh~❤ No; I can't take any more~❤ Aah...❤
-今からでも理性を取り戻し、エルルさんと戦わないといけない。僕以外にも何人もカードマスターがいる、みんなで力を合わせればもしかしたら、魔力を多く失った今の状態でも勝てるかもしれない。,I need to come to my senses again so and fight Elulu. There are several other cardmasters besides me—if we all work together; perhaps we could still win despite the fact I've lost so much magical power.
-だから、この目の前の女の子にやめるよう命じて、カードを引かないといけないのだ。そう、理性を振り絞って気持ちいいことなど忘れなくては・・・。,That's why I need to order this girl in front of me to stop and draw my cards. Yes; I need to muster my reason and forget about feeling good...
-主様ぁ、悩んでいるなら、\nどうぞ❤これを御覧になってくださいまし❤,Master~; you seem conflicted~❤ Then maybe I can help you. Please take a look at this~❤
-主様のおちんちんの前で、道化の得意技、玉投げでございます❤\n胸を両手で持ちまして～、ほらぁ、\nたぷたぷたぷと左右交互に揺らして見せるのです❤,Before your cock; witness the jester's specialty—ball juggling~❤ I'll hold my breasts with both hands~; and look~; I'll bounce them alternately left and right for you~❤
-この胸の間に、挟まれたいと思いませんか、主様ぁ❤\n上下に揺れる大きな玉に挟まれ揉みこまれて、\nとっても気持ちいいですよ～❤あ～ん❤,Don't you want my to squeeze your dick between these breasts; Master~?❤ It feels very good to have your member massaged and rubbed between my tits...❤ Aahn~❤
-あっ、ああつ❤ううぅっ❤❤えろい、えろすぎてっ、あああっ❤,Ah; aah~❤ Ungh~❤❤ I... I can't think straight... I'm so horny...~; aaah~❤
-ううっ、命じる、命じるから❤\n道化師、僕に、攻撃してっ❤おねがいっ❤,F-Fine I'll order it... Please~❤ Jester; attack me~❤ That's an order~❤
-いひひ♪かしこまりました♪\nそれでは、道化めの玉投げをお楽しみくださいませ❤,Ehehe♪ As you command♪ Now then; please enjoy your jester's ball juggling act~❤
-うあっ、ああっ、きもちいいっ❤\nおっぱいが激しく動いてっ❤あひぃっ❤,Uah; aah; it feels so good~❤ You're moving your boobs too quickly~❤ Ahhh~❤
-ふふ、この調子ならあとはその子に任せておいてよさそうね。\nわたしは他のマスターたちを相手にしてくるわ。,Fufu; at this rate I can I'll only need to use that girl to take care of you. I'll go deal with the other masters.
-さっきからあなたが一方的に負けてるのを見て、\nみんなおびえてるの。あの無敗のルーキーがぼろぼろにされてるんだもの、\nきっとわたしの強さが怖いのね。,Everyone's been terrified watching you lose so one-sidedly. The undefeated rookie getting torn apart like this—they must be scared of how strong I am.
+主様ぁ、無理に我慢などしなくてもよいのですよ❤\nわたくしは主様の味方です❤\n主様の命令がなければ、主様を害するようなことはできませぬ❤,Master; you don't need to force yourself to endure; you know~❤ I'm on your side; after all~❤ Without your command; I can't do anything to harm you~❤
+だからほら、命じてください❤\n「死なない程度にたくさん気持ちよくして」と、\nそう言えば、安全に極楽を楽しますよぉ❤,So go ahead; just give the order~❤ All you have to do is say "make me cum without killing me" and you can sink into bliss with no consequences~❤
+道化めの体の気持ちよさ、主様はよーく分かっているでしょう？\nささ、この卑しい道化に主様を喜ばせる機会をくださいませ。\nおねがいです～❤主様ぁ❤,Master; you know all too well how good your jester's body feels; don't you?❤ Come on; just give this lowly jester the opportunity to make you feel amazing. Please?❤ Master~❤
+そう言って道化師は、僕の目の前でぴょんぴょことせわしなく動いてみせる。胸は揺れ、手は僕の体に触れそうになり、扇情的な動きが性欲を刺激してくる。,Saying that; the jester bounced up and down impatiently in front of me; making her breasts sway and her hands nearly touch my body. Her wonton sexuality was exciting me so much...
+しかし、決して僕の体に触れることはない。ほんのわずかの距離を開けて、彼女の体がかすめていく。にやにやと笑いながら、僕を試すように、いやらしく体を動かしてくる。,However; she never actually touched my body; always maintaining just the slightest distance; her body brushing past mine. Grinning mischievously; as if testing me. She continued to move her body in lewd; enticing steps.
+うあっ、ううっ❤だめっ、これ以上はっ❤\nああっ・・・❤,Uah; ungh.❤ No; I-I can't take it any more!❤ Aah...❤
+今からでも理性を取り戻し、エルルさんと戦わないといけない。僕以外にも何人もカードマスターがいる、みんなで力を合わせればもしかしたら、魔力を多く失った今の状態でも勝てるかもしれない。,I need to come to my senses again and fight Elulu. There are so many other cardmasters here with me—if we all work together; maybe we can still win; despite the fact I've lost so much magical power.
+だから、この目の前の女の子にやめるよう命じて、カードを引かないといけないのだ。そう、理性を振り絞って気持ちいいことなど忘れなくては・・・。,That's why... That's why I need to order this girl in front of me to stop so I can draw my cards. That it; I just need to muster my will and forget about feeling good...
+主様ぁ、悩んでいるなら、\nどうぞ❤これを御覧になってくださいまし❤,Awh; Master. You seem conflicted~❤ Then maybe I can help you. Please; watch this~❤
+主様のおちんちんの前で、道化の得意技、玉投げでございます❤\n胸を両手で持ちまして～、ほらぁ、\nたぷたぷたぷと左右交互に揺らして見せるのです❤,I'll kneel right in front of Master's cock and show you your jester's specialty—ball juggling~❤ I'll hold my breasts with both hands; and... Look; I'll bounce them for you; alternating left and right~❤
+この胸の間に、挟まれたいと思いませんか、主様ぁ❤\n上下に揺れる大きな玉に挟まれ揉みこまれて、\nとっても気持ちいいですよ～❤あ～ん❤,Don't you just want my to squeeze your dick between these breasts; Master?❤ It'll feel so good to have your cock massaged and rubbed between my tits...❤ Aahn~❤
+あっ、ああつ❤ううぅっ❤❤えろい、えろすぎてっ、あああっ❤,Ah; aah...❤ Ungh...❤❤ I... I can't think straight... It's too sexy... Aaah...❤
+ううっ、命じる、命じるから❤\n道化師、僕に、攻撃してっ❤おねがいっ❤,Okay; okay. I give in... Please...❤ Jester; please attack me.❤ That's an order.❤
+いひひ♪かしこまりました♪\nそれでは、道化めの玉投げをお楽しみくださいませ❤,Ehehe~♪ As you command~♪ Now then; please enjoy your jester's ball juggling performance~❤
+うあっ、ああっ、きもちいいっ❤\nおっぱいが激しく動いてっ❤あひぃっ❤,Uah; aah; it feels so good...❤ You're moving your boobs so fast.❤ Ahhh!❤
+ふふ、この調子ならあとはその子に任せておいてよさそうね。\nわたしは他のマスターたちを相手にしてくるわ。,Fufu; at this rate; that girl's all I'll need to take care of you. I'll just go deal with the other masters.
+さっきからあなたが一方的に負けてるのを見て、\nみんなおびえてるの。あの無敗のルーキーがぼろぼろにされてるんだもの、\nきっとわたしの強さが怖いのね。,Everyone's so scared after watching you lose so helpleslly. The undefeated rookie getting torn apart like this—they must be terrified of just of how strong I am.
 大丈夫、すぐにみんなの恐怖を快楽に変えてあげるから❤\nそれじゃ、{主人公}❤せいぜいその子と遊んでなさい❤くすくす❤,Don't worry; I'll turn everyone's fear into pleasure soon enough~❤ Well then; {主人公}~❤ Have fun playing with that girl~❤ Kehehe~❤
-ああっ、だめなのにっ❤こんなことしてる場合じゃないのにっ❤\nううっ❤きもちよくて、あああっ❤,Aah; I shouldn't be doing this~❤ This isn't the time for this~❤ Ungh~❤ But it feels so good; aaah~❤
-にひひ❤主様は難しいことなど考えなくてよいのですよ❤\n道化の仕事は、難しいことを忘れさせて、一時のバカ騒ぎに\n主様を陶酔させることです❤,Ehehe~❤ Master needn't think about such difficult things~❤ My job as a jester is to make you forget about those complicated matters by keeping you happy~❤
-おっぱいでずりずりされて、\n主様のここはすっかり難しいことを考えられなくなっています❤\n頭の方ももっと空っぽにしちゃいましょうよ❤主様ぁ❤,Your cock can't think about difficult things anymore while it's being rubbed between my breasts down here~❤ Let's empty out all those thoughts; OK Master?~❤
-ほらぁ、こうやってどんどん早くしていきますよぉ❤\n道化めの技をご堪能くださいまし❤,Look~; I'll go faster and faster like this~❤ Please savor the jester's technique~❤
-くすくす❤動きを早くしたら、腰がビクビクと跳ねだしてしまいました❤\n必死に快楽を逃がそうとしてるのか、\nそれとも快楽を貪っているのか、道化にはわかりませぬ❤,Kehehe❤ When I sped up my movements; your hips started twitching wildly.❤ Are you desperately trying to escape the pleasure; or are you greedily devouring it? This jester can't tell.❤
-きっと主様も、もはやなぜ腰がカクカク動いているのか、\n自分でも分からぬでしょう？気持ちよすぎて\n何も考えられぬのでしょう？,I bet you don't even understand why your hips are jerking around anymore; do you? It feels so good you can't even think about anything else; right?
-ささ、そろそろフィナーレです、主様ぁ❤\n道化の技に盛大なおひねりをくださいまし❤\n谷間にどぴゅっと出してくださいまし❤,Now then; it's almost time for the finale; Master~❤ Please give this jester a generous tip for her performance.❤ Shoot it all between my cleavage~❤
-サキュバスとの戦いなど全て忘れて、\n快楽に溺れてくださいねー❤主様ぁ❤\nえい、えい、えい♪,Forget all about your battle with the succubus and drown in pleasure~❤ Master~❤ Eei; eei; eei!♪
+ああっ、だめなのにっ❤こんなことしてる場合じゃないのにっ❤\nううっ❤きもちよくて、あああっ❤,Aah; I-I shouldn't be doing this!❤ It isn't the time for this!❤ Ungh...❤ But it feels so good; aaah...❤
+にひひ❤主様は難しいことなど考えなくてよいのですよ❤\n道化の仕事は、難しいことを忘れさせて、一時のバカ騒ぎに\n主様を陶酔させることです❤,Ehehe~❤ You needn't think about such difficult things; Master~❤ My job as a jester is to make you forget all about those complicated little matters by keeping you happy~❤
+おっぱいでずりずりされて、\n主様のここはすっかり難しいことを考えられなくなっています❤\n頭の方ももっと空っぽにしちゃいましょうよ❤主様ぁ❤,Your cock can't think about difficult things while it's being rubbed between my breasts down here~❤ Let's empty out all those thoughts; okay Master?~❤
+ほらぁ、こうやってどんどん早くしていきますよぉ❤\n道化めの技をご堪能くださいまし❤,Look; I'll go faster and faster; like this~❤ Please; savor your jester's technique~❤
+くすくす❤動きを早くしたら、腰がビクビクと跳ねだしてしまいました❤\n必死に快楽を逃がそうとしてるのか、\nそれとも快楽を貪っているのか、道化にはわかりませぬ❤,Kehehe~❤ When I sped up my movements; your hips started twitching like crazy.❤ Are you desperately trying to escape the pleasure; or are you genuinely seeking more? This jester just can't tell~❤
+きっと主様も、もはやなぜ腰がカクカク動いているのか、\n自分でも分からぬでしょう？気持ちよすぎて\n何も考えられぬのでしょう？,I bet even you don't understand why your hips are jerking around anymore; do you? It feels so good you can't think about anything else; right?
+ささ、そろそろフィナーレです、主様ぁ❤\n道化の技に盛大なおひねりをくださいまし❤\n谷間にどぴゅっと出してくださいまし❤,Now then; Master; it's almost time for the finale~❤ Please give your jester a generous tip for her performance.❤ Shoot it all between my cleavage~❤
+サキュバスとの戦いなど全て忘れて、\n快楽に溺れてくださいねー❤主様ぁ❤\nえい、えい、えい♪,Forget all about your battle with the succubus and drown in pleasure~❤ Cum for me; Master~❤ Come on; that's it; let it out!♪
 ひあっ❤はひっ、あっ、あああっ❤❤\nきもちいいっ❤きもちよくてぇ❤,Hya!❤ Hah; ah; aaah!❤❤ It feels good!❤ It feels so good!❤
 とまらない、あああっ・・・❤❤,I can't stop; aaah...❤❤
-くすくす❤主様のおひねり、とってもおいしゅうございました❤\nちゃんと主様がギリギリ生きれるように、ほんの少し魔力を残しましたよぉ❤\nえらいですか？褒めてくださいまし、主様♪,Kehehe~❤ What a generous tip Master!❤ But don't worry; made sure to leave just enough magical energy so you barely survive~❤ Aren't I impressive? Please praise me; Master!♪
-なんて、もう意識もないでしょうけども❤\n主様が道化とバカ騒ぎしている間に、\n向こうのマスターたちもみな片付いたようです❤,Awh; but it seems you've already losing consciousness~❤ It looks like Elulu dealt with all the other cardmasters while we were fooling around too.❤
-エルル様にカードに戻してもらったら、\nそれでわたしと主様の関係はおしまいですね。\n一時の主従関係楽しゅうございましたよ、主様❤,Once Lady Eluru returns me to card form; I won't be your servant anymore. But I really enjoyed serving under you; Master.❤
-僕は薄れていく意識の中で、道化師がエルルさんのカードに戻っていくのを見た。僕はそれを見て、悔しがるでも恨めしがるでもなく、ただ「もっと、おねがい・・・」と無意識につぶやいていた。,"Through my fading consciousness; I watched the jester return to Eluru's card. But I didn't feel frustration nor resentment—All I wanted was to beg her to pleasure me again..."
-死ぬ手前まで干からびている僕を、エルルは一瞥し、そして軽蔑したようなまなざしで見ながら、僕に一度だけ口づけをした。そのまま最後に残っていたエナジーを吸いつくされ・・・,Eluru glanced at me as I lay there drained; barely alive; then gazed at me with what seemed like contempt before giving me a kiss; draining the last remaining energy from me...
-僕は暗い地下通路の中力尽きたのだった。僕の物語は、こうしてサキュバスに吸い殺されて、その幕を閉じた。,I collapsed in the dark underground passage. And so; my story ends here; drained dry by a succubus.
-あは、道化のようなザコモンスターが、\n観客さまに勝ってしまいました❤,Aha; a lowly monster like this jester actually defeated an audience member!❤
-サキュバスの使うモンスターに負けたらどうなるか、\n観客さまは当然ご存じですよね？それなのに\n気持ちいいのを我慢できなかったのですか？くすくす❤,You know what happens when you lose to a monster used by a succubus; don't you? And yet you couldn't resist me as I pleasured you? Kehehe!❤
-さてさて、弱い弱い観客さまには、\nこのような芸で十分でしょう♪\nブーツでふにっと股間を踏ませていただきまして～❤,Now then; for such a weak audience member; this kind of performance should be more than enough!♪ I'll press my boot softly against your crotch~❤
-前後にごしごしごし♪\n玉乗りのときの要領で、足を素早く動かしてさしあげます❤,Rubbing back and forth!♪ Just like when I'm riding a ball; I'll move my feet nice and quick for you.❤
-はひっ、だめっ、あうっ❤\nあっ、あっ、ああっ❤そんなに早く動かされたらっ❤,Hah; no; ah!❤ Ah; ah; aah!❤ If you move that fast!❤
-玉乗りをするときは、\n素早く細かく足を動かし続けることが大事なのです♪\nだからこういう小刻みな動きはわたくし大得意なのですよ❤,When riding a ball; the key is to keep your feet moving quickly and precisely!♪ So these kinds of rapid movements are my specialty.❤
-リズムを取りまして、すりすりすりすり♪\nごしごしごしごし♪\nにひひ、いかがですか観客さまぁ❤おちんちん気持ちいいですか～❤,Keeping rhythm; rubbing; rubbing; rubbing!♪ Grinding; grinding; grinding!♪ Hehe; how is it; dear audience member?❤ Does your cock feel good~?❤
-おっと、口からお返事を聞くまでもなく、\nおちんちんがびくびくと返事をしていますね～❤\nわたくしの芸を、喜んでいただけているようでなによりです♪,Oh my; I don't even need to wait for a verbal answer—your cock is twitching its response~❤ I'm so glad you're enjoying my performance!♪
-観客さまのおひねりを、さあさあ、道化めの足にお出しください❤\n命を溶かして、白くて濃ゆいのを、\nブーツに踏まれて出してくださいまし❤,Now then; give your tip to this jester's feet; dear audience member.❤ Melt your life away and shoot that thick; white load all over my boots.❤
-はひっ、あっ、ぐりぐりこすられてっ❤あああっ❤,Hahh!❤ Ah!❤ Grinding against me like that!❤ Aaaah!❤
-フィナーレは早く振動させながらこすりあげますね❤\n我慢などで出来ぬよう、搾りだしますゆえ❤\nどうぞ、ほら、びゅっ、びゅっ、びゅっ～❤,For the finale; I'll rub you quickly with rapid vibrations.❤ I'll squeeze every last drop out so you can't hold back anymore.❤ Come on now; hora; spurt; spurt; spurt~❤
-にひひ❤たくさん出しましたね、観客さま❤\nおや、いっぱい出したせいで、体がだいぶやつれてきているご様子❤\nエナジーが失われてだいぶ苦しいのではないですか？,Ehehehe!❤ You came so much; dear audience member.❤ Oh my; after releasing all that; your body looks quite drained.❤ You must be suffering now that your energy leaked out; right?
+くすくす❤主様のおひねり、とってもおいしゅうございました❤\nちゃんと主様がギリギリ生きれるように、ほんの少し魔力を残しましたよぉ❤\nえらいですか？褒めてくださいまし、主様♪,Kehehe~❤ What a generous tip; Master!❤ But don't worry; I made sure to leave just enough magical energy so you barely survive~❤ Aren't I impressive? Please praise me; Master!♪
+なんて、もう意識もないでしょうけども❤\n主様が道化とバカ騒ぎしている間に、\n向こうのマスターたちもみな片付いたようです❤,Awh; but it seems you're already losing consciousness~❤ It looks like Elulu's dealt with all the other cardmasters while we were fooling around; too.❤
+エルル様にカードに戻してもらったら、\nそれでわたしと主様の関係はおしまいですね。\n一時の主従関係楽しゅうございましたよ、主様❤,Once Lady Elulu returns me to card form; I won't be your servant anymore. But I really enjoyed serving under you; Master~❤
+僕は薄れていく意識の中で、道化師がエルルさんのカードに戻っていくのを見た。僕はそれを見て、悔しがるでも恨めしがるでもなく、ただ「もっと、おねがい・・・」と無意識につぶやいていた。,Through my fading consciousness; I watched the jester return to Elulu's card. But I didn't feel frustration; nor resentment. All I wanted was to beg her to pleasure me again...
+死ぬ手前まで干からびている僕を、エルルは一瞥し、そして軽蔑したようなまなざしで見ながら、僕に一度だけ口づけをした。そのまま最後に残っていたエナジーを吸いつくされ・・・,Elulu glanced at me as I lay there; drained and barely alive; gazing at me with what seemed like contempt; before giving me a kiss and draining the last of my energy from me...
+僕は暗い地下通路の中力尽きたのだった。僕の物語は、こうしてサキュバスに吸い殺されて、その幕を閉じた。,With that; I collapsed in the dark underground passage. And so; my story ends here; drained dry by a succubus.
+あは、道化のようなザコモンスターが、\n観客さまに勝ってしまいました❤,Aha; a little monster as weak as a jester actually defeated an audience member!❤
+サキュバスの使うモンスターに負けたらどうなるか、\n観客さまは当然ご存じですよね？それなのに\n気持ちいいのを我慢できなかったのですか？くすくす❤,You know what happens when you lose to a monster used by a succubus; don't you? And yet you just couldn't resist me as I pleasured you; could you? Kehehe!❤
+さてさて、弱い弱い観客さまには、\nこのような芸で十分でしょう♪\nブーツでふにっと股間を踏ませていただきまして～❤,Now then; for an audience member as weak as you; a performance like this should be more than enough!♪ I'll press my boot softly against your crotch~❤
+前後にごしごしごし♪\n玉乗りのときの要領で、足を素早く動かしてさしあげます❤,Then; I'll rub it back and forth!♪ I'll move my foot nice and quick for you; just like when I'm riding a ball~❤
+はひっ、だめっ、あうっ❤\nあっ、あっ、ああっ❤そんなに早く動かされたらっ❤,Hah; no; ah!❤ Ah; ah; aah!❤ If you move that fast...!❤
+玉乗りをするときは、\n素早く細かく足を動かし続けることが大事なのです♪\nだからこういう小刻みな動きはわたくし大得意なのですよ❤,When riding a ball; the key is to keep your feet moving quickly and precisely!♪ So these kinds of rapid movements are actually my specialty~❤
+リズムを取りまして、すりすりすりすり♪\nごしごしごしごし♪\nにひひ、いかがですか観客さまぁ❤おちんちん気持ちいいですか～❤,I'll keep my rhythm and keep rubbing; rubbing; rubbing!♪ Grinding; grinding; grinding!♪ Hehe; how is it; dear audience member?❤ Does your cock feel good?❤
+おっと、口からお返事を聞くまでもなく、\nおちんちんがびくびくと返事をしていますね～❤\nわたくしの芸を、喜んでいただけているようでなによりです♪,Oh my; I don't even need to wait for a verbal answer—your cock is twitching its response for me~❤ I'm so glad you're enjoying my performance!♪
+観客さまのおひねりを、さあさあ、道化めの足にお出しください❤\n命を溶かして、白くて濃ゆいのを、\nブーツに踏まれて出してくださいまし❤,Now then; surrender your seed to this jester's feet; dear audience member.❤ Melt your life away and shoot that thick; white load all over my boots~❤
+はひっ、あっ、ぐりぐりこすられてっ❤あああっ❤,Hahh!❤ Ah!❤ Grinding against me like that...!❤ Aaaah!❤
+フィナーレは早く振動させながらこすりあげますね❤\n我慢などで出来ぬよう、搾りだしますゆえ❤\nどうぞ、ほら、びゅっ、びゅっ、びゅっ～❤,For the finale; I'll rub you quickly with rapid vibrations.❤ I'll milk every last drop out so you can't hold back anymore.❤ Come on now; hurry up and spurt; spurt; spurt~❤
+にひひ❤たくさん出しましたね、観客さま❤\nおや、いっぱい出したせいで、体がだいぶやつれてきているご様子❤\nエナジーが失われてだいぶ苦しいのではないですか？,Ehehehe!❤ You came so much; dear audience member.❤ Oh my; after releasing all that; your body looks completely drained.❤ You must be suffering now that so much of your energy leaked out; right?
 ですが、苦しいのとは別に、頭の奥がじんと痺れたように\n心地よいのですよね～❤サキュバスに吸われるときは\n得てしてそういうもの❤抵抗する気力は快楽に奪われるのです❤,That said; you're not suffering at all are you? Can you feel your mind getting foggy and sleepy~?❤ That's just how it is when a succubus drains you.❤ The pleasure steals away your will to resist.❤
-自分の命がかかっていても、にひひ、足でぐりぐりされるだけで、\n自分から望んで精を吐き出してしまいます❤道化のようなたいした\n戦闘力もないモンスターでも強いマスターを踏みにじれてしまいます❤,Even though your life is on the line... Pfft~ Just having my feet grind against your crotch makes you willingly offer up your cum.❤ Even a monster like this jester with no real combat ability can trample a strong master.❤
-さささ、このまま意識が途切れるまで、\n道化めの技をお楽しみくださいまし❤\n快楽の中、死んで、干からびて、みじめに終わってくださいまし❤,Now then; please enjoy this jester's techniques until your consciousness fades away.❤ Die in pleasure; shrivel up; and meet your miserable end.❤
-残酷ですか？サキュバス相手に腰を突き出して、\n無抵抗でいる観客さまが悪いのですよ❤\n食べてくれとねだっているようなものですゆえ❤,Is that cruel? It's your own fault for thrusting your hips toward a succubus without resisting.❤ You're practically begging to be devoured.❤
-ほら、おしゃべりはおしまいです❤\nまた踏んでほしそうに、固くそそり立っているおちんちん、\n足でしごいて、最後までイカせてあげますね♪,There; enough talking.❤ Your cock is standing stiff again; begging to be stepped on. I'll stroke it with my feet and make you cum one last time.♪
-ぐり、ぐり、ぐりと、まるで踏みにじるように、\n強い刺激で搾りだしまして・・・❤,First; I'll rub my soles all over your crotch as if trampling you; and squeeze everything out of you...❤
-お次は両足を揃えて踏んで、\n高速でごしごしと擦ってあげましょう❤,Next; I'll press both of my feet together and rub it rapidly back and forth.❤
-道化めの巧みな足さばきで、ささ、天国に行ってくださいまし❤\n幸せに死んでくださいまし❤すりすりすり～❤\nにひひひ♪,Enjoy your visit to heaven as you explode all over my feet OK?❤ Die happily~❤ Rub; rub; rub!~❤ Kehehehe!♪
-あへぇっ❤あっ❤ああっ❤\n死にたくないっ❤やめてっ❤これ以上気持ちよくしないでっ❤\nあっ❤あああっ❤,Aheee!❤ Ah!❤ Aaah!❤ I don't want to die!❤ Stop!❤ If it feels any better than it does now I'll...❤ Ah!❤ Aaaah!❤
-とまらないっ❤\nきもちいいっ❤あああっ❤,I can't stop myself!❤ Feels soo good~❤ Ooohh!❤
-おっと、もう終わりですか？\n思ったよりさくっと搾りきってしまいました❤\n道化の足さばきはだいぶお気に召してもらえたようです♪,Oh my; is it over already? I squeezed you dry faster than expected.❤ It seems you really enjoyed this jester's footwork.♪
-わわわ、マスターさまが次の相手との戦いにわたしを呼んでいます。\nではでは、干からびてしまった観客さま、\nまたいつか、来世にでも会いましょう❤,Whoa; my master is calling me for the next battle. Well then; shriveled-up audience member; let's meet again someday; perhaps in your next life.❤
-生まれ変わっても道化めの芸を見に来てくださるとうれしいのです❤\nそのときはまた、気持ちよく吸い殺してさしあげますゆえ❤\nにひひひ❤,When you get reincarnated; I'd be delighted if you came to see this jester's performance again.❤ When that time comes; I'll drain you to death just as pleasantly.❤ Kehehehe~❤
-こうして僕はエルルの下級モンスターに情けなく敗北し、その足裏にみじめに命を吸いつくされてしまった。,And so I was pathetically defeated by Eluru's low-level monster; having my life miserably drained dry by those soles of her feeet.
-道化師が得たエナジーの一部はそのままマスターであるエルルに流れ込む。元々強力だった彼女はさらに力を増し、他のカードマスターや受付さんたちを簡単に圧倒してしまった。,Part of the energy the jester obtained flowed directly to her master; Eluru. She was already powerful as is; but with the energy I had given she became even stronger; easily overwhelming the other card masters and receptionists.
-サキュバスに変えられていく彼女たちが、そのあとどうなったのか知る由もない。僕は薄暗い地下通路の中、干からびたまま放置されて、そのまま緩やかに死を迎えたのだった。僕の物語は、こうしてその幕を閉じた。,After they all turned into succubi; I don't know what happened after that. I was left shriveled in the dim underground passage; slowly died. And thus; my story came to its close.
+自分の命がかかっていても、にひひ、足でぐりぐりされるだけで、\n自分から望んで精を吐き出してしまいます❤道化のようなたいした\n戦闘力もないモンスターでも強いマスターを踏みにじれてしまいます❤,Even though your life is on the line... Pfft; just having my feet grind against your crotch makes you willingly offer up all your cum.❤ Even a monster like this jester with no real combat ability can trample a strong master like you~❤
+さささ、このまま意識が途切れるまで、\n道化めの技をお楽しみくださいまし❤\n快楽の中、死んで、干からびて、みじめに終わってくださいまし❤,Now then; please enjoy this jester's techniques until your consciousness fades away.❤ Die in bliss as you shrivel up and meet your miserable end~❤
+残酷ですか？サキュバス相手に腰を突き出して、\n無抵抗でいる観客さまが悪いのですよ❤\n食べてくれとねだっているようなものですゆえ❤,Do you think that's cruel of me? It's your own fault for thrusting your hips toward a succubus without resisting.❤ You're practically begging to be devoured~❤
+ほら、おしゃべりはおしまいです❤\nまた踏んでほしそうに、固くそそり立っているおちんちん、\n足でしごいて、最後までイカせてあげますね♪,Now; enough talking.❤ Your cock is standing stiff again; begging to be stepped on. I'll stroke it with my feet and make you cum one last time~♪
+ぐり、ぐり、ぐりと、まるで踏みにじるように、\n強い刺激で搾りだしまして・・・❤,First; I'll rub my soles all over your crotch; as if trampling you; and squeezing it hard...❤
+お次は両足を揃えて踏んで、\n高速でごしごしと擦ってあげましょう❤,Next; I'll press both of my feet together and rub it rapidly back and forth~❤
+道化めの巧みな足さばきで、ささ、天国に行ってくださいまし❤\n幸せに死んでくださいまし❤すりすりすり～❤\nにひひひ♪,Enjoy your visit to heaven as you explode all over my feet; okay?❤ Die in bliss~❤ Rub; rub; rub~❤ Kehehehe!♪
+あへぇっ❤あっ❤ああっ❤\n死にたくないっ❤やめてっ❤これ以上気持ちよくしないでっ❤\nあっ❤あああっ❤,Aheee!❤ Ah!❤ Aaah!❤ I don't want to die!❤ Stop!❤ If it feels any any better; I'll...❤ Ah!❤ Aaaah!❤
+とまらないっ❤\nきもちいいっ❤あああっ❤,I can't stop myself!❤ It feels too good!❤ Aaahh!❤
+おっと、もう終わりですか？\n思ったよりさくっと搾りきってしまいました❤\n道化の足さばきはだいぶお気に召してもらえたようです♪,Oh my; is it over already? I squeezed you dry faster than expected.❤ It seems you really enjoyed this jester's footwork~♪
+わわわ、マスターさまが次の相手との戦いにわたしを呼んでいます。\nではでは、干からびてしまった観客さま、\nまたいつか、来世にでも会いましょう❤,Uh oh; looks like my master is calling me for the next battle. Well then; shriveled-up audience member; let's meet again someday. Maybe in your next life~❤
+生まれ変わっても道化めの芸を見に来てくださるとうれしいのです❤\nそのときはまた、気持ちよく吸い殺してさしあげますゆえ❤\nにひひひ❤,When you get reincarnated; I'd be honored if you came to see my performance again.❤ When that time comes; I'll drain you to death just as pleasantly.❤ Kehehehe~❤
+こうして僕はエルルの下級モンスターに情けなく敗北し、その足裏にみじめに命を吸いつくされてしまった。,And so I was pathetically defeated by Elulu's low-level monster; having my life miserably drained dry by the soles of her feeet.
+道化師が得たエナジーの一部はそのままマスターであるエルルに流れ込む。元々強力だった彼女はさらに力を増し、他のカードマスターや受付さんたちを簡単に圧倒してしまった。,Part of the energy the jester obtained flowed directly to her master. Elulu was already powerful as is; but with the energy I had lost; she became even stronger; easily overwhelming the other cardmasters and the receptionist.
+サキュバスに変えられていく彼女たちが、そのあとどうなったのか知る由もない。僕は薄暗い地下通路の中、干からびたまま放置されて、そのまま緩やかに死を迎えたのだった。僕の物語は、こうしてその幕を閉じた。, I don't know what happened after they became succubi. I was left shriveled in the dim underground passage; slowly died. And thus; my story came to its close.
