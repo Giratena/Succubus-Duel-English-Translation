@@ -114,8 +114,11 @@ Claw,
 絞り込み,Optimize
 並び替え,Reorganize
 保存しました。,Save Complete
-タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. /nThe deck you are currently using has a border around it.
+タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. The deck you are currently using has a border around it.
 デッキ名を編集します。,Change the deck name.
+設定しているマーカーが点灯します。,Lights that you can use to identify your deck.
+操作説明,Quick Guide
+構築画面へ移動します。,Go to the deck building screen.
 闇属性,Darkness
 水属性,Water
 風属性,Wind
