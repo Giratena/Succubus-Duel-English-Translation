@@ -35,7 +35,7 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 ううっ…。それは…。,Oogh... That's...
 こら。あんまり茶化しちゃかわいそうですよ。\n試験に無事合格したんですから今は応援しましょ。,Come now. It's not fair to tease him like that. He managed to pass the test safely; so let's do our best to support him.
 ふふ、さすがに試験をすぐクリアしただけはありますね。\nとても頼もしいです。,Fufu. Well; you did clear the test immediately as I expected. I'm glad to know that we can rely on you.
-それでは引き続き大会でのバトル頑張ってください！,Well then; please keep up the good work in the tournement!
+それでは引き続き大会でのバトル頑張ってください！,Well then; please keep up the good work in the tournament!
 僕は色の変わったギルドリングをウキウキした心地で眺めながら、宿への帰路についた。,As I gazed eagerly at the newly colored guild ring; I made my way back to the inn.
 ほとんどカードも使えなかった昔を思えば、とても順調だ。これも師匠がしっかり鍛えてくれたからだろう。,Considering in the past there were times when I could barely use any cards; things are going quite smoothly now. It's probably because my mentor trained me well.
 試験官とのバトルを終えたからか、体はすっかり疲れていた。僕はこの先のことをうつらうつらと思いながら、眠りについたのだった。,Probably due to the battle with the examiner; my body was completely exhausted. I fell asleep; drowsily thinking about what lay ahead.
@@ -97,7 +97,7 @@ Aランクになるとそれは奇麗な赤色になるんですよ。\nあな�
 あなたのモンスター1体を選び、その種族に対してハンタータイプの与えるダメージが倍になるよ！,I can choose 1 of your monsters and double the damage that my Hunter-types deal to that type!
 {使用カード}を発動！ハンターモンスター1体を効果の対象に選択できなくする！,I activate {使用カード} and make 1 Hunter immune to effects!
 {使用カード}を発動！これでこの子は効果の対象に選択できない！,I activate {使用カード}'s effect! This will make this monster immune to effects!
-ハンタータイプが攻撃されたとき、{使用カード}を発動！戦闘前に1000ダメージだよ！,When a Hunter-type is attacked; I can activate {使用カード}'s effect to inflict 1000 damage on the attacking monster before battle!
+ハンタータイプが攻撃されたとき、{使用カード}を発動！戦闘前に1000ダメージだよ！,When a Hunter-type is attacked; I can activate {使用カード}'s effect to inflict 1000 damage on the attacking monster or cardmaster before battle!
 {使用カード}を発動！手札にいるハンタータイプモンスターを特殊召喚！,I activate {使用カード}! I special Summon a Hunter-type monster from my hand!
 {使用カード}を発動！手札にハンターがいないときデッキからハンタータイプをサーチ！,I activate {使用カード}! If there are no Hunters in my hand; I can search my deck for a Hunter-type monster!
 特殊召喚に対して{使用カード}を発動！大ダメージを与えちゃうよ！,I activate {使用カード} in response to a Special Summon and inflict massive damage!

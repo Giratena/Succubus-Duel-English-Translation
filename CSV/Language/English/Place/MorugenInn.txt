@@ -10,7 +10,7 @@ Place/MorugenInn,
 図鑑,Encyclopedia
 アニメ回想,Animation Viewer
 特殊オプション,Special Options
-プレイヤー情報,Player Infomation
+プレイヤー情報,Player Information
 仮想バトル,Virtual Battle
 街へ戻る,Return to the City
 テスト,
