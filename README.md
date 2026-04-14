@@ -2,8 +2,9 @@
 This is a translation project for Succubus Duel, a card game featuring many succubi and temptations...
 [You can buy and support the game here!](https://www.dlsite.com/maniax/work/=/product_id/RJ01149693.html)
 
-- See [Milestones](https://github.com/Giratena/Succubus-Duel-English-Translation/milestones) for translation Progress (Current Percentage of Game Translated: 93% complete)
+- See [Milestones](https://github.com/Giratena/Succubus-Duel-English-Translation/milestones) for translation Progress (Current Percentage of Game Translated: 100% complete*)
 - Log any bugs or typos, or see what needs to be translated in [Issues](https://github.com/Giratena/Succubus-Duel-English-Translation/issues)
+* Some items are untranslateable through the provided CSV files. We are currently looking at alternatives
 
 # How to contribute/test the translation
 - Anyone is welcome to add/help to the translation if they wish!
@@ -14,6 +15,7 @@ This is a translation project for Succubus Duel, a card game featuring many succ
   - Push and pull from "Develop" to get updates as they happen.
     
 # How to put the translation into your game
+- Note you **MUST** be using the latest version of the game on Dlsite, otherwise the patch will NOT work.
 - Download the repo as a zip then paste everything into your game folder (where SuccubusDuel.exe is located) and you're done! (Note you can switch languages in game)
 - Alternatively, grab a stable copy from the releases tab!
 - For patching the Android version of the game, please see the following [guide](https://github.com/Giratena/Succubus-Duel-English-Translation/wiki/Translating-the-Android-Version-of-the-Game)

@@ -15,7 +15,7 @@ Place/MorugenUnderground,
 ロード,Load
 セーブ,Save
 回想,Reminisce
-作戦会議,Stratergy Meeting
+作戦会議,Strategy Meeting
 (特殊)２周目プレイ,(Special Option) Start New Game+
 (特殊)街に戻った状態にする,(Special Option) Return to town with current abilities
 少し歩いて頭もはっきりしたし、受付さんに今の状況について聞くことにしよう。,After clearing my head with a short walk; I decided to ask the receptionist about our current situation.
@@ -96,7 +96,7 @@ Place/MorugenUnderground,
 ないとは思うけれど、\nもしかしたらそのサキュバスが妹だったり・・・？\n名前は「ユイ」って名乗ってたけど・・・。,I don't think it's likely; but... maybe that succubus is your sister? She introduced herself as "Yui"...
 ・・・・！!,...!!
 その名前を聞いたとき、僕の中の違和感は確信に変わった。,As soon as I heard that name; the strange feeling I had inside me became clear.
-そうか。妹が、近くにいるのか。・・・それも敵の中心人物として。,I see. So your sister is nearby after all. And she's one of their central figures.
+そうか。妹が、近くにいるのか。・・・それも敵の中心人物として。,I see. So my sister is nearby after all. And she's one of their central figures.
 ユイはとても優しい子だった。僕がサキュバスに吸い殺されないように、身を挺して守るぐらい、勇気があって優しい子だった。,Yui was such a kind girl. She was brave and kind enough to protect me with her own body to prevent me from being drained to death by a succubus.
 マスターたちをサキュバス化させ、街をこんな風にしてしまうなんて…。本来の妹なら絶対にしなかっただろう。,To turn the Masters into Succubi and transform the town like this... My real sister would never have done something like that.
 ユイは、サキュバスになって、望まないことを無理やりやってしまっている。サキュバスの魔力でやらされてしまっている。,Yui became a Succubus and is being forced to do things against her will. The Succubus magic is making her do these things.
