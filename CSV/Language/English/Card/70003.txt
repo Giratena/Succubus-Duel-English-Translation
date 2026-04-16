@@ -5,7 +5,7 @@ Kiss01,
 導入イベントをスキップしますか？,Would you like to skip the opening event?
 よし、それじゃあ、ギルドのある隣街に向かおう！,Okay; time to head over to the nearby town; and the guild that's there!
 おや、守護者のお弟子さんじゃないですか。これからどちらへお出かけで？,Oh; you're the apprentice of this village's guardian; aren't you?
-・・・なるほど。ギルドのある隣街っていうと、モルゲンですね。,...So you're going to the guild at Morgen Town; huh? I see...
+・・・なるほど。ギルドのある隣街っていうと、モルゲンですね。,...So you're going to the guild in the town of Morgen; huh? I see...
 今から馬車でちょうどモルゲンへ行くんですが、よろしければご一緒いたしませんか？,I'm about to head there in my carriage. Would you like to hitch a ride with me?
 いいんですか？,You wouldn't mind?
 ええ。守護者のお弟子さんが一緒なら、もし魔物が出ても安心です。,Not at all. It'd be nice to have a guardian's apprentice if any monsters show up.
