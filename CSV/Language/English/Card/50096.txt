@@ -1,2 +1,4 @@
 default
 怪盗の挑戦状,Phantom Thief's Challenge
+手札を１枚捨て相手ターン開始時に発動可能。\n[1].このカードが表側表示の場合、自分ターン開始時に発動する。自分のデッキ・手札・墓地から「{%%10070}」を１体特殊召喚し、相手のLPを1000ポイント奪う。その後、このカードは自壊する。,Discard 1 card from your hand at the start of your opponent's turn to activate.\n[1]. When this card is face-up; activate at the start of your turn. Special summon 1 '{%%10070}' from your deck; hand; or graveyard; and drain 1000 LP from your opponent. Then; destroy this card.
+くす❤おでこにキスをして\nわたしに裏切らせてあげる❤,*Giggle*❤ Just one kiss on your forehead… and you'll betray them all for me.❤

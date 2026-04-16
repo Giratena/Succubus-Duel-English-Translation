@@ -9,6 +9,7 @@ default
 さて、手紙の内容によれば、\nギルドへの登録を希望されているんですよね？,Now; according to the contents of the letter; you wish to register with the guild; right?
 今回は守護者資格のあるカードマスターからの推薦ですので、\n入会審査はなしで大丈夫です。,Since you have a recommendation from a cardmaster who has guardian qualifications; there is no need for an entrance examination.
 さっそく書類に必要事項をお書きください。,Please fill out the necessary information on this form.
+主人公の名前を入力してください,Please input the name of the main character
 書き終わりましたか？ありがとうございます。,Are you done? Thank you!
 えーと、お名前は{主人公}さん……、\nふむふむ、出身はだいぶ北にある村なんですね。,Let's see; so your name is {主人公}... I see. You're from a village quite far to the north.
 登録おつかれさまです。\n新人カードマスターはまずはFランクからのスタートです。,Thank you for registering. \nSince you're a new cardmaster; you'll start out at F-rank.

@@ -48,3 +48,5 @@ default
 ターンエンド。,End turn.
 わたしのターンはおしまい。ターンエンド。,End turn.
 攻撃を無効にするトラップね。うまく使えているじゃない。,A trap that negates attacks; huh? Aren't you using your cards well!
+再戦,Rematch
+タイトルに戻る,Back to title
