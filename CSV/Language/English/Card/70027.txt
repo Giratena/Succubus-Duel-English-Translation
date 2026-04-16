@@ -9,7 +9,8 @@ F27_paizuriAnime,
 OPイベントをスキップしますか？,Would you like to skip the opening scene?
 はい,Yes
 OPをスキップ,Skip the opening
-勝利後までスキップ,Skip to before the fight
+勝利後までスキップ,Skip to after the fight
+いいえ,No
 時刻は夕暮れ時、もうすぐ師匠と約束した時間だ。,It's dusk. Nearly time to meet with my master; as promised.
 師匠との待ち合わせ場所に向かって街を歩いていると、遠くにエルルさんが見えた。,As I walked towards the place where I would meet with her; I saw Elulu off in the distance. 
 やっほー、{主人公}。\nどうしたの？ギルドに何か用事？,Yoohoo; {主人公}. What's up? Do you have business at the guild?

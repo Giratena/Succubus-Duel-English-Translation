@@ -54,6 +54,9 @@ BGMの音量を変更できます,Change BGM (background music) volume?
 変更する,Change
 変更しない,Don't change
 BGMのボリュームが変更されました。,BGM volume has been changed.
+フレーム数を入力してください,Please set the number of frames
+ボリュームを入力してください(-80~0),Please input a volume setting (-80~0)
+主人公の名前を入力してください,Please input the main character's name
 SEの音量を変更できます。,Change SE (sound effect) volume?
 SEのボリュームが{&&InputtedText}に変更されました。,SE volume changed to {&&InputtedText}.
 主人公のHPと攻撃力に一定の上限を設定できます。主に難易度を上げるために利用できる機能です。,You can set a limit to the HP and attack power of the protagonist. This option is mainly available to increase the difficulty level.
