@@ -122,7 +122,7 @@ Bランクまで上がった学生は国中でこの三人だけだからな。\
 アンタのすげー試合を見せてもらえるなら、\nこれぐらい安いもんだぜ。\n楽しみにしてるぜ、ルーキー！,It's a small price to pay to see your amazing matches. I'm looking forward to it; rookie!
 よお、期待のルーキー！\n新しいカードは仕入れてきたか？,Yo; promising rookie! Did you get any new cards?
 なあに、アンタのすげー試合を見せてもらえるなら、\nこれぐらい安いもんだ。\n楽しみにしてるぜ、ルーキー！,Hey; it's a small price to pay to get to see your amazing matches. I'm looking forward to it; rookie!
-ねえねえ、もしかして、無敗のルーキーじゃないか？\nうわぁ、直接会えるなんて！,Hey; hey! Aren't you the undefeated rookie? Wow; I can't believe I'm meeting you in person!
+ねえねえ、もしかして、無敗のルーキーじゃないか？\nうわぁ、直接会えるなんて！,Hey; hey! Aren't you the Undefeated Rookie? Wow; I can't believe I'm meeting you in person!
 ルーキーってこの街に来たときはFランクだったのに、\n連戦連勝であっという間にCランクに上がったんだろ？\nすげー！かっこいい！俺も無敗のルーキーみたいになりたい！,You were just an F-rank when you first came to town; but you rose to C-rank so quickly just winning back-to-back; right? That's amazing! So cool! I want to be an undefeated rookie just like you!
 なあ、握手してくれよ。いいの？ほんとに？\nやった！ありがとう！\n俺、この手しばらく洗わないよ！,Hey; can I shake your hand? Is that okay? Really!? Awesome! Thank you! I won't be washing this hand for a while!
 最近どうも王都の方がきなくさいらしいな。\nギルドマスターや高ランクのマスターが盛んに行き来していて、\nそろそろ大きな戦でもあるんじゃないかって話だぜ。,Recently; it feels like something's brewing in the royal capital. Guild masters and high-ranking cardmasters have been coming and going frequently; and there's talk that a major conflict might be on the horizon.
@@ -163,15 +163,15 @@ Dランクには落ちぶれた男性マスターがたくさんいるし、\n�
 師匠はいつもエッチな攻撃とかしないから、わたしああいうバトルははじめて見たの。何を言ってるかは聞こえなかったけど、わたし目がいいから遠くからでもお兄さんのアソコも見えちゃって…。,My master doesn't normally do anything lewd; so it was my first time seeing a battle like that. I couldn't hear what she was saying; but I have good eyesight; so I could see your... thing from pretty far away...
 あうう、思い出すだけで恥ずかしい・・・。\nべ、べつに今想像したりとかはしてないよ。\nそんなエッチな子じゃないし！,Ugh; just thinking about it is really embarrassing... I-I mean; not that I'm imagining anything right now or anything. I'm not that kind of girl!
 うう、わたしももう少し大きくなったら、ああいう技を練習するのかな。\n触ったら固いのかな・・・。,Ugh; I wonder if I'll have to practice techniques like that when I get a little older. I wonder if it feels hard to the touch...
-Bランク昇格おめでとー！すごいなー！\n男のマスターでBランクに上がったの、\n無敗のルーキーさんが今の大会じゃ初めてだよ！,Congratulations on your promotion to B-rank! That's amazing! The undefeated rookie is officially the first male cardmaster to have made it this far in the tournament!
+Bランク昇格おめでとー！すごいなー！\n男のマスターでBランクに上がったの、\n無敗のルーキーさんが今の大会じゃ初めてだよ！,Congratulations on your promotion to B-rank! That's amazing! The Undefeated Rookie is officially the first male cardmaster to have made it this far in the tournament!
 みんな降格ばっかりなんだもん。なさけないよなー。\nなんで女の子のモンスターなんかにあんなに簡単にやられちゃうんだ？\n意味わかんねーぜ。,All the other guys are getting demoted left and right. Pretty sad; don't you think? Why are they getting taken down by female monsters so easily? I don't get it.
 あ、それがBランクのギルドリングなのか？\nへー、きれいな赤色だなー！\nかっこいいー！,Oh; is that a B-rank guild ring? Wow; that shade of red is so pretty! Awesome!
 あ、それがBランクのギルドリングなのか？\nえ？ギルドに行って申請してないからまだCランクのリング？\nへー、そういう決まりになってるんだ。,Oh; is that a B-rank guild ring? What's that? You haven't gone to the guild to apply for your new rank; so you still have a C-rank ring? Wow; so that's how it works.
-ほぉー、あんたが無敗のルーキーか！\n直接見るとえらい男前じゃのう！,Oh; so you're the undefeated rookie! Seeing you in person; you're quite the handsome one; aren't you?
+ほぉー、あんたが無敗のルーキーか！\n直接見るとえらい男前じゃのう！,Oh; so you're the Undefeated Rookie! Seeing you in person; you're quite the handsome one; aren't you?
 街のジジババたちの間で、あんたの人気がすごいことになっとるぞ。\nサキュバスが現れる前の、昔のバトルに思い入れがある者が多いからの、\nアンタみたいな正攻法のマスターは大人気なんじゃ。,You know; you've gotten pretty popular among the old folks in town. Before the succubi appeared; many of us had fond memories of the old battles; so a straightforward master like you is pretty refreshing to see.
 サキュバスどもや、その技を真似した卑猥な戦法なんぞ、\nまったく効かんとお前さんが証明してくれ。\nほれ、これは老人会からの差し入れじゃ。,Keep proving that those lewd tactics the succubi and their imitators don't work in this city. Here; this is a donation from us old folks at the club.
 ほほ、けっこうな額じゃろう？\nそれだけみなおぬしに期待しておるのよ。\nこれでカードでも買って、さらに精進しておくれ。,Ho ho; that's quite a sum; isn't it? We have high hopes for you. Use this to buy some cards and keep improving.
-おお、おお、無敗のルーキー、\nわしらがあげたお金は役に立っておるかの。,My my; it's the undefeated rookie. Is the money we gave you being put to good use?
+おお、おお、無敗のルーキー、\nわしらがあげたお金は役に立っておるかの。,My my; it's the Undefeated Rookie. Is the money we gave you being put to good use?
 おぬしのような若くて強いマスターがわしらの希望じゃよ。\n次の試合も楽しみにしておるぞ。,A strapping young master like you is our only hope. We're looking forward to your next match.
 知ってる？大会期間中はモルゲンにカードマスターが集まるから、\nその分ほかの町がどうしても手薄になってしまうの。,Did you know? During the tournament period; cardmasters gather in Morgen; which inevitably leaves other towns understaffed.
 守護者の人たちが集まって実力を競う機会なんて、\nこの大会ぐらいしかないから仕方ないとは思うけど、\nでもやっぱり治安が悪くなるのはちょっと怖いわよね。,It can't really be helped; since the tournament is one of the few opportunities for guardians to gather and compete; but still; it's a bit scary how public safety just deteriorates; don't you think?
@@ -182,18 +182,18 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 大会が終わったら、\n守護者に任命されてどこか領地を与えられたりするのかしら。\nすごいわね。ほんと夢のある話。,When the tournament's over; do you think you'll be appointed as a guardian and given a territory somewhere? That would be amazing; don' you think? I'm sure it'd be a dream come true for you.
 最近どうもカードの流通がおかしい気がするな。\n大会中はマスターがたくさんいるから、\n多少カードパックが値上がりするのは分かるんだが・・・。,Recently; I feel like the card distribution has gotten a little strange. During the tournament; there are a lot of masters; so I understand that card packs might increase in price a bit...
 それにしてもそもそも普通のパックの流入量が減っているような？\n品薄なカードパックに目をつければ、\n商機がころがっていそうだぜ。,Still; it seems like the flow of regular packs is slowing; doesn't it? If we keep an eye on the scarce card packs; there might be a business opportunity rolling in.
-ほぉー、おぬしが無敗のルーキーか。\nFランクから一気にBランクにあがって、\nそのうえBランクでも勝ったというじゃないか。すごいのう。,Oh; so you're the undefeated rookie. I hear you jumped from F-rank to B-rank in one go. They even say you've already won a B-rank match. Impressive.
+ほぉー、おぬしが無敗のルーキーか。\nFランクから一気にBランクにあがって、\nそのうえBランクでも勝ったというじゃないか。すごいのう。,Oh; so you're the Undefeated Rookie. I hear you jumped from F-rank to B-rank in one go. They even say you've already won a B-rank match. Impressive.
 闘技場には長いこと通っておるが、\nあんたほどの躍進を見たのは初めてかもしれんの。\nいやあ、長生きはするもんじゃな。,I've been frequenting the colosseum for a long time; but I don't think I've ever seen someone rise as quickly as you. Living a long life has its perks; I suppose.
-ねーねー、ほら見て！\n無敗のルーキーさんが主役になった本がね、\nそこで売ってたの！,Hey; hey; look! There's a book with the undefeated rookie as the main character being sold over there!
+ねーねー、ほら見て！\n無敗のルーキーさんが主役になった本がね、\nそこで売ってたの！,Hey; hey; look! There's a book with the Undefeated Rookie as the main character being sold over there!
 お兄さんが山にこもって修行してた話とか、\nドラゴン20匹を退治した話とかのってるんだよ。,There's a story about how he secluded himself in the mountains to train; and another about how he defeated 20 dragons!
 え？僕はそんなことしてない？\nうそだー。だって本に書いてあるもん。\nお兄さんが忘れちゃっただけだよ、きっと。,Huh? You didn't do any of that? That's not true. It's written in the book. You must have just forgotten.
 サキュバスカードかぁ。\nリュカ商会が売り出していたけど、\n使うのどうしようかしら。,A succubus card; huh? I saw the Ryuka Trading Company selling them; but I'm not sure if I should buy some or not..
 普通のモンスターと同じぐらいの戦闘力があって、\nそのうえ異性相手だとかなり強力なのよね。\n同性のモンスター相手にも快楽攻撃や魅了はけっこう効くみたいだし…,Their combat power is similar to an ordinary monster; and it's pretty powerful against male opponents on top of that. Their pleasure attacks and charms seem to work pretty well against other female monsters; too...
-でも試合では無敗のルーキーが普通に勝ってたしなぁ…。\n男相手にあれじゃあ、やっぱり買う価値はないのかしら。\nうーん。,But the undefeated rookie keeps winning his matches... If they don't even work that well against male opponents; maybe they're really not worth buying. Hmm...
+でも試合では無敗のルーキーが普通に勝ってたしなぁ…。\n男相手にあれじゃあ、やっぱり買う価値はないのかしら。\nうーん。,But the Undefeated Rookie keeps winning his matches... If they don't even work that well against male opponents; maybe they're really not worth buying. Hmm...
 サキュバスというのは得体のしれん魔物じゃのう。\n現れて10年は経つが、\n快楽などというふざけた手段でこうも人間が押されるとは。,The succubi are pretty mysterious creatures; aren't they? It's been ten years since they first appeared; and it's still hard to believe humans could be so easily overwhelmed by a tactic as ridiculous as pleasure.
 聞けば、わしらのような老人であっても、\nサキュバスを目にすると快楽に呑まれてしまうらしい。\n性別年齢を問わず本能を直接刺激してくるということなのじゃろう。,I've heard that even old folks aren't safe from their wiles. It seems that regardless of gender or age; they manage to stimulate the human senses.
 生き物である以上、性欲からは逃れられん。\n実に厄介な相手じゃのう。,As long as we're warm-blooded creatures; we can't escape sexual desire. Truly a tricky opponent.
-うわあ、無敗のルーキーだ！！\nすげー、本物だ！,Wow; it's the undefeated rookie!! Amazing; you're the real deal!
+うわあ、無敗のルーキーだ！！\nすげー、本物だ！,Wow; it's the Undefeated Rookie!! Amazing; you're the real deal!
 こんどAランクの昇格戦に出るんだろ！\n俺ぜったい見に行くぜ。こづかい全部使ってチケット買うんだ！,You're going to be in the A-rank promotion match next time; right? I'm definitely gonna be watching; even if I have to spend all my allowance on a ticket!
 なんだろう、体がむずむずする・・・。,I don't know why; but my body feels restless...
 体が熱いというかなんというか。\n魔力が体からあふれ出しそうな、変な感じ・・・。,It's kinda... hot; or something. It feels strange; like my magical power is about to overflow from my body...
