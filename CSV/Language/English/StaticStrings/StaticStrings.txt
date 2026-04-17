@@ -60,7 +60,7 @@ Claw,
 プレイヤーの勝利！！,Player Wins!!
 相手プレイヤーの勝利！！,Opponent Player Wins!!
 手札上限枚数をオーバーしています。,The maximum number of cards in hand has been exceeded.
-カードの効果を発動しますか？,Would you like to activate this card's effect?
+カードの効果を発動しますか？,Activate this card's effect?
 効果発動,Activation Effect
 カードを連鎖発動しますか？,Do you want to chain activate this card?
 カードの生成回数は残り{x}回です。,The number of times this card can be generated is {x}.
