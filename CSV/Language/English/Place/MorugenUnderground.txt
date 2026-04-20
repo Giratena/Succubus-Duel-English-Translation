@@ -73,9 +73,9 @@ Place/MorugenUnderground,
 中級だろうと100人ぐらい余裕です,Intermediate-level? I could take on 100 of them easily
 （ほんと頼もしくなっちゃって…。）,(He's become so reliable...)
 そうね、あなたならきっと勝てる。,That's right; I'm sure you can win.
-みんなもそう思うでしょ？\nここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,Don't you all think so too? We have the undefeated rookie himself right here with us. Even powerful succubi are no match for {主人公}!
+みんなもそう思うでしょ？\nここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,Don't you all think so too? We have the Undefeated Rookie himself right here with us. Even powerful succubi are no match for {主人公}!
 ふふ。そうね、あなたなら大丈夫よね。,Fufu. Of course; I'm sure you'll be fine!
-みんなもそう思うでしょ？ここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,Don't you all think so too? We have the undefeated rookie right here with us. Even powerful succubi are no match for {主人公}!
+みんなもそう思うでしょ？ここにいるのはあの無敗のルーキーよ。\n強いサキュバスだって{主人公}には敵わないわ！,Don't you all think so too? We have the Undefeated Rookie right here with us. Even powerful succubi are no match for {主人公}!
 はぁ…。他に手はなさそうだしね。\n分かった。わたしも賛成する。,Haa... It doesn't seem like we have any other options. Fine. I'll agree to the plan too.
 わたしも賛成いたしますわ。\n男の方に負担を強いるのは教義に反しますが、\n今は仕方ありません。,I agree as well. While it goes against our teachings to burden a man like this; we have no choice under the circumstances.
 みな口々に賛成の意を告げていく。これで目標は決まった。,Everyone voiced their agreement one after another. With that; our objective was decided.
@@ -113,7 +113,7 @@ Place/MorugenUnderground,
 おお、女神よ。我々に祝福を与えてください。\nこの困難を乗り越えるだけの力を、どうか…。,Oh Goddess; please grant us your blessing. Please give us the strength to overcome this hardship...
 ん、明かりはこんな感じで大丈夫？\n火の魔法なら任せてよ。みんなが無駄に\n魔力を使わないでいいように、わたしが照明を担当するわ。,Hey; can everyone see OK? Leave the fire magic to me. I'll handle the illumination so everyone else doesn't have to waste their magic power.
 あなたと会うのは初めてよね。\nわたしはフレア。炎魔法使いのE級マスターよ。,This is our first time meeting; right? I'm Flare. I'm an E-rank Master who specializes in flame magic.
-無敗のルーキーの噂はかねがね聞いているわ。\nよろしくね。,I've heard plenty of rumors about the undefeated rookie. Nice to meet you.
+無敗のルーキーの噂はかねがね聞いているわ。\nよろしくね。,I've heard plenty of rumors about the Undefeated Rookie. Nice to meet you.
 火の魔法は魔獣相手にはかなり効果があるんだけど、\nサキュバスの体って全然燃えないらしいのよね。,Fire magic is pretty effective against magical beasts; but apparently Succubus bodies don't catch fire.
 カードマスターと同じで体に魔力をまとっているから、\nやけどとかしないみたいなの。\n本にそう書いてあったわ。,Just like Cardmasters; they cloak their bodies in magical energy; so they don't seem to get burned. That's what the book said anyway.
 でも、わたしの攻撃魔法は範囲が広いから、\n敵が密集してるなら、少しは効果があるかも。\n集団戦でなら役に立ってみせるわ。,But my attack magic has a wide range; so if enemies are clustered together; it might be somewhat effective. I'll prove useful in group battles.
