@@ -19,7 +19,7 @@ F21_paizuriAnime,
 闘技場に挑戦する(必要ランクポイント:{$needPoint}),Challenge the arena (Required rank points: {$needPoint})
 今はやめておく,Not right now
 挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You haven't reached the rank points needed to challenge (Current rank points: {ランクポイント}).
-さあ無敗のルーキーの試合が今日も始まります。\n今日はどんなバトルを見せてくれるのか！,And now; the battle you've all been waiting for... The undefeated rookie's match is upon us! What kind of battle will he show us today!?
+さあ無敗のルーキーの試合が今日も始まります。\n今日はどんなバトルを見せてくれるのか！,And now; the battle you've all been waiting for... The Undefeated Rookie's match is upon us! What kind of battle will he show us today!?
 おっとファンの歓声が割れんばかりに響いていますね！\nつい最近まで無名だったというのに、{主人公}選手、\nもはやすっかりモルゲンの有名人！素晴らしい人気です！,Oh my! The fans' cheers are echoing so loudly they might just shatter the arena! Even though he was unknown until recently; {主人公} has become a household name in Morgen! What incredible popularity!
 しかし、相手も負けてはいないぞ！その戦いっぷりから人気も高い、\nモンスターを使わず武器と己の身一つで戦う超武闘派カードマスター！\nムサシ選手の入場です！,However; his opponent isn't backing down either! Popular for her fighting style; a super combat-focused cardmaster who battles with weapons and body; without using monsters! Musashi has arrived!
 {主人公}選手とムサシ選手はお互いにCランクで連勝中！\nこの試合に勝てばBランク昇格試合への挑戦権を得られます！,Both {主人公} and Musashi are on winning streaks in C-rank! Whoever wins this match earns the right to challenge for B-rank promotion!
@@ -42,7 +42,7 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 これはムサシ選手、耐えられないー！\n決着！{主人公}選手の勝利です！,That's game! Musashi can't fight anymore! {主人公} reigns victorious!
 ムサシ選手がどれだけ武装を固めようがおかまいなし！\n怒涛の猛攻で一気に勝負を決めました！\n無敗のルーキー、圧倒的な実力です！,No matter how much Musashi fortified her defenses; it didn't matter! With his torrential assaults; the match was decided in an instant! There's no topping this undefeated rookie's overwhelming skill!
 ムサシ選手の多彩な攻撃に追い詰められた{主人公}選手ですが、\n接戦を見事制しました！\n無敗記録を今日も更新です！,Despite being cornered by Musashi's diverse attacks; {主人公} managed to sneak out a victory in this amazingly close battle! His undefeated record continues!
-ムサシ選手の多彩な攻撃を見事にさばききり、\n危なげなく勝利を飾りました！\nさすがは無敗のルーキー、連勝記録を今日も更新です！,He skillfully handled Musashi's diverse attacks and achieved victory without breaking a sweat! As expected of the undefeated rookie; his winning streak continues today!
+ムサシ選手の多彩な攻撃を見事にさばききり、\n危なげなく勝利を飾りました！\nさすがは無敗のルーキー、連勝記録を今日も更新です！,He skillfully handled Musashi's diverse attacks and achieved victory without breaking a sweat! As expected of the Undefeated Rookie; his winning streak continues today!
 ううっ、負けたかぁ・・・。\n久しぶりの負けだわ。ほんとに強いわね。,Uoogh; I lost... It's been a while since someone managed to get the better of me.. You really are strong; huh?
 昇格はぜひともしたかったのだけれど、\nあなたに負けるのなら仕方ないとも思えるわ。\n昇格試合、わたしの分もがんばってきなさいね。,I desperately wanted that promotion; but if I have to lose to someone; I suppose it might as well be you. Do your best in the promotion match now—for my sake too; ok?
 闘技場Bランク昇格戦に挑戦できるようになりました。,You can now challenge the Arena B-rank promotion battle.
@@ -149,7 +149,7 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 うふ、こんなに顔を近づけられたらドキドキしちゃう？\nこの状態で・・・❤\n膝を押し当ててぐり❤ぐり❤ぐり❤,Ufu; does having my face this close make your heart race? In this position...❤ I'll press my knee against you and grind; grind; grind~❤
 はぐぅっ・・・❤,Haaaighh...❤
 くすくす❤キスしてもらえると思った？\n残念。わたし、キスは大事な時までとっておく主義なの。\nもしあなたがわたしに勝てたなら、考えてあげる❤,*Giggle*❤ Did you think you were going to get a kiss? Too bad. I save my kisses for special occasions. But if you can beat me; I might consider it.❤
-今は膝で十分でしょ？だって、ほら。\nズボンが膨らんで、わたしの膝を押し返してるもの。\n気持ちよくてたまらないのよね？くすくす❤,My leg is enough to pleasure you for now; isn't it? Because look; your pants are bulging and pushing back against my knee. It feels so good you can't take it; right? *Giggle*❤
+今は膝で十分でしょ？だって、ほら。\nズボンが膨らんで、わたしの膝を押し返してるもの。\n気持ちよくてたまらないのよね？くすくす❤,My leg is enough to pleasure you for now; isn't it? Because look; the bulge in your pants is pushing back against my knee. It feels so good you can't take it; right? *Giggle*❤
 服越しに擦られているだけなのに、\nどんどん固くなっちゃう❤\n膝で押しつぶされて、あん、イキそうになっちゃう❤,Even though I'm only rubbing your cock through your clothes; it just keeps getting harder and harder.❤ Oh no~ Your dick is going to be crushed by my knee; ahh~ You're going to cum!❤
 ズボン越しでも分かるぐらいぐちゅぐちゅね。\n我慢汁が止まらなくなって、\nぬるぬるのところ膝にぐりぐりいじめられちゃう❤,You're leaking so much precum I can tell even through your pants. And now because of all that; my leg is starting to get slippery~❤
 うふふ❤そのとろけそうな顔、とってもかわいい。\nもっとわたしのそばで見せて？目をそらしちゃダメ❤\nイクまで動かしつづけてあげるから、そのまま射精していいのよ❤,Ufufu~❤ That slutty expression is so adorable. Won't you show me more of it? Don't look away now.❤ I'll keep moving until you cum; so go ahead and shoot your load.❤
@@ -289,7 +289,7 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 ムサシはそう言って、立てなくなっている僕に手を差し伸べた。,Saying that; Musashi extended her hand to me and helped me up from the ground.
 ・・・ありがとうございます。,...Thank you very much.
 敗者にムサシ選手が手を差し伸べる！\n試合が終わったあとの紳士的な態度、\nさすがはムサシ選手です！,And just like that; Musashi extends her hand to the defeated fighter! Such a respectful act of conduct after the match! That's Musashi for you!
-無敗のルーキーは、今日で無敗の記録を失ってしまいました！\nですが、まだ１敗です！\n依然として高い勝率であることには変わりありません！,The undefeated rookie has lost his perfect record today! But it's still just one loss! His win-rate remains impressively high!
+無敗のルーキーは、今日で無敗の記録を失ってしまいました！\nですが、まだ１敗です！\n依然として高い勝率であることには変わりありません！,The Undefeated Rookie has lost his perfect record today! But it's still just one loss! His win-rate remains impressively high!
 観客席からはルーキーへ向けた\n「めげずにがんばれ」の声援も聞こえてきます！\n若い彼のこれからの活躍に期待しましょう！,From the audience comes a chorus of cheers: 'Don’t give up! Keep trying!' All directed at the rookie. What will this young fighter achieve in the future? Let's all look forward to it together!
 こうして昇格戦をかけた試合は終わった。負けたのは悔しいがこれをバネに次の勝負を頑張らなくては！,And so the match for the promotion opportunity ended. Losing was frustrating; but I have to use this as motivation to work harder for the next fight!
 試合のあと闘技場から出ると、外の通りにムサシさんがいた。僕に気づくと、にこっと微笑んで、こちらにやってくる。,After the match when I left the arena; Musashi was standing on the street outside. When she noticed me; she smiled brightly and came over.
@@ -364,4 +364,3 @@ Bランクといえば、国でも有数の実力者です！\n「守護者」�
 元無敗のルーキーとそのルーキーを破ったカードマスター。この二人に指導してもらえる道場は、すぐに評判になり、弟子が次々に入門してくるようになった。,The former undefeated rookie and the cardmaster who defeated him. A dojo where you could receive instruction from these two quickly gained a reputation; and students began enrolling one after another.
 この道場は、このあとモルゲンを代表する大きな道場として発展していくことになるが、それはまた別の物語である。,This dojo would later develop into one of Morgen's most prominent training facilities; but that's a story for another time.
 こうして、妹を探すためＡランクを目指していた主人公の物語は、女剣士のパートナーになって、その幕を閉じたのだった。,And so; the story of the protagonist who had been aiming for A-rank to search for his sister came to an end after meeting the swordswoman who bested him; and the two became lifelong partners.
-

@@ -1,5 +1,5 @@
 default,
-エイライラ,Eliara
+エイライラ,Elaira
 F19_paizuriAnime,
 　モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。\n　元は樹海の奥にあるエルフの集落に住んでいたが、広々とした空が見たかった彼女は、さわやかな風を求めて、平原にあるこの地へとやってきた。そのときは小さな村だったこの地に、カードマスターの学園を建て、それが中心となってモルゲンは発展したのだという。今でも時折、召喚したハーピーと一緒に空を飛んでいる彼女の姿が目撃されている。\n　先生として長く働いているが、面倒見のよい性格で、下級生たちに人気がある。子供たちを守るためにも、敵のサキュバスについて研究をすすめており、サキュバスのエナジードレインを応用した近年のカードマスターたちの戦術も彼女が発明したものである。ただこの技術のせいで女子ばかり強くなり男子生徒たちがなかなか活躍の場を得られなくなってしまったので、少し責任を感じている。\n　非常に長い年月を生きているが、結婚したことはなく処女である。性的なこともサキュバスについて研究するまでは全く実践したことがなかった。しかし近年は、持ち前の頭の良さと魔力の強さで、みるみるテクニックを身に着け、いまでは娼婦も歯が立たないレベルで男をとろけさせる快感を与えることができるという。,　A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild; making her one of the people who laid the foundation for Morgen to become the cardmaster city it is today.\n　Originally living in an elven village deep within the forest; she yearned to see the vast; open sky; and came to this land on the plains seeking the refreshing breeze. In what was then a small village when she arrived; she built the cardmaster's academy; and Morgen developed around it.  Even now; she is occasionally spotted flying through the sky alongside her summoned harpies.\n　Though she has worked as a teacher for many years; she has a caring personality and is popular among the freshmen students. In an effort to protect her students; she  researched the succubi and taught cardmasters how to use their energy drain abilities. However; she now feels partly responsible for the female students becoming much stronger; making it difficult for male students to find opportunities to shine.\n　Despite her long lifespan; she never married and had no sexual experience until she began researching succubi. Now; thanks to her natural intelligence and powerful magic; she possesses new potential sexual techniques; and it's said her skills can make men melt away in ways not even the most skilled prostitue can match.
 モルゲンカード学園の教師。エルフであり、非常に長い年月を生きている。噂ではギルドの創設にも関わっており、モルゲンがカードマスターたちの街になっている基礎を作った人物の一人であるという。,　A teacher at Morgen Card Academy. A long-lived elf rumored to have been involved in the founding of the Guild; making her one of the people who laid the foundation for Morgen to become the cardmaster city it is today.
@@ -30,8 +30,8 @@ F19_paizuriAnime,
 でもあなたにはそんな常識は当てはまらないみたい。\n公式戦では無敗で、連戦連勝。,But you aren't like other people. You haven't even lost a single official match yet. You're just winning battle after battle.
 あなたが努力でそれだけ強くなったのなら、\nわたしも努力で強くなれるかしら。\n才能の壁って分厚いけど、頑張らなくちゃ。,If you got that strong through effort; I wonder if I could do the same. There's a pretty thick barrier of talent between us; but I have to try my best.
 いっしょに頑張りましょう,Let's work hard together!
-エルルさんにはもう負けませんよ,I won't be losing you to you anymore; Elulu!
-ふふ、ありがと。\nお互いに切磋琢磨していけるといいわね。,Fufu; thanks. It would be nice if we could improve by competing with each other.
+エルルさんにはもう負けませんよ,I won't lose you to anymore; Elulu!
+ふふ、ありがと。\nお互いに切磋琢磨していけるといいわね。,Fufu; thanks. It would be nice if we could improve by battling each other.
 へえ、ついこの間わたしに負けたのに、そういうこと言うんだ。\nあとでたっぷり、わたしのテクをその体に教えてあげようかしら❤,Oh? Even after losing to me not that long ago; you still have the guts to say stuff like that? Maybe I should thoroughly teach your body my special skills later~❤
 ううっ・・・・❤,Ugh...❤
 くす❤思い出して興奮してきちゃった？\nでも、おっきくしたらダメよ。今から先生に会うんだから。,*Giggle*❤ Are you getting aroused just thinking about it? Well; don't go getting hard or anything. We're about to meet my teacher.
@@ -43,9 +43,9 @@ F19_paizuriAnime,
 あっ、話をしてたら着いたわね。\n先生はこの部屋の中よ。,Ah; we walked all the way here while we were talking. My teacher's in this room.
 重々しいドアを開くとそこは立派な図書室だった。数えきれないほどの本が、辺り一面の空間を埋めている。天井は見上げるほどに広く、３階建てぐらいのスペースがあった。,As the heavy door opened in front of me; an impressive library stretched out beyond. Countless books filled the space all around. The ceiling was so high that it looked like there was about three floors worth of space above us.
 闘技場横の図書館も大きかったが、ここも負けず劣らずの規模だ。分厚い本を読んで勉強している頭のよさそうな生徒たちがあちこちにいる。,The library next to the arena was large; but this one was equally impressive in scale. Intelligent-looking students were dotted all around; studying with thick books.
-おや、君がエルルの言っていた{主人公}くんかい？\nはじめまして。わたしはエイライラ。\nモルゲンカード学園で教鞭を取っている、しがない教師だよ。,Oh hello. Are you {主人公}? Elulu's told me so much about you. It's nice to meet you. I'm Eliara; a humble teacher here at Morgen Card Academy.
-こんにちは。エイライラ先生。\n「しがない」なんて謙遜しないでくださいよ。\nモルゲンで１、２を争うAランクのカードマスターじゃないですか。,Hello; Professor Eliara. There's no need to be so modest with all that 'humble' talk. You're one of the top A-rank cardmasters in Morgen after all!
-{主人公}、こちらがエイライラ先生よ。\nわたしが初等部だったころに担任をしてくださったの。,{主人公}; this is Professor Eliara. She was my homeroom teacher when I was in elementary school.
+おや、君がエルルの言っていた{主人公}くんかい？\nはじめまして。わたしはエイライラ。\nモルゲンカード学園で教鞭を取っている、しがない教師だよ。,Oh hello. Are you {主人公}? Elulu's told me so much about you. It's nice to meet you. I'm Elaira; a humble teacher here at Morgen Card Academy.
+こんにちは。エイライラ先生。\n「しがない」なんて謙遜しないでくださいよ。\nモルゲンで１、２を争うAランクのカードマスターじゃないですか。,Hello; Professor Elaira. There's no need to be so modest with all that 'humble' talk. You're one of the top A-rank cardmasters in Morgen after all!
+{主人公}、こちらがエイライラ先生よ。\nわたしが初等部だったころに担任をしてくださったの。,{主人公}; this is Professor Elaira. She was my homeroom teacher when I was in elementary school.
 長命のエルフで、この学校の設立者の一人。\nモルゲンの中でもとっても偉い先生なのよ。,She's an elf; and actually one of the founders of this school. She's a super important teacher in Morgen.
 いやぁ、そういわれると照れるね。うん。,Oh Elulu; you'll get me all flustered if you say things like that!
 まあ、自己紹介はさておき。本題に入ろう。\n{主人公}くん、きみが倒したサキュバスが\n時間が経ってから復活した件だがね。,Introductions aside; let's get to the main topic. {主人公}; about the Succubus you defeated. The one that somehow came back.
@@ -56,14 +56,14 @@ F19_paizuriAnime,
 僕たちは図書室の中央辺りにあるバトル用のスペースに移動する。周りに結界が張られていて本が傷つかないようになっているようだ。,We moved to a battle space located near the center of the library. It seemed there was a barrier around it to prevent the books from being damaged.
 こんなところにもバトル用の場所があるだなんて、さすがはカードマスターの学校というところだろうか。,To think there's a battle arena here of all places. I'd expect nothing less from the Card Academy.
 さて、{主人公}くん。君にはこの指輪をはめた状態でバトルをしてもらう。,Now; {主人公}. I want you to wear this ring during our match.
-そう言ってエイライラ先生は僕に小さな水晶がついた指輪を投げ渡した。特に色もついていない透明な水晶の指輪だ。,Saying that; Professor Eliara tossed me a ring with a small crystal attached to it. The gem was transparent; lacking any particular color.
+そう言ってエイライラ先生は僕に小さな水晶がついた指輪を投げ渡した。特に色もついていない透明な水晶の指輪だ。,Saying that; Professor Elaira tossed me a ring with a small crystal attached to it. The gem was transparent; lacking any particular color.
 さあ、準備はいいかな。\n手を抜かず全力で行かせてもらうよ。,Well; are you ready? I'll be going all out; so don't hold anything back.
 よろしくお願いします！,Let's have a good fight!
 負けません！僕が勝ちます！,I'm not gonna lose!
 ふふ、闘志に溢れたいい目だね。Aランク上位と聞いても\nまったく物怖じしないその姿勢、花丸をあげよう。\nしかし、実力はどの程度かな？,Fufu; your eyes are so full of fighting spirit. Managing to face an A-rank elite without a hint of fear... I'll give you a gold star for that at least. But let's see if your abilities keep up with your bravery.
 わたしのハーピーたちの猛攻を前に、\n君はちゃんと立っていられるかな！\nバトル開始だ！,How long can you last in the face of my Harpies' assault? Let the battle begin!
 うぐっ、すごいな…。\nまさか負けるとは思っていなかった。,Ugh; amazing... I never dreamed I would lose.
-すごいすごい！\nエイライラ先生に勝つなんて！\n{主人公}、凄すぎよ！,Oh wow; amazing! To think you'd actually beat Professor Eliara! {主人公}; you're incredible!
+すごいすごい！\nエイライラ先生に勝つなんて！\n{主人公}、凄すぎよ！,Oh wow; amazing! To think you'd actually beat Professor Elaira! {主人公}; you're incredible!
 エルルさんが興奮気味に驚いている。Aランクマスターに勝てて、僕も鼻高々だ。,Elulu cheered for me with both surprise and excitement. I couldn't help but feel proud to have beaten an A-rank master.
 ふと周りを見ると、他の生徒たちが何人か僕たちの戦いを観戦していたようだ。彼ら彼女らも興奮気味に手を叩いている。,Looking around; it seemed several other students had been watching our battle as well. They'd all burst into excited applause.
 ・・・♪,...♪
@@ -89,7 +89,7 @@ F19_paizuriAnime,
 胸にあっけなく負けてしまったわけだけれど、\nおっぱいは気持ちよかったかい？\nまだまだ胸に甘えたい年頃なのかな？くすくす❤,For you lose so easily to my breasts... Did they truly feel that good? Fufu; are you perhaps still at that age where you want to be nutured by a woman's breasts? *Giggle*❤
 ふとももにあんなに出して、\n密着されて扱かれるのは、若い君には刺激が強かったかな。くすくす❤,You came quite a lot on my thighs. I suppose stroking your cock between them proved to be too stimulating for someone as inexperienced as yourself. *Giggle*❤
 まあいい。とりあえず今のバトルで分かったことを話そう。\nとはいえ・・・。,No matter. For now; let me tell you what I learned from that battle. Although...
-そういってエイライラ先生は周囲を見渡した。周りには男子生徒や女子生徒が集まっていた。いつの間にか他の生徒たちが僕らの試合を見に来ていたようだ。,Professor Eliara looked around. Male and female students stood all around us. It seemed they'd gathered to watch our match at some point.
+そういってエイライラ先生は周囲を見渡した。周りには男子生徒や女子生徒が集まっていた。いつの間にか他の生徒たちが僕らの試合を見に来ていたようだ。,Professor Elaira looked around. Male and female students stood all around us. It seemed they'd gathered to watch our match at some point.
 ここで話すには人目があるね。わたしの研究室までついておいで。,Follow me to my research lab. Too many eyes here for a nice conversation.
 さて、今日来てもらった本題の、\nなぜ君が倒したサキュバスが復活していたかについて、だね。,Now then; let's discuss the main reason I asked you to come today -how the succubus was revived- shall we?
 さっきのバトルは君の魔力状態を確かめるためのものだったんだ。\nバトル前に渡した君の指輪を見てごらん。,The purpose of our battle was to check the state of your magical power. Take a look at the ring I gave you.
@@ -112,7 +112,7 @@ F19_paizuriAnime,
 女性が血縁共鳴でサキュバスの影響を受ける場合、\n最悪そのままサキュバスになってしまうことがあるから、\n普通は魔力の流入を止める封印を施す。,When a woman is affected by a succubus through blood resonance; the worst case scenario is she might end up becoming a succubus herself; so normally we apply a seal to stop the flow of magical power.
 男が血縁共鳴で半魔族化している場合は害がないので放置するが、\n男のカードマスターは基本的にサキュバスに勝てないからね。,If a man undergoes a demi-demon transformation through blood resonance; he won't be able to defeat a succubus. Though; in practice; male cardmasters tend to be unable to defeat a succubus anyway.
 わたしが知る限り、半魔族化した状態でサキュバスを倒したのは、\n{主人公}くんがはじめてのケースだよ。,As far as I know; {主人公} is the first case of someone defeating a succubus while in a demi-demon state.
-たしか、学園の授業でサキュバスを倒すには\n「聖なる力」が必要だと習いました。\n赤ん坊のときに神殿で女神さまの祝福を受けてその力を得る、と。,I remember learning in the academy's classes that to defeat a succubus; you need "holy power;" Which is recieved by a goddess's blessing at the temple while still a baby.
+たしか、学園の授業でサキュバスを倒すには\n「聖なる力」が必要だと習いました。\n赤ん坊のときに神殿で女神さまの祝福を受けてその力を得る、と。,I remember learning in the academy's classes that to defeat a succubus; you need "holy power;" Which is received by a goddess's blessing at the temple while still a baby.
 サキュバスになるとその力は失われて、\n代わりに魔族の力が宿るんですよね。,But when someone becomes a succubus; they lose that power; and demonic power takes its place instead; understand?
 つまり半分魔族になっている{主人公}は、\nサキュバスを倒すための聖なる力が失われている…？\nだからサキュバスが復活してしまったということですか？,In other words; {主人公} has become half-demon; so he's lost the holy power needed to defeat a succubus...? Is that why the succubus revived?
 そう、その通りだよ。エルル。\nよく勉強しているじゃないか。,Exactly right; Elulu. You've been studying well.
@@ -122,20 +122,20 @@ F19_paizuriAnime,
 君たちがサキュバスを倒したという森に行ってみよう。\n百聞は一見に如かずともいう。わたしの計算が正しければ、\nそろそろそこにサキュバスが復活するはずだ。,Let's go to the forest where you all defeated one of the succubi in your earlier battle. Seeing is believing; as they say. If my calculations are correct; she should be reviving there right about now.
 復活していたとしても、下級サキュバス程度、このメンバーなら大丈夫。\nさあ、少し準備したら森に向かおうか。,Even if she has revived; she's just a low-level succubus; so with the group we have we should be fine. Now; let's prepare a bit and then head to the forest.
 僕たちは昇格試験のときにサキュバスを倒した森についた。うっそうとして視界はあまりよくない。しかし、エルルさんの魔力探査によって、すぐに戦闘があった場所にたどり着けた。,We arrived at the forest where we had defeated the succubus during our promotion exam. The forest was dense and visibility wasn't great. However; thanks to Elulu's magical detection; we quickly reached the location where the battle had taken place.
-先生、サキュバスと戦ったのはここです。,Miss Eliara; this is where we fought the succubus.
+先生、サキュバスと戦ったのはここです。,Miss Elaira; this is where we fought the succubus.
 ん・・・？なんだか変な魔力のよどみがありますね。,Hmm...? There's a strange stagnation of magical power here.
 へえ、この魔力が分かるなんて。\n相変わらずたいした観察能力だ。,Goodness! To be able to sense this magical power... Your observational skills are impressive as always; Elulu.
 （この辺りは確か、カードパックが出土している遺跡があった場所だが…\nサキュバスはこんなところで何をしていたんだろう…？\nまあ、いい。今は置いておこう）,(If I recall correctly; this area had ruins where card packs are often excavated; but... what was a succubus doing in a place like this...? Well; no matter. I'll set that matter aside for now.)
 さて、まだ復活には少し早かったみたいだけれど、\nこの感じならもうすぐじゃないかな。\nちょっと魔力を与えて刺激してみようか。,Now then; it seems it's still a bit early for the revival; but from what I'm sensing; it should be soon. Let me apply a catalyst by giving it a little magical power.
-エイライラさんは杖から魔力の塊を空間に向かって流し込んだ。はじめは何もないように見えた空間に、だんだんと僕にも見えるような魔力のよどみが現れてくる。そして・・・。,Eliara released a mass of magical power from her staff toward the spot we were watching. At first; the space remained empty; but gradually a stagnation of magical power that even I could see began to appear. And then...
+エイライラさんは杖から魔力の塊を空間に向かって流し込んだ。はじめは何もないように見えた空間に、だんだんと僕にも見えるような魔力のよどみが現れてくる。そして・・・。,Elaira released a mass of magical power from her staff toward the spot we were watching. At first; the space remained empty; but gradually a stagnation of magical power that even I could see began to appear. And then...
 ぷはぁ！え、え、いまどういう状況！？\nわたし生きているの？,Puha! Huh; w-what's going on!? Am I alive?
 やあ、はじめまして。\nそうだね。きみは生きているよ。\nでも、自由ではない。,Hello; nice to meet you. Yes; you're alive. But you're not free.
-エイライラさんは、そう言ってサキュバスに杖を突きつけた。片手にはカードを持っており、いつでも強力なカードが使える状況だ。,Eliara pointed her staff at the succubus. In her other hand she held a powerful card; ready to use it at any moment.
+エイライラさんは、そう言ってサキュバスに杖を突きつけた。片手にはカードを持っており、いつでも強力なカードが使える状況だ。,Elaira pointed her staff at the succubus. In her other hand she held a powerful card; ready to use it at any moment.
 ひえぇっ・・・。,Awwh...
 ほらほらキビキビ歩く。\n自分で牢屋の中に入るんだ。,Now; now; move along briskly. Get yourself into that prison cell.
 あうう、わかりましたぁ・・・。,Mmgh. Fine....
-３体１の状況でエイライラさんに杖を突きつけられ、キノコ使いのサキュバスは降参した。彼女を尋問してモルゲン付近にいた理由を聞き出すため、エイライラさんはそのまま彼女をモルゲンの牢屋まで連れてきていた。,In a three-on-one situation with Eliara pointing her staff at her; the mushroom-using succubus surrendered. Eliara brought her directly to Morgen's prison to interrogate her and find out why she had been near Morgen.
-エイライラ先生、サキュバスを生け捕りにするとはさすがですね。\nわたくし看守ヤツメ、この悪党をきっちり見張らせていただきます。,Miss Eliara; capturing a succubus alive is impressive indeed. I; Yatsume of Morgen prison; will make sure to watch this villain closely.
+３体１の状況でエイライラさんに杖を突きつけられ、キノコ使いのサキュバスは降参した。彼女を尋問してモルゲン付近にいた理由を聞き出すため、エイライラさんはそのまま彼女をモルゲンの牢屋まで連れてきていた。,In a three-on-one situation with Elaira pointing her staff at her; the mushroom-using succubus surrendered. Elaira brought her directly to Morgen's prison to interrogate her and find out why she had been near Morgen.
+エイライラ先生、サキュバスを生け捕りにするとはさすがですね。\nわたくし看守ヤツメ、この悪党をきっちり見張らせていただきます。,Miss Elaira; capturing a succubus alive is impressive indeed. I; Yatsume of Morgen prison; will make sure to watch this villain closely.
 うん、よろしく頼むよ。,Thank you Yatsume; I'm counting on you.
 というわけで、仮説はやはり正しそうだね。,And with that; my hypothesis seems to be correct after all.
 {主人公}くん、君はサキュバスにとどめを刺せない。\nこのことをしっかり考えておきなさい。,{主人公}; if you can't deal the finishing blow to a succubus; you'll need to think carefully about what you do.

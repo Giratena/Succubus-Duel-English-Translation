@@ -3,7 +3,7 @@ default
 酒場へ行く(未実装),Go to the tavern (not implemented yet)
 学園へ行く(未実装),Go to the school (not implemented yet)
 牢屋へ行く,Go to the jail
-❤行商人の女の子の家,❤Trader girl's house
+❤行商人の女の子の家,Merchant Girl's house ❤
 メロディに会いに学園へ行く(未実装),Meet Melody at her school (not implemented yet)
 (特殊)地下通路へ行く,(Special) Go to the underground passage.
 見回りの兵士,Patrolling soldier

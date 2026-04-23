@@ -21,7 +21,7 @@ default
 チュートリアル２：召喚,Tutorial 2: Normal Summoning
 プレイヤーは手札から１ターンに１度だけモンスターを召喚することができます。場に出したモンスターはHPがゼロになると破壊され墓地へ送られます。レベルが５以上のモンスターは場のモンスターをコストに支払わないと召喚することができません（レベルが５～６の場合１体、レベルが７以上の場合２体）。,Players may normal summon 1 monster each turn from their hands. A monster is destroyed and sent to the Graveyard when their HP reaches 0. Monsters with a Level of 5 or higher require monsters to be tributed from the field to be played (1 tribute monster for a Level 5-6 monster, 2 tribute monsters for a Level 7 or higher monster).
 チュートリアル３：攻撃,Tutorial 3: Attacking
-召喚したモンスターは相手に攻撃することができます。ただし先攻１ターン目のプレイヤーは攻撃することができません。, Summoned monsters can be used to attack opponents. However; the player who gets to go first in a match may not attack until their second turn.
+召喚したモンスターは相手に攻撃することができます。ただし先攻１ターン目のプレイヤーは攻撃することができません。, Summoned monsters can be used to attack opponents. However、 the player who gets to go first in a match may not attack until their second turn.
 チュートリアル６：勝利条件,Tutorial 6: Win Conditions
 先に相手のライフポイント(LP)をゼロにした方が勝者です。ライフを減らすためには相手プレイヤーに攻撃をする必要があります。ただし場に相手のモンスターがいる場合は、相手プレイヤーに直接攻撃できないので、先にモンスターを倒さなければなりません。,A player wins when they reduce their opponent's Life Points (LP) to 0. You can reduce your opponent's LP by attacking them directly. However; as long as a player has one or more monsters on the field; they may not be attacked directly.
 このゲームではプレイヤー自身も相手に攻撃を行うことができます。プレイヤーの攻撃力は比較的高いので、積極的に攻撃をしかけていくことが重要です。,In this game; the players themselves are able to attack their opponents. Compared to monsters; the attack power of the players tends to be higher; so attacking aggressively is key.
@@ -48,3 +48,5 @@ default
 ターンエンド。,End turn.
 わたしのターンはおしまい。ターンエンド。,End turn.
 攻撃を無効にするトラップね。うまく使えているじゃない。,A trap that negates attacks; huh? Aren't you using your cards well!
+再戦,Rematch
+タイトルに戻る,Back to title

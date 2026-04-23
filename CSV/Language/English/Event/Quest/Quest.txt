@@ -1,0 +1,8 @@
+default
+Eランク昇格試験,E-Rank Promotion Exam
+Dランク昇格試験,D-Rank Promotion Exam
+Cランク昇格手続き,Continue C-Rank Promotion
+Bランク昇格手続き,Continue B-Rank Promotion
+盗賊退治,Route the Bandits
+コノハと手合わせ,Spar with Konoha
+

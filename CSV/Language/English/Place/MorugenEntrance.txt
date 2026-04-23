@@ -30,10 +30,10 @@ Place/MorugenEntrance,
 カードマスターたちがお互いに実力を競い合う、熱い祭りさ。\n周りを見るとカードマスターらしき人がいっぱいいるだろう？,It's a heated festival where cardmasters gather to test their skill. Look around. You can see a lot of people who look like cardmasters; right?
 10年に一度、このモルゲンの町はカードマスターで溢れかえるのさ。\nわたしにもカードの才能があれば、参加してみたいものなんだけどねぇ\nいやあ血が騒ぐよ。,Once every ten years; the town of Morgen floods with cardmasters. If I had any talent for cards; I'd love to participate. It really gets my blood pumping.
 やあ、こんにちは。\n話・・・？\nええと、長くないならいいよ。,Oh hey; hello there. You want to talk? Well; as long as it's not too long.
-いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,Ah; forget it. I'm just too impatient; and I don't like listening to people talk. I just wish I could to skip everything; you know?
+いや、どうもおれはせっかちでね、\nたらたらと人の話を聞くのが苦手なんだ。\nパッと全部飛ばしたいね。,Ah; forget it. I'm too impatient; and listening to people talk just isn't one of my strengths. I wish I could just skip conversations entirely; you know?
 イベントのスキップについて,About skipping events
 スキップ操作,How to skip events
-会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,You can skip conversations and scenes by right-clicking. To stop skipping; release the right-click button.
+会話や演出などは、右クリックを押すことでスキップできます。右クリックを離したときスキップは解除されます。,You can skip conversations and scenes by right-clicking. Release the right-click button to stop skipping.
 またタップ操作の場合は二本指で画面に触れることでスキップできます。指を離したときスキップは解除されます。,You can also skip by tapping the screen with two fingers. The text will stop skipping when you release your fingers.
 こんにちは。わたしはBランクのカードマスター、リーズよ。,Hello there. I'm Lizz; a B-Rank cardmaster!
 見たところあなたはまだ新人かな？ギルドリングをつけてないわね。,Are you a newbie? I see you're not wearing your guild ring.
