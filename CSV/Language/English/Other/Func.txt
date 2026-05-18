@@ -98,6 +98,10 @@ HP8000/Atk1300,Limit to HP8000/Atk1300
 主人公の情報,Player Information
 {プレイヤー情報},
 画像閲覧,Artwork
+オナニー(主人公),Mastubation (MC)
+オナニー,Mastubation
+命乞い,Last Request
+敗北後,After Defeat
 ドロー,Draw
 閉じる,Close
 闘技場バトル回想\n(イベントあり),Recall Arena Battle\n(with events)
