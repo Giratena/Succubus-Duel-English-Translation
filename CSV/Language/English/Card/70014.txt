@@ -11,6 +11,7 @@ F14_footJobAnime,
 ううっ、さすがね、{主人公}。\nでも、次は勝つんだから。,Ugh; as expected from {主人公}. But I won't lose the next time.
 ふふ、負けっぱなしってわけじゃないのよ。\nわたしの先輩としての実力分かったかしら♪,Hehe; I won't keep losing; you know. Maybe now you've learnt the power of a senior♪
 Dランクに挑戦する,Challenge a D-rank Cardmaster
+闘技場に挑戦する(必要ランクポイント:{$needPoint}),Challenge the Arena (Required Rank Points: {$needPoint})
 今はやめておく,Not right now
 早速申し込みを行い、僕は試合時間を待っていた。対戦相手はオクタという名前のDランクマスターらしい。,I quickly applied and received the time for my match. My opponent seemed to be a D-rank cardmaster named Octa.
 初めての闘技場での試合に、体が緊張しているのを感じる。多くの人が会場へと入っていくがあの人たち全員が観客なのだろうか。これまでの１対１の戦いとは少し違う、異質な戦い…。,I'm feeling nervous since it's my first time fighting in the colosseum. Lots of people are heading towards the venue. Are they all spectators for the match? It's completely different from the one-on-one fights I've been doing up until now...

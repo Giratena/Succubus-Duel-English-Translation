@@ -1,0 +1,32 @@
+イベント：ギルド図書館,Event: Guild Library
+イベント：ギルド図書館2,Event: Guild Library 2
+イベント：Cランク昇格イベント,C Rank Promotion Event
+イベント：コノハ師匠へ手紙,Letter to Master Konoha
+イベント：Bランク昇格イベント,B Rank Promotion Event
+イベント：ギルマス見送り,Farewell to the Guild Master
+イベント：ネクロと練習,Practice with Necro
+イベント：悪夢との決別,Breaking Free from the Nightmare
+❤マッサージ屋の女の子1_1,❤Massage Parlor Girl 1_1
+❤マッサージ屋の女の子1_2,❤Massage Parlor Girl 1_2
+マッサージ屋の女の子2,Massage Parlor Girl 2
+❤派手な女の子,❤Flashy Girl
+❤牢屋の中のサキュバス1_1,❤The Prison Succubus 1_1
+❤牢屋の中のサキュバス1_2,❤The Prison Succubus 1_2
+❤牢屋の中のサキュバス2_1,❤The Prison Succubus 2_1
+❤牢屋の中のサキュバス2_2,❤The Prison Succubus 2_2
+❤牢屋の中のサキュバス3_1,❤The Prison Succubus 3_1
+❤牢屋の中のサキュバス3_2,❤The Prison Succubus 3_2
+❤アクセサリー売りの女1_1,❤Jewelry Seller Girl 1_1
+❤アクセサリー売りの女1_2,❤Jewelry Seller Girl 1_2
+❤アクセサリー売りの女2_1,❤Jewelry Seller Girl 2_1
+❤アクセサリー売りの女2_2,❤Jewelry Seller Girl 2_2
+不安げな女の子,An Anxious Girl
+❤上機嫌な女の子1_1,❤Cheerful Girl 1_1
+❤上機嫌な女の子1_2,❤Cheerful Girl 1_2
+❤行商人の女の子3,❤Female Traveling Merchant 3
+❤行商人の女の子4,❤Female Traveling Merchant 4
+❤行商人の女の子5,❤Female Traveling Merchant 5
+❤行商人の女の子6,❤Female Traveling Merchant 6
+❤ジェミニお礼1_3,❤Gemini Thanks 1_3
+❤ジェミニお礼1_1,❤Gemini Thanks 1_1
+❤ジェミニお礼1_2,❤Gemini Thanks 1_2

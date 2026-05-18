@@ -1,2 +1,3 @@
 default
 毒の小瓶,Small Poison Bottle
+[1].モンスター１体を選択して発動できる。そのモンスターに「毒」(300)を付与する。,[1]. Selecting 1 monster and apply "Poison (300)" to that monster.

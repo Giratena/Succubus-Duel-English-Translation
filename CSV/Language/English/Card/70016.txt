@@ -1,6 +1,8 @@
 default
 パトラ,Patra
 F16_hipJob,
+闘技場に挑戦する(必要ランクポイント:{$needPoint}),Challenge the Arena (Required Rank Points: {$needPoint})
+今はやめておく,Not right now
 体術にすぐれた蛇使いのカードマスター。現在ＤランクだがＣランク昇格も近いと言われている。能力が高い蛇モンスターを特殊召喚ですばやく盤面にそろえ、そこから速攻で相手を倒す戦術を得意としている。\n　基本的に誠実で真面目な性格だが、ふとした気まぐれで人の持っているものを奪いたくなる強欲さが顔を出すことがある。彼女の巧みな体術で本気で快楽を与えられれば、男の意思など軽く捻じ曲げられてしまうため、彼女との距離感には十分注意した方がよいだろう。,A cardmaster who specializes in snake monsters and martial arts. Currently D-rank but approaching promotion to C-rank. Her strategy revolves around rapidly deploying powerful snake creatures to overwhelm opponents before they can react.\nShe is generally honest and serious; though she has a greedy streak and will sometimes take things that catch her eye. In combat; her martial arts mastery allows her to pleasure men in ways that can bend them to her will. Keeping your distance is advisable when facing her.
 あら、期待のルーキーくんじゃない。\n昇格おめでとう。\nさすがにわたしを倒しただけはあったわね。,Oh my; if it isn't the Promising Rookie! Congratulations on your promotion. I'd expect nothing less from someone who defeated me.
 もしキャミーなんかに負けちゃったら、\nわたしショックで仕方ないわ。\nあの子普通のバトルはすごく弱いのよ。格闘とかもできないし。,If you had lost to someone like Cammy; I would have been absolutely devastated. That girl is so weak in normal battles. She can't even fight for real.
