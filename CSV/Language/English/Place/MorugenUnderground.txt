@@ -15,9 +15,10 @@ Place/MorugenUnderground,
 ロード,Load
 セーブ,Save
 回想,Reminisce
+図鑑,Encyclopedia
 作戦会議,Strategy Meeting
-(特殊)２周目プレイ,(Special Option) Start New Game+
-(特殊)街に戻った状態にする,(Special Option) Return to town with current abilities
+(特殊)２周目プレイ,(Special) Start New Game+
+(特殊)街に戻った状態にする,(Special) Return to town with current abilities
 少し歩いて頭もはっきりしたし、受付さんに今の状況について聞くことにしよう。,After clearing my head with a short walk; I decided to ask the receptionist about our current situation.
 分かりました。状況を説明しますね。\nん・・・？,Understood. Let me explain the situation. Hmm...?
 あいたた・・・。あれ、わたし・・・。,Ow... Huh; what happened to me...?
