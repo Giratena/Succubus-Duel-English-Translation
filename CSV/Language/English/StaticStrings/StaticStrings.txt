@@ -136,6 +136,7 @@ Claw,
 悪魔,Demon
 獣,Beast
 植物,Plant
+昆虫,Insect
 爬虫類,Reptile
 スライム,Slime
 岩石,Rock

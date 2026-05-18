@@ -85,7 +85,8 @@ F26_paizuriAnime,
 永続魔法、{使用カード}を発動！\n味方の守備状態モンスターが受ける戦闘ダメージ・効果ダメージを\n常に100ポイント減少させる！,I activate continuous Magic Card; {使用カード}! This card reduces all damage received by my monsters by 100 points as long as they're in defense position!
 さらに発動時の効果として、\nデッキから{%%10069}を手札に加えるわ！,What's more; as an added effect of activating it; I add a {%%10069} from my deck to my hand!
 相手の直接攻撃時、{使用カード}を発動！\nこのカードを破壊して手札の{%%10069}を特殊召喚する！,When one of my opponent's monsters attacks me directly; I can activate {使用カード}! It destroys the attacking card and special summons a {%%10069} from my hand to the field!
-魔法カード{使用カード}を発動！\n自分フィールド上のすべてのモンスターを守備にし、\nさらに最大HPを500ポイントアップするわ！,I activate the Magic Card {使用カード}; putting all monsters on my side of the field in defense position and increasing their maximum HP by 300 points!
+魔法カード{使用カード}を発動！\n自分フィールド上のすべてのモンスターを守備にし、\nさらに最大HPを500ポイントアップするわ！,I activate the Magic Card {使用カード}; putting all monsters on my side of the field in defense position and increasing their maximum HP by 500 points!
+魔法カード{使用カード}を発動！\n自分フィールド上のすべてのモンスターを守備にし、\nさらに最大HPを300ポイントアップするわ！,I activate the Magic Card {使用カード}; putting all monsters on my side of the field in defense position and increasing their maximum HP by 300 points!
 魔法カード{使用カード}を発動！\n自分のモンスターをすべて守備にし、\nさらに最大HPを300ポイントアップ！,I activate the Magic Card {使用カード}! It puts all my monsters in defense position and increases their maximum HP by 300!
 無駄よ！手札を1枚捨て罠カード{使用カード}を発動！\n相手の攻撃を無効にし、さらにその攻撃を\n相手フィールド上のすべてのモンスターに向けて跳ね返すわ！,It's useless! I discard one card from my hand to activate my Trap Card; {使用カード}! It negates your attack and reflects it back at all monsters on your side of the field!
 このとき、手札を1枚捨て罠カード{使用カード}を発動！\n攻撃を無効にし、さらに攻撃モンスターの攻撃力分だけ\n相手フィールド上のすべてのモンスターにダメージを与える！,In response; I'll discard one card from my hand to activate the Trap Card {使用カード}! It negates your attack and deals damage equal to the attacking monster's power to all monsters on your side of the field!
@@ -229,6 +230,8 @@ F26_paizuriAnime,
 ・・・・・・っ。,.........
 （くすっ❤近づいただけでペニスが暴発しそう❤\nあとたった一撃で勝てるのに、あちらも限界ということかしら…❤\nあとちょっと押せば大事な勝負すら投げ出してしまいそうね❤）,(*Giggle*❤ Just getting close like this is making his penis look like it's ready to explode.❤ He could end this with just one more attack; but it seems he's at his limit as well...❤ If I push him just a little further; he might just throw away even an important match like this~❤)
 （ええと…教科書にはどう書いていたかしら？\n確か、おっぱいを意識させる為には揺らして、たわませて、弾ませる…❤\n…ふふ❤目が惚けてる❤あとひと押し…❤）,(Let's see... What did the textbook say again? To draw someones attention to your breasts; bounce them; sway them; make them jiggle...❤ ...Fufu~❤ His eyes are starting to glaze over~❤ Just one more push...❤)
+彼女の胸から目を背けとどめを刺した,Avert your eyes away from her chest!
+見惚れて棒立ちになってしまった,So soft and bouncy...
 ・・・・・・っ！,.........!
 止めを刺す寸前、試合前から見惚れていたおっぱいの存在感に圧倒されてしまう。,Just before delivering the finishing blow; you feel yourself overwhelmed by the presence of the breasts you'd been admiring since before the match.
 試合中は彼女の学園一の強さもあって、逆にカードに集中できた。しかし、とどめの為に彼女に近づいた今、改めてその大きなおっぱいの存在感に息を呑んでしまう。そして、学園一のおっぱいに思わず視線が吸い込まれてしまう…！,During the battle; you could actually manage to focus on your cards since your opponent was the academy's best. However; now that you've approached her to deliver the final blow; you're once again breathless at the presence of those large breasts. Your gaze is involuntarily drawn to the largest chest the academy has to offer...!
