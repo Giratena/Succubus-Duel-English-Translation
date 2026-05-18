@@ -27,6 +27,6 @@
 ❤行商人の女の子4,❤Female Traveling Merchant 4
 ❤行商人の女の子5,❤Female Traveling Merchant 5
 ❤行商人の女の子6,❤Female Traveling Merchant 6
-❤ジェミニお礼1_3,❤Gemini Thanks 1_3
-❤ジェミニお礼1_1,❤Gemini Thanks 1_1
-❤ジェミニお礼1_2,❤Gemini Thanks 1_2
+❤ジェミニお礼1_3,❤Gemini's "thank you" 1_3
+❤ジェミニお礼1_1,❤Gemini's "thank you" 1_1
+❤ジェミニお礼1_2,❤Gemini's "thank you" 1_2
