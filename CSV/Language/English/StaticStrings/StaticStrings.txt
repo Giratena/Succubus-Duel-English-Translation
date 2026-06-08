@@ -141,12 +141,17 @@ Claw,
 スライム,Slime
 岩石,Rock
 スライス,Slime
+水棲,Aquatic
 通常魔法,Spell
 永続魔法,Continuous Spell
 罠,Trap
 永続罠,Continuous Trap
 装備,Equipment
 ド口ー,Draw
+射精,Cum
+ダメージ,Damage
+速度－,Slower
+速度＋,Faster
 //These strings don't appear to work:
 一覧,Preview
 枚数:,Cards:

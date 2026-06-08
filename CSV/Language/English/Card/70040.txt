@@ -1,7 +1,8 @@
 default
 仮想の相手,Custom Opponent
 ここではコピーしたIDのデッキと仮想バトルをすることができます。デッキのIDはデッキ編集画面でコピーできる他、ネット上の他の方が公開したものがあれば、それをコピーしてバトルすることも可能です。,Here you can engage in virtual battles using decks with copied IDs. You can copy deck IDs from the deck editing screen; or if others have shared their deck IDs online; you can copy those to battle with as well.
-以下、コピーBattleext string will be displayed below.
+コピーされている文以下、字列が表示されます。,The contents you have copied will be displayed below.
+以下、コピーされている文字列が表示されます。,The contents you have copied will be displayed below.
 現在コピーされている文字列：{コピーバッファ},Currently copied string: {コピーバッファ}
 バトルする,Battle
 バトルしない,Don't battle
