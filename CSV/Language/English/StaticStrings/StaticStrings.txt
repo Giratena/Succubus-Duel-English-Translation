@@ -138,10 +138,13 @@ Claw,
 植物,Plant
 昆虫,Insect
 爬虫類,Reptile
+妖精,Fairy
 スライム,Slime
 岩石,Rock
 スライス,Slime
 水棲,Aquatic
+天使,Angel
+アンデッド,Undead
 通常魔法,Spell
 永続魔法,Continuous Spell
 罠,Trap

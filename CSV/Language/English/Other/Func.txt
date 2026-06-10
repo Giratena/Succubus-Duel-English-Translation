@@ -101,6 +101,7 @@ HP8000/Atk1300,Limit to HP8000/Atk1300
 オナニー(主人公),Mastubation (MC)
 オナニー,Mastubation
 命乞い,Last Request
+命乞い2,Last Request 2
 敗北後,After Defeat
 ドロー,Draw
 閉じる,Close

@@ -241,7 +241,7 @@ Bランク相手に正面からやり合うのは分が悪いですね。\nそ�
 装備カード、{使用カード}を発動！\n相手にこのカードを装備するわ。,I activate {使用カード}! This is a special equipment card that goes on my opponent.
 装備されたキャラクターは、魅了の魔力にさらされて、\n女に逆らえなくなる❤\nほら服従の首輪代わりにつけてあげる❤,Those equipped with this card will be exposed to charm magic; and become unable to resist women.❤ Here; I'll put this on you like a collar of obedience~❤
 自分ターン終了時に、{使用カード}の効果発動！\n装備している相手に「早漏化」の呪いを付与よ❤,At the end of my turn; I'll activate {使用カード}'s effect! The opponent with it equipped is cursed with "Premature Ejaculation"!
-ターン終了時に、{使用カード}の効果発動！\n自分の場にこの子しかないとき、\nデッキから「サキュバス」モンスターを１大特殊召喚よ！,At the end of turn; {使用カード}'s effect activates! When this girl is the only monster on my field; I can Special summon 1 "Succubus" monster from my deck!
+ターン終了時、{使用カード}の効果発動！\n自分の場にこの子しかないとき、\nデッキから「サキュバス」モンスターを１大特殊召喚よ！,At the end of turn; {使用カード}'s effect activates! When this girl is the only monster on my field; I can Special summon 1 "Succubus" monster from my deck!
 相手が快楽に自ら屈した時、{使用カード}の効果発動！\n墓地からこのカードを回収するわ♪,When an opponent willingly succumbs to pleasure; I can activate {使用カード}'s effect and I return it from the graveyard~♪
 装備魔法カード発動！{使用カード}！,Spell Card activate! {使用カード}!
 魔法カードを発動！{使用カード}！,I'll activate my Spell Card! {使用カード}!

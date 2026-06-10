@@ -11,7 +11,7 @@ Place/MorugenPrison,Place / Morgen Prison
 街へ戻る,Return to the City
 おや、無敗のルーキーじゃないか。\n今日は監獄の見学か？,Oh; if it isn't The Undefeated Rookie. Are you here for a tour of the prison today?
 お前のような強いマスターが巡回すれば、\n犯罪者どもに対していい威圧になるだろう。\nわたしの目の届く範囲であれば、好きに見て回るといい。,Having a strong cardmaster such as yourself around would probably keep the criminals in check. Feel free to look around as much as you like; just don't stray too far.
-エイライラ先生とお前たちが連れてきたサキュバスだが、\nなかなか口を割りそうにない。,About that succubus that Eilaira and you guys brought in; it doesn't seem like she'll be talking anytime soon.
+エイライラ先生とお前たちが連れてきたサキュバスだが、\nなかなか口を割りそうにない。,About that succubus that Elaira and you guys brought in; it doesn't seem like she'll be talking anytime soon.
 軽薄そうに見えて、サキュバスは女王に絶対の忠誠を誓っている。\n尋問で何かを聞き出すのはかなり難しそうだ。,It'll likely be quite difficult to get anything at all out of her. She may look carefree; but all succubi pledge absolute loyalty to their queen.
 そのうえサキュバスたちは痛みを一切感じないように、\n体の感覚を調整できるらしい。快楽以外の感覚を\n一切遮断してしまえるのだそうだ。,Not only that; but succubi can apparently adjust their senses so they don't feel any pain at all. Some say they can completely shut off all sensations except pleasure.
 あいつらがモルゲン周辺で何をしていたのか気になるが・・・。\n地道に周囲を調査していくほかはないかもしれんな。,I'm curious about what they were doing around Morgen... But we might have no choice other than to investigate the surrounding area for ourselves.

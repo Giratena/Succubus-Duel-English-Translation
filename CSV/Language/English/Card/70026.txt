@@ -88,6 +88,7 @@ F26_paizuriAnime,
 魔法カード{使用カード}を発動！\n自分フィールド上のすべてのモンスターを守備にし、\nさらに最大HPを500ポイントアップするわ！,I activate the Magic Card {使用カード}; putting all monsters on my side of the field in defense position and increasing their maximum HP by 500 points!
 魔法カード{使用カード}を発動！\n自分フィールド上のすべてのモンスターを守備にし、\nさらに最大HPを300ポイントアップするわ！,I activate the Magic Card {使用カード}; putting all monsters on my side of the field in defense position and increasing their maximum HP by 300 points!
 魔法カード{使用カード}を発動！\n自分のモンスターをすべて守備にし、\nさらに最大HPを300ポイントアップ！,I activate the Magic Card {使用カード}! It puts all my monsters in defense position and increases their maximum HP by 300!
+魔法カード{使用カード}を発動！\n自分のモンスターをすべて守備にし、\nさらに最大HPを500ポイントアップ！,I activate the Magic Card {使用カード}! It puts all my monsters in defense position and increases their maximum HP by 500!
 無駄よ！手札を1枚捨て罠カード{使用カード}を発動！\n相手の攻撃を無効にし、さらにその攻撃を\n相手フィールド上のすべてのモンスターに向けて跳ね返すわ！,It's useless! I discard one card from my hand to activate my Trap Card; {使用カード}! It negates your attack and reflects it back at all monsters on your side of the field!
 このとき、手札を1枚捨て罠カード{使用カード}を発動！\n攻撃を無効にし、さらに攻撃モンスターの攻撃力分だけ\n相手フィールド上のすべてのモンスターにダメージを与える！,In response; I'll discard one card from my hand to activate the Trap Card {使用カード}! It negates your attack and deals damage equal to the attacking monster's power to all monsters on your side of the field!
 装備魔法カード発動！{使用カード}！,Activate the equipment Spell Card! {使用カード}!
@@ -105,7 +106,7 @@ F26_paizuriAnime,
 ターン終了するわ。,I'll end my turn.
 これでわたしのターンは終わりよ。ターンエンド。,That's the last of it. End turn.
 おわりね。ターンエンド。,That's everything. End turn.
-エッチな攻撃はあまり好きじゃないのだけれど、\n男相手にはこれが一番効率いい以上、仕方ないわよね。\nほら、この胸で楽しませてあげる。,I don't really care for erotic attacks; but against men like you; they're the most efficient method available; huh? SO here; I'll pleasure you with my breasts.
+エッチな攻撃はあまり好きじゃないのだけれど、\n男相手にはこれが一番効率いい以上、仕方ないわよね。\nほら、この胸で楽しませてあげる。,I don't really care for erotic attacks; but against men like you; they're the most efficient method available; huh? So here; I'll pleasure you with my breasts.
 好きじゃないとはいっても、テクには自信あるのよ。\nこれでも学園一位。あらゆる技術はきちんと身に着けているわ。\n男子生徒なんて、服越しに押し付けるだけでもイかせられる…❤,Even if I would rather not use them; I'm still quite confident in my techniques. I am the top student at the academy; after all. I've taken the time to master every technique completely. Just pressing myself against male students through my clothes is enough to make them cum...❤
 この圧迫感、すごいでしょう？みっちり押し付けられて、\nその状態で左右交互にずりずり擦られて・・・❤\n強烈な快感と恍惚感で、すぐ骨抜きにしてあげるわ❤,The pressure around your cock feels incredible; don't you think? The way my breasts press down on you tightly and rub against you; back and forth...❤ This pleasure and ecstacy will make you putty in my hands~❤
 試合前におっぱい見てたし、\nあなたもどうせこれが好きなんでしょう？\nパイズリ、パイズリってバカみたい。,You were staring at my breasts before the match; so you obviously like this sort of thing; right? To be so obsessed with breasts... How stupid.
