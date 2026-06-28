@@ -47,12 +47,10 @@ Bランクにもなって、\nパイズリの約束だけでそんなになっ�
 決まったー！{主人公}選手の勝利です！,The match is decided! Victory goes to {主人公}!
 Bランクになってからもその実力は健在！\nジェミニ選手を速攻でねじ伏せました！\n無敗のルーキー、強い！強すぎる！,Even after reaching B-Rank; their skill is still second-to-none! They made short work of Gemini in record time! Our undefeated rookie is strong! Maybe even too strong!
 ジェミニ選手も、相手をあと一歩と言うところまで追い詰めましたが、\n惜しくも敗北！「無敗」の冠は伊達ではない！\n我らがルーキーが今回も接戦を制しました！,Gemini pushed their opponent to the brink; but ultimately fell short! That "undefeated" title isn't just for show! Our rookie claims another close victory!
-
 ジェミニ選手も健闘しましたが、無敗のルーキーが危なげなく勝利！\n昇格戦でメロディ選手を破ったその腕は、\nBランクの強敵たちにもいかんなく発揮されています！,Gemini may have fought well; but that didn't stop our undefeated rookie from securing yet another easy win! First they defeated Melody during their promotion match; and now they've toppled a powerful B-Rank cardmaster!
 このまま勝ち進んでいけば、史上初の、\n一大会でFランクから一気にAランク昇格という\n偉業の可能性も見えてきます！,At this rate; we might witness an unprecedented feat—a competitor rising from F-rank all the way to A-rank in a single tournament!
 これはロマンがありますね！次の試合が今からもう楽しみです！,Now that would be something special; don't you think? I'm already getting excited for the next match!
 ううっ・・・。つよぉ・・・。\n守護者としてやってきて、腕には自信があったんだけどなぁ。,Ugh... You're strong... And I was so confident in my abilities coming here as a guardian; too.
-
 わたしもあなたがAランクまで行っちゃうところ、\n見たくなってきちゃった。\n応援してるから、後の試合も頑張ってね。,You know; I think I'd like to see you reach A-rank; too. I'll be rooting for you; so do your best in the upcoming matches; OK?
 ・・・♪,...♪
 あ、それと試合前に言ってたこと、ほんとだから。\n闘技場の受付のところにいるからさ、あとで話しかけてね。,Oh; and that promise I made at the start of our match? I mean it. I'll be at the arena reception; so come talk to me later; OK?
