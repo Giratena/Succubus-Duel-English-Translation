@@ -1,7 +1,7 @@
 default,
 Cランクに昇格する権利を得た僕は、ギルドリングをCランクのものに変えてもらうため、ギルドを訪れていた。,After becoming eligible to become a C-rank cardmaster; I visited the guild in order to have my ring upgraded.
 ギルドに入ると受付さんがニコニコとした表情で僕を迎えてくれた。\nどうやら僕が勝ったという話をすでに誰かから聞いていたようだ。,The receptionist greeted me with a beaming smile as I entered the guild. She likely already heard about my victory from someone.
-{主人公}さん、おめでとうございます！\nCランクへの昇格戦も見事に勝ちましたね！,Congradulations on reaching C-rank; {主人公}! I heard you won your promotion match spectacularly! 
+{主人公}さん、おめでとうございます！\nCランクへの昇格戦も見事に勝ちましたね！,Congratulations on reaching C-rank; {主人公}! I heard you won your promotion match spectacularly! 
 本当はわたしも応援に行きたかったのですが、\n試合の日はお仕事の都合がつかなくて・・・・。\n{主人公}さんが活躍するところちゃんと見たかったです。,I really wanted to come cheer you on in person; but I had work that day and couldn't get away... I would have loved to see you in action; {主人公}.
 Fランクのころから活躍を見ているので、\nすっかりわたしも{主人公}さんのファンになっちゃいました。\nこの先、Cランクでの試合も頑張ってくださいね！,I've been keeping an eye on your progress ever since you were F-rank. You could say I've become quite the fan! I'm sure you'll have no trouble during your C-Rank matches as well!
 はい、勝ちまくります！,You bet! I'll win them all!
@@ -48,17 +48,17 @@ Cランクともなれば手練れ揃いですが、\n{主人公}さんならき
 ま、頑張りなさい。\nこの大会が終わるまでにランクアップしていれば、\nそれで間に合うはずよ。,Well; do your best. If you rank up before this tournament ends; then you'll definitely be ready.
 そう言うと、ポンと僕の肩を叩き、リーフさんは微笑んだ。師匠の師匠だけあって何だか頼もしい人だ。,With that; Leaf patted my shoulder and smiled. Being my mentor's mentor; she was quite a reassuring person.
 僕は「ありがとうございます！」と言っておじぎをすると、部屋を退出した。,I gave a bow; thanked her; then left the room.
-{主人公}さん、お疲れ様です。\nギルドマスターとのお話は終わりましたか？,I appreciate your efforts; {主人公};  Are you finished talking with the guild master?
+{主人公}さん、お疲れ様です。\nギルドマスターとのお話は終わりましたか？,I appreciate your efforts; {主人公}.  Are you finished talking with the guild master?
 ふふ、元々やる気に満ちた目でしたけど、\nなんだか更に闘志に燃えているように見えます。,Fufu; your eyes were already full of determination before; but now you look even more fired up!
 Cランクでの試合が楽しみですね！応援してます！,I'm looking forward to your C-rank matches! I'll be rooting for you!
 ランクがCランクにアップした！,Rank increased to C-rank!
 その日の夜。僕はまた昔の夢を見ていた。,That night; I had another dream...
 これは確か、村がサキュバスたちに襲撃される前、まだ村が平和だったときの記憶だ。,It was from before the succubi attacked our village—back when it was still peaceful.
 もうすぐ始まるお祭りにそなえて、二人で飾りを作っていた。子供だった僕たちはよく二人きりで留守番をしていたから、こういう手作業もよく二人でやったものだ。,We were making decorations together in preparation for the upcoming festival. Since we were children; the two of us often looked after the house alone; so we frequently did this kind of handiwork together.
-ふふ、お兄ちゃん、下手っぴだね。\nわたしより年上なのに、こういうのはわたしの方が上手♪\nほら見て、すごいでしょ！,Teehee; you're so clumsy Brother! Mine is made is far better than yours♪ Look at this; amazing right!?
+ふふ、お兄ちゃん、下手っぴだね。\nわたしより年上なのに、こういうのはわたしの方が上手♪\nほら見て、すごいでしょ！,Teehee; you're so clumsy Brother! I made mine far better than yours♪ Look at this; amazing right!?
 そう言って僕に出来た飾りを見せつける。僕はすごいねと言って、彼女の頭をなでてあげた。,She showed off the decoration she'd made. I told her it was amazing and patted her head.
 えへへ…。,Ehehe...
-ねえねえ、お兄ちゃん。\n「作る」って言えばさ、\nカードって、どうやってできているんだろうね？,Hey you know what Brother. Speaking of "making" things; I wonder how cards are created?
+ねえねえ、お兄ちゃん。\n「作る」って言えばさ、\nカードって、どうやってできているんだろうね？,Hey; you know what Brother? Speaking of "making" things; I wonder how cards are created?
 わたし不思議なんだ。カードはモンスターのお腹の中から出てきたり、\n古い遺跡から見つかったりするらしいけど…。\n昔の人やモンスターはカードを作ることができたのかな？,It's all so mysterious! Cards apparently come from inside monster bellies or are discovered in ancient ruins... Do you think cards really came from monsters and humans so long ago?
 ねえ、もしもカードを作ることができるのならね、\nわたし、お兄ちゃんとお父さんが使うカードを作りたい！\nわたしの作ったカードで、お兄ちゃんたちを助けるの！,Someday; I want to make cards for you and Dad to use! Then I can help you both with the cards I created!
 わたし、お父さんの子供なのに、全然カードが使えないから…。\nその分、カードのこといっぱい勉強して、\nお兄ちゃんたちと一緒に悪いモンスターと戦うんだ。,Even though our dad is a really strong cardmaster; I know I can't use cards at all... So instead; I'll study cards as much as I can so I can fight evil monsters alongside you!

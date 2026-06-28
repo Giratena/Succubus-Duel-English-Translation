@@ -3,7 +3,7 @@ default
 酒場へ行く(未実装),Go to the tavern (not implemented yet)
 学園へ行く(未実装),Go to the school (not implemented yet)
 牢屋へ行く,Go to the jail
-❤行商人の女の子の家,❤Trader girl's house
+❤行商人の女の子の家,Merchant Girl's house ❤
 メロディに会いに学園へ行く(未実装),Meet Melody at her school (not implemented yet)
 (特殊)地下通路へ行く,(Special) Go to the underground passage.
 見回りの兵士,Patrolling soldier
@@ -54,7 +54,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 やはり、そう簡単にはいかないのか…。ひとまず僕は受付さんにお礼をいい、受付さんがおすすめしてくれた本を読むことにした。,As I expected; it couldn't be that easy... I thanked the receptionist and decided to read the book she recommended.
 ふむふむ・・・・。,Hmmm...
 本によると、サキュバスには「無能力サキュバス」「下級サキュバス」「中級サキュバス」「上級サキュバス」の４種類がいて、無能力サキュバスはカードが使えないらしい。,According to the book; there are four types of succubi: impotent succubus; lower level succubus; intermediate succubus and advanced succubus. Impotent succubi cannot use cards.
-一般市民がサキュバスになると、この無能力サキュバスになることが多いようだ。逆にカードマスターがサキュバスになると、必ず下級以上のサキュバスになるとも書かれている。,When an ordinary citizen becomes a succubus; they are likely to become this impotent succubus. Conversely; it also states that when a cardmaster becomes a succubus; they always becomes a succubus of lower grade or higher.
+一般市民がサキュバスになると、この無能力サキュバスになることが多いようだ。逆にカードマスターがサキュバスになると、必ず下級以上のサキュバスになるとも書かれている。,When an ordinary citizen becomes a succubus; they are likely to become this impotent succubus. Conversely; it also states that when a cardmaster becomes a succubus; they always become a succubus of lower grade or higher.
 「無能力」といっても、カードが使えないだけでエナジードレインや魅了の力は持っているらしい。だいたいDランク相当の強さがあり、特に男性はランクに関係なく注意すべしと書いてあった。,Even though they are ‘impotent’; they are said to have the power of energy drain and charm; just not the ability to use cards. It was written that they are usually equivalent to D-rank; and that men in particular should be careful; regardless of rank.
 ・・・僕の妹は、カードが使えない普通の女の子だった。もしサキュバス化されているのなら、無能力サキュバスになっている可能性が一番高いのだろうか。,...My sister was a normal girl who couldn't use cards. If she has become a succubus; then maybe she became an impotent succubus?
 （これは・・・。）,(This is...)
@@ -85,7 +85,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 師匠との日々を思い出しているうちに、僕はいつの間にか寝てしまった。,I fell asleep before I knew it; reminiscing about my days with my mentor.
 もしも妹が生きていて、人間に戻すことができたら一緒に図書館に行こう…。,If my sister is alive and I can turn her back into a human; we can go to the library together...
 頭が良くて小難しいことが大好きだったから、きっと目を輝かせてくれるだろう。そんなことをぼんやりと夢に見ながら、次の日の朝を迎えたのだった。,She was smart and loved small details; so I'm sure she would have a twinkle in her eye. I woke up the next morning; remembering vaguely about such a dream.
-エイライラ先生の話を聞いた翌日。僕はさっそくギルド図書館に来ていた。,The day after I heard Eilaira's story. I immediately came to the Guild Library.
+エイライラ先生の話を聞いた翌日。僕はさっそくギルド図書館に来ていた。,The day after I heard Elaira's story. I immediately came to the Guild Library.
 （この間見つけた論文は確かこの辺のはずだ…。）,(I'm pretty sure the paper I found the other day was around here...)
 (あった！),(There it is!)
 僕は「サキュバス化の呪いの研究」の論文を手に取る。相変わらず言葉づかいが難しくて、何を書いているのか細かい部分は分からない。,I pick up the paper ‘A Study of the Succubusification Curse’. The wording is as difficult as ever; and I can't make out any of the details of what it says.
@@ -129,7 +129,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 僕はその日、遅くまで術の練習をしていた影響もあってか、ぐっすりと泥のように眠った。珍しく昔の夢を見ることもなかった。,I slept like a brick; probably because I had been practising the healing technique late into the night. Surprisingly; I did not have any dreams about the past.
 そうして晴れやかな気持ちで次の朝を迎えたのだった。,And so I awoke with a clear mind to start the morning.
 闘技場での試合のあと、宿屋に戻ると、部屋の中に師匠が来ていた。,After the arena match; I returned to the inn and found my mentor in the room.
-お、弟子、おかえり。\n試合後で疲れているところ悪いけど、\n今から城の方に行くわよ。,Oh; diciple; welcome back. I'm sorry to tell you; since you're tired after the match; but we're going to the castle now.
+お、弟子、おかえり。\n試合後で疲れているところ悪いけど、\n今から城の方に行くわよ。,Oh; disciple; welcome back. I'm sorry to tell you; since you're tired after the match; but we're going to the castle now.
 ・・・？,
 リーフ師匠、って言って分かるわよね。\nギルドマスターのリーフ師匠がいまからモルゲンを発って、\n転移陣を使って王都に戻るのよ。,Guildmaster Leaf; who I assume you know; is leaving Morgen now; and will return to King's Landing using the teleportation circle.
 わたしは弟子として見送りに行かないといけないわ。\nあなたも孫弟子なんだから、ついてきなさい。,As her disciple; I have to go and see her off. Since you are my disciple; you should follow me.
@@ -139,7 +139,7 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 ん、来たわね。,Hmm; here we are.
 いい機会だから、{主人公}、\nあなたとコノハに転移陣を見せておこうと思ってね。\n二人で見送りにくるように言ったのよ。,This is a good opportunity; {主人公}. I thought I'd show you and Konoha the teleportation circle. This is why I wanted you both to come and see me off.
 転移陣は遠く離れた場所を一瞬でつなぐ特別な魔法陣。\n非常に便利なものだけれど、動かすのに莫大な魔力がいるの。\nあれを見なさい。,The teleportation circle is a special magic circle that connects distant places in an instant. They are very useful; but require a great deal of magic power to work. Look at that.
-そう言ってリーフさんは部屋に置かれた１つの巨大なクリスタルを指さした。淡く青色に光るそれは、天井につくほど高く、腕を回しても抱えきれないほどの大きさだった。,Leaf pointed to a huge glowing a pale blue crystal in the room. It was so tall that it reached the ceiling; and would be too big to hold; let alone putting your arms around it.
+そう言ってリーフさんは部屋に置かれた１つの巨大なクリスタルを指さした。淡く青色に光るそれは、天井につくほど高く、腕を回しても抱えきれないほどの大きさだった。,Leaf pointed to a huge glowing pale blue crystal in the room. It was so tall that it reached the ceiling; and would be too big to hold; let alone putting your arms around it.
 あのクリスタルは王国に２つしかない特別な魔結晶よ。\n１つはここモルゲンに、もう１つは王都に置かれているわ。,That crystal is one of only two special magic crystals in the kingdom. One is located here in Morgen. The other in the royal capital.
 街で人々が魔力を使うたび、\nあの中にほんのわずかずつ魔力が貯められていく。\nそうやって徴収した魔力がこの転移陣を動かすの。,Every time people use magic in the city; a tiny amount is stored in it. The magic power collected in this way powers the circle.
 それに加えてCランクマスター20人程度で術式を調整して、\nようやく人を４～５人送ることができるわ。\nね、なかなかに効率が悪いでしょう？,Add to that about 20 C-rank masters; adjusting the technique; and you can finally send four or five people. It's quite inefficient; isn't it?
@@ -147,14 +147,14 @@ Dランク以降では闘技場で対戦をすることでストーリーが進�
 それをわざわざ二人に見せた意味が分かる？,Do you know what it means to go to the trouble of showing that to two people?
 あなたたちには見せる価値があると思った。\nつまり、Aランクに上がってこれると思ったってことよ。,I thought it worthwhile to show you; since I have a feeling you will both become A-rank.
 ・・・！,
-コノハもあなたも、Bランクに甘んじず、切磋琢磨しなさい。\nあなたたちと一緒に転移陣を使える日を待っているわ。,You and Konoha should not settle for B-rank; and keep working hard to improve yourselves. I'm waiting for the day when I can use the teleportation circle with you guys. (translate check this)
+コノハもあなたも、Bランクに甘んじず、切磋琢磨しなさい。\nあなたたちと一緒に転移陣を使える日を待っているわ。,You and Konoha should not settle for B-rank; and keep working hard to improve yourselves. I'm waiting for the day when I can use the teleportation circle with you guys.
 それじゃあね。次は魔族領への侵攻作戦で会いましょう。,See you then. The next time we meet will be on the invasion mission to the demon territory.
 そういうとリーフさんは転移陣の中心へと進んだ。周囲に控えていた魔術師たちが、転移陣に魔力を注ぎ込んでいく。,Having said that; Leaf proceeded to the centre of the teleportation circle. The cardmasters who had been waiting around her poured their magical power into the teleportation circle.
 それに呼応するようにクリスタルから魔力がほとばしり始める。はた目から見ても分かるほど、強大な魔力だ。バチバチと光がはじけるような音がし、そして。,In response; magic begins to pour out of the crystal. The magic is so powerful that it can be seen from the outside. There is a sound like a burst of thunder; and then...
 一瞬の光とともに、リーフさんの姿は消えていた。この瞬間に、王都に移動してしまったのか・・・。なんとすごい魔法だろう。,With a flash of light; Leaf disappeared. In an instant; she has been moved to the royal capital... What an amazing piece of magic.
-ふぅ、ああいう場所はちょっと緊張するわ。\nそれにしても、いいもの見せてもらったわね。\n転移陣なんてめったに見れるものじゃないわよ。,Phew; places like that make me a bit nervous. Still; it's a nice thing to see. It's not every day you get to see a teleporation circle.
+ふぅ、ああいう場所はちょっと緊張するわ。\nそれにしても、いいもの見せてもらったわね。\n転移陣なんてめったに見れるものじゃないわよ。,Phew; places like that make me a bit nervous. Still; it's a nice thing to see. It's not every day you get to see a teleportation circle.
 そうなんですか？,Really?
-そうよ。考えてみなさい。\n転移陣って要するに、\nこちらの城へ直行できる抜け道みたいなものでしょう？,Yes. Think about it. A teleporation circle is; in essence; like a loophole that leads directly to our castle; isn't it?
+そうよ。考えてみなさい。\n転移陣って要するに、\nこちらの城へ直行できる抜け道みたいなものでしょう？,Yes. Think about it. A teleportation circle is; in essence; like a loophole that leads directly to our castle; isn't it?
 万が一悪用されれば、城がすぐに落とされてしまうかもしれない。\nだから許可がないと「転移の間」に入ることもできないし、,If it were to be abused; the castle could be quickly brought down. So you can't even enter the ‘transition room’ without permission.
 利用するときも、転移元と転移先の両側で、\nお互いにどこにつなぐかを一致させたうえで、\n大量の魔力を込め続けてやっと動かせるようになっているの。,When using it; both the source and destination sides have to agree on when to connect to each other; and then they have to keep putting large amounts of magic power into it.
 なるほど。転移陣というと便利な道具だとしか思わなかったが、同時に悪用されたら非常に危険なものでもあるのか。,I see. I only thought of the teleportation circle as a useful tool; but at the same time it can be very dangerous if misused.

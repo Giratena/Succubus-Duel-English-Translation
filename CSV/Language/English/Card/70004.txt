@@ -27,8 +27,8 @@ default,
 {使用カード}で味方の攻撃力を高めます！,I'm going to increase the power of my allies with the card {使用カード}!
 {使用カード}を発動！味方全体の攻撃力アップさせます！,{使用カード}; activate! Increase the attack power of all ally monsters!
 味方のモンスターを強化します！{使用カード}を発動！,I'm going to strengthen my monsters! {使用カード}; activate!
-{使用カード}を発動！デッキから虫タイプのモンスターを2枚手札に加えます！,{使用カード}; activate! I'm going to add 2 Insect-type monsters from my deck to my hand!
-{使用カード}を発動です！植物がいるので虫モンスターを2枚手札に加えます。,{使用カード} activates! Since I have a Plant; I can add two Insect monsters to my hand.
+{使用カード}を発動！デッキから虫タイプのモンスターを2枚手札に加えます！,{使用カード}; activate! I may add up to 2 Insect-type monsters from my deck to my hand!
+{使用カード}を発動です！植物がいるので虫モンスターを2枚手札に加えます。,{使用カード} activates! Since I have a Plant; I can add up to two Insect monsters to my hand.
 {使用カード}を発動！デッキから虫タイプのモンスターを1枚手札に加えます！,{使用カード}; activate! I add one Insect-type monster from my deck to my hand!
 {使用カード}を発動です！デッキから虫モンスターを手札に加えます。,{使用カード} activates! I add an Insect monster from my deck to my hand.
 装備魔法カード発動！{使用カード}！,Magic card; activate! {使用カード}!

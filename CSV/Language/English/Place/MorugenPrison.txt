@@ -11,7 +11,7 @@ Place/MorugenPrison,Place / Morgen Prison
 街へ戻る,Return to the City
 おや、無敗のルーキーじゃないか。\n今日は監獄の見学か？,Oh; if it isn't The Undefeated Rookie. Are you here for a tour of the prison today?
 お前のような強いマスターが巡回すれば、\n犯罪者どもに対していい威圧になるだろう。\nわたしの目の届く範囲であれば、好きに見て回るといい。,Having a strong cardmaster such as yourself around would probably keep the criminals in check. Feel free to look around as much as you like; just don't stray too far.
-エイライラ先生とお前たちが連れてきたサキュバスだが、\nなかなか口を割りそうにない。,About that succubus that Eilaira and you guys brought in; it doesn't seem like she'll be talking anytime soon.
+エイライラ先生とお前たちが連れてきたサキュバスだが、\nなかなか口を割りそうにない。,About that succubus that Elaira and you guys brought in; it doesn't seem like she'll be talking anytime soon.
 軽薄そうに見えて、サキュバスは女王に絶対の忠誠を誓っている。\n尋問で何かを聞き出すのはかなり難しそうだ。,It'll likely be quite difficult to get anything at all out of her. She may look carefree; but all succubi pledge absolute loyalty to their queen.
 そのうえサキュバスたちは痛みを一切感じないように、\n体の感覚を調整できるらしい。快楽以外の感覚を\n一切遮断してしまえるのだそうだ。,Not only that; but succubi can apparently adjust their senses so they don't feel any pain at all. Some say they can completely shut off all sensations except pleasure.
 あいつらがモルゲン周辺で何をしていたのか気になるが・・・。\n地道に周囲を調査していくほかはないかもしれんな。,I'm curious about what they were doing around Morgen... But we might have no choice other than to investigate the surrounding area for ourselves.
@@ -124,7 +124,7 @@ Place/MorugenPrison,Place / Morgen Prison
 コノハちゃん、弟子くんの手前明るく振舞っていたけれど、\nわたしを見てすごく悲しそうな目をしていたわ。\nそれを見てたら目が覚めちゃった。,Your master was so bright and cheerful when she was talking to you; but when she looked at me; there was a sadness in her eyes. When I saw that; I couldn't help but wake up to reality.
 誰かを真剣に悲しませたいわけじゃないの。\nわたしみたいな生きる価値のない人間は、\n悪人にでも頼られたらうれしいけれど、やっぱりそれじゃダメね。,I never really wanted to make anyone sad. While it made me happy having those bad guys rely on someone worthless like me; I know now it wasn't right.
 いつか鉱山の町の人たちにも謝りに行かないとね。\nカードを使って２～３か月タダ働きして、\n盗っちゃった分を償おうと思うわ。,I'll have to go apologize to the people of the mining town someday. I think I'll work for free for 2-3 months using my cards; just to make up for what I stole.
-わたし、使うカードがゾンビとかそういうのでしょう？\nわりと気味悪がられることが多くて、\n特に子供のころなんて同い年の子は誰も寄って来なかったわ。,You know how the cards I use are zombies and things like that? People usually find it pretty creepy; especially when I was a child. None of the kids my age would come anywhere near me.
+わたし、使うカードがゾンビとかそういうのでしょう？\nわりと気味悪がられることが多くて、\n特に子供のころなんて同い年の子は誰も寄って来なかったわ。,You know how the cards I use are zombies and things like that? People usually found it pretty creepy; even more so when I was a child. None of the kids my age would come anywhere near me.
 ちょうどそのころ、疫病が流行ったことがあってね。\nその原因がわたしじゃないかなんて変な噂が流れたりして、\nいろいろとしんどかったなぁ。,Around that same time; there was an epidemic going around. Strange rumors spread that I might be the cause. Going through that... It was really hard.
 だってわたしのお父さんとお母さんも疫病で死んでるのよ？\nそれなのにそんなこと言われて、\n毎日孤児院で泣いていたの。,I mean; my own father and mother died from that epidemic too; you know? And yet they still said such awful things about me. I cried every day at that damn orphanage.
 でもコノハちゃんはね。そんなわたしを守ってくれた。\nまっすぐにわたしの手を取って、助けてくれた。\nかっこよかったなぁ。,You know the one silver lining through all of it? Konoha. She protected me back then. She took my hand without hesitation and helped me through it. She was so cool...
@@ -155,4 +155,3 @@ Place/MorugenPrison,Place / Morgen Prison
 その時間にここに来れば、\nあんたにもっと「エロいこと」が待ってるかもよ❤,If you visit me then; something more 'naughty' might be waiting for you.❤
 あんたあのヤツメに信頼してもらってるんでしょ？\n休憩時間中でも入るぐらいできるよね～。,You're pretty trusted by Yatsume; aren't you? You should be able to get in even during break time; right?~❤
 ふふふ❤それじゃまた来るのを待ってるから。\nあ、そうそう、エロいことしてほしいなら「差し入れ」持ってきてね。\nんじゃまたねー❤,Fufu.❤ I'll be waiting for you. Oh; that's right; if you want those 'naughty things' to happen; make sure to bring some gifts; okay? See you later~❤
-

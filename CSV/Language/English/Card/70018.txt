@@ -42,7 +42,7 @@ F18_paizuriAnime,
 決着！{主人公}選手の勝利です！,The match is decided! The winner is {主人公}!
 Cランクに入ってからも連勝伝説は続くのか！今回も速攻での勝利！\n圧倒的実力で勝利の記録を重ねていく！,Can this legend continue his winning streak as he steps into C-rank? Today he claimed another swift victory without even breaking a sweat! Through his amazing talent; he continues to stack victory after victory!
 ネネコ選手もCランクとしての意地を見せた。\nしかし、最後に勝ったのは{主人公}選手！\nCランクに入ってからも連勝伝説は続く！続く！,While Neneko demonstrated her own determination as a C-rank player; it was {主人公} who ultimately claimed this victory! The winning streak continues even after entering C-rank!
-Cランクに入ってからも連勝伝説は続くのか！\n今回も危なげなく勝利しました！\n確固とした実力で、勝利の記録を重ねていく！,Can this legend continue his winning streak as he steps into C-rank? This time; victory was claimed without any trouble! The promising rookie keeps adding to his victory record with solid skills!
+Cランクに入ってからも連勝伝説は続くのか！\n今回も危なげなく勝利しました！\n確固とした実力で、勝利の記録を重ねていく！,Can this legend continue his winning streak as he steps into C-rank? This time; victory was claimed without any trouble! the Promising Rookie keeps adding to his victory record with solid skills!
 うにゅ～…。ほんとに強いのにゃ…。,Nyowch... You're really strong; nya...
 弟が真似しないようにと思ってたけれど、\nこれだけ強いと文句も言えないのにゃ。\nほんとたいしたもんだにゃ。,I was worried my little brother would try to emewlate you; but with strength like this; I can't even complain; nya. You're really something else.
 このままじゃお姉ちゃんとして示しがつかないし、\nいつかお前には勝つのにゃ！\n首を洗って待ってるにゃあ！,At this rate; I can't set a good example as an older sister; so I'll definitely beat you one day; nya! Just wait and see!

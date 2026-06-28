@@ -1,5 +1,7 @@
 default
 ドワン,Dwan
+闘技場に挑戦する(必要ランクポイント:{$needPoint}),Challenge the Arena (Required Rank Points: {$needPoint})
+今はやめておく,Not right now
 曲がったことは嫌いな心根のまっすぐなマスター。高い突貫力を誇るがあまり持久力がない。,A straightforward cardmaster who hates underhanded tactics. He favors fast attacks; but he can't keep them up for long. 
 よお、闘技場ぶりだな。\n今日は街で修行のバトルか？,Hey; it's been a while since I saw you at the arena! Are you out training in town today?
 それなら俺とやろうぜ！\n俺のドリルデッキでお前の守りを貫いてやるよ！,If so; then let's have a match! I'll pierce your defenses with my drill deck!

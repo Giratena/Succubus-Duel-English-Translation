@@ -9,7 +9,8 @@ F27_paizuriAnime,
 OPイベントをスキップしますか？,Would you like to skip the opening scene?
 はい,Yes
 OPをスキップ,Skip the opening
-勝利後までスキップ,Skip to before the fight
+勝利後までスキップ,Skip to after the fight
+いいえ,No
 時刻は夕暮れ時、もうすぐ師匠と約束した時間だ。,It's dusk. Nearly time to meet with my master; as promised.
 師匠との待ち合わせ場所に向かって街を歩いていると、遠くにエルルさんが見えた。,As I walked towards the place where I would meet with her; I saw Elulu off in the distance. 
 やっほー、{主人公}。\nどうしたの？ギルドに何か用事？,Yoohoo; {主人公}. What's up? Do you have business at the guild?
@@ -106,7 +107,7 @@ OPをスキップ,Skip the opening
 僕はエルルさんのそばによると、彼女の下腹部に手を当てた。一度だけ、ゆっくりと息を吐き、ネクロさんと練習したときの感覚を思い出す。,I approached Elulu and placed my hand on her lower abdomen. I took one slow breath; and reflected back on what I felt from when I practiced with Necro.
 ああんっ❤\nなにこれ、んうっ❤あんっ❤ああんっ❤,Aahhn~❤ What is this; nnh~❤ Ahhn~❤ Aaahhn~❤
 エルルさんの体がビクンと跳ねる。なまめかしい声が洞窟に響き、つい余計なことを考えそうになるが、集中しないといけない。,Elulu's body jerked and twitched; moaning sexually. Her sensual voice echoed through the cave; making it hard not to let my mind wander; but I needed to concentrate.
-彼女の魔力の核に僕の魔力を合わせて、ゆっくり、ゆっくり、上に向かって引き抜いていく。彼女の体から紫色の玉のような光が少しづつ顔を出し、じわじわと体の中から取り出されていく。,I aligned my own energy with the core of her magical power; and carefully began to pull upwards. A purple orb-shaped light gradually  to emerged from her body; and lifted out little by little.
+彼女の魔力の核に僕の魔力を合わせて、ゆっくり、ゆっくり、上に向かって引き抜いていく。彼女の体から紫色の玉のような光が少しづつ顔を出し、じわじわと体の中から取り出されていく。,I aligned my own energy with the core of her magical power; and carefully began to pull upwards. A purple orb-shaped light gradually began to emerge from her body; and lifted out little by little.
 んんっ❤やめて、{主人公}…❤\nそれ以上されたら、わたし、おかしくなる…❤んあっ❤\n{主人公}、{主人公}…❤,Nnnh~❤ Stop; {主人公}...❤ If you keep going; I'll go crazy...❤ Nnah~❤ {主人公}; {主人公}...❤
 (何も聞いちゃダメだ。集中して、練習通りに…！),(No matter what she says; I can't listen. Focus; just like I practiced...!)
 （あううっ…❤なんで僕はこんな大事なときに…❤）,(Auuuh...❤ Why... am I feeling this way at such a critical moment...❤)
@@ -513,7 +514,7 @@ OPをスキップ,Skip the opening
 （相手はサキュバスなんだ、好きになったりエッチな気分になったら\nだめなのに・・・❤はひぃっ・・・❤\nああ、エルルさん・・・❤）,(She's a succubus; I can't let myself fall for her or get aroused; but...❤ Damn she's so sexy...❤ Ahh; Elulu...❤)
 くす❤いい顔ね❤\n快楽にさえ流されなければ、\nあなたの実力ならきっとわたしにだって勝てたでしょうに❤,*Giggle*.❤ What a lovely expression.❤ If you hadn't let yourself get swept up in pleasure; with your skills; I'm sure you could have even beaten me.❤
 {主人公}さん！ダメです、正気を取り戻して！,{主人公}! No; you have to snap out of it!
-くっ、無敗のルーキーが負けちゃうなんて…。\nサキュバスと戦うのは怖いけど…、これでもくらいなさいっ！\n灼熱の魔法よ、敵を焼き尽くせ！「フレイム」を発動！,Tch; It can't be... The undefeated rookie is losing...! I'm scared to fight a succubus; but... take this! Scorching magic; incinerate my enemy! Spell card activate! "Flame"!
+くっ、無敗のルーキーが負けちゃうなんて…。\nサキュバスと戦うのは怖いけど…、これでもくらいなさいっ！\n灼熱の魔法よ、敵を焼き尽くせ！「フレイム」を発動！,Tch; It can't be... The Undefeated Rookie is losing...! I'm scared to fight a succubus; but... take this! Scorching magic; incinerate my enemy! Spell card activate! "Flame"!
 ふふ、他愛ない攻撃ね❤,Fufu; such a feeble attack.❤
 エルルさんに向かって火の玉の魔法が飛び掛かる、しかしエルルさんはまるでそれを意に介さないかのように、片手を横に突き出すだけで火の玉を受け止めてしまった。,The fireball spell flew toward Elulu; but she didn't seem bothered by it at all—she simply held out one hand to the side and caught the attack.
 手に当たった火の玉はそのまま、ぷすぷすとくすぶったあと、影に飲み込まれてしまう。,The fireball that hit her hand smolders and fizzles out before being swallowed by shadows.

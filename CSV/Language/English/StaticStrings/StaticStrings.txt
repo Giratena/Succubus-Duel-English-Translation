@@ -58,11 +58,14 @@ Claw,
 キャンセル,Cancel
 バトル終了！,Battle End!
 プレイヤーの勝利！！,Player Wins!!
+ターン終了,End turn
+ターン\n終了,End turn
+攻,Atk
 相手プレイヤーの勝利！！,Opponent Player Wins!!
 手札上限枚数をオーバーしています。,The maximum number of cards in hand has been exceeded.
-カードの効果を発動しますか？,Would you like to activate this card's effect?
-効果発動,Activation Effect
-カードを連鎖発動しますか？,Do you want to chain activate this card?
+カードの効果を発動しますか？,Activate this card's effect?
+効果発動,Activate
+カードを連鎖発動しますか？,Chain activate this card?
 カードの生成回数は残り{x}回です。,The number of times this card can be generated is {x}.
 {A}が状態異常のせいで勝手に攻撃をしてしまう！,{A} attacks on its own due to an abnormal state!
 {A}が間に立って{B}を守っている！,{A} stands in to protect {B}!
@@ -114,8 +117,11 @@ Claw,
 絞り込み,Optimize
 並び替え,Reorganize
 保存しました。,Save Complete
-タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. /nThe deck you are currently using has a border around it.
+タップすることで使用デッキを変更できます。\n使用中のデッキには枠が表示されます。,Tap the deck you would like to use. The deck you are currently using has a border around it.
 デッキ名を編集します。,Change the deck name.
+設定しているマーカーが点灯します。,Lights that you can use to identify your deck.
+操作説明,Quick Guide
+構築画面へ移動します。,Go to the deck building screen.
 闇属性,Darkness
 水属性,Water
 風属性,Wind
@@ -130,16 +136,25 @@ Claw,
 悪魔,Demon
 獣,Beast
 植物,Plant
+昆虫,Insect
 爬虫類,Reptile
+妖精,Fairy
 スライム,Slime
 岩石,Rock
 スライス,Slime
+水棲,Aquatic
+天使,Angel
+アンデッド,Undead
 通常魔法,Spell
 永続魔法,Continuous Spell
 罠,Trap
 永続罠,Continuous Trap
 装備,Equipment
 ド口ー,Draw
+射精,Cum
+ダメージ,Damage
+速度－,Slower
+速度＋,Faster
 //These strings don't appear to work:
 一覧,Preview
 枚数:,Cards:

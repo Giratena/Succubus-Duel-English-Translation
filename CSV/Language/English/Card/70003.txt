@@ -5,7 +5,7 @@ Kiss01,
 導入イベントをスキップしますか？,Would you like to skip the opening event?
 よし、それじゃあ、ギルドのある隣街に向かおう！,Okay; time to head over to the nearby town; and the guild that's there!
 おや、守護者のお弟子さんじゃないですか。これからどちらへお出かけで？,Oh; you're the apprentice of this village's guardian; aren't you?
-・・・なるほど。ギルドのある隣街っていうと、モルゲンですね。,...So you're going to the guild at Morgen Town; huh? I see...
+・・・なるほど。ギルドのある隣街っていうと、モルゲンですね。,...So you're going to the guild in the town of Morgen; huh? I see...
 今から馬車でちょうどモルゲンへ行くんですが、よろしければご一緒いたしませんか？,I'm about to head there in my carriage. Would you like to hitch a ride with me?
 いいんですか？,You wouldn't mind?
 ええ。守護者のお弟子さんが一緒なら、もし魔物が出ても安心です。,Not at all. It'd be nice to have a guardian's apprentice if any monsters show up.
@@ -288,5 +288,5 @@ Kiss01,
 結構おいしかったし、どこかに連れ帰ってもよかったんですけど、ここは人間の国ですしね。,It was quite delicious. I would even consider taking you somewhere; but this is the human territory.
 さて、なくなりかけてたエナジーも補給できたし、さっさと隠れましょう。任務、任務っと・・・。,Now that I've replenished my dwindling mana; it's time to quickly hide. The mission... I mustn't forget the mission...
 こうして主人公は、最初の戦闘でスライム使いの淫魔に負け、命が干からびるまで精を吸い取られた。,And so; the protagonist lost in his first battle against the slime-using succubus; his life force sucked out until he dried up.
-妹を探すはずだった冒険は、自分よりもずっと年下の少女にあっけなく踏みにじられてその幕を閉じ、,The adventure he started to find his sister ended abruptly under the feet of a girl much younger than himsself.
+妹を探すはずだった冒険は、自分よりもずっと年下の少女にあっけなく踏みにじられてその幕を閉じ、,The adventure he started to find his sister ended abruptly under the feet of a girl much younger than himself.
 その後、彼の行方を知るものは誰もいなかったという。,And after that; no one knew what happened to him.
