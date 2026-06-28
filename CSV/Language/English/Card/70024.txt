@@ -2,25 +2,27 @@ default,
 ジェミニ,Gemini
 F24_paizuriAnime,
 　西の鉱山地帯の村で守護者をしているBランクカードマスター。ジェムカードを駆使して下級モンスターの強化から上級モンスターの召喚まで行い、隙が少ない戦い方をする。宝石や貴金属を見て育ったため、それらに愛着を持っているが、宝石は身近にあるものだったので、普通の女性が宝石のアクセサリーを求めてやまないような感覚は、いまいち理解できないと思っている。\n　胸が大きく、それを活かした攻撃が得意。彼女の胸は張りがあるというよりやわらかいタイプで、体を下に向ければ重力に素直に大きく動く。顔でも性器でも挟んでしまえばその柔らかさで完全に包み込んでしまい、あまりの快感で逃れることは困難である。彼女自身は、胸が重たくてめんどうくさいなと思っているが、男性が自分の胸でとろとろになってしまうのを見るのは好きである。,A B-rank cardmaster who serves as a guardian in a village within the western mining district. She utilizes Gem cards to enhance lower-level monsters and summon advanced monsters; employing a battle style with few openings. Having grown up surrounded by gems and precious metals; she holds deep affection for them; but since gemstones were commonplace in her environment; she can't quite understand the typical female obsession with gemstone accessories.\n　Her breasts are large; and she excels at attacks that take advantage of them. Her chest is more soft than firm; and they sway heavily when she leans forward. Whether it's someone's face or a man's genitals; their softness completely envelops whatever they embrace; making escape nearly impossible due to overwhelming pleasure. While she personally finds her heavy breasts bothersome; she enjoys watching men melt under their influence.
-あー、無敗のルーキーくんだ～❤\n今日は街でバトルをしているの？\n強いのにそれでも修行に励んで、えらいね～。,Ah; it's the undefeated rookie~❤ Are you in town today looking for a battle? You're already so strong; but you keep working just as hard in your training. You're quite the role model; aren't you?
+あー、無敗のルーキーくんだ～❤\n今日は街でバトルをしているの？\n強いのにそれでも修行に励んで、えらいね～。,Ah; it's the Undefeated Rookie~❤ Are you in town today looking for a battle? You're already so strong; but you keep working just as hard in your training. You're quite the role model; aren't you?
 わたしはちょっと日向ぼっこっていうか、\nあたたかくてぼーっとしてたの。\nちょうどあなたに会ったし、バトルでもしようかな～。,It's just so nice and warm today I find myself spacing out. I suppose you could say I'm doing a bit of sunbathing. Though; since we ran into each other; maybe I should be your opponent.
 太陽の光が当たると宝石ってキラキラしてきれいなんだよ？\nジェムたちの輝き、見せてあげるね～❤,The way gems sparkle in the sunlight is so pretty; don't you think? I'll give you a good showcase with my monsters; OK?❤
-あー、無敗のルーキーくんだ～。\nこの間は負けちゃったけれど、今日はわたしが勝つよ～。,Ah; It's the undefeated rookie. I may have ended up losing last time; but today; victory will be mine!
+あー、無敗のルーキーくんだ～。\nこの間は負けちゃったけれど、今日はわたしが勝つよ～。,Ah; It's the Undefeated Rookie. I may have ended up losing last time; but today; victory will be mine!
 わたしだってBランクマスターだし、\nそう何度も負けないんだから。\n宝石の魅力をたっぷり教えてあげるね～❤,I am a B-rank cardmaster after all; so I don't make a habit of losing. I'll make you fully realize exactly what makes gems so fascinating~❤
-あー、無敗のルーキーくんだ～❤\nこの間はわたしに負けれて気持ちよかった？\nくす、言われて思い出しちゃったんだ、顔真っ赤だね❤,Ah; it's the undefeated rookie~❤ Losing to me last time felt really good; huh? *Giggle* You must've figured out what I'm talking about; because your face turned bright red~❤
+闘技場に挑戦する(必要ランクポイント:{$needPoint}),Challenge the arena (Rank points required: {$needPoint})
+今はやめておく,Not right now
+あー、無敗のルーキーくんだ～❤\nこの間はわたしに負けれて気持ちよかった？\nくす、言われて思い出しちゃったんだ、顔真っ赤だね❤,Ah; it's the Undefeated Rookie~❤ Losing to me last time felt really good; huh? *Giggle* You must've figured out what I'm talking about; because your face turned bright red~❤
 おちんちんも大きくなってるし、\n今日もわたしが勝っちゃうかな❤\nおっぱいとか膝とかで気持ちよくイかせてあげるね❤,Your dick is already getting big; too. Maybe I'll win today as well...❤ My breasts; under my knee... I'll make you ejaculate nice and good; any way you want; OK?❤
-はうう・・・。やられちゃった。\nやっぱり無敗のルーキーくんは強いね。,Haah... Man you really got me. I guess the undefeated rookie title isn't just for show after all; huh?
+はうう・・・。やられちゃった。\nやっぱり無敗のルーキーくんは強いね。,Haah... Man you really got me. I guess the Undefeated Rookie title isn't just for show after all; huh?
 都合が合えばまた試合しようね～。\n守護者の仕事を休んでたくさんの人とバトルできるのは、\nこの祭りの時ぐらいだから、結構楽しいんだ～❤,If we get the chance; let's battle again; yeah...? This festival gave me a chance to take a break from guardian work to fight so many people; and it's been a lot of fun~❤
 うふふ❤今日はわたしの勝ちだったね～❤\n気持ちよさそうにこんなに出しちゃって、\nやっぱり男の子ってずっと我慢しつづけるのは難しいのかな～？,Ufufu~❤ Looks like victory's mine today~❤ With the way you're shooting it out; looks like you really enjoyed yourself... I guess boys really do have a hard time trying to hold it together; huh?
 都合が合えばまた試合しようね～❤\n守護者の仕事を休んでたくさんの人とバトルできるのは、\nこの祭りの時ぐらいだから、結構楽しいんだ～❤,If we get the chance; let's battle again; ok?❤ This festival gave me a chance to take a break from guardian work to fight so many people; and it's been a lot of fun~❤
 挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You don't have enough rank points to challenge this match. (Current points: {ランクポイント}) 
-さあ今日の注目の試合がやってきました！\nそう、無敗のルーキーの、Bランク初試合です！,And now; let's get today's event underway! That's right; it's time for the undefeated rookie's first B-rank match!
+さあ今日の注目の試合がやってきました！\nそう、無敗のルーキーの、Bランク初試合です！,And now; let's get today's event underway! That's right; it's time for the Undefeated Rookie's first B-rank match!
 Ｂランクといえば強豪ひしめく魔のランク。\n最上級モンスターが次々登場するド派手なバトルが繰り広げられます！\n果たしてそんな荒波を彼は乗り越えられるのか！,B-rank is said to be when the competition gets truly fierce. Spectacular battles unfold as top-level monsters appear one after another! Will he be able to overcome the rough seas ahead?
 Bランクの壁を突破し、\nAランクにたどり着けるマスターはごくわずか！\nさあ、厳しい挑戦が幕を開けます！,Cardmasters who break through B-rank will at long last have a chance at the elusive A-rank! Now then; let's see what kind of fierce challenge is in store!
 さてそんな彼の最初の対戦相手は、この人！\n西の鉱山地域で守護者を担当しているジェミニ選手だ！,Let's get this started! And now; for his first adversary... behold! The guardian in charge of the west mining region; it's Cardmaster Gemini!
 どうも～、よろしくね。,Heya~❤ Let's have a good match; OK?
 ジェミニ選手といえば宝石カードの使い手！\nきらめく宝石の力で味方や自身を強化し、\nさらに最上級モンスターの召喚も宝石の力でサポート！,Gemini is a Gem card specialist! Not only does she use them to strengthen herself and her allies; but the power of her glittering gems can also help her summon an extra powerful advanced-level monster!
-華やかな見た目とは裏腹に、かなり強力な彼女のデッキ、\n無敗のルーキーは太刀打ちできるのでしょうか！\n上級者同士のバトルから目が離せません！,Don’t be fooled by her boujee appearance. Her deck is a force to be rekoned with and will prove more than a challenge for our undefeated rookie! This is one high-class bout you won't want to miss!
+華やかな見た目とは裏腹に、かなり強力な彼女のデッキ、\n無敗のルーキーは太刀打ちできるのでしょうか！\n上級者同士のバトルから目が離せません！,Don’t be fooled by her boujee appearance. Her deck is a force to be rekoned with and will prove more than a challenge for our Undefeated Rookie! This is one high-class bout you won't want to miss!
 無敗のルーキーくん、\n噂で聞いたけど、あなたが西の村にいた盗賊たちを退治してくれたらしいね。\nありがと～。,Hey; Undefeated Rookie. I heard a rumor that you took care of the bandits at West Town. Thanks for that~❤
 あの村はわたしの管轄地域のひとつなの。\n例の侵攻作戦やら、モルゲンでの祭りやらで\nちょうど留守にしてたからさ、助かっちゃった。,That town just so happens to be part of my territory. I couldn't be there myself because of the invasion strategy meeting and the festival happening at Morgen; so you really saved my butt on that one.
 お礼に・・・。試合が終わった後、\n勝負関係なしにパイズリしてあげよっか❤,As a reward for your good deed... How 'bout I rub your cock between my boobs a little after the match? Win or lose~❤
@@ -45,9 +47,9 @@ Bランクの壁を突破し、\nAランクにたどり着けるマスターは�
 Bランクにもなって、\nパイズリの約束だけでそんなになっちゃうなんてなー❤\nわたし、あなたのこと少し心配になっちゃったよ。,Even after making it to B-rank; the promise of a boobjob has made you like this~❤ I'm starting to get concerned about you!
 ま、いいや。それじゃあさっそくはじめよっか。\nあなたはそこでボーっとしててね。\nわたしから近づいて、パ・イ・ズ・リ、してあげる❤,Well; not that I mind. Now then; shouldn't we get started? You can just space out; OK? I'll come closer and give you a nice... Ti~tty~fuck~❤
 決まったー！{主人公}選手の勝利です！,The match is decided! Victory goes to {主人公}!
-Bランクになってからもその実力は健在！\nジェミニ選手を速攻でねじ伏せました！\n無敗のルーキー、強い！強すぎる！,Even after reaching B-Rank; their skill is still second-to-none! They made short work of Gemini in record time! Our undefeated rookie is strong! Maybe even too strong!
+Bランクになってからもその実力は健在！\nジェミニ選手を速攻でねじ伏せました！\n無敗のルーキー、強い！強すぎる！,Even after reaching B-Rank; their skill is still second-to-none! They made short work of Gemini in record time! Our Undefeated Rookie is strong! Maybe even too strong!
 ジェミニ選手も、相手をあと一歩と言うところまで追い詰めましたが、\n惜しくも敗北！「無敗」の冠は伊達ではない！\n我らがルーキーが今回も接戦を制しました！,Gemini pushed their opponent to the brink; but ultimately fell short! That "undefeated" title isn't just for show! Our rookie claims another close victory!
-ジェミニ選手も健闘しましたが、無敗のルーキーが危なげなく勝利！\n昇格戦でメロディ選手を破ったその腕は、\nBランクの強敵たちにもいかんなく発揮されています！,Gemini may have fought well; but that didn't stop our undefeated rookie from securing yet another easy win! First they defeated Melody during their promotion match; and now they've toppled a powerful B-Rank cardmaster!
+ジェミニ選手も健闘しましたが、無敗のルーキーが危なげなく勝利！\n昇格戦でメロディ選手を破ったその腕は、\nBランクの強敵たちにもいかんなく発揮されています！,Gemini may have fought well; but that didn't stop our Undefeated Rookie from securing yet another easy win! First they defeated Melody during their promotion match; and now they've toppled a powerful B-Rank cardmaster!
 このまま勝ち進んでいけば、史上初の、\n一大会でFランクから一気にAランク昇格という\n偉業の可能性も見えてきます！,At this rate; we might witness an unprecedented feat—a competitor rising from F-rank all the way to A-rank in a single tournament!
 これはロマンがありますね！次の試合が今からもう楽しみです！,Now that would be something special; don't you think? I'm already getting excited for the next match!
 ううっ・・・。つよぉ・・・。\n守護者としてやってきて、腕には自信があったんだけどなぁ。,Ugh... You're strong... And I was so confident in my abilities coming here as a guardian; too.
@@ -150,7 +152,7 @@ Bランクになってからもその実力は健在！\nジェミニ選手を�
 こうやって膝コキすると、おっぱいもたぷんたぷんって揺れるからぁ、\nおっぱいフェチの人も釘付けになっちゃうの❤\nほらほらぁ、谷間に見とれながら膝なんかで射精しちゃえ❤,When I give you a kneeJob like this; my breasts bounce and jiggle too; so even a boob-fetishists like you can't look away.❤ Come on; that's it. Stare at my cleavage and shoot your load as my knee rubs your dick~❤
 ううっ、がまんできない・・・❤\nおねがいします・・・❤,Ngh; I-I can't hold back anymore...❤ Please...❤
 あらら、試合が終わるまで我慢できなくて、\nいますぐ「お礼」してって頼んじゃうんだ❤\nくすくす❤すごく物欲しそうな目をしてる❤,Oh dear. Looks like you can't wait until after the match for your 'reward'; so you're begging for it right.❤ *Giggle*❤ You've got a hungry look in your eyes; too~❤
-そっかー、なんかごめんね？\nこんなに無敗のルーキーくんが我慢弱いなんて思ってなくて、\n試合前にエッチなこと言いすぎちゃったね❤,In that case; I suppose I do feel a little sorry... I didn't think the undefeated rookie would have such weak willpower. I just wanted to flirt with you a little~❤
+そっかー、なんかごめんね？\nこんなに無敗のルーキーくんが我慢弱いなんて思ってなくて、\n試合前にエッチなこと言いすぎちゃったね❤,In that case; I suppose I do feel a little sorry... I didn't think the Undefeated Rookie would have such weak willpower. I just wanted to flirt with you a little~❤
 何してほしいか言ってみて。\nわたしがあなたを興奮させすぎちゃったおわびに、\n代わりにうんと気持ちよくしてあげる❤,Alright. Tell me what you want. As an apology for getting you so excited; I'll make you feel really; really good instead~❤
 ううっ、気持ちよくしてください・・・❤\nおねがいします・・・❤,Ngh; please. Make me feel good...❤ Please...❤
 あは❤なに？わたしに攻撃するんじゃなくて、\nそんなお願いするために近寄ってきたの？,Aha~❤ What this? I thought you were coming over to attack me; but did you want to beg me for that instead?
@@ -176,7 +178,7 @@ Bランクになってからもその実力は健在！\nジェミニ選手を�
 はぁ、はぁ・・・❤ううっ、だめなのに・・・❤,Haah; haah...❤ Nnh; I shouldn't...❤
 あらら❤我慢できなくてオナニー始めちゃった❤\nまだ試合が始まったばっかりなのに、\n「お礼」が待ちきれないからって、興奮しすぎだよ～❤,What's this?❤ Looks like you couldn't hold back and started masturbating!❤ The match just started and you're already so excited for you 'reward' you just can't wait and couldn't help yourself~❤
 そんなにわたしのおっぱいに夢中になっちゃった？\n大きいし重たいし、自慢のおっぱいだけれど、\nこんなに理性が飛んじゃうなんてなー。,Did you get that enchanted by my tits? They're so big and heavy; and while I'm pretty proud of them; I didn't think they'd make you lose all reason like this.
-Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中になってシコシコし始めちゃうなんて、\nふふ、ちょっとうれしいかも❤,You're the undefeated rookie who's won every match up to B-rank; yet you instantly became obsessed with me and even started jerking off... Fufu; that actually makes me a little happy~❤
+Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中になってシコシコし始めちゃうなんて、\nふふ、ちょっとうれしいかも❤,You're the Undefeated Rookie who's won every match up to B-rank; yet you instantly became obsessed with me and even started jerking off... Fufu; that actually makes me a little happy~❤
 あらら❤我慢できなくてオナニー始めちゃった❤\nまだ試合が始まったばっかりなのに、\n全然我慢できないんだね❤,What's this?❤ Looks like you couldn't hold back and started masturbating!❤ The match just started; you know. You have no self-control at all; do you?❤
 わたしのおっぱい、じーって見てる❤\nこれがオカズかな？くすくす❤,You're staring at my boobs~❤ Are they your jerk-off material? *Giggle*❤
 あらら❤我慢できなくてオナニー始めちゃった❤\nせっかく頑張って戦ってたのに、\nもう我慢できなくなっちゃったの？,What's this?❤ Looks like you couldn't hold back and started masturbating!❤ You were trying so hard to fight it; but you just couldn't resist anymore; could you?
@@ -209,7 +211,7 @@ Bランクまで連勝してる無敗のルーキーくんが\n一瞬で夢中�
 あは、ホントにオナニーしに来ちゃった❤\nわたしに誘われるまま、マスター自らシコシコシコ❤,Aha; you really came to masturbate.❤ Here you are; the cardmaster himself; stroking away while falling for my temptations.❤
 え？わたしから誘ってきたんだろって？\nそうだよ～❤だってマスターくん、\nおちんちん押さえて苦しそうにしてるんだもん❤,Huh? You're saying I'm the one that told invited you to? Well; duh~❤ I mean you were just stanidn there holding your dick looking like you were in pain.❤
 あんまりかわいそうだから、\nオナニーしていいよ～って谷間アピールしちゃった❤\nチンポイライラさせちゃってごめんね？おわびに・・・❤,I felt bad for the poor little guy; so I figured I'd show off my cleavage and give you permission to touch yourself~❤ Sorry if I just made it worse. To show how sorry I am...❤
-谷間にお漏らしできて満足できた？\nふふ、無敗のルーキーくんはただのおっぱい好きの男の子だったね～❤\nくすくす❤,Were you satisfied getting to spill your load between my breasts? Fufu; looks like the undefeated rookie was just a breast-obsessed little boy after all~❤ *Giggle*❤
+谷間にお漏らしできて満足できた？\nふふ、無敗のルーキーくんはただのおっぱい好きの男の子だったね～❤\nくすくす❤,Were you satisfied getting to spill your load between my breasts? Fufu; looks like the Undefeated Rookie was just a breast-obsessed little boy after all~❤ *Giggle*❤
 あん❤谷間の深いところに、熱いのがどくどく出てる❤\n重たいおっぱいに包み込まれて、中身を搾り取られちゃったね～❤\nくすくす❤,Ahn~❤ I can feel your hot load shooting out deep in my cleavage.❤ Looks like my heavy breasts managed to squeeze your little dick completely dry~❤ *Giggle*❤
 くすくす❤しこしこされて、お漏らししちゃった❤\nおっぱいに息を塞がれながらおちんちん扱かれるの、\n気持ちよかった？,*Giggle*❤ All it took were a few strokes and you just let it all out~❤ Did having your dick rubbed while my breasts smothered your face really feel that good?
 おっぱいから顔を話したら・・・。\nふふ、とっても蕩けた顔になってるね～❤\nすっかりわたしにメロメロにされちゃった❤,Now; lets just get your face out of my breasts... Fufu; your expression is totally melted~❤ You've fallen completely head-over-heels for me~❤
