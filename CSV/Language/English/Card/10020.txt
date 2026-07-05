@@ -1,6 +1,6 @@
 default,
 サキュバススナイパー,Succubus Sniper
-鋭い視線で男を釘付けにする狩人のサキュバス。矢に魅了の魔力を込めて飛ばすことができるほか、魔眼の使い手であり男と至近距離で見つめ合うことで、相手に強い恍惚感を与えることができる。,A succubus hunter who can immoblize men with her piercing gaze. In addition to her ability to fire arrows infused with charm magic; she can also make her male enemies feel immense sexual pleasure by staring into their eyes with her hypnotic gaze.
+鋭い視線で男を釘付けにする狩人のサキュバス。矢に魅了の魔力を込めて飛ばすことができるほか、魔眼の使い手であり男と至近距離で見つめ合うことで、相手に強い恍惚感を与えることができる。,A succubus hunter who can immobilize men with her piercing gaze. In addition to her ability to fire arrows infused with charm magic; she can also make her male enemies feel immense sexual pleasure by staring into their eyes with her hypnotic gaze.
 [1].このカードが召喚に成功したとき手札を1枚捨てて発動できる。「{%%10018}1体を自分フィールド上に特殊召喚する。,[1]. When this card is successfully Summoned; you may discard 1 card from your hand and Special Summon 1 "{%%10018}" onto your side of the field.
 [2].1ターンに1度、相手フィールド上のモンスター1体を選択し、手札を２枚捨てて発動できる。そのモンスターに「魅了」を付与する。,[2]. Once per turn; you may discard 2 cards from your hand to inflict "Charm" on a monster on your opponent's field.
 [1].このカードが召喚に成功したとき手札を1枚捨てて発動できる。「{%%10018}1体を自分フィールド上に特殊召喚する。\n[2].1ターンに1度、相手フィールド上のモンスター1体を選択し、手札を２枚捨てて発動できる。そのモンスターに「魅了」を付与する。,[1]. When this card is successfully Summoned; you may discard 1 card from your hand and Special Summon 1 "{%%10018}" onto your side of the field.\n[2]. Once per turn; you may discard 2 cards from your hand to inflict "Charm" on a monster on your opponent's field.
@@ -27,7 +27,7 @@ default,
 淫魔の柔肌パイズリ,Succubus's Soft Skin Paizuri
 淫魔の足技,Succubus Footwork
 なんでも,You decide
-胸で挟んでほしいのね❤\n男はほんと好きよね、女のおっぱい❤\nサキュバスにパイズリされて、さあ骨抜きになりなさい❤,So you want your dick between my breasts...❤ Men really love these; dont they? A womans boobs; I mean.❤ Now; lose your mind as I massage your dick with my breasts.❤
+胸で挟んでほしいのね❤\n男はほんと好きよね、女のおっぱい❤\nサキュバスにパイズリされて、さあ骨抜きになりなさい❤,So you want your dick between my breasts...❤ Men really love these; don't they? A woman's boobs; I mean.❤ Now; lose your mind as I massage your dick with my breasts.❤
 足でいじめてほしいの？\nあは、さすがは自分から降参しちゃうようなマゾね❤\nいいわ、わたしの足で腰砕けにしてあげる❤,So you want me to use my legs to tease you? Haha. As I'd expect from a weak-willed masochist. OK. I'll make you keel over with my leg.❤
 あはん❤胸がどろどろ❤\nサキュバスのパイズリはどうだったかしら、ってすっかりアヘ顔ね❤\n試験中にそんな顔晒してみっともないわ❤,Awh~❤ You got my breasts messy.❤ Did you like my Succubus Paizuri? You've got such a dopey expression on your face.❤
 ふふ、びくんびくんって激しく痙攣して\nそんなにわたしの足は気持ちよかった？\nサキュバスにいじめてもらえてよかったわね、マゾ豚くん❤,Fufu. Your dick is twitching and trembling violently. Did my leg feel that good? You really enjoy getting teased by succubi; don't you? Maso-piggy~❤
@@ -45,17 +45,17 @@ default,
 はひぃっ…❤,Aaahh...❤
 あはっ、ずいぶんたくさん出たわね。魅了されながらのオナニーは最高だったかしら？,Aha! You shot out a lot of semen~ Isn't masturbating while under my charm the best?
 それにしても、こう何度も自滅しちゃうなんて、すっかり病みつきになっちゃったみたいね。この先わたしに勝てるのかしら。くすくす❤,Be that as it may; after stroking your dick to me so many times it seems you've become totally addicted to it. I wonder if you'll be able to beat me in the future. *Giggle*❤
-マスター自ら敵にエナジーをささげて回復させて…。ふふ、男って本当にダメね。気持ちいいことには絶対に勝てないみたい。,The master himself offering mana to his enemy to heal them... Men really are hopeless; aren't they? They never seem to be able to win against pleasureble things.
-敵にエナジーをささげて回復させて、ふふ、男って本当にダメね。気持ちいいことには絶対に勝てないみたい。,Offering mana to an enemy to heal them... Men really are hopeless; aren't they? They never seem to be able to win against pleasureble things.
+マスター自ら敵にエナジーをささげて回復させて…。ふふ、男って本当にダメね。気持ちいいことには絶対に勝てないみたい。,The master himself offering mana to his enemy to heal them... Men really are hopeless; aren't they? They never seem to be able to win against pleasurable things.
+敵にエナジーをささげて回復させて、ふふ、男って本当にダメね。気持ちいいことには絶対に勝てないみたい。,Offering mana to an enemy to heal them... Men really are hopeless; aren't they? They never seem to be able to win against pleasurable things.
 他の人もわたしのところでオナニーしてみる？魅了しながら見下ろしてあげるわよ。くすくす❤,Would others like to try stroking their cock in front of me; too? I'll look down on you with my charming gaze. *Giggle*❤
 くすくす❤そっか、やっぱり他の男も自滅しちゃうんだ。,*Giggle*❤ I see... So another male decided to submit to me after all.
 誘惑されるまま自分からやってきて、魅了しながらオナニー見てほしいっておねだりしちゃう❤普通ならありえないと思うけど、マゾのあなたにとっては最高の状況なのよね？,Letting yourself be seduced; and begging me to watch you masturbate while charmed... No one would normally do that. But it makes sense for a masochist like you; right?
 ほら、言った通りにわたしの魔力であなたもおかしくしてあげる。,Here. As promised; I'll make you go crazy with my magic; too~
-どう？実際に魅了の魔眼を受けてみた感想は。頭がぼーっとして、エッチなことしか考えられないでしょ？わたしの命令がなければ体を動かすこともできないわよね。,Well? How does it feel to be under my magical gaze? Your mind feels so foggy you can't think about anything other then lewd things; right? You can't even move your body unless I command it~
+どう？実際に魅了の魔眼を受けてみた感想は。頭がぼーっとして、エッチなことしか考えられないでしょ？わたしの命令がなければ体を動かすこともできないわよね。,Well? How does it feel to be under my magical gaze? Your mind feels so foggy you can't think about anything other than lewd things; right? You can't even move your body unless I command it~
 その状態でオナニーしたらどうなるか…❤ふふふ、ほら早くオナニーを再開しなさい。これは命令よ。,If you start masturbating now; I wonder what will happen...❤ Fufu. Quickly now; continue your masturbation. That's an order~
 くすくす❤とーっても間抜けな顔。この快楽が味わいたくて、仲間を見捨ててオナニー始めちゃったのよね。魅了状態でシコシコし続けたら、脳みそ壊れちゃうかも。,*Giggle*❤ You look really stupid. You wanted to experience this feeling so much; you abandoned your friends and started masturbating~ If you keep stroking your dick while under my spell like that; your mind might break.
 あはっ、あなたもずいぶんたくさん出したわね。魅了されながらのオナニーは最高だったかしら？,Aha! You shot out a lot of semen; too~ Isn't masturbating while under my charm the best?
-次々に敵にエナジーをささげて回復させて、ふふ、男って本当にダメね。気持ちいいことには絶対に勝てないみたい。,Offering mana to their enemies one after the other to heal them... Men really are hopeless; aren't they? They never seem to be able to win against pleasureble things.
+次々に敵にエナジーをささげて回復させて、ふふ、男って本当にダメね。気持ちいいことには絶対に勝てないみたい。,Offering mana to their enemies one after the other to heal them... Men really are hopeless; aren't they? They never seem to be able to win against pleasurable things.
 うぐっ、やるわね、あなた…。,Ough! Damn; you actually did it...
 脚でいじめてあげたのに、それじゃ不満なのかしら。力を抜いてくれればすぐにでも天国に送ってあげるのに。,Even though I teased you with my legs; I guess you're still unsatisfied. And to think if you had just relaxed for a moment; I could have immediately taken you to heaven.
 服越しのパイズリじゃ満足できない？胸より脚の方がお好みかしら？なら…。,Was having my clothed boobs around your dick not enough for you? Maybe you'd prefer my legs over my tits? Well then...
@@ -70,7 +70,7 @@ default,
 こうやって膝ですりすりされるだけで、声が出ちゃうほど気持ちいい。そんな状況で女の子に逆らえるはずがないの。,Just being rubbed by my knee like this feels so good that you can't help but moan. There's no way you can disobey a girl in a situation like this.
 ねえ、肌の感触はどう？サキュバスの肌だからしっとりして吸い付くみたいでしょ？すりすりされてたまらないわよね❤,Hey; how does my skin feel? It's succubus skin; so it's soft and smooth; right? You can't stand having it rub against your dick; right?❤
 はうぅう、気持ちよすぎてぇ…❤,Haah... It feels too good...!❤
-そりゃそうよ。一度女モンスターの快感を受け入れてしまったら、心のバリアがなくなるの。,That's right~ Once you accept the pleasure a female monster brings you; the barriers around your heart dissapear.
+そりゃそうよ。一度女モンスターの快感を受け入れてしまったら、心のバリアがなくなるの。,That's right~ Once you accept the pleasure a female monster brings you; the barriers around your heart dissappear.
 その状態で受ける快楽は通常の何倍も気持ちいい。例えば甘い息を吹きかけられながら、脚を数回震わせるだけで絶頂しちゃうぐらいに。,The pleasure you will feel in this state will be many times more intense than normal. For example; just a few shakes of my leg while blowing my sweet breath on you will be enough to make you climax.
 あっ、あひぃっ…❤ああっ…❤,Haah; ahiee...❤ Haah...❤
 くすくす❤かわいい喘ぎ声。膝で大事なところをいじめられて、そんな声出しちゃうんだ。,*Giggle*❤ Your moans are cute. To think having your important spot being teased causes you to let out moans like that.
@@ -81,8 +81,8 @@ default,
 そのまま快楽に身をゆだねなさい。あなたも夢見心地のまま吸い取ってあげる❤,Give up and submit to my pleasures. I'll drain your mana while your mind daydreams about sexy pleasures~
 仲間がこうやって搾り尽くされるのを見て、自分もやられてみたいなぁって心のどこかで思っていたんでしょう？,Somewhere in the back of your mind; you saw your friends getting squeezed like this; and you wished you could get squeezed too; right? 
 欲望に負けた状態で受ける快楽は通常の何倍も気持ちいい。例えば甘い息を吹きかけられながら、脚を数回震わせるだけで絶頂しちゃうぐらいに。,The pleasure that one receives in a state of lust is many times more intense than usual. For example; just a few shakes of my leg while blowing my sweet breath on you will be enough to make you climax.
-わたしたちの勝ちね。オナニーなんかで試験に落ちて、恥ずかしくないのかしら。くすくす❤,Looks like this is our win. I wonder if you're embarassed for failing the exam from something as pathetic as jerking off? *Giggle*❤
-脚で気持ちよくされてイっちゃったわね。くすくす❤マゾな男は簡単で助かるわ。,I guess You ended up cumming after I made you feel good with my legs. *Giggle*❤ Masochistic men are so easy; it saves me a lot of trouble.
+わたしたちの勝ちね。オナニーなんかで試験に落ちて、恥ずかしくないのかしら。くすくす❤,Looks like this is our win. I wonder if you're embarrassed for failing the exam from something as pathetic as jerking off? *Giggle*❤
+脚で気持ちよくされてイっちゃったわね。くすくす❤マゾな男は簡単で助かるわ。,I guess you ended up cumming after I made you feel good with my legs. *Giggle*❤ Masochistic men are so easy; it saves me a lot of trouble.
 あは、服にこんなにかけて、パイズリ、ずいぶんと気持ちよかったみたいね。これでわたしたちの勝ち。あっけなかったわ。,Aha! It seems you really enjoyed having my boobs around your dick. This proves our victory; and it didn't even take that long.
 昇格試験を受け、試験官が使う女性モンスターに敗れた僕は、床に膝をついて女性モンスターに見下ろされていた。,After taking the promotion test and being defeated by the card used by the examiner; I was kneeling on the floor with the female monster looking down on me. 
 ま、初心者が相手なら順当な結果ね。,Well; since you're just a beginner; this outcome does make sense.
@@ -106,6 +106,6 @@ default,
 あぐぅあっ、あああっ…❤むりぃ、気持ちよすぎてぇっ…❤,Aaaoogh; ahh...❤ O-Oh... It feels so good I can't...❤
 あへぇ…❤,Ahhh...❤
 はい、これでおしまい。こんなにたくさん出して、すっかり脚がべとべとよ。うふふ❤,And that's that. Shooting out so much like this has caused my legs to get completely drenched. Ufufu.❤
-あなたのエナジーはわたしの大事な目的のために使わせてもらうわ。,I'll make sure the mana you've given me helps me achieve my ulimate goal~
-いつかその目的が叶ったときに、あなたのこと搾り尽くしてあげる。楽しみにしてなさい。,Someday; when that goal is fufilled; I will make sure to milk you to exhaustion. Please look forward to it.
+あなたのエナジーはわたしの大事な目的のために使わせてもらうわ。,I'll make sure the mana you've given me helps me achieve my ultimate goal~
+いつかその目的が叶ったときに、あなたのこと搾り尽くしてあげる。楽しみにしてなさい。,Someday; when that goal is fulfilled; I will make sure to milk you to exhaustion. Please look forward to it.
 こうして僕は敗北後も魔力を搾り取られた。体が動かせるようになるまでしばらく休ませてもらってから、試験会場を後にしたのだった。,And so; I had all my mana milked out of me even after my defeat. I was allowed to rest for a while until I could move my body again; and then I left the examination hall. 
