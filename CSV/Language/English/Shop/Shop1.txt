@@ -1,5 +1,5 @@
 default
 いらっしゃい！何かほしいものはあるかい？,Welcome! Anything catch your eye?
-そのパックでいいの？,Is that the pack you want?
+そのパックでいいの？,Is this the pack you want?
 ありゃ。お金が足りないみたいだね。,Oh! It seems you don't have enough money.
 ありがとう。まだ何か買ってく？,Is there anything else I can help you with?
