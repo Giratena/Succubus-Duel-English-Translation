@@ -389,3 +389,5 @@ EランクからDランクに昇格するためには、\nクエストを１つ�
 こうして主人公は、探索中に遭遇したキノコ使いの淫魔に負け、エルルと共に連れ去られてしまった。,Thus; the protagonist lost to the mushroom-using succubus during the investigation. Both the protagonist and Elulu were then taken away.
 ギルドが異変に気付いた時には遅く、主人公たちの足取りは完全に途絶えてしまっていた。,When the guild realized something was wrong; it was too late. Their trail had completely disappeared.
 その後、彼らの姿を見た者はいない。主人公の妹を探す冒険はこうして終わりを迎えたのだった。,After that; both of them were never seen again. Thus; the protagonist’s adventure to save his sister met its untimely end.
+あは、胞子をいっぱいつけたまま墓地へ行っちゃったね。\n{使用カード}の効果を発動！\nキノコちゃんたちでハーレムを味合わせてあげる❤,Aha~ you ended up in the graveyard all while still covered in spores. I activate the effect of {使用カード}! I'll have my mushroom girls give you a nice; long taste of what a harem feels like.❤
+弱体化したモンスターが倒されたとき、{使用カード}の効果発動！\n胞子が発芽してもっと増えるよ❤{使用カード}を特殊召喚！\nさらに墓地に行ったモンスターの力を吸収してパワーアップ！,When a weakened monster gets taken down; {使用カード}'s effect activates! The spores sprout and multiply even more~❤ Special Summon {使用カード}; and on top of that; she absorbs the power of the monster that went to the graveyard and powers up!
