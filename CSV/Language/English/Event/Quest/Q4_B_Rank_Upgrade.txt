@@ -19,7 +19,7 @@ default,
 {主人公}、\nあなたがサキュバスにとどめを刺せない件について\nエイライラとコノハからそれぞれ聞いているわ。,{主人公}; I've heard from both Elaira and Konoha about your inability to finish off succubi.
 エイライラが言うように、\n相手が復活する可能性があるのは大きなマイナスね。\nただコノハが言うように、,As Elaira says; the possibility of your opponents reviving is a significant drawback.
 そのマイナスを上回るメリットがあるなら、\n作戦への参加も可能よ。,But Konoha has said to allow your presence in the operation; if there are benefits that outweigh that drawback.
-サキュバス化の治療について、\nきっちり調べてきなさい。\nギルドとしても協力は惜しまないわ。,I'd like you to look into any kind of treament for your succubus transformation condition. Maybe there is something out there that can help. The guild won't hesitate to support you.
+サキュバス化の治療について、\nきっちり調べてきなさい。\nギルドとしても協力は惜しまないわ。,I'd like you to look into any kind of treatment for your succubus transformation condition. Maybe there is something out there that can help. The guild won't hesitate to support you.
 ・・・♪,...♪
 Bランクへの昇格もおめでとう。\nこれはわたしから孫弟子へのお祝いよ。,And; congratulations on your promotion to B-rank. Consider it a gift from me to my grand-student.
 リーフさんは金貨が詰まった袋を僕に手渡した。ずしりとした重みがする。かなりの額が入っているようだ。,Leaf handed me a bag filled with gold coins. It had a hefty weight to it. Quite a substantial amount seemed to be inside.
