@@ -1,4 +1,4 @@
 default
 ファーストショット,First Shot
 //The JP text says from the deck to your hand but in game it goes into your hand directly. 
-相手フィールド上のモンスター１体を選択して発動する。そのモンスターに300ポイントのダメージを与える。その後、自分のデッキに「{%%40181}」を１枚加える。,[1]. Select 1 monster on your opponent's field. Inflict 300 damage to it then add 1 "{%%40181}" to your hand.
+相手フィールド上のモンスター１体を選択して発動する。そのモンスターに300ポイントのダメージを与える。その後、自分のデッキに「{%%40181}」を１枚加える。,[1]. Select 1 monster on your opponent's field. Inflict 300 damage to it then add 1 "{%%40181}" to your deck.
