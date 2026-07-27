@@ -3,7 +3,7 @@ default
 F22_paizuriAnime,
 F22_bustShakeAnime,
  　Bランクの中堅マスター。モルゲンのカードマスター学園は国でもトップクラスのカードマスター養成学校だが、彼女はその中でも優秀な成績を収めているエリート生徒である。人魚モンスターの歌声で相手の戦闘力を奪い、じわじわと追い詰める戦術を得意とする。\n　まじめで内気だった彼女は、性的な行為にも疎くクラスでも孤立しがちだった。しかし、ここ１年ぐらいの間に、性格が変化し、エッチな攻撃もいとわなくなったという。そのような変化が起きた理由は定かではないが、いまでは露出の高いギャルな後輩たちを引き連れ、学園内でひとつの派閥を形成しているらしい。\n　片方だけで頭ほどもある、大きな胸を活かした攻撃が得意。しっとりしてやわらかな肌は顔やペニスに吸い付き、とろけるような快感を与えてくる。強い意志を持たなければ、やさしくなでられるだけでたちまち腰砕けにされ、そこに魅了の魔力を乗せた甘い声でささやかれて、あっという間に虜にされてしまうだろう。,　A mid-level B-rank cardmaster. The Morgen Card Academy is one of the nation's top cardmaster training schools; and she is considered an elite student; even within its hallowed halls. She specializes in gradually wearing down her opponent; stripping them of their combat power with the siren song of her mermaid monsters.\n　Once serious and shy; she was unfamiliar with sexual acts; and often felt isolated in her class. Over the past year; however; her personality has changed drastically; leaving her far more willing to use erotic attacks. While the reason for this change is unknown; she now leads a dangerous faction of provocatively dressed underclassmen within the academy.\n　She excels at attacks using her disproportionately large breasts; each of which being the size of a person's head. Her soft; silky skin clings to her victim's face or penis; engulfing them in an overwhelming sensation of pleasure. Without strong willpower; just her gentle caresses alone can bring any man to their knees. When this assault is followed by her sweet; enchanting voice; her opponent is quickly left completely under her spell.
-　Bランクの中堅マスター。モルゲンのカードマスター学園は国でもトップクラスのカードマスター養成学校だが、彼女はその中でも優秀な成績を収めているエリート生徒である。人魚モンスターの歌声で相手の戦闘力を奪い、じわじわと追い詰める戦術を得意とする。,　A mid-level B-rank cardmaster. The Morgen Card Academy is one of the nation's top cardmaster training schools; and she is considered an elite student; even within its hollowed halls. She specializes in gradually wearing down her opponent; stripping them of their combat power with the siren song of her mermaid monsters.
+　Bランクの中堅マスター。モルゲンのカードマスター学園は国でもトップクラスのカードマスター養成学校だが、彼女はその中でも優秀な成績を収めているエリート生徒である。人魚モンスターの歌声で相手の戦闘力を奪い、じわじわと追い詰める戦術を得意とする。,　A mid-level B-rank cardmaster. The Morgen Card Academy is one of the nation's top cardmaster training schools; and she is considered an elite student; even within its hallowed halls. She specializes in gradually wearing down her opponent; stripping them of their combat power with the siren song of her mermaid monsters.
 　まじめで内気だった彼女は、性的な行為にも疎くクラスでも孤立しがちだった。しかし、ここ１年ぐらいの間に、性格が変化し、エッチな攻撃もいとわなくなったという。そのような変化が起きた理由は定かではないが、いまでは露出の高いギャルな後輩たちを引き連れ、学園内でひとつの派閥を形成しているらしい。,　Once serious and shy; she was unfamiliar with sexual acts; and often felt isolated in her class. Over the past year; however; her personality has changed drastically; leaving her far more willing to use erotic attacks. While the reason for this change is unknown; she now leads a dangerous faction of provocatively dressed underclassmen within the academy.
 　片方だけで頭ほどもある、大きな胸を活かした攻撃が得意。しっとりしてやわらかな肌は顔やペニスに吸い付き、とろけるような快感を与えてくる。強い意志を持たなければ、やさしくなでられるだけでたちまち腰砕けにされ、そこに魅了の魔力を乗せた甘い声でささやかれて、あっという間に虜にされてしまうだろう。,　She excels at attacks using her disproportionately large breasts; each of which being the size of a person's head. Her soft; silky skin clings to her victim's face or penis; engulfing them in an overwhelming sensation of pleasure. Without strong willpower; just her gentle caresses alone can bring any man to their knees. When this assault is followed by her sweet; enchanting voice; her opponent is quickly left completely under her spell.
 挑戦するために必要なランクポイントに達していません(現在ランクポイント:{ランクポイント})。,You have not reached the required rank points to challenge (Current rank points: {ランクポイント})
@@ -188,7 +188,7 @@ Bランクのエリートですらも相手にならない！\n瞬殺！瞬殺�
 そんなにムラムラしてて、まともに攻撃できますか？\n相手の攻撃宣言時に{使用カード}の効果を発動！\n踊りで「発情」してるあなたの視線を釘付けにしちゃいます❤,Can you even attack properly when you're already so excited? When an opponent declares an attack; I can activate {使用カード}'s effect! With her dance; I'll captivate the gaze of you who are "aroused"~❤
 {使用カード}が場に出たとき、効果発動！\n手札からカードを１枚捨てて、カードを１枚ドローします！,When {使用カード} enters the field; its effect activates! I discard one card from my hand and draw one card!
 墓地から水属性カードを７枚取り除き、さらに手札を１枚捨てて\n{使用カード}を発動！\n相手の魔法トラップカードをすべて破壊します！,By removing seven Water Attribute cards from my graveyard and discarding one card from my hand; I activate {使用カード}! I destroy all my opponent's Spell and Trap Cards!
-手札からカードを1枚捨てて、{使用カード}を発動！\n相手モンスターに300ポイントのダメージを与えます！\nさらに捨てたのが水属性カードだった場合、１枚ドローです！,By discarding one card from my hand; I can activate {使用カード}! I deal 300 points of damage to one of my opponent's monster! Additionally; if the discarded card was Water Attribute; I draw one card!
+手札からカードを1枚捨てて、{使用カード}を発動！\n相手モンスターに300ポイントのダメージを与えます！\nさらに捨てたのが水属性カードだった場合、１枚ドローです！,By discarding one card from my hand; I can activate {使用カード}! I deal 300 points of damage to one of my opponent's monsters! Additionally; if the discarded card was Water Attribute; I draw one card!
 手札のカードを1枚コストにして、{使用カード}を発動！\n相手モンスターに300ポイントのダメージを与えます！\nさらに捨てたカードが水属性だった場合、１枚ドローです！,I'll discard a card from my hand in order to activate {使用カード}! It deals 300 points of damage to your monster! Then; if the discarded card was Water Attribute; I draw one card!
 LPを2000払って{使用カード}を発動します！,I'll pay 2000 LP to activate {使用カード}!
 手札からカードを1枚捨てて、{使用カード}を発動！\nデッキからカードを１枚ドローします！,I'll discard a card from my hand to activate {使用カード}! I draw one card from my deck!
@@ -299,7 +299,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 チアの子たちの踊りを見て興奮しちゃいました？\nあんなちょっとパンツが見えるぐらいの踊りでシコシコし始めて、\nふふ❤そんなにうぶだなんてびっくりです❤,Did the cheerleaders' routine get you too excited? Starting to stroke yourself just from seeing a little bit of their panties... Fufu~❤ You're so much more innocent than I'd expected!❤
 それともわたしのおっぱいが気になりましたか？\nたいていの人より大きいこのおっぱい❤\nどんと張り出していて、とっても存在感がありますよね❤,Or were you more interested in my breasts? They are far bigger than most other people's~❤ They stick out so boldly and have such a commanding presence; don't you think?❤
 ううっ・・・❤❤どっちもえろくてぇ・・・❤,Uugh...❤❤ It's all so sexy...❤
-そうなんですか❤\n色んな女の子に目移りしながら、しこしこしこ♪\n欲望に素直で最低です❤,You think so?❤ You're just looking between me and them while stroking yourself so desperatly~♪ You're being way too honest with your desires. So pathetic~❤
+そうなんですか❤\n色んな女の子に目移りしながら、しこしこしこ♪\n欲望に素直で最低です❤,You think so?❤ You're just looking between me and them while stroking yourself so desperately~♪ You're being way too honest with your desires. So pathetic~❤
 あの子たちが部屋での作戦に失敗したって言ってたので、\nちょっと心配してたんですよ。\nああ、やっぱり無敗のルーキーって用心深いんだなぁって。,Those girls said their ambush in your room failed; so I was actually a bit worried. I thought; "ah; the Undefeated Rookie really is super cautious after all."
 でもでも、蓋を開けてみれば、いきなりオナニーです❤\nわたしの前でひざまづいて、おちんちんをシコシコシコ❤\n夢中で触っちゃってます❤,But when push came to shove; you immediately started touching yourself!❤ Just kneeling in front of me; stroking your cock.❤ You're totally obsessed~❤
 うぐうっ・・・❤❤それはぁ・・・❤,Ugugh...❤❤ That's...❤
@@ -367,7 +367,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 イケ❤ざーこ♪,Cum!❤ You weakling~♪
 あはは❤こんなに出しちゃうんですね❤\n敵のマスターに見下されて、バカにされてるのに、\n変態さんはそれで大興奮しちゃってます❤,Ahaha~❤ Look how much you shot out!❤ Even when perverts like you are being looked down on and mocked by an enemy master; they can't help but get off on it~❤
 昇格戦を捨てた代わりに、いい思い出ができましたか？\nしこしこしながらたっぷりバカにされて、\nくす、この先まともな性癖にはもう戻れませんね。マスターさん❤,Did you make good memories in exchange for throwing away your promotion match? Stroking yourself so desperately while getting mocked... *Giggle* There's no going back to normal fetishes after this; is there? Mister Master~❤
-ほんとにみんなバカばっかり❤\nほら、もっともっとわたしにエナジー貢ぎに来ていいんですよ❤\nぜんぶ吸収して体力に変えてあげます❤,Seriously; everyone of you is so stupid!❤ Come on; feel free to keep offering me more and more energy~❤ I'll absorb it all to keep myself fighting fit!❤
+ほんとにみんなバカばっかり❤\nほら、もっともっとわたしにエナジー貢ぎに来ていいんですよ❤\nぜんぶ吸収して体力に変えてあげます❤,Seriously; every one of you is so stupid!❤ Come on; feel free to keep offering me more and more energy~❤ I'll absorb it all to keep myself fighting fit!❤
 ふふ、くすくす❤あははっ❤\nまさか昇格戦で最初のターンからオナニーしちゃうだなんて❤\n無敗のルーキーさんって全然我慢ができないんですね❤,Fufu. *Giggle*❤ Ahaha~❤ I never dreamed you'd start masturbating on the very first turn of your promotion match!❤ The Undefeated Rookie really has zero self-control; does he?❤
 くすくす❤大事な試合なのに、オナニー始めちゃうなんて\n無敗のルーキーさんって頭おさるさんなんですね❤,*Giggle*❤ Starting to masturbate during such an important match... The Undefeated Rookie has the brain of a monkey; doesn't he?❤
 観客席の方をじーっと見て、\nそんなにあの子たちの踊りが気になるんですか？\nそれならほら・・・！,You're staring so intently at the audience seats... Are you really that interested in those girls' routine? In that case...!
@@ -418,7 +418,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 くすくす❤周りを探してもわたしはいませんよ…❤\nいま、魔法を使って声だけ飛ばしているんです…❤,*Giggle*❤ If you're trying to find me; you won't...❤ I'm using magic to transmit my voice to you...❤
 さっきあなたの耳に触ったでしょう？\nあのときに術をかけさせてもらいました…❤,Remember when I touched your ear earlier? I cast a little spell on you...❤
 射精した直後だったから\n何の抵抗もなく簡単にかけることができちゃって、ふふ、\n無敗のルーキーもやっぱりイったあとは心のバリアが弱るんですね❤,Right after you ejaculated; you had no resistance left at all; so it was actually pretty easy... Fufu; I guess even the Undefeated Rookie's mental barriers get weak after cumming~❤
-（ううっ・・・❤耳のそばでずっと囁かれてるみたいだ・・・❤\nすごくぞわぞわする・・・❤❤）,(Ugh...❤ It's like she's constantly whispering right in my ear...❤ It making me shiver all over...❤❤)
+（ううっ・・・❤耳のそばでずっと囁かれてるみたいだ・・・❤\nすごくぞわぞわする・・・❤❤）,(Ugh...❤ It's like she's constantly whispering right in my ear...❤ It's making me shiver all over...❤❤)
 ねえ、わたしの声を聞いて、頭の中がうっとりしてきませんか…❤\nわたし、声がかわいいって昔から言われるんです…❤\nマーメイドに劣らず歌もうまいんですよ❤,Hey; is listening to my voice making your mind feel foggy...?❤ People have always told me I have a cute voice...❤ I can actually sing as well as any of my mermaids!❤
 ほら、ささやかれて段々意識がぼやけてくる…❤\nさっき射精したときみたいに、\n気持ちいいのがいっぱいあふれてくる…❤,See; being whispered to is gradually making your consciousness hazy...❤ Just like when you ejaculated earlier; pleasure is flowing through you...❤
 わたしの声をもっと聞いていたい…❤\nわたしにたくさん囁かれたい…❤\nそれ以外何も考えられない…❤くすくすくす…❤,You want to hear more of my voice...❤ You want me to whisper to you more...❤ You can't think of anything else...❤ Ahaha~!*❤
@@ -440,7 +440,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 気持ちよすぎて頭がぼんやりしてるでしょうけど、\n覚えてるでしょう？ふふふ❤,Your head is probably still fuzzy from all that pleasure; but you remember; don't you? Fufufu~❤
 そうだ、ぼくは彼女に言われるがまま、ここに来たのだった。,That's right; I had come here following her commands.
 師匠や受付さんが僕を励ましてくれようと闘技場の外で待ってくれていたのに、それを無視して隠れるように逃げ出して・・・。,My master and the receptionist were even waiting outside the arena to encourage me; but I ignored them and fled; like I was trying to hide...
-さっき戦ったばかりの、このマスターのところまで、夢中でやってきたのだ。,The battle had only just ended; and I had come it to my opponent's room; completely under her spell.
+さっき戦ったばかりの、このマスターのところまで、夢中でやってきたのだ。,The battle had only just ended; and I had come to my opponent's room; completely under her spell.
 ううっ、なんで、ぼくは・・・❤,Ugh; why am I...❤
 なんでって、そんなの決まってるじゃないですか。,Isn't it obvious?
 わたしの「言うことを聞く」のが気持ちいいからですよ❤,It feels good to "obey me"~❤
@@ -465,7 +465,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 ぷぷっ、パイズリされながら囁かれて、\nずいぶんだらしない顔になっちゃっていますね❤,Aha; getting a paizuri while being whispered to is making you make such a pathetic face!❤
 口は半開きで目もうつろになって、\n人には見せられないひどい顔❤,Your mouths half-open and your eyes are totally vacant... You look awful! You really shouldn't ever let anyone see your face like that~❤
 ああ、そうそう❤快感を満喫してるところ悪いんですけど、\n大事なことを言っていませんでした。,Ah; that's right!❤ Sorry to interrupt you while you're lost in pleasure; but I forgot to mention something important.
-あなたが射精をすると、\nそのお耳の魔術、持続時間が三日伸びるんです❤,Every time you ejaculate; the magic on your ear gets its duration extends by three days.❤
+あなたが射精をすると、\nそのお耳の魔術、持続時間が三日伸びるんです❤,Every time you ejaculate; the magic on your ear gets its duration extended by three days.❤
 あなたが放出した魔力を吸収して、持続時間を伸ばす仕組みなので…♪\nだから、その魔術を解除しようと思ったら、\nお射精は我慢しないとダメですよ❤,It absorbs the magical power you release to let it last longer...♪ So if you want to dispel that magic; you can't cum at all!❤
 こんな風にぱんぱんぱん♪っておっぱいでいじめられても、\n射精したらダメ❤,No matter how much my breasts torment you like this; you can't cum~❤
 （わたしから、お耳をれろぉってなめあげられても、\n射精したらダメ❤ダメなんだよ…❤？\nくすくす❤）,(Even when I lick your ears with a wet slurrrp; you can't cum~❤ You can't; okay...?❤ *Giggle*❤)
@@ -477,7 +477,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 くすくす❤びゅ、びゅ、びゅって\n３回も出しちゃいました❤,*Giggle*❤ Spurt; spurt; spurt! You just came three times~❤
 １回射精してから10秒ぐらいしか我慢できてないんじゃないですか？\nこれでお耳の魔術の持続時間は９日間延長です❤,You only lasted about 10 seconds after the first ejaculation; didn't you? Now the duration of the magic on your ear is extended by 9 days.❤
 ９日間、耳元で囁かれ続けて、\nお射精がまんできますか？\n若くて元気なおちんちん、理性で抑えられますか？,I'll be whispering in your ear constantly for the next 9 days. Do you think you can keep yourself from cumming? Do you have the willpower to control your young; energetic cock?
-（くすくす❤無理だよね…❤\nわたしのきもちいい声聞いてたら、\n頭がとろけてきて何も考えられなくなるもんね…❤）,(*Giggle*❤ It's impossible; isn't it...?❤ Your mind's already started melting just listening to my voice; and you can't think of anything else but cumming; can you...?❤)
+（くすくす❤無理だよね…❤\nわたしのきもちいい声聞いてたら、\n頭がとろけてきて何も考えられなくなるもんね…❤）,(*Giggle*❤ It's impossible; isn't it...?❤ Your mind has already started melting just listening to my voice; and you can't think of anything else but cumming; can you...?❤)
 （この先ずっと{主人公}さんはわたしの虜…❤\nお耳をしょっちゅう責められて、\nずっと魔力を盗られ続けるの❤）,(From now on; {主人公}; you will always be my prisoner...❤ Your ears constantly tormented; your magical power continuously stolen~❤)
 （ほら、いっぱいくすくすって笑ってあげる…❤\nBランクマスターに見下されて、笑われて、\nその声で射精しちゃえ…❤くすくすくす❤）,(Here; I'll laugh at you lots and lots...❤ Cum from the voice of a B-rank cardmaster; looking down on you and laughing...❤ Ahaha~!*❤)
 はひぃっ・・・❤❤あぁ・・・❤❤❤,Hahhh...❤❤ Ahhh...❤❤❤
@@ -489,7 +489,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 朝起きてぼーっとする頭に、甘くかわいらしい声が囁いてくる。「今日は修行なんてやめよう？一日中おちんちん触っていよう？」と甘くねだるようにささやかれ・・・。,When I woke up in the morning-my mind dazed and confused-a sweet; adorable voice would whisper to me. She'd plead sweetly in my ear "Why don't we skip training today? Just spend all day touching your cock; okay?"
 必死にこらえても、耳舐めや息を吹きかけられる感覚で、強制的に腰砕けにされてしまった。,No matter how hard I tried to resist; the sensation of her licking my ear and her breath being blown on me would force my knees to buckle.
 万が一、声にそそのかされるまま自分でしごいてしまうと、手の動きに合わせて「しこしこ」とリズムを取られたり、時に優しく時にいじわるに言葉で責めてくる。,If by chance I gave in to the voice's temptation and stroked myself; she would keep rhythm with me; whispering "stroke; stroke" to match my hand movements. Sometimes her voice was gentle. Other times it would teasingly berate me.
-試合で負けた時点で彼女の魅力に参っていた僕に、その声はまるで天使の声のようで…。脳をとろけさせられながら、一日中夢中でオナニーに耽らせれてしまうのだった。,To someone like me who'd already been captivated by her charm fom the moment I lost to her in the arena; that voice was like an that of an angel... I would spend the entire day entranced in masturbation; letting her sweet words melt my mind.
+試合で負けた時点で彼女の魅力に参っていた僕に、その声はまるで天使の声のようで…。脳をとろけさせられながら、一日中夢中でオナニーに耽らせれてしまうのだった。,To someone like me who'd already been captivated by her charm from the moment I lost to her in the arena; that voice was like that of an angel... I would spend the entire day entranced in masturbation; letting her sweet words melt my mind.
 時折、クエストや買い物などで雑用係が欲しいときに、メロディは耳にかけた魔術に指示を出して、僕に命令をささやかせる。,Occasionally; when Melody wanted an errand boy for quests or shopping; she would use the magic on my ear to whisper commands to me.
 彼女の言葉を聞くことが、最大の喜びになってしまっている僕にとって、その命令は至福にも似ていて、命令されたら最後夢うつつのまま下僕のように彼女に尽くしてしまうのだった。,For someone like me-who found pleasure in listening to that sweet voice-those orders were like bliss. Once commanded; I would serve her like a vassal; lost in a dream.
 こうして僕は、やわらかいおっぱいと甘いささやきによってすっかり彼女の魅力にとりつかれてしまい、修行どころではなくなってしまった。,Thus; through sweet whispers and soft breasts; I became completely captivated by Melody's charm; unable to focus on my training at all.
@@ -498,7 +498,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 くすくす❤あの子たちにちょっかいを出すように頼んでましたけど、\nまさかオナニーをはじめて自滅してしまうなんて❤,*Giggle*❤ I asked those girls to mess with you; but I never imagined you'd just start masturbating and throw the match like that~❤
 無敗のルーキーさんって、思ったよりも弱い人だったんですね。\nちょっと失望しちゃいました。\nがっかりです❤,The Undefeated Rookie turned out to be weaker than I thought. I'm actually a little disappointed~❤
 くすくす❤試合前にあの子たちに何かされたわけでもないんですよね？\nそれなのにまさかオナニーで自滅してしまうなんて❤,*Giggle*❤ Those girls didn't even do anything to you before the match; did they? Yet you still threw the match to stroke yourself~❤
-ただ応援の踊りをしていただけですよ？\nバトルが始まったときからチラチラよそ見して、\n勝手に負けちゃうなんて、すごく恥ずかしい人です❤,They were just doing their normal cheers; you know. Looking around distracted from the moment the battle started and losing on your own... What an embarrasment of a cardmaster~❤
+ただ応援の踊りをしていただけですよ？\nバトルが始まったときからチラチラよそ見して、\n勝手に負けちゃうなんて、すごく恥ずかしい人です❤,They were just doing their normal cheers; you know. Looking around distracted from the moment the battle started and losing on your own... What an embarrassment of a cardmaster~❤
 無敗のルーキーさんって、思ったよりも弱い人だったんですね。\nちょっと失望しちゃいました。ふふふ❤,The Undefeated Rookie turned out to be weaker than I thought. I'm actually a little disappointed. Fufufu~❤
 ううぅ・・・❤,Ughh...❤
 ひどくみっともない負け方をした僕は彼女に言い返すこともできない。,Having lost so pathetically; I couldn't even think of a retort.
@@ -521,11 +521,11 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 部屋のドアをノックする音がする。この声はあのチアの子たちだ。,There's someone knocking on my waiting room door. From the voice; it sounds like one of those cheerleaders.
 ・・・・。,...
 んー、もう外に出ちゃったのかな。\nでも耳を当てたら中で音がするような・・・？,Hmm; maybe he already went outside. But when I put my ear to the door; I think I hear noises in there...
-（また僕にちょっかいをかける気だろうか。\nドアを開けたらきっとろくなことにはならない…。）,(Are they planning to mess with me again? Nothing good can come from openning the door; that's for sure...)
+（また僕にちょっかいをかける気だろうか。\nドアを開けたらきっとろくなことにはならない…。）,(Are they planning to mess with me again? Nothing good can come from opening the door; that's for sure...)
 （師匠たちが来るまでやり過ごそう。\nじっとしてればきっと帰るはずだ。）,(I'll wait it out until Master and the others come to see me. If I stay quiet; I'm sure they'll leave.)
 うふふ❤たぶん居留守ね。\nそれならわたしに任せて❤\n思いっきりセクシーな声で・・・❤,Ufufu~❤ He's probably faking. Leave it to me~❤ I'll use my super sexy voice...❤
 ねぇーん、ルーキーくん❤\nいるならあけてぇ❤,Heeey; rookie~❤ If you're in there; open up~❤
-あけてくれたらぁ❤\nわたしたちからルーキーくんに、ご・ほ・う・び❤\n腰が抜けちゃうぐらい、気持ちいいことしてあげる❤,If you let us in...❤ We'll give you a nice 'reward' from all us.❤ We'll do something so good it'll make your knees buckle~❤
+あけてくれたらぁ❤\nわたしたちからルーキーくんに、ご・ほ・う・び❤\n腰が抜けちゃうぐらい、気持ちいいことしてあげる❤,If you let us in...❤ We'll give you a nice 'reward' from all of us.❤ We'll do something so good it'll make your knees buckle~❤
 うっ、うぅうっ❤,Ugh; oooh...❤
 彼女の甘い声を聞くと否応なしに、試合中の光景がよみがえってしまう。,Hearing her sweet voice; the scene from the match inevitably came back to me.
 健康的でかわいくて、それでいてセクシーな彼女たちの踊り。僕に大事な試合を放り出させてしまった、谷間のアピール、短いスカート、それに投げキス。,I remember their dancing-cute and innocent; and yet so sexy. The cleavage; short skirts; and blown kisses that made me abandon such an important match fill my mind.
@@ -538,7 +538,7 @@ Bランク昇格戦に無敗で挑むようなつよーいマスターのはず�
 ほらほら、ルーキーくん、そこに腰かけて。\nわたしたちのごほうび、受けたいんでしょ？,Alright; Mister Rookie; sit down over there. You want to receive your reward; don't you?
 うふふ❤言われるがまま、ふらふら～って座っちゃってかわいい❤\nほら反対側のほっぺにも、んっちゅ❤,Ufufu~❤ You're so cute; sitting down obediently like that.❤ Here; I'll give your other cheek a kiss; too. Mwah~❤
 はひぃっ、はうぅっ❤,Hah; haahh...❤
-なんだかキスしてるだけでイっちゃいそうね。\nま、投げキスで射精しちゃうぐらいだし、\nそれぐらいチョロくても驚かないけど❤,It looks like you're about to cum from just a couple kisses. Well; considerig you came from having a kiss blown to you; I wouldn't be surprised if you really were that easy~❤
+なんだかキスしてるだけでイっちゃいそうね。\nま、投げキスで射精しちゃうぐらいだし、\nそれぐらいチョロくても驚かないけど❤,It looks like you're about to cum from just a couple kisses. Well; considering you came from having a kiss blown to you; I wouldn't be surprised if you really were that easy~❤
 それでご褒美の前の、「おねがい」なんだけど、\nこの先あなたには、わたしたちのランクを上げる手伝いをしてほしいの❤,But before your reward; we have a little 'request'. We want you to help us raise our ranks.❤
 わたしたちが試合を申し込む日と、\nあなたが試合を申し込む日を合わせて、\nそれで試合をする。,We'll coordinate the days we apply for our matches with the days you apply for yours; and then we'll fight!
 あなたはわたしたちにボコボコにされて、\nランクポイントを貢ぐ餌になるってわけ❤,You'll get beaten to a pulp by us and become fodder to give us easy rank points~❤
