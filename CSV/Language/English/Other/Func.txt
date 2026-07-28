@@ -14,7 +14,7 @@ To translate; open the text in CSV/Language/English and write the English text n
 언어가 한국어로 설정되었습니다.,언어가 한국어로 설정되었습니다. (The language is now set to Korean.)
 번역하려면 CSV/언어/한국어에서 텍스트를 열고 쉼표 옆에 영어 텍스트를 입력합니다. 텍스트에는 쉼표가 허용되지 않으므로 쉼표를 사용하려면 세미콜론을 사용하세요.,
 難易度を変更することができます。,Here you can change the difficulty level.
-難易度は\nハード（敵のパラメーター3割増加）\nノーマル\nイージー（敵のパラメータ2割減少）\nらくらく（味方のHP+2000Atk+800）\nの3つの中から選択できます。難易度は何度でも変更可能です。難易度によって見れるエロシーンに変化はありません。,You can choose from three difficulty levels: \nHard (30% increase in enemy stats)\nNormal \nEasy (20% decrease in enemy stats)\n;Phoenix (HP+2000 and Atk+800 for allies)\n You can change the difficulty level as many times as you like, and there are difficulty exclusive scenes.
+難易度は\nハード（敵のパラメーター3割増加）\nノーマル\nイージー（敵のパラメータ2割減少）\nらくらく（味方のHP+2000Atk+800）\nの3つの中から選択できます。難易度は何度でも変更可能です。難易度によって見れるエロシーンに変化はありません。,You can choose from three difficulty levels: \nHard (30% increase in enemy stats)\nNormal \nEasy (20% decrease in enemy stats)\n;Phoenix (HP+2000 and Atk+800 for allies)\n You can change the difficulty level as many times as you like; and there are difficulty exclusive scenes.
 難易度を選択してください(現在の難易度:{難易度名})。,Select a difficulty level (current difficulty: {難易度名})
 ハード,Hard
 ノーマル,Normal

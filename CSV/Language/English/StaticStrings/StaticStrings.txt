@@ -70,7 +70,7 @@ Claw,
 {A}が状態異常のせいで勝手に攻撃をしてしまう！,{A} attacks on its own due to an abnormal state!
 {A}が間に立って{B}を守っている！,{A} stands in to protect {B}!
 相手に自分のモンスターゾーンが１か所占領された！,Your opponent has captured one of your monster zones!
-{A}のコントロールが変更されたがフィールドがいっぱいのため破壊された！,{A}'s control changed, but was destroyed because the field was full!
+{A}のコントロールが変更されたがフィールドがいっぱいのため破壊された！,{A}'s control changed; but was destroyed because the field was full!
 {A}のコントロールが奪われた！,{A}'s control was taken away!
 {A}と{B}のコントロールが入れ替わった！,The control of {A} and {B} switched!
 {x}Gを失いました,Lost {x}G.
@@ -155,7 +155,7 @@ Claw,
 ダメージ,Damage
 速度－,Slower
 速度＋,Faster
-//These strings don't appear to work:
+//These strings don't appear to work:,//
 一覧,Preview
 枚数:,Cards:
 閉じる,Close
