@@ -101,7 +101,7 @@ Claw,
 戻る,Back
 保存,Set
 昇順,Ascending
-降順,Decending
+降順,Descending
 新しいデッキ,New Deck
 下級モンスター:,Lesser Monsters: 
 上級モンスター:,Advanced Monsters: 

@@ -98,8 +98,8 @@ HP8000/Atk1300,Limit to HP8000/Atk1300
 主人公の情報,Player Information
 {プレイヤー情報},
 画像閲覧,Artwork
-オナニー(主人公),Mastubation (MC)
-オナニー,Mastubation
+オナニー(主人公),Masturbation (MC)
+オナニー,Masturbation
 命乞い,Last Request
 命乞い2,Last Request 2
 敗北後,After Defeat
@@ -113,4 +113,5 @@ HP8000/Atk1300,Limit to HP8000/Atk1300
 街ババトル回想\n(イベント省略),Recall Town Battle\n(without events)
 クエストバトル回想\n(イベントあり),Recall Quest Battle\n(with events)
 クエストバトル回想\n(イベント省略),Recall Quest Battle\n(without events)
-
+現在の攻撃力が{$攻撃力}以上あるため変更されませんでした。,As your current attack power is {$攻撃力}; it has not been changed.
+主人公の攻撃力が{$攻撃力}に設定されました。,Your attack power has been set to {$攻撃力}.
