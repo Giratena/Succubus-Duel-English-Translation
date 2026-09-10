@@ -7,7 +7,7 @@ default,
 そういえば、あの張り紙を見ましたか？\n近々魔族領への侵攻作戦が計画されているそうです。\nギルドでも実力のあるカードマスターへの参加を呼びかけていますよ。,Oh; that reminds me—have you seen that notice? Apparently there's an invasion operation into the Monster's Domain being planned soon. The guild is calling for skilled cardmasters to participate.
 そう言うと受付さんは入口近くにある掲示板を指さした。張り紙の前には人だかりができており、参加するかどうか話し合っている人たちの会話が聞こえてくる。,The receptionist pointed toward the bulletin board near the entrance. A crowd had gathered in front of the notice; and I could hear people discussing whether or not to join.
 遠征に参加すれば、しばらくは魔族領での活動です。\n{主人公}さんも参加するおつもりですか？\nもしそうなら、寂しくなりますね。,If you join the expedition; you'll be operating in the Monster's Domain for quite a while. Are you planning to participate; {主人公}? If you go; you will certainly be missed.
-・・・本格的な侵攻となれば、犠牲も少なからず出るでしょう。\n{主人公}さんのこと、わたし心配です。,And... a full-scale invasion will surely result in casualties.  I would hate to see anything bad happen to you; {主人公}.
+・・・本格的な侵攻となれば、犠牲も少なからず出るでしょう。\n{主人公}さんのこと、わたし心配です。,And... a full-scale invasion will surely result in casualties. I would hate to see anything bad happen to you; {主人公}.
 受付さんは僕の手を両手で握ると、上目づかいでじっとこちらを見つめてくる。,The receptionist grasped my hands with both of hers and gazed up at me with a serious expression.
 こんな風に心配されると少し心苦しいが、それでも妹のことを思うと、魔族領に行かないわけにはいかない。僕は受付さんに自分の事情について話した。,I felt guilty seeing her worry about me like this; but I had no choice but to go to the Monster's Domain for my sister's sake. I explained my circumstances to the receptionist.
 魔族に襲われて妹さんと離れ離れに・・・。\nそうだったんですね。,Ah; you were attacked by monsters and separated from your sister... Is that so? I had no idea.
