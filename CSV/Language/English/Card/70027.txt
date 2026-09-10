@@ -116,7 +116,7 @@ OPをスキップ,Skip the opening
 むぐ、んんぅぅ❤❤,Mmph; nnnnhh~❤❤
 ん、ちゅぱ❤んふ、おいしい……❤\nあなたが時間を無駄に使ってくれたおかげで、\n少しは動けるぐらいには回復したの❤,Nn; chuupa~❤ Mmfu; delicious...❤ Thanks to you wasting your time like that; I've recovered enough to move a little.❤
 そのうえこうやってキスをして、エナジーを吸収❤\nすっかり形勢が逆転しちゃったわね❤,And now; by kissing you like this; I'm absorbing your energy.❤ Looks like the tables have completely turned.❤
-あなたはどう？\n戦い疲れて、慣れない治療なんてして、\nまだ立っていられるかしら❤,How areyou feeling? You're tired from fighting; attempting unfamiliar healing techniques... Can you even still stand?❤
+あなたはどう？\n戦い疲れて、慣れない治療なんてして、\nまだ立っていられるかしら❤,How are you feeling? You're tired from fighting; attempting unfamiliar healing techniques... Can you even still stand?❤
 甘ぁい甘いキスを浴びせられて、\nまだ頑張れる？くすくすくす❤,After being showered with such sweet; sweet kisses; can you still keep going? Kususususu~❤
 はひぃ、んんぅぅ❤❤,Aahhh... Mmnnnghh~❤❤
 くす❤エナジーおいしい❤\n唇からどんどん吸われちゃうわね❤,Kusu~❤ Your energy tastes so good.❤ I'm sucking it right out from between your lips.❤
@@ -138,7 +138,7 @@ OPをスキップ,Skip the opening
 せめて最高の快楽の中で天国に送ってあげる❤\nあなたが死ぬまで、口づけをして、\n幸せの中で逝かせてあげる❤,At the very least; I'll send you to heaven in the ultimate pleasure.❤ I'll keep kissing you; letting you pass on in pure bliss until you die; I❤
 ・・・・。\nもう動かなくなっちゃった。,... Awh; he's stopped moving.
 あは、あははは❤\n悲しいのにうれしくて、自分でも自分がわからない。\nサキュバスになると心って、こんなに壊れちゃうんだ❤,Aha; ahahaha~❤ I'm so sad; but I'm so happy; too. I don't even understand myself anymore. Is this what becoming a succubus can do to your heart?❤
-{主人公}。わたしを助けようとしくれてありがとう。\nあなたの全部はわたしの中にあるから\nこの先もずっと一緒よ❤,Thank you for trying to save me; {主人公}. Now that I have your essense inside me; we can be together forever.❤
+{主人公}。わたしを助けようとしくれてありがとう。\nあなたの全部はわたしの中にあるから\nこの先もずっと一緒よ❤,Thank you for trying to save me; {主人公}. Now that I have your essence inside me; we can be together forever.❤
 あなたにもらった力で、全部全部、壊してあげる❤\nまずはそこでおびえてる下級のマスターたちから…。,With the power you gave me; I'll destroy everything.❤ Starting with those low-level masters cowering over there...
 みんな、サキュバスにしてあげるわね❤\nくす、くすくすくす❤,I'll turn everyone into succubi.❤ Kusu; kususususu❤
 彼女が体をくねらせ僕にやめるよう懇願するが、僕の心は乱れなかった。絡み合った糸をほぐすように、彼女にかけられた呪いの術式をひとつずつ解除していく。,Her body writhes as she begs me to stop; but my heart doesn't waver. Like untangling knotted threads; I undo the curse's spell formations one by one.
@@ -152,7 +152,7 @@ OPをスキップ,Skip the opening
 僕はやり遂げたのだ。そう思った瞬間、緊張の糸が切れたからだろうか、ふっと、意識が遠のき、僕はその場に倒れこんでしまった。,I did it. The moment that thought crosses my mind; perhaps the thread of tension snapped—my consciousness suddenly fades; and I collapse right there on the spot.
 わわっ、大丈夫ですか、{主人公}さん。,Whoa; are you okay; {主人公}?
 受付さんが駆け寄ってきて、僕の肩を持って支えてくれる。ただ猛烈な疲労感で、とても起きていられない。,The receptionist rushes over and supports me by the shoulder. But the overwhelming fatigue was too much; and I lost track of what was happening.
-僕はそのまま意識を手放したのだった。,I let myself go; and lost conciousness.
+僕はそのまま意識を手放したのだった。,I let myself go; and lost consciousness.
 一方そのころ。城内にて。,Meanwhile; at that same time. Inside the castle.
 城内には無数のサキュバスたちが集まっていた。正確には淫魔化したカードマスターたちが集まり、転移陣の周りを囲んでいた。,Countless succubi had gathered within the castle. More precisely; cardmasters who had been transformed into lustful demons surrounded the teleportation circle.
 彼女たちは一心に魔力を注ぎ、転移陣を起動する呪文を唱える。主を求める本能のままに・・・。,They pour their magical energy into it with one singular focus; chanting the spell to activate the teleportation circle; following their instinct to seek their master...
@@ -205,7 +205,7 @@ OPをスキップ,Skip the opening
 召喚に成功したとき、{使用カード}の効果発動！\nこのカードと相手の一番レベルが低いモンスターのコントロールを\n入れ替えるわ！,When successfully summoned; {使用カード}'s effect activates! I'll swap control of this card with your lowest level monster!
 召喚に成功したとき、{使用カード}の効果発動！\n相手の一番レベルが低いモンスターと、\nこのカードのコントロールを交換するわ！,When successfully summoned; {使用カード}'s effect activates and I'll exchange control of this card with your lowest level monster!
 相手プレイヤーにダメージを与えたとき{使用カード}の効果発動！\n与えたダメージだけわたしのライフを回復する！,When damage is dealt to the opposing player; {使用カード}'s effect activates! I recover life equal to the damage dealt!
-{使用カード}の効果発動！\n相手プレイヤーからライフを奪ってわたしのライフを回復よ！,I acctivate {使用カード}'s effect; letting me steal life from the opposing player to recover my own!
+{使用カード}の効果発動！\n相手プレイヤーからライフを奪ってわたしのライフを回復よ！,I activate {使用カード}'s effect; letting me steal life from the opposing player to recover my own!
 {使用カード}が破壊されたとき、効果発動！\nわたしの手札に「{%%50096}」を１枚加える！,When {使用カード} is destroyed; her effect activates! I add one "{%%50096}" to my hand!
 {使用カード}が破壊されたとき、効果発動！\n「{%%50096}」を生成して、わたしの手札に１枚加えるわ！,When {使用カード} is destroyed; her effect activates! I generate a "{%%50096}" and add it to my hand!
 1ターンに１度、{使用カード}の効果発動！\n「おっぱいに弱い」相手に状態異常を付与するわね❤,Once per turn; {使用カード}'s effect activates! I'll inflict an opponent with status ailment on opponents that have a breast fetish.❤
@@ -326,12 +326,12 @@ OPをスキップ,Skip the opening
 服からこぼれ落ちそうな巨乳をゆさゆさ♪\nくす、どうしたって見てしまうわよね。男の子だもの❤,These huge tits are about to spill out of my clothes. Bounce; bounce~♪ *Giggle*; you can't help but stare; can you? You're just a boy; after all.❤
 さっきはわたしの胸から頑張って目をそらしたけれど、\n今度はどうかしら。もう目がそらせないんじゃない？うふふ❤,You tried so hard to look away from my breasts earlier; but what about now? You can't look away anymore; can you? Ufufu.❤
 あうぅっ❤エルルさん・・・❤はうぅう・・・❤,Ahhh~❤ Elulu...❤ Ahuuu...❤
-知ってた？魅了ってじわじわと蓄積していくのよ。\nだからさっき見せつけた分がある限り、\nあなたはおっぱいをチラ見するだけでも簡単に魅了されちゃうの❤,Did you know? The affects of being charmed stack little by little. You saw my boobs before; but now just catching a glimpse of my them is enough to easily put you back under~❤
+知ってた？魅了ってじわじわと蓄積していくのよ。\nだからさっき見せつけた分がある限り、\nあなたはおっぱいをチラ見するだけでも簡単に魅了されちゃうの❤,Did you know? The effects of being charmed stack little by little. You saw my boobs before; but now just catching a glimpse of my them is enough to easily put you back under~❤
 くすくす❤{主人公}、とってもいい顔ね❤\n口は半開きで目もとろんとしていて、\nBランクマスターがしちゃダメな顔しちゃってる❤,*Giggle*❤ {主人公}; you're making such a wonderful expression.❤ Your mouth is half open and your eyes are glazed over—a B-Rank master shouldn't be making a face like that.❤
 おいで、{主人公}・・・❤\nここに顔を埋めて頭をぱふぱふ❤\n淫紋を顔に直接当ててもっともっとおかしくしてあげる・・・❤,Come here; {主人公}...❤ Bury your face right here and let me smother you between my breasts.❤ I'll press my lewd crest directly against your face and turn your mind into mush...❤
 わたしのおっぱい、また見せてあげる❤\n見てたら脳みそおかしくされちゃうのに、\n何度でも見たくなってしまうでしょう？,I'll show you my breasts again.❤ Even though staring at them will drive your mind crazy; you can't help but want to see them over and over; can you?
 谷間の淫紋で魅了されて、\nそのまま顔をぱふぱふって挟まれて・・・❤\n一度味わちゃったらもう病みつきよね❤,The feeling of being under the control of the lewd crest on my tits... your face being smothered between them...❤ Once you've experienced it; you'll become completely addicted~❤
-ほら、腕で下から抱えて、おっぱいをむぎゅ❤\nサキュバスのエローい谷間\nしっかりその目に焼き付けなさい❤,Look; l'll use my arms to lift them up and give them a little squeeze~❤ Focus on my sexy succubus cleavage and memorize it carefully~❤
+ほら、腕で下から抱えて、おっぱいをむぎゅ❤\nサキュバスのエローい谷間\nしっかりその目に焼き付けなさい❤,Look; I'll use my arms to lift them up and give them a little squeeze~❤ Focus on my sexy succubus cleavage and memorize it carefully~❤
 うぅっ❤エルルさん❤すきっ、ああっ・・・❤,Ahhh!❤ Elulu!❤ I love you; aaah...❤
 うふふふ❤どんどん魅了が濃くなっていって、\nわたしのこと心の底から好きになっちゃうわね❤,Ufufufu.❤ Looks like the charm is getting stronger and stronger. You're falling deeply in love with me now~❤
 妹のことも師匠のことも忘れさせて、\nあなたの中の一番を塗り替えてあげる❤,I'll make you forget about your sister and your master; and I'll replace all of those thoughts with thoughts of me~❤
@@ -352,7 +352,7 @@ OPをスキップ,Skip the opening
 見て、この舌・・・❤\nサキュバスになってから、前より長くなって、それに思った通りに動くの❤,Look at my tongue...❤ Ever since I became a succubus; it's gotten a lot longer and I can move it however I want.❤
 この舌でチンポ絡め取られたら、\nきっと気持ちよすぎて腰が抜けちゃうわね❤\nどう？されてみたい？,If I wrap my tongue around your cock; you'll feel so good that your legs will give out.❤ Well? Want me to do it?
 あは、想像しちゃったの？そんな状態だと、捕まえるのも簡単…❤\nほら、腰に腕を回して、\nチンポをあーむ❤じゅる、じゅぷじゅぽっ❤じゅるるぅ❤,Aha; did you imagine it? Now that you're like this; capturing you will be easy...❤Look; I'll wrap my arms around your waist and take your cock in my mouth.❤ Slurp; suck; pop.❤ Slurrrp~❤
-くす❤すっかり蕩け顔❤\n口でエナジー吸い出して、すぐにカラカラにしてあげる❤\nんっ❤んっ❤んっ…❤じゅるるぅ❤,Fufu.❤ Look at that slutty expresion.❤ I'll suck the energy right out through your cock and drain you dry.❤ Mmm~❤ Mmph.❤ Ahnn...❤ Slurrrp~❤
+くす❤すっかり蕩け顔❤\n口でエナジー吸い出して、すぐにカラカラにしてあげる❤\nんっ❤んっ❤んっ…❤じゅるるぅ❤,Fufu.❤ Look at that slutty expression.❤ I'll suck the energy right out through your cock and drain you dry.❤ Mmm~❤ Mmph.❤ Ahnn...❤ Slurrrp~❤
 あぁん❤あなたのこと見てると何だかドキドキするの…❤\nあなたのことが好き❤好き❤\nねえ、攻撃しないで…❤わたしあなたにハグしたいだけよ…❤,Aaahn~❤ When I look at you; my heart starts racing...❤ I love you~❤ I love you~❤ Hey; don't attack me...❤ I just want to give you a hug...❤
 吸精メルティキス,Energy-Draining Melty Kiss
 ありがとう{主人公}…❤\nこうしてずっと抱き合っていましょう？\nいっぱい甘いキスをして…❤二人でぎゅっと抱き合って❤,Thank you; {主人公}...❤ Let's stay like this forever; holding each other in our arms; OK? I'll give you lots of sweet kisses...❤ and we'll embrace each other tightly.❤
@@ -362,13 +362,13 @@ OPをスキップ,Skip the opening
 最後は舌を絡める熱いキスで、\n理性なんてドロドロに溶かしてあげるわ…❤\nんっちゅ❤れる❤える❤,Finally; I'll melt your mind into mush with a deep; passionate kiss...❤ Mmchu.❤ Ahhn~❤ Slurp~❤
 ぷっ、嘘に決まってるじゃない。\n不用意に抱き着かせちゃって、バカみたい❤\n密着した状態で、膝を使っていじめてあげる❤ほらほらほら❤,Pfft; of course I was lying. You carelessly let me embrace you; how stupid.❤ Now that we're pressed together; I'll torment you with my knee.❤ Take this!❤
 あぎぃっ❤あっ、ああっ❤,Ahhhh!❤ Ah; aaah!❤
-チンポに押し当てられて激しく振動させられたら、\nアヘっちゃって身動きなんて取れなくなるわよね❤\nほら！ほらほら❤射精するまでたっぷり悶絶させてあげるわ❤,Once I start quickly rubing my leg against your cock; you'll be moaning so much you won't be able to move~❤ Come on! Take this!❤ I'll make you squirm until you cum!❤
+チンポに押し当てられて激しく振動させられたら、\nアヘっちゃって身動きなんて取れなくなるわよね❤\nほら！ほらほら❤射精するまでたっぷり悶絶させてあげるわ❤,Once I start quickly rubbing my leg against your cock; you'll be moaning so much you won't be able to move~❤ Come on! Take this!❤ I'll make you squirm until you cum!❤
 指をチンポに絡めて、しこ、しこ・・・❤\nあはぁ、おもしろ～い。こんな軽ーい手コキで\nそんな蕩け顔になっちゃうんだぁ❤,I'll wrap my fingers around your cock and pump it up and down in a nice rhythm~❤ Ahaha; this is fun~ I'm only using a light grip; and you're already making faces.❤
 サキュバスの体には\n男を気持ちよくさせる魔力が流れてる❤\nそれを手の周りにまとわせれば、男の体なんて思い通りね❤,A succubus's body has a magical power flowing around it that makes men feel good.❤ I can concentrate this flow around my hand and; if I do; I can control a man's body however I want.❤
 チンポを撫でるたびに腰がカクカクしちゃって、\nくすくす❤\nあなたはわたしの操り人形❤,Every time I caress your cock; your hips twitch; fufufu.❤ You're my puppet now.❤
 ほら、玉も揉んで、もっと弄んであげる❤\nぷっ、腰の動きが早くなった…❤カクカク、へこへこ❤へこへこ❤\n腰ヘコすることしか考えられなくなっちゃったの？ちょろーい❤,Look; I'll fondle your balls too and play with you even more.❤ Pfft; your hips are moving faster...❤ Twitch; twitch; thrust; thrust.❤ Are you so far gone that all you can think about is humping? Pathetic.❤
 この足で踏まれたい？\n嫌だなんて嘘ばっかり。服の上から足先でちょんと触れただけで、\nくす❤顔が蕩けちゃってるじゃない❤,You want to be stepped on by my feet? Don't lie and say you don't. I barely grazed your cock with my toes through your clothes and... Fufu~ Your eyes already glazed over.❤
-あなたは立ったままでいいわよ。\nわたしは脚を上げて、片足をぴったりチンポに押し付けてあげる。\n小刻みに擦ってあげれば、ほら、天国でしょう❤,You can stay standing if your want. I'll lift my leg and press one foot right against your cock. If I rub it in small motions like this... Ooh; I bet that feels heavenly; doesn't it?❤
+あなたは立ったままでいいわよ。\nわたしは脚を上げて、片足をぴったりチンポに押し付けてあげる。\n小刻みに擦ってあげれば、ほら、天国でしょう❤,You can stay standing if you want. I'll lift my leg and press one foot right against your cock. If I rub it in small motions like this... Ooh; I bet that feels heavenly; doesn't it?❤
 くすくす❤シコシコするたびに、\nビクンビクン反応しちゃって面白いんだけど❤\nねえ、命がかかっているってこと分かってる？,*Giggle*❤ Every stroke makes you twitch and jerk—it's so entertaining.❤ Hey; you do realize your life is on the line here; don't you?
 Ｂランクにまで上がったのに、\n女の足先なんかで一方的に腰くだけにされて、それがあなたの最期なんだ。\nあわれねー❤きゃはは❤,You climbed all the way to B-rank; and yet here you are in your final moments; with a woman's foot reducing you to a helpless mess. How pitiful~❤ Kyahaha!❤
 女の足先なんかで一方的に腰くだけにされて、\nそれがあなたの最期なんだ。あわれねー❤きゃはは❤,You're going to be spending your final moments like this; with a woman's foot reducing you to a helpless mess. How pitiful~❤ Kyahaha!❤
@@ -408,7 +408,7 @@ OPをスキップ,Skip the opening
 なんでっ❤きもちいいのにっ❤出ないっ❤あああっ❤,Why!❤ It feels so good; but...❤ I can't cum!❤ Ahhhh!❤
 くすくす❤サキュバスにとって男のチンポを手玉に取ることなんて、\nとても簡単なのよ❤\n無防備にチンポを差し出せば、何か術をかけられて当然でしょう？,*Giggle*❤ For a succubus; playing with a man's cock is so very easy.❤ If you carelessly present your dick; it's only natural that I'd cast some spell on it; right?
 あなたのチンポの主導権は完全にわたしにあるの。\nその実体化したフェロモンがまとわりついてる限り、\nいくらシコっても射精することはできない❤,I control your cock completely now. As long as the materialized pheromones cling to your cock; no matter how much you stroke; you won't be able to ejaculate.❤
-そして行き場を無くした快楽は、脳をどんどんグズグズにして、\nわたしの言葉に抗うこともできなくなる❤,The pleasure will build and build with no where to go; and your brain will become dumber and dumber until finally~ You won't even be able resist my words.❤
+そして行き場を無くした快楽は、脳をどんどんグズグズにして、\nわたしの言葉に抗うこともできなくなる❤,The pleasure will build and build with nowhere to go; and your brain will become dumber and dumber until finally~ You won't even be able resist my words.❤
 ほら、耳元でささやいてあげる❤\nわたしのために戦いなさい❤\nふぅー・・・❤,Here; I'll whisper in your ear.❤ Fight for me~❤ Haaah...❤
 はひぃっ、耳の中に入ってきて・・・❤あああっ❤❤❤,Aoohh; I can feel your voice entering my ears...❤ Ahhhh!❤❤❤
 くす、くすくす❤\nこれで{主人公}のしもべはわたしのものね❤,Pfft. *Giggle*❤ Now {主人公}'s servant is mine.❤
@@ -420,14 +420,14 @@ OPをスキップ,Skip the opening
 いまここで降参なんてしたら、\nサキュバスたちに街をめちゃくちゃにされて、\nあなたの妹だって助けることはできなくなる。それでも…❤,If you surrender here and now; the succubi will ravage the town; and you won't be able to save your little sister either. And yet...❤
 あははは❤まさか本当にオナニーをし始めるなんて、\nなんて情けないの、{主人公}❤\nそんなにわたしのフェロモンを浴びたかった？,Ahahaha!❤ I can't believe you actually started masturbating—how pathetic; {主人公}.❤ Did you want to bathe in my pheromones that badly?
 サキュバスの与える快楽におぼれて、\nみっともなく喘いでるあなたの仲間を見て、\n自分もそんな風になりたいと望むだなんて。このヘンタイ❤,Watching your ally moan so disgracefully after a succubus drowns them in sensual pleasures is one thing... but then wanting the same thing to happen to you? What a pervert.❤
-いまここで降参なんてしたら、\nサキュバスたちに街をめちゃくちゃにされて、\nあなたの妹だって助けることはできなくなる。それなのに…❤,If you surrender here and now;the succubi will ravage the town; and you won't be able to save your little sister either. And yet...❤
+いまここで降参なんてしたら、\nサキュバスたちに街をめちゃくちゃにされて、\nあなたの妹だって助けることはできなくなる。それなのに…❤,If you surrender here and now; the succubi will ravage the town; and you won't be able to save your little sister either. And yet...❤
 なにこれっ❤さっきまでよりずっと気持ちよくて❤あひぃっ❤,What's happening!?❤ It feels so much better than before!❤ Ahii!❤
 あはは❤すごく効くのね♪\n今のは相手の感度をあげて、快感を少しの間数倍にする魔眼よ❤,Ahaha.❤ It's incredibly effective; isn't it?♪ What I just used was a demon eye technique that heightens your sensitivity and multiplies your pleasure several times over for a short while.❤
 シコシコしごくたびに、たまらなく気持ちいいでしょう？\n全身がびくびく跳ねて、とっても滑稽だわ❤,Every stroke feels unbearably good; doesn't it? Your whole body is twitching and jumping—it's so ridiculous.❤
 ほら、フェロモンも追加よ❤\nさっきのしもべが感じた以上の快感で、あなたをおかしくしてあげる❤\nふぅー・・・❤,Here; I'll drown you in my pheromones.❤ I'll drive you mad with even more pleasure than what your servant felt.❤ Haaah...❤
 はひぃっ、あっ、だめっ、こんなのっ❤❤\n自分でさわってるのにっ❤ああああっ❤❤,Hahii; ah; no; it feels too good.❤❤ I'm just touching myself; but... But...❤ Ahhhhh!❤❤
 敏感にされたところに、フェロモンをまとわりつかされて、\n並みの快楽で済むはずがないじゃない❤,Your sensitivity was heightened even before my pheromones wrapped around you—there's no way you expected this to be like any regular pleasure~❤
-{主人公}、あなたの喘ぎ声を、この地下通路中に響かせなさい❤\n後ろでおびえて見てるあのカードマスターたちに、\nもっと絶望を教えてあげるの❤,{主人公}; let your moans echo throughout this underground passage.❤ Give those cardmasters cowering in the back something to really feel dispair over~❤
+{主人公}、あなたの喘ぎ声を、この地下通路中に響かせなさい❤\n後ろでおびえて見てるあのカードマスターたちに、\nもっと絶望を教えてあげるの❤,{主人公}; let your moans echo throughout this underground passage.❤ Give those cardmasters cowering in the back something to really feel despair over~❤
 あの{主人公}ですら、\nサキュバスにはかなわないんだって、\nその現実を見せつけてあげるのよ❤,Even {主人公} is no match for a succubus—show them the reality of this fact.❤
 さあ、これでとどめ❤,Now; let me finish you off.❤
 あふっ❤あっ、んっ❤エルルさんっ❤\nんーっ、エルルさんっ❤❤あふぅあっ❤❤,Ahhh~❤ Ah; nnh~❤ Elulu~❤ Mmmph—! Elulu~❤❤ Ahhhn~❤❤
@@ -467,7 +467,7 @@ OPをスキップ,Skip the opening
 {主人公}、わたしあなたのことが好きなの❤\nだから、わたしにあなたの命をちょうだい❤\nサキュバスのドレインキスは気持ちいいわよ？うふふふ❤,I love you; {主人公}.❤ So give me your life.❤ A succubus's drain kiss feels amazing; you know? Ufufufu!❤
 サキュバスのドレインキスは気持ちいいわよ？うふふふ❤,A succubus's drain kiss feels amazing; you know? Ufufufu~❤
 （んぐっ、ううっ・・・❤舌がからみついてきて・・・❤\nきもちいいっ❤力が抜ける❤ああ・・・❤\nでも、負けるわけには・・・❤）,(Nngh; ugh...❤ Her tongue is coiling around mine...❤ It feels so good~❤ I'm losing strength.❤ Ahh...❤ But I can't... lose...❤)
-なんとかキスに抵抗して一撃を与えた,Somehow resisted the kiss and land a hit
+なんとかキスに抵抗して一撃を与えた,Somehow resisted the kiss and landed a hit
 体から力が抜けてしまった,Lean into the kiss
 うそ、そんなっ、きゃああ！,No way; that can't be—kyaaa!
 くすくす❤それでいいのよ❤{主人公}❤\nんっちゅ❤しょせん男は、サキュバスにはかなわないの❤,*Giggle*❤ That's right.❤ {主人公}.❤ Mmwah~❤ Men can never beat a succubus in the end.❤
@@ -497,7 +497,7 @@ OPをスキップ,Skip the opening
 こんな風にバカにされても、\n頭が気持ちよすぎて、怒ることもできないでしょう？\nほら、ほら、ほら❤サキュバスのおっぱいに負けて射精しなさい❤,Even though I'm mocking you like this; your head is swimming in too much pleasure to even get angry; right? Come on; come on; come on~❤ Lose to my succubus breasts and cum for me.❤
 あなたのエナジーで敵を回復させなさい❤\nそっちが腰を振れない分、激しく叩きつけてあげる❤\nぱんぱんぱん❤って音がなるぐらいにね❤くすくす❤,Use your energy to heal your enemy.❤ Since you can't move your hips; I'll slam my tits against you hard.❤ Loud enough to make slapping sounds~❤ *Giggle*❤
 あひ、あへぇっ・・❤❤,Ahhhh; aheee...❤❤
-んふふ❤こんなに濃いの出して、\n死ぬほど気持ちよかったんじゃない？\n{主人公}も結局は男の子❤サキュバスのおっぱいには勝てないか❤,Mmfufu.❤ If you're shooiting out a load this thick... the pleasure must have been so good you felt you were going to die; right? {主人公}; in the end you're still just a boy.❤ What's the matter? Can't win against a succubus's breasts?❤
+んふふ❤こんなに濃いの出して、\n死ぬほど気持ちよかったんじゃない？\n{主人公}も結局は男の子❤サキュバスのおっぱいには勝てないか❤,Mmfufu.❤ If you're shooting out a load this thick... the pleasure must have been so good you felt you were going to die; right? {主人公}; in the end you're still just a boy.❤ What's the matter? Can't win against a succubus's breasts?❤
 その蕩けた表情、悪くないわね❤\nさ、抵抗できなくなったところで、\nこのあとはじっくり搾り取ってあげる❤,I could get used to seeing that glazed expression of yours~❤ Well then; now that you can't resist anymore; I'll be sure to take my time wringing you dry~❤
 んふふ❤谷間にたっぷり出しちゃったわね❤\nせっかく追い詰めたのにわたしは全回復❤\nあーあ、ここまでの努力が全部水の泡になっちゃった❤,Nfufu.❤ You came so much over my cleavage.❤ Even though you had me cornered; I'm fully recovered now.❤ Oh dear~ All your effort up to this point; all gone to waste!❤
 男が相手ならサキュバスが負けるわけないのよ。\n{主人公}、あなただってこのモンスターみたいに、\nわたしがメロメロにして搾りとってあげるわ❤,There's no way a succubus would lose; fighting a man. {主人公}; I'm going to make you head-over-heels for me too; just like this monster; and then milk you dry.❤
@@ -514,7 +514,7 @@ OPをスキップ,Skip the opening
 （相手はサキュバスなんだ、好きになったりエッチな気分になったら\nだめなのに・・・❤はひぃっ・・・❤\nああ、エルルさん・・・❤）,(She's a succubus; I can't let myself fall for her or get aroused; but...❤ Damn she's so sexy...❤ Ahh; Elulu...❤)
 くす❤いい顔ね❤\n快楽にさえ流されなければ、\nあなたの実力ならきっとわたしにだって勝てたでしょうに❤,*Giggle*.❤ What a lovely expression.❤ If you hadn't let yourself get swept up in pleasure; with your skills; I'm sure you could have even beaten me.❤
 {主人公}さん！ダメです、正気を取り戻して！,{主人公}! No; you have to snap out of it!
-くっ、無敗のルーキーが負けちゃうなんて…。\nサキュバスと戦うのは怖いけど…、これでもくらいなさいっ！\n灼熱の魔法よ、敵を焼き尽くせ！「フレイム」を発動！,Tch; It can't be... The Undefeated Rookie is losing...! I'm scared to fight a succubus; but... take this! Scorching magic; incinerate my enemy! Spell card activate! "Flame"!
+くっ、無敗のルーキーが負けちゃうなんて…。\nサキュバスと戦うのは怖いけど…、これでもくらいなさいっ！\n灼熱の魔法よ、敵を焼き尽くせ！「フレイム」を発動！,Tch; it can't be... The Undefeated Rookie is losing...! I'm scared to fight a succubus; but... take this! Scorching magic; incinerate my enemy! Spell card activate! "Flame"!
 ふふ、他愛ない攻撃ね❤,Fufu; such a feeble attack.❤
 エルルさんに向かって火の玉の魔法が飛び掛かる、しかしエルルさんはまるでそれを意に介さないかのように、片手を横に突き出すだけで火の玉を受け止めてしまった。,The fireball spell flew toward Elulu; but she didn't seem bothered by it at all—she simply held out one hand to the side and caught the attack.
 手に当たった火の玉はそのまま、ぷすぷすとくすぶったあと、影に飲み込まれてしまう。,The fireball that hit her hand smolders and fizzles out before being swallowed by shadows.
@@ -547,7 +547,7 @@ Bランクマスターとして、無敗のルーキーとして、\nそんな�
 すべてを吸いつくしてあげる❤\n魅了の効果が解けても、わたしのこと以外何も覚えていないぐらいに、\n何もかもドレインしてあげる❤んっ❤,I'll drain everything from you.❤ Even after the charm wears off; I'll drain you so thoroughly that you won't remember anything except me~❤ Mmm~❤
 あひ、むぐっ❤んんっー❤,Ahi; mmph!❤ Mmmm~❤
 エルルさんの唇が僕の唇に触れ、そこからとろけるような快感が流れこんでくる。,Elulu's lips pressed against mine; and a mind-melting pleasure flowed from her lips into my mind...
-快感でだらしなく開いた口に彼女の舌が入り込む。舌と舌が絡み合って、触れ合うたびに体がビクンと跳ねるほど気持ちよくて、そして・・・。,Her tongue slipped into my mouth; which—due to the pleasure I was feeling—was now hanging open as I drooled. Our tongues intertwined; and each time they touch; my body jerked with how good it felts; and then...
+快感でだらしなく開いた口に彼女の舌が入り込む。舌と舌が絡み合って、触れ合うたびに体がビクンと跳ねるほど気持ちよくて、そして・・・。,Her tongue slipped into my mouth; which—due to the pleasure I was feeling—was now hanging open as I drooled. Our tongues intertwined; and each time they touched; my body jerked with how good it felt; and then...
 あふっ、んっ、エルルさんっ、ああっ・・❤❤❤,Afuh; mmm; Elulu; aaah...❤❤❤
 体があっという間に絶頂を迎えてしまう。舌で嬲られて、ただただきもちいい。こんな快感はいままで味わったことがない。,My body reached climax in no time at all. Despite being toyed with by her tongue; all I felt was pure bliss. I've never experienced pleasure like this before.
 あ、ああっ・・・❤きもちいいっ、すきっ、あああ・・・・❤,Ah; aaah...❤ It feels so good!❤ I love you!❤ Aaaah...❤

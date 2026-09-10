@@ -1,14 +1,16 @@
 default
 お嬢様サキュバス,Elegant Succubus
 EU60_handJobAnime,
-転移魔術が使えるエリートなサキュバス。優れた血統に生まれた自分に誇りを持っており、人に守ってもらうのが当然だと思っている。戦闘能力は決して高くないが、仲間の陰に隠れながらこちらの指揮官を直接攻撃することができ、想像以上に厄介な相手である。\n\n　基本的に自分勝手な性格で召使いを大事にすることもないが、粗暴なふるまいとは裏腹にその手さばきは繊細であり、男の反応を知り尽くした動きで、彼女のことを気に入らないと思っている相手でさえ簡単に「喜ばせて」しまう。彼女の手に弱点をつかまれてしまえば、どんなリーダーであれ冷静な思考を保つことは難しいだろう。,An elite succubus who can use teleportation magic. She takes pride in her noble lineage and believes it only natural for others to protect her. Though her combat ability is nothing exceptional; she is able to hide behind her allies while targeting the cardmaster directly; making her a formidable opponent who is not to be underestimated.\n\nShe is quite selfish and dismissive of her servants; but although her behavior is crass; she is refined in her hand movements. An expert on men's reactions; she can easily "pleasure" even those who despise her. Any leader whose weakness is discovered by her will find it difficult to maintainn their composure. 
+転移魔術が使えるエリートなサキュバス。優れた血統に生まれた自分に誇りを持っており、人に守ってもらうのが当然だと思っている。戦闘能力は決して高くないが、仲間の陰に隠れながらこちらの指揮官を直接攻撃することができ、想像以上に厄介な相手である。\n\n　基本的に自分勝手な性格で召使いを大事にすることもないが、粗暴なふるまいとは裏腹にその手さばきは繊細であり、男の反応を知り尽くした動きで、彼女のことを気に入らないと思っている相手でさえ簡単に「喜ばせて」しまう。彼女の手に弱点をつかまれてしまえば、どんなリーダーであれ冷静な思考を保つことは難しいだろう。,An elite succubus who can use teleportation magic. She takes pride in her noble lineage and believes it only natural for others to protect her. Though her combat ability is nothing exceptional; she is able to hide behind her allies while targeting the cardmaster directly; making her a formidable opponent who is not to be underestimated.\n\nShe is quite selfish and dismissive of her servants; but although her behavior is crass; she is refined in her hand movements. An expert on men's reactions; she can easily "pleasure" even those who despise her. Any leader whose weakness is discovered by her will find it difficult to maintain their composure. 
 [1].このカードが場に出たとき発動する。デッキからこのカード名以外の「サキュバス」モンスターをランダムに１枚手札に加える。\n[2].このカードは相手プレイヤーに直接攻撃できる。自分フィールド上に「{%%10060}」以外のモンスターがいる限り、相手はこのモンスターを攻撃対象に選択できない。,[1] When this card enters the field; you may add 1 random Succubus monster from your deck to your hand; except this card's name.\n[2] This card can attack your opponent directly. While you control a monster other than [{%%10060}]; this monster cannot be selected as an attack target.
 [3].自分フィールド上にこのカード以外のモンスターが存在しない場合、ターン終了時に発動する。デッキからこのカード名以外の「サキュバス」モンスターをランダムに１体特殊召喚する。,[3] If you control no other monsters except this card at the end of your turn; you may special summon 1 random Succubus monster from your deck; except those with this card's name.
 魅了状態のモンスターとの戦闘後、「身代わり」を付与する。,After combat with a charmed monster; grants "Decoy"
 あら❤理性が弱いのね。所詮は庶民ということかしら。\nわたしのマスターの胸、そんなに見つめてバカみたい❤,Ara~❤ What a weak mind you have. You are merely a commoner; after all. You look so foolish; staring at my master's chest like that.❤
+あら❤理性が弱いのね。しょせんは庶民ということかしら。\nわたしのマスターの胸、そんなに見つめてバカみたい❤,Ara~❤ What a weak mind you have. You are merely a commoner; after all. You look so foolish; staring at my master's chest like that.❤
 アナタがおっぱいに見とれている間に、\n遠くからペニスをいじめさせてもらうわ。\n好きなだけアホ面さらしておっぱい見てなさい❤,I'll simply have some fun teasing your penis from afar while you're distracted by her chest. By all means; keep ogling her with that idiotic expression on your face for as long as you like!❤
 クス❤手の中ですごく固くなってる。\nほんの数回しごいただけよ❤\nもうイきそうなんだ？早漏❤,*Giggle*❤ It got so hard in your hands after only a few strokes.❤ Are you already about to cum? Premature ejaculator~❤
 とどめ刺してあげるわ❤\nわたしの小さい手で、カリ首の裏を、\nほら、細かくシコシコシコシコ❤耐えられないでしょ？イ・ケ❤,Allow me to finish you off.❤ Using these small hands of mine; I shall stroke the tip of your penis. Here; I'll stroke it gently.❤ It feels unbearable; doesn't it? Go on. Cum~❤  
+とどめを刺してあげるわ❤\nわたしの小さい手で、カリ首の裏を、\nほら、細かくシコシコシコシコ❤耐えられないでしょ？イ・ケ❤,Allow me to finish you off.❤ Using these small hands of mine; I shall stroke the tip of your penis. Here; I'll stroke it gently.❤ It feels unbearable; doesn't it? Go on. Cum~❤  
 くす❤マスターに見限られてかわいそう❤\nあなたのマスターは、あなたのことより大きなおっぱいが大事みたいよ❤,*Giggle*❤ Poor thing; your master has abandoned you.❤ It seems your master cares more about large breasts than his own monster.❤
 呆然として隙だらけね。\nこの隙に、あなたの下半身を術で呼び寄せてっと・・・❤,You've left yourself wide open; haven't you? In which case; I shall use this chance to call over your lower body with my magic...❤
 ほら、シコシコシコ♪シコシコシコ❤\nこうなったらもう抵抗できないわ。\n下半身を捕らえられて、一方的にされるがまま❤,Take this. Stroke stroke stroke~♪ Stroke stroke stroke~❤ Now you can't resist anymore. Your lower body has been captured; so now you're at my mercy.❤
@@ -24,12 +26,12 @@ EU60_handJobAnime,
 あら、武器を構えちゃてこわい❤\nでも、そんなの無意味だわ。ほら・・・❤,Ara~ Brandishing a weapon; how scary.❤ But it's pointless. Here...❤
 下半身だけこちらに召喚❤\nさあ、無防備な平民チンポ、\nわたしが扱いて一方的に搾取してあげる❤,I've summoned just your lower body here.❤ Now; I shall directly play with and exploit this defenseless commoner's penis.❤
 あら、もう戦う気力を失って棒立ちなのね。\nそれならぞんざいに搾り取ってあげるわ。\n足であなたのおちんちんを踏みつけてっと❤,Ara~ You're just standing there; having lost the will to fight; are you? Then I shall give you a crude milking session. Let me step on your dick with my feet.❤
-まるで虫でも踏みつぶすみたいに、ぐりぐりぐり❤\nあは、喘ぎ声あげちゃって、こんな風にされるのがうれしいんだ❤\nこのロリコンマゾ❤,I'll squish it as if I'm squashing a bug between my feet.❤ Aha; you're moaning. It seems you enjoy being treated thsi way.❤ Such a filthy masochist.❤
+まるで虫でも踏みつぶすみたいに、ぐりぐりぐり❤\nあは、喘ぎ声あげちゃって、こんな風にされるのがうれしいんだ❤\nこのロリコンマゾ❤,I'll squish it as if I'm squashing a bug between my feet.❤ Aha; you're moaning. It seems you enjoy being treated this way.❤ Such a filthy masochist.❤
 ぷぷ、あんあん、あんあん女みたいに喘いじゃって、カッコ悪い❤\nほら、ロリコンマゾ❤わたしの高貴な足に屈服なさい❤\n命を吐き出すまで踏みにじってあげるわ❤,Pfft~ "Ahn~ Ahn~"... Moaning like a woman; you're so lame.❤ Come now; you filthy masochist.❤ Submit to my noble feet.❤ I'll trample you until you've released your essence.❤
 平民は近寄らないで。\nそれ以上来るなら、えいっ❤\n足で踏んで痛い目を見せてあげる❤,You'd best stay back; commoners. If you dare approach me; hmph!❤ I shall trample you and make you suffer.❤
 ちょっと何期待してるのよ。足の下で固くなっているじゃない。\nなに？小さい女の子に踏まれて興奮しちゃう変態なの？\nこうやって股間をぐりぐりぐり❤ってされるのがうれしいんだ？,Hey now; just what are you imagining? I can feel it getting hard under my feet. What? Are you a pervert who gets turned on from being trampled by a younger girl? Do you enjoy it when I rub your genitals like this?
 くすくす❤それならたっぷり踏んであげる❤\n身分が上の存在に、卑しいものを踏みつぶしてもらえること、\n感謝しなさい、平民❤,*Giggle*❤ In that case; I will step on you plenty of times.❤ Be grateful that someone so noble deigns to trample someone as lowly as you; commoner.❤
-わたしの胸じゃパイズリはできないわ…。\nでもこのすべすべのドレスに擦り付けながら、手コキしてあげると\nとっても気持ちいいのよ❤,My breasts are not suitabe for giving a boobjob... However; it will feel good if I rub this dress over your penis with a handjob.❤
+わたしの胸じゃパイズリはできないわ…。\nでもこのすべすべのドレスに擦り付けながら、手コキしてあげると\nとっても気持ちいいのよ❤,My breasts are not suitable for giving a boobjob... However; it will feel good if I rub this dress over your penis with a handjob.❤
 ほら、先っぽをおっぱいに押し付けながら、\n根元をシコシコシコ♪\nおっぱいの感触、少しは感じるかしら？,Here; just place the tip against my breasts as I stroke the base.♪ Can you feel any softness from my breasts?
 ふふ、明らかに喜んでるわね❤\nちっちゃいおっぱいでもいいなんて、見境がないのね。この変態❤\n目をハートにして小さい手にされるがまま。,Fufu; it's clear to see you're enjoying it; aren't you?❤ How broad-minded of you; accepting even small breasts. Such a pervert.❤ Your eyes are glazed over; simply letting my small hands have their way with you.
 いいわよ。出しなさい❤\n胸に向かって射精することを許してあげる。\n精液は吸収できるから服も汚れないし、胸にかけなさい。ロリコン❤,Very well. Let it all out.❤ I grant you permission to ejaculate onto my breasts. Pour your semen directly onto them so it'll get absorbed and not stain my clothes; you perv.❤
@@ -50,7 +52,7 @@ EU60_handJobAnime,
 マスターを裏切らせちゃうなんて、わたしが可愛すぎるのも罪ね❤\nいいわよ、わたしを守ることを許してあげる❤,My cuteness is practically a sin; getting you to betray your own master. Don't you think so?❤ Very well; I shall allow you to protect me.❤
 さあ、そこにかしづきなさい❤\nこれは叙勲代わりの刻印♪\nあなたの額に、んっちゅ❤,Now; please kneel here.❤ In lieu of a conferment; I shall brand you with this.♪ A kiss atop your forehead; mwah.❤
 はひっ・・・❤お嬢さま・・・❤お守りします・・・❤,Haaah...❤ Milady...❤ I will protect you...❤
-くすくす❤頭にかわいいキスマークを付けて、\nなんとも滑稽な騎士様ね❤\nせいぜい身を粉にしてわたしに尽くしなさい❤,*Giggle*❤ You're quite the silly knight with that kiss mark on your forehead; aren't you?❤ Dedicate your very life in service of me.❤
+くすくす❤頭にかわいいキスマークを付けて、\nなんとも滑稽な騎士様ね❤\nせいぜい身を粉にしてわたしに尽くしなさい❤,*Giggle*❤ You're quite the silly knight with that kiss mark on your forehead; aren't you?❤ Dedicate your very life in service to me.❤
 あら、あなたもわたしの騎士になりたいの？\nくすくす❤人気者で困っちゃう❤\nいいわよ、わたしを守ることを許してあげる❤,Ara; do you wish to become my knight as well? *Giggle*❤ It's troubling how popular I am.❤ Very well; I shall allow you to protect me.❤
 うふふ、頭にかわいいキスマークを付けて、\nなんとも滑稽な騎士様ね❤\nせいぜいあなたも、身を粉にしてわたしに尽くしなさい❤,Ufufu~ You're such a silly knight; wearing that kiss mark on your forehead.❤ Then to you as well; give your all in service of me.❤
 なに？さっきダメって言ったのが聞こえなかったの？\nこのバカ犬。,What? Did you not hear me say no just now? You stupid mutt.
@@ -58,7 +60,7 @@ EU60_handJobAnime,
 ご褒美が欲しければ、きちんと働くのよ。それぐらい犬でも分かるわ。\nほら・・・❤,If you want a reward; then you must work hard for it. Even a dog understands that. Here...❤
 あなたの額にもっと服従の証を刻んであげたわ。\nさっさと同士討ちでもなんでもしてわたしに尽くしなさい。\nわたしの騎士として、ね❤くすくす❤,I've branded another mark of submission onto your forehead. Now go fight your allies or whatever you want for my sake. As my knight; of course.❤ *Giggle*❤
 ふふ❤なに？\nマスター自らわたしに「気持ちよく」してくださいって言っちゃうの？\nあはは、平民ってプライドとかないのね❤,Fufu~❤ What's this? Does the master himself wish for me to "make him feel good"? Ahaha~ Commoners truly are a shameless bunch; aren't they?❤
-モンスターの守りをすり抜けて攻撃できるわたしの能力。\nでも、それを使う必要もなかったわ❤\nだってわたしの元に自分で攻撃を受けに来ちゃうんですもの❤,My ability allows me breach past defending monsters to attack the cardmaster directly; but it turns out it was unnecessary.❤ After all; he'll simply come over to receive my attack.❤
+モンスターの守りをすり抜けて攻撃できるわたしの能力。\nでも、それを使う必要もなかったわ❤\nだってわたしの元に自分で攻撃を受けに来ちゃうんですもの❤,My ability allows me to breach past defending monsters to attack the cardmaster directly; but it turns out it was unnecessary.❤ After all; he'll simply come over to receive my attack.❤
 わたしみたいな小さな女の子に、\n必死にぺこぺこして快楽をねだって、とってもみじめだわ❤\nチンポに脳みそ支配された存在って、本当にあわれ❤,How pathetic you are; bowing so desperately in front of a younger girl like me to beg for pleasure.❤ You creatures; who can only listen to your penises; are truly pitiful.❤
 ふふ❤なに？\nわたしに「気持ちよく」してくださいって言っちゃうの？\nあはは、平民ってプライドとかないのね❤,Fufu~❤ What's this? You wish for me to "make you feel good"? Ahaha~ Commoners truly are a shameless bunch; aren't they?❤
 でもダメよ。あなたはわたしの騎士なんでしょう？\nそれなら最後までわたしの盾として働きなさい❤,However; I refuse. You are my knight; aren't you? Then serve as my shield until the very end.❤
@@ -84,7 +86,7 @@ EU60_handJobAnime,
 くす、忠誠の証の上に、キスマークを重ねがけされるの、\n気持ちいいでしょ？\nわたしの唇で脳みその奥までジンジン溶かしてあげる❤,*Giggle*~ Having kisses planted over your mark of submission feels good; doesn't it? These lips will turn your brain to mush.❤
 これでとどめよ。むちゅって押し付けるみたいに、\nんっ、ちゅう❤,As a final send-off; one firm kiss. Mwaaaaaah~❤
 あへぇぇ・・・・❤❤,Waaaaaah...❤❤
-くすくす❤幸せそうに崩れ落ちちゃった❤\nあなたの濃い精液、なかなか悪くない味よ。\nわたしに心酔してた分、よく魔力が溶けてるわ。,*Giggle*❤ You collapsed so blissfully.❤ Your thick semen is quite delectable. The more infatuated you were with me; the more of your magic is imbued in it.
+くすくす❤幸せそうに崩れ落ちちゃった❤\nあなたの濃い精液、なかなか悪くない味よ。\nわたしに心酔してた分、よく魔力が溶けてるわ。,*Giggle*❤ You collapsed so blissfully.❤ Your thick semen is quite delectable. The more infatuated you are with me; the more of your magic is imbued in it.
 小さな女の子にいいように使われて、\nそれを最上の喜びとばかりに射精までして、\nふふ、平民ってほんとにわたしに尽くすために生まれてきたのね❤,To be the plaything of a young girl; and going so far as to ejaculate in utmost bliss... Fufu; commoners truly are born to serve me; aren't they?❤
 わたしを遠目に見ながらシコシコシコ❤\nくす、戦闘中だって分かってるのかしら。,He's masturbating over there while looking in my direction.❤ *Giggle*~ Does he realize we're in the middle of battle?
 わたしを守るモンスターの壁が多くて、もう無理だって思っちゃった？\nふふ、平民にふさわしい意志の弱さね。\n勝てない相手にはすぐこびへつらう、それでこそ平民よ❤,Did you see the wall of monsters defending me; and realize it was hopeless? Fufu; you have a weak will befitting a commoner; don't you? Being quick to suck up those they can't defeat; that's what a commoner is.❤
@@ -106,7 +108,7 @@ EU60_handJobAnime,
 ふふ、そのうめき声はなに？\nバカにされて悔しいの？それとも嬉しいの？\nロリコンマゾなんですもの、きっと嬉しいのよね❤,Fufu; what are you moaning for? Are you upset that I'm making fun of you? Or perhaps you're happy? You're a degenerate and a masochist; so you must be happy; right?❤
 その証拠におちんちんますます固くしちゃってる❤\nビンビンになってシコシコするたびに、\nあっ、あっ、って短い喘ぎ声あげて。あはは、醜悪だわ❤,I can tell by the fact that your dick is getting harder.❤ With each stroke of your hand; it grows harder as you let out another moan. Ahaha~ How unsightly.❤
 ほら、わたしが飽きないうちに、さっさと果ててしまいなさい。\n今ならあなたが扱くところジーって見ててあげる。\n出すところ、見ててほしいんでしょ？,Come now; hurry it up before I grow bored. I'm watching right now as you stroke yourself to my body. Don't you want me to watch over your ejaculation?
-あは、こうやって言ったら、扱くの早くなった❤\nそんなに自分が負けるところ見ててほしいんだ❤\nヘンタイ❤,Aha; your stroking got faster after i said that.❤ You really want me to watch you lose.❤ Pervert.❤
+あは、こうやって言ったら、扱くの早くなった❤\nそんなに自分が負けるところ見ててほしいんだ❤\nヘンタイ❤,Aha; your stroking got faster after I said that.❤ You really want me to watch you lose.❤ Pervert.❤
 しこしこしこ❤しこしこしこ❤\n腰がどんどん浮いてきて、ほらもう出ちゃう❤出しちゃう❤\nいいわよ❤イケ❤ロリコンマゾ❤,Stroke stroke stroke~❤ Stroke stroke stroke~❤ Your hips are starting to rise. Look; it's coming out.❤ It came out.❤ That's it.❤ Keep going.❤ Filthy masochist.❤
 あひぃぃ・・・・❤❤,Uwaaaa...❤❤
 くすくす❤なんともみっともない姿ね❤\nせっかくの攻撃チャンスをふいにして、\n敵にエナジー貢いじゃうなんて❤,*Giggle*❤ Such a shameful display; wasn't it?❤ You wasted such a golden opportunity to attack; and instead offered your energy to your opponent.❤
@@ -117,7 +119,7 @@ EU60_handJobAnime,
 わたしの小さな手の平に、\nその無駄に大きな体から、エナジーを吸い取られてしまうの❤\nほら、白旗上げて屈服するのよ❤ロリコンマゾチンポ❤,These small palms of mine will suck the energy right out of your needlessly large body.❤ Come now; shoot your white liquid of surrender.❤ You filthy masochist penis.❤
 男ってみんなそうなのかしら。\n次々とオナニーで負けて、ふふ、みっともない❤,Are all men the same way? Losing one after another by masturbating... Fufu; how embarrassing.❤
 くうっ、ひどいじゃない。\nこんなかよわいレディに暴力をふるうだなんて。\n平民ってやっぱり野蛮だわ。,Kuh-; how terrible. Unleashing violence upon such a weak lady; commoners are truly barbaric.
-こうなったらやけくそよ。\nほら、見なさい。わたしのスカート。\n今からめくってあなたにわたしの下着を見せてあげる❤,It seems I've been driven to a corner. Here; won't you take a look? I'll lift up my skirt and show you my underwear.❤
+こうなったらやけくそよ。\nほら、見なさい。わたしのスカート。\n今からめくってあなたにわたしの下着を見せてあげる❤,It seems I've been driven into a corner. Here; won't you take a look? I'll lift up my skirt and show you my underwear.❤
 こんな誘惑で攻撃が止まるわけなんてないけど・・・。\nってあら？意外と葛藤してる？ふふ、\nとどめを刺す前にわたしのパンツちょっと見たいなって思ってるんだ❤,As if. It's not like a temptation such as this would stop you from attacking... Oh? You seem conflicted? Fufu; I suppose you'd like a quick peek of my panties before finishing me off after all.❤
 いいわよ。わたしはここから一歩も動かないわ。\nあなたはとどめの前に、好きなだけ女の子のパンツを楽しめばいい❤\nね、悪い話ではないでしょう？,Very well. I will not take a single step from this spot; so you may enjoy the sight of my panties as much as you like before finishing me off.❤ Well; not a bad idea; right?
 じっとして、そこでわたしの脚を見ていなさい❤くすくす❤,Just stand there and watch my legs.❤ *Giggle*❤
@@ -140,7 +142,7 @@ EU60_handJobAnime,
 「素直」って言われてそんな嬉しそうな顔をしちゃって、\n別に褒めてないのよ❤むしろバカにしてるの❤\nああ、あなた変態だからバカにされた方がうれしいのかしら❤,You look so pleased at being called "honest"; even though I wasn't praising you.❤ That was intended as mockery.❤ Aah~ As a pervert; I suppose you prefer being mocked; don't you?❤
 うぐ、そんなことは・・・❤ううっ・・・❤,Ugh; there's no way...❤ Uu...❤
 ふふ、そうはいってもそんなにおちんちん反応させてたら\n説得力ないわ。\nパンチラと罵倒、どっちもうれしそうじゃない❤,Fufu~ It's not convincing if your dick keeps twitching in spite of your words. It seems either the panty shots or mockery are enough to please you.❤
-ねえ、そろそろおちんちん限界なんじゃない？\nわたしに何度もパンツを見せられて、\nムラムラがどんどん貯まっていって、今にも溢れだしそうなんでしょ❤,Say; isn't your dick reaching its limits? Your excitement has been increasing from watching me flash my panties so many times; right? Aren't you ready to burst any moment now?❤
+ねえ、そろそろおちんちん限界なんじゃない？\nわたしに何度もパンツを見せられて、\nムラムラがどんどん貯まっていって、今にも溢れだしそうなんでしょ❤,Say; isn't your dick reaching its limits? Your excitement has been increasing from watching me flash my panties so many times; right? Aren't you ready to burst at any moment now?❤
 ほらそろそろわたしにとどめを刺さなくていいの？\nわたしのパンツを見るのをやめて、\n攻撃再開しなくいいのかしら。ぴらっ❤ちらっ❤,Hey; isn't it about time to finish me off? You ought to look away from my panties now and resume your attack. Flick~❤ Peek~❤
 あひぃ、ううっ❤もうっ・・・❤,Aaaah; uu...❤ I can't...❤
 くすくす❤武器を振り上げる気配はなさそうね。\nそれどころか、おちんちんが射精の準備始めちゃってる❤\nパンチラに負けて、降参寸前❤,*Giggle*❤ I suppose you won't pick your weapon up; then? Instead; your penis seems ready to ejaculate.❤ Being driven so close to surrender; all from a few panty shots...❤
@@ -158,7 +160,7 @@ EU60_handJobAnime,
 くすくす❤ちゅってしてあげたのと同時に射精しちゃった❤\n根元からしこしこしこーって精液押し出されて、\n全然耐えられなかったわね❤人間って弱い❤,*Giggle*❤ You ejaculated just as I gave you a kiss.❤ It seems you couldn't hold back the semen forcing its way from the base of your penis; could you?❤ Humans are so weak.❤
 あは、攻撃やめて本当にシコって射精しちゃった❤\nパンチラひとつで脳みそバカにされて、\nくすくす、男ってあわれな生き物ね❤,Aha~ You actually stopped attacking to masturbate and then ejaculated.❤ Becoming so stupid just from a panty shot; *giggle*~ Males are such pathetic creatures; aren't they?❤
 ふふ❤投げキスされただけで、そんなに出しちゃうんだ。\n平民チンポ弱すぎよ。くすくす❤,Fufu~❤ A mere kiss causes this much semen to shoot out. Commoner penises are so weak. *Giggle*❤
-決着ー！！勝者はリュカ・シャルロット選手！,K.O.!! Charlotte Lucas wins! (Perfect!)*
+決着ー！！勝者はリュカ・シャルロット選手！,K.O.!! Charlotte Lucas wins!
 まさかあの無敗のルーキーが名誉Ｂランクに敗北してしまうとは！！\n衝撃の結末に会場中がどよめています！,Who could have imagined the Undefeated Rookie would be defeated by an honorary B-rank!! The whole stadium is roaring from the outcome!
 レアなサキュバスカードが大量に投入されたシャルロット選手のデッキ、\nこれがその力ということなのでしょうか！,Charlotte's deck was filled to the brim with rare succubus cards; is this their true power!?
 くすくす❤あなたが負けたこと、\n会場のみんなが驚いているわ。\nでも、そんなに驚くことじゃないわよね。だって・・・❤,*Giggle*❤ It seems everyone is shocked by your defeat. But it's not that surprising; is it? After all...❤
@@ -208,13 +210,13 @@ EU60_handJobAnime,
 ゲートの向こうで何回か射精し、最後に先端に残った精液が、ちゅぱっと唇のような感触に吸い出される。,I felt myself ejaculate several times on the other side of the portal; and then the semen left at my tip was sucked out by what felt like lips.
 僕は誰もいない宿屋で、床に倒れ伏しながらその快感に喘ぐことしかできなかった。,All I could do was collapse on the floor of the empty inn; moaning in pleasure.
 この現象はきっと先日戦ったサキュバスのせいに違いないと思った僕は、リュカ商会の店舗を訪ねていた。,Thinking this phenomenon must've been the work of the succubus I'd fought the other day; I visited the Lucas Trading Company store.
-商会の店頭は多くのお客さんでにぎわっていた。僕をダシにして宣伝したサキュバスのカードが、飛ぶように売れているようだ。,The shop was bustling with customers. Those succubus cards they'd used me to advertise for were selling like it was black friday*.
+商会の店頭は多くのお客さんでにぎわっていた。僕をダシにして宣伝したサキュバスのカードが、飛ぶように売れているようだ。,The shop was bustling with customers. Those succubus cards they'd used me to advertise for were flying off the shelves.
 僕が訪ねてきたというのを聞いて、店の奥からリュカ・シャルロットが出てきた。事情を話すと、ああ、そのことね、と分かっていた風の反応を返す。,Upon hearing of my visit; Charlotte Lucas came out from the back of the store. When I explained the situation; she replied; "Oh; I see." as if she already knew what I was talking about.
 あなたが負けたとき、あの子に支配のマークを付けられていたでしょ？\nたぶんあれの効果だと思うわ。,After you'd lost; that girl put a Mark of Domination on you; right? That was most likely the cause.
 といってもわたし自身、\nサキュバスの子たちの力を全部把握しているわけじゃないのよね。\nま、いいじゃない、気持ちよくしてもらえるなら。,That said; I'm personally not too familiar with the powers of a succubus. Well; since you got to feel good from it; isn't it fine?
 いつでもサキュバスに触ってもらえるのよ。\n男にとって夢のような話じゃない。\nくすくす❤,Now you get to have a succubus touch you anytime you'd like. Isn't that every man's fantasy? *Giggle*❤
 え？それじゃ困るって？\nまったく、わがままね。それなら直接交渉しなさい。\nわたしは忙しいの。,Eh? It's bothering you? Goodness; you're quite demanding; aren't you? In that case; please take it up with her. I'm busy.
-{自分}を召喚、えい！,With this treasure; I summon {自分}!!*
+{自分}を召喚、えい！,I call forth {自分}! Eei!!
 あら、わざわざ訪ねてきたの？\n朝は精液をごちそうさま❤\nなかなかいい朝食だったわ。,Oh my; you came all the way here? Thank you for the morning semen.❤ It made for a delightful breakfast meal.
 ああ、そっか説明しないままだったものね。驚かせちゃったのかしら。\nあなたの体はわたしのものになったの。\nわたしが望めばいつでもあなたの体の一部を召喚できるのよ。,Aah; I never did explain it; did I? It must've alarmed you. You see; your body now belongs to me. I can summon parts of you whenever I please.
 わたしがカードの中にいるときでも呼び出せるから、\nふふ、ちょっとお腹が空いたなーって時には便利ね❤\nすぐ射精するから搾るのも楽だし。くすくすくす❤,I can summon you even while in card form. Fufu; it's convenient for whenever I'm feeling peckish; isn't it?❤ You ejaculate so quickly that it's easy to milk your semen. *Giggle*❤

@@ -64,7 +64,7 @@ Place/Colosseum,
 再度話しかけていただければ、本日からでも対戦を組むことができますので、準備ができたらお声がけくださって構いませんよ。,Feel free to speak to me again when you're ready; and I'll happily arrange a match for you today.
 おや、あんた新人選手かい？\nそのリングの色、Dランクだね。,Oh hey; you're a rookie; aren't you? That ring color means you're a D-rank; right?
 闘技場では普段からカードマスターたちが試合をして\nその腕を競っているんだ。\n祭りの間はとくに試合が盛りだくさんさ。,In the colosseum; cardmasters usually compete in matches to showcase their skills. During the festival; matches here are especially common.
-国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather to battle it out... Ah; the excitment of it all. I can hardly contain myself!
+国中から集まってきたカードマスターたちの火花散らす戦い…。\nいやぁ、たまらないね。,Cardmasters from all over the country gather to battle it out... Ah; the excitement of it all. I can hardly contain myself!
 でもよ、最近は女マスターばっかり勝っててつまらねえ。\nもっと剣と剣がぶつかるような戦いを、前みたいに見たいもんだ。\n男としてあんたには期待してるぜ！,But you know; lately it's only been female masters winning; and it's actually starting to get pretty boring. I want to see battles where swords clash like they used to. So as one of the few guys still fighting; I'm counting on you!
 闘技場って、中にいるだけで何だかワクワクしてくるよな。,The colosseum... Just being here's kinda thrilling; don't you think?
 祭りの間はそこかしこでカードマスターたちが戦っているけど、\n闘技場はやっぱ真剣勝負の場って感じで雰囲気が違うぜ。\nああ、俺もカードマスターだったら参加してみてぇなぁ。,During the festival; cardmasters are battling all over the city; but the colosseum really feels like the place for more serious matches. The atmosphere just feels so different. Ah; if I were a cardmaster; I'd want to participate; too.
@@ -147,8 +147,8 @@ Dランクには落ちぶれた男性マスターがたくさんいるし、\n�
 Ｂランクにまで行くと、地域の統括者になれたり、\nギルドや国の機関で重要な役職に就けたりするらしいな。\n国全体でＢランクマスターは100人もいないんじゃないか。,Once you reach B-rank; you might get assigned as a regional overseer or hold important positions in guilds or national agencies. There actually aren't that many B-rank masters. Maybe less than 100 across the whole country.
 無敗のルーキー、あんたももうすぐＢランクだと思うと、\nすげー話だな。俺はいちファンとしてあんたのこと応援してるぜ。\n次の試合も楽しみだな。,It's pretty amazing to think that you might be B-rank soon. As a fan of yours; I'm cheering for you! I'll be looking forward to your next match.
 わー、ここが闘技場かー。\nお師匠さまの試合楽しみだなー。\nあ、こんにちは。お兄さんも試合を見に来たの？,Wow; so this is the colosseum. I'm really looking forward to Master Musashi's match. Oh; hello. Did you come to watch the match too; mister?
-わたしはね、ムサシ師匠の道場に通ってる門下生なの。\nお師匠様は、Cランクのマスターの中でも強いんだよ。\nそろそろ試合があるからって観戦に来たんだ。,I'm a student at Master Musashi's dojo. Master is one of the strongest C-rank masters around. When I heard her match is about to start; I hurried over to watch.
-お師匠様はモンスターを使わないすごくカッコいいデッキで、\n剣と盾だけでバッタバッタとモンスターたちを倒してさ、すごいんだー。\nわたしもムサシ師匠みたいに強くなりたいなー。,My master has a really cool deck that actually doesn't use any monsters. She takes down her enemies left and right with just a sword and shield. It's amazing! I want to become strong like Master Musashi some day.
+わたしはね、ムサシ師匠の道場に通ってる門下生なの。\nお師匠様は、Cランクのマスターの中でも強いんだよ。\nそろそろ試合があるからって観戦に来たんだ。,I'm a student at Master Musashi's dojo. Master is one of the strongest C-rank masters around. When I heard her match was about to start; I hurried over to watch.
+お師匠様はモンスターを使わないすごくカッコいいデッキで、\n剣と盾だけでバッタバッタとモンスターたちを倒してさ、すごいんだー。\nわたしもムサシ師匠みたいに強くなりたいなー。,My master has a really cool deck that actually doesn't use any monsters. She takes down her enemies left and right with just a sword and shield. It's amazing! I want to become strong like Master Musashi someday.
 あ、さっきのお兄さん。こんにちは。\nえ？お兄さんもカードマスターなの？へー。,Oh; you're the guy from earlier. Huh? What's that? You're a cardmaster; too? Wow.
 ねーねー、それならお兄さんもわたしたちの道場に入門しない？\nお師匠様の試合を見てさ、一緒にファンになろうよ。\nお師匠様は強くてカッコいいんだよー。,Hey; hey; why don't you join our dojo; too? We can watch my master’s match together! I'm sure you'll be her fan in no time. My master is super strong and really cool!
 あら、期待のルーキーじゃない！\nあなたいよいよ、Bランク昇格戦に挑むのよね？\n公式戦無敗でここまで行くとか、ほんとうにすごいわね！,Hey; you're the Promising Rookie! You're finally challenging the B-rank promotion match; right? It's really impressive that you've made it this far without losing a single official match!
@@ -305,7 +305,7 @@ Bランク昇格おめでとー！すごいなー！\n男のマスターでBラ�
 何も買わないなら帰っておくれ。\nこの珍しいカードもほかの人に売っちまうよ。,If you're not going to buy anything; then just go home. I'll sell this rare card to someone else!
 おや、自分のサインがどれぐらい売れてるのか見に来たのかい？\nまあまだ一勝だからね。\n闘技場のマニアがちょっと買ってくぐらいだよ。,Oh; did you come to see how much your signature is selling for? Well; you've still only won once. Only a few colosseum enthusiasts buy it!
 だけどアンタはきっと勝つね。勝ちまくってくれれば\nサインの値段は２倍にも１０倍にもなるんだ。\n楽しみにしてるから、がんばっておくれよ。,But you'll definitely keep winning; right? If you keep winning; the price of your autograph will double; or maybe even increase tenfold. I'm looking forward to it; so do your best!
-おや、なんだい、期待の新人さまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,Oh; what do we have here? the Promising Rookie. Have you changed your mind? If you sign this; I'll give you that rare card I offered earlier!
+おや、なんだい、期待の新人さまじゃないか。\n気が変わったのかい。\nサインを書いてくれれば、この珍しいカードをあげるよ。,Oh; what do we have here? The Promising Rookie. Have you changed your mind? If you sign this; I'll give you that rare card I offered earlier!
 「妖精の酒場」のミレーヌ選手のお店への地図に、\nそこの食事一覧が書いたメニューもあるよ。,I have a map to Mylene's bar; the 'Fairy Tavern'; along with a menu listing the meals served there!
 お、このサインが欲しいって？お目が高いねお客さん。\nはい、買った買った。\nありがとね。,Oh; you want this autograph? You've got good taste; my friend. Alright; alright; I'll sell it to you. Thank you very much.
 ・・・おや、また会ったね。おかげさんで中々盛況だよ。\nあんたのサインも今ちょうど売れたところさ。\n２連勝したんで少しは名前が売れてきたのかね。,...Oh; we meet again; huh? Thanks to you; business is pretty good! Your autograph just sold; too. Maybe your name is starting to get some recognition after two consecutive wins; eh?

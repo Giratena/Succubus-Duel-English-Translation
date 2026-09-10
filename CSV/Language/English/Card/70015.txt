@@ -52,3 +52,4 @@ default
 ターンを終了するぞ。,I'm going to end my turn. 
 ターンエンドだ。,Turn End. 
 俺のターンはおわりだな。ターンエンド。,I guess my turn is over. End of turn. 
+相手モンスターを戦闘で破壊したとき効果を発動！\n手札のドリルモグラを特殊召喚する！\nさらに攻撃力を800ポイントアップだ！,When Mole Chief destroys an enemy monster in battle; its effect activates! I Special Summon Driller Mole from my hand — and on top of that; Driller Mole gains 800 attack power!
